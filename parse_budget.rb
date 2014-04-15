@@ -2,7 +2,7 @@
 
 require 'csv'
 
-require './budget'
+require_relative 'lib/budget'
 
 year = ARGV[0]
 output_path = File.join(".", "output", year)

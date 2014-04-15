@@ -65,8 +65,8 @@ N_10_E_V_3_    Anexos de personal
 
 =end
 
-require './entity_breakdown'
-require './programme_breakdown'
+require_relative 'entity_breakdown'
+require_relative 'programme_breakdown'
 
 class Budget
   def initialize(path)
