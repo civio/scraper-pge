@@ -3,7 +3,9 @@
 require 'nokogiri'
 require 'open-uri'
 
-# TODO: Split into separate state/non-state classes?
+# State entity: ministries and their parts (departments, for example). Marked as type 1
+# Non-state entity: autonomus bodies (type 2), dependent agencies (3) and other bodies (4)
+# TODO: Split into separate state/non-state classes? (Doesn't seem worth it, really)
 class EntityBreakdown
   attr_reader :year, :section, :entity, :entity_type, :filename
 
