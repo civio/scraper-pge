@@ -5,8 +5,9 @@ require 'bigdecimal'
 
 require_relative 'lib/budget'
 
-year = ARGV[0]
-output_path = File.join(".", "output", year)
+budget_id = ARGV[0]
+year = budget_id[0..3]  # Sometimes there's a P for 'Proposed' at the end. Ignore that bit
+output_path = File.join(".", "output", budget_id)
 
 
 # Retrieve expenses
@@ -48,7 +49,7 @@ def extract_lines(lines, bkdown, open_headings)
 end
 
 lines = []
-Budget.new(year).entity_breakdowns.each do |bkdown|
+Budget.new(budget_id).entity_breakdowns.each do |bkdown|
   # Note: there is an unmatched closing amount, without an opening heading, at the end
   # of the page, containing the amount for the whole section/entity, so we don't start with
   # an empty vector here, we add the 'missing' opening line
@@ -71,32 +72,32 @@ def convert_number(amount)
 end
 
 def output_default_policies(csv, year)
-  policies = [["11", "JUSTICIA"],
-              ["12", "DEFENSA"],
-              ["13", "SEGURIDAD CIUDADANA E INSTITUCIONES PENITENCIARIAS"],
-              ["14", "POLÍTICA EXTERIOR"],
-              ["21", "PENSIONES"],
-              ["22", "OTRAS PRESTACIONES ECONÓMICAS"],
-              ["23", "SERVICIOS SOCIALES Y PROMOCIÓN SOCIAL"],
-              ["24", "FOMENTO DEL EMPLEO"],
-              ["25", "DESEMPLEO"],
-              ["26", "ACCESO A LA VIVIENDA Y FOMENTO DE LA EDIFICACIÓN"],
-              ["29", "GESTIÓN Y ADMINISTRACIÓN DE LA SEGURIDAD SOCIAL"],
-              ["31", "SANIDAD"],
-              ["32", "EDUCACIÓN"],
-              ["33", "CULTURA"],
-              ["41", "AGRICULTURA, PESCA Y ALIMENTACIÓN"],
-              ["42", "INDUSTRIA Y ENERGIA"],
-              ["43", "COMERCIO, TURISMO Y PYMES"],
-              ["44", "SUBVENCIONES AL TRANSPORTE"],
-              ["45", "INFRAESTRUCTURAS"],
-              ["46", "INVESTIGACIÓN, DESARROLLO E INNOVACIÓN"],
-              ["49", "OTRAS ACTUACIONES DE CARÁCTER ECONÓMICO"],
-              ["91", "ALTA DIRECCIÓN"],
-              ["92", "SERVICIOS DE CARÁCTER GENERAL"],
-              ["93", "ADMINISTRACIÓN FINANCIERA Y TRIBUTARIA"],
-              ["94", "TRANSFERENCIAS A OTRAS ADMONES. PÚBLICAS"],
-              ["95", "DEUDA PÚBLICA"] ]
+  policies = [["11", "Justicia"],
+              ["12", "Defensa"],
+              ["13", "Seguridad ciudadana e instituciones penitenciarias"],
+              ["14", "Política exterior"],
+              ["21", "Pensiones"],
+              ["22", "Otras prestaciones económicas"],
+              ["23", "Servicios sociales y promoción social"],
+              ["24", "Fomento del empleo"],
+              ["25", "Desempleo"],
+              ["26", "Acceso a la vivienda y fomento de la edificación"],
+              ["29", "Gestión y administración de la Seguridad Social"],
+              ["31", "Sanidad"],
+              ["32", "Educación"],
+              ["33", "Cultura"],
+              ["41", "Agricultura, pesca y alimentación"],
+              ["42", "Industria y energía"],
+              ["43", "Comercio, turismo y PYMES"],
+              ["44", "Subvenciones al transporte"],
+              ["45", "Infraestructuras"],
+              ["46", "Investigación, desarrollo e innovación"],
+              ["49", "Otras actuaciones de carácter económico"],
+              ["91", "Alta dirección"],
+              ["92", "Servicios de carácter general"],
+              ["93", "Administración financiera y tributaria"],
+              ["94", "Transferencias a otras admones. públicas"],
+              ["95", "Deuda pública"] ]
   policies.each do |policy|
     policy_id = policy[0]
     description = policy[1]
