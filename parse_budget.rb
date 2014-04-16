@@ -70,6 +70,46 @@ def convert_number(amount)
   BigDecimal.new( amount.delete('.').tr(',','.') ) * 1000
 end
 
+def output_default_policies(csv, year)
+  policies = [["11", "JUSTICIA"],
+              ["12", "DEFENSA"],
+              ["13", "SEGURIDAD CIUDADANA E INSTITUCIONES PENITENCIARIAS"],
+              ["14", "POLÍTICA EXTERIOR"],
+              ["21", "PENSIONES"],
+              ["22", "OTRAS PRESTACIONES ECONÓMICAS"],
+              ["23", "SERVICIOS SOCIALES Y PROMOCIÓN SOCIAL"],
+              ["24", "FOMENTO DEL EMPLEO"],
+              ["25", "DESEMPLEO"],
+              ["26", "ACCESO A LA VIVIENDA Y FOMENTO DE LA EDIFICACIÓN"],
+              ["29", "GESTIÓN Y ADMINISTRACIÓN DE LA SEGURIDAD SOCIAL"],
+              ["31", "SANIDAD"],
+              ["32", "EDUCACIÓN"],
+              ["33", "CULTURA"],
+              ["41", "AGRICULTURA, PESCA Y ALIMENTACIÓN"],
+              ["42", "INDUSTRIA Y ENERGIA"],
+              ["43", "COMERCIO, TURISMO Y PYMES"],
+              ["44", "SUBVENCIONES AL TRANSPORTE"],
+              ["45", "INFRAESTRUCTURAS"],
+              ["46", "INVESTIGACIÓN, DESARROLLO E INNOVACIÓN"],
+              ["49", "OTRAS ACTUACIONES DE CARÁCTER ECONÓMICO"],
+              ["91", "ALTA DIRECCIÓN"],
+              ["92", "SERVICIOS DE CARÁCTER GENERAL"],
+              ["93", "ADMINISTRACIÓN FINANCIERA Y TRIBUTARIA"],
+              ["94", "TRANSFERENCIAS A OTRAS ADMONES. PÚBLICAS"],
+              ["95", "DEUDA PÚBLICA"] ]
+  policies.each do |policy|
+    policy_id = policy[0]
+    description = policy[1]
+    csv << [year,
+            policy_id[0],
+            policy_id,
+            nil,
+            nil,
+            nil,  # Short description, not used
+            description ]
+  end
+end
+
 # The entity id is now five digits: section(2)+service(3, zero filled)
 # TODO: There's no need for the entity type, since the ids are already distinct. So remove
 def get_entity_id(section, service)
@@ -102,6 +142,7 @@ end
 # FIXME: This generates duplicates. Not 100% that's ok
 CSV.open(File.join(output_path, "estructura_funcional.csv"), "w", col_sep: ';') do |csv|
   csv << ["EJERCICIO","GRUPO","FUNCION","SUBFUNCION","PROGRAMA","DESCRIPCION CORTA","DESCRIPCION LARGA"]
+  output_default_policies(csv, year)
   lines.each do |line|
     next if line[:programme].nil? or line[:programme].empty?
     next unless line[:economic_concept].nil? or line[:economic_concept].empty?
