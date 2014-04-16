@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'csv'
+require 'bigdecimal'
 
 require_relative 'lib/budget'
 
@@ -63,8 +64,10 @@ end
 
 
 # Output data spread across a number of files
+
+# Reads a number in spanish notation. Also note input number is in thousands of euros.
 def convert_number(amount)
-  amount.delete('.').tr(',','.')
+  BigDecimal.new( amount.delete('.').tr(',','.') ) * 1000
 end
 
 # The entity id is now five digits: section(2)+service(3, zero filled)
@@ -135,7 +138,7 @@ CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
             line[:economic_concept], 
             'XXX', 
             line[:description],
-            convert_number(line[:amount]) ]
+            convert_number(line[:amount]).to_int ]
   end
 end
 
