@@ -76,10 +76,19 @@ end
 
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
   csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
-  csv << [year, "G", "1", nil, nil, nil, nil, "Gastos de personal"]
-  csv << [year, "G", "1", "10", nil, nil, nil, "Salarios"]
-  csv << [year, "G", "1", "10", "100", nil, nil, "Whatever"]
-  csv << [year, "G", "1", "10", "100", "100000", nil, "Retribuciones básicas de Altos Cargos"]
+  lines.each do |line|
+    next if line[:economic_concept].nil? or line[:economic_concept].empty?
+    next if line[:economic_concept].length != 2  # FIXME
+    concept = line[:economic_concept]
+    csv << [year, 
+            "G",
+            concept[0], 
+            concept[0..1],
+            nil,  # FIXME
+            nil,  # FIXME
+            nil,  # Short description, not used
+            line[:description] ]
+  end
 end
 
 CSV.open(File.join(output_path, "estructura_financiacion.csv"), "w", col_sep: ';') do |csv|
