@@ -72,7 +72,12 @@ def convert_number(amount)
 end
 
 def output_default_policies(csv, year)
-  policies = [["11", "Justicia"],
+  policies = [["1", "Servicios públicos básicos"],
+              ["2", "Protección y promoción social"],
+              ["3", "Bienes públicos de carácter preferente"],
+              ["4", "Actuaciones de carácter económico"],
+              ["9", "Actuaciones de carácter general"],
+              ["11", "Justicia"],
               ["12", "Defensa"],
               ["13", "Seguridad ciudadana e instituciones penitenciarias"],
               ["14", "Política exterior"],
