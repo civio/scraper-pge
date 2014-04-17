@@ -116,19 +116,13 @@ end
 
 # TODO: Because of the way we're extracting Social Security budget, we don't get the 
 # list of bodies spending it, so we have to add them manually. Cleaner way of doing this?
-def output_default_bodies(csv, year)
+def get_default_bodies
   # TODO: Double check these are correct, got them from an old DVMI hack
-  bodies = [["60001", "Pensiones y Prestaciones Económicas de la Seguridad Social"],
-            ["60002", "Prest. Asistenciales, Sanitarias Y Sociales Del Ingesa Y Del Inserso"],
-            ["60003", "Dirección Y Serv. Generales De Seguridad Social Y Protección Social"] ]
-  bodies.each do |body|
-    body_id = body[0]
-    description = body[1]
-    csv << [year,
-            body_id,
-            nil,  # Short description, not used
-            description]
-  end
+  bodies = {}
+  bodies[get_entity_id('60', '1')] = { description: "Pensiones y Prestaciones Económicas de la Seguridad Social" }
+  bodies[get_entity_id('60', '2')] = { description: "Prest. Asistenciales, Sanitarias Y Sociales Del Ingesa Y Del Inserso" }
+  bodies[get_entity_id('60', '3')] = { description: "Dirección Y Serv. Generales De Seguridad Social Y Protección Social" }
+  bodies
 end
 
 # The entity id is now five digits: section(2)+service(3, zero filled)
@@ -189,12 +183,16 @@ CSV.open(File.join(output_path, "estructura_funcional.csv"), "w", col_sep: ';') 
 end
 
 CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') do |csv|
-  csv << ["EJERCICIO","CENTRO GESTOR","DESCRIPCION CORTA","DESCRIPCION LARGA"]
-  output_default_bodies(csv, year)
+  bodies = get_default_bodies
   lines.each do |line|
     next unless line[:programme].nil? or line[:programme].empty?
+    bodies[get_entity_id(line[:section], line[:service])] = line
+  end
+
+  csv << ["EJERCICIO","CENTRO GESTOR","DESCRIPCION CORTA","DESCRIPCION LARGA"]
+  bodies.sort.each do |body_id, line|
     csv << [year,
-            get_entity_id(line[:section], line[:service]),
+            body_id,
             nil,  # Short description, not used
             line[:description]]
   end
