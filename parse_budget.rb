@@ -119,6 +119,7 @@ end
 def get_default_bodies
   # TODO: Double check these are correct, got them from an old DVMI hack
   bodies = {}
+  bodies[get_entity_id('60', nil)] = { description: "Seguridad Social" }
   bodies[get_entity_id('60', '1')] = { description: "Pensiones y Prestaciones Económicas de la Seguridad Social" }
   bodies[get_entity_id('60', '2')] = { description: "Prest. Asistenciales, Sanitarias Y Sociales Del Ingesa Y Del Inserso" }
   bodies[get_entity_id('60', '3')] = { description: "Dirección Y Serv. Generales De Seguridad Social Y Protección Social" }
