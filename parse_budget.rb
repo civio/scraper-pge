@@ -63,6 +63,10 @@ Budget.new(budget_id).entity_breakdowns.each do |bkdown|
   extract_lines(lines, bkdown, open_headings)
 end
 
+Budget.new(budget_id).programme_breakdowns.each do |bkdown|
+  extract_lines(lines, bkdown, [])
+end
+
 
 # Output data spread across a number of files
 
@@ -77,6 +81,8 @@ def output_default_policies(csv, year)
               ["3", "Bienes públicos de carácter preferente"],
               ["4", "Actuaciones de carácter económico"],
               ["9", "Actuaciones de carácter general"],
+              ["0", "000X"],  # FIXME
+              ["00", "000X"],
               ["11", "Justicia"],
               ["12", "Defensa"],
               ["13", "Seguridad ciudadana e instituciones penitenciarias"],
@@ -113,6 +119,23 @@ def output_default_policies(csv, year)
             nil,
             nil,  # Short description, not used
             description ]
+  end
+end
+
+# TODO: Because of the way we're extracting Social Security budget, we don't get the 
+# list of bodies spending it, so we have to add them manually. Cleaner way of doing this?
+def output_default_bodies(csv, year)
+  # TODO: Double check these are correct, got them from an old DVMI hack
+  bodies = [["60001", "Pensiones y Prestaciones Económicas de la Seguridad Social"],
+            ["60002", "Prest. Asistenciales, Sanitarias Y Sociales Del Ingesa Y Del Inserso"],
+            ["60003", "Dirección Y Serv. Generales De Seguridad Social Y Protección Social"] ]
+  bodies.each do |body|
+    body_id = body[0]
+    description = body[1]
+    csv << [year,
+            body_id,
+            nil,  # Short description, not used
+            description]
   end
 end
 
@@ -165,6 +188,7 @@ end
 
 CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') do |csv|
   csv << ["EJERCICIO","CENTRO GESTOR","DESCRIPCION CORTA","DESCRIPCION LARGA"]
+  output_default_bodies(csv, year)
   lines.each do |line|
     next unless line[:programme].nil? or line[:programme].empty?
     csv << [year,
