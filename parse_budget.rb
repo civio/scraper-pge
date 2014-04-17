@@ -146,12 +146,18 @@ def get_entity_id(section, service)
   section+service.rjust(3, '0')
 end
 
+# Collect categories first, then output, to avoid duplicates
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
-  csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
+  categories = {}
   lines.each do |line|
-    next if line[:economic_concept].nil? or line[:economic_concept].empty?
-    next if line[:economic_concept].length > 2  # FIXME
     concept = line[:economic_concept]
+    next if concept.nil? or concept.empty?
+    next if concept.length > 2  # FIXME
+    categories[concept] = line
+  end
+
+  csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
+  categories.sort.each do |concept, line|
     csv << [year, 
             "G",
             concept[0], 
