@@ -1,5 +1,22 @@
 #!/usr/bin/env ruby
 
+# Notes:
+#
+# The output includes both line items and subtotals. We expect whoever is using this data
+# to take care of avoiding double counting. In order to deduplicate the data here we would
+# need to guess what the consumer wants to do with the data (does it care about details
+# or just chapter subtotals? ...)
+#
+# We do however remove the programme-level (could be convinced about changing this) and 
+# public-body-level subtotals (because they don't fit well with the output file structure).
+#
+# Budget expenses are organized in chapters > articles > concepts > subconcepts. When looking at 
+# an expense breakdown, the sum of all the chapters (codes of the form 'n') equals the sum of all 
+# articles (codes 'nn') and the sum of all expenses (codes 'nnn'). I.e. the breakdown is exhaustive 
+# down to that level. Note however that not all concepts are broken into sub-concepts (codes 'nnnnn'); 
+# hence, adding up all the subconcepts will result in a much smaller amount.
+#
+
 require 'csv'
 require 'bigdecimal'
 
@@ -10,12 +27,7 @@ year = budget_id[0..3]  # Sometimes there's a P for 'Proposed' at the end. Ignor
 output_path = File.join(".", "output", budget_id)
 
 
-# Retrieve expenses
-# Budget expenses are organized in chapters > articles > concepts > subconcepts. When looking at 
-# an expense breakdown, the sum of all the chapters (codes of the form 'n') equals the sum of all 
-# articles (codes 'nn') and the sum of all expenses (codes 'nnn'). I.e. the breakdown is exhaustive 
-# down to that level. Note however that not all concepts are broken into sub-concepts (codes 'nnnnn'); 
-# hence, adding up all the subconcepts will result in a much smaller amount.
+# RETRIEVE BUDGET LINES
 
 def add_line(lines, line, amount)
   lines.push( line.merge({amount: amount}) )
@@ -68,7 +80,9 @@ Budget.new(budget_id).programme_breakdowns.each do |bkdown|
 end
 
 
-# Output data spread across a number of files
+#
+# OUTPUT DATA SPREAD ACROSS A NUMBER OF FILES
+#
 
 # Reads a number in spanish notation. Also note input number is in thousands of euros.
 def convert_number(amount)
@@ -203,7 +217,7 @@ CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
   expenses = []
   lines.each do |line|
     next if line[:economic_concept].nil? or line[:economic_concept].empty?
-    next if line[:economic_concept].length != 2  # FIXME
+    next if line[:economic_concept].length > 2  # FIXME: missing low level data
 
     line[:body_id] = get_entity_id(line[:section], line[:service])  # Convenient
     expenses.push line
