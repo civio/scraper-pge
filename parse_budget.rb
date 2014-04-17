@@ -200,17 +200,26 @@ CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') d
 end
 
 CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
-  csv << ["EJERCICIO","CENTRO GESTOR","FUNCIONAL","ECONOMICA","FINANCIACION","DESCRIPCION","IMPORTE"]
+  expenses = []
   lines.each do |line|
     next if line[:economic_concept].nil? or line[:economic_concept].empty?
     next if line[:economic_concept].length != 2  # FIXME
+
+    line[:body_id] = get_entity_id(line[:section], line[:service])  # Convenient
+    expenses.push line
+  end
+
+  csv << ["EJERCICIO","CENTRO GESTOR","FUNCIONAL","ECONOMICA","FINANCIACION","DESCRIPCION","IMPORTE"]
+  expenses.sort do |a,b| 
+    [a[:programme], a[:body_id], a[:economic_concept]] <=> [b[:programme], b[:body_id], b[:economic_concept]]
+  end.each do |expense|
     csv << [year, 
-            get_entity_id(line[:section], line[:service]),
-            line[:programme], 
-            line[:economic_concept], 
+            expense[:body_id],
+            expense[:programme], 
+            expense[:economic_concept], 
             'XXX', 
-            line[:description],
-            convert_number(line[:amount]).to_int ]
+            expense[:description],
+            convert_number(expense[:amount]).to_int ]
   end
 end
 
