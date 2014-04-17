@@ -10,6 +10,9 @@
 # We do however remove the programme-level (could be convinced about changing this) and 
 # public-body-level subtotals (because they don't fit well with the output file structure).
 #
+# This is also related to the following. TODO: Expand, and add that in some cases (Social
+# Security at least, maybe others) some breakdown stops at the chapter level.
+#
 # Budget expenses are organized in chapters > articles > concepts > subconcepts. When looking at 
 # an expense breakdown, the sum of all the chapters (codes of the form 'n') equals the sum of all 
 # articles (codes 'nn') and the sum of all expenses (codes 'nnn'). I.e. the breakdown is exhaustive 
