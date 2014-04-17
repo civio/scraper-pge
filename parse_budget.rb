@@ -75,7 +75,7 @@ def convert_number(amount)
   BigDecimal.new( amount.delete('.').tr(',','.') ) * 1000
 end
 
-def get_default_policies
+def get_default_policies_and_programmes
   {
     "0" => { description: "000X" }, # FIXME
     "00" => { description: "000X" },
@@ -166,18 +166,18 @@ CSV.open(File.join(output_path, "estructura_financiacion.csv"), "w", col_sep: ';
   csv << [year, "G", "X", "XX", "XXX", "Gastos", ""]
 end
 
-# Collect categories first, then output, to avoid duplicates
+# Collect programmes first, then output, to avoid duplicates
 CSV.open(File.join(output_path, "estructura_funcional.csv"), "w", col_sep: ';') do |csv|
-  categories = get_default_policies
+  programmes = get_default_policies_and_programmes
   lines.each do |line|
     programme = line[:programme]
     next if programme.nil? or programme.empty?
     next unless line[:economic_concept].nil? or line[:economic_concept].empty?
-    categories[programme] = line
+    programmes[programme] = line
   end
 
   csv << ["EJERCICIO","GRUPO","FUNCION","SUBFUNCION","PROGRAMA","DESCRIPCION CORTA","DESCRIPCION LARGA"]
-  categories.sort.each do |programme, line|
+  programmes.sort.each do |programme, line|
     csv << [year,
             programme[0],
             programme[0..1],
