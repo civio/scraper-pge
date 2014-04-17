@@ -75,51 +75,43 @@ def convert_number(amount)
   BigDecimal.new( amount.delete('.').tr(',','.') ) * 1000
 end
 
-def output_default_policies(csv, year)
-  policies = [["1", "Servicios públicos básicos"],
-              ["2", "Protección y promoción social"],
-              ["3", "Bienes públicos de carácter preferente"],
-              ["4", "Actuaciones de carácter económico"],
-              ["9", "Actuaciones de carácter general"],
-              ["0", "000X"],  # FIXME
-              ["00", "000X"],
-              ["11", "Justicia"],
-              ["12", "Defensa"],
-              ["13", "Seguridad ciudadana e instituciones penitenciarias"],
-              ["14", "Política exterior"],
-              ["21", "Pensiones"],
-              ["22", "Otras prestaciones económicas"],
-              ["23", "Servicios sociales y promoción social"],
-              ["24", "Fomento del empleo"],
-              ["25", "Desempleo"],
-              ["26", "Acceso a la vivienda y fomento de la edificación"],
-              ["29", "Gestión y administración de la Seguridad Social"],
-              ["31", "Sanidad"],
-              ["32", "Educación"],
-              ["33", "Cultura"],
-              ["41", "Agricultura, pesca y alimentación"],
-              ["42", "Industria y energía"],
-              ["43", "Comercio, turismo y PYMES"],
-              ["44", "Subvenciones al transporte"],
-              ["45", "Infraestructuras"],
-              ["46", "Investigación, desarrollo e innovación"],
-              ["49", "Otras actuaciones de carácter económico"],
-              ["91", "Alta dirección"],
-              ["92", "Servicios de carácter general"],
-              ["93", "Administración financiera y tributaria"],
-              ["94", "Transferencias a otras admones. públicas"],
-              ["95", "Deuda pública"] ]
-  policies.each do |policy|
-    policy_id = policy[0]
-    description = policy[1]
-    csv << [year,
-            policy_id[0],
-            policy_id,
-            nil,
-            nil,
-            nil,  # Short description, not used
-            description ]
-  end
+def get_default_policies
+  {
+    "0" => { description: "000X" }, # FIXME
+    "00" => { description: "000X" },
+
+    "1" => { description: "Servicios públicos básicos" },
+    "2" => { description: "Protección y promoción social" },
+    "3" => { description: "Bienes públicos de carácter preferente" },
+    "4" => { description: "Actuaciones de carácter económico" },
+    "9" => { description: "Actuaciones de carácter general" },
+    "11" => { description: "Justicia" },
+    "12" => { description: "Defensa" },
+    "13" => { description: "Seguridad ciudadana e instituciones penitenciarias" },
+    "14" => { description: "Política exterior" },
+    "21" => { description: "Pensiones" },
+    "22" => { description: "Otras prestaciones económicas" },
+    "23" => { description: "Servicios sociales y promoción social" },
+    "24" => { description: "Fomento del empleo" },
+    "25" => { description: "Desempleo" },
+    "26" => { description: "Acceso a la vivienda y fomento de la edificación" },
+    "29" => { description: "Gestión y administración de la Seguridad Social" },
+    "31" => { description: "Sanidad" },
+    "32" => { description: "Educación" },
+    "33" => { description: "Cultura" },
+    "41" => { description: "Agricultura, pesca y alimentación" },
+    "42" => { description: "Industria y energía" },
+    "43" => { description: "Comercio, turismo y PYMES" },
+    "44" => { description: "Subvenciones al transporte" },
+    "45" => { description: "Infraestructuras" },
+    "46" => { description: "Investigación, desarrollo e innovación" },
+    "49" => { description: "Otras actuaciones de carácter económico" },
+    "91" => { description: "Alta dirección" },
+    "92" => { description: "Servicios de carácter general" },
+    "93" => { description: "Administración financiera y tributaria" },
+    "94" => { description: "Transferencias a otras admones. públicas" },
+    "95" => { description: "Deuda pública" }    
+  }
 end
 
 # TODO: Because of the way we're extracting Social Security budget, we don't get the 
@@ -174,14 +166,18 @@ CSV.open(File.join(output_path, "estructura_financiacion.csv"), "w", col_sep: ';
   csv << [year, "G", "X", "XX", "XXX", "Gastos", ""]
 end
 
-# FIXME: This generates duplicates. Not 100% that's ok
+# Collect categories first, then output, to avoid duplicates
 CSV.open(File.join(output_path, "estructura_funcional.csv"), "w", col_sep: ';') do |csv|
-  csv << ["EJERCICIO","GRUPO","FUNCION","SUBFUNCION","PROGRAMA","DESCRIPCION CORTA","DESCRIPCION LARGA"]
-  output_default_policies(csv, year)
+  categories = get_default_policies
   lines.each do |line|
-    next if line[:programme].nil? or line[:programme].empty?
-    next unless line[:economic_concept].nil? or line[:economic_concept].empty?
     programme = line[:programme]
+    next if programme.nil? or programme.empty?
+    next unless line[:economic_concept].nil? or line[:economic_concept].empty?
+    categories[programme] = line
+  end
+
+  csv << ["EJERCICIO","GRUPO","FUNCION","SUBFUNCION","PROGRAMA","DESCRIPCION CORTA","DESCRIPCION LARGA"]
+  categories.sort.each do |programme, line|
     csv << [year,
             programme[0],
             programme[0..1],
