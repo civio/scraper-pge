@@ -189,9 +189,9 @@ CSV.open(File.join(output_path, "estructura_funcional.csv"), "w", col_sep: ';') 
   programmes.sort.each do |programme, line|
     csv << [year,
             programme[0],
-            programme[0..1],
-            programme[0..2],
-            programme,
+            programme.length >= 2 ? programme[0..1] : nil,
+            programme.length >= 3 ? programme[0..2] : nil,
+            programme.length >= 4 ? programme : nil,
             nil,  # Short description, not used
             line[:description] ]
   end
