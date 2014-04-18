@@ -4,11 +4,11 @@ require 'nokogiri'
 require 'open-uri'
 
 # About the entity type:
-#   - State: ministries and their parts (departments, for example). Marked as type 1
+#   - State: ministries and their parts (departments, for example) are marked as type 1
 #   - Non-state: autonomus bodies (type 2), dependent agencies (3) and other bodies (4)
 #
 class EntityBreakdown
-  attr_reader :year, :section, :entity, :entity_type, :filename
+  attr_reader :year, :section, :entity, :filename
 
   def initialize(filename)
     # The filename structure changed in 2012, so we need to start by finding out the year
@@ -17,11 +17,17 @@ class EntityBreakdown
     # Once the year is known, we can extract additional details from the filename
     @filename = filename
     filename =~ EntityBreakdown.get_expense_breakdown_filename_regex(@year, is_state_entity?)
-    @entity_type = $2                       # Always 1 for state entities, 2-4 for non-state
     @section = $3                           # Parent section
     @entity = $4 unless is_state_entity?    # Id of the non-state entity
+
+    # Not used anymore, but since it was implemented already...
+    # (Doesn't combine well with ProgrammeBreakdown, with different entities sitting
+    # in the same page.)
+    # @entity_type = $2                     # Always 1 for state entities, 2-4 for non-state
   end
   
+  # We know whether an entity is state or not by trying to match the filename against
+  # the regex for state entities. If it works, we were right.
   def is_state_entity?
     @filename =~ EntityBreakdown.get_expense_breakdown_filename_regex(@year, true)    
   end

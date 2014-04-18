@@ -51,7 +51,6 @@ def extract_lines(lines, bkdown, open_headings)
     partial_line = {
       year: bkdown.year,
       section: bkdown.section,
-      entity_type: bkdown.entity_type,
       service: row[:service],
       programme: row[:programme],
       economic_concept: row[:expense_concept],
@@ -81,7 +80,6 @@ Budget.new(budget_id).entity_breakdowns.each do |bkdown|
   open_headings = [{
     year: bkdown.year,
     section: bkdown.section,
-    entity_type: bkdown.entity_type,
     service: bkdown.is_state_entity? ? '' : bkdown.entity,
     description: bkdown.name
   }]

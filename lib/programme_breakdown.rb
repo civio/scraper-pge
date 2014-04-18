@@ -32,17 +32,6 @@ class ProgrammeBreakdown
     doc.css('.S0ESTILO3').first.text.strip =~ /^Sección: (\d\d) .+$/
     $1
   end
-
-  # Note: as opposed to the case of the EntityBreakdown, there's not just one type of entity 
-  #       doing the spending, we have the state (type 1) and dependent agencies (types 2-4)
-  #       all together. See [1] for example.
-  #       TODO: this data is not actually used at the moment, should fix or remove.
-  #
-  # [4]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_118_1_1_1_1333A_2.HTM
-  #
-  def entity_type
-    '1'
-  end
   
   def programme_name
     doc.css('.S0ESTILO3').last.text.strip =~ /^Programa: \d\d\d\w (.+)$/
