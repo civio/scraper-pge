@@ -152,7 +152,6 @@ def get_default_bodies
 end
 
 # The entity id is now five digits: section(2)+service(3, zero filled)
-# TODO: There's no need for the entity type, since the ids are already distinct. So remove
 def get_entity_id(section, service)
   return section if service.nil? or service.empty?
   section+service.rjust(3, '0')
