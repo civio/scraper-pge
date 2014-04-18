@@ -31,6 +31,16 @@ output_path = File.join(".", "output", budget_id)
 
 
 # RETRIEVE BUDGET LINES
+#
+# Note: the breakdowns in the Green books (Serie Verde) have more detail on the line
+#       items, but they do not include the Social Security programmes. So we need to
+#       combine both in order to get the full budget. (Or we could use only the Red ones, 
+#       but we'd lose quite a bit of detail. Compare f.ex. the chapter 1/2 detail for
+#       programme 333A in the green [1] vs red [2] pages.)
+#
+# [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_V_1_101_1_1_2_2_118_1_2.HTM
+# [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_118_1_1_1_1333A_2.HTM
+#
 
 def add_line(lines, line, amount)
   lines.push( line.merge({amount: amount}) )

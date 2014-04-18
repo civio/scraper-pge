@@ -3,14 +3,20 @@
 require 'nokogiri'
 require 'open-uri'
 
-# Parser for programme expense breakdowns (Serie Roja / Red books)
+# Parser for programme expense breakdowns (Serie Roja / Red books), i.e. pages like [1].
 #
-# Note: the breakdowns in the Green books (Serie Verde) have more detail on the line
-#       items, but they do not include the Social Security expenses. So we need to
-#       combine both. (Or use only the Red ones, but since I started with the green
-#       ones... oh, well.)
+# Note: for some unknown reason, chapter 6 items are not broken down into articles. This 
+#       seems to happen everywhere, not just for Social Security or for a particular programme
+#       (f.ex. [2]). Bizarrely, the 'programme summaries' [3] do contain the chapter 6 breakdown,
+#       but many other details are missing: compare [3] with [1]. At the moment we do not try 
+#       to combine [1] and [3] to get the full picture, we learn to live with [1] instead, 
+#       and thank our burocratic overlords.
 #
-# NOTE: WORKS ONLY FOR SOCIAL SECURITY PROGRAMMES RIGHT NOW (FIXME?!?)
+# Note: This parser has only been tested with the Social Security (section 60) programmes.
+#
+# [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_2_1_G_1_1_1312B_P.HTM
+# [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_116_1_1_1_1131M_2.HTM
+# [3]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_2_1_G_1_1_1312B_O.HTM
 #
 class ProgrammeBreakdown
   attr_reader :year, :programme
@@ -27,12 +33,12 @@ class ProgrammeBreakdown
     $1
   end
 
-  # Note: as opposed to the case of the EntityBreakdown, we can't know from the 
-  #       programme breakdown what type of entity is doing the expense, i.e. whether 
-  #       it's part of the state (type 1) or it's a dependent agency (types 2-4).
-  #       The entity breakdown parser extracts this information, but it's not actually used
-  #       at the moment, so it's not an issue. If needed, there should exist an Entity table
-  #       with this type of info, instead of having one single data table (TODO).
+  # Note: as opposed to the case of the EntityBreakdown, there's not just one type of entity 
+  #       doing the spending, we have the state (type 1) and dependent agencies (types 2-4)
+  #       all together. See [1] for example.
+  #       TODO: this data is not actually used at the moment, should fix or remove.
+  #
+  # [4]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_118_1_1_1_1333A_2.HTM
   #
   def entity_type
     '1'
@@ -52,6 +58,8 @@ class ProgrammeBreakdown
     rows.map do |row|
       columns = row.css('td').map{|td| td.text.strip}
       expense = {
+        # TODO: If you see [4] above, not Social Security, it's actually xx.xxx. And
+        #   there are probably x.xx out there somewhere.
         :service => columns[0].slice(3..4), # section.service comes in the form xx.xx
         :programme => @programme, 
         :expense_concept => columns[1], 
