@@ -46,7 +46,7 @@ def add_line(lines, line, amount)
   lines.push( line.merge({amount: amount}) )
 end
 
-def extract_lines(lines, bkdown, open_headings)
+def extract_lines(lines, bkdown, open_subtotals)
   bkdown.expenses.each do |row|
     partial_line = {
       year: bkdown.year,
@@ -57,14 +57,14 @@ def extract_lines(lines, bkdown, open_headings)
       description: row[:description]
     }
   
-    # The total amounts for service/programme/chapter headings is shown when the heading is closed,
+    # The total amounts for service/programme/chapter headings is shown when the subtotal is closed,
     # not opened, so we need to keep track of the open ones, and print them when closed.
     # TODO: All this may not be needed if we just throw away the chapter-level subtotals, I think
     # (Hmm, but we use that for the other categories, right?)
     if ( row[:amount].empty? )              # opening heading
-      open_headings << partial_line
+      open_subtotals << partial_line
     elsif ( row[:expense_concept].empty? )  # closing heading
-      last_heading = open_headings.pop()
+      last_heading = open_subtotals.pop()
       add_line(lines, last_heading, row[:amount]) unless last_heading.nil?
     else                                    # standard data row
       add_line(lines, partial_line, row[:amount])
@@ -74,16 +74,16 @@ end
 
 lines = []
 Budget.new(budget_id).entity_breakdowns.each do |bkdown|
-  # Note: there is an unmatched closing amount, without an opening heading, at the end
+  # Note: there is an unmatched closing amount, without an opening subtotal header, at the end
   # of the page, containing the amount for the whole section/entity, so we don't start with
   # an empty vector here, we add the 'missing' opening line
-  open_headings = [{
+  open_subtotals = [{
     year: bkdown.year,
     section: bkdown.section,
     service: bkdown.is_state_entity? ? '' : bkdown.entity,
     description: bkdown.name
   }]
-  extract_lines(lines, bkdown, open_headings)
+  extract_lines(lines, bkdown, open_subtotals)
 end
 
 Budget.new(budget_id).programme_breakdowns.each do |bkdown|
@@ -160,30 +160,50 @@ end
 # Collect categories first, then output, to avoid duplicated chapters and articles.
 # Important note: descriptions are consistent across the PGE budgets for chapters (x)
 # and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
-# 
+# Subheadings (xxxxx) are also inconsistent, completely. Btw, there are no 4-length concepts.
+# So we are forced to do some gymnastics, and include the programme in the category id.
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
   categories = {}
   lines.each do |line|
     concept = line[:economic_concept]
     next if concept.nil? or concept.empty?
-    next if concept.length > 2  # FIXME
 
-    # Although we've checked that descriptions for chapters and articles are consistent,
-    # we have a check here just to be sure.
-    if !categories[concept].nil? and categories[concept][:description] != line[:description]
-      puts "Warning: different descriptions for economic concept #{concept}: had #{categories[concept][:description]}, now got #{line[:description]}"
+    if concept.length > 4     # Budget item -> xxxx/pppp subheading
+      # We create a dummy subheading, since we don't have one.
+      # I originally planned to skip subheadings and assign items to a heading directly,
+      # but since we're outputting subtotals there's no way of distinguishing the items
+      # from the heading subtotal then. :/ 
+      # Oh, get rid of the subtotals in the output then, I hear you say. But since the
+      # headings are not broken down exhaustively into budget items I would need to pad 
+      # the output with some 'dummy' budget items to account for the difference, and I'm
+      # not doing that, it would change the output too much.
+      concept = "#{concept[0..3]}/#{line[:programme]}"
+      categories[concept] = { description: '' } # We don't have a description :/
+
+    elsif concept.length >=3  # Heading -> xxx/pppp
+      concept = "#{concept}/#{line[:programme]}"
+      categories[concept] = line
+
+    else                      # Chapters (x) and articles (xx)
+      # Although we've checked that descriptions for chapters and articles are consistent,
+      # we have a check here just to be sure.
+      if !categories[concept].nil? and categories[concept][:description] != line[:description]
+        puts "Warning: different descriptions for economic concept #{concept}: had #{categories[concept][:description]}, now got #{line[:description]}"
+      end
+      categories[concept] = line
+
     end
-    categories[concept] = line
   end
 
   csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
   categories.sort.each do |concept, line|
+    concept, programme = concept.split('/')
     csv << [year, 
             "G",
             concept[0], 
             concept.length >= 2 ? concept[0..1] : nil,
-            concept.length >= 3 ? concept[0..2] : nil,
-            nil,  # No subheadings needed
+            !programme.nil? ? "#{concept[0..2]}/#{programme}" : nil,
+            (!programme.nil? && concept.length > 3) ? "#{concept}/#{programme}" : nil,
             nil,  # Short description, not used
             line[:description] ]
   end
@@ -236,8 +256,6 @@ CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
   expenses = []
   lines.each do |line|
     next if line[:economic_concept].nil? or line[:economic_concept].empty?
-    next if line[:economic_concept].length > 2  # FIXME: missing low level data
-
     line[:body_id] = get_entity_id(line[:section], line[:service])  # Convenient
     expenses.push line
   end
