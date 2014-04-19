@@ -157,13 +157,22 @@ def get_entity_id(section, service)
   section+service.rjust(3, '0')
 end
 
-# Collect categories first, then output, to avoid duplicates
+# Collect categories first, then output, to avoid duplicated chapters and articles.
+# Important note: descriptions are consistent across the PGE budgets for chapters (x)
+# and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
+# 
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
   categories = {}
   lines.each do |line|
     concept = line[:economic_concept]
     next if concept.nil? or concept.empty?
     next if concept.length > 2  # FIXME
+
+    # Although we've checked that descriptions for chapters and articles are consistent,
+    # we have a check here just to be sure.
+    if !categories[concept].nil? and categories[concept][:description] != line[:description]
+      puts "Warning: different descriptions for economic concept #{concept}: had #{categories[concept][:description]}, now got #{line[:description]}"
+    end
     categories[concept] = line
   end
 
@@ -173,8 +182,8 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             "G",
             concept[0], 
             concept.length >= 2 ? concept[0..1] : nil,
-            nil,  # FIXME
-            nil,  # FIXME
+            concept.length >= 3 ? concept[0..2] : nil,
+            nil,  # No subheadings needed
             nil,  # Short description, not used
             line[:description] ]
   end
