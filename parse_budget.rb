@@ -13,11 +13,11 @@
 # This is also related to the following. TODO: Expand, and add that in some cases (Social
 # Security at least, maybe others) some breakdown stops at the chapter level.
 #
-# Budget expenses are organized in chapters > articles > concepts > subconcepts. When looking at 
+# Budget expenses are organized in chapters > articles > headings > items. When looking at 
 # an expense breakdown, the sum of all the chapters (codes of the form 'n') equals the sum of all 
 # articles (codes 'nn') and the sum of all expenses (codes 'nnn'). I.e. the breakdown is exhaustive 
-# down to that level. Note however that not all concepts are broken into sub-concepts (codes 'nnnnn'); 
-# hence, adding up all the subconcepts will result in a much smaller amount.
+# down to that level. Note however that not all headings are broken into items (codes 'nnnnn'); 
+# hence, just adding up all the items will result in a much smaller amount.
 #
 
 require 'csv'
@@ -160,7 +160,6 @@ end
 # Collect categories first, then output, to avoid duplicated chapters and articles.
 # Important note: descriptions are consistent across the PGE budgets for chapters (x)
 # and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
-# Subheadings (xxxxx) are also inconsistent, completely. Btw, there are no 4-length concepts.
 # So we are forced to do some gymnastics, and include the programme in the category id.
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
   categories = {}
@@ -168,17 +167,12 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
     concept = line[:economic_concept]
     next if concept.nil? or concept.empty?
 
-    if concept.length > 4     # Budget item -> xxxx/pppp subheading
-      # We create a dummy subheading, since we don't have one.
-      # I originally planned to skip subheadings and assign items to a heading directly,
-      # but since we're outputting subtotals there's no way of distinguishing the items
-      # from the heading subtotal then. :/ 
-      # Oh, get rid of the subtotals in the output then, I hear you say. But since the
-      # headings are not broken down exhaustively into budget items I would need to pad 
-      # the output with some 'dummy' budget items to account for the difference, and I'm
-      # not doing that, it would change the output too much.
-      concept = "#{concept[0..3]}/#{line[:programme]}"
-      categories[concept] = { description: '' } # We don't have a description :/
+    if concept.length > 4     # Budget item
+      # We don't need new economic categories for these, they are items belonging to a heading.
+      # Once obstacle to this was distinguishing heading subtotals from the items themselves
+      # in the output files, but we've sorted that out through a new 'budget item' column
+      # in the output (see below).
+      next
 
     elsif concept.length >=3  # Heading -> xxx/pppp
       concept = "#{concept}/#{line[:programme]}"
@@ -260,15 +254,20 @@ CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
     expenses.push line
   end
 
-  csv << ["EJERCICIO","CENTRO GESTOR","FUNCIONAL","ECONOMICA","FINANCIACION","DESCRIPCION","IMPORTE"]
+  csv << ["EJERCICIO","CENTRO GESTOR","FUNCIONAL","ECONOMICA","FINANCIACION","ITEM","DESCRIPCION","IMPORTE"]
   expenses.sort do |a,b| 
     [a[:programme], a[:body_id], a[:economic_concept]] <=> [b[:programme], b[:body_id], b[:economic_concept]]
   end.each do |expense|
+    # Note that a five-digit economic code (xxxxx) is actually a budget item belonging to a
+    # heading (xxx). We don't discard the last two digits in the output file, as it's useful
+    # (mostly) to distinguish the items from the heading subtotal. We could have done
+    # the split earlier, but the code is simpler this way.
     csv << [year, 
             expense[:body_id],
             expense[:programme], 
-            expense[:economic_concept], 
+            expense[:economic_concept][0..2], 
             'XXX', 
+            expense[:economic_concept].length > 3 ? expense[:economic_concept][3..4] : nil,
             expense[:description],
             convert_number(expense[:amount]).to_int ]
   end
