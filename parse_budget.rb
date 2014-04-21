@@ -42,13 +42,13 @@ output_path = File.join(".", "output", budget_id)
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_V_1_101_1_1_2_2_118_1_2.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_118_1_1_1_1333A_2.HTM
 #
-lines = []
+expenses = []
 additional_institutions = []
 Budget.new(budget_id).entity_breakdowns.each do |bkdown|
-  lines.concat bkdown.expenses
+  expenses.concat bkdown.expenses
 end
 Budget.new(budget_id).programme_breakdowns.each do |bkdown|
-  lines.concat bkdown.expenses
+  expenses.concat bkdown.expenses
 
   # Because of the way we're extracting Social Security budget (from programme breakdowns,
   # not entity ones), we don't get the list of organization subtotals in the main list, 
@@ -120,7 +120,7 @@ end
 # So we are forced to do some gymnastics, and include the programme in the category id.
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
   categories = {}
-  lines.each do |line|
+  expenses.each do |line|
     concept = line[:economic_concept]
     next if concept.nil? or concept.empty?
 
@@ -163,7 +163,7 @@ end
 # Collect programmes first, then output, to avoid duplicates
 CSV.open(File.join(output_path, "estructura_funcional.csv"), "w", col_sep: ';') do |csv|
   programmes = get_default_policies_and_programmes
-  lines.each do |line|
+  expenses.each do |line|
     programme = line[:programme]
     next if programme.nil? or programme.empty?
     next unless line[:economic_concept].nil? or line[:economic_concept].empty?
@@ -184,7 +184,7 @@ end
 
 CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') do |csv|
   bodies = {}
-  lines.each do |line|
+  expenses.each do |line|
     next unless line[:programme].nil? or line[:programme].empty?
     bodies[get_entity_id(line[:section], line[:service])] = line[:description]
   end
@@ -202,15 +202,15 @@ CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') d
 end
 
 CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
-  expenses = []
-  lines.each do |line|
-    next if line[:economic_concept].nil? or line[:economic_concept].empty?
-    line[:body_id] = get_entity_id(line[:section], line[:service])  # Convenient
-    expenses.push line
+  budget_items = []
+  expenses.each do |expense|
+    next if expense[:economic_concept].nil? or expense[:economic_concept].empty?
+    expense[:body_id] = get_entity_id(expense[:section], expense[:service])  # Convenient
+    budget_items.push expense
   end
 
   csv << ["EJERCICIO","CENTRO GESTOR","FUNCIONAL","ECONOMICA","FINANCIACION","ITEM","DESCRIPCION","IMPORTE"]
-  expenses.sort do |a,b| 
+  budget_items.sort do |a,b| 
     [a[:programme], a[:body_id], a[:economic_concept]] <=> [b[:programme], b[:body_id], b[:economic_concept]]
   end.each do |expense|
     # Note that a five-digit economic code (xxxxx) is actually a budget item belonging to a
