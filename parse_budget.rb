@@ -102,14 +102,13 @@ end
 
 def get_default_policies_and_programmes
   {
-    "0" => { description: "000X" }, # FIXME
-    "00" => { description: "000X" },
-
+    "0" => { description: "Transferencias internas" },
     "1" => { description: "Servicios públicos básicos" },
     "2" => { description: "Protección y promoción social" },
     "3" => { description: "Bienes públicos de carácter preferente" },
     "4" => { description: "Actuaciones de carácter económico" },
     "9" => { description: "Actuaciones de carácter general" },
+    "00" => { description: "Transferencias internas" },
     "11" => { description: "Justicia" },
     "12" => { description: "Defensa" },
     "13" => { description: "Seguridad ciudadana e instituciones penitenciarias" },
@@ -203,11 +202,6 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
   end
 end
 
-CSV.open(File.join(output_path, "estructura_financiacion.csv"), "w", col_sep: ';') do |csv|
-  csv << ["EJERCICIO", "GASTO/INGRESO", "ORIGEN", "FONDO", "FINANCIACION", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
-  csv << [year, "G", "X", "XX", "XXX", "Gastos", ""]
-end
-
 # Collect programmes first, then output, to avoid duplicates
 CSV.open(File.join(output_path, "estructura_funcional.csv"), "w", col_sep: ';') do |csv|
   programmes = get_default_policies_and_programmes
@@ -266,7 +260,7 @@ CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
             expense[:body_id],
             expense[:programme], 
             expense[:economic_concept][0..2], 
-            'XXX', 
+            nil, 
             expense[:economic_concept].length > 3 ? expense[:economic_concept][3..4] : nil,
             expense[:description],
             convert_number(expense[:amount]).to_int ]
