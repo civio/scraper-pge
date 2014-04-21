@@ -34,6 +34,11 @@ class ProgrammeBreakdown < BaseBreakdown
     $1
   end
 
+  def section_name
+    doc.css('.S0ESTILO3').first.text.strip =~ /^Sección: \d\d (.+)$/
+    $1
+  end
+
   def programme_name
     doc.css('.S0ESTILO3').last.text.strip =~ /^Programa: \d\d\d\w (.+)$/
     $1
@@ -42,7 +47,28 @@ class ProgrammeBreakdown < BaseBreakdown
   # Returns a list of budget items and subtotals. Because of the convoluted format of the 
   # input file, with subtotals being split across two lines, some massaging is needed.
   def expenses
-    merge_subtotals(data_grid, year, section)
+    expenses = merge_subtotals(data_grid, year, section)
+  end
+
+  # Because of the way programme breakdowns are structured, we can't get institutional
+  # subtotals in the expense list, but these subtotals are useful when building the
+  # hierarchy. Hence the need for this method, who returns the list of institutions/
+  # services in the breakdown, together with their names.
+  def institutions
+    # Start with the top-level section...
+    institutions = [{ section: section, service: nil, description: section_name }]
+
+    # ...and then add the services, i.e. its departments
+    data_grid.each do |row|
+      if !row[:service_name].nil?
+        institutions.push({ 
+          section: section, 
+          service: row[:service], 
+          description: row[:service_name]
+        })
+      end
+    end
+    institutions
   end
 
   def self.programme_breakdown? (filename)
@@ -50,6 +76,11 @@ class ProgrammeBreakdown < BaseBreakdown
   end
   
   private
+
+  # section.service comes in the form xx.xxx
+  def get_section_and_service(service_id)
+    service_id.split('.')
+  end
 
   # Returns a list of column arrays containing all the information in the input data table,
   # basically unmodified, apart from two columns (service, programme) filled in, since
@@ -62,11 +93,9 @@ class ProgrammeBreakdown < BaseBreakdown
     rows = doc.css('table.S0ESTILO8 tr')[1..-1]               # 2008 onwards (earlier?)
     rows.map do |row|
       columns = row.css('td').map{|td| td.text.strip}
+      section, service = get_section_and_service(columns[0])
       item = {
-        # XXX: If you see [4] above, not Social Security, it's actually xx.xxx. And
-        #   there are probably x.xx out there somewhere. We'll need to fix this
-        #   in order to use this parser for non-Social-Security programmes.
-        :service => columns[0].slice(3..4), # section.service comes in the form xx.xx
+        :service => service,
         :programme => @programme, 
         :expense_concept => columns[1], 
         :description => columns[2],
@@ -84,7 +113,11 @@ class ProgrammeBreakdown < BaseBreakdown
         # the ones extracted from an EntityBreakdown, but here the data is presented
         # as programme>entity>item, while there they look like entity>programme>item.
         # So we need to change the subtotal description to include the programme name.
+        # (Ironically this stops us from getting the service subtotal, that would be 
+        # useful to build the institutional hierarchy. Hence the need for the `institutions`
+        # method, above.)
         item[:description] = programme_name
+        item[:service_name] = columns[2]
       end
       data_grid << item      
     end

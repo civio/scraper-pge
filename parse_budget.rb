@@ -43,11 +43,20 @@ output_path = File.join(".", "output", budget_id)
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_118_1_1_1_1333A_2.HTM
 #
 lines = []
+additional_institutions = []
 Budget.new(budget_id).entity_breakdowns.each do |bkdown|
   lines.concat bkdown.expenses
 end
 Budget.new(budget_id).programme_breakdowns.each do |bkdown|
   lines.concat bkdown.expenses
+
+  # Because of the way we're extracting Social Security budget (from programme breakdowns,
+  # not entity ones), we don't get the list of organization subtotals in the main list, 
+  # and these subtotals are the ones we use to recreate the insititutional hierarchy. 
+  # So we have to go and explicitely search for them, and add them later on.
+  # (Alternatively, we could get the whole insitutional hierarchy from programme
+  # breakdowns, but I see no point in changing what's already working.)
+  additional_institutions.concat bkdown.institutions
 end
 
 
@@ -60,6 +69,7 @@ def convert_number(amount)
   BigDecimal.new( amount.delete('.').tr(',','.') ) * 1000
 end
 
+# These policy ids and names don't change, at least since 2009
 def get_default_policies_and_programmes
   {
     "0" => { description: "Transferencias internas" },
@@ -96,18 +106,6 @@ def get_default_policies_and_programmes
     "94" => { description: "Transferencias a otras admones. públicas" },
     "95" => { description: "Deuda pública" }    
   }
-end
-
-# TODO: Because of the way we're extracting Social Security budget, we don't get the 
-# list of bodies spending it, so we have to add them manually. Cleaner way of doing this?
-def get_default_bodies
-  # TODO: Double check these are correct, got them from an old DVMI hack
-  bodies = {}
-  bodies[get_entity_id('60', nil)] = { description: "Seguridad Social" }
-  bodies[get_entity_id('60', '1')] = { description: "Pensiones y Prestaciones Económicas de la Seguridad Social" }
-  bodies[get_entity_id('60', '2')] = { description: "Prest. Asistenciales, Sanitarias Y Sociales Del Ingesa Y Del Inserso" }
-  bodies[get_entity_id('60', '3')] = { description: "Dirección Y Serv. Generales De Seguridad Social Y Protección Social" }
-  bodies
 end
 
 # The entity id is now five digits: section(2)+service(3, zero filled)
@@ -185,18 +183,21 @@ CSV.open(File.join(output_path, "estructura_funcional.csv"), "w", col_sep: ';') 
 end
 
 CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') do |csv|
-  bodies = get_default_bodies
+  bodies = {}
   lines.each do |line|
     next unless line[:programme].nil? or line[:programme].empty?
-    bodies[get_entity_id(line[:section], line[:service])] = line
+    bodies[get_entity_id(line[:section], line[:service])] = line[:description]
+  end
+  additional_institutions.each do |line|
+    bodies[get_entity_id(line[:section], line[:service])] = line[:description]
   end
 
   csv << ["EJERCICIO","CENTRO GESTOR","DESCRIPCION CORTA","DESCRIPCION LARGA"]
-  bodies.sort.each do |body_id, line|
+  bodies.sort.each do |body_id, description|
     csv << [year,
             body_id,
             nil,  # Short description, not used
-            line[:description]]
+            description]
   end
 end
 
