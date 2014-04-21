@@ -3,9 +3,13 @@
 require 'nokogiri'
 require 'open-uri'
 
+# Parser for entity expense breakdowns (Serie Verde / Green books), i.e. pages like [1].
+#
 # About the entity type:
 #   - State: ministries and their parts (departments, for example) are marked as type 1
 #   - Non-state: autonomus bodies (type 2), dependent agencies (3) and other bodies (4)
+#
+# [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_V_1_101_1_1_2_2_118_1_2.HTM
 #
 class EntityBreakdown
   attr_reader :year, :section, :entity, :filename
