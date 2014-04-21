@@ -12,7 +12,7 @@ require 'open-uri'
 #       to combine [1] and [3] to get the full picture, we learn to live with [1] instead, 
 #       and thank our burocratic overlords.
 #
-# XXX: This parser has only been tested with the Social Security (section 60) programmes.
+# XXX: This parser will only work -now- with Social Security (section 60) programmes. See below.
 #
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_2_1_G_1_1_1312B_P.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_116_1_1_1_1131M_2.HTM
@@ -32,7 +32,7 @@ class ProgrammeBreakdown
     doc.css('.S0ESTILO3').first.text.strip =~ /^Sección: (\d\d) .+$/
     $1
   end
-  
+
   def programme_name
     doc.css('.S0ESTILO3').last.text.strip =~ /^Programa: \d\d\d\w (.+)$/
     $1
@@ -68,9 +68,6 @@ class ProgrammeBreakdown
         # the ones extracted from an EntityBreakdown, but here the data is presented
         # as programme>entity>expense, while there they look like entity>programme>expense.
         # So we need to change the subtotal description to include the programme name.
-        # TODO: Using the subtotals provided in the input files was convenient at the 
-        #       beginning, but it's getting complicated. Should get rid of them. Maybe
-        #       keep the programme-level ones, but only those.
         expense[:description] = programme_name
       end
       expenses << expense      
