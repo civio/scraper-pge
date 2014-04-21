@@ -2,6 +2,7 @@
 
 require 'nokogiri'
 require 'open-uri'
+require_relative 'base_breakdown'
 
 # Parser for programme expense breakdowns (Serie Roja / Red books), i.e. pages like [1].
 #
@@ -18,7 +19,7 @@ require 'open-uri'
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_116_1_1_1_1131M_2.HTM
 # [3]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_2_1_G_1_1_1312B_O.HTM
 #
-class ProgrammeBreakdown
+class ProgrammeBreakdown < BaseBreakdown
   attr_reader :year, :programme
 
   def initialize(filename)
@@ -37,16 +38,31 @@ class ProgrammeBreakdown
     doc.css('.S0ESTILO3').last.text.strip =~ /^Programa: \d\d\d\w (.+)$/
     $1
   end
+
+  # Returns a list of budget items and subtotals. Because of the convoluted format of the 
+  # input file, with subtotals being split across two lines, some massaging is needed.
+  def expenses
+    merge_subtotals(data_grid, year, section)
+  end
+
+  def self.programme_breakdown? (filename)
+    filename=~PROGRAMME_EXPENSES_BKDOWN
+  end
   
-  def expenses    
-    expenses = []
+  private
+
+  # Returns a list of column arrays containing all the information in the input data table,
+  # basically unmodified, apart from two columns (service, programme) filled in, since
+  # in the input grid they are only shown when they change
+  def data_grid
+    data_grid = []
     last_service = ''
 
     # Iterate through HTML table, skipping header
     rows = doc.css('table.S0ESTILO8 tr')[1..-1]               # 2008 onwards (earlier?)
     rows.map do |row|
       columns = row.css('td').map{|td| td.text.strip}
-      expense = {
+      item = {
         # XXX: If you see [4] above, not Social Security, it's actually xx.xxx. And
         #   there are probably x.xx out there somewhere. We'll need to fix this
         #   in order to use this parser for non-Social-Security programmes.
@@ -56,31 +72,25 @@ class ProgrammeBreakdown
         :description => columns[2],
         :amount => (columns[3] != '') ? columns[3] : columns[4] 
       }
-      next if expense[:description].empty?  # Skip empty lines (no description)
+      next if item[:description].empty?  # Skip empty lines (no description)
 
       # Fill blanks in row and save result
-      if expense[:service].nil?
-        expense[:service] = last_service
+      if item[:service].nil?
+        item[:service] = last_service
       else
-        last_service = expense[:service]
+        last_service = item[:service]
         
         # Bit of a hack (again). We want the subtotals from this breakdown to look like
         # the ones extracted from an EntityBreakdown, but here the data is presented
-        # as programme>entity>expense, while there they look like entity>programme>expense.
+        # as programme>entity>item, while there they look like entity>programme>item.
         # So we need to change the subtotal description to include the programme name.
-        expense[:description] = programme_name
+        item[:description] = programme_name
       end
-      expenses << expense      
+      data_grid << item      
     end
-    expenses
+    data_grid
   end
-  
-  def self.programme_breakdown? (filename)
-    filename=~PROGRAMME_EXPENSES_BKDOWN
-  end
-  
-  private
-  
+
   PROGRAMME_EXPENSES_BKDOWN =      /N_(\d\d)_[AE]_R_31_2_1_G_1_1_1(\d\d\d\w)_P.HTM/;
   # Note:                                              ^ 
   #       This will catch only Social Security programme breakdowns (see Budget class for info).

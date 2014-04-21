@@ -2,6 +2,7 @@
 
 require 'nokogiri'
 require 'open-uri'
+require_relative 'base_breakdown'
 
 # Parser for entity expense breakdowns (Serie Verde / Green books), i.e. pages like [1].
 #
@@ -11,7 +12,7 @@ require 'open-uri'
 #
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_V_1_101_1_1_2_2_118_1_2.HTM
 #
-class EntityBreakdown
+class EntityBreakdown < BaseBreakdown
   attr_reader :year, :section, :entity, :filename
 
   def initialize(filename)
@@ -56,56 +57,77 @@ class EntityBreakdown
       [{:id => @entity, :name => name}]
   end
   
-  def expenses
-    # Breakdowns for state entities contain many sub-entities, whose id is contained in the rows.
-    # Breakdowns for non-state entities apply to only one child entity, which we know in advance.
-    last_service = is_state_entity? ? '' : entity
-    last_programme = ''
-    
-    # Iterate through HTML table, skipping header
-    expenses = []
-    rows = doc.css('table.S0ESTILO9 tr')[1..-1]               # 2008 (and earlier?)
-    rows = doc.css('table.S0ESTILO8 tr')[1..-1] if rows.nil?  # 2009 onwards
-    rows.each do |row|
-      columns = row.css('td').map{|td| td.text.strip}
-      columns.shift if year == '2012' or year == '2013' or year == '2014'
-      columns.insert(0,'') unless is_state_entity? # They lack the first column, 'service'
-      expense = {
-        :service => columns[0], 
-        :programme => columns[1], 
-        :expense_concept => columns[2], 
-        :description => columns[3],
-        :amount => (columns[4] != '') ? columns[4] : columns[5] 
-      }
-      next if expense[:description].empty?  # Skip empty lines (no description)
-
-      # Fill blanks in row and save result
-      if expense[:service].empty?
-        expense[:service] = last_service
-      else
-        last_service = expense[:service]
-        last_programme = ''
-      end
-      
-      if expense[:programme].empty?
-        expense[:programme] = last_programme
-      else
-        last_programme = expense[:programme] 
-      end
-      
-      expenses << expense      
-    end
-    expenses
-  end
-  
   # XXX: Refactor all this messy filename handling logic! :/
   def self.entity_breakdown? (filename)
     year = EntityBreakdown.get_year(filename)
     filename =~ get_expense_breakdown_filename_regex(year, true) || filename =~ get_expense_breakdown_filename_regex(year, false)
   end
 
+  # Returns a list of budget items and subtotals. Because of the convoluted format of the 
+  # input file, with subtotals being split across two lines, some massaging is needed.
+  def expenses
+    # The total amounts for service/programme/chapter headings is shown when the subtotal is closed,
+    # not opened, so we need to keep track of the open ones, and print them when closed.
+    # Note: there is an unmatched closing amount, without an opening subtotal header, at the end
+    # of the page, containing the amount for the whole section/entity, so we don't start with
+    # an empty vector here, we add the 'missing' opening line
+    open_subtotals = [{
+      year: year,
+      section: section,
+      service: is_state_entity? ? '' : entity,
+      description: name
+    }]
+
+    merge_subtotals(data_grid, year, section, open_subtotals)
+  end
+
   private  
-  
+
+  # Returns a list of column arrays containing all the information in the input data table,
+  # basically unmodified, apart from two columns (service, programme) filled in, since
+  # in the input grid they are only shown when they change
+  def data_grid
+    # Breakdowns for state entities contain many sub-entities, whose id is contained in the rows.
+    # Breakdowns for non-state entities apply to only one child entity, which we know in advance.
+    last_service = is_state_entity? ? '' : entity
+    last_programme = ''
+    
+    # Iterate through HTML table, skipping header
+    data_grid = []
+    rows = doc.css('table.S0ESTILO9 tr')[1..-1]               # 2008 (and earlier?)
+    rows = doc.css('table.S0ESTILO8 tr')[1..-1] if rows.nil?  # 2009 onwards
+    rows.each do |row|
+      columns = row.css('td').map{|td| td.text.strip}
+      columns.shift if year == '2012' or year == '2013' or year == '2014'
+      columns.insert(0,'') unless is_state_entity? # They lack the first column, 'service'
+      item = {
+        :service => columns[0], 
+        :programme => columns[1], 
+        :expense_concept => columns[2], 
+        :description => columns[3],
+        :amount => (columns[4] != '') ? columns[4] : columns[5] 
+      }
+      next if item[:description].empty?  # Skip empty lines (no description)
+
+      # Fill blanks in row and save result
+      if item[:service].empty?
+        item[:service] = last_service
+      else
+        last_service = item[:service]
+        last_programme = ''
+      end
+      
+      if item[:programme].empty?
+        item[:programme] = last_programme
+      else
+        last_programme = item[:programme] 
+      end
+      
+      data_grid << item      
+    end
+    data_grid
+  end
+
   def self.get_year(filename)
     filename =~ /N_(\d\d)_[AE]/
     return '20'+$1
@@ -122,7 +144,7 @@ class EntityBreakdown
         /N_(\d\d)_[AE]_V_1_10([1234])_2_2_2_1(\d\d)_1_[12]_1(\d\d\d)_1.HTM/;
     end
   end
-  
+
   def doc
     @doc = Nokogiri::HTML(open(@filename)) if @doc.nil?  # Lazy parsing of doc, only when needed
     @doc

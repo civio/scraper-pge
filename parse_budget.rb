@@ -42,53 +42,12 @@ output_path = File.join(".", "output", budget_id)
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_V_1_101_1_1_2_2_118_1_2.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_118_1_1_1_1333A_2.HTM
 #
-
-def add_line(lines, line, amount)
-  lines.push( line.merge({amount: amount}) )
-end
-
-def extract_lines(lines, bkdown, open_subtotals)
-  bkdown.expenses.each do |row|
-    partial_line = {
-      year: bkdown.year,
-      section: bkdown.section,
-      service: row[:service],
-      programme: row[:programme],
-      economic_concept: row[:expense_concept],
-      description: row[:description]
-    }
-  
-    # The total amounts for service/programme/chapter headings is shown when the subtotal is closed,
-    # not opened, so we need to keep track of the open ones, and print them when closed.
-    # TODO: All this may not be needed if we just throw away the chapter-level subtotals, I think
-    # (Hmm, but we use that for the other categories, right?)
-    if ( row[:amount].empty? )              # opening heading
-      open_subtotals << partial_line
-    elsif ( row[:expense_concept].empty? )  # closing heading
-      last_heading = open_subtotals.pop()
-      add_line(lines, last_heading, row[:amount]) unless last_heading.nil?
-    else                                    # standard data row
-      add_line(lines, partial_line, row[:amount])
-    end
-  end
-end
-
 lines = []
 Budget.new(budget_id).entity_breakdowns.each do |bkdown|
-  # Note: there is an unmatched closing amount, without an opening subtotal header, at the end
-  # of the page, containing the amount for the whole section/entity, so we don't start with
-  # an empty vector here, we add the 'missing' opening line
-  open_subtotals = [{
-    year: bkdown.year,
-    section: bkdown.section,
-    service: bkdown.is_state_entity? ? '' : bkdown.entity,
-    description: bkdown.name
-  }]
-  extract_lines(lines, bkdown, open_subtotals)
+  lines.concat bkdown.expenses
 end
-
 Budget.new(budget_id).programme_breakdowns.each do |bkdown|
-  extract_lines(lines, bkdown, [])
+  lines.concat bkdown.expenses
 end
 
 
