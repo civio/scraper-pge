@@ -35,7 +35,7 @@ class EntityBreakdown
   def name
     # Note: the name may include accented characters, so '\w' doesn't work in regex
     if is_state_entity?
-      # TODO: check years before 2008
+      # XXX: check years before 2008 before going further in time
       section_css_class = (year=='2008') ? '.S0ESTILO4' : (year=='2014' ? '.S0ESTILO3' : '.S0ESTILO2')
       doc.css(section_css_class).text.strip =~ /^Sección: \d\d (.+)$/
     else
@@ -94,7 +94,7 @@ class EntityBreakdown
     expenses
   end
   
-  # TODO: Refactor all this messy filename handling logic! :/
+  # XXX: Refactor all this messy filename handling logic! :/
   def self.entity_breakdown? (filename)
     year = EntityBreakdown.get_year(filename)
     filename =~ get_expense_breakdown_filename_regex(year, true) || filename =~ get_expense_breakdown_filename_regex(year, false)

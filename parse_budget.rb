@@ -10,16 +10,17 @@
 # We do however remove the programme-level (could be convinced about changing this) and 
 # public-body-level subtotals (because they don't fit well with the output file structure).
 #
-# This is also related to the following. TODO: Expand, and add that in some cases (Social
-# Security at least, maybe others) some breakdown stops at the chapter level.
-#
-# Budget expenses are organized in chapters > articles > headings > items. When looking at 
+# This is also related to the fact that the budget breakdown doesn't go to the same level
+# of detail for all bodies or chapters, so the output is less consistent that we'd like:
+# budget expenses are organized in chapters > articles > headings > items. When looking at 
 # an expense breakdown, the sum of all the chapters (codes of the form 'n') equals the sum of all 
 # articles (codes 'nn') and the sum of all expenses (codes 'nnn'). I.e. the breakdown is exhaustive 
 # down to that level. Note however that not all headings are broken into items (codes 'nnnnn'); 
 # hence, just adding up all the items will result in a much smaller amount.
 #
-
+# To keep things interesting, in some cases (at least chapter 6 for Social Security, see 
+# ProgrammeBreakdown notes) a chapter is not even broken down into articles.
+#
 require 'csv'
 require 'bigdecimal'
 

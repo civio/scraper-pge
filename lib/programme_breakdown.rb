@@ -12,7 +12,7 @@ require 'open-uri'
 #       to combine [1] and [3] to get the full picture, we learn to live with [1] instead, 
 #       and thank our burocratic overlords.
 #
-# Note: This parser has only been tested with the Social Security (section 60) programmes.
+# XXX: This parser has only been tested with the Social Security (section 60) programmes.
 #
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_2_1_G_1_1_1312B_P.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_116_1_1_1_1131M_2.HTM
@@ -47,8 +47,9 @@ class ProgrammeBreakdown
     rows.map do |row|
       columns = row.css('td').map{|td| td.text.strip}
       expense = {
-        # TODO: If you see [4] above, not Social Security, it's actually xx.xxx. And
-        #   there are probably x.xx out there somewhere.
+        # XXX: If you see [4] above, not Social Security, it's actually xx.xxx. And
+        #   there are probably x.xx out there somewhere. We'll need to fix this
+        #   in order to use this parser for non-Social-Security programmes.
         :service => columns[0].slice(3..4), # section.service comes in the form xx.xx
         :programme => @programme, 
         :expense_concept => columns[1], 
