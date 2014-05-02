@@ -1,1 +1,171 @@
-EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;DESCRIPCION;IMPORTE
+EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;DESCRIPCION;ITEM;IMPORTE
+2013;98001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;66181420990
+2013;98001;10;;;Sobre la renta;63511300000
+2013;98001;100;;;De las personas físicas;42251300000
+2013;98001;100;;00;Impuesto sobre la Renta de las Personas Físicas;42500500000
+2013;98001;100;;99;Asignacion tributaria a la Iglesia Catolica;-249200000
+2013;98001;101;;;De sociedades;19012000000
+2013;98001;101;;00;Impuesto sobre Sociedades;19012000000
+2013;98001;102;;;De no residentes;2248000000
+2013;98001;102;;00;Impuesto sobre la Renta de no residentes;2248000000
+2013;98001;11;;;Sobre el capital;132800000
+2013;98001;119;;;Otros impuestos sobre el capital;132800000
+2013;98001;119;;00;Impuesto General sobre Sucesiones y Donaciones.;107600000
+2013;98001;119;;01;Impuesto sobre el Patrimonio;25200000
+2013;98001;12;;;Cotizaciones sociales;994600990
+2013;98001;120;;;Cotizaciones de los regímenes especiales de funcionarios;994600990
+2013;98001;120;;00;Cuotas de Derechos Pasivos;994600990
+2013;98001;13;;;Impuestos sobre la producción y almacenamiento de energía eléctrica y combustible;1542720000
+2013;98001;130;;;Sobre el valor de la producción de la energía eléctrica;1259300000
+2013;98001;131;;;Sobre la producción de combustible nuclear gastado y residuos resultantes de la generación de energía nucleoeléctrica;266420000
+2013;98001;132;;;Sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas;17000000
+2013;98001;2;;;IMPUESTOS INDIRECTOS;40734453650
+2013;98001;21;;;Sobre el Valor Añadido;28272300000
+2013;98001;210;;;Impuesto sobre el Valor Añadido;28272300000
+2013;98001;210;;00;IVA sobre importaciones;9610400000
+2013;98001;210;;01;IVA sobre operaciones interiores;18661900000
+2013;98001;22;;;Sobre consumos específicos;9578153650
+2013;98001;220;;;Impuestos especiales;9578153650
+2013;98001;220;;00;Sobre el alcohol y bebidas derivadas;330900000
+2013;98001;220;;01;Sobre cerveza;120900000
+2013;98001;220;;03;Sobre labores de tabaco;3507800000
+2013;98001;220;;04;Sobre hidrocarburos;5545653650
+2013;98001;220;;06;Sobre productos intermedios;7600000
+2013;98001;220;;07;Sobre la electricidad;65300000
+2013;98001;23;;;Sobre tráfico exterior;1377900000
+2013;98001;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías;1350300000
+2013;98001;231;;;Exacciones reguladoras y otros gravámenes agrícolas;27600000
+2013;98001;28;;;Otros impuestos indirectos;1506100000
+2013;98001;280;;;Cotización, producción y almacenamiento de azúcar e isoglucosa;8200000
+2013;98001;281;;;Impuesto sobre las Primas de Seguros;1390500000
+2013;98001;282;;;Sobre transmisiones patrimoniales intervivos;6700000
+2013;98001;283;;;Impuesto sobre actividades del juego;100000000
+2013;98001;283;;00;De apuestas mutuas deportivas;83984000
+2013;98001;283;;01;De apuestas deportivas de contrapartida;385000
+2013;98001;283;;03;Del ejercicio 2011;15631000
+2013;98001;289;;;Otros impuestos indirectos;700000
+2013;98001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4323559010
+2013;98001;30;;;Tasas;912000000
+2013;98001;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros;18000000
+2013;98001;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre;32000000
+2013;98001;302;;;Tasa por dirección e inspección de obras;137000000
+2013;98001;303;;;Tasa por el ejercicio de la potestad jurisdiccional;436000000
+2013;98001;304;;;Tasas de expedición de D.N.I. y Pasaportes;56000000
+2013;98001;305;;;Tasas consulares;73000000
+2013;98001;308;;;Tasas seguridad aeroportuaria;5000000
+2013;98001;309;;;Otras tasas;155000000
+2013;98001;309;;00;Tasa por acreditación catastral;2000000
+2013;98001;309;;01;Tasa de juego;18000000
+2013;98001;309;;02;Reconocimientos, autorizaciones y concursos;64000000
+2013;98001;309;;05;Tasa de Telecomunicaciones;9000000
+2013;98001;309;;07;Control de sanidad exterior de carnes y productos de origen animal de países no comunitarios;9000000
+2013;98001;309;;08;Derechos de examen;6000000
+2013;98001;309;;09;Tasa por la gestión administrativa del juego (D.T. 1ª Ley 13/2011);14000000
+2013;98001;309;;99;Otras;33000000
+2013;98001;31;;;Precios Públicos;3000000
+2013;98001;310;;;Derechos de matrícula en cursos y seminarios;1000000
+2013;98001;319;;;Otros precios públicos;2000000
+2013;98001;32;;;Otros ingresos procedentes de prestación de servicios;463259010
+2013;98001;320;;;Comisiones por avales y seguros de operaciones financieras;2445250
+2013;98001;322;;;De la Administración financiera;415500000
+2013;98001;322;;02;Compensación por gastos de percepción de recursos propios tradicionales de la Unión Europea;412500000
+2013;98001;322;;99;Otros;3000000
+2013;98001;327;;;De asistencia sanitaria;45313760
+2013;98001;327;;01;Por Convenios Internacionales y Conciertos;20313760
+2013;98001;327;;02;Otros conciertos de asistencia sanitaria;25000000
+2013;98001;33;;;Venta de bienes;12000000
+2013;98001;330;;;Venta de publicaciones propias;2000000
+2013;98001;339;;;Venta de otros bienes;10000000
+2013;98001;38;;;Reintegros de operaciones corrientes;370000000
+2013;98001;380;;;De ejercicios cerrados;310000000
+2013;98001;381;;;Del presupuesto corriente;60000000
+2013;98001;39;;;Otros ingresos;2563300000
+2013;98001;391;;;Recargos y multas;1220000000
+2013;98001;391;;00;Recargo del periodo ejecutivo;601000000
+2013;98001;391;;01;Intereses de demora;465000000
+2013;98001;391;;02;Multas y sanciones;154000000
+2013;98001;392;;;Diferencias de cambio;159300000
+2013;98001;393;;;Diferencias entre los valores de reembolso y emisión;807000000
+2013;98001;399;;;Ingresos diversos;377000000
+2013;98001;399;;00;Compensaciones de servicios prestados por funcionarios públicos;12000000
+2013;98001;399;;01;Recursos eventuales;300000000
+2013;98001;399;;99;Otros ingresos diversos;65000000
+2013;98001;4;;;TRANSFERENCIAS CORRIENTES;9211466110
+2013;98001;41;;;De organismos autónomos;223471090
+2013;98001;410;;;Transferencias corrientes de organismos autónomos;223471090
+2013;98001;410;;01;Jefatura de Tráfico;135791370
+2013;98001;410;;02;Servicio Público de Empleo Estatal;66436150
+2013;98001;410;;99;Otros;21243570
+2013;98001;42;;;De la Seguridad Social;153017670
+2013;98001;420;;;Transferencias corrientes de la Seguridad Social;153017670
+2013;98001;43;;;De agencias estatales y otros organismos públicos;30366000
+2013;98001;430;;;De agencias estatales;30366000
+2013;98001;430;;01;Agencia Estatal del B.O.E.;30366000
+2013;98001;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;30623120
+2013;98001;441;;;De entidades públicas empresariales;30623120
+2013;98001;441;;09;De otras entidades públicas empresariales;30623120
+2013;98001;45;;;De Comunidades Autónomas;7623008230
+2013;98001;450;;;Contribuciones Concertadas;1471868610
+2013;98001;450;;00;Cupo del País Vasco;920789370
+2013;98001;450;;01;De Navarra;551079240
+2013;98001;451;;;Compensación de pagos Impuesto de Patrimonio;23860000
+2013;98001;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.;191645750
+2013;98001;456;;;Compensaciones financieras del País Vasco;39063870
+2013;98001;456;;00;Impuestos especiales sobre el alcohol y bebidas derivadas y productos intermedios;6982230
+2013;98001;456;;01;Impuesto especial sobre la Cerveza;2474870
+2013;98001;456;;02;Impuesto especial sobre Hidrocarburos;29606770
+2013;98001;458;;;Por Fondo de Suficiencia;5896570000
+2013;98001;46;;;De Entidades Locales;1055980000
+2013;98001;460;;;De Ayuntamientos;1055980000
+2013;98001;49;;;Del exterior;95000000
+2013;98001;490;;;Del Fondo Social Europeo;80000000
+2013;98001;492;;;Otras transferencias de la Unión Europea;5000000
+2013;98001;499;;;Otras transferencias corrientes;10000000
+2013;98001;5;;;INGRESOS PATRIMONIALES;5912574970
+2013;98001;51;;;Intereses de anticipos y préstamos concedidos;1180000000
+2013;98001;515;;;A Comunidades Autónomas;1080000000
+2013;98001;519;;;Al exterior;100000000
+2013;98001;52;;;Intereses de depósitos;299938000
+2013;98001;520;;;Intereses de cuentas bancarias;299938000
+2013;98001;520;;00;Intereses de las consignaciones judiciales;99000000
+2013;98001;520;;09;Intereses de la cuenta del Tesoro en el Banco de España;200000000
+2013;98001;520;;99;Otros intereses de cuentas bancarias;938000
+2013;98001;53;;;Dividendos y participaciones en beneficios;4125520970
+2013;98001;534;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;4125520970
+2013;98001;534;;03;Banco de España;2318000000
+2013;98001;534;;05;Loterías y Apuestas del Estado;1790043000
+2013;98001;534;;06;Real Casa de la Moneda. Fabrica Nacional de Moneda y Timbre;15392000
+2013;98001;534;;99;Otras participaciones en beneficios;2085970
+2013;98001;54;;;Rentas de bienes inmuebles;6000000
+2013;98001;540;;;Alquiler y productos de inmuebles;6000000
+2013;98001;540;;99;Otros productos de inmuebles;6000000
+2013;98001;55;;;Productos de concesiones y aprovechamientos especiales;301116000
+2013;98001;550;;;De concesiones administrativas;1000000
+2013;98001;558;;;Canon por utilización de aguas continentales para la producción de energía eléctrica;298116000
+2013;98001;559;;;Otras concesiones y aprovechamientos;2000000
+2013;98001;6;;;ENAJENACION DE INVERSIONES REALES;134550000
+2013;98001;60;;;De terrenos;6000000
+2013;98001;600;;;Venta de solares;4100000
+2013;98001;601;;;Venta de fincas rústicas;1900000
+2013;98001;61;;;De las demás inversiones reales;550000
+2013;98001;619;;;Venta de otras inversiones reales;550000
+2013;98001;68;;;Reintegros por operaciones de capital;128000000
+2013;98001;680;;;De ejercicios cerrados;120000000
+2013;98001;681;;;Del presupuesto corriente;8000000
+2013;98001;7;;;TRANSFERENCIAS DE CAPITAL;526695370
+2013;98001;71;;;De organismos autónomos;2000000
+2013;98001;711;;;"Del FEGA ""Ayudas de Desarrollo Rural""";2000000
+2013;98001;75;;;De Comunidades Autónomas;2000000
+2013;98001;750;;;De Comunidades Autónomas;2000000
+2013;98001;79;;;Del exterior;522695370
+2013;98001;790;;;Fondo Europeo de Desarrollo Regional;474273140
+2013;98001;791;;;Fondo de Cohesión;25422230
+2013;98001;792;;;Fondo Europeo Pesca y otros recursos agrícolas y pesqueros;23000000
+2013;98001;8;;;ACTIVOS FINANCIEROS;1519810000
+2013;98001;82;;;Reintegros de préstamos concedidos al Sector Público;530230000
+2013;98001;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo;530230000
+2013;98001;821;;04;A las  sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;530230000
+2013;98001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;989580000
+2013;98001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;989580000
+2013;98001;831;;07;A las empresas privadas;949580000
+2013;98001;831;;08;A familias e Instituciones sin fines de lucro;40000000

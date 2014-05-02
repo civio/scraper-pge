@@ -8,6 +8,20 @@ N_10_E_A_3_    Memorias: variación respecto a ejercicio anterior
                Presupuesto consolidado (debería ser A.4)
 N_10_E_G_5_    Consorcios con participación no mayoritaria del Sector Público
 N_10_E_R_2_    Ingresos
+           1[Ámbito]_1_
+             01  Estado
+             02  Organismos Autónomos
+             03  Agencias Estatales
+             04  Otros Organismos Públicos
+             05  Seguridad Social
+                       2_  Presupuesto de ingresos
+                       . 1[Sección]_1_  Desglose por sección
+                       .              1[Organismo]_1  Detalle por organismo
+                       .              2  Resumen por organismos y artículos
+                       .              4  Resumen por capítulos
+                       6  Resumen por capítulos
+                       A  Resumen por organismos y capítulos
+                       B  Resumen por artículos y secciones
 N_10_E_R_31_   Gastos. Presupuestos por programas (R.3) 
             1[Sección]_1_  Organismos del estado (Casa Real, Ministerios, Fondos de compensación CCAA...)
             .            1_  Presupuesto de gastos
@@ -67,6 +81,7 @@ N_10_E_V_3_    Anexos de personal
 
 require_relative 'entity_breakdown'
 require_relative 'programme_breakdown'
+require_relative 'income_breakdown'
 
 class Budget
   def initialize(path)
@@ -83,5 +98,11 @@ class Budget
     Dir[@path+'/doc/HTM/*.HTM'].
         select {|f| ProgrammeBreakdown.programme_breakdown? f }.
         map {|f| ProgrammeBreakdown.new(f) }
+  end
+
+  def income_breakdowns
+    Dir[@path+'/doc/HTM/*.HTM'].
+        select {|f| IncomeBreakdown.income_breakdown? f }.
+        map {|f| IncomeBreakdown.new(f) }
   end
 end

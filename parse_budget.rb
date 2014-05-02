@@ -42,8 +42,10 @@ output_path = File.join(".", "output", budget_id)
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_V_1_101_1_1_2_2_118_1_2.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_31_118_1_1_1_1333A_2.HTM
 #
+income = []
 expenses = []
 additional_institutions = []
+
 Budget.new(budget_id).entity_breakdowns.each do |bkdown|
   expenses.concat bkdown.expenses
 end
@@ -56,6 +58,13 @@ Budget.new(budget_id).programme_breakdowns.each do |bkdown|
   # So we have to go and explicitely search for them, and add them later on.
   # (Alternatively, we could get the whole insitutional hierarchy from programme
   # breakdowns, but I see no point in changing what's already working.)
+  additional_institutions.concat bkdown.institutions
+end
+
+Budget.new(budget_id).income_breakdowns.each do |bkdown|
+  income.concat bkdown.income
+
+  # TODO: Worth checking no conflicts?
   additional_institutions.concat bkdown.institutions
 end
 
@@ -115,11 +124,12 @@ def get_entity_id(section, service)
 end
 
 # Collect categories first, then output, to avoid duplicated chapters and articles.
-# Important note: descriptions are consistent across the PGE budgets for chapters (x)
+# Important note: descriptions are consistent across the PGE budgets for expense chapters (x)
 # and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
 # So we are forced to do some gymnastics, and include the programme in the category id.
+# FIXME: Double check income ones are consistent, they seem so
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
-  categories = {}
+  expense_categories = {}
   expenses.each do |line|
     concept = line[:economic_concept]
     next if concept.nil? or concept.empty?
@@ -133,21 +143,21 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
 
     elsif concept.length >=3  # Heading -> xxx/pppp
       concept = "#{concept}/#{line[:programme]}"
-      categories[concept] = line
+      expense_categories[concept] = line
 
     else                      # Chapters (x) and articles (xx)
       # Although we've checked that descriptions for chapters and articles are consistent,
       # we have a check here just to be sure.
-      if !categories[concept].nil? and categories[concept][:description] != line[:description]
-        puts "Warning: different descriptions for economic concept #{concept}: had #{categories[concept][:description]}, now got #{line[:description]}"
+      if !expense_categories[concept].nil? and expense_categories[concept][:description] != line[:description]
+        puts "Warning: different descriptions for economic concept #{concept}: had #{expense_categories[concept][:description]}, now got #{line[:description]}"
       end
-      categories[concept] = line
+      expense_categories[concept] = line
 
     end
   end
 
   csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
-  categories.sort.each do |concept, line|
+  expense_categories.sort.each do |concept, line|
     concept, programme = concept.split('/')
     csv << [year, 
             "G",
@@ -155,6 +165,41 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 2 ? concept[0..1] : nil,
             !programme.nil? ? "#{concept[0..2]}/#{programme}" : nil,
             (!programme.nil? && concept.length > 3) ? "#{concept}/#{programme}" : nil,
+            nil,  # Short description, not used
+            line[:description] ]
+  end
+
+  income_categories = {}
+  income.each do |line|
+    concept = line[:economic_concept]
+    next if concept.nil? or concept.empty?
+
+    if concept.length > 4     # Budget item
+      # We don't need new economic categories for these, they are items belonging to a heading.
+      # Once obstacle to this was distinguishing heading subtotals from the items themselves
+      # in the output files, but we've sorted that out through a new 'budget item' column
+      # in the output (see below).
+      next
+
+    else                      # Chapters (x), articles (xx) and headings (xxx)
+      # Although we've checked that descriptions for chapters, articles and headings are consistent,
+      # we have a check here just to be sure.
+      if !income_categories[concept].nil? and income_categories[concept][:description] != line[:description]
+        puts "Warning: different descriptions for economic concept #{concept}: had #{income_categories[concept][:description]}, now got #{line[:description]}"
+      end
+      income_categories[concept] = line
+
+    end
+  end
+
+  income_categories.sort.each do |concept, line|
+    concept, programme = concept.split('/')
+    csv << [year, 
+            "I",
+            concept[0], 
+            concept.length >= 2 ? concept[0..1] : nil,
+            concept.length >= 3 ? concept[0..2] : nil,
+            concept.length >= 4 ? concept[0..3] : nil,
             nil,  # Short description, not used
             line[:description] ]
   end
@@ -191,6 +236,7 @@ CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') d
   additional_institutions.each do |line|
     bodies[get_entity_id(line[:section], line[:service])] = line[:description]
   end
+  # FIXME: Add check for inconsistent names
 
   csv << ["EJERCICIO","CENTRO GESTOR","DESCRIPCION CORTA","DESCRIPCION LARGA"]
   bodies.sort.each do |body_id, description|
@@ -228,7 +274,30 @@ CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
   end
 end
 
+# FIXME: Reuse code from expenses
 CSV.open(File.join(output_path, "ingresos.csv"), "w", col_sep: ';') do |csv|
-  csv << ["EJERCICIO","CENTRO GESTOR","ECONOMICA","FINANCIACION","DESCRIPCION","IMPORTE"]
+  budget_items = []
+  income.each do |item|
+    next if item[:economic_concept].nil? or item[:economic_concept].empty?
+    item[:body_id] = get_entity_id(item[:section], item[:service])  # Convenient
+    budget_items.push item
+  end
+
+  csv << ["EJERCICIO","CENTRO GESTOR","ECONOMICA","FINANCIACION","DESCRIPCION","ITEM","IMPORTE"]
+  budget_items.sort do |a,b| 
+    [a[:economic_concept], a[:body_id]] <=> [b[:economic_concept], b[:body_id]]
+  end.each do |item|
+    # Note that a five-digit economic code (xxxxx) is actually a budget item belonging to a
+    # heading (xxx). We don't discard the last two digits in the output file, as it's useful
+    # (mostly) to distinguish the items from the heading subtotal. We could have done
+    # the split earlier, but the code is simpler this way.
+    csv << [year, 
+            item[:body_id],
+            item[:economic_concept][0..2], 
+            nil, 
+            item[:economic_concept].length > 3 ? item[:economic_concept][3..4] : nil,
+            item[:description],
+            convert_number(item[:amount]).to_int ]
+  end
 end
 
