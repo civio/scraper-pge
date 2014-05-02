@@ -5,6 +5,8 @@ require 'open-uri'
 require_relative 'base_breakdown'
 
 # Parser for income breakdowns (Serie Roja / Red books), i.e. pages like [1], [2] or [3].
+# Note: the Red and Green books contain, as far as I've seen, the same amount of detail;
+# but the Red book includes Social Security data, so that's the one we're using.
 #
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_104_1_2_112_1_1301_1.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_105_1_2_160_1_104_1.HTM
