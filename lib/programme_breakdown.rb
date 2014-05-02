@@ -47,7 +47,7 @@ class ProgrammeBreakdown < BaseBreakdown
   # Returns a list of budget items and subtotals. Because of the convoluted format of the 
   # input file, with subtotals being split across two lines, some massaging is needed.
   def expenses
-    expenses = merge_subtotals(data_grid, year, section)
+    merge_subtotals(data_grid, year, section)
   end
 
   # Because of the way programme breakdowns are structured, we can't get institutional
