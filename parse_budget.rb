@@ -187,11 +187,11 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
       # in the output (see below).
       next
 
-    elsif concept.length >=3  # Heading -> xxx/pppp
+    elsif concept.length >=3  # Heading -> xxx/ss
       concept = "#{concept}/#{line[:section]}"
       income_categories[concept] = line
 
-    else                      # Chapters (x), articles (xx) and headings (xxx)
+    else                      # Chapters (x) and articles (xx)
       # Although we've checked that descriptions for chapters, articles and headings are consistent,
       # we have a check here just to be sure.
       if !income_categories[concept].nil? and income_categories[concept][:description] != line[:description]
@@ -241,19 +241,22 @@ CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') d
   bodies = {}
   expenses.each do |line|
     next unless line[:programme].nil? or line[:programme].empty?
-    bodies[get_entity_id(line[:section], line[:service])] = line[:description]
+    bodies[get_entity_id(line[:section], line[:service])] = line
   end
   additional_institutions.each do |line|
-    bodies[get_entity_id(line[:section], line[:service])] = line[:description]
+    entity_id = get_entity_id(line[:section], line[:service])
+    if !bodies[entity_id].nil? and bodies[entity_id][:description] != line[:description]
+      puts "Warning: different descriptions for institution #{entity_id}: had #{bodies[entity_id][:description]}, now got #{line[:description]}"
+    end
+    bodies[entity_id] = line
   end
-  # FIXME: Add check for inconsistent names
 
   csv << ["EJERCICIO","CENTRO GESTOR","DESCRIPCION CORTA","DESCRIPCION LARGA"]
-  bodies.sort.each do |body_id, description|
+  bodies.sort.each do |body_id, line|
     csv << [year,
             body_id,
             nil,  # Short description, not used
-            description]
+            line[:description]]
   end
 end
 
