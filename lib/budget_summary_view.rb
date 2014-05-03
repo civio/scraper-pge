@@ -79,6 +79,10 @@ class BudgetSummaryView < Mustache
     end
 
     # Is it an internal transfer?
-
+    if concept.length == 2 and ['40', '41', '42', '43', '70', '71', '72', '73'].include? concept
+      chapter = concept[0]
+      @summary[:transferencias][chapter] = (@summary[:transferencias][chapter]||0) - amount
+      @summary[:consolidado][chapter] = (@summary[:consolidado][chapter]||0) - amount
+    end
   end
 end
