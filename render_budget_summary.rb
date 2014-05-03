@@ -19,6 +19,9 @@ summary = BudgetSummaryView.new(year)
 CSV.foreach(File.join(output_path, "ingresos.csv"), col_sep: ';') do |row|
   summary.add_item row
 end
+CSV.foreach(File.join(output_path, "gastos.csv"), col_sep: ';') do |row|
+  summary.add_item row
+end
 
 # Inline template
 template = <<TEMPLATE
@@ -28,17 +31,25 @@ template = <<TEMPLATE
 
  | No Financieros (I-VII) | Total (I-IX)
 :--|---------------------:|-------------:
-Estado|{{estado_1_7}}|{{estado_1_9}}
-Organismos autónomos|{{ooaa_1_7}}|{{ooaa_1_9}}
-Agencias estatales|{{agencias_1_7}}|{{agencias_1_9}}
-Otros organismos|{{otros_1_7}}|{{otros_1_9}}
-Seguridad Social|{{seg_social_1_7}}|{{seg_social_1_9}}
-(- transferencias internas)|{{transferencias_1_7}}|{{transferencias_1_9}}
-**TOTAL**|{{consolidado_1_7}}|{{consolidado_1_9}}
+Estado|{{ingresos_estado_1_7}}|{{ingresos_estado_1_9}}
+Organismos autónomos|{{ingresos_ooaa_1_7}}|{{ingresos_ooaa_1_9}}
+Agencias estatales|{{ingresos_agencias_1_7}}|{{ingresos_agencias_1_9}}
+Otros organismos|{{ingresos_otros_1_7}}|{{ingresos_otros_1_9}}
+Seguridad Social|{{ingresos_seg_social_1_7}}|{{ingresos_seg_social_1_9}}
+(- transferencias internas)|{{ingresos_transferencias_1_7}}|{{ingresos_transferencias_1_9}}
+**TOTAL**|{{ingresos_consolidado_1_7}}|{{ingresos_consolidado_1_9}}
 
 ###Gastos
 
-Total: X
+ | No Financieros (I-VII) | Total (I-IX)
+:--|---------------------:|-------------:
+Estado|{{gastos_estado_1_7}}|{{gastos_estado_1_9}}
+Organismos autónomos|{{gastos_ooaa_1_7}}|{{gastos_ooaa_1_9}}
+Agencias estatales|{{gastos_agencias_1_7}}|{{gastos_agencias_1_9}}
+Otros organismos|{{gastos_otros_1_7}}|{{gastos_otros_1_9}}
+Seguridad Social|{{gastos_seg_social_1_7}}|{{gastos_seg_social_1_9}}
+(- transferencias internas)|{{gastos_transferencias_1_7}}|{{gastos_transferencias_1_9}}
+**TOTAL**|{{gastos_consolidado_1_7}}|{{gastos_consolidado_1_9}}
 TEMPLATE
 
 # Render the output file
