@@ -5630,6 +5630,13 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;I;1;11;119;;;Otros impuestos sobre el capital
 2013;I;1;12;;;;Cotizaciones sociales
 2013;I;1;12;120;;;Cotizaciones de los regímenes especiales de funcionarios
+2013;I;1;12;121;;;Cotizaciones del Regimen General
+2013;I;1;12;122;;;Cotizaciones del R.E.T. Autonomos
+2013;I;1;12;124;;;Cotizaciones R.E. Trabajadores del Mar
+2013;I;1;12;125;;;Cotizaciones R.E. Mineria del Carbon
+2013;I;1;12;127;;;Cotizaciones de acctes. trabajo y e. p.
+2013;I;1;12;128;;;Cotizaciones de desempleados, cese de actividad de trabajadores autónomos y bonificaciones para el fomento del empleo
+2013;I;1;12;129;;;Otras cotizaciones
 2013;I;1;13;;;;Impuestos sobre la producción y almacenamiento de energía eléctrica y combustible
 2013;I;1;13;130;;;Sobre el valor de la producción de la energía eléctrica
 2013;I;1;13;131;;;Sobre la producción de combustible nuclear gastado y residuos resultantes de la generación de energía nucleoeléctrica
@@ -5656,18 +5663,34 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;I;3;30;303;;;Tasa por el ejercicio de la potestad jurisdiccional
 2013;I;3;30;304;;;Tasas de expedición de D.N.I. y Pasaportes
 2013;I;3;30;305;;;Tasas consulares
+2013;I;3;30;306;;;Tasas de la Jefatura de Tráfico
 2013;I;3;30;308;;;Tasas seguridad aeroportuaria
 2013;I;3;30;309;;;Otras tasas
 2013;I;3;31;;;;Precios Públicos
 2013;I;3;31;310;;;Derechos de matrícula en cursos y seminarios
+2013;I;3;31;311;;;Entradas a museos, exposiciones, espectáculos, etc.
+2013;I;3;31;317;;;Cursos impartidos para otros Entes Públicos.
 2013;I;3;31;319;;;Otros precios públicos
 2013;I;3;32;;;;Otros ingresos procedentes de prestación de servicios
 2013;I;3;32;320;;;Comisiones por avales y seguros de operaciones financieras
+2013;I;3;32;321;;;Renta de aduanas. Derechos menores
 2013;I;3;32;322;;;De la Administración financiera
 2013;I;3;32;327;;;De asistencia sanitaria
+2013;I;3;32;328;;;De servicios sociales
+2013;I;3;32;329;;;Otros ingresos procedentes de prestación de servicios
 2013;I;3;33;;;;Venta de bienes
 2013;I;3;33;330;;;Venta de publicaciones propias
+2013;I;3;33;331;;;Venta en comisión de publicaciones
+2013;I;3;33;332;;;Venta de fotocopias y otros productos de reprografía
+2013;I;3;33;333;;;Venta de medicamentos
+2013;I;3;33;334;;;Venta de productos agropecuarios
+2013;I;3;33;335;;;Venta de material de desecho
+2013;I;3;33;337;;;Venta de impresos oficiales
 2013;I;3;33;339;;;Venta de otros bienes
+2013;I;3;36;;;;Ingresos por compensación de costes de las actividades de prevención
+2013;I;3;36;360;;;Ingresos por compensación de costes de las actividades de prevención
+2013;I;3;37;;;;Cotizaciones de asociados
+2013;I;3;37;370;;;Cotizaciones de asociados
 2013;I;3;38;;;;Reintegros de operaciones corrientes
 2013;I;3;38;380;;;De ejercicios cerrados
 2013;I;3;38;381;;;Del presupuesto corriente
@@ -5675,62 +5698,153 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;I;3;39;391;;;Recargos y multas
 2013;I;3;39;392;;;Diferencias de cambio
 2013;I;3;39;393;;;Diferencias entre los valores de reembolso y emisión
+2013;I;3;39;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial)
+2013;I;3;39;395;;;Rappels por compras
+2013;I;3;39;398;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene
 2013;I;3;39;399;;;Ingresos diversos
 2013;I;4;;;;;TRANSFERENCIAS CORRIENTES
+2013;I;4;40;;;;De la Administración del Estado
+2013;I;4;40;400;;;Del departamento al que está adscrito
+2013;I;4;40;401;;;De otros departamentos ministeriales
+2013;I;4;40;402;;;Del departamento al que está adscrito
+2013;I;4;40;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
+2013;I;4;40;405;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2. del Real Decreto 825/1988, de  15 de julio)
 2013;I;4;41;;;;De organismos autónomos
 2013;I;4;41;410;;;Transferencias corrientes de organismos autónomos
+2013;I;4;41;411;;;Del Servicio Público de Empleo Estatal
+2013;I;4;41;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior
 2013;I;4;42;;;;De la Seguridad Social
-2013;I;4;42;420;;;Transferencias corrientes de la Seguridad Social
+2013;I;4;42;420;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad
+2013;I;4;42;421;;;Aportaciones para sosteni. SS.CC.
+2013;I;4;42;422;;;Ingresos por servicios prestados entre Entidades del Sistema
+2013;I;4;42;423;;;Cuotas de reaseguro de Acctes. T.
+2013;I;4;42;428;;;Aplicaciones del Fondo de Prevención y Rehabilitación
+2013;I;4;42;429;;;Otras transferencias recibidas de entidades del sistema
 2013;I;4;43;;;;De agencias estatales y otros organismos públicos
 2013;I;4;43;430;;;De agencias estatales
 2013;I;4;44;;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.
+2013;I;4;44;440;;;De sociedades mercantiles estatales
 2013;I;4;44;441;;;De entidades públicas empresariales
+2013;I;4;44;449;;;Del resto del sector público
 2013;I;4;45;;;;De Comunidades Autónomas
 2013;I;4;45;450;;;Contribuciones Concertadas
 2013;I;4;45;451;;;Compensación de pagos Impuesto de Patrimonio
 2013;I;4;45;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.
 2013;I;4;45;456;;;Compensaciones financieras del País Vasco
 2013;I;4;45;458;;;Por Fondo de Suficiencia
+2013;I;4;45;459;;;Otras transferencias corrientes
 2013;I;4;46;;;;De Entidades Locales
 2013;I;4;46;460;;;De Ayuntamientos
+2013;I;4;47;;;;De empresas privadas
+2013;I;4;47;470;;;Ingresos de empresas privadas
+2013;I;4;47;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes
+2013;I;4;47;472;;;De empresas
+2013;I;4;47;479;;;De empresas privadas.
+2013;I;4;48;;;;De familias e instituciones sin fines de lucro
+2013;I;4;48;480;;;De familias e instituciones sin fines de lucro
+2013;I;4;48;489;;;Otras transferencias corrientes
 2013;I;4;49;;;;Del exterior
 2013;I;4;49;490;;;Del Fondo Social Europeo
+2013;I;4;49;491;;;Del Fondo Europeo Agrícola de Garantía (FEAGA)
 2013;I;4;49;492;;;Otras transferencias de la Unión Europea
+2013;I;4;49;493;;;Aportaciones derivadas de convenios internacionales de cooperación
+2013;I;4;49;494;;;De la Unión Europea-PAC
 2013;I;4;49;499;;;Otras transferencias corrientes
 2013;I;5;;;;;INGRESOS PATRIMONIALES
+2013;I;5;50;;;;Intereses de títulos y valores
+2013;I;5;50;500;;;Del Estado
+2013;I;5;50;504;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público
+2013;I;5;50;505;;;De Comunidades Autónomas
+2013;I;5;50;506;;;De Entidades Locales
+2013;I;5;50;507;;;De empresas privadas
 2013;I;5;51;;;;Intereses de anticipos y préstamos concedidos
+2013;I;5;51;514;;;A sociedades, entes públicos empresariales, fundaciones y resto de entes del Sector Público
 2013;I;5;51;515;;;A Comunidades Autónomas
+2013;I;5;51;518;;;A familias e instituciones sin fines de lucro
 2013;I;5;51;519;;;Al exterior
 2013;I;5;52;;;;Intereses de depósitos
 2013;I;5;52;520;;;Intereses de cuentas bancarias
+2013;I;5;52;529;;;Intereses de otros depósitos
 2013;I;5;53;;;;Dividendos y participaciones en beneficios
 2013;I;5;53;534;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público
+2013;I;5;53;537;;;De empresas privadas
 2013;I;5;54;;;;Rentas de bienes inmuebles
 2013;I;5;54;540;;;Alquiler y productos de inmuebles
+2013;I;5;54;542;;;Alquiler de aulas y otras instalaciones formativas.
+2013;I;5;54;549;;;Otras rentas
 2013;I;5;55;;;;Productos de concesiones y aprovechamientos especiales
 2013;I;5;55;550;;;De concesiones administrativas
+2013;I;5;55;551;;;Aprovechamientos agrícolas y forestales
+2013;I;5;55;555;;;Aprovechamientos agrícolas y forestales
 2013;I;5;55;558;;;Canon por utilización de aguas continentales para la producción de energía eléctrica
 2013;I;5;55;559;;;Otras concesiones y aprovechamientos
+2013;I;5;57;;;;Resultados de operaciones comerciales
+2013;I;5;57;570;;;Resultados de operaciones comerciales
+2013;I;5;59;;;;Otros ingresos patrimoniales
+2013;I;5;59;599;;;Otros
 2013;I;6;;;;;ENAJENACION DE INVERSIONES REALES
 2013;I;6;60;;;;De terrenos
 2013;I;6;60;600;;;Venta de solares
 2013;I;6;60;601;;;Venta de fincas rústicas
 2013;I;6;61;;;;De las demás inversiones reales
+2013;I;6;61;616;;;Enajenación de bienes destinados a uso general
 2013;I;6;61;619;;;Venta de otras inversiones reales
 2013;I;6;68;;;;Reintegros por operaciones de capital
 2013;I;6;68;680;;;De ejercicios cerrados
 2013;I;6;68;681;;;Del presupuesto corriente
 2013;I;7;;;;;TRANSFERENCIAS DE CAPITAL
+2013;I;7;70;;;;De la Administración del Estado
+2013;I;7;70;700;;;Del departamento al que está adscrito
+2013;I;7;70;701;;;De otros departamentos ministeriales
+2013;I;7;70;702;;;De la D.G. del Agua para apoyo en la ejecución de obras en humedales y restauración de  los rios
+2013;I;7;70;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
 2013;I;7;71;;;;De organismos autónomos
+2013;I;7;71;710;;;Transferencias de capital de organismos autónomos
 2013;I;7;71;711;;;"Del FEGA ""Ayudas de Desarrollo Rural"""
+2013;I;7;72;;;;De la Seguridad Social
+2013;I;7;72;720;;;Transferencias de capital de la Seguridad Social
+2013;I;7;74;;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.
+2013;I;7;74;740;;;De sociedades mercantiles estatales
 2013;I;7;75;;;;De Comunidades Autónomas
-2013;I;7;75;750;;;De Comunidades Autónomas
+2013;I;7;75;750;;;De CCAA para ejecución de proyectos de investigación
+2013;I;7;76;;;;De Entidades Locales
+2013;I;7;76;760;;;De Ayuntamientos
+2013;I;7;76;761;;;De Diputaciones y Cabildos Insulares
+2013;I;7;76;769;;;Otras transferencias de capital
+2013;I;7;77;;;;De empresas privadas
+2013;I;7;77;772;;;De empresas
+2013;I;7;77;779;;;Otras transferencias de capital de empresas privadas
 2013;I;7;79;;;;Del exterior
 2013;I;7;79;790;;;Fondo Europeo de Desarrollo Regional
 2013;I;7;79;791;;;Fondo de Cohesión
 2013;I;7;79;792;;;Fondo Europeo Pesca y otros recursos agrícolas y pesqueros
+2013;I;7;79;793;;;Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
+2013;I;7;79;794;;;Fondo Social Europeo
+2013;I;7;79;795;;;Otras transferencias de la Unión Europea
 2013;I;8;;;;;ACTIVOS FINANCIEROS
+2013;I;8;80;;;;Enajenación de deuda del Sector Público
+2013;I;8;80;800;;;Enajenación de deuda del Sector Público a corto plazo
+2013;I;8;80;801;;;Enajenación de deuda del Sector Público a largo plazo
+2013;I;8;81;;;;Enajenación de obligac. y bonos de fuera del Sector Público
+2013;I;8;81;810;;;Enajenación de obligaciones y bonos de fuera del Sector Público a corto plazo
+2013;I;8;81;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo
 2013;I;8;82;;;;Reintegros de préstamos concedidos al Sector Público
+2013;I;8;82;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo
 2013;I;8;82;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo
 2013;I;8;83;;;;Reintegros de préstamos concedidos fuera del Sector Público
+2013;I;8;83;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo
 2013;I;8;83;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo
+2013;I;8;84;;;;Devolución de depósitos y fianzas
+2013;I;8;84;840;;;Devolución de depósitos
+2013;I;8;84;841;;;Devolución de fianzas
+2013;I;8;87;;;;Remanente de tesorería
+2013;I;8;87;870;;;Remanente de tesorería
+2013;I;8;89;;;;Utilización de activos financieros afectos al Fondo de Reserva de la Seguridad Social y a otros Fondos del Sistema
+2013;I;8;89;890;;;Al Fondo de Reserva de la Seguridad Social
+2013;I;9;;;;;PASIVOS FINANCIEROS
+2013;I;9;91;;;;Préstamos recibidos en moneda nacional
+2013;I;9;91;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.
+2013;I;9;91;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público
+2013;I;9;94;;;;Depósitos y fianzas recibidos
+2013;I;9;94;940;;;Depósitos
+2013;I;9;94;941;;;Fianzas

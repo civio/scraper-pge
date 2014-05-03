@@ -35,11 +35,12 @@ class IncomeBreakdown < BaseBreakdown
   end
 
   def entity_name
-    # FIXME: Won't work for non-state ones
+    # We don't match the beginning of the line, because for state entities
+    # it says 'Servicio'; for non-state 'Organismo'
     if year == '2014' # TODO: What about the other years?
-      doc.css('.S0ESTILO3')[1].text.strip =~ /^Servicio: \d\d (.+)$/
+      doc.css('.S0ESTILO3')[1].text.strip =~ /: \d+ (.+)$/
     else
-      doc.css('.S0ESTILO2')[2].text.strip =~ /^Servicio: \d\d (.+)$/
+      doc.css('.S0ESTILO2')[2].text.strip =~ /: \d+ (.+)$/
     end
     $1
   end
@@ -85,8 +86,7 @@ class IncomeBreakdown < BaseBreakdown
     data_grid
   end
 
-  INCOME_BKDOWN = /N_(\d\d)_[AE]_R_2_10(1)_1_2_1(\d\d)_1_1(\d\d+)_1.HTM/  
-  # FIXME: only state now               ^
+  INCOME_BKDOWN = /N_(\d\d)_[AE]_R_2_10(\d)_1_2_1(\d\d)_1_1(\d\d+)_1.HTM/  
   
   def doc
     @doc = Nokogiri::HTML(open(@filename)) if @doc.nil?  # Lazy parsing of doc, only when needed

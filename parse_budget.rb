@@ -124,7 +124,7 @@ def get_entity_id(section, service)
 end
 
 # Collect categories first, then output, to avoid duplicated chapters and articles.
-# Important note: descriptions are consistent across the PGE budgets for expense chapters (x)
+# Important note: descriptions are consistent across the PGE budgets for chapters (x)
 # and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
 # So we are forced to do some gymnastics, and include the programme in the category id.
 # FIXME: Double check income ones are consistent, they seem so
@@ -149,7 +149,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
       # Although we've checked that descriptions for chapters and articles are consistent,
       # we have a check here just to be sure.
       if !expense_categories[concept].nil? and expense_categories[concept][:description] != line[:description]
-        puts "Warning: different descriptions for economic concept #{concept}: had #{expense_categories[concept][:description]}, now got #{line[:description]}"
+        puts "Warning: different descriptions for expense economic concept #{concept}: had #{expense_categories[concept][:description]}, now got #{line[:description]}"
       end
       expense_categories[concept] = line
 
@@ -185,7 +185,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
       # Although we've checked that descriptions for chapters, articles and headings are consistent,
       # we have a check here just to be sure.
       if !income_categories[concept].nil? and income_categories[concept][:description] != line[:description]
-        puts "Warning: different descriptions for economic concept #{concept}: had #{income_categories[concept][:description]}, now got #{line[:description]}"
+        puts "Warning: different descriptions for income economic concept #{concept}: had #{income_categories[concept][:description]}, now got #{line[:description]}"
       end
       income_categories[concept] = line
 
