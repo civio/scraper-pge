@@ -295,7 +295,7 @@ CSV.open(File.join(output_path, "ingresos.csv"), "w", col_sep: ';') do |csv|
     budget_items.push item
   end
 
-  csv << ["EJERCICIO","CENTRO GESTOR","ECONOMICA","FINANCIACION","DESCRIPCION","ITEM","IMPORTE"]
+  csv << ["EJERCICIO","CENTRO GESTOR","ECONOMICA","FINANCIACION","ITEM","DESCRIPCION","IMPORTE"]
   budget_items.sort do |a,b| 
     [a[:economic_concept], a[:body_id]] <=> [b[:economic_concept], b[:body_id]]
   end.each do |item|
