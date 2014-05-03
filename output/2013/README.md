@@ -2,13 +2,13 @@
 
 ###Ingresos
 
-||No Financieros (I-VII)|Total (I-IX)|Transferencias|Total Consolidado|
-|:-|-------------------:|-----------:|-------------:|----------------:|
-|Estado|||||
-|Organismos autónomos|||||
-|Agencias estatales|||||
-|Otros organismos|||||
-|Seguridad Social|||||
+ | No Financieros (I-VII) | Total (I-IX) | Transferencias | Total Consolidado
+:--|---------------------:|-------------:|---------------:|-----------------:
+Estado||||
+Organismos autónomos||||
+Agencias estatales||||
+Otros organismos||||
+Seguridad Social||||
 
 ###Gastos
 
