@@ -64,7 +64,6 @@ end
 Budget.new(budget_id).income_breakdowns.each do |bkdown|
   income.concat bkdown.income
 
-  # TODO: Worth checking no conflicts?
   additional_institutions.concat bkdown.institutions
 end
 
