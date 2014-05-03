@@ -26,14 +26,15 @@ template = <<TEMPLATE
 
 ###Ingresos
 
- | No Financieros (I-VII) | Total (I-IX) | Transferencias | Total Consolidado
-:--|---------------------:|-------------:|---------------:|-----------------:
-Estado|{{estado_1_7}}|{{estado_1_9}}|{{estado_transfer}}|{{estado_total}}
-Organismos autónomos|{{ooaa_1_7}}|{{ooaa_1_9}}|{{ooaa_transfer}}|{{ooaa_total}}
-Agencias estatales|{{agencias_1_7}}|{{agencias_1_9}}|{{agencias_transfer}}|{{agencias_total}}
-Otros organismos|{{otros_1_7}}|{{otros_1_9}}|{{otros_transfer}}|{{otros_total}}
-Seguridad Social|{{seg_social_1_7}}|{{seg_social_1_9}}|{{seg_social_transfer}}|{{seg_social_total}}
-**TOTAL**|{{consolidado_1_7}}|{{consolidado_1_9}}|{{consolidado_transfer}}|**{{consolidado_total}}**
+ | No Financieros (I-VII) | Total (I-IX)
+:--|---------------------:|-------------:
+Estado|{{estado_1_7}}|{{estado_1_9}}
+Organismos autónomos|{{ooaa_1_7}}|{{ooaa_1_9}}
+Agencias estatales|{{agencias_1_7}}|{{agencias_1_9}}
+Otros organismos|{{otros_1_7}}|{{otros_1_9}}
+Seguridad Social|{{seg_social_1_7}}|{{seg_social_1_9}}
+(- transferencias internas)|{{transferencias_1_7}}|{{transferencias_1_9}}
+**TOTAL**|{{consolidado_1_7}}|{{consolidado_1_9}}
 
 ###Gastos
 
