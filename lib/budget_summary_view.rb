@@ -28,7 +28,7 @@ class BudgetSummaryView < Mustache
   def year; @year end
 
   def ingresos(type)
-    "#{beautify sum(@income[type], 7)}|#{beautify sum(@income[type], 9)}"
+    "#{beautify sum(@income[type], 7)}|#{beautify sum(@income[type], 8)}|#{beautify sum(@income[type], 9)}"
   end
   def ingresos_estado; ingresos(:estado) end
   def ingresos_ooaa; ingresos(:ooaa) end
@@ -39,7 +39,7 @@ class BudgetSummaryView < Mustache
   def ingresos_consolidado; ingresos(:consolidado) end
 
   def gastos(type)
-    "#{beautify sum(@expenses[type], 7)}|#{beautify sum(@expenses[type], 9)}"
+    "#{beautify sum(@expenses[type], 7)}|#{beautify sum(@expenses[type], 8)}|#{beautify sum(@expenses[type], 9)}"
   end
   def gastos_estado; gastos(:estado) end
   def gastos_ooaa; gastos(:ooaa) end
