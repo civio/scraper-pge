@@ -27,35 +27,27 @@ class BudgetSummaryView < Mustache
 
   def year; @year end
 
-  def ingresos_estado_1_7; beautify sum(@income[:estado], 7) end
-  def ingresos_estado_1_9; beautify sum(@income[:estado], 9) end
-  def ingresos_ooaa_1_7; beautify sum(@income[:ooaa], 7) end
-  def ingresos_ooaa_1_9; beautify sum(@income[:ooaa], 9) end
-  def ingresos_agencias_1_7; beautify sum(@income[:agencias], 7) end
-  def ingresos_agencias_1_9; beautify sum(@income[:agencias], 9) end
-  def ingresos_otros_1_7; beautify sum(@income[:otros], 7) end
-  def ingresos_otros_1_9; beautify sum(@income[:otros], 9) end
-  def ingresos_seg_social_1_7; beautify sum(@income[:seg_social], 7) end
-  def ingresos_seg_social_1_9; beautify sum(@income[:seg_social], 9) end
-  def ingresos_transferencias_1_7; beautify sum(@income[:transferencias], 7) end
-  def ingresos_transferencias_1_9; beautify sum(@income[:transferencias], 9) end
-  def ingresos_consolidado_1_7; beautify sum(@income[:consolidado], 7) end
-  def ingresos_consolidado_1_9; beautify sum(@income[:consolidado], 9) end
+  def ingresos(type)
+    "#{beautify sum(@income[type], 7)}|#{beautify sum(@income[type], 9)}"
+  end
+  def ingresos_estado; ingresos(:estado) end
+  def ingresos_ooaa; ingresos(:ooaa) end
+  def ingresos_agencias; ingresos(:agencias) end
+  def ingresos_otros; ingresos(:otros) end
+  def ingresos_seg_social; ingresos(:seg_social) end
+  def ingresos_transferencias; ingresos(:transferencias) end
+  def ingresos_consolidado; ingresos(:consolidado) end
 
-  def gastos_estado_1_7; beautify sum(@expenses[:estado], 7) end
-  def gastos_estado_1_9; beautify sum(@expenses[:estado], 9) end
-  def gastos_ooaa_1_7; beautify sum(@expenses[:ooaa], 7) end
-  def gastos_ooaa_1_9; beautify sum(@expenses[:ooaa], 9) end
-  def gastos_agencias_1_7; beautify sum(@expenses[:agencias], 7) end
-  def gastos_agencias_1_9; beautify sum(@expenses[:agencias], 9) end
-  def gastos_otros_1_7; beautify sum(@expenses[:otros], 7) end
-  def gastos_otros_1_9; beautify sum(@expenses[:otros], 9) end
-  def gastos_seg_social_1_7; beautify sum(@expenses[:seg_social], 7) end
-  def gastos_seg_social_1_9; beautify sum(@expenses[:seg_social], 9) end
-  def gastos_transferencias_1_7; beautify sum(@expenses[:transferencias], 7) end
-  def gastos_transferencias_1_9; beautify sum(@expenses[:transferencias], 9) end
-  def gastos_consolidado_1_7; beautify sum(@expenses[:consolidado], 7) end
-  def gastos_consolidado_1_9; beautify sum(@expenses[:consolidado], 9) end
+  def gastos(type)
+    "#{beautify sum(@expenses[type], 7)}|#{beautify sum(@expenses[type], 9)}"
+  end
+  def gastos_estado; gastos(:estado) end
+  def gastos_ooaa; gastos(:ooaa) end
+  def gastos_agencias; gastos(:agencias) end
+  def gastos_otros; gastos(:otros) end
+  def gastos_seg_social; gastos(:seg_social) end
+  def gastos_transferencias; gastos(:transferencias) end
+  def gastos_consolidado; gastos(:consolidado) end
 
   def sum(breakdown, limit)
     (1..limit).inject(0) {|sum, chapter| sum + (breakdown[chapter.to_s]||0) }

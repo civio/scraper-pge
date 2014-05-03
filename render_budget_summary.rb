@@ -31,25 +31,25 @@ template = <<TEMPLATE
 
  | No Financieros (I-VII) | Total (I-IX)
 :--|---------------------:|-------------:
-Estado|{{ingresos_estado_1_7}}|{{ingresos_estado_1_9}}
-Organismos autónomos|{{ingresos_ooaa_1_7}}|{{ingresos_ooaa_1_9}}
-Agencias estatales|{{ingresos_agencias_1_7}}|{{ingresos_agencias_1_9}}
-Otros organismos|{{ingresos_otros_1_7}}|{{ingresos_otros_1_9}}
-Seguridad Social|{{ingresos_seg_social_1_7}}|{{ingresos_seg_social_1_9}}
-(- transferencias internas)|{{ingresos_transferencias_1_7}}|{{ingresos_transferencias_1_9}}
-**TOTAL**|{{ingresos_consolidado_1_7}}|{{ingresos_consolidado_1_9}}
+Estado|{{ingresos_estado}}
+Organismos autónomos|{{ingresos_ooaa}}
+Agencias estatales|{{ingresos_agencias}}
+Otros organismos|{{ingresos_otros}}
+Seguridad Social|{{ingresos_seg_social}}
+(- transferencias internas)|{{ingresos_transferencias}}
+**TOTAL**|{{ingresos_consolidado}}
 
 ###Gastos
 
  | No Financieros (I-VII) | Total (I-IX)
 :--|---------------------:|-------------:
-Estado|{{gastos_estado_1_7}}|{{gastos_estado_1_9}}
-Organismos autónomos|{{gastos_ooaa_1_7}}|{{gastos_ooaa_1_9}}
-Agencias estatales|{{gastos_agencias_1_7}}|{{gastos_agencias_1_9}}
-Otros organismos|{{gastos_otros_1_7}}|{{gastos_otros_1_9}}
-Seguridad Social|{{gastos_seg_social_1_7}}|{{gastos_seg_social_1_9}}
-(- transferencias internas)|{{gastos_transferencias_1_7}}|{{gastos_transferencias_1_9}}
-**TOTAL**|{{gastos_consolidado_1_7}}|{{gastos_consolidado_1_9}}
+Estado|{{gastos_estado}}
+Organismos autónomos|{{gastos_ooaa}}
+Agencias estatales|{{gastos_agencias}}
+Otros organismos|{{gastos_otros}}
+Seguridad Social|{{gastos_seg_social}}
+(- transferencias internas)|{{gastos_transferencias}}
+**TOTAL**|{{gastos_consolidado}}
 TEMPLATE
 
 # Render the output file
