@@ -126,8 +126,14 @@ end
 # Collect categories first, then output, to avoid duplicated chapters and articles.
 # Important note: descriptions are consistent across the PGE budgets for chapters (x)
 # and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
-# So we are forced to do some gymnastics, and include the programme in the category id.
-# FIXME: Double check income ones are consistent, they seem so
+# So we are forced to do some gymnastics, and include the programme (for expenses)
+# or the section (for income data) in the category id.
+# Note: I initially thought income headings were consistent, but they are not: see for
+# example, [1][2]; code 398. They are _almost_ consistent, but nope.
+#
+# [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_105_1_2_160_1_104_1.HTM
+# [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_104_1_2_115_1_1302_1.HTM
+#
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
   expense_categories = {}
   expenses.each do |line|
@@ -181,6 +187,10 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
       # in the output (see below).
       next
 
+    elsif concept.length >=3  # Heading -> xxx/pppp
+      concept = "#{concept}/#{line[:section]}"
+      income_categories[concept] = line
+
     else                      # Chapters (x), articles (xx) and headings (xxx)
       # Although we've checked that descriptions for chapters, articles and headings are consistent,
       # we have a check here just to be sure.
@@ -193,13 +203,13 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
   end
 
   income_categories.sort.each do |concept, line|
-    concept, programme = concept.split('/')
+    concept, section = concept.split('/')
     csv << [year, 
             "I",
             concept[0], 
             concept.length >= 2 ? concept[0..1] : nil,
-            concept.length >= 3 ? concept[0..2] : nil,
-            concept.length >= 4 ? concept[0..3] : nil,
+            !section.nil? ? "#{concept[0..2]}/#{section}" : nil,
+            (!section.nil? && concept.length > 3) ? "#{concept}/#{section}" : nil,
             nil,  # Short description, not used
             line[:description] ]
   end
