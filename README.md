@@ -34,6 +34,7 @@ Rake
 Existen tareas Rake para ejecutar las tareas anteriores:
 
     $ rake -T
-    rake parse:budget[year]              # Extract all information from budget files
+    rake budget:parse[year]    # Extract all information from budget files
+    rake budget:summary[year]  # Generate a summary with budget key figures
 
 Los datos extraídos se redirigen a ficheros en la carpeta `output/[año]/`.
