@@ -20,10 +20,10 @@ Estado|164,848,690,230|202,984,314,510|271,317,986,730
 Organismos autónomos|49,423,246,460|49,436,353,380|49,703,887,460
 Agencias estatales|1,103,021,190|1,103,584,100|1,107,584,100
 Otros organismos|1,455,047,110|1,456,395,270|1,456,395,270
-Seguridad Social|129,290,629,480|131,675,091,210|131,675,139,460
-(- transferencias internas)|-32,033,645,710|-32,033,645,710|-32,033,645,710
+Seguridad Social|133,199,644,380|135,584,106,110|135,584,154,360
+(- transferencias internas)|-35,942,660,610|-35,942,660,610|-35,942,660,610
 **TOTAL**|314,086,988,760|354,622,092,760|423,227,347,310
 
 ###Comprobaciones
 
- * Transferencias internas ingresos = gastos: ERROR -35,942,660,610 != -32,033,645,710
+ * Transferencias internas ingresos = gastos: OK

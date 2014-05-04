@@ -3753,7 +3753,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2014;G;3;35;359/923O;;;Otros gastos financieros
 2014;G;4;;;;;TRANSFERENCIAS CORRIENTES
 2014;G;4;40;;;;A la Administración del Estado
-2014;G;4;40;400/000X;;;Al Estado
+2014;G;4;40;400/000X;;;A la Administración del Estado
 2014;G;4;40;401/000X;;;A la Administración del Estado.
 2014;G;4;40;402/000X;;;Reserva gestión directa del SPEE. Gestión de acciones y medidas de políticas activas de empleo en colaboración con órganos de la Administración General del Estado (EJE 3)
 2014;G;4;40;409/000X;;;Por las transferencias a las Comunidades Autónomas en políticas activas de empleo
@@ -3767,17 +3767,18 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2014;G;4;41;416/000X;;;Al Instituto de Salud Carlos III (ISCIII)
 2014;G;4;41;417/000X;;;Al Consejo de Administración del Patrimonio Nacional
 2014;G;4;41;418/000X;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) para el Fusion for Energy
-2014;G;4;41;419/000X;;;Al Instituto Español de Oceanografía (IEO) para el funcionamiento operativo de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas
+2014;G;4;41;419/000X;;;Otras transferencias
 2014;G;4;42;;;;A la Seguridad Social
 2014;G;4;42;420/000X;;;Prestaciones socio-económicas de carácter no contributivo.
-2014;G;4;42;421/000X;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones corrientes del Instituto Nacional de Gestión Sanitaria
-2014;G;4;42;422/000X;;;Aportación al Instituto Nacional de Gestión Sanitaria para compensación de saldos y gastos por la atención a pacientes derivados a otras comunidades autonomas para asegurar la cohesión del SNS
-2014;G;4;42;423/000X;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.
+2014;G;4;42;421/000X;;;Aportaciones para el sostenimiento de servicios comunes
+2014;G;4;42;422/000X;;;Capitales renta
+2014;G;4;42;423/000X;;;Cuotas de reaseguro de accidentes de trabajo
 2014;G;4;42;424/000X;;;Al IMSERSO, para el cumplimiento de sus fines
 2014;G;4;42;425/000X;;;Al IMSERSO para la cobertura de obligaciones de ejercicios anteriores por cuotas sociales de cuidadores no profesionales en dependencia (SAAD)
 2014;G;4;42;426/000X;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM
 2014;G;4;42;427/000X;;;Al IMSERSO para mínimo garantizado en dependencia
-2014;G;4;42;429/000X;;;Al IMSERSO para otros gastos en dependencia
+2014;G;4;42;428/000X;;;Aplicaciones del Fondo de Prevención y Rehabilitación
+2014;G;4;42;429/000X;;;Otras transferencias a entidades del sistema
 2014;G;4;43;;;;A agencias estatales y otros organismos públicos
 2014;G;4;43;430/000X;;;Acciones y medidas de políticas activas de empleo a desarrollar en el exterior. Oportunidades de empleo y formación. A la Agencia Española de Cooperación Internacional para el Desarrollo (AECID). (EJE 2)
 2014;G;4;43;430/911N;;;A Agencias Estatales y otros Organismos Públicos
@@ -4998,7 +4999,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2014;G;7;71;718/000X;;;Al Fondo Español de Garantía Agraria (FEGA) para cofinanciación Programas de Desarrollo Rural
 2014;G;7;71;719/000X;;;Al Real Patronato sobre Discapacidad
 2014;G;7;72;;;;A la Seguridad Social
-2014;G;7;72;720/000X;;;Al IMSERSO, para el cumplimiento de sus fines
+2014;G;7;72;720/000X;;;A la Seguridad Social
 2014;G;7;72;721/000X;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones de capital del Instituto Nacional de Gestión Sanitaria
 2014;G;7;72;726/000X;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del Instituto Social de la Marina
 2014;G;7;72;727/000X;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina

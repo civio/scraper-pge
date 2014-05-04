@@ -25,10 +25,9 @@ class ProgrammeBreakdown < BaseBreakdown
   def initialize(filename)
     filename =~ PROGRAMME_EXPENSES_BKDOWN
     @year = '20'+$1
-    @programme = $2         # Programme id (of the form '123A')
     @filename = filename
   end
-  
+
   def section
     doc.css('.S0ESTILO3').first.text.strip =~ /^Sección: (\d\d) .+$/
     $1
@@ -36,6 +35,11 @@ class ProgrammeBreakdown < BaseBreakdown
 
   def section_name
     doc.css('.S0ESTILO3').first.text.strip =~ /^Sección: \d\d (.+)$/
+    $1
+  end
+
+  def programme
+    doc.css('.S0ESTILO3').last.text.strip =~ /^Programa: (\d\d\d\w) .+$/
     $1
   end
 
@@ -96,7 +100,7 @@ class ProgrammeBreakdown < BaseBreakdown
       section, service = get_section_and_service(columns[0])
       item = {
         :service => service,
-        :programme => @programme, 
+        :programme => programme, 
         :expense_concept => columns[1], 
         :description => columns[2],
         :amount => (columns[3] != '') ? columns[3] : columns[4] 
@@ -124,10 +128,14 @@ class ProgrammeBreakdown < BaseBreakdown
     data_grid
   end
 
-  PROGRAMME_EXPENSES_BKDOWN =      /N_(\d\d)_[AE]_R_31_2_1_G_1_1_1(\d\d\d\w)_P.HTM/;
+  PROGRAMME_EXPENSES_BKDOWN =      /N_(\d\d)_[AE]_R_31_2_1_G_1_1_(?:1\d\d\d\w_P|T_1).HTM/;
   # Note:                                              ^ 
   #       This will catch only Social Security programme breakdowns (see Budget class for info).
-  #       It's what I need for now. Note it doesn't pick up internal transfers either. 
+  #       It's what I need for now. 
+  #       Stupidly, the internal transfers are shown in a file with a different name scheme,
+  #       despite the fact they are also clearly identified by belonging to programme 000X,
+  #       so we are forced to have two options at the end of the file, and we can't get
+  #       the programme id from the filename, we have to scrape it from inside the content.
   
   def doc
     @doc = Nokogiri::HTML(open(@filename)) if @doc.nil?  # Lazy parsing of doc, only when needed
