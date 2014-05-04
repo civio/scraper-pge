@@ -125,10 +125,12 @@ end
 # Collect categories first, then output, to avoid duplicated chapters and articles.
 # Important note: descriptions are consistent across the PGE budgets for chapters (x)
 # and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
-# So we are forced to do some gymnastics, and include the programme (for expenses)
-# or the section (for income data) in the category id.
+# So we are forced to do some gymnastics, and include the entity id (i.e. section plus
+# department/service) in the category id.
 # Note: I initially thought income headings were consistent, but they are not: see for
 # example, [1][2]; code 398. They are _almost_ consistent, but nope.
+# Note: I thought programme would be enough on the expense side. It's not. I thought
+# section would be enough on both sides. It is not. We need section and department/service.
 #
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_105_1_2_160_1_104_1.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_104_1_2_115_1_1302_1.HTM
@@ -147,29 +149,29 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
       next
 
     elsif concept.length >=3  # Heading -> xxx/pppp
-      concept = "#{concept}/#{line[:programme]}"
-      expense_categories[concept] = line
+      concept = "#{concept}/#{get_entity_id(line[:section], line[:service])}"
 
     else                      # Chapters (x) and articles (xx)
-      # Although we've checked that descriptions for chapters and articles are consistent,
-      # we have a check here just to be sure.
-      if !expense_categories[concept].nil? and expense_categories[concept][:description] != line[:description]
-        puts "Warning: different descriptions for expense economic concept #{concept}: had #{expense_categories[concept][:description]}, now got #{line[:description]}"
-      end
-      expense_categories[concept] = line
-
+      # Nothing to do, move along
     end
+
+    # Although we've checked that descriptions for chapters and articles are consistent, and we're
+    # working around the inconsistencies of headings, we have a check here just to be safe.
+    if !expense_categories[concept].nil? and expense_categories[concept][:description] != line[:description]
+      puts "Warning: different descriptions for expense economic concept #{concept}: had #{expense_categories[concept][:description]}, now got #{line[:description]}"
+    end
+    expense_categories[concept] = line
   end
 
   csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
   expense_categories.sort.each do |concept, line|
-    concept, programme = concept.split('/')
+    concept, entity_id = concept.split('/')
     csv << [year, 
             "G",
             concept[0], 
             concept.length >= 2 ? concept[0..1] : nil,
-            !programme.nil? ? "#{concept[0..2]}/#{programme}" : nil,
-            (!programme.nil? && concept.length > 3) ? "#{concept}/#{programme}" : nil,
+            !entity_id.nil? ? "#{concept[0..2]}/#{entity_id}" : nil,
+            (!entity_id.nil? && concept.length > 3) ? "#{concept}/#{entity_id}" : nil,
             nil,  # Short description, not used
             line[:description] ]
   end
@@ -187,28 +189,29 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
       next
 
     elsif concept.length >=3  # Heading -> xxx/ss
-      concept = "#{concept}/#{line[:section]}"
-      income_categories[concept] = line
+      concept = "#{concept}/#{get_entity_id(line[:section], line[:service])}"
 
     else                      # Chapters (x) and articles (xx)
-      # Although we've checked that descriptions for chapters, articles and headings are consistent,
-      # we have a check here just to be sure.
-      if !income_categories[concept].nil? and income_categories[concept][:description] != line[:description]
-        puts "Warning: different descriptions for income economic concept #{concept}: had #{income_categories[concept][:description]}, now got #{line[:description]}"
-      end
-      income_categories[concept] = line
-
+      # Nothing to do, move along
     end
+
+    # Although we've checked that descriptions for chapters and articles are consistent, and we're
+    # working around the inconsistencies of headings, we have a check here just to be safe.
+    if !income_categories[concept].nil? and income_categories[concept][:description] != line[:description]
+      puts "Warning: different descriptions for income economic concept #{concept}: had #{income_categories[concept][:description]}, now got #{line[:description]}"
+    end
+    income_categories[concept] = line
+
   end
 
   income_categories.sort.each do |concept, line|
-    concept, section = concept.split('/')
+    concept, entity_id = concept.split('/')
     csv << [year, 
             "I",
             concept[0], 
             concept.length >= 2 ? concept[0..1] : nil,
-            !section.nil? ? "#{concept[0..2]}/#{section}" : nil,
-            (!section.nil? && concept.length > 3) ? "#{concept}/#{section}" : nil,
+            !entity_id.nil? ? "#{concept[0..2]}/#{entity_id}" : nil,
+            (!entity_id.nil? && concept.length > 3) ? "#{concept}/#{entity_id}" : nil,
             nil,  # Short description, not used
             line[:description] ]
   end
