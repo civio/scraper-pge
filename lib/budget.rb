@@ -79,6 +79,9 @@ N_10_E_V_3_    Anexos de personal
 
 =end
 
+# TODO: Actually, we could remove this class and move the methods below into the
+# breakdown classes, as class methods
+
 require_relative 'entity_breakdown'
 require_relative 'programme_breakdown'
 require_relative 'income_breakdown'
