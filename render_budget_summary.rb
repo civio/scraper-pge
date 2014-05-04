@@ -50,6 +50,10 @@ Otros organismos|{{gastos_otros}}
 Seguridad Social|{{gastos_seg_social}}
 (- transferencias internas)|{{gastos_transferencias}}
 **TOTAL**|{{gastos_consolidado}}
+
+###Comprobaciones
+
+{{{check_budget}}}
 TEMPLATE
 
 # Render the output file

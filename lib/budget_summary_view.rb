@@ -49,15 +49,6 @@ class BudgetSummaryView < Mustache
   def gastos_transferencias; gastos(:transferencias) end
   def gastos_consolidado; gastos(:consolidado) end
 
-  def sum(breakdown, limit)
-    (1..limit).inject(0) {|sum, chapter| sum + (breakdown[chapter.to_s]||0) }
-  end
-
-  def beautify(i)
-    # See http://stackoverflow.com/questions/6458990/how-to-format-a-number-1000-as-1-000
-    i.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
-  end
-
   def add_item(item)
     # Extract basic details
     is_income = (item.size == 7)
@@ -99,6 +90,34 @@ class BudgetSummaryView < Mustache
       chapter = concept[0]
       root_breakdown[:transferencias][chapter] = (root_breakdown[:transferencias][chapter]||0) - amount
       root_breakdown[:consolidado][chapter] = (root_breakdown[:consolidado][chapter]||0) - amount
+    end
+  end
+
+  def check_budget
+    checks = []
+    checks << check_equal("Transferencias internas ingresos = gastos", 
+                          beautify(sum(@income[:transferencias], 9)),
+                          beautify(sum(@expenses[:transferencias], 9)) )
+    checks.join('\n')
+  end
+
+  private
+  
+  def sum(breakdown, limit)
+    (1..limit).inject(0) {|sum, chapter| sum + (breakdown[chapter.to_s]||0) }
+  end
+
+  def beautify(i)
+    # See http://stackoverflow.com/questions/6458990/how-to-format-a-number-1000-as-1-000
+    i.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
+  end
+
+  # Poor man's unit test... for budgets
+  def check_equal(message, a, b)
+    if a==b
+      " * #{message}: OK"
+    else
+      " * #{message}: ERROR #{a} != #{b}"
     end
   end
 end

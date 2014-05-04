@@ -23,3 +23,7 @@ Otros organismos|1,455,047,110|1,456,395,270|1,456,395,270
 Seguridad Social|129,290,629,480|131,675,091,210|131,675,139,460
 (- transferencias internas)|-32,033,645,710|-32,033,645,710|-32,033,645,710
 **TOTAL**|314,086,988,760|354,622,092,760|423,227,347,310
+
+###Comprobaciones
+
+ * Transferencias internas ingresos = gastos: ERROR -35,942,660,610 != -32,033,645,710
