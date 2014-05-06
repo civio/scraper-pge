@@ -26,47 +26,21 @@ class BudgetSummaryView < Mustache
 
   def year; @year end
 
-  def ingresos(type)
-    "#{beautify sum(@income[type], 7)}|" \
-    "#{beautify sum(@income[type], 8)}|" \
-    "#{beautify sum(@income[type], 9)}|" \
-    "#{beautify( sum(@income[type], 9)+(@income[type][:transferencias]||0) )}"
-  end
-  def ingresos_estado; ingresos(:estado) end
-  def ingresos_ooaa; ingresos(:ooaa) end
-  def ingresos_agencias; ingresos(:agencias) end
-  def ingresos_otros; ingresos(:otros) end
-  def ingresos_seg_social; ingresos(:seg_social) end
-  def ingresos_transferencias
-    total_transfers = beautify(@income[:consolidado][:transferencias])
-    "#{total_transfers}|#{total_transfers}|#{total_transfers}|" 
-  end
-  def ingresos_consolidado
-    "**#{beautify sum(@income[:consolidado], 7)}**|" \
-    "**#{beautify sum(@income[:consolidado], 8)}**|" \
-    "**#{beautify sum(@income[:consolidado], 9)}**|"
-  end
+  def ingresos_estado; summary_line(@income, :estado) end
+  def ingresos_ooaa; summary_line(@income, :ooaa) end
+  def ingresos_agencias; summary_line(@income, :agencias) end
+  def ingresos_otros; summary_line(@income, :otros) end
+  def ingresos_seg_social; summary_line(@income, :seg_social) end
+  def ingresos_transferencias; transfer_line(@income) end
+  def ingresos_consolidado; total_line(@income) end
 
-  def gastos(type)
-    "#{beautify sum(@expenses[type], 7)}|" \
-    "#{beautify sum(@expenses[type], 8)}|" \
-    "#{beautify sum(@expenses[type], 9)}|" \
-    "#{beautify( sum(@expenses[type], 9)+(@expenses[type][:transferencias]||0) )}"
-  end
-  def gastos_estado; gastos(:estado) end
-  def gastos_ooaa; gastos(:ooaa) end
-  def gastos_agencias; gastos(:agencias) end
-  def gastos_otros; gastos(:otros) end
-  def gastos_seg_social; gastos(:seg_social) end
-  def gastos_transferencias
-    total_transfers = beautify(@expenses[:consolidado][:transferencias])
-    "#{total_transfers}|#{total_transfers}|#{total_transfers}|" 
-  end
-  def gastos_consolidado
-    "**#{beautify sum(@expenses[:consolidado], 7)}**|" \
-    "**#{beautify sum(@expenses[:consolidado], 8)}**|" \
-    "**#{beautify sum(@expenses[:consolidado], 9)}**|"
-  end
+  def gastos_estado; summary_line(@expenses, :estado) end
+  def gastos_ooaa; summary_line(@expenses, :ooaa) end
+  def gastos_agencias; summary_line(@expenses, :agencias) end
+  def gastos_otros; summary_line(@expenses, :otros) end
+  def gastos_seg_social; summary_line(@expenses, :seg_social) end
+  def gastos_transferencias; transfer_line(@expenses) end
+  def gastos_consolidado; total_line(@expenses) end
 
   def add_item(item)
     # Extract basic details
@@ -141,7 +115,25 @@ class BudgetSummaryView < Mustache
   end
 
   private
-  
+
+  def summary_line(breakdown, type)
+    "#{beautify sum(breakdown[type], 7)}|" \
+    "#{beautify sum(breakdown[type], 8)}|" \
+    "#{beautify sum(breakdown[type], 9)}|" \
+    "#{beautify( sum(breakdown[type], 9)+(breakdown[type][:transferencias]||0) )}"
+  end
+
+  def transfer_line(breakdown)
+    total_transfers = beautify(breakdown[:consolidado][:transferencias])
+    "#{total_transfers}|#{total_transfers}|#{total_transfers}|" 
+  end
+
+  def total_line(breakdown)
+    "**#{beautify sum(breakdown[:consolidado], 7)}**|" \
+    "**#{beautify sum(breakdown[:consolidado], 8)}**|" \
+    "**#{beautify sum(breakdown[:consolidado], 9)}**|"
+  end
+
   def sum(breakdown, limit)
     (1..limit).inject(0) {|sum, chapter| sum + (breakdown[chapter.to_s]||0) }
   end
