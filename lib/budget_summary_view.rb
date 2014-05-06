@@ -131,7 +131,8 @@ class BudgetSummaryView < Mustache
   def total_line(breakdown)
     "**#{beautify sum(breakdown[:consolidado], 7)}**|" \
     "**#{beautify sum(breakdown[:consolidado], 8)}**|" \
-    "**#{beautify sum(breakdown[:consolidado], 9)}**|"
+    "**#{beautify sum(breakdown[:consolidado], 9)}**|" \
+    "**#{beautify sum(breakdown[:consolidado], 9)}**"
   end
 
   def sum(breakdown, limit)
