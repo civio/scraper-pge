@@ -34,25 +34,25 @@ template = <<TEMPLATE
 
  | No Financieros (I-VII) | I-VIII | Total (I-IX) | Consolidado
 :--|---------------------:|-------:|-------------:|------------:
-Estado|{{ingresos_estado}}
-Organismos autónomos|{{ingresos_ooaa}}
-Agencias estatales|{{ingresos_agencias}}
-Otros organismos|{{ingresos_otros}}
-Seguridad Social|{{ingresos_seg_social}}
+**Estado**|{{ingresos_estado}}
+**Organismos autónomos**|{{ingresos_ooaa}}
+**Agencias estatales**|{{ingresos_agencias}}
+**Otros organismos**|{{ingresos_otros}}
+**Seguridad Social**|{{ingresos_seg_social}}
 (- transferencias internas)|{{ingresos_transferencias}}
-**TOTAL**|{{ingresos_consolidado}}
+**TOTAL**|**{{ingresos_consolidado}}**
 
 ###Gastos
 
  | No Financieros (I-VII) | I-VIII | Total (I-IX) | Consolidado
 :--|---------------------:|-------:|-------------:|------------:
-Estado|{{gastos_estado}}
-Organismos autónomos|{{gastos_ooaa}}
-Agencias estatales|{{gastos_agencias}}
-Otros organismos|{{gastos_otros}}
-Seguridad Social|{{gastos_seg_social}}
+**Estado**|{{gastos_estado}}
+**Organismos autónomos**|{{gastos_ooaa}}
+**Agencias estatales**|{{gastos_agencias}}
+**Otros organismos**|{{gastos_otros}}
+**Seguridad Social**|{{gastos_seg_social}}
 (- transferencias internas)|{{gastos_transferencias}}
-**TOTAL**|{{gastos_consolidado}}
+**TOTAL**|**{{gastos_consolidado}}**
 
 ###Comprobaciones
 
