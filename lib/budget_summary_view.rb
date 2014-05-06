@@ -166,6 +166,10 @@ class BudgetSummaryView < Mustache
                           get_official_value(expenses, "TOTAL PRESUPUESTO"),
                           beautify(sum(@expenses[entity_id], 9)),
                           url )
+    checks << check_equal("Gastos #{entity_description} - presupuesto consolidado", 
+                          get_official_value(expenses, "TOTAL CONSOLIDADO"),
+                          beautify(sum(@expenses[entity_id], 9)+(@expenses[entity_id][:transferencias]||0)),
+                          url )
 
     checks
   end
@@ -183,6 +187,10 @@ class BudgetSummaryView < Mustache
     checks << check_equal("Ingresos #{entity_description} - presupuesto total", 
                           get_official_value(income, "TOTAL"),
                           beautify(sum(@income[entity_id], 9)),
+                          url )
+    checks << check_equal("Ingresos #{entity_description} - presupuesto consolidado", 
+                          get_official_value(income, "TOTAL CONSOLIDADO"),
+                          beautify(sum(@income[entity_id], 9)+(@income[entity_id][:transferencias]||0)),
                           url )
 
     checks
