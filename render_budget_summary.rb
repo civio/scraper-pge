@@ -32,8 +32,8 @@ template = <<TEMPLATE
 
 ###Ingresos
 
- | No Financieros (I-VII) | I-VIII | Total (I-IX)
-:--|---------------------:|-------:|-------------:
+ | No Financieros (I-VII) | I-VIII | Total (I-IX) | Consolidado
+:--|---------------------:|-------:|-------------:|------------:
 Estado|{{ingresos_estado}}
 Organismos autónomos|{{ingresos_ooaa}}
 Agencias estatales|{{ingresos_agencias}}
@@ -44,8 +44,8 @@ Seguridad Social|{{ingresos_seg_social}}
 
 ###Gastos
 
- | No Financieros (I-VII) | I-VIII | Total (I-IX)
-:--|---------------------:|-------:|-------------:
+ | No Financieros (I-VII) | I-VIII | Total (I-IX) | Consolidado
+:--|---------------------:|-------:|-------------:|------------:
 Estado|{{gastos_estado}}
 Organismos autónomos|{{gastos_ooaa}}
 Agencias estatales|{{gastos_agencias}}

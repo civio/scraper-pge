@@ -12,7 +12,6 @@ class BudgetSummaryView < Mustache
       agencias: {},
       otros: {},
       seg_social: {},
-      transferencias: {},
       consolidado: {}
     }
     @expenses = {
@@ -21,7 +20,6 @@ class BudgetSummaryView < Mustache
       agencias: {},
       otros: {},
       seg_social: {},
-      transferencias: {},
       consolidado: {}
     }
   end
@@ -29,26 +27,38 @@ class BudgetSummaryView < Mustache
   def year; @year end
 
   def ingresos(type)
-    "#{beautify sum(@income[type], 7)}|#{beautify sum(@income[type], 8)}|#{beautify sum(@income[type], 9)}"
+    "#{beautify sum(@income[type], 7)}|" \
+    "#{beautify sum(@income[type], 8)}|" \
+    "#{beautify sum(@income[type], 9)}|" \
+    "#{beautify( sum(@income[type], 9)+@income[type][:transferencias] )}"
   end
   def ingresos_estado; ingresos(:estado) end
   def ingresos_ooaa; ingresos(:ooaa) end
   def ingresos_agencias; ingresos(:agencias) end
   def ingresos_otros; ingresos(:otros) end
   def ingresos_seg_social; ingresos(:seg_social) end
-  def ingresos_transferencias; ingresos(:transferencias) end
   def ingresos_consolidado; ingresos(:consolidado) end
+  def ingresos_transferencias
+    total_transfers = beautify(@income[:consolidado][:transferencias])
+    "#{total_transfers}|#{total_transfers}|#{total_transfers}|" 
+  end
 
   def gastos(type)
-    "#{beautify sum(@expenses[type], 7)}|#{beautify sum(@expenses[type], 8)}|#{beautify sum(@expenses[type], 9)}"
+    "#{beautify sum(@expenses[type], 7)}|" \
+    "#{beautify sum(@expenses[type], 8)}|" \
+    "#{beautify sum(@expenses[type], 9)}|" \
+    "#{beautify( sum(@expenses[type], 9)+(@expenses[type][:transferencias]||0) )}"
   end
   def gastos_estado; gastos(:estado) end
   def gastos_ooaa; gastos(:ooaa) end
   def gastos_agencias; gastos(:agencias) end
   def gastos_otros; gastos(:otros) end
   def gastos_seg_social; gastos(:seg_social) end
-  def gastos_transferencias; gastos(:transferencias) end
   def gastos_consolidado; gastos(:consolidado) end
+  def gastos_transferencias
+    total_transfers = beautify(@expenses[:consolidado][:transferencias])
+    "#{total_transfers}|#{total_transfers}|#{total_transfers}|" 
+  end
 
   def add_item(item)
     # Extract basic details
@@ -61,19 +71,20 @@ class BudgetSummaryView < Mustache
 
     # Find out which sector the item belongs to
     if section == '60'
-      breakdown = root_breakdown[:seg_social]
+      category = :seg_social
     else
       case entity[2]
       when '1', '2'
-        breakdown = root_breakdown[:ooaa]
+        category = :ooaa
       when '3'
-        breakdown = root_breakdown[:otros]
+        category = :otros
       when '4'
-        breakdown = root_breakdown[:agencias]
+        category = :agencias
       else  # 0
-        breakdown = root_breakdown[:estado]
+        category = :estado
       end
     end
+    breakdown = root_breakdown[category]
 
     # Add it up
     if concept.length == 1  # We add only chapters, i.e. top-level concepts
@@ -89,8 +100,9 @@ class BudgetSummaryView < Mustache
     end
     if is_internal_transfer
       chapter = concept[0]
-      root_breakdown[:transferencias][chapter] = (root_breakdown[:transferencias][chapter]||0) - amount
+      breakdown[:transferencias] = (breakdown[:transferencias]||0) - amount
       root_breakdown[:consolidado][chapter] = (root_breakdown[:consolidado][chapter]||0) - amount
+      root_breakdown[:consolidado][:transferencias] = (root_breakdown[:consolidado][:transferencias]||0) - amount
     end
   end
 
@@ -99,8 +111,8 @@ class BudgetSummaryView < Mustache
 
     # Internal consistency
     checks << check_equal("Transferencias internas ingresos = gastos", 
-                          beautify(sum(@income[:transferencias], 9)),
-                          beautify(sum(@expenses[:transferencias], 9)) )
+                          beautify(@income[:consolidado][:transferencias]),
+                          beautify(@expenses[:consolidado][:transferencias]) )
 
     # Expenses
     checks.concat check_expenses('R_6_2_801_1_3', "Estado", :estado)
