@@ -88,6 +88,17 @@ class BudgetSummaryView < Mustache
     end
   end
 
+  # Performs a series of tests comparing our aggregated figures with the summary
+  # ones published as part of the official budget. Automated testing for budget parsing!
+  #
+  # Note: I considered using as valid the global summaries published in the Yellow series [1].
+  # But they are NOT correct. That's correct: some of the summaries included in the budget
+  # are incorrect! Just compare f.ex. the total expense for 'other bodies' in [1] with the 
+  # corresponding detailed breakdown at [2]. The sums in [1] are being done using ROUNDED
+  # numbers, and the totals never corrected, so they are WRONG!
+  #
+  # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014proyecto/MaestroDocumentos/PGE-ROM/N_14_A_A_3.htm
+  # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_6_1_102_1_4_1.HTM
   def check_budget
     checks = []
 
