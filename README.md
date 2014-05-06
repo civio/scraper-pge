@@ -1,7 +1,7 @@
 Los Presupuestos
 ================
 
-Los Presupuestos Generales del Estado del año 2010 se encuentran disponibles en la web del [Ministerio de Economía y Hacienda][1]. Antes de comenzar a trabajar con los Presupuestos es muy recomendable leer el [Libro Azul][2], que da una visión general de la estructura de los mismos.
+Los Presupuestos Generales del Estado del año 2010 se encuentran disponibles en la web del [Ministerio de Hacienda y Administraciones Públicas][1]. Antes de comenzar a trabajar con los Presupuestos es muy recomendable leer el [Libro Azul][2], que da una visión general de la estructura de los mismos.
 
 Ejecutando los scripts
 ======================
@@ -9,32 +9,35 @@ Ejecutando los scripts
 Preparación: descargando los Presupuestos
 -----------------------------------------
 
-Los Presupuestos Generales del año 2010 están disponibles en la web del Ministerio tanto en su versión aprobada (la que nos interesa por ahora) como en la versión del proyecto de ley. Cada una de estas versiones se puede visualizar en línea o se puede descargar. En nuestro caso, estamos interesados en descargar la información para trabajar localmente, mucho más cómoda y rápidamente.
+Los Presupuestos Generales del Estado están disponibles en la web del Ministerio tanto en su versión aprobada (la que nos interesa por ahora) como en la versión del proyecto de ley. Cada una de estas versiones se puede visualizar en línea o se puede descargar. En nuestro caso, estamos interesados en descargar la información para trabajar localmente, mucho más cómoda y rápidamente.
 
 Las descargas se pueden hacer "por tomos", donde un fichero PDF representa cada uno de los tomos que componen la versión física del Presupuesto, pero para procesar la información automáticamente es mucho mejor la versión "normal", que incluye una versión HTML de cada uno de los artículos del Presupuesto.
 
-[1]: http://www.sgpg.pap.meh.es/SITIOS/SGPG/ES-ES/PRESUPUESTOS/Paginas/PGE2010.aspx
-[2]: http://www.sgpg.pap.meh.es/sitios/sgpg/es-ES/Presupuestos/Presupuestos/Documents/PROYECTO/LIBRO%20AZULv3.pdf
+[1]: http://www.sepg.pap.minhap.gob.es/sitios/sepg/es-ES/Presupuestos/pge2014/Paginas/pge2014.aspx
+[2]: http://www.sepg.pap.minhap.gob.es/sitios/sepg/es-ES/Presupuestos/pge2014/Documents/LIBROAZUL2014.pdf
 
 Entendiendo la estructura de ficheros
 -------------------------------------
 
-La versión de los Presupuestos que nos hemos descargado consiste en un enorme conjunto de ficheros .HTM con nombres aparentemente crípticos. Una pequeña explicación del significado de los nombres de los ficheros se encuentra en `budget.rb` (hasta donde yo sé).
+La versión de los Presupuestos que nos hemos descargado consiste en un enorme conjunto de ficheros .HTM con nombres aparentemente crípticos. Una pequeña explicación del significado de los nombres de los ficheros se encuentra en [`budget.rb`][3].
+
+[3]: https://github.com/civio/pge-parser/blob/master/lib/budget.rb
 
 Extracción de gastos presupuestados
 -----------------------------------
 
-Para extraer los datos de gastos de los Presupuestos, ejecutar:
-
-    > ./parse_budget.rb
-
-Rake
-----
-
-Existen tareas Rake para ejecutar las tareas anteriores:
+Existen tareas Rake para ejecutar las tareas relacionadas con los presupuestos:
 
     $ rake -T
     rake budget:parse[year]    # Extract all information from budget files
     rake budget:summary[year]  # Generate a summary with budget key figures
 
+Para extraer los datos de gastos de los Presupuestos, ejecutar por ejemplo:
+
+    > rake budget:parse[2014]
+
 Los datos extraídos se redirigen a ficheros en la carpeta `output/[año]/`.
+
+Para generar un resumen con las principales cifras del presupuesto, así como verificar su validez comparándolas con las cifras oficiales, ejecutar:
+
+    > rake budget:summary[2014]
