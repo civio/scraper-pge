@@ -11,6 +11,16 @@ class GenericBreakdown < BaseBreakdown
     @filename = filename
   end
 
+  def year
+    @filename =~ /N_(\d\d)_/
+    $1
+  end
+
+  def is_final
+    @filename =~ /N_(\d\d)_([AE])_/
+    return $2 == 'E'
+  end
+
   # Retrieve a cell given its row and column position (-1 means last, as in Ruby)
   def get_item_by_position(row_position, column_position)
     # Get rows in HTML table, skipping header
@@ -35,6 +45,11 @@ class GenericBreakdown < BaseBreakdown
       # We got to the right row, just return the rightmost column
       return columns[-1]  
     end
+  end
+
+  # Let's see how long this lasts :/
+  def get_url()
+    "http://www.sepg.pap.minhap.gob.es/Presup/PGE20#{year}#{is_final ? 'Ley' : 'Proyecto'}/MaestroDocumentos/PGE-ROM/doc/HTM/#{File.basename(@filename)}"
   end
 
   private
