@@ -180,7 +180,7 @@ class BudgetSummaryView < Mustache
     if a==b
       output = " * #{message}: OK (#{a})"
     else
-      output = " * #{message}: ERROR #{a} != #{b}"
+      output = " * **#{message}: ERROR #{a} != #{b}**"
     end
     output = output + "   [fuente](#{source})" unless source.nil?
     output
