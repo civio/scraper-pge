@@ -180,7 +180,7 @@ class BudgetSummaryView < Mustache
                           beautify(sum(@expenses[entity_id], 9)),
                           url )
 
-    if transfers != 0
+    if transfers != 0 or ['2014'].include? @year # snif
       checks << check_equal("Gastos #{entity_description} - presupuesto consolidado", 
                             get_official_value(expenses, "TOTAL CONSOLIDADO"),
                             beautify(sum(@expenses[entity_id], 9)+transfers),
