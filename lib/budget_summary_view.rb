@@ -152,23 +152,36 @@ class BudgetSummaryView < Mustache
   def check_expenses(breakdown_id, entity_description, entity_id)
     checks = []
 
+    # Does the official budget summary substract the internal transfers at the end, after
+    # adding up gross figures for the different chapters? Or does it add net figures, and 
+    # add the transfers at the end to get the overall gross figure. Well, it depends on the 
+    # year of the budget! Oh yeah!
+    add_gross_figures = ['2014'].include? @year
+    if add_gross_figures
+      gross_total_name = "TOTAL PRESUPUESTO"
+    else
+      gross_total_name = "TOTAL"
+    end
+
     expenses = @budget.generic_breakdown(@year, breakdown_id)
+    # We know that all transfers sit in chapters <= 7, so we just use the total everywhere
+    transfers = @expenses[entity_id][:transferencias]||0
     url = expenses.get_url()
     checks << check_equal("Gastos #{entity_description} - operaciones no financieros", 
                           get_official_value(expenses, "TOTAL OPERACIONES NO FINANCIERAS"),
-                          beautify(sum(@expenses[entity_id], 7)),
+                          beautify(sum(@expenses[entity_id], 7) + (add_gross_figures ? 0 : transfers)),
                           url )
     checks << check_equal("Gastos #{entity_description} - capítulos I-VIII", 
                           get_official_value(expenses, "TOTAL Capítulos 1-8"),
-                          beautify(sum(@expenses[entity_id], 8)),
+                          beautify(sum(@expenses[entity_id], 8) + (add_gross_figures ? 0 : transfers)),
                           url ) unless entity_id==:otros
     checks << check_equal("Gastos #{entity_description} - presupuesto total", 
-                          get_official_value(expenses, "TOTAL PRESUPUESTO"),
+                          get_official_value(expenses, gross_total_name),
                           beautify(sum(@expenses[entity_id], 9)),
                           url )
     checks << check_equal("Gastos #{entity_description} - presupuesto consolidado", 
                           get_official_value(expenses, "TOTAL CONSOLIDADO"),
-                          beautify(sum(@expenses[entity_id], 9)+(@expenses[entity_id][:transferencias]||0)),
+                          beautify(sum(@expenses[entity_id], 9)+transfers),
                           url )
 
     checks
