@@ -27,6 +27,7 @@ require_relative 'lib/budget'
 
 budget_id = ARGV[0]
 year = budget_id[0..3]  # Sometimes there's a P for 'Proposed' at the end. Ignore that bit
+is_final = (budget_id.length == 4)
 output_path = File.join(".", "output", budget_id)
 
 
@@ -45,10 +46,10 @@ income = []
 expenses = []
 additional_institutions = []
 
-Budget.new(budget_id).entity_breakdowns.each do |bkdown|
+Budget.new(budget_id, is_final).entity_breakdowns.each do |bkdown|
   expenses.concat bkdown.expenses
 end
-Budget.new(budget_id).programme_breakdowns.each do |bkdown|
+Budget.new(budget_id, is_final).programme_breakdowns.each do |bkdown|
   expenses.concat bkdown.expenses
 
   # Because of the way we're extracting Social Security budget (from programme breakdowns,
@@ -60,7 +61,7 @@ Budget.new(budget_id).programme_breakdowns.each do |bkdown|
   additional_institutions.concat bkdown.institutions
 end
 
-Budget.new(budget_id).income_breakdowns.each do |bkdown|
+Budget.new(budget_id, is_final).income_breakdowns.each do |bkdown|
   income.concat bkdown.income
 
   additional_institutions.concat bkdown.institutions
