@@ -109,6 +109,12 @@ class BudgetSummaryView < Mustache
     checks.concat check_expenses('R_6_2_804_1_3', "Otros organismos", :otros)
     checks.concat check_expenses('R_6_2_805_1_3', "Seguridad Social", :seg_social)
 
+    # Income
+    checks.concat check_income('R_6_1_101_1_5_1', "Estado", :estado)
+    checks.concat check_income('R_6_1_102_1_4_1', "Organismos Autónomos", :ooaa)
+    checks.concat check_income('R_6_1_103_1_4_1', "Agencias estatales", :agencias)
+    checks.concat check_income('R_6_1_104_1_4_1', "Otros organismos", :otros)
+    checks.concat check_income('R_6_1_105_1_5_1', "Seguridad Social", :seg_social)
 
     # Return results
     checks.join("\n")
@@ -146,6 +152,24 @@ class BudgetSummaryView < Mustache
     checks << check_equal("Gastos #{entity_description} - presupuesto total", 
                           get_official_value(expenses, "TOTAL PRESUPUESTO"),
                           beautify(sum(@expenses[entity_id], 9)),
+                          url )
+
+    checks
+  end
+
+  def check_income(breakdown_id, entity_description, entity_id)
+    checks = []
+
+    income = @budget.generic_breakdown(@year, breakdown_id)
+    url = income.get_url()
+    checks << check_equal("Ingresos #{entity_description} - operaciones no financieros", 
+                          get_official_value(income, "TOTAL OPERACIONES NO FINANCIERAS"),
+                          beautify(sum(@income[entity_id], 7)),
+                          url )
+    # the sum of chapters I-VIII is not there, so ignore that
+    checks << check_equal("Ingresos #{entity_description} - presupuesto total", 
+                          get_official_value(income, "TOTAL"),
+                          beautify(sum(@income[entity_id], 9)),
                           url )
 
     checks
