@@ -40,7 +40,7 @@ template = <<TEMPLATE
 **Otros organismos**|{{ingresos_otros}}
 **Seguridad Social**|{{ingresos_seg_social}}
 (- transferencias internas)|{{ingresos_transferencias}}
-**TOTAL**|**{{ingresos_consolidado}}**
+**TOTAL**|{{ingresos_consolidado}}
 
 ###Gastos
 
@@ -52,7 +52,7 @@ template = <<TEMPLATE
 **Otros organismos**|{{gastos_otros}}
 **Seguridad Social**|{{gastos_seg_social}}
 (- transferencias internas)|{{gastos_transferencias}}
-**TOTAL**|**{{gastos_consolidado}}**
+**TOTAL**|{{gastos_consolidado}}
 
 ###Comprobaciones
 
