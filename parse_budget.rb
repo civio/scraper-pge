@@ -22,7 +22,6 @@
 # ProgrammeBreakdown notes) a chapter is not even broken down into articles.
 #
 require 'csv'
-require 'bigdecimal'
 
 require_relative 'lib/budget'
 
@@ -71,11 +70,6 @@ end
 #
 # OUTPUT DATA SPREAD ACROSS A NUMBER OF FILES
 #
-
-# Reads a number in spanish notation. Also note input number is in thousands of euros.
-def convert_number(amount)
-  BigDecimal.new( amount.delete('.').tr(',','.') ) * 1000
-end
 
 # These policy ids and names don't change, at least since 2009
 def get_default_policies_and_programmes
@@ -285,7 +279,7 @@ CSV.open(File.join(output_path, "gastos.csv"), "w", col_sep: ';') do |csv|
             nil, 
             expense[:economic_concept].length > 3 ? expense[:economic_concept][3..4] : nil,
             expense[:description],
-            convert_number(expense[:amount]).to_int ]
+            Budget.convert_number(expense[:amount]) ]
   end
 end
 
@@ -312,7 +306,7 @@ CSV.open(File.join(output_path, "ingresos.csv"), "w", col_sep: ';') do |csv|
             nil, 
             item[:economic_concept].length > 3 ? item[:economic_concept][3..4] : nil,
             item[:description],
-            convert_number(item[:amount]).to_int ]
+            Budget.convert_number(item[:amount]) ]
   end
 end
 

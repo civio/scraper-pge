@@ -6,16 +6,19 @@
 require 'csv'
 require 'mustache'
 
+require_relative 'lib/budget'
 require_relative 'lib/budget_summary_view'
 
 # XXX: This command line stuff is duplicated in the parser, should clean up
 budget_id = ARGV[0]
 year = budget_id[0..3]  # Sometimes there's a P for 'Proposed' at the end. Ignore that bit
+is_final = (budget_id.length == 4)
 output_path = File.join(".", "output", budget_id)
 
 
 # Do the calculations
-summary = BudgetSummaryView.new(year)
+budget = Budget.new(budget_id, is_final)
+summary = BudgetSummaryView.new(budget, year)
 CSV.foreach(File.join(output_path, "ingresos.csv"), col_sep: ';') do |row|
   summary.add_item row
 end

@@ -79,16 +79,20 @@ N_10_E_V_3_    Anexos de personal
 
 =end
 
-# TODO: Actually, we could remove this class and move the methods below into the
-# breakdown classes, as class methods
+require 'bigdecimal'
+
+# TODO: Actually, we could probably remove this class and move the methods below into the
+# breakdown classes, as class methods.
 
 require_relative 'entity_breakdown'
 require_relative 'programme_breakdown'
 require_relative 'income_breakdown'
+require_relative 'generic_breakdown'
 
 class Budget
-  def initialize(path)
+  def initialize(path, is_final)
     @path = path || ''
+    @is_final = is_final
   end
   
   def entity_breakdowns
@@ -107,5 +111,17 @@ class Budget
     Dir[@path+'/doc/HTM/*.HTM'].
         select {|f| IncomeBreakdown.income_breakdown? f }.
         map {|f| IncomeBreakdown.new(f) }
+  end
+
+  def generic_breakdown(year, breakdown_id)
+    filename = "N_#{(year.to_s)[-2..-1]}_#{@is_final ? 'E' : 'A'}_#{breakdown_id}.HTM"
+    full_path = File.join(@path, 'doc', 'HTM', filename)
+    GenericBreakdown.new(full_path)
+  end
+
+  # Reads a number in spanish notation. Also note input number is in thousands of euros.
+  def self.convert_number(amount)
+    return '' if amount.nil? or amount.empty? or amount.delete('.').nil?
+    (BigDecimal.new( amount.delete('.').tr(',','.') ) * 1000).to_int
   end
 end
