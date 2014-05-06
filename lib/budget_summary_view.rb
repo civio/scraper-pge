@@ -174,6 +174,9 @@ class BudgetSummaryView < Mustache
     checks
   end
 
+  # Compared to the expense checks:
+  #  - the sum of chapters I-VIII is not there, so we can't test it
+  #  - we don't have consolidated figures, i.e. without internal transfers
   def check_income(breakdown_id, entity_description, entity_id)
     checks = []
 
@@ -183,14 +186,9 @@ class BudgetSummaryView < Mustache
                           get_official_value(income, "TOTAL OPERACIONES NO FINANCIERAS"),
                           beautify(sum(@income[entity_id], 7)),
                           url )
-    # the sum of chapters I-VIII is not there, so ignore that
     checks << check_equal("Ingresos #{entity_description} - presupuesto total", 
                           get_official_value(income, "TOTAL"),
                           beautify(sum(@income[entity_id], 9)),
-                          url )
-    checks << check_equal("Ingresos #{entity_description} - presupuesto consolidado", 
-                          get_official_value(income, "TOTAL CONSOLIDADO"),
-                          beautify(sum(@income[entity_id], 9)+(@income[entity_id][:transferencias]||0)),
                           url )
 
     checks
