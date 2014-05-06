@@ -179,10 +179,20 @@ class BudgetSummaryView < Mustache
                           get_official_value(expenses, gross_total_name),
                           beautify(sum(@expenses[entity_id], 9)),
                           url )
-    checks << check_equal("Gastos #{entity_description} - presupuesto consolidado", 
-                          get_official_value(expenses, "TOTAL CONSOLIDADO"),
-                          beautify(sum(@expenses[entity_id], 9)+transfers),
-                          url )
+
+    if transfers != 0
+      checks << check_equal("Gastos #{entity_description} - presupuesto consolidado", 
+                            get_official_value(expenses, "TOTAL CONSOLIDADO"),
+                            beautify(sum(@expenses[entity_id], 9)+transfers),
+                            url )
+    else
+      # If there are no internal transfers we check the consolidated figure
+      # in the official documentation is missing
+      checks << check_equal("Gastos #{entity_description} - presupuesto consolidado", 
+                            get_official_value(expenses, "TOTAL CONSOLIDADO"),
+                            '',
+                            url )
+    end
 
     checks
   end

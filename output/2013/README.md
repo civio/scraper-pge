@@ -41,7 +41,7 @@
  * Gastos Agencias estatales - presupuesto consolidado: OK (1,088,287,530)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_6_2_803_1_3.HTM)
  * Gastos Otros organismos - operaciones no financieros: OK (1,391,444,350)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_6_2_804_1_3.HTM)
  * Gastos Otros organismos - presupuesto total: OK (1,392,801,810)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_6_2_804_1_3.HTM)
- * **Gastos Otros organismos - presupuesto consolidado: ERROR  != 1,392,801,810**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_6_2_804_1_3.HTM)
+ * Gastos Otros organismos - presupuesto consolidado: OK ()   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_6_2_804_1_3.HTM)
  * Gastos Seguridad Social - operaciones no financieros: OK (125,648,704,650)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_6_2_805_1_3.HTM)
  * Gastos Seguridad Social - capítulos I-VIII: OK (128,085,507,690)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_6_2_805_1_3.HTM)
  * Gastos Seguridad Social - presupuesto total: OK (131,841,302,240)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2013Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_13_E_R_6_2_805_1_3.HTM)
