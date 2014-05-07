@@ -37,48 +37,18 @@ class EntityBreakdown < BaseBreakdown
     @filename =~ EntityBreakdown.get_expense_breakdown_filename_regex(@year, true)    
   end
   
+  # This bit always breaks every year, so I'm using brute force...
   def name
     # Note: the name may include accented characters, so '\w' doesn't work in regex
     if is_state_entity?
-      # Try to go for the exact CSS class first...
-      # XXX: check years before 2008 before going further in time
-      section_css_class = (year=='2008') ? '.S0ESTILO4' : (year=='2014' ? '.S0ESTILO3' : '.S0ESTILO2')
-      cell = doc.css(section_css_class)[0]
-
-      # ...but the 2014 approved budget is a auto-generated CSS mess piece of shit.
-      if cell.nil? || cell.text.empty?
-        doc.css('td').each do |td|  # Brute force
-          if td.text =~ /^Secci/
-            cell = td
-            break
-          end
-        end
+      doc.css('td').each do |td|  # Brute force
+        return $1 if td.text =~ /^Sección: \d\d (.+)$/
       end
-
-      # Anyway, finally
-      cell.text.strip =~ /^Sección: \d\d (.+)$/
     else
-      # Try to go for the exact CSS class first...
-      if year == '2012' || year == '2013' || year == '2014'
-        cell = doc.css('.S0ESTILO4')[1]
-      else
-        cell = doc.css('.S0ESTILO3').last
+      doc.css('td').each do |td|  # Brute force
+        return $1 if td.text =~ /^Organismo: \d\d\d (.+)$/
       end
-
-      # ...but the 2014 approved budget is a auto-generated CSS mess piece of shit.
-      if cell.nil?
-        doc.css('td').each do |td|  # Brute force
-          if td.text =~ /^Organismo/
-            cell = td
-            break
-          end
-        end
-      end
-
-      # Anyway, finally
-      cell.text.strip =~ /^Organismo: \d\d\d (.+)$/
     end
-    $1
   end
   
   def children

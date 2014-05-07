@@ -25,51 +25,17 @@ class IncomeBreakdown < BaseBreakdown
     @filename = filename
   end
 
+  # This bit always breaks every year, so I'm using brute force...
   def section_name
-    # Try to go for the exact CSS class first...
-    if year == '2014'
-      cell = doc.css('.S0ESTILO3').first
-    else
-      cell = doc.css('.S0ESTILO2')[1]
+    doc.css('td').each do |td|  # Brute force
+      return $1 if td.text =~ /^Sección: \d\d (.+)$/
     end
-
-    # ...but the 2014 approved budget is a auto-generated CSS mess piece of shit.
-    if cell.nil?
-      doc.css('td').each do |td|  # Brute force
-        if td.text =~ /^Secc/
-          cell = td
-          break
-        end
-      end
-    end
-
-    # Finally
-    cell.text.strip =~ /^Sección: \d\d (.+)$/
-    $1
   end
 
   def entity_name
-    # Try to go for the exact CSS class first...
-    if year == '2014'
-      cell = doc.css('.S0ESTILO3')[1]
-    else
-      cell = doc.css('.S0ESTILO2')[2]
+    doc.css('td').each do |td|  # Brute force
+      return $1 if td.text =~ /^(?:Servicio|Organismo): \d+ (.+)$/
     end
-
-    # ...but the 2014 approved budget is a auto-generated CSS mess piece of shit.
-    if cell.nil?
-      doc.css('td').each do |td|  # Brute force
-        if td.text =~ /^(Servicio|Organismo)/
-          cell = td
-          break
-        end
-      end
-    end
-
-    # We don't match the beginning of the line, because for state entities
-    # it says 'Servicio'; for non-state 'Organismo'
-    cell.text.strip =~ /: \d+ (.+)$/
-    $1
   end
 
   # Returns a list of budget items and subtotals. Because of the convoluted format of the 
