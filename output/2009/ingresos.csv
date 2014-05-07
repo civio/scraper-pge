@@ -1,0 +1,2722 @@
+EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
+2009;13102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;79995560
+2009;14113;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;705985910
+2009;19101;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;23881000000
+2009;19102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;526590000
+2009;22102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;1509620760
+2009;60001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;112436600000
+2009;98001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;77041050300
+2009;98001;10;;;Sobre la renta;75927000000
+2009;98001;100;;;De las personas físicas;43167000000
+2009;98001;100;;00;Impuesto sobre la Renta de las Personas Físicas;43427000000
+2009;98001;100;;99;Asignacion tributaria a la Iglesia Catolica;-260000000
+2009;98001;101;;;De sociedades;30085000000
+2009;98001;101;;00;Impuesto sobre Sociedades;30085000000
+2009;98001;102;;;De no residentes;2675000000
+2009;98001;102;;00;Impuesto sobre la Renta de no residentes;2675000000
+2009;98001;11;;;Sobre el capital;56000000
+2009;98001;119;;;Otros impuestos sobre el capital;56000000
+2009;98001;119;;00;Impuesto General sobre Sucesiones y Donaciones.;52000000
+2009;98001;119;;01;Impuesto sobre el Patrimonio;4000000
+2009;13102;12;;;Cotizaciones sociales;79995560
+2009;14113;12;;;Cotizaciones sociales;705985910
+2009;19101;12;;;Cotizaciones sociales;23881000000
+2009;19102;12;;;Cotizaciones sociales;526590000
+2009;22102;12;;;Cotizaciones sociales;1509620760
+2009;60001;12;;;Cotizaciones sociales;112436600000
+2009;98001;12;;;Cotizaciones sociales;1058050300
+2009;13102;120;;;Cotizaciones de los regímenes especiales de funcionarios;79995560
+2009;14113;120;;;Cotizaciones de los regímenes especiales de funcionarios;705985910
+2009;22102;120;;;Cotizaciones de los regímenes especiales de funcionarios;1509620760
+2009;98001;120;;;Cotizaciones de los regímenes especiales de funcionarios;1058050300
+2009;98001;120;;00;Cuotas de Derechos Pasivos;1058050300
+2009;13102;120;;01;Cuotas de funcionarios a Mutualidades;20034810
+2009;14113;120;;01;Cuotas de funcionarios a Mutualidades;103451210
+2009;22102;120;;01;Cuotas de funcionarios a Mutualidades;365764640
+2009;13102;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;59888750
+2009;14113;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;602534700
+2009;22102;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;1143856120
+2009;13102;120;;03;Cuotas sociales Mutualidad Benéfica de Funcionarios de la Justicia Municipal;24000
+2009;13102;120;;04;Cuotas sociales de Previsión de Funcionarios de la Administración de Justicia;20000
+2009;13102;120;;05;Cuotas sociales Mutualidad Benéfica de Funcionarios del Cuerpo Auxiliar de la Administración de Justicia;28000
+2009;60001;121;;;Cotizaciones del Regimen General;82364790000
+2009;60001;122;;;Cotizaciones del R.E.T. Autonomos;10799890000
+2009;60001;123;;;Cotizaciones R.E. Agrario;1001420000
+2009;60001;124;;;Cotizaciones R.E. Trabajadores del Mar;324750000
+2009;60001;125;;;Cotizaciones R.E. Mineria del Carbon;208240000
+2009;60001;126;;;Cotizaciones del R.E. Empleados de Hogar;537330000
+2009;60001;127;;;Cotizaciones de acctes. trabajo y e. p.;8829700000
+2009;60001;128;;;Cotizaciones de desempleados;8370480000
+2009;19101;129;;;Otras cotizaciones;23881000000
+2009;19102;129;;;Otras cotizaciones;526590000
+2009;19101;129;;00;Cuota de desempleo;21708000000
+2009;19101;129;;01;Cuota de formación profesional;2173000000
+2009;19102;129;;02;Cuotas empresariales al Fondo de Garantía Salarial;526590000
+2009;98001;2;;;IMPUESTOS INDIRECTOS;50202000000
+2009;98001;21;;;Sobre el Valor Añadido;35531000000
+2009;98001;210;;;Impuesto sobre el Valor Añadido;35531000000
+2009;98001;210;;00;IVA sobre importaciones;9922000000
+2009;98001;210;;01;IVA sobre operaciones interiores;25609000000
+2009;98001;22;;;Sobre consumos específicos;11253000000
+2009;98001;220;;;Impuestos especiales;11253000000
+2009;98001;220;;00;Sobre el alcohol y bebidas derivadas;609000000
+2009;98001;220;;01;Sobre cerveza;171000000
+2009;98001;220;;03;Sobre labores de tabaco;4226000000
+2009;98001;220;;04;Sobre hidrocarburos;6271000000
+2009;98001;220;;06;Sobre productos intermedios;13000000
+2009;98001;220;;07;Sobre la electricidad;-37000000
+2009;98001;23;;;Sobre tráfico exterior;1737000000
+2009;98001;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías;1702000000
+2009;98001;231;;;Exacciones reguladoras y otros gravámenes agrícolas;35000000
+2009;98001;28;;;Otros impuestos indirectos;1681000000
+2009;98001;280;;;Cotización, producción y almacenamiento de azúcar e isoglucosa;9000000
+2009;98001;281;;;Impuesto sobre las Primas de Seguros;1662000000
+2009;98001;282;;;Sobre transmisiones patrimoniales intervivos;9000000
+2009;98001;283;;;Sobre Actos Jurídicos Documentados;1000000
+2009;12401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2990320
+2009;13101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;150000
+2009;13102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15000
+2009;13301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9000000
+2009;14104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2541000
+2009;14107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;260100
+2009;14111;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;775460
+2009;14113;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3000000
+2009;14204;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9000
+2009;14206;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;300000
+2009;14301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;135690
+2009;15101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;299020
+2009;15103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5830000
+2009;15104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10691260
+2009;15105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3672950
+2009;15202;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;63500
+2009;15302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;27839000
+2009;15303;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;730000
+2009;16101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;963705380
+2009;17238;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1023000
+2009;17401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;19588600
+2009;18101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1063750
+2009;18103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;20000
+2009;18401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;280000
+2009;19101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;275871890
+2009;19102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;22466500
+2009;19104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;935000
+2009;19301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;35800
+2009;20102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;52319120
+2009;20207;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;850000
+2009;20208;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1200000
+2009;20301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9034580
+2009;20302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;45045030
+2009;21137;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4175020
+2009;21201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;6010
+2009;21204;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;820700
+2009;21205;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;42000
+2009;21206;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;519640
+2009;21207;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1500000
+2009;21401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;47911010
+2009;22101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1356420
+2009;22102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1661070
+2009;22401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;240050
+2009;23101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;190330
+2009;23207;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;72120
+2009;23208;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;18030
+2009;23211;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2110000
+2009;23225;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10122810
+2009;23226;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15027000
+2009;23228;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;12486010
+2009;23229;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;12370590
+2009;23230;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;14755500
+2009;23231;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8251410
+2009;23232;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5831180
+2009;23233;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;18514400
+2009;23234;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;13883840
+2009;23236;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;872000
+2009;23401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;742380
+2009;24101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1800000
+2009;24102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;518000
+2009;24103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15000
+2009;24104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4110000
+2009;24201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1214000
+2009;24301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8542520
+2009;25101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;345000
+2009;25102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;490000
+2009;25103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;13835420
+2009;25401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;70048780
+2009;26102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;20000
+2009;26103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;44634570
+2009;26104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;200000
+2009;28101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;223440
+2009;28102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;91980
+2009;28201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;879840
+2009;60001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1055700550
+2009;98001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3731792190
+2009;15103;30;;;Tasas;5500000
+2009;15104;30;;;Tasas;10178260
+2009;15302;30;;;Tasas;160000
+2009;15303;30;;;Tasas;730000
+2009;16101;30;;;Tasas;547656050
+2009;17401;30;;;Tasas;18388600
+2009;20102;30;;;Tasas;51505120
+2009;20207;30;;;Tasas;10000
+2009;20302;30;;;Tasas;43629670
+2009;23225;30;;;Tasas;8012810
+2009;23226;30;;;Tasas;12097000
+2009;23228;30;;;Tasas;7002480
+2009;23229;30;;;Tasas;5254990
+2009;23230;30;;;Tasas;13730500
+2009;23231;30;;;Tasas;6485000
+2009;23232;30;;;Tasas;3528100
+2009;23233;30;;;Tasas;13150000
+2009;23234;30;;;Tasas;10627000
+2009;23236;30;;;Tasas;827000
+2009;23401;30;;;Tasas;50450
+2009;24101;30;;;Tasas;1105000
+2009;24102;30;;;Tasas;20000
+2009;24104;30;;;Tasas;700000
+2009;24201;30;;;Tasas;1106000
+2009;24301;30;;;Tasas;494520
+2009;25103;30;;;Tasas;2000
+2009;25401;30;;;Tasas;63572780
+2009;26103;30;;;Tasas;44634570
+2009;26104;30;;;Tasas;200000
+2009;98001;30;;;Tasas;1210000000
+2009;98001;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros;73000000
+2009;98001;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre;28000000
+2009;23225;302;;;Tasa por dirección e inspección de obras;1300000
+2009;23226;302;;;Tasa por dirección e inspección de obras;3000000
+2009;23229;302;;;Tasa por dirección e inspección de obras;3278150
+2009;23230;302;;;Tasa por dirección e inspección de obras;2500000
+2009;23231;302;;;Tasa por dirección e inspección de obras;3111000
+2009;23232;302;;;Tasa por dirección e inspección de obras;1193870
+2009;23233;302;;;Tasa por dirección e inspección de obras;3007000
+2009;23236;302;;;Tasa por dirección e inspección de obras;822000
+2009;98001;302;;;Tasa por dirección e inspección de obras;219000000
+2009;23225;302;;00;Dirección e inspección de obras;1300000
+2009;23226;302;;00;Dirección e inspección de obras;3000000
+2009;23229;302;;00;Dirección e inspección de obras;3278150
+2009;23230;302;;00;Dirección e inspección de obras;2500000
+2009;23232;302;;00;Dirección e inspección de obras;1193870
+2009;23233;302;;00;Dirección e inspección de obras;3007000
+2009;23236;302;;00;Dirección e inspección de obras;822000
+2009;98001;303;;;Tasa por el ejercicio de la potestad jurisdiccional;89000000
+2009;98001;304;;;Tasas de expedición de D.N.I. y Pasaportes;97000000
+2009;98001;305;;;Tasas consulares;57000000
+2009;16101;306;;;Tasas de la Jefatura de Tráfico;547656050
+2009;98001;307;;;Tasa por reserva del dominio radioeléctrico;400000000
+2009;98001;308;;;Tasas seguridad aeroportuaria;49000000
+2009;15103;309;;;Otras tasas;5500000
+2009;15104;309;;;Otras tasas;10178260
+2009;15302;309;;;Otras tasas;160000
+2009;15303;309;;;Otras tasas;730000
+2009;17401;309;;;Otras tasas;18388600
+2009;20102;309;;;Otras tasas;51505120
+2009;20207;309;;;Otras tasas;10000
+2009;20302;309;;;Otras tasas;43629670
+2009;23225;309;;;Otras tasas;6712810
+2009;23226;309;;;Otras tasas;9097000
+2009;23228;309;;;Otras tasas;7002480
+2009;23229;309;;;Otras tasas;1976840
+2009;23230;309;;;Otras tasas;11230500
+2009;23231;309;;;Otras tasas;3374000
+2009;23232;309;;;Otras tasas;2334230
+2009;23233;309;;;Otras tasas;10143000
+2009;23234;309;;;Otras tasas;10627000
+2009;23236;309;;;Otras tasas;5000
+2009;23401;309;;;Otras tasas;50450
+2009;24101;309;;;Otras tasas;1105000
+2009;24102;309;;;Otras tasas;20000
+2009;24104;309;;;Otras tasas;700000
+2009;24201;309;;;Otras tasas;1106000
+2009;24301;309;;;Otras tasas;494520
+2009;25103;309;;;Otras tasas;2000
+2009;25401;309;;;Otras tasas;63572780
+2009;26103;309;;;Otras tasas;44634570
+2009;26104;309;;;Otras tasas;200000
+2009;98001;309;;;Otras tasas;198000000
+2009;98001;309;;00;Tasa por acreditación catastral;4000000
+2009;98001;309;;01;Tasa de juego;32000000
+2009;98001;309;;02;Reconocimientos, autorizaciones y concursos;49000000
+2009;98001;309;;05;Tasa de Telecomunicaciones;16000000
+2009;98001;309;;07;Control de sanidad exterior de carnes y productos de origen animal de países no comunitarios;8000000
+2009;20302;309;;09;Serv.Grales.fabricación o exención de equipos;149450
+2009;20102;309;;10;Tasas por determinadas actividades del Organismo (20.101);49779790
+2009;20302;309;;10;Servicios generales. Desclasificación de materiales;204730
+2009;23234;309;;10;Canon de utilización de bienes de D.P.H.;400000
+2009;20302;309;;11;Serv.Grales.de empresas de ámbito de protec. radiológica;57320
+2009;23225;309;;11;Canon utilización dominio público hidraúlico;200000
+2009;23230;309;;11;Canon de ocupación o utilización;10000000
+2009;20102;309;;12;Tasas derivadas del Arreglo de Madrid aportadas por la Organización Mundial de la Propiedad Intelectual (OMPI);836000
+2009;20302;309;;12;Inspección y control de instalaciones nucleares;36523390
+2009;23225;309;;12;Tasa utilización bienes de dominio público;50000
+2009;23230;309;;12;Informes;400000
+2009;23232;309;;12;Navegación en embalses;2250
+2009;20102;309;;13;Búsqueda de marcas a petición de la Oficina de Armonización del Mercado Interior (OAMI);863330
+2009;20302;309;;13;Inpección,control y desmantelamiento de instal. nucleares;280410
+2009;23230;309;;13;Confrontación de proyectos;5000
+2009;23232;309;;13;Confrontación de proyectos;3340
+2009;20102;309;;14;Acuerdo sobre armonía en las búsquedas realizadas entre OEP, OEPM y PRV;20000
+2009;20302;309;;14;Inspección y control de instalaciones nucleares;3288590
+2009;23225;309;;14;Canon de control de vertidos;5500000
+2009;23226;309;;14;Canon de vertidos;6200000
+2009;23229;309;;14;Canon de ocupación y vertido;1685030
+2009;23230;309;;14;Canon vertidos;25500
+2009;23232;309;;14;Canon de oupación o utilización y canon de vertidos en aplicación de los art. 104 y 105 Ley de aguas;2183600
+2009;23233;309;;14;Canon control de vertidos;9720000
+2009;23234;309;;14;Canon de vertidos;7000000
+2009;20102;309;;15;Tasas derivadas del arreglo de La Haya aportadas por la OMPI;6000
+2009;20302;309;;15;Inpección,control y desmantelamiento instal. nucleares;32110
+2009;23226;309;;15;Canon de ocupación;2600000
+2009;23230;309;;15;Canon ocupación;600000
+2009;20302;309;;16;Inspección,control y homologación de cursos;18430
+2009;20302;309;;17;Inspección y control de transporte;31530
+2009;23225;309;;17;Tasa por explotación de obras;825000
+2009;23226;309;;17;Tasas de explotación de obras;72000
+2009;23232;309;;17;Tasa explotación de obras y servicios;67010
+2009;23225;309;;18;Tasa por confrontación y proyectos;30000
+2009;23226;309;;18;Confrontación de proyectos;25000
+2009;23229;309;;18;Tasa de informes y otras actuaciones;291810
+2009;23232;309;;18;Canon de aprovechamiento de materiales;44600
+2009;23234;309;;18;Tasa por redacción de proyectos, confrontación y tasación de obras y proyectos;3000
+2009;20302;309;;19;Inpección y control de empresas de ámbito de Protec. Radiológicas;119970
+2009;23225;309;;19;Tasa por informes y estudios;107810
+2009;23226;309;;19;Informes y otras actuaciones;200000
+2009;23232;309;;19;Tasas por informes y visitas;33430
+2009;23234;309;;19;Tasa por informe y otras actuaciones;152000
+2009;20302;309;;20;Inspección y control de registro de empresas externas;1150
+2009;20302;309;;21;Servicios generales. Funcionamiento de instalaciones nucleares;200000
+2009;20302;309;;22;Serv.Grales.seguimiento gestión residuos;160000
+2009;20302;309;;23;Servicios generales. Minas de uranio;24570
+2009;23233;309;;23;Salto pie de presa;110000
+2009;20302;309;;24;Serv.Grales de instalaciones radiactivas;1436970
+2009;20302;309;;25;Serv. Grales.desmantelamiento de instal. radiactivas;33580
+2009;20302;309;;26;Serv.Grales.de licencias;1026520
+2009;20302;309;;27;Serv.Grales.de homologación de cursos;24570
+2009;20302;309;;28;Serv.Grales.de transporte;16380
+2009;23233;309;;28;Confrontación de obras y proyectos;80000
+2009;23233;309;;29;Infracciones y otras actuaciones;153000
+2009;15103;309;;99;Otras;5500000
+2009;15104;309;;99;Otras;10178260
+2009;15303;309;;99;Otras;730000
+2009;20207;309;;99;Otras;10000
+2009;23228;309;;99;Otras;7002480
+2009;23230;309;;99;Otras;200000
+2009;23233;309;;99;Otras;80000
+2009;23234;309;;99;Otras;3072000
+2009;23236;309;;99;Otras;5000
+2009;24101;309;;99;Otras;1105000
+2009;24102;309;;99;Otras;20000
+2009;24104;309;;99;Otras;700000
+2009;24201;309;;99;Otras;1106000
+2009;24301;309;;99;Otras;494520
+2009;25103;309;;99;Otras;2000
+2009;25401;309;;99;Otras;63572780
+2009;26103;309;;99;Otras;44634570
+2009;26104;309;;99;Otras;200000
+2009;98001;309;;99;Otras;89000000
+2009;14104;31;;;Precios Públicos;1300000
+2009;14111;31;;;Precios Públicos;775460
+2009;17238;31;;;Precios Públicos;600000
+2009;20207;31;;;Precios Públicos;825000
+2009;20302;31;;;Precios Públicos;1300000
+2009;21137;31;;;Precios Públicos;4175020
+2009;21204;31;;;Precios Públicos;165940
+2009;21401;31;;;Precios Públicos;1100000
+2009;22101;31;;;Precios Públicos;260100
+2009;22401;31;;;Precios Públicos;18020
+2009;23401;31;;;Precios Públicos;681930
+2009;24101;31;;;Precios Públicos;675000
+2009;24102;31;;;Precios Públicos;400000
+2009;24104;31;;;Precios Públicos;3100000
+2009;24201;31;;;Precios Públicos;12000
+2009;24301;31;;;Precios Públicos;8025000
+2009;25102;31;;;Precios Públicos;32000
+2009;25103;31;;;Precios Públicos;12733420
+2009;28201;31;;;Precios Públicos;488040
+2009;98001;31;;;Precios Públicos;5500000
+2009;21137;310;;;Derechos de matrícula en cursos y seminarios;1986400
+2009;21204;310;;;Derechos de matrícula en cursos y seminarios;7220
+2009;21401;310;;;Derechos de matrícula en cursos y seminarios;300000
+2009;22101;310;;;Derechos de matrícula en cursos y seminarios;200000
+2009;22401;310;;;Derechos de matrícula en cursos y seminarios;18020
+2009;24201;310;;;Derechos de matrícula en cursos y seminarios;12000
+2009;25102;310;;;Derechos de matrícula en cursos y seminarios;32000
+2009;98001;310;;;Derechos de matrícula en cursos y seminarios;1500000
+2009;21401;311;;;Entradas a museos, exposiciones, espectáculos, etc.;800000
+2009;24101;311;;;Entradas a museos, exposiciones, espectáculos, etc.;375000
+2009;24104;311;;;Entradas a museos, exposiciones, espectáculos, etc.;3100000
+2009;24301;311;;;Entradas a museos, exposiciones, espectáculos, etc.;8025000
+2009;25103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;12733420
+2009;22101;317;;;Cursos impartidos para otros Entes Públicos.;60100
+2009;14104;319;;;Otros precios públicos;1300000
+2009;14111;319;;;Otros precios públicos;775460
+2009;17238;319;;;Otros precios públicos;600000
+2009;20207;319;;;Otros precios públicos;825000
+2009;20302;319;;;Otros precios públicos;1300000
+2009;21137;319;;;Otros precios públicos;2188620
+2009;21204;319;;;Otros precios públicos;158720
+2009;23401;319;;;Otros precios públicos;681930
+2009;24101;319;;;Otros precios públicos;300000
+2009;24102;319;;;Otros precios públicos;400000
+2009;28201;319;;;Otros precios públicos;488040
+2009;98001;319;;;Otros precios públicos;4000000
+2009;13101;32;;;Otros ingresos procedentes de prestación de servicios;150000
+2009;14113;32;;;Otros ingresos procedentes de prestación de servicios;2587500
+2009;15101;32;;;Otros ingresos procedentes de prestación de servicios;101000
+2009;15302;32;;;Otros ingresos procedentes de prestación de servicios;25665000
+2009;17401;32;;;Otros ingresos procedentes de prestación de servicios;200000
+2009;18101;32;;;Otros ingresos procedentes de prestación de servicios;8250
+2009;18401;32;;;Otros ingresos procedentes de prestación de servicios;280000
+2009;19101;32;;;Otros ingresos procedentes de prestación de servicios;3005060
+2009;19104;32;;;Otros ingresos procedentes de prestación de servicios;65000
+2009;20207;32;;;Otros ingresos procedentes de prestación de servicios;5000
+2009;20301;32;;;Otros ingresos procedentes de prestación de servicios;7580430
+2009;21207;32;;;Otros ingresos procedentes de prestación de servicios;1452000
+2009;21401;32;;;Otros ingresos procedentes de prestación de servicios;28334040
+2009;22101;32;;;Otros ingresos procedentes de prestación de servicios;500000
+2009;22102;32;;;Otros ingresos procedentes de prestación de servicios;30050
+2009;22401;32;;;Otros ingresos procedentes de prestación de servicios;222030
+2009;23207;32;;;Otros ingresos procedentes de prestación de servicios;6010
+2009;23211;32;;;Otros ingresos procedentes de prestación de servicios;10000
+2009;24201;32;;;Otros ingresos procedentes de prestación de servicios;48000
+2009;24301;32;;;Otros ingresos procedentes de prestación de servicios;12000
+2009;25102;32;;;Otros ingresos procedentes de prestación de servicios;408000
+2009;25401;32;;;Otros ingresos procedentes de prestación de servicios;150000
+2009;60001;32;;;Otros ingresos procedentes de prestación de servicios;97699530
+2009;98001;32;;;Otros ingresos procedentes de prestación de servicios;592140000
+2009;98001;320;;;Comisiones por avales y seguros de operaciones financieras;30000000
+2009;15302;321;;;Renta de aduanas. Derechos menores;21000
+2009;15302;322;;;De la Administración financiera;25267000
+2009;25102;322;;;De la Administración financiera;408000
+2009;98001;322;;;De la Administración financiera;507140000
+2009;15302;322;;01;Administración y cobranza;19067000
+2009;98001;322;;02;Compensación por gastos de percepción de recursos propios tradicionales de la Unión Europea;500000000
+2009;15302;322;;03;Derivados de costas de procedimientos de apremio;1650000
+2009;15302;322;;04;Derivados de la repercusión del coste de fabricación de efectos timbrados;4550000
+2009;25102;322;;99;Otros;408000
+2009;98001;322;;99;Otros;7140000
+2009;22101;324;;;Derechos de alojamiento, restauración y residencia.;500000
+2009;60001;327;;;De asistencia sanitaria;87013380
+2009;98001;327;;;De asistencia sanitaria;55000000
+2009;98001;327;;01;Por Convenios Internacionales y Conciertos;55000000
+2009;60001;328;;;De servicios sociales;3703500
+2009;13101;329;;;Otros ingresos procedentes de prestación de servicios;150000
+2009;14113;329;;;Otros ingresos procedentes de prestación de servicios;2587500
+2009;15101;329;;;Otros ingresos procedentes de prestación de servicios;101000
+2009;15302;329;;;Otros ingresos procedentes de prestación de servicios;377000
+2009;17401;329;;;Otros ingresos procedentes de prestación de servicios;200000
+2009;18101;329;;;Otros ingresos procedentes de prestación de servicios;8250
+2009;18401;329;;;Otros ingresos procedentes de prestación de servicios;280000
+2009;19101;329;;;Otros ingresos procedentes de prestación de servicios;3005060
+2009;19104;329;;;Otros ingresos procedentes de prestación de servicios;65000
+2009;20207;329;;;Otros ingresos procedentes de prestación de servicios;5000
+2009;20301;329;;;Otros ingresos procedentes de prestación de servicios;7580430
+2009;21207;329;;;Otros ingresos procedentes de prestación de servicios;1452000
+2009;21401;329;;;Otros ingresos procedentes de prestación de servicios;28334040
+2009;22102;329;;;Otros ingresos procedentes de prestación de servicios;30050
+2009;22401;329;;;Otros ingresos procedentes de prestación de servicios;222030
+2009;23207;329;;;Otros ingresos procedentes de prestación de servicios;6010
+2009;23211;329;;;Otros ingresos procedentes de prestación de servicios;10000
+2009;24201;329;;;Otros ingresos procedentes de prestación de servicios;48000
+2009;24301;329;;;Otros ingresos procedentes de prestación de servicios;12000
+2009;25401;329;;;Otros ingresos procedentes de prestación de servicios;150000
+2009;60001;329;;;Otros ingresos procedentes de prestación de servicios;6982650
+2009;15302;329;;00;Servicios ajenos;167000
+2009;15302;329;;01;Prestación de otros servicios;210000
+2009;20301;329;;01;Cuotas asistencia a ferias;7574190
+2009;21401;329;;01;De investigación controlada;25834040
+2009;20301;329;;02;Otros servicios;6240
+2009;21401;329;;02;De otras prestaciones de servicios;2500000
+2009;12401;33;;;Venta de bienes;126210
+2009;14104;33;;;Venta de bienes;1203000
+2009;14204;33;;;Venta de bienes;6000
+2009;14301;33;;;Venta de bienes;135690
+2009;15101;33;;;Venta de bienes;198020
+2009;15103;33;;;Venta de bienes;330000
+2009;15105;33;;;Venta de bienes;191310
+2009;15202;33;;;Venta de bienes;7500
+2009;15302;33;;;Venta de bienes;525000
+2009;16101;33;;;Venta de bienes;9020
+2009;17238;33;;;Venta de bienes;73000
+2009;18101;33;;;Venta de bienes;2000
+2009;19101;33;;;Venta de bienes;12020
+2009;19104;33;;;Venta de bienes;410000
+2009;19301;33;;;Venta de bienes;10000
+2009;20102;33;;;Venta de bienes;814000
+2009;20207;33;;;Venta de bienes;6000
+2009;20301;33;;;Venta de bienes;454150
+2009;21204;33;;;Venta de bienes;5740
+2009;21205;33;;;Venta de bienes;5000
+2009;21206;33;;;Venta de bienes;13830
+2009;21207;33;;;Venta de bienes;24000
+2009;21401;33;;;Venta de bienes;1409570
+2009;22101;33;;;Venta de bienes;126000
+2009;23101;33;;;Venta de bienes;63450
+2009;23228;33;;;Venta de bienes;88380
+2009;23234;33;;;Venta de bienes;6840
+2009;23401;33;;;Venta de bienes;10000
+2009;24101;33;;;Venta de bienes;12000
+2009;24102;33;;;Venta de bienes;58000
+2009;24104;33;;;Venta de bienes;250000
+2009;24301;33;;;Venta de bienes;1000
+2009;25101;33;;;Venta de bienes;345000
+2009;25102;33;;;Venta de bienes;50000
+2009;25103;33;;;Venta de bienes;500000
+2009;25401;33;;;Venta de bienes;6100000
+2009;26102;33;;;Venta de bienes;20000
+2009;28101;33;;;Venta de bienes;7510
+2009;28201;33;;;Venta de bienes;12000
+2009;98001;33;;;Venta de bienes;15606000
+2009;12401;330;;;Venta de publicaciones propias;114190
+2009;15101;330;;;Venta de publicaciones propias;198020
+2009;15103;330;;;Venta de publicaciones propias;330000
+2009;15105;330;;;Venta de publicaciones propias;164690
+2009;15302;330;;;Venta de publicaciones propias;135000
+2009;16101;330;;;Venta de publicaciones propias;9020
+2009;17238;330;;;Venta de publicaciones propias;65000
+2009;18101;330;;;Venta de publicaciones propias;2000
+2009;19104;330;;;Venta de publicaciones propias;407000
+2009;19301;330;;;Venta de publicaciones propias;10000
+2009;20102;330;;;Venta de publicaciones propias;190000
+2009;20207;330;;;Venta de publicaciones propias;5000
+2009;20301;330;;;Venta de publicaciones propias;368160
+2009;21204;330;;;Venta de publicaciones propias;5740
+2009;21205;330;;;Venta de publicaciones propias;3000
+2009;21207;330;;;Venta de publicaciones propias;18000
+2009;21401;330;;;Venta de publicaciones propias;875000
+2009;22101;330;;;Venta de publicaciones propias;120000
+2009;23101;330;;;Venta de publicaciones propias;52020
+2009;23401;330;;;Venta de publicaciones propias;10000
+2009;24101;330;;;Venta de publicaciones propias;12000
+2009;24104;330;;;Venta de publicaciones propias;250000
+2009;25101;330;;;Venta de publicaciones propias;345000
+2009;25102;330;;;Venta de publicaciones propias;50000
+2009;25103;330;;;Venta de publicaciones propias;47000
+2009;26102;330;;;Venta de publicaciones propias;20000
+2009;28101;330;;;Venta de publicaciones propias;4840
+2009;28201;330;;;Venta de publicaciones propias;12000
+2009;98001;330;;;Venta de publicaciones propias;5202000
+2009;20301;330;;00;Venta de libros;110840
+2009;20301;330;;01;Venta de revistas;48960
+2009;20301;330;;02;Publicidad;208360
+2009;15105;331;;;Venta en comisión de publicaciones;25830
+2009;25103;331;;;Venta en comisión de publicaciones;70000
+2009;12401;332;;;Venta de fotocopias y otros productos de reprografía;12020
+2009;15302;332;;;Venta de fotocopias y otros productos de reprografía;3000
+2009;17238;332;;;Venta de fotocopias y otros productos de reprografía;6000
+2009;19104;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2009;20102;332;;;Venta de fotocopias y otros productos de reprografía;14000
+2009;20301;332;;;Venta de fotocopias y otros productos de reprografía;81120
+2009;21205;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2009;21207;332;;;Venta de fotocopias y otros productos de reprografía;6000
+2009;21401;332;;;Venta de fotocopias y otros productos de reprografía;284570
+2009;22101;332;;;Venta de fotocopias y otros productos de reprografía;6000
+2009;23101;332;;;Venta de fotocopias y otros productos de reprografía;1030
+2009;24102;332;;;Venta de fotocopias y otros productos de reprografía;58000
+2009;24301;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2009;25103;332;;;Venta de fotocopias y otros productos de reprografía;65000
+2009;28101;332;;;Venta de fotocopias y otros productos de reprografía;2670
+2009;14104;333;;;Venta de medicamentos;3000
+2009;14104;334;;;Venta de productos agropecuarios;1200000
+2009;21401;334;;;Venta de productos agropecuarios;250000
+2009;23228;334;;;Venta de productos agropecuarios;88380
+2009;14204;335;;;Venta de material de desecho;6000
+2009;15105;335;;;Venta de material de desecho;790
+2009;15202;335;;;Venta de material de desecho;7500
+2009;15302;335;;;Venta de material de desecho;16000
+2009;17238;335;;;Venta de material de desecho;2000
+2009;19101;335;;;Venta de material de desecho;12020
+2009;20207;335;;;Venta de material de desecho;1000
+2009;21206;335;;;Venta de material de desecho;13830
+2009;23101;335;;;Venta de material de desecho;10400
+2009;25103;335;;;Venta de material de desecho;10000
+2009;15302;337;;;Venta de impresos oficiales;276000
+2009;14301;339;;;Venta de otros bienes;135690
+2009;15302;339;;;Venta de otros bienes;95000
+2009;19104;339;;;Venta de otros bienes;1000
+2009;20102;339;;;Venta de otros bienes;610000
+2009;20301;339;;;Venta de otros bienes;4870
+2009;23234;339;;;Venta de otros bienes;6840
+2009;25103;339;;;Venta de otros bienes;308000
+2009;25401;339;;;Venta de otros bienes;6100000
+2009;98001;339;;;Venta de otros bienes;10404000
+2009;60001;36;;;Ingresos por compensación de costes de las actividades de prevención;3888850
+2009;60001;360;;;Ingresos por compensación de costes de las actividades de prevención;3888850
+2009;60001;37;;;Cotizaciones de asociados;700000
+2009;60001;370;;;Cotizaciones de asociados;700000
+2009;12401;38;;;Reintegros de operaciones corrientes;2834110
+2009;13102;38;;;Reintegros de operaciones corrientes;15000
+2009;14113;38;;;Reintegros de operaciones corrientes;152500
+2009;14206;38;;;Reintegros de operaciones corrientes;250000
+2009;15202;38;;;Reintegros de operaciones corrientes;20000
+2009;15302;38;;;Reintegros de operaciones corrientes;519000
+2009;16101;38;;;Reintegros de operaciones corrientes;6010
+2009;17238;38;;;Reintegros de operaciones corrientes;10000
+2009;18101;38;;;Reintegros de operaciones corrientes;1000000
+2009;18103;38;;;Reintegros de operaciones corrientes;20000
+2009;19101;38;;;Reintegros de operaciones corrientes;270000000
+2009;19102;38;;;Reintegros de operaciones corrientes;122610
+2009;19104;38;;;Reintegros de operaciones corrientes;260000
+2009;19301;38;;;Reintegros de operaciones corrientes;20800
+2009;20207;38;;;Reintegros de operaciones corrientes;4000
+2009;20208;38;;;Reintegros de operaciones corrientes;1050000
+2009;21204;38;;;Reintegros de operaciones corrientes;616470
+2009;21205;38;;;Reintegros de operaciones corrientes;30000
+2009;21206;38;;;Reintegros de operaciones corrientes;34510
+2009;21401;38;;;Reintegros de operaciones corrientes;120200
+2009;22101;38;;;Reintegros de operaciones corrientes;451320
+2009;22102;38;;;Reintegros de operaciones corrientes;1601000
+2009;23101;38;;;Reintegros de operaciones corrientes;12480
+2009;23207;38;;;Reintegros de operaciones corrientes;60100
+2009;23211;38;;;Reintegros de operaciones corrientes;150000
+2009;23225;38;;;Reintegros de operaciones corrientes;30000
+2009;23226;38;;;Reintegros de operaciones corrientes;120000
+2009;23228;38;;;Reintegros de operaciones corrientes;920220
+2009;23229;38;;;Reintegros de operaciones corrientes;1610
+2009;23232;38;;;Reintegros de operaciones corrientes;9270
+2009;23236;38;;;Reintegros de operaciones corrientes;3000
+2009;24103;38;;;Reintegros de operaciones corrientes;15000
+2009;24301;38;;;Reintegros de operaciones corrientes;5000
+2009;25401;38;;;Reintegros de operaciones corrientes;200000
+2009;28101;38;;;Reintegros de operaciones corrientes;214320
+2009;28201;38;;;Reintegros de operaciones corrientes;354800
+2009;60001;38;;;Reintegros de operaciones corrientes;66085980
+2009;98001;38;;;Reintegros de operaciones corrientes;270000000
+2009;12401;380;;;De ejercicios cerrados;2834110
+2009;13102;380;;;De ejercicios cerrados;15000
+2009;14113;380;;;De ejercicios cerrados;152500
+2009;14206;380;;;De ejercicios cerrados;250000
+2009;15202;380;;;De ejercicios cerrados;20000
+2009;15302;380;;;De ejercicios cerrados;519000
+2009;16101;380;;;De ejercicios cerrados;6010
+2009;17238;380;;;De ejercicios cerrados;10000
+2009;18101;380;;;De ejercicios cerrados;1000000
+2009;18103;380;;;De ejercicios cerrados;20000
+2009;19101;380;;;De ejercicios cerrados;270000000
+2009;19102;380;;;De ejercicios cerrados;122610
+2009;19104;380;;;De ejercicios cerrados;260000
+2009;19301;380;;;De ejercicios cerrados;20800
+2009;20207;380;;;De ejercicios cerrados;4000
+2009;20208;380;;;De ejercicios cerrados;1050000
+2009;21204;380;;;De ejercicios cerrados;616470
+2009;21205;380;;;De ejercicios cerrados;30000
+2009;21206;380;;;De ejercicios cerrados;34510
+2009;21401;380;;;De ejercicios cerrados;120200
+2009;22101;380;;;De ejercicios cerrados;451320
+2009;22102;380;;;De ejercicios cerrados;1601000
+2009;23101;380;;;De ejercicios cerrados;12480
+2009;23207;380;;;De ejercicios cerrados;60100
+2009;23211;380;;;De ejercicios cerrados;150000
+2009;23225;380;;;De ejercicios cerrados;30000
+2009;23226;380;;;De ejercicios cerrados;120000
+2009;23228;380;;;De ejercicios cerrados;920220
+2009;23229;380;;;De ejercicios cerrados;1610
+2009;23232;380;;;De ejercicios cerrados;9270
+2009;23236;380;;;De ejercicios cerrados;3000
+2009;24103;380;;;De ejercicios cerrados;15000
+2009;24301;380;;;De ejercicios cerrados;5000
+2009;25401;380;;;De ejercicios cerrados;200000
+2009;28101;380;;;De ejercicios cerrados;214320
+2009;28201;380;;;De ejercicios cerrados;354800
+2009;60001;380;;;De ejercicios cerrados;46174490
+2009;98001;380;;;De ejercicios cerrados;230000000
+2009;60001;381;;;Del presupuesto corriente;19911490
+2009;98001;381;;;Del presupuesto corriente;40000000
+2009;12401;39;;;Otros ingresos;30000
+2009;13301;39;;;Otros ingresos;9000000
+2009;14104;39;;;Otros ingresos;38000
+2009;14107;39;;;Otros ingresos;260100
+2009;14113;39;;;Otros ingresos;260000
+2009;14204;39;;;Otros ingresos;3000
+2009;14206;39;;;Otros ingresos;50000
+2009;15104;39;;;Otros ingresos;513000
+2009;15105;39;;;Otros ingresos;3481640
+2009;15202;39;;;Otros ingresos;36000
+2009;15302;39;;;Otros ingresos;970000
+2009;16101;39;;;Otros ingresos;416034300
+2009;17238;39;;;Otros ingresos;340000
+2009;17401;39;;;Otros ingresos;1000000
+2009;18101;39;;;Otros ingresos;53500
+2009;19101;39;;;Otros ingresos;2854810
+2009;19102;39;;;Otros ingresos;22343890
+2009;19104;39;;;Otros ingresos;200000
+2009;19301;39;;;Otros ingresos;5000
+2009;20208;39;;;Otros ingresos;150000
+2009;20301;39;;;Otros ingresos;1000000
+2009;20302;39;;;Otros ingresos;115360
+2009;21201;39;;;Otros ingresos;6010
+2009;21204;39;;;Otros ingresos;32550
+2009;21205;39;;;Otros ingresos;7000
+2009;21206;39;;;Otros ingresos;471300
+2009;21207;39;;;Otros ingresos;24000
+2009;21401;39;;;Otros ingresos;16947200
+2009;22101;39;;;Otros ingresos;19000
+2009;22102;39;;;Otros ingresos;30020
+2009;23101;39;;;Otros ingresos;114400
+2009;23207;39;;;Otros ingresos;6010
+2009;23208;39;;;Otros ingresos;18030
+2009;23211;39;;;Otros ingresos;1950000
+2009;23225;39;;;Otros ingresos;2080000
+2009;23226;39;;;Otros ingresos;2810000
+2009;23228;39;;;Otros ingresos;4474930
+2009;23229;39;;;Otros ingresos;7113990
+2009;23230;39;;;Otros ingresos;1025000
+2009;23231;39;;;Otros ingresos;1766410
+2009;23232;39;;;Otros ingresos;2293810
+2009;23233;39;;;Otros ingresos;5364400
+2009;23234;39;;;Otros ingresos;3250000
+2009;23236;39;;;Otros ingresos;42000
+2009;24101;39;;;Otros ingresos;8000
+2009;24102;39;;;Otros ingresos;40000
+2009;24104;39;;;Otros ingresos;60000
+2009;24201;39;;;Otros ingresos;48000
+2009;24301;39;;;Otros ingresos;5000
+2009;25103;39;;;Otros ingresos;600000
+2009;25401;39;;;Otros ingresos;26000
+2009;28101;39;;;Otros ingresos;1610
+2009;28102;39;;;Otros ingresos;91980
+2009;28201;39;;;Otros ingresos;25000
+2009;60001;39;;;Otros ingresos;887326190
+2009;98001;39;;;Otros ingresos;1638546190
+2009;13301;391;;;Recargos y multas;9000000
+2009;14107;391;;;Recargos y multas;221600
+2009;14113;391;;;Recargos y multas;10000
+2009;14206;391;;;Recargos y multas;10000
+2009;15104;391;;;Recargos y multas;513000
+2009;15105;391;;;Recargos y multas;1826260
+2009;16101;391;;;Recargos y multas;416034300
+2009;17401;391;;;Recargos y multas;1000000
+2009;18101;391;;;Recargos y multas;3500
+2009;19101;391;;;Recargos y multas;2764660
+2009;20208;391;;;Recargos y multas;2000
+2009;20302;391;;;Recargos y multas;66310
+2009;23101;391;;;Recargos y multas;26940
+2009;23211;391;;;Recargos y multas;250000
+2009;23225;391;;;Recargos y multas;2080000
+2009;23226;391;;;Recargos y multas;800000
+2009;23228;391;;;Recargos y multas;4474930
+2009;23229;391;;;Recargos y multas;759280
+2009;23230;391;;;Recargos y multas;875000
+2009;23231;391;;;Recargos y multas;1765310
+2009;23232;391;;;Recargos y multas;2266000
+2009;23233;391;;;Recargos y multas;5304400
+2009;23234;391;;;Recargos y multas;3050000
+2009;23236;391;;;Recargos y multas;10000
+2009;28101;391;;;Recargos y multas;1610
+2009;28201;391;;;Recargos y multas;16000
+2009;60001;391;;;Recargos y multas;811183260
+2009;98001;391;;;Recargos y multas;865258800
+2009;20302;391;;00;Recargo de apremio;41310
+2009;98001;391;;00;Recargo de apremio;289000000
+2009;14107;391;;01;Intereses de demora;1020
+2009;14113;391;;01;Intereses de demora;10000
+2009;14206;391;;01;Intereses de demora;10000
+2009;18101;391;;01;Intereses de demora;3500
+2009;19101;391;;01;Intereses de demora;2764660
+2009;20302;391;;01;Intereses de demora;20000
+2009;23101;391;;01;Intereses de demora;6240
+2009;23225;391;;01;Intereses de demora;60000
+2009;23226;391;;01;Intereses de demora;50000
+2009;23228;391;;01;Intereses de demora;356050
+2009;23229;391;;01;Intereses de demora;214510
+2009;23230;391;;01;Intereses de demora;175000
+2009;23232;391;;01;Intereses de demora;412000
+2009;23233;391;;01;Intereses de demora;277000
+2009;23234;391;;01;Intereses de demora;500000
+2009;23236;391;;01;Intereses de demora;10000
+2009;28101;391;;01;Intereses de demora;1610
+2009;28201;391;;01;Intereses de demora;16000
+2009;98001;391;;01;Intereses de demora;258380800
+2009;13301;391;;02;Multas y sanciones;9000000
+2009;15104;391;;02;Multas y sanciones;513000
+2009;15105;391;;02;Multas y sanciones;1826260
+2009;16101;391;;02;Multas y sanciones;416034300
+2009;17401;391;;02;Multas y sanciones;1000000
+2009;20302;391;;02;Multas y sanciones;3000
+2009;23101;391;;02;Multas y sanciones;20700
+2009;23211;391;;02;Multas y sanciones;250000
+2009;23225;391;;02;Multas y sanciones;2000000
+2009;23226;391;;02;Multas y sanciones;750000
+2009;23228;391;;02;Multas y sanciones;524930
+2009;23229;391;;02;Multas y sanciones;544770
+2009;23230;391;;02;Multas y sanciones;700000
+2009;23232;391;;02;Multas y sanciones;1854000
+2009;23233;391;;02;Multas y sanciones;5027400
+2009;23234;391;;02;Multas y sanciones;2550000
+2009;98001;391;;02;Multas y sanciones;317878000
+2009;20302;391;;03;Recargo sobre autoliquidaciones;2000
+2009;14107;391;;99;Otros;220580
+2009;20208;391;;99;Otros;2000
+2009;23225;391;;99;Otros;20000
+2009;23228;391;;99;Otros;3593950
+2009;98001;392;;;Diferencias de cambio;200000000
+2009;98001;393;;;Diferencias entre los valores de reembolso y emisión;200000000
+2009;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);21669520
+2009;15302;398;;;Ingresos extraordinarios;55000
+2009;60001;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;66901000
+2009;12401;399;;;Ingresos diversos;30000
+2009;14104;399;;;Ingresos diversos;38000
+2009;14107;399;;;Ingresos diversos;38500
+2009;14113;399;;;Ingresos diversos;250000
+2009;14204;399;;;Ingresos diversos;3000
+2009;14206;399;;;Ingresos diversos;40000
+2009;15105;399;;;Ingresos diversos;1655380
+2009;15202;399;;;Ingresos diversos;36000
+2009;15302;399;;;Ingresos diversos;915000
+2009;17238;399;;;Ingresos diversos;340000
+2009;18101;399;;;Ingresos diversos;50000
+2009;19101;399;;;Ingresos diversos;90150
+2009;19102;399;;;Ingresos diversos;674370
+2009;19104;399;;;Ingresos diversos;200000
+2009;19301;399;;;Ingresos diversos;5000
+2009;20208;399;;;Ingresos diversos;148000
+2009;20301;399;;;Ingresos diversos;1000000
+2009;20302;399;;;Ingresos diversos;49050
+2009;21201;399;;;Ingresos diversos;6010
+2009;21204;399;;;Ingresos diversos;32550
+2009;21205;399;;;Ingresos diversos;7000
+2009;21206;399;;;Ingresos diversos;471300
+2009;21207;399;;;Ingresos diversos;24000
+2009;21401;399;;;Ingresos diversos;16947200
+2009;22101;399;;;Ingresos diversos;19000
+2009;22102;399;;;Ingresos diversos;30020
+2009;23101;399;;;Ingresos diversos;87460
+2009;23207;399;;;Ingresos diversos;6010
+2009;23208;399;;;Ingresos diversos;18030
+2009;23211;399;;;Ingresos diversos;1700000
+2009;23226;399;;;Ingresos diversos;2010000
+2009;23229;399;;;Ingresos diversos;6354710
+2009;23230;399;;;Ingresos diversos;150000
+2009;23231;399;;;Ingresos diversos;1100
+2009;23232;399;;;Ingresos diversos;27810
+2009;23233;399;;;Ingresos diversos;60000
+2009;23234;399;;;Ingresos diversos;200000
+2009;23236;399;;;Ingresos diversos;32000
+2009;24101;399;;;Ingresos diversos;8000
+2009;24102;399;;;Ingresos diversos;40000
+2009;24104;399;;;Ingresos diversos;60000
+2009;24201;399;;;Ingresos diversos;48000
+2009;24301;399;;;Ingresos diversos;5000
+2009;25103;399;;;Ingresos diversos;600000
+2009;25401;399;;;Ingresos diversos;26000
+2009;28102;399;;;Ingresos diversos;91980
+2009;28201;399;;;Ingresos diversos;9000
+2009;60001;399;;;Ingresos diversos;9241930
+2009;98001;399;;;Ingresos diversos;373287390
+2009;98001;399;;00;Compensaciones de servicios prestados por funcionarios públicos;8477390
+2009;14104;399;;01;Recursos eventuales;20000
+2009;22102;399;;01;Recursos eventuales;30020
+2009;23101;399;;01;Recursos eventuales;19790
+2009;23208;399;;01;Recursos eventuales;18030
+2009;23211;399;;01;Recursos eventuales;1700000
+2009;23226;399;;01;Recursos eventuales;160000
+2009;23230;399;;01;Recursos eventuales;100000
+2009;98001;399;;01;Recursos eventuales;160700000
+2009;20302;399;;03;Ingresos por prestaciones.;25050
+2009;98001;399;;03;Venta de cuota láctea de la Reserva Nacional;110000
+2009;23207;399;;04;Ingresos por estudios, informes, análisis y trabajos análogos.;6010
+2009;15105;399;;05;Convenios estadísticos;1547220
+2009;12401;399;;99;Otros ingresos diversos;30000
+2009;14104;399;;99;Otros ingresos diversos;18000
+2009;14107;399;;99;Otros ingresos diversos;38500
+2009;14113;399;;99;Otros ingresos diversos;250000
+2009;14204;399;;99;Otros ingresos diversos;3000
+2009;14206;399;;99;Otros ingresos diversos;40000
+2009;15105;399;;99;Otros ingresos diversos;108160
+2009;15202;399;;99;Otros ingresos diversos;36000
+2009;15302;399;;99;Otros ingresos diversos;915000
+2009;18101;399;;99;Otros ingresos diversos;50000
+2009;19101;399;;99;Otros ingresos diversos;90150
+2009;19102;399;;99;Otros ingresos diversos;674370
+2009;19104;399;;99;Otros ingresos diversos;200000
+2009;19301;399;;99;Otros ingresos diversos;5000
+2009;20208;399;;99;Otros ingresos diversos;148000
+2009;20301;399;;99;Otros ingresos diversos;1000000
+2009;20302;399;;99;Otros ingresos diversos;24000
+2009;21204;399;;99;Otros ingresos diversos;32550
+2009;21205;399;;99;Otros ingresos diversos;7000
+2009;21206;399;;99;Otros ingresos diversos;471300
+2009;21401;399;;99;Otros ingresos diversos;16947200
+2009;22101;399;;99;Otros ingresos diversos;19000
+2009;23101;399;;99;Otros ingresos diversos;67670
+2009;23226;399;;99;Otros ingresos diversos;1850000
+2009;23229;399;;99;Otros ingresos diversos;6354710
+2009;23230;399;;99;Otros ingresos diversos;50000
+2009;23231;399;;99;Otros ingresos diversos;1100
+2009;23232;399;;99;Otros ingresos diversos;27810
+2009;23233;399;;99;Otros ingresos diversos;60000
+2009;23234;399;;99;Otros ingresos diversos;200000
+2009;23236;399;;99;Otros ingresos diversos;32000
+2009;24102;399;;99;Otros ingresos diversos;40000
+2009;24104;399;;99;Otros ingresos diversos;60000
+2009;24201;399;;99;Otros ingresos diversos;48000
+2009;25103;399;;99;Otros ingresos diversos;600000
+2009;25401;399;;99;Otros ingresos diversos;26000
+2009;28102;399;;99;Otros ingresos diversos;91980
+2009;28201;399;;99;Otros ingresos diversos;9000
+2009;98001;399;;99;Otros ingresos diversos;204000000
+2009;12301;4;;;TRANSFERENCIAS CORRIENTES;82018050
+2009;12401;4;;;TRANSFERENCIAS CORRIENTES;852952890
+2009;13101;4;;;TRANSFERENCIAS CORRIENTES;17271130
+2009;13102;4;;;TRANSFERENCIAS CORRIENTES;5328000
+2009;13301;4;;;TRANSFERENCIAS CORRIENTES;225000
+2009;14104;4;;;TRANSFERENCIAS CORRIENTES;2830540
+2009;14111;4;;;TRANSFERENCIAS CORRIENTES;2989530
+2009;14113;4;;;TRANSFERENCIAS CORRIENTES;26656840
+2009;14205;4;;;TRANSFERENCIAS CORRIENTES;41115520
+2009;14301;4;;;TRANSFERENCIAS CORRIENTES;226249410
+2009;15101;4;;;TRANSFERENCIAS CORRIENTES;21333050
+2009;15103;4;;;TRANSFERENCIAS CORRIENTES;273090
+2009;15105;4;;;TRANSFERENCIAS CORRIENTES;132420000
+2009;15202;4;;;TRANSFERENCIAS CORRIENTES;36118500
+2009;15302;4;;;TRANSFERENCIAS CORRIENTES;1128360500
+2009;15303;4;;;TRANSFERENCIAS CORRIENTES;8846480
+2009;16101;4;;;TRANSFERENCIAS CORRIENTES;568730
+2009;16102;4;;;TRANSFERENCIAS CORRIENTES;1600000
+2009;16201;4;;;TRANSFERENCIAS CORRIENTES;25517170
+2009;17238;4;;;TRANSFERENCIAS CORRIENTES;16123390
+2009;17239;4;;;TRANSFERENCIAS CORRIENTES;1100000
+2009;17401;4;;;TRANSFERENCIAS CORRIENTES;29818850
+2009;18101;4;;;TRANSFERENCIAS CORRIENTES;118689960
+2009;18103;4;;;TRANSFERENCIAS CORRIENTES;2846380
+2009;18401;4;;;TRANSFERENCIAS CORRIENTES;5031900
+2009;19101;4;;;TRANSFERENCIAS CORRIENTES;2510713180
+2009;19104;4;;;TRANSFERENCIAS CORRIENTES;19226940
+2009;19301;4;;;TRANSFERENCIAS CORRIENTES;7863960
+2009;20101;4;;;TRANSFERENCIAS CORRIENTES;524397240
+2009;20207;4;;;TRANSFERENCIAS CORRIENTES;3926880
+2009;20208;4;;;TRANSFERENCIAS CORRIENTES;53387930
+2009;20301;4;;;TRANSFERENCIAS CORRIENTES;19006080
+2009;20302;4;;;TRANSFERENCIAS CORRIENTES;5168380
+2009;21102;4;;;TRANSFERENCIAS CORRIENTES;6038280
+2009;21137;4;;;TRANSFERENCIAS CORRIENTES;11460000
+2009;21201;4;;;TRANSFERENCIAS CORRIENTES;14354950
+2009;21203;4;;;TRANSFERENCIAS CORRIENTES;46403750
+2009;21204;4;;;TRANSFERENCIAS CORRIENTES;35361690
+2009;21205;4;;;TRANSFERENCIAS CORRIENTES;22071260
+2009;21206;4;;;TRANSFERENCIAS CORRIENTES;19085610
+2009;21207;4;;;TRANSFERENCIAS CORRIENTES;119467270
+2009;21401;4;;;TRANSFERENCIAS CORRIENTES;368131710
+2009;22101;4;;;TRANSFERENCIAS CORRIENTES;157525310
+2009;22102;4;;;TRANSFERENCIAS CORRIENTES;78151070
+2009;22401;4;;;TRANSFERENCIAS CORRIENTES;4753300
+2009;23101;4;;;TRANSFERENCIAS CORRIENTES;28459740
+2009;23112;4;;;TRANSFERENCIAS CORRIENTES;6356550
+2009;23207;4;;;TRANSFERENCIAS CORRIENTES;286217670
+2009;23208;4;;;TRANSFERENCIAS CORRIENTES;2026780
+2009;23211;4;;;TRANSFERENCIAS CORRIENTES;6142919310
+2009;23225;4;;;TRANSFERENCIAS CORRIENTES;9063320
+2009;23226;4;;;TRANSFERENCIAS CORRIENTES;11506050
+2009;23228;4;;;TRANSFERENCIAS CORRIENTES;16695690
+2009;23229;4;;;TRANSFERENCIAS CORRIENTES;7378350
+2009;23230;4;;;TRANSFERENCIAS CORRIENTES;11244940
+2009;23231;4;;;TRANSFERENCIAS CORRIENTES;1783780
+2009;23232;4;;;TRANSFERENCIAS CORRIENTES;8694990
+2009;23233;4;;;TRANSFERENCIAS CORRIENTES;3536720
+2009;23234;4;;;TRANSFERENCIAS CORRIENTES;12992590
+2009;23237;4;;;TRANSFERENCIAS CORRIENTES;4849230
+2009;23401;4;;;TRANSFERENCIAS CORRIENTES;80535380
+2009;24101;4;;;TRANSFERENCIAS CORRIENTES;106939410
+2009;24102;4;;;TRANSFERENCIAS CORRIENTES;26111290
+2009;24103;4;;;TRANSFERENCIAS CORRIENTES;7012350
+2009;24104;4;;;TRANSFERENCIAS CORRIENTES;25269000
+2009;24201;4;;;TRANSFERENCIAS CORRIENTES;167522600
+2009;24301;4;;;TRANSFERENCIAS CORRIENTES;25361260
+2009;25101;4;;;TRANSFERENCIAS CORRIENTES;4554650
+2009;25102;4;;;TRANSFERENCIAS CORRIENTES;7135470
+2009;25103;4;;;TRANSFERENCIAS CORRIENTES;67793610
+2009;26102;4;;;TRANSFERENCIAS CORRIENTES;9204360
+2009;26103;4;;;TRANSFERENCIAS CORRIENTES;549120
+2009;26104;4;;;TRANSFERENCIAS CORRIENTES;16575930
+2009;26105;4;;;TRANSFERENCIAS CORRIENTES;3948810
+2009;28101;4;;;TRANSFERENCIAS CORRIENTES;11209300
+2009;28102;4;;;TRANSFERENCIAS CORRIENTES;2703000
+2009;28201;4;;;TRANSFERENCIAS CORRIENTES;22373880
+2009;60001;4;;;TRANSFERENCIAS CORRIENTES;11306040820
+2009;98001;4;;;TRANSFERENCIAS CORRIENTES;5806887570
+2009;12301;40;;;De la Administración del Estado;81018050
+2009;12401;40;;;De la Administración del Estado;847631970
+2009;13101;40;;;De la Administración del Estado;17271130
+2009;13102;40;;;De la Administración del Estado;5328000
+2009;13301;40;;;De la Administración del Estado;200000
+2009;14104;40;;;De la Administración del Estado;2115540
+2009;14111;40;;;De la Administración del Estado;2989530
+2009;14113;40;;;De la Administración del Estado;26656840
+2009;14205;40;;;De la Administración del Estado;40415520
+2009;14301;40;;;De la Administración del Estado;226249410
+2009;15101;40;;;De la Administración del Estado;21333050
+2009;15103;40;;;De la Administración del Estado;273090
+2009;15105;40;;;De la Administración del Estado;132420000
+2009;15202;40;;;De la Administración del Estado;36118500
+2009;15302;40;;;De la Administración del Estado;1127415500
+2009;15303;40;;;De la Administración del Estado;8846480
+2009;16101;40;;;De la Administración del Estado;126560
+2009;16102;40;;;De la Administración del Estado;1600000
+2009;16201;40;;;De la Administración del Estado;20847750
+2009;17238;40;;;De la Administración del Estado;16123390
+2009;17239;40;;;De la Administración del Estado;1100000
+2009;17401;40;;;De la Administración del Estado;29818850
+2009;18101;40;;;De la Administración del Estado;118353390
+2009;18103;40;;;De la Administración del Estado;2846380
+2009;19101;40;;;De la Administración del Estado;2010713180
+2009;19104;40;;;De la Administración del Estado;19176940
+2009;19301;40;;;De la Administración del Estado;7501150
+2009;20101;40;;;De la Administración del Estado;524397240
+2009;20207;40;;;De la Administración del Estado;3926880
+2009;20208;40;;;De la Administración del Estado;53387930
+2009;20301;40;;;De la Administración del Estado;19006080
+2009;20302;40;;;De la Administración del Estado;5168380
+2009;21102;40;;;De la Administración del Estado;3224860
+2009;21137;40;;;De la Administración del Estado;5148500
+2009;21201;40;;;De la Administración del Estado;8332960
+2009;21203;40;;;De la Administración del Estado;46403750
+2009;21204;40;;;De la Administración del Estado;35361690
+2009;21205;40;;;De la Administración del Estado;22071260
+2009;21206;40;;;De la Administración del Estado;19085610
+2009;21207;40;;;De la Administración del Estado;119345350
+2009;21401;40;;;De la Administración del Estado;367053480
+2009;22101;40;;;De la Administración del Estado;17366810
+2009;22102;40;;;De la Administración del Estado;78151070
+2009;22401;40;;;De la Administración del Estado;4753300
+2009;23101;40;;;De la Administración del Estado;28459740
+2009;23112;40;;;De la Administración del Estado;6356550
+2009;23207;40;;;De la Administración del Estado;286217670
+2009;23208;40;;;De la Administración del Estado;2026780
+2009;23211;40;;;De la Administración del Estado;32440550
+2009;23225;40;;;De la Administración del Estado;9051320
+2009;23226;40;;;De la Administración del Estado;11506050
+2009;23228;40;;;De la Administración del Estado;16695690
+2009;23229;40;;;De la Administración del Estado;7378350
+2009;23230;40;;;De la Administración del Estado;11244940
+2009;23231;40;;;De la Administración del Estado;1783780
+2009;23232;40;;;De la Administración del Estado;8694990
+2009;23233;40;;;De la Administración del Estado;3536720
+2009;23234;40;;;De la Administración del Estado;9933590
+2009;23237;40;;;De la Administración del Estado;4849230
+2009;23401;40;;;De la Administración del Estado;69215380
+2009;24101;40;;;De la Administración del Estado;106633410
+2009;24102;40;;;De la Administración del Estado;26111290
+2009;24103;40;;;De la Administración del Estado;7012350
+2009;24104;40;;;De la Administración del Estado;24219000
+2009;24201;40;;;De la Administración del Estado;167234360
+2009;24301;40;;;De la Administración del Estado;19802810
+2009;25101;40;;;De la Administración del Estado;4554650
+2009;25102;40;;;De la Administración del Estado;7135470
+2009;25103;40;;;De la Administración del Estado;64397740
+2009;26102;40;;;De la Administración del Estado;9204360
+2009;26103;40;;;De la Administración del Estado;549120
+2009;26104;40;;;De la Administración del Estado;16575930
+2009;26105;40;;;De la Administración del Estado;3948810
+2009;28101;40;;;De la Administración del Estado;7872210
+2009;28102;40;;;De la Administración del Estado;2703000
+2009;28201;40;;;De la Administración del Estado;14702080
+2009;60001;40;;;De la Administración del Estado;7386425040
+2009;12301;400;;;Del departamento al que está adscrito;81018050
+2009;13101;400;;;Del departamento al que está adscrito;17271130
+2009;13301;400;;;Del departamento al que está adscrito;200000
+2009;14104;400;;;Del departamento al que está adscrito;2115540
+2009;14111;400;;;Del departamento al que está adscrito;2989530
+2009;14205;400;;;Del departamento al que está adscrito;40415520
+2009;14301;400;;;Del departamento al que está adscrito;226249410
+2009;15101;400;;;Del departamento al que está adscrito;21333050
+2009;15103;400;;;Del departamento al que está adscrito;273090
+2009;15105;400;;;Del departamento al que está adscrito;132420000
+2009;15302;400;;;Del departamento al que está adscrito;1127349710
+2009;15303;400;;;Del departamento al que está adscrito;8846480
+2009;16102;400;;;Del departamento al que está adscrito;1600000
+2009;16201;400;;;Del departamento al que está adscrito;20847750
+2009;17238;400;;;Del departamento al que está adscrito;16123390
+2009;17239;400;;;Del departamento al que está adscrito;1100000
+2009;17401;400;;;Del departamento al que está adscrito;29818850
+2009;18101;400;;;Del departamento al que está adscrito;118353390
+2009;18103;400;;;Del departamento al que está adscrito;2846380
+2009;19101;400;;;Del departamento al que está adscrito;2010713180
+2009;19104;400;;;Del departamento al que está adscrito;19176940
+2009;19301;400;;;Del departamento al que está adscrito;7501150
+2009;20101;400;;;Del departamento al que está adscrito;524397240
+2009;20207;400;;;Del departamento al que está adscrito;3926880
+2009;20208;400;;;Del departamento al que está adscrito;53387930
+2009;20301;400;;;Del departamento al que está adscrito;16006080
+2009;20302;400;;;Del departamento al que está adscrito;5168380
+2009;21102;400;;;Del departamento al que está adscrito;3224860
+2009;21137;400;;;Del departamento al que está adscrito;5148500
+2009;21201;400;;;Del departamento al que está adscrito;8332960
+2009;21203;400;;;Del departamento al que está adscrito;46230320
+2009;21204;400;;;Del departamento al que está adscrito;35361690
+2009;21205;400;;;Del departamento al que está adscrito;22071260
+2009;21206;400;;;Del departamento al que está adscrito;19085610
+2009;21207;400;;;Del departamento al que está adscrito;119345350
+2009;21401;400;;;Del departamento al que está adscrito;367053480
+2009;22101;400;;;Del departamento al que está adscrito;17366810
+2009;22401;400;;;Del departamento al que está adscrito;4753300
+2009;23101;400;;;Del departamento al que está adscrito;28459740
+2009;23112;400;;;Del departamento al que está adscrito;6356550
+2009;23207;400;;;Del departamento al que está adscrito;286217670
+2009;23208;400;;;Del departamento al que está adscrito;2026780
+2009;23211;400;;;Del departamento al que está adscrito;32440550
+2009;23225;400;;;Del departamento al que está adscrito;9051320
+2009;23226;400;;;Del departamento al que está adscrito;11506050
+2009;23228;400;;;Del departamento al que está adscrito;16695690
+2009;23229;400;;;Del departamento al que está adscrito;7378350
+2009;23230;400;;;Del departamento al que está adscrito;11244940
+2009;23231;400;;;Del departamento al que está adscrito;1783780
+2009;23232;400;;;Del departamento al que está adscrito;8694990
+2009;23233;400;;;Del departamento al que está adscrito;3536720
+2009;23234;400;;;Del departamento al que está adscrito;9933590
+2009;23237;400;;;Del departamento al que está adscrito;4835690
+2009;23401;400;;;Del departamento al que está adscrito;69215380
+2009;24101;400;;;Del departamento al que está adscrito;106633410
+2009;24102;400;;;Del departamento al que está adscrito;26111290
+2009;24104;400;;;Del departamento al que está adscrito;24219000
+2009;24201;400;;;Del departamento al que está adscrito;167234360
+2009;24301;400;;;Del departamento al que está adscrito;19802810
+2009;25101;400;;;Del departamento al que está adscrito;4554650
+2009;25102;400;;;Del departamento al que está adscrito;7135470
+2009;25103;400;;;Del departamento al que está adscrito;64397740
+2009;26102;400;;;Del departamento al que está adscrito;9204360
+2009;26103;400;;;Del departamento al que está adscrito;549120
+2009;26104;400;;;Del departamento al que está adscrito;16575930
+2009;26105;400;;;Del departamento al que está adscrito;3948810
+2009;28101;400;;;Del departamento al que está adscrito;7872210
+2009;28102;400;;;Del departamento al que está adscrito;2303000
+2009;28201;400;;;Del departamento al que está adscrito;14702080
+2009;60001;400;;;Del departamento al que está adscrito;5906275510
+2009;15302;400;;00;Para gastos de funcionamiento;1056647530
+2009;18101;400;;00;Del Ministerio de Educación, Política Social y Deporte;118353390
+2009;19101;400;;00;Para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía;6000000
+2009;20208;400;;00;Del departamento al que está adscrito;52819140
+2009;21137;400;;00;Para gastos de funcionamiento.;5118500
+2009;21201;400;;00;Subvención ordinaria para funcionamiento;8332960
+2009;21203;400;;00;Subvención ordinaria;46230320
+2009;21204;400;;00;Subvención al Organismo;33556690
+2009;21206;400;;00;Para gastos de funcionamiento;18939610
+2009;21207;400;;00;Para atenciones generales.;119345350
+2009;23112;400;;00;Para gastos de funcionamiento.;6356550
+2009;23211;400;;00;Para gastos de funcionamiento.;32440550
+2009;23225;400;;00;Para el desarrollo de sus actividades;7181040
+2009;23226;400;;00;Para el desarrollo de sus actividades;8561650
+2009;23228;400;;00;Para el desarrollo de sus actividades;10944550
+2009;23229;400;;00;Para el desarrollo de sus actividades;5133240
+2009;23230;400;;00;Para el desarrollo de sus actividades;8741810
+2009;23231;400;;00;Para el desarrollo de sus actividades;1527870
+2009;23232;400;;00;Para el desarrollo de sus actividades;8231420
+2009;23233;400;;00;Para el desarrollo de sus actividades;3500000
+2009;23234;400;;00;Para el desarrollo de sus actividades;6592430
+2009;24101;400;;00;Del Ministerio de Cultura. Subvención de Funcionamiento.;18633410
+2009;14111;400;;01;Para atender obligaciones de personal;2989530
+2009;14205;400;;01;Para atenciones de Personal previstas en el R.D. de  creación del Patronato del INTA;40415520
+2009;19101;400;;01;Para compensar el gasto incurrido de bonificaciones en las cotizaciones de seguridad social del personal investigador (art. 12 del RD 278 / 2007, de 23 de febrero);100000
+2009;20208;400;;01;Por compensación gastos de edificios por la Secretaría de Estado de Turismo;568790
+2009;21137;400;;01;Para definición y desarrollo del Espacio Europeo de la Educación Superior;30000
+2009;21204;400;;01;Para satisfacer transferencia a la Universidad de Lleida. Investigación sanidad animal y vegetal;500000
+2009;21206;400;;01;Para los gastos de la participación española en el Comité Polar;146000
+2009;21401;400;;01;Del departamento al que está adscrito;357821410
+2009;23225;400;;01;Para el pago de IBI de bienes de titularidad estatal;1870280
+2009;23226;400;;01;Para el pago de IBI de bienes de titularidad estatal;2944400
+2009;23228;400;;01;Para el pago de IBI de bienes de titularidad estatal;5751140
+2009;23229;400;;01;Para el pago de IBI de bienes de titularidad estatal;2245110
+2009;23230;400;;01;Para el pago de IBI de bienes de titularidad estatal;2503130
+2009;23231;400;;01;Para el pago de IBI de bienes de titularidad estatal;255910
+2009;23232;400;;01;Para el pago de IBI de bienes de titularidad estatal;463570
+2009;23233;400;;01;Para el pago de IBI de bienes de titularidad estatal;36720
+2009;23234;400;;01;Para el pago de IBI de bienes de titularidad estatal;3341160
+2009;24101;400;;01;Del Ministerio de Cultura. Fondo de Protección a la Cinematografía.;88000000
+2009;15302;400;;02;Por compensación gastos de otros servicios;2931450
+2009;19101;400;;02;Para financiar el presupuesto del Servicio Público de Empleo Estatal;2004613180
+2009;21204;400;;02;Para satisfacer cuantos gastos originen las actividades agrícolas de España como miembro de la O.C.D.E.;35000
+2009;21401;400;;02;Para el funcionamiento operativo de instrumentos, líneas e instalaciones científicas;1243350
+2009;15302;400;;03;Por premio cobranza recursos propios CEE;67770730
+2009;21204;400;;03;Para satisfacer cuantos gastos originen las actividades agrícolas de España como miembro de la C.G.I.A.R.;1250000
+2009;21204;400;;04;Para satisfacer cuotas y gastos de la participación española en otros Organismos Internacionales.;20000
+2009;21401;400;;05;Para buque y base antártica;7988720
+2009;14104;400;;07;Para gastos de funcionamiento;2115540
+2009;13102;401;;;De otros departamentos ministeriales;5328000
+2009;14113;401;;;De otros departamentos ministeriales;26656840
+2009;15202;401;;;De otros departamentos ministeriales;36118500
+2009;15302;401;;;De otros departamentos ministeriales;65790
+2009;16101;401;;;De otros departamentos ministeriales;126560
+2009;21203;401;;;De otros departamentos ministeriales;173430
+2009;22102;401;;;De otros departamentos ministeriales;78151070
+2009;23237;401;;;De otros departamentos ministeriales;13540
+2009;28102;401;;;De otros departamentos ministeriales;400000
+2009;60001;401;;;De otros departamentos ministeriales;1480149530
+2009;15302;401;;00;Del Ministerio del Interior por los gastos comunes del edificio de la calle del Plomo, de Madrid;65790
+2009;23237;401;;00;Aportación del Mº de Fomento.;13540
+2009;24103;402;;;Del Departamento al que está adscrito.;7012350
+2009;20301;402/20301;;;Compensación de los gastos derivados de la 41 Asamblea Anual de Gobernadores del Banco Asiático de Desarrollo;3000000
+2009;12401;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;821660000
+2009;12401;405;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2. del Real Decreto 825/1988, de  15 de julio);25971970
+2009;12401;41;;;De organismos autónomos;5320920
+2009;16101;41;;;De organismos autónomos;442170
+2009;16201;41;;;De organismos autónomos;4669420
+2009;18401;41;;;De organismos autónomos;5031900
+2009;21401;41;;;De organismos autónomos;276560
+2009;22101;41;;;De organismos autónomos;140158500
+2009;23234;41;;;De organismos autónomos;3059000
+2009;24101;41;;;De organismos autónomos;306000
+2009;24201;41;;;De organismos autónomos;216240
+2009;25103;41;;;De organismos autónomos;3395870
+2009;98001;41;;;De organismos autónomos;114334660
+2009;18401;410;;;Transferencias corrientes de organismos autónomos;5031900
+2009;21401;410;;;Transferencias corrientes de organismos autónomos;276560
+2009;22101;410;;;Transferencias corrientes de organismos autónomos;140158500
+2009;23234;410;;;Transferencias corrientes de organismos autónomos;3059000
+2009;24101;410;;;Transferencias corrientes de organismos autónomos;306000
+2009;24201;410;;;Transferencias corrientes de organismos autónomos;216240
+2009;98001;410;;;Transferencias corrientes de organismos autónomos;114334660
+2009;22101;410;;01;Del Servicio Público de Empleo Estatal para Formación Continua;140158500
+2009;98001;410;;01;Jefatura de Tráfico;101398410
+2009;21401;410;;99;Otros;276560
+2009;24101;410;;99;Otros;306000
+2009;24201;410;;99;Otros;216240
+2009;98001;410;;99;Otros;12936250
+2009;16101;411;;;Del Servicio Público de Empleo Estatal;442170
+2009;16201;411;;;Del Servicio Público de Empleo Estatal;4669420
+2009;25103;411;;;Del Servicio Público de Empleo Estatal;3395870
+2009;16201;411;;01;Para cursos de Formación Profesional y Ocupacional;4552900
+2009;25103;411;;01;Para ayudas salariales a Escuelas Taller;1732090
+2009;16101;411;;02;Para gastos en políticas activas de empleo;442170
+2009;16201;411;;02;Para gastos en políticas activas de empleo;116520
+2009;25103;411;;02;Para subvenciones a Escuelas Taller;1663780
+2009;12401;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior;5320920
+2009;60001;42;;;De la Seguridad Social;3867183600
+2009;98001;42;;;De la Seguridad Social;164438620
+2009;98001;420;;;Transferencias corrientes de la Seguridad Social;164438620
+2009;60001;421;;;Aportaciones para sosteni. SS.CC.;1184695320
+2009;60001;422;;;Ingresos por servicios prestados entre Entidades del Sistema;1552215540
+2009;60001;423;;;Cuotas de reaseguro de Acctes. T.;1120850080
+2009;60001;429;;;Otras transferencias recibidas de entidades del sistema;9422660
+2009;14205;43;;;De agencias estatales y otros organismos públicos;700000
+2009;21137;43;;;De agencias estatales y otros organismos públicos;1250000
+2009;21207;43;;;De agencias estatales y otros organismos públicos;121920
+2009;98001;43;;;De agencias estatales y otros organismos públicos;30366000
+2009;14205;430;;;De agencias estatales;700000
+2009;21137;430;;;De agencias estatales;1250000
+2009;21207;430;;;De agencias estatales;121920
+2009;98001;430;;;De agencias estatales;30366000
+2009;14205;430;;01;Del Consejo Superior de Investigaciones Científicas;700000
+2009;98001;430;;01;Boletín Oficial del Estado;30366000
+2009;18101;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;336570
+2009;21137;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;117250
+2009;23401;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;11300000
+2009;24301;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;164560
+2009;98001;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;2631024000
+2009;18101;440;;;De sociedades mercantiles estatales;336570
+2009;24301;440;;;De sociedades mercantiles estatales;95590
+2009;21137;441;;;De entidades públicas empresariales;117250
+2009;23401;441;;;De entidades públicas empresariales;11300000
+2009;24301;441;;;De entidades públicas empresariales;68970
+2009;98001;441;;;De entidades públicas empresariales;2631024000
+2009;98001;441;;00;Loterías y Apuestas del Estado;2631024000
+2009;21137;45;;;De Comunidades Autónomas;2038610
+2009;21201;45;;;De Comunidades Autónomas;6021990
+2009;21401;45;;;De Comunidades Autónomas;801670
+2009;24201;45;;;De Comunidades Autónomas;12000
+2009;24301;45;;;De Comunidades Autónomas;1168060
+2009;60001;45;;;De Comunidades Autónomas;432180
+2009;98001;45;;;De Comunidades Autónomas;2778650410
+2009;98001;450;;;Contribuciones Concertadas;1961000000
+2009;98001;450;;00;Cupo del País Vasco;1350000000
+2009;98001;450;;01;De Navarra;611000000
+2009;98001;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.;335600000
+2009;98001;456;;;Compensaciones financieras del País Vasco;48700000
+2009;98001;456;;00;Impuestos especiales sobre el alcohol y bebidas derivadas y productos intermedios;8900000
+2009;98001;456;;01;Impuesto especial sobre la Cerveza;2800000
+2009;98001;456;;02;Impuesto especial sobre Hidrocarburos;37000000
+2009;98001;458;;;Por Fondo de Suficiencia;433350410
+2009;21137;459;;;Otras transferencias corrientes;2038610
+2009;21201;459;;;Otras transferencias corrientes;6021990
+2009;21401;459;;;Otras transferencias corrientes;801670
+2009;24201;459;;;Otras transferencias corrientes;12000
+2009;24301;459;;;Otras transferencias corrientes;1168060
+2009;60001;459;;;Otras transferencias corrientes;432180
+2009;21401;459;;01;De Comunidades Autónomas para ejecución de proyectos de investigación;801670
+2009;21137;46;;;De Entidades Locales;775760
+2009;21137;460;;;De Ayuntamientos;224920
+2009;21137;461;;;De Diputaciones y Cabildos Insulares;550840
+2009;12301;47;;;De empresas privadas;1000000
+2009;21137;47;;;De empresas privadas;1217230
+2009;24104;47;;;De empresas privadas;850000
+2009;24201;47;;;De empresas privadas;60000
+2009;24301;47;;;De empresas privadas;1253730
+2009;60001;47;;;De empresas privadas;42000000
+2009;12301;470;;;De empresas privadas;1000000
+2009;24301;470/24301;;;Ingresos de empresas privadas;1253730
+2009;24104;471;;;De empresas privadas;850000
+2009;60001;471/60001;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;42000000
+2009;21137;479;;;Otras transferencias corrientes.;1217230
+2009;24201;479/24201;;;Otras transferencias corrientes;60000
+2009;21137;48;;;De familias e instituciones sin fines de lucro;877460
+2009;24104;48;;;De familias e instituciones sin fines de lucro;200000
+2009;24301;48;;;De familias e instituciones sin fines de lucro;2729050
+2009;24301;480;;;De familias e instituciones sin fines de lucro;2729050
+2009;21137;489;;;Otras transferencias corrientes.;877460
+2009;24104;489/24104;;;Otras transferencias corrientes;200000
+2009;13301;49;;;Del exterior;25000
+2009;14104;49;;;Del exterior;715000
+2009;15302;49;;;Del exterior;945000
+2009;19101;49;;;Del exterior;500000000
+2009;19104;49;;;Del exterior;50000
+2009;19301;49;;;Del exterior;362810
+2009;21102;49;;;Del exterior;2813420
+2009;21137;49;;;Del exterior;35190
+2009;23211;49;;;Del exterior;6110478760
+2009;23225;49;;;Del exterior;12000
+2009;23401;49;;;Del exterior;20000
+2009;24301;49;;;Del exterior;243050
+2009;28101;49;;;Del exterior;3337090
+2009;28201;49;;;Del exterior;7671800
+2009;60001;49;;;Del exterior;10000000
+2009;98001;49;;;Del exterior;88073880
+2009;19101;490;;;Del Fondo Social Europeo;500000000
+2009;28101;490;;;Del Fondo Social Europeo;3337090
+2009;60001;490;;;Del Fondo Social Europeo;10000000
+2009;98001;490;;;Del Fondo Social Europeo;60000000
+2009;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;500000000
+2009;14104;491;;;Del FEOGA GARANTÍA;715000
+2009;23211;491/23211;;;Del FEAGA;6110478760
+2009;23225;491/23225;;;De la Unión Europea-PAC;12000
+2009;23211;491/23211;;01;Subvenciones a la producción agraria;6055090760
+2009;23211;491/23211;;02;Compensación de pérdidas;45695610
+2009;23211;491/23211;;03;Gastos de intervención. Resto producto;3192390
+2009;23211;491/23211;;04;Gastos financieros;3500000
+2009;23211;491/23211;;05;Gastos de intervención. Cereales y arroz;3000000
+2009;13301;492;;;Otras transferencias de la Unión Europea;25000
+2009;15302;492;;;Otras transferencias de la Unión Europea;945000
+2009;19104;492;;;Otras transferencias de la Unión Europea;50000
+2009;19301;492;;;Otras transferencias de la Unión Europea;362810
+2009;21102;492;;;Otras transferencias de la Unión Europea;2813420
+2009;23401;492;;;Otras transferencias de la Unión Europea;10000
+2009;98001;492;;;Otras transferencias de la Unión Europea;3073880
+2009;23401;493;;;Aportaciones derivadas de convenios internacionales de cooperación;10000
+2009;28201;493;;;Aportaciones derivadas de convenios internacionales de cooperación;7671800
+2009;21137;499;;;Otras transferencias corrientes;35190
+2009;24301;499;;;Otras transferencias corrientes;243050
+2009;98001;499;;;Otras transferencias corrientes;25000000
+2009;12301;5;;;INGRESOS PATRIMONIALES;11081950
+2009;13102;5;;;INGRESOS PATRIMONIALES;473020
+2009;13301;5;;;INGRESOS PATRIMONIALES;1000000
+2009;14104;5;;;INGRESOS PATRIMONIALES;15000
+2009;14107;5;;;INGRESOS PATRIMONIALES;1196460
+2009;14113;5;;;INGRESOS PATRIMONIALES;6630000
+2009;14204;5;;;INGRESOS PATRIMONIALES;13948470
+2009;14205;5;;;INGRESOS PATRIMONIALES;43150760
+2009;14206;5;;;INGRESOS PATRIMONIALES;84039230
+2009;14301;5;;;INGRESOS PATRIMONIALES;1324960
+2009;15105;5;;;INGRESOS PATRIMONIALES;23370
+2009;15202;5;;;INGRESOS PATRIMONIALES;14439870
+2009;15302;5;;;INGRESOS PATRIMONIALES;4752890
+2009;16101;5;;;INGRESOS PATRIMONIALES;1298270
+2009;16201;5;;;INGRESOS PATRIMONIALES;3896650
+2009;17238;5;;;INGRESOS PATRIMONIALES;25384120
+2009;17239;5;;;INGRESOS PATRIMONIALES;3046690
+2009;18101;5;;;INGRESOS PATRIMONIALES;160000
+2009;18103;5;;;INGRESOS PATRIMONIALES;1980
+2009;19101;5;;;INGRESOS PATRIMONIALES;125000
+2009;19102;5;;;INGRESOS PATRIMONIALES;131517720
+2009;19104;5;;;INGRESOS PATRIMONIALES;8000
+2009;19301;5;;;INGRESOS PATRIMONIALES;125000
+2009;20101;5;;;INGRESOS PATRIMONIALES;2050000
+2009;20102;5;;;INGRESOS PATRIMONIALES;30000
+2009;20207;5;;;INGRESOS PATRIMONIALES;2495850
+2009;20208;5;;;INGRESOS PATRIMONIALES;58154700
+2009;20301;5;;;INGRESOS PATRIMONIALES;2365220
+2009;20302;5;;;INGRESOS PATRIMONIALES;800000
+2009;21137;5;;;INGRESOS PATRIMONIALES;29060
+2009;21201;5;;;INGRESOS PATRIMONIALES;3647860
+2009;21203;5;;;INGRESOS PATRIMONIALES;20531360
+2009;21204;5;;;INGRESOS PATRIMONIALES;9274990
+2009;21205;5;;;INGRESOS PATRIMONIALES;12550000
+2009;21206;5;;;INGRESOS PATRIMONIALES;4611000
+2009;21207;5;;;INGRESOS PATRIMONIALES;35837550
+2009;21401;5;;;INGRESOS PATRIMONIALES;11634220
+2009;22101;5;;;INGRESOS PATRIMONIALES;70250
+2009;22102;5;;;INGRESOS PATRIMONIALES;13977600
+2009;22401;5;;;INGRESOS PATRIMONIALES;30000
+2009;23101;5;;;INGRESOS PATRIMONIALES;3504920
+2009;23208;5;;;INGRESOS PATRIMONIALES;1125190
+2009;23211;5;;;INGRESOS PATRIMONIALES;-32661920
+2009;23225;5;;;INGRESOS PATRIMONIALES;23481430
+2009;23226;5;;;INGRESOS PATRIMONIALES;27204460
+2009;23228;5;;;INGRESOS PATRIMONIALES;51445260
+2009;23229;5;;;INGRESOS PATRIMONIALES;74396530
+2009;23230;5;;;INGRESOS PATRIMONIALES;21967010
+2009;23231;5;;;INGRESOS PATRIMONIALES;1147150
+2009;23232;5;;;INGRESOS PATRIMONIALES;33052510
+2009;23233;5;;;INGRESOS PATRIMONIALES;590550
+2009;23234;5;;;INGRESOS PATRIMONIALES;33937540
+2009;23236;5;;;INGRESOS PATRIMONIALES;48193990
+2009;23237;5;;;INGRESOS PATRIMONIALES;4954230
+2009;24101;5;;;INGRESOS PATRIMONIALES;10880
+2009;24102;5;;;INGRESOS PATRIMONIALES;15000
+2009;24104;5;;;INGRESOS PATRIMONIALES;850000
+2009;24201;5;;;INGRESOS PATRIMONIALES;-9911000
+2009;24301;5;;;INGRESOS PATRIMONIALES;2052220
+2009;25103;5;;;INGRESOS PATRIMONIALES;8545000
+2009;25401;5;;;INGRESOS PATRIMONIALES;150000
+2009;28101;5;;;INGRESOS PATRIMONIALES;8570
+2009;28102;5;;;INGRESOS PATRIMONIALES;12020
+2009;28201;5;;;INGRESOS PATRIMONIALES;6628120
+2009;60001;5;;;INGRESOS PATRIMONIALES;2715069840
+2009;98001;5;;;INGRESOS PATRIMONIALES;3180575290
+2009;19102;50;;;Intereses de títulos y valores;130773920
+2009;22102;50;;;Intereses de títulos y valores;2710
+2009;60001;50;;;Intereses de títulos y valores;2379353010
+2009;19102;500;;;Del Estado;130773920
+2009;22102;500;;;Del Estado;590
+2009;60001;500;;;Del Estado;2359797010
+2009;60001;501;;;De organismos autónomos;30000
+2009;22102;504;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;2100
+2009;60001;504;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;363670
+2009;60001;505;;;De Comunidades Autónomas;1815320
+2009;60001;506;;;De Entidades Locales;600
+2009;22102;507;;;De empresas privadas;20
+2009;60001;507;;;De empresas privadas;17346410
+2009;14113;51;;;Intereses de anticipos y préstamos concedidos;10
+2009;22102;51;;;Intereses de anticipos y préstamos concedidos;30
+2009;23230;51;;;Intereses de anticipos y préstamos concedidos;100000
+2009;23236;51;;;Intereses de anticipos y préstamos concedidos;2000
+2009;60001;51;;;Intereses de anticipos y préstamos concedidos;215320
+2009;98001;51;;;Intereses de anticipos y préstamos concedidos;135752650
+2009;23230;514;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del Sector Público;100000
+2009;98001;514;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del Sector Público;3032470
+2009;98001;514;;01;I.C.O.;3032470
+2009;23230;514;;99;Otros;100000
+2009;98001;517;;;A empresas privadas;12080800
+2009;14113;518;;;A familias e instituciones sin fines de lucro;10
+2009;22102;518;;;A familias e instituciones sin fines de lucro;30
+2009;23236;518;;;A familias e instituciones sin fines de lucro;2000
+2009;60001;518;;;A familias e instituciones sin fines de lucro;215320
+2009;98001;518;;;A familias e instituciones sin fines de lucro;1039380
+2009;98001;519;;;Al exterior;119600000
+2009;12301;52;;;Intereses de depósitos;300000
+2009;13102;52;;;Intereses de depósitos;120000
+2009;13301;52;;;Intereses de depósitos;1000000
+2009;14104;52;;;Intereses de depósitos;15000
+2009;14107;52;;;Intereses de depósitos;10400
+2009;14113;52;;;Intereses de depósitos;6391940
+2009;14204;52;;;Intereses de depósitos;90000
+2009;14206;52;;;Intereses de depósitos;400000
+2009;14301;52;;;Intereses de depósitos;1324960
+2009;15302;52;;;Intereses de depósitos;4732890
+2009;16101;52;;;Intereses de depósitos;1268220
+2009;17238;52;;;Intereses de depósitos;90000
+2009;18103;52;;;Intereses de depósitos;1980
+2009;19101;52;;;Intereses de depósitos;48080
+2009;19102;52;;;Intereses de depósitos;95000
+2009;19104;52;;;Intereses de depósitos;8000
+2009;19301;52;;;Intereses de depósitos;125000
+2009;20101;52;;;Intereses de depósitos;2050000
+2009;20102;52;;;Intereses de depósitos;30000
+2009;20207;52;;;Intereses de depósitos;10
+2009;20208;52;;;Intereses de depósitos;20000
+2009;20301;52;;;Intereses de depósitos;2292140
+2009;20302;52;;;Intereses de depósitos;800000
+2009;21137;52;;;Intereses de depósitos;11580
+2009;21204;52;;;Intereses de depósitos;49190
+2009;21205;52;;;Intereses de depósitos;50000
+2009;21206;52;;;Intereses de depósitos;6240
+2009;21401;52;;;Intereses de depósitos;8108670
+2009;22101;52;;;Intereses de depósitos;3500
+2009;22102;52;;;Intereses de depósitos;12641300
+2009;22401;52;;;Intereses de depósitos;30000
+2009;23101;52;;;Intereses de depósitos;52020
+2009;23225;52;;;Intereses de depósitos;40000
+2009;23226;52;;;Intereses de depósitos;10000
+2009;23228;52;;;Intereses de depósitos;1000
+2009;23229;52;;;Intereses de depósitos;78790
+2009;23230;52;;;Intereses de depósitos;12000
+2009;23232;52;;;Intereses de depósitos;309000
+2009;23233;52;;;Intereses de depósitos;1500
+2009;23234;52;;;Intereses de depósitos;20000
+2009;23236;52;;;Intereses de depósitos;200000
+2009;23237;52;;;Intereses de depósitos;20000
+2009;24102;52;;;Intereses de depósitos;9000
+2009;24201;52;;;Intereses de depósitos;7000
+2009;24301;52;;;Intereses de depósitos;605000
+2009;25103;52;;;Intereses de depósitos;140000
+2009;25401;52;;;Intereses de depósitos;150000
+2009;28101;52;;;Intereses de depósitos;8570
+2009;28102;52;;;Intereses de depósitos;12020
+2009;28201;52;;;Intereses de depósitos;6000
+2009;60001;52;;;Intereses de depósitos;327525310
+2009;98001;52;;;Intereses de depósitos;752357250
+2009;12301;520;;;Intereses de cuentas bancarias;300000
+2009;13102;520;;;Intereses de cuentas bancarias;120000
+2009;13301;520;;;Intereses de cuentas bancarias;1000000
+2009;14104;520;;;Intereses de cuentas bancarias;15000
+2009;14107;520;;;Intereses de cuentas bancarias;10400
+2009;14113;520;;;Intereses de cuentas bancarias;6391940
+2009;14204;520;;;Intereses de cuentas bancarias;90000
+2009;14206;520;;;Intereses de cuentas bancarias;400000
+2009;14301;520;;;Intereses de cuentas bancarias;1324960
+2009;15302;520;;;Intereses de cuentas bancarias;4732890
+2009;16101;520;;;Intereses de cuentas bancarias;1268220
+2009;17238;520;;;Intereses de cuentas bancarias;90000
+2009;18103;520;;;Intereses de cuentas bancarias;1980
+2009;19101;520;;;Intereses de cuentas bancarias;48080
+2009;19102;520;;;Intereses de cuentas bancarias;95000
+2009;19104;520;;;Intereses de cuentas bancarias;8000
+2009;19301;520;;;Intereses de cuentas bancarias;125000
+2009;20101;520;;;Intereses de cuentas bancarias;2050000
+2009;20102;520;;;Intereses de cuentas bancarias;30000
+2009;20207;520;;;Intereses de cuentas bancarias;10
+2009;20208;520;;;Intereses de cuentas bancarias;20000
+2009;20301;520;;;Intereses de cuentas bancarias;2292140
+2009;20302;520;;;Intereses de cuentas bancarias;800000
+2009;21137;520;;;Intereses de cuentas bancarias;11580
+2009;21204;520;;;Intereses de cuentas bancarias;49190
+2009;21205;520;;;Intereses de cuentas bancarias;50000
+2009;21206;520;;;Intereses de cuentas bancarias;6240
+2009;21401;520;;;Intereses de cuentas bancarias;8108670
+2009;22101;520;;;Intereses de cuentas bancarias;3500
+2009;22102;520;;;Intereses de cuentas bancarias;12641300
+2009;22401;520;;;Intereses de cuentas bancarias;30000
+2009;23101;520;;;Intereses de cuentas bancarias;52020
+2009;23225;520;;;Intereses de cuentas bancarias;40000
+2009;23226;520;;;Intereses de cuentas bancarias;10000
+2009;23228;520;;;Intereses de cuentas bancarias;1000
+2009;23229;520;;;Intereses de cuentas bancarias;78790
+2009;23230;520;;;Intereses de cuentas bancarias;12000
+2009;23232;520;;;Intereses de cuentas bancarias;309000
+2009;23233;520;;;Intereses de cuentas bancarias;1500
+2009;23234;520;;;Intereses de cuentas bancarias;20000
+2009;23236;520;;;Intereses de cuentas bancarias;200000
+2009;23237;520;;;Intereses de cuentas bancarias;20000
+2009;24102;520;;;Intereses de cuentas bancarias;9000
+2009;24201;520;;;Intereses de cuentas bancarias;7000
+2009;24301;520;;;Intereses de cuentas bancarias;605000
+2009;25103;520;;;Intereses de cuentas bancarias;140000
+2009;25401;520;;;Intereses de cuentas bancarias;150000
+2009;28101;520;;;Intereses de cuentas bancarias;8570
+2009;28102;520;;;Intereses de cuentas bancarias;12020
+2009;28201;520;;;Intereses de cuentas bancarias;6000
+2009;60001;520;;;Intereses de cuentas bancarias;324115340
+2009;98001;520;;;Intereses de cuentas bancarias;752357250
+2009;23229;520;;00;Intereses de las consignaciones judiciales;78790
+2009;23230;520;;00;Intereses de las consignaciones judiciales;12000
+2009;23232;520;;00;Intereses de las consignaciones judiciales;309000
+2009;23234;520;;00;Intereses de las consignaciones judiciales;20000
+2009;98001;520;;00;Intereses de las consignaciones judiciales;123577250
+2009;98001;520;;09;Intereses de la cuenta del Tesoro en el Banco de España;600000000
+2009;12301;520;;99;Otros intereses de cuentas bancarias;300000
+2009;13301;520;;99;Otros intereses de cuentas bancarias;1000000
+2009;14104;520;;99;Otros intereses de cuentas bancarias;15000
+2009;14107;520;;99;Otros intereses de cuentas bancarias;10400
+2009;14113;520;;99;Otros intereses de cuentas bancarias;6391940
+2009;14204;520;;99;Otros intereses de cuentas bancarias;90000
+2009;14206;520;;99;Otros intereses de cuentas bancarias;400000
+2009;14301;520;;99;Otros intereses de cuentas bancarias;1324960
+2009;16101;520;;99;Otros intereses de cuentas bancarias;1268220
+2009;18103;520;;99;Otros intereses de cuentas bancarias;1980
+2009;19101;520;;99;Otros intereses de cuentas bancarias;48080
+2009;19102;520;;99;Otros intereses de cuentas bancarias;95000
+2009;19104;520;;99;Otros intereses de cuentas bancarias;8000
+2009;19301;520;;99;Otros intereses de cuentas bancarias;125000
+2009;20101;520;;99;Otros intereses de cuentas bancarias;2050000
+2009;20102;520;;99;Otros intereses de cuentas bancarias;30000
+2009;20207;520;;99;Otros intereses de cuentas bancarias;10
+2009;20208;520;;99;Otros intereses de cuentas bancarias;20000
+2009;20301;520;;99;Otros intereses de cuentas bancarias;2292140
+2009;20302;520;;99;Otros intereses de cuentas bancarias;800000
+2009;21204;520;;99;Otros intereses de cuentas bancarias;49190
+2009;21205;520;;99;Otros intereses de cuentas bancarias;50000
+2009;21401;520;;99;Otros intereses de cuentas bancarias;8108670
+2009;22101;520;;99;Otros intereses de cuentas bancarias;3500
+2009;22102;520;;99;Otros intereses de cuentas bancarias;12641300
+2009;23101;520;;99;Otros intereses de cuentas bancarias;52020
+2009;23225;520;;99;Otros intereses de cuentas bancarias;40000
+2009;23226;520;;99;Otros intereses de cuentas bancarias;10000
+2009;23228;520;;99;Otros intereses de cuentas bancarias;1000
+2009;23233;520;;99;Otros intereses de cuentas bancarias;1500
+2009;23236;520;;99;Otros intereses de cuentas bancarias;200000
+2009;23237;520;;99;Otros intereses de cuentas bancarias;20000
+2009;24201;520;;99;Otros intereses de cuentas bancarias;7000
+2009;24301;520;;99;Otros intereses de cuentas bancarias;605000
+2009;28101;520;;99;Otros intereses de cuentas bancarias;8570
+2009;28102;520;;99;Otros intereses de cuentas bancarias;12020
+2009;28201;520;;99;Otros intereses de cuentas bancarias;6000
+2009;98001;520;;99;Otros intereses de cuentas bancarias;28780000
+2009;60001;529;;;Intereses de otros depósitos;3409970
+2009;14205;53;;;Dividendos y participaciones en beneficios;3000000
+2009;22101;53;;;Dividendos y participaciones en beneficios;4000
+2009;22102;53;;;Dividendos y participaciones en beneficios;450000
+2009;23211;53;;;Dividendos y participaciones en beneficios;9100000
+2009;60001;53;;;Dividendos y participaciones en beneficios;5670
+2009;98001;53;;;Dividendos y participaciones en beneficios;2277200390
+2009;14205;534;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;3000000
+2009;23211;534;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;9100000
+2009;98001;534;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;2277200390
+2009;98001;534;;03;Banco de España;2203890000
+2009;14205;534;;99;Otras participaciones en beneficios;3000000
+2009;23211;534;;99;Otras participaciones en beneficios;9100000
+2009;98001;534;;99;Otras participaciones en beneficios;73310390
+2009;22101;537;;;De empresas privadas;4000
+2009;22102;537;;;De empresas privadas;450000
+2009;60001;537;;;De empresas privadas;5670
+2009;13102;54;;;Rentas de bienes inmuebles;353020
+2009;14107;54;;;Rentas de bienes inmuebles;1173580
+2009;14113;54;;;Rentas de bienes inmuebles;238050
+2009;14204;54;;;Rentas de bienes inmuebles;120000
+2009;14205;54;;;Rentas de bienes inmuebles;364210
+2009;15105;54;;;Rentas de bienes inmuebles;23370
+2009;15202;54;;;Rentas de bienes inmuebles;278000
+2009;15302;54;;;Rentas de bienes inmuebles;3000
+2009;18101;54;;;Rentas de bienes inmuebles;160000
+2009;19102;54;;;Rentas de bienes inmuebles;648800
+2009;21204;54;;;Rentas de bienes inmuebles;20800
+2009;21401;54;;;Rentas de bienes inmuebles;2617550
+2009;22101;54;;;Rentas de bienes inmuebles;62750
+2009;22102;54;;;Rentas de bienes inmuebles;883560
+2009;23211;54;;;Rentas de bienes inmuebles;44000
+2009;23225;54;;;Rentas de bienes inmuebles;10200
+2009;23226;54;;;Rentas de bienes inmuebles;3000
+2009;23229;54;;;Rentas de bienes inmuebles;4430
+2009;23230;54;;;Rentas de bienes inmuebles;18000
+2009;23234;54;;;Rentas de bienes inmuebles;1830
+2009;25103;54;;;Rentas de bienes inmuebles;7650000
+2009;60001;54;;;Rentas de bienes inmuebles;7694530
+2009;98001;54;;;Rentas de bienes inmuebles;8185000
+2009;13102;540;;;Alquiler y productos de inmuebles;353020
+2009;14113;540;;;Alquiler y productos de inmuebles;238050
+2009;14204;540;;;Alquiler y productos de inmuebles;120000
+2009;14205;540;;;Alquiler y productos de inmuebles;364210
+2009;15105;540;;;Alquiler y productos de inmuebles;23370
+2009;15202;540;;;Alquiler y productos de inmuebles;278000
+2009;15302;540;;;Alquiler y productos de inmuebles;3000
+2009;18101;540;;;Alquiler y productos de inmuebles;160000
+2009;19102;540;;;Alquiler y productos de inmuebles;648800
+2009;21204;540;;;Alquiler y productos de inmuebles;20800
+2009;21401;540;;;Alquiler y productos de inmuebles;2617550
+2009;22102;540;;;Alquiler y productos de inmuebles;883560
+2009;23211;540;;;Alquiler y productos de inmuebles;44000
+2009;23225;540;;;Alquiler y productos de inmuebles;10200
+2009;23226;540;;;Alquiler y productos de inmuebles;3000
+2009;23229;540;;;Alquiler y productos de inmuebles;4430
+2009;23230;540;;;Alquiler y productos de inmuebles;18000
+2009;23234;540;;;Alquiler y productos de inmuebles;1830
+2009;25103;540;;;Alquiler y productos de inmuebles;7650000
+2009;60001;540;;;Alquiler y productos de inmuebles;7694530
+2009;98001;540;;;Alquiler y productos de inmuebles;8185000
+2009;14204;540;;00;Alquiler de viviendas;120000
+2009;14205;540;;00;Alquiler de viviendas;364210
+2009;15105;540;;00;Alquiler de viviendas;23370
+2009;18101;540;;00;Alquiler de viviendas;160000
+2009;22102;540;;00;Alquiler de viviendas;154450
+2009;23225;540;;00;Alquiler de viviendas;10200
+2009;23226;540;;00;Alquiler de viviendas;3000
+2009;23230;540;;00;Alquiler de viviendas;18000
+2009;23234;540;;00;Alquiler de viviendas;1830
+2009;13102;540;;10;Alquiler de locales;353020
+2009;14113;540;;10;Alquiler de locales;238050
+2009;19102;540;;10;Alquiler de locales;648800
+2009;21401;540;;10;Alquiler de locales;2617550
+2009;22102;540;;10;Alquiler de locales;597850
+2009;23229;540;;10;Alquiler de locales;4430
+2009;15302;540;;99;Otros productos de inmuebles;3000
+2009;21204;540;;99;Otros productos de inmuebles;20800
+2009;22102;540;;99;Otros productos de inmuebles;131260
+2009;23211;540;;99;Otros productos de inmuebles;44000
+2009;25103;540;;99;Otros productos de inmuebles;7650000
+2009;98001;540;;99;Otros productos de inmuebles;8185000
+2009;22101;542;;;Alquiler de aulas y otras instalaciones formativas.;62750
+2009;14107;549;;;Otras rentas;1173580
+2009;15302;55;;;Productos de concesiones y aprovechamientos especiales;17000
+2009;20208;55;;;Productos de concesiones y aprovechamientos especiales;18792080
+2009;21137;55;;;Productos de concesiones y aprovechamientos especiales;17480
+2009;21401;55;;;Productos de concesiones y aprovechamientos especiales;908000
+2009;23101;55;;;Productos de concesiones y aprovechamientos especiales;3452900
+2009;23225;55;;;Productos de concesiones y aprovechamientos especiales;50000
+2009;23226;55;;;Productos de concesiones y aprovechamientos especiales;36000
+2009;23228;55;;;Productos de concesiones y aprovechamientos especiales;975800
+2009;23229;55;;;Productos de concesiones y aprovechamientos especiales;15750
+2009;23232;55;;;Productos de concesiones y aprovechamientos especiales;154500
+2009;23234;55;;;Productos de concesiones y aprovechamientos especiales;160570
+2009;24101;55;;;Productos de concesiones y aprovechamientos especiales;10880
+2009;24102;55;;;Productos de concesiones y aprovechamientos especiales;6000
+2009;24104;55;;;Productos de concesiones y aprovechamientos especiales;850000
+2009;24201;55;;;Productos de concesiones y aprovechamientos especiales;37000
+2009;24301;55;;;Productos de concesiones y aprovechamientos especiales;1447220
+2009;25103;55;;;Productos de concesiones y aprovechamientos especiales;500000
+2009;60001;55;;;Productos de concesiones y aprovechamientos especiales;137000
+2009;98001;55;;;Productos de concesiones y aprovechamientos especiales;4080000
+2009;20208;550;;;De concesiones administrativas;18792080
+2009;21137;550;;;De concesiones administrativas;17480
+2009;23101;550;;;De concesiones administrativas;25700
+2009;23228;550;;;De concesiones administrativas;102360
+2009;23229;550;;;De concesiones administrativas;15750
+2009;23234;550;;;De concesiones administrativas;50000
+2009;24101;550;;;De concesiones administrativas;10880
+2009;24102;550;;;De concesiones administrativas;6000
+2009;24104;550;;;De concesiones administrativas;850000
+2009;60001;550;;;De concesiones administrativas;137000
+2009;98001;550;;;De concesiones administrativas;2040000
+2009;23101;551;;;Aprovechamientos agrícolas y forestales;3105900
+2009;23225;551;;;Aprovechamientos agrícolas y forestales;50000
+2009;23228;551;;;Aprovechamientos agrícolas y forestales;872440
+2009;23234;551;;;Aprovechamientos agrícolas y forestales;110570
+2009;23226;555;;;Aprovechamientos agrícolas y forestales;36000
+2009;15302;559;;;Otras concesiones y aprovechamientos;17000
+2009;21401;559;;;Otras concesiones y aprovechamientos;908000
+2009;23101;559;;;Otras concesiones y aprovechamientos;321300
+2009;23228;559;;;Otras concesiones y aprovechamientos;1000
+2009;23232;559;;;Otras concesiones y aprovechamientos;154500
+2009;24201;559;;;Otras concesiones y aprovechamientos;37000
+2009;24301;559;;;Otras concesiones y aprovechamientos;1447220
+2009;25103;559;;;Otras concesiones y aprovechamientos;500000
+2009;98001;559;;;Otras concesiones y aprovechamientos;2040000
+2009;12301;57;;;Resultados de operaciones comerciales;3600000
+2009;14204;57;;;Resultados de operaciones comerciales;14272000
+2009;14205;57;;;Resultados de operaciones comerciales;24980320
+2009;14206;57;;;Resultados de operaciones comerciales;-1560760
+2009;15202;57;;;Resultados de operaciones comerciales;1700000
+2009;16201;57;;;Resultados de operaciones comerciales;2500000
+2009;17238;57;;;Resultados de operaciones comerciales;11000000
+2009;17239;57;;;Resultados de operaciones comerciales;1500000
+2009;20207;57;;;Resultados de operaciones comerciales;850000
+2009;20208;57;;;Resultados de operaciones comerciales;6900000
+2009;21201;57;;;Resultados de operaciones comerciales;70000
+2009;21203;57;;;Resultados de operaciones comerciales;524610
+2009;21204;57;;;Resultados de operaciones comerciales;400000
+2009;21205;57;;;Resultados de operaciones comerciales;2500000
+2009;21206;57;;;Resultados de operaciones comerciales;1080000
+2009;21207;57;;;Resultados de operaciones comerciales;1310000
+2009;23211;57;;;Resultados de operaciones comerciales;-48888000
+2009;23225;57;;;Resultados de operaciones comerciales;15500000
+2009;23226;57;;;Resultados de operaciones comerciales;22194450
+2009;23228;57;;;Resultados de operaciones comerciales;48985200
+2009;23229;57;;;Resultados de operaciones comerciales;23481690
+2009;23230;57;;;Resultados de operaciones comerciales;1000000
+2009;23231;57;;;Resultados de operaciones comerciales;1147150
+2009;23232;57;;;Resultados de operaciones comerciales;24037170
+2009;23233;57;;;Resultados de operaciones comerciales;572000
+2009;23234;57;;;Resultados de operaciones comerciales;28737090
+2009;23236;57;;;Resultados de operaciones comerciales;40209180
+2009;23237;57;;;Resultados de operaciones comerciales;4341270
+2009;24201;57;;;Resultados de operaciones comerciales;-17350000
+2009;12301;570;;;Resultados de operaciones comerciales;3600000
+2009;14204;570;;;Resultados de operaciones comerciales;14272000
+2009;14205;570;;;Resultados de operaciones comerciales;24980320
+2009;14206;570;;;Resultados de operaciones comerciales;-1560760
+2009;15202;570;;;Resultados de operaciones comerciales;1700000
+2009;16201;570;;;Resultados de operaciones comerciales;2500000
+2009;17238;570;;;Resultados de operaciones comerciales;11000000
+2009;17239;570;;;Resultados de operaciones comerciales;1500000
+2009;20207;570;;;Resultados de operaciones comerciales;850000
+2009;20208;570;;;Resultados de operaciones comerciales;6900000
+2009;21201;570;;;Resultados de operaciones comerciales;70000
+2009;21203;570;;;Resultados de operaciones comerciales;524610
+2009;21204;570;;;Resultados de operaciones comerciales;400000
+2009;21205;570;;;Resultados de operaciones comerciales;2500000
+2009;21206;570;;;Resultados de operaciones comerciales;1080000
+2009;21207;570;;;Resultados de operaciones comerciales;1310000
+2009;23211;570;;;Resultados de operaciones comerciales;-48888000
+2009;23225;570;;;Resultados de operaciones comerciales;15500000
+2009;23226;570;;;Resultados de operaciones comerciales;22194450
+2009;23228;570;;;Resultados de operaciones comerciales;48985200
+2009;23229;570;;;Resultados de operaciones comerciales;23481690
+2009;23230;570;;;Resultados de operaciones comerciales;1000000
+2009;23231;570;;;Resultados de operaciones comerciales;1147150
+2009;23232;570;;;Resultados de operaciones comerciales;24037170
+2009;23233;570;;;Resultados de operaciones comerciales;572000
+2009;23234;570;;;Resultados de operaciones comerciales;28737090
+2009;23236;570;;;Resultados de operaciones comerciales;40209180
+2009;23237;570;;;Resultados de operaciones comerciales;4341270
+2009;24201;570;;;Resultados de operaciones comerciales;-17350000
+2009;12301;58;;;Variación del fondo de maniobra;7181950
+2009;14204;58;;;Variación del fondo de maniobra;-533530
+2009;14205;58;;;Variación del fondo de maniobra;14806230
+2009;14206;58;;;Variación del fondo de maniobra;85088910
+2009;15202;58;;;Variación del fondo de maniobra;12401870
+2009;16201;58;;;Variación del fondo de maniobra;1396650
+2009;17238;58;;;Variación del fondo de maniobra;14294120
+2009;17239;58;;;Variación del fondo de maniobra;1546690
+2009;20207;58;;;Variación del fondo de maniobra;1645840
+2009;20208;58;;;Variación del fondo de maniobra;32442620
+2009;21201;58;;;Variación del fondo de maniobra;3577860
+2009;21203;58;;;Variación del fondo de maniobra;20006750
+2009;21204;58;;;Variación del fondo de maniobra;8805000
+2009;21205;58;;;Variación del fondo de maniobra;10000000
+2009;21206;58;;;Variación del fondo de maniobra;3524760
+2009;21207;58;;;Variación del fondo de maniobra;34527550
+2009;23208;58;;;Variación del fondo de maniobra;1125190
+2009;23211;58;;;Variación del fondo de maniobra;7082080
+2009;23225;58;;;Variación del fondo de maniobra;7881230
+2009;23226;58;;;Variación del fondo de maniobra;4961010
+2009;23228;58;;;Variación del fondo de maniobra;1355720
+2009;23229;58;;;Variación del fondo de maniobra;50811680
+2009;23230;58;;;Variación del fondo de maniobra;20837010
+2009;23232;58;;;Variación del fondo de maniobra;8242840
+2009;23233;58;;;Variación del fondo de maniobra;17050
+2009;23234;58;;;Variación del fondo de maniobra;5018050
+2009;23236;58;;;Variación del fondo de maniobra;7667810
+2009;23237;58;;;Variación del fondo de maniobra;577960
+2009;24201;58;;;Variación del fondo de maniobra;7395000
+2009;28201;58;;;Variación del fondo de maniobra;6622120
+2009;12301;580;;;Variación del fondo de maniobra;7181950
+2009;14204;580;;;Variación del fondo de maniobra;-533530
+2009;14205;580;;;Variación del fondo de maniobra;14806230
+2009;14206;580;;;Variación del fondo de maniobra;85088910
+2009;15202;580;;;Variación del fondo de maniobra;12401870
+2009;16201;580;;;Variación del fondo de maniobra;1396650
+2009;17238;580;;;Variación del fondo de maniobra;14294120
+2009;17239;580;;;Variación del fondo de maniobra;1546690
+2009;20207;580;;;Variación del fondo de maniobra;1645840
+2009;20208;580;;;Variación del fondo de maniobra;32442620
+2009;21201;580;;;Variación del fondo de maniobra;3577860
+2009;21203;580;;;Variación del fondo de maniobra;20006750
+2009;21204;580;;;Variación del fondo de maniobra;8805000
+2009;21205;580;;;Variación del fondo de maniobra;10000000
+2009;21206;580;;;Variación del fondo de maniobra;3524760
+2009;21207;580;;;Variación del fondo de maniobra;34527550
+2009;23208;580;;;Variación del fondo de maniobra;1125190
+2009;23211;580;;;Variación del fondo de maniobra;7082080
+2009;23225;580;;;Variación del fondo de maniobra;7881230
+2009;23226;580;;;Variación del fondo de maniobra;4961010
+2009;23228;580;;;Variación del fondo de maniobra;1355720
+2009;23229;580;;;Variación del fondo de maniobra;50811680
+2009;23230;580;;;Variación del fondo de maniobra;20837010
+2009;23232;580;;;Variación del fondo de maniobra;8242840
+2009;23233;580;;;Variación del fondo de maniobra;17050
+2009;23234;580;;;Variación del fondo de maniobra;5018050
+2009;23236;580;;;Variación del fondo de maniobra;7667810
+2009;23237;580;;;Variación del fondo de maniobra;577960
+2009;24201;580;;;Variación del fondo de maniobra;7395000
+2009;28201;580;;;Variación del fondo de maniobra;6622120
+2009;14107;59;;;Otros ingresos patrimoniales;12480
+2009;14206;59;;;Otros ingresos patrimoniales;111080
+2009;15202;59;;;Otros ingresos patrimoniales;60000
+2009;16101;59;;;Otros ingresos patrimoniales;30050
+2009;19101;59;;;Otros ingresos patrimoniales;76920
+2009;20301;59;;;Otros ingresos patrimoniales;73080
+2009;23228;59;;;Otros ingresos patrimoniales;127540
+2009;23229;59;;;Otros ingresos patrimoniales;4190
+2009;23232;59;;;Otros ingresos patrimoniales;309000
+2009;23236;59;;;Otros ingresos patrimoniales;115000
+2009;23237;59;;;Otros ingresos patrimoniales;15000
+2009;25103;59;;;Otros ingresos patrimoniales;255000
+2009;60001;59;;;Otros ingresos patrimoniales;139000
+2009;98001;59;;;Otros ingresos patrimoniales;3000000
+2009;14107;599;;;Otros;12480
+2009;14206;599;;;Otros;111080
+2009;15202;599;;;Otros;60000
+2009;16101;599;;;Otros;30050
+2009;19101;599;;;Otros;76920
+2009;20301;599;;;Otros;73080
+2009;23228;599;;;Otros;127540
+2009;23229;599;;;Otros;4190
+2009;23232;599;;;Otros;309000
+2009;23236;599;;;Otros;115000
+2009;23237;599;;;Otros;15000
+2009;25103;599;;;Otros;255000
+2009;60001;599;;;Otros;139000
+2009;98001;599;;;Otros;3000000
+2009;14104;6;;;ENAJENACION DE INVERSIONES REALES;200000
+2009;14107;6;;;ENAJENACION DE INVERSIONES REALES;100000000
+2009;14206;6;;;ENAJENACION DE INVERSIONES REALES;104252850
+2009;15202;6;;;ENAJENACION DE INVERSIONES REALES;235000
+2009;16101;6;;;ENAJENACION DE INVERSIONES REALES;330560
+2009;16102;6;;;ENAJENACION DE INVERSIONES REALES;24040490
+2009;19101;6;;;ENAJENACION DE INVERSIONES REALES;1800
+2009;19102;6;;;ENAJENACION DE INVERSIONES REALES;4220730
+2009;20208;6;;;ENAJENACION DE INVERSIONES REALES;1200000
+2009;21206;6;;;ENAJENACION DE INVERSIONES REALES;206170
+2009;22102;6;;;ENAJENACION DE INVERSIONES REALES;12020240
+2009;23229;6;;;ENAJENACION DE INVERSIONES REALES;7380
+2009;23237;6;;;ENAJENACION DE INVERSIONES REALES;30010
+2009;25401;6;;;ENAJENACION DE INVERSIONES REALES;260000
+2009;28101;6;;;ENAJENACION DE INVERSIONES REALES;75010
+2009;60001;6;;;ENAJENACION DE INVERSIONES REALES;965770
+2009;98001;6;;;ENAJENACION DE INVERSIONES REALES;119500000
+2009;14107;60;;;De terrenos;100000000
+2009;98001;60;;;De terrenos;14750000
+2009;14107;600;;;Venta de solares;100000000
+2009;98001;600;;;Venta de solares;10300000
+2009;98001;601;;;Venta de fincas rústicas;4450000
+2009;14104;61;;;De las demás inversiones reales;200000
+2009;14206;61;;;De las demás inversiones reales;104252850
+2009;15202;61;;;De las demás inversiones reales;235000
+2009;16101;61;;;De las demás inversiones reales;330560
+2009;16102;61;;;De las demás inversiones reales;24040490
+2009;19101;61;;;De las demás inversiones reales;1800
+2009;19102;61;;;De las demás inversiones reales;4220730
+2009;21206;61;;;De las demás inversiones reales;7270
+2009;22102;61;;;De las demás inversiones reales;12020240
+2009;23229;61;;;De las demás inversiones reales;7380
+2009;23237;61;;;De las demás inversiones reales;30010
+2009;25401;61;;;De las demás inversiones reales;260000
+2009;60001;61;;;De las demás inversiones reales;965770
+2009;98001;61;;;De las demás inversiones reales;750000
+2009;21206;616;;;Enajenación de bienes destinados a uso general;7270
+2009;14104;619;;;Venta de otras inversiones reales;200000
+2009;14206;619;;;Venta de otras inversiones reales;104252850
+2009;15202;619;;;Venta de otras inversiones reales;235000
+2009;16101;619;;;Venta de otras inversiones reales;330560
+2009;16102;619;;;Venta de otras inversiones reales;24040490
+2009;19101;619;;;Venta de otras inversiones reales;1800
+2009;19102;619;;;Venta de otras inversiones reales;4220730
+2009;22102;619;;;Venta de otras inversiones reales;12020240
+2009;23229;619;;;Venta de otras inversiones reales;7380
+2009;23237;619;;;Venta de otras inversiones reales;30010
+2009;25401;619;;;Venta de otras inversiones reales;260000
+2009;60001;619;;;Venta de otras inversiones reales;965770
+2009;98001;619;;;Venta de otras inversiones reales;750000
+2009;20208;68;;;Reintegros por operaciones de capital;1200000
+2009;21206;68;;;Reintegros por operaciones de capital;198900
+2009;28101;68;;;Reintegros por operaciones de capital;75010
+2009;98001;68;;;Reintegros por operaciones de capital;104000000
+2009;20208;680;;;De ejercicios cerrados;1200000
+2009;21206;680;;;De ejercicios cerrados;198900
+2009;28101;680;;;De ejercicios cerrados;75010
+2009;98001;680;;;De ejercicios cerrados;92000000
+2009;98001;681;;;Del presupuesto corriente;12000000
+2009;12301;7;;;TRANSFERENCIAS DE CAPITAL;9270000
+2009;12401;7;;;TRANSFERENCIAS DE CAPITAL;74836420
+2009;13101;7;;;TRANSFERENCIAS DE CAPITAL;494490
+2009;14104;7;;;TRANSFERENCIAS DE CAPITAL;2016430
+2009;14111;7;;;TRANSFERENCIAS DE CAPITAL;1495190
+2009;14205;7;;;TRANSFERENCIAS DE CAPITAL;44864870
+2009;14301;7;;;TRANSFERENCIAS DE CAPITAL;26958270
+2009;15101;7;;;TRANSFERENCIAS DE CAPITAL;1095070
+2009;15103;7;;;TRANSFERENCIAS DE CAPITAL;63110
+2009;15105;7;;;TRANSFERENCIAS DE CAPITAL;60250000
+2009;15202;7;;;TRANSFERENCIAS DE CAPITAL;2362540
+2009;15302;7;;;TRANSFERENCIAS DE CAPITAL;43461810
+2009;15303;7;;;TRANSFERENCIAS DE CAPITAL;435020
+2009;16102;7;;;TRANSFERENCIAS DE CAPITAL;3000000
+2009;16201;7;;;TRANSFERENCIAS DE CAPITAL;4056840
+2009;17238;7;;;TRANSFERENCIAS DE CAPITAL;8410470
+2009;17239;7;;;TRANSFERENCIAS DE CAPITAL;5023840
+2009;17401;7;;;TRANSFERENCIAS DE CAPITAL;5350890
+2009;18101;7;;;TRANSFERENCIAS DE CAPITAL;57809150
+2009;18103;7;;;TRANSFERENCIAS DE CAPITAL;75000
+2009;18401;7;;;TRANSFERENCIAS DE CAPITAL;800000
+2009;19104;7;;;TRANSFERENCIAS DE CAPITAL;2936450
+2009;19301;7;;;TRANSFERENCIAS DE CAPITAL;563040
+2009;20101;7;;;TRANSFERENCIAS DE CAPITAL;276315160
+2009;20207;7;;;TRANSFERENCIAS DE CAPITAL;3110310
+2009;20208;7;;;TRANSFERENCIAS DE CAPITAL;110756450
+2009;20301;7;;;TRANSFERENCIAS DE CAPITAL;157968480
+2009;20302;7;;;TRANSFERENCIAS DE CAPITAL;132220
+2009;21102;7;;;TRANSFERENCIAS DE CAPITAL;20750
+2009;21137;7;;;TRANSFERENCIAS DE CAPITAL;615570
+2009;21201;7;;;TRANSFERENCIAS DE CAPITAL;4216530
+2009;21203;7;;;TRANSFERENCIAS DE CAPITAL;49265020
+2009;21204;7;;;TRANSFERENCIAS DE CAPITAL;38923940
+2009;21205;7;;;TRANSFERENCIAS DE CAPITAL;31066200
+2009;21206;7;;;TRANSFERENCIAS DE CAPITAL;19420390
+2009;21207;7;;;TRANSFERENCIAS DE CAPITAL;212673510
+2009;21401;7;;;TRANSFERENCIAS DE CAPITAL;209695290
+2009;22101;7;;;TRANSFERENCIAS DE CAPITAL;850000
+2009;22401;7;;;TRANSFERENCIAS DE CAPITAL;450000
+2009;23101;7;;;TRANSFERENCIAS DE CAPITAL;93703740
+2009;23112;7;;;TRANSFERENCIAS DE CAPITAL;709920
+2009;23207;7;;;TRANSFERENCIAS DE CAPITAL;1648460
+2009;23208;7;;;TRANSFERENCIAS DE CAPITAL;16798990
+2009;23211;7;;;TRANSFERENCIAS DE CAPITAL;1064390000
+2009;23225;7;;;TRANSFERENCIAS DE CAPITAL;17016170
+2009;23226;7;;;TRANSFERENCIAS DE CAPITAL;15777890
+2009;23228;7;;;TRANSFERENCIAS DE CAPITAL;178139180
+2009;23229;7;;;TRANSFERENCIAS DE CAPITAL;74307050
+2009;23230;7;;;TRANSFERENCIAS DE CAPITAL;43737920
+2009;23231;7;;;TRANSFERENCIAS DE CAPITAL;77898810
+2009;23232;7;;;TRANSFERENCIAS DE CAPITAL;26129070
+2009;23233;7;;;TRANSFERENCIAS DE CAPITAL;76926560
+2009;23234;7;;;TRANSFERENCIAS DE CAPITAL;52693380
+2009;23236;7;;;TRANSFERENCIAS DE CAPITAL;36817000
+2009;23237;7;;;TRANSFERENCIAS DE CAPITAL;982200
+2009;23401;7;;;TRANSFERENCIAS DE CAPITAL;36877390
+2009;24101;7;;;TRANSFERENCIAS DE CAPITAL;2970000
+2009;24102;7;;;TRANSFERENCIAS DE CAPITAL;21742000
+2009;24103;7;;;TRANSFERENCIAS DE CAPITAL;120169940
+2009;24104;7;;;TRANSFERENCIAS DE CAPITAL;20740000
+2009;24201;7;;;TRANSFERENCIAS DE CAPITAL;19176440
+2009;24301;7;;;TRANSFERENCIAS DE CAPITAL;5878000
+2009;25101;7;;;TRANSFERENCIAS DE CAPITAL;63960
+2009;25102;7;;;TRANSFERENCIAS DE CAPITAL;133410
+2009;25103;7;;;TRANSFERENCIAS DE CAPITAL;32765340
+2009;26102;7;;;TRANSFERENCIAS DE CAPITAL;793390
+2009;26104;7;;;TRANSFERENCIAS DE CAPITAL;1875780
+2009;26105;7;;;TRANSFERENCIAS DE CAPITAL;258760
+2009;28101;7;;;TRANSFERENCIAS DE CAPITAL;1176300
+2009;28102;7;;;TRANSFERENCIAS DE CAPITAL;197670
+2009;28201;7;;;TRANSFERENCIAS DE CAPITAL;1449740
+2009;60001;7;;;TRANSFERENCIAS DE CAPITAL;1163808460
+2009;98001;7;;;TRANSFERENCIAS DE CAPITAL;1028000000
+2009;12301;70;;;De la Administración del Estado;9270000
+2009;12401;70;;;De la Administración del Estado;74836420
+2009;13101;70;;;De la Administración del Estado;494490
+2009;14104;70;;;De la Administración del Estado;2016430
+2009;14111;70;;;De la Administración del Estado;1495190
+2009;14205;70;;;De la Administración del Estado;44864870
+2009;14301;70;;;De la Administración del Estado;26958270
+2009;15101;70;;;De la Administración del Estado;1095070
+2009;15103;70;;;De la Administración del Estado;63110
+2009;15105;70;;;De la Administración del Estado;60250000
+2009;15202;70;;;De la Administración del Estado;2362540
+2009;15302;70;;;De la Administración del Estado;43461810
+2009;15303;70;;;De la Administración del Estado;435020
+2009;16201;70;;;De la Administración del Estado;4056840
+2009;17238;70;;;De la Administración del Estado;8410470
+2009;17239;70;;;De la Administración del Estado;4923840
+2009;17401;70;;;De la Administración del Estado;5350890
+2009;18101;70;;;De la Administración del Estado;50607630
+2009;18103;70;;;De la Administración del Estado;75000
+2009;19104;70;;;De la Administración del Estado;2936450
+2009;19301;70;;;De la Administración del Estado;563040
+2009;20101;70;;;De la Administración del Estado;271315160
+2009;20207;70;;;De la Administración del Estado;3110310
+2009;20208;70;;;De la Administración del Estado;110756450
+2009;20301;70;;;De la Administración del Estado;157968480
+2009;20302;70;;;De la Administración del Estado;132220
+2009;21102;70;;;De la Administración del Estado;20750
+2009;21137;70;;;De la Administración del Estado;615570
+2009;21201;70;;;De la Administración del Estado;3690600
+2009;21203;70;;;De la Administración del Estado;49220020
+2009;21204;70;;;De la Administración del Estado;36923940
+2009;21205;70;;;De la Administración del Estado;31066200
+2009;21206;70;;;De la Administración del Estado;9980010
+2009;21207;70;;;De la Administración del Estado;92448510
+2009;21401;70;;;De la Administración del Estado;195834440
+2009;22101;70;;;De la Administración del Estado;850000
+2009;22401;70;;;De la Administración del Estado;450000
+2009;23101;70;;;De la Administración del Estado;83703740
+2009;23112;70;;;De la Administración del Estado;709920
+2009;23207;70;;;De la Administración del Estado;1648460
+2009;23208;70;;;De la Administración del Estado;16798990
+2009;23211;70;;;De la Administración del Estado;27500000
+2009;23225;70;;;De la Administración del Estado;9046170
+2009;23226;70;;;De la Administración del Estado;11777890
+2009;23228;70;;;De la Administración del Estado;12859530
+2009;23229;70;;;De la Administración del Estado;47082050
+2009;23230;70;;;De la Administración del Estado;28110920
+2009;23231;70;;;De la Administración del Estado;10635840
+2009;23232;70;;;De la Administración del Estado;14955070
+2009;23233;70;;;De la Administración del Estado;6646510
+2009;23234;70;;;De la Administración del Estado;11425380
+2009;23237;70;;;De la Administración del Estado;982200
+2009;23401;70;;;De la Administración del Estado;36877390
+2009;24101;70;;;De la Administración del Estado;2970000
+2009;24102;70;;;De la Administración del Estado;21742000
+2009;24103;70;;;De la Administración del Estado;109469940
+2009;24104;70;;;De la Administración del Estado;20740000
+2009;24201;70;;;De la Administración del Estado;19176440
+2009;24301;70;;;De la Administración del Estado;5878000
+2009;25101;70;;;De la Administración del Estado;63960
+2009;25102;70;;;De la Administración del Estado;133410
+2009;25103;70;;;De la Administración del Estado;31265340
+2009;26102;70;;;De la Administración del Estado;793390
+2009;26104;70;;;De la Administración del Estado;1875780
+2009;26105;70;;;De la Administración del Estado;258760
+2009;28101;70;;;De la Administración del Estado;1176300
+2009;28102;70;;;De la Administración del Estado;197670
+2009;28201;70;;;De la Administración del Estado;1449740
+2009;60001;70;;;De la Administración del Estado;65830930
+2009;12301;700;;;Del departamento al que está adscrito;9270000
+2009;13101;700;;;Del departamento al que está adscrito;494490
+2009;14104;700;;;Del departamento al que está adscrito;2016430
+2009;14111;700;;;Del departamento al que está adscrito;1495190
+2009;14205;700;;;Del departamento al que está adscrito;44692290
+2009;14301;700;;;Del departamento al que está adscrito;26958270
+2009;15101;700;;;Del departamento al que está adscrito;1095070
+2009;15103;700;;;Del departamento al que está adscrito;63110
+2009;15105;700;;;Del departamento al que está adscrito;60250000
+2009;15302;700;;;Del departamento al que está adscrito;43461810
+2009;15303;700;;;Del departamento al que está adscrito;435020
+2009;16201;700;;;Del departamento al que está adscrito;4056840
+2009;17238;700;;;Del departamento al que está adscrito;8380470
+2009;17239;700;;;Del departamento al que está adscrito;3501200
+2009;17401;700;;;Del departamento al que está adscrito;5350890
+2009;18101;700;;;Del departamento al que está adscrito;50607630
+2009;18103;700;;;Del departamento al que está adscrito;75000
+2009;19104;700;;;Del departamento al que está adscrito;2936450
+2009;19301;700;;;Del departamento al que está adscrito;563040
+2009;20101;700;;;Del departamento al que está adscrito;271315160
+2009;20207;700;;;Del departamento al que está adscrito;3110310
+2009;20208;700;;;Del departamento al que está adscrito;110756450
+2009;20301;700;;;Del departamento al que está adscrito;157968480
+2009;20302;700;;;Del departamento al que está adscrito;132220
+2009;21102;700;;;Del departamento al que está adscrito;20750
+2009;21137;700;;;Del departamento al que está adscrito;615570
+2009;21201;700;;;Del departamento al que está adscrito;3690600
+2009;21203;700;;;Del departamento al que está adscrito;49220020
+2009;21204;700;;;Del departamento al que está adscrito;36923940
+2009;21205;700;;;Del departamento al que está adscrito;31066200
+2009;21206;700;;;Del departamento al que está adscrito;9980010
+2009;21207;700;;;Del departamento al que está adscrito;78448510
+2009;21401;700;;;Del departamento al que está adscrito;195834440
+2009;22101;700;;;Del departamento al que está adscrito;850000
+2009;22401;700;;;Del departamento al que está adscrito;450000
+2009;23101;700;;;Del departamento al que está adscrito;83703740
+2009;23112;700;;;Del departamento al que está adscrito;709920
+2009;23207;700;;;Del departamento al que está adscrito;1648460
+2009;23208;700;;;Del departamento al que está adscrito;16798990
+2009;23211;700;;;Del departamento al que está adscrito;27500000
+2009;23225;700;;;Del departamento al que está adscrito;9046170
+2009;23226;700;;;Del departamento al que está adscrito;11777890
+2009;23228;700;;;Del departamento al que está adscrito;12859530
+2009;23229;700;;;Del departamento al que está adscrito;47082050
+2009;23230;700;;;Del departamento al que está adscrito;13110920
+2009;23231;700;;;Del departamento al que está adscrito;10635840
+2009;23232;700;;;Del departamento al que está adscrito;14955070
+2009;23233;700;;;Del departamento al que está adscrito;6646510
+2009;23234;700;;;Del departamento al que está adscrito;11425380
+2009;23237;700;;;Del departamento al que está adscrito;982200
+2009;23401;700;;;Del departamento al que está adscrito;36877390
+2009;24101;700;;;Del departamento al que está adscrito;2970000
+2009;24102;700;;;Del departamento al que está adscrito;21742000
+2009;24104;700;;;Del departamento al que está adscrito;20740000
+2009;24201;700;;;Del departamento al que está adscrito;19176440
+2009;24301;700;;;Del departamento al que está adscrito;5878000
+2009;25101;700;;;Del departamento al que está adscrito;63960
+2009;25102;700;;;Del departamento al que está adscrito;133410
+2009;25103;700;;;Del departamento al que está adscrito;31265340
+2009;26102;700;;;Del departamento al que está adscrito;793390
+2009;26104;700;;;Del departamento al que está adscrito;1875780
+2009;26105;700;;;Del departamento al que está adscrito;258760
+2009;28101;700;;;Del departamento al que está adscrito;1176300
+2009;28102;700;;;Del departamento al que está adscrito;197670
+2009;28201;700;;;Del departamento al que está adscrito;1449740
+2009;60001;700;;;Del departamento al que está adscrito;3055000
+2009;15302;700;;00;Para gastos de inversiones;43461810
+2009;18101;700;;00;Del Ministerio de Educación, Política Social y Deporte;50607630
+2009;21203;700;;00;Subvención ordinaria;44185020
+2009;21207;700;;00;Para atenciones generales.;78448510
+2009;21401;700;;00;Del departamento al que está adscrito;183096590
+2009;23112;700;;00;Para gastos de capital.;709920
+2009;23225;700;;00;Transferencia de la Dirección General del Agua;8415990
+2009;23228;700;;00;Transferencia de la Dirección General del Agua;12348690
+2009;23229;700;;00;Transferencias de la Dirección General del Agua;5921410
+2009;23231;700;;00;Transferencia de la Dirección General del Agua;10496510
+2009;23232;700;;00;Transferencia de la Dirección General del Agua;14493810
+2009;23233;700;;00;Transferencia de la Dirección General del Agua;6507170
+2009;23234;700;;00;Transferencia de la Dirección General del Agua;10893950
+2009;26102;700;;00;Para atenciones generales;793390
+2009;21203;700;;01;Proyectos XFEL, FAIR, IFMIF y TJ-60;4035000
+2009;23225;700;;01;Transferencia de la Dirección General de Medio Natural y Política Forestal;630180
+2009;23228;700;;01;Transferencia de la Dirección General de Medio Natural y Política Forestal;510840
+2009;23229;700;;01;Transferencia de la Dirección General de Medio Natural y Política Forestal;545650
+2009;23231;700;;01;Transferencia de la Dirección General de Medio Natural y Política Forestal;139330
+2009;23232;700;;01;Transferencia de la Dirección General de Medio Natural y Política Forestal;461260
+2009;23233;700;;01;Transferencia de la Dirección General de Medio Natural y Política Forestal;139340
+2009;23234;700;;01;Transferencia de la Dirección General de Medio Natural y Política Forestal;531430
+2009;21203;700;;02;Proyecto TECNOFUSIÓN;1000000
+2009;21401;700;;02;Para promoción, desarrollo, equipamiento y explotación de instrumentos, líneas e instalaciones científicas;237850
+2009;23229;700;;02;Dirección General del Agua, Plan Especial Alto Guadiana;40614990
+2009;21401;700;;04;Para la remodelación de las Bases Antárticas;11500000
+2009;14111;700;;05;Para investigación científica e información de base;1495190
+2009;14205;700;;05;Para investigación científica e información de base;44692290
+2009;21401;700;;06;Para el Centro de Competencia Tecnológica de la leche, en Asturias;200000
+2009;14104;700;;08;Para conservación de instalaciones y medios;2016430
+2009;21401;700;;09;Para el Inst. Español de Matemáticas. Constr. y equipam.;800000
+2009;14205;701;;;De otros departamentos ministeriales;172580
+2009;15202;701;;;De otros departamentos ministeriales;2362540
+2009;17238;701;;;De otros departamentos ministeriales;30000
+2009;17239;701;;;De otros departamentos ministeriales;1422640
+2009;21207;701;;;De otros departamentos ministeriales;14000000
+2009;60001;701;;;De otros departamentos ministeriales;62775930
+2009;17239;701;;00;Del Ministerio de Medio Ambiente;1000000
+2009;21207;701;;00;Para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias;14000000
+2009;14205;701;;01;Del Ministerio de Vivienda;172580
+2009;17239;701;;01;Del Ministerio de Defensa;63190
+2009;17239;701;;02;Del Ministerio de Economía y Hacienda;63190
+2009;17239;701;;03;Del Ministerio de Vivienda;296260
+2009;23230;702;;;De la D.G. del Agua para apoyo en la ejecución de obras con financiación FEDER;15000000
+2009;24103;702/24103;;;Del Departamento al que está adscrito;109469940
+2009;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;74740420
+2009;12401;706;;;Del Ministerio de Medio Ambiente, Medio Rural y Marino;96000
+2009;18401;71;;;De organismos autónomos;800000
+2009;21203;71;;;De organismos autónomos;45000
+2009;21206;71;;;De organismos autónomos;3320000
+2009;21207;71;;;De organismos autónomos;65000
+2009;21401;71;;;De organismos autónomos;1201500
+2009;98001;71;;;De organismos autónomos;18000000
+2009;18401;710;;;Transferencias de capital de organismos autónomos;800000
+2009;21203;710;;;Transferencias de capital de organismos autónomos;45000
+2009;21206;710;;;Transferencias de capital de organismos autónomos;3320000
+2009;21401;710;;;Transferencias de capital de organismos autónomos;476500
+2009;21203;710;;01;Del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA);45000
+2009;98001;711;;;"Del FEGA ""Ayudas de Desarrollo Rural""";18000000
+2009;21207;711/21207;;;Aportación del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria.;65000
+2009;21401;711/21401;;;Del Instituto para la Reestructuración de la Minería del Carbón y D.A.C.M.;725000
+2009;60001;72;;;De la Seguridad Social;1083767530
+2009;60001;720;;;Transferencias de capital de la Seguridad Social;1083767530
+2009;18101;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;5471520
+2009;21206;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;5653720
+2009;23229;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;7725000
+2009;23234;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;4018000
+2009;18101;740;;;De sociedades mercantiles estatales;4471520
+2009;21206;740;;;De sociedades mercantiles estatales;5653720
+2009;23229;740;;;De sociedades mercantiles estatales;7725000
+2009;23234;740;;;De sociedades mercantiles estatales;4000000
+2009;18101;749;;;De resto del Sector Público;1000000
+2009;23234;749;;;De resto del Sector Público;18000
+2009;18101;75;;;De Comunidades Autónomas;1480000
+2009;21201;75;;;De Comunidades Autónomas;525930
+2009;21401;75;;;De Comunidades Autónomas;2404990
+2009;23211;75;;;De Comunidades Autónomas;2890000
+2009;23225;75;;;De Comunidades Autónomas;787500
+2009;23226;75;;;De Comunidades Autónomas;1200000
+2009;23230;75;;;De Comunidades Autónomas;5000000
+2009;23231;75;;;De Comunidades Autónomas;14854730
+2009;23232;75;;;De Comunidades Autónomas;1622000
+2009;23233;75;;;De Comunidades Autónomas;9116980
+2009;23234;75;;;De Comunidades Autónomas;6000000
+2009;98001;75;;;De Comunidades Autónomas;8000000
+2009;98001;750;;;Transferencias de capital de Comunidades Autónomas;8000000
+2009;18101;750/18101;;;De Comunidades Autónomas;1480000
+2009;21201;750/21201;;;De la Comunidad Autónoma de Canarias;525930
+2009;21401;750/21401;;;De Comunidades Autónomas para ejecución de proyectos de investigación;2404990
+2009;23211;750/23211;;;Cofinanciación teledetección Comunidades Autónomas;2890000
+2009;23225;750/23225;;;De Comunidades Autónomas;787500
+2009;23226;750/23226;;;De Comunidades Autónomas;1200000
+2009;23230;750/23230;;;De Comunidades Autónomas;5000000
+2009;23231;750/23231;;;De Comunidades Autónomas;14854730
+2009;23232;750/23232;;;De Comunidades Autónomas;1622000
+2009;23233;750/23233;;;De Comunidades Autónomas;9116980
+2009;23234;750/23234;;;De Comunidades Autónomas;6000000
+2009;16102;76;;;De Entidades Locales;3000000
+2009;18101;76;;;De Entidades Locales;250000
+2009;23225;76;;;De Entidades Locales;787500
+2009;23228;76;;;De Entidades Locales;36010650
+2009;23230;76;;;De Entidades Locales;627000
+2009;23231;76;;;De Entidades Locales;1579170
+2009;23232;76;;;De Entidades Locales;30000
+2009;23233;76;;;De Entidades Locales;1330500
+2009;23234;76;;;De Entidades Locales;1250000
+2009;16102;760;;;De Ayuntamientos;3000000
+2009;18101;760;;;De Ayuntamientos;250000
+2009;23225;760;;;De Ayuntamientos;787500
+2009;23231;760;;;De Ayuntamientos;1579170
+2009;23232;760;;;De Ayuntamientos;30000
+2009;23233;760;;;De Ayuntamientos;1330500
+2009;23234;760;;;De Ayuntamientos;1000000
+2009;23234;761;;;De Diputaciones y Cabildos Insulares;100000
+2009;23228;769;;;Otras transferencias de capital;36010650
+2009;23230;769;;;Otras transferencias de capital;627000
+2009;23234;769;;;Otras transferencias de capital;150000
+2009;21207;77;;;De empresas privadas;105000000
+2009;23231;77;;;De empresas privadas;600000
+2009;23231;770;;;De empresas privadas;600000
+2009;21207;772;;;De empresas;105000000
+2009;21207;78;;;De familias e instituciones sin fines de lucro;1500000
+2009;21207;782;;;De familias e instituciones sin fines de lucro. Subvenciones a la investigación.;1500000
+2009;17239;79;;;Del exterior;100000
+2009;20101;79;;;Del exterior;5000000
+2009;21204;79;;;Del exterior;2000000
+2009;21206;79;;;Del exterior;466660
+2009;21207;79;;;Del exterior;13660000
+2009;21401;79;;;Del exterior;10254360
+2009;23101;79;;;Del exterior;10000000
+2009;23211;79;;;Del exterior;1034000000
+2009;23225;79;;;Del exterior;6395000
+2009;23226;79;;;Del exterior;2800000
+2009;23228;79;;;Del exterior;129269000
+2009;23229;79;;;Del exterior;19500000
+2009;23230;79;;;Del exterior;10000000
+2009;23231;79;;;Del exterior;50229070
+2009;23232;79;;;Del exterior;9522000
+2009;23233;79;;;Del exterior;59832570
+2009;23234;79;;;Del exterior;30000000
+2009;23236;79;;;Del exterior;36817000
+2009;24103;79;;;Del exterior;10700000
+2009;25103;79;;;Del exterior;1500000
+2009;60001;79;;;Del exterior;14210000
+2009;98001;79;;;Del exterior;1002000000
+2009;17239;790;;;Fondo Europeo de Desarrollo Regional;100000
+2009;20101;790;;;Fondo Europeo de Desarrollo Regional;5000000
+2009;21207;790;;;Fondo Europeo de Desarrollo Regional;13660000
+2009;21401;790;;;Fondo Europeo de Desarrollo Regional;5700000
+2009;23225;790;;;Fondo Europeo de Desarrollo Regional;6395000
+2009;23226;790;;;Fondo Europeo de Desarrollo Regional;2800000
+2009;23228;790;;;Fondo Europeo de Desarrollo Regional;129269000
+2009;23229;790;;;Fondo Europeo de Desarrollo Regional;19500000
+2009;23230;790;;;Fondo Europeo de Desarrollo Regional;10000000
+2009;23231;790;;;Fondo Europeo de Desarrollo Regional;10626170
+2009;23232;790;;;Fondo Europeo de Desarrollo Regional;9522000
+2009;23233;790;;;Fondo Europeo de Desarrollo Regional;29121620
+2009;23234;790;;;Fondo Europeo de Desarrollo Regional;15000000
+2009;23236;790;;;Fondo Europeo de Desarrollo Regional;36817000
+2009;24103;790;;;Fondo Europeo de Desarrollo Regional;10700000
+2009;25103;790;;;Fondo Europeo de Desarrollo Regional;1500000
+2009;60001;790;;;Fondo Europeo de Desarrollo Regional;14210000
+2009;98001;790;;;Fondo Europeo de Desarrollo Regional;790000000
+2009;23231;791;;;Fondo de Cohesión;39602900
+2009;23233;791;;;Fondo de Cohesión;30710950
+2009;23234;791;;;Fondo de Cohesión;15000000
+2009;98001;791;;;Fondo de Cohesión;167000000
+2009;98001;792;;;FEOGA-ORIENTACIÓN, Instrumento Financiero de Ordenación Pesquera, Fondo Europeo de la Pesca y otros recursos agrarios y pesqueros;45000000
+2009;23211;793;;;FEADER;1034000000
+2009;21401;794;;;Fondo Social Europeo;4554360
+2009;21204;795;;;Otras transferencias de la Unión Europea;2000000
+2009;21206;795;;;Otras transferencias de la Unión Europea;466660
+2009;23101;795;;;Otras transferencias de la Unión Europea;10000000
+2009;12301;8;;;ACTIVOS FINANCIEROS;56000
+2009;12401;8;;;ACTIVOS FINANCIEROS;1269620
+2009;13101;8;;;ACTIVOS FINANCIEROS;100000
+2009;13102;8;;;ACTIVOS FINANCIEROS;18015760
+2009;13301;8;;;ACTIVOS FINANCIEROS;5092760
+2009;14104;8;;;ACTIVOS FINANCIEROS;958050
+2009;14107;8;;;ACTIVOS FINANCIEROS;10100240
+2009;14111;8;;;ACTIVOS FINANCIEROS;1125780
+2009;14113;8;;;ACTIVOS FINANCIEROS;29482160
+2009;14204;8;;;ACTIVOS FINANCIEROS;50000
+2009;14205;8;;;ACTIVOS FINANCIEROS;270640
+2009;14206;8;;;ACTIVOS FINANCIEROS;200000
+2009;14301;8;;;ACTIVOS FINANCIEROS;397920
+2009;15101;8;;;ACTIVOS FINANCIEROS;2151480
+2009;15103;8;;;ACTIVOS FINANCIEROS;1804430
+2009;15105;8;;;ACTIVOS FINANCIEROS;28516080
+2009;15202;8;;;ACTIVOS FINANCIEROS;99650
+2009;15302;8;;;ACTIVOS FINANCIEROS;4561320
+2009;15303;8;;;ACTIVOS FINANCIEROS;2252210
+2009;16101;8;;;ACTIVOS FINANCIEROS;1021720
+2009;16102;8;;;ACTIVOS FINANCIEROS;656720
+2009;16201;8;;;ACTIVOS FINANCIEROS;19260
+2009;17238;8;;;ACTIVOS FINANCIEROS;38320
+2009;18101;8;;;ACTIVOS FINANCIEROS;16649700
+2009;18103;8;;;ACTIVOS FINANCIEROS;603530
+2009;19101;8;;;ACTIVOS FINANCIEROS;683901530
+2009;19102;8;;;ACTIVOS FINANCIEROS;788839240
+2009;19104;8;;;ACTIVOS FINANCIEROS;8962670
+2009;19301;8;;;ACTIVOS FINANCIEROS;1900570
+2009;20101;8;;;ACTIVOS FINANCIEROS;673762400
+2009;20102;8;;;ACTIVOS FINANCIEROS;20199970
+2009;20207;8;;;ACTIVOS FINANCIEROS;4200
+2009;20208;8;;;ACTIVOS FINANCIEROS;30000
+2009;20301;8;;;ACTIVOS FINANCIEROS;47696350
+2009;20302;8;;;ACTIVOS FINANCIEROS;52000
+2009;21137;8;;;ACTIVOS FINANCIEROS;1055660
+2009;21201;8;;;ACTIVOS FINANCIEROS;55000
+2009;21203;8;;;ACTIVOS FINANCIEROS;241080
+2009;21204;8;;;ACTIVOS FINANCIEROS;87270
+2009;21205;8;;;ACTIVOS FINANCIEROS;42000
+2009;21206;8;;;ACTIVOS FINANCIEROS;104760
+2009;21207;8;;;ACTIVOS FINANCIEROS;226000
+2009;21401;8;;;ACTIVOS FINANCIEROS;205667840
+2009;22101;8;;;ACTIVOS FINANCIEROS;2514520
+2009;22102;8;;;ACTIVOS FINANCIEROS;141881450
+2009;23101;8;;;ACTIVOS FINANCIEROS;17158170
+2009;23112;8;;;ACTIVOS FINANCIEROS;440510
+2009;23207;8;;;ACTIVOS FINANCIEROS;24610
+2009;23208;8;;;ACTIVOS FINANCIEROS;12020
+2009;23211;8;;;ACTIVOS FINANCIEROS;139430
+2009;23225;8;;;ACTIVOS FINANCIEROS;120000
+2009;23226;8;;;ACTIVOS FINANCIEROS;18000
+2009;23228;8;;;ACTIVOS FINANCIEROS;152050
+2009;23229;8;;;ACTIVOS FINANCIEROS;36220
+2009;23230;8;;;ACTIVOS FINANCIEROS;15000
+2009;23231;8;;;ACTIVOS FINANCIEROS;15000
+2009;23232;8;;;ACTIVOS FINANCIEROS;71050
+2009;23233;8;;;ACTIVOS FINANCIEROS;47000
+2009;23234;8;;;ACTIVOS FINANCIEROS;141840
+2009;23236;8;;;ACTIVOS FINANCIEROS;90000
+2009;23237;8;;;ACTIVOS FINANCIEROS;98930
+2009;24101;8;;;ACTIVOS FINANCIEROS;8354000
+2009;24102;8;;;ACTIVOS FINANCIEROS;4563000
+2009;24103;8;;;ACTIVOS FINANCIEROS;33527000
+2009;24104;8;;;ACTIVOS FINANCIEROS;7866000
+2009;24201;8;;;ACTIVOS FINANCIEROS;424000
+2009;24301;8;;;ACTIVOS FINANCIEROS;4333000
+2009;25101;8;;;ACTIVOS FINANCIEROS;834940
+2009;25102;8;;;ACTIVOS FINANCIEROS;979730
+2009;25103;8;;;ACTIVOS FINANCIEROS;20880940
+2009;25401;8;;;ACTIVOS FINANCIEROS;120000
+2009;26102;8;;;ACTIVOS FINANCIEROS;18821040
+2009;26103;8;;;ACTIVOS FINANCIEROS;5075000
+2009;26104;8;;;ACTIVOS FINANCIEROS;540180
+2009;26105;8;;;ACTIVOS FINANCIEROS;23290
+2009;28101;8;;;ACTIVOS FINANCIEROS;12390540
+2009;28102;8;;;ACTIVOS FINANCIEROS;436580
+2009;28201;8;;;ACTIVOS FINANCIEROS;38650
+2009;60001;8;;;ACTIVOS FINANCIEROS;1317605500
+2009;98001;8;;;ACTIVOS FINANCIEROS;2340164000
+2009;19102;80;;;Enajenación de deuda del Sector Público;488695000
+2009;22102;80;;;Enajenación de deuda del Sector Público;200
+2009;60001;80;;;Enajenación de deuda del Sector Público;14189600
+2009;60001;800;;;Enajenación de deuda del Sector Público a corto plazo;6790370
+2009;19102;801;;;Enajenación de deuda del Sector Público a largo plazo;488695000
+2009;22102;801;;;Enajenación de deuda del Sector Público a largo plazo;200
+2009;60001;801;;;Enajenación de deuda del Sector Público a largo plazo;7399230
+2009;60001;81;;;Enajenación de obligac. y bonos de fuera del Sector Público;6512570
+2009;60001;810;;;Enajenación de obligaciones y bonos de fuera del Sector Público a corto plazo;680300
+2009;60001;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo;5832270
+2009;23225;82;;;Reintegros de préstamos concedidos al Sector Público;30000
+2009;23234;82;;;Reintegros de préstamos concedidos al Sector Público;100000
+2009;98001;82;;;Reintegros de préstamos concedidos al Sector Público;541078000
+2009;23225;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo;30000
+2009;23234;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo;100000
+2009;98001;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo;541078000
+2009;98001;821;;04;A las  sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;540078000
+2009;98001;821;;06;Reintegro prestamos concedidos a Entidades Locales y otros entes territoriales;1000000
+2009;12301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;56000
+2009;12401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2009;13301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10000
+2009;14107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;32460
+2009;14111;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60100
+2009;14113;83;;;Reintegros de préstamos concedidos fuera del Sector Público;135000
+2009;14204;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2009;14205;83;;;Reintegros de préstamos concedidos fuera del Sector Público;270640
+2009;14206;83;;;Reintegros de préstamos concedidos fuera del Sector Público;200000
+2009;14301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;397920
+2009;15101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71760
+2009;15105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;315000
+2009;15202;83;;;Reintegros de préstamos concedidos fuera del Sector Público;99650
+2009;15302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;560000
+2009;15303;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20400
+2009;16101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1021720
+2009;16201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;19260
+2009;17238;83;;;Reintegros de préstamos concedidos fuera del Sector Público;38320
+2009;18101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1649700
+2009;18103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6510
+2009;19101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;901530
+2009;19102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;144240
+2009;19104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;55000
+2009;19301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;26550
+2009;20101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;30000
+2009;20102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;77400
+2009;20207;83;;;Reintegros de préstamos concedidos fuera del Sector Público;4200
+2009;20208;83;;;Reintegros de préstamos concedidos fuera del Sector Público;30000
+2009;20301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;96350
+2009;20302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;52000
+2009;21137;83;;;Reintegros de préstamos concedidos fuera del Sector Público;14690
+2009;21201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;55000
+2009;21203;83;;;Reintegros de préstamos concedidos fuera del Sector Público;241080
+2009;21204;83;;;Reintegros de préstamos concedidos fuera del Sector Público;87270
+2009;21205;83;;;Reintegros de préstamos concedidos fuera del Sector Público;42000
+2009;21206;83;;;Reintegros de préstamos concedidos fuera del Sector Público;104760
+2009;21207;83;;;Reintegros de préstamos concedidos fuera del Sector Público;226000
+2009;21401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;422510
+2009;22101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2009;22102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;180300
+2009;23101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20810
+2009;23112;83;;;Reintegros de préstamos concedidos fuera del Sector Público;19480
+2009;23207;83;;;Reintegros de préstamos concedidos fuera del Sector Público;24610
+2009;23208;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2009;23211;83;;;Reintegros de préstamos concedidos fuera del Sector Público;139430
+2009;23225;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2009;23226;83;;;Reintegros de préstamos concedidos fuera del Sector Público;18000
+2009;23228;83;;;Reintegros de préstamos concedidos fuera del Sector Público;152050
+2009;23229;83;;;Reintegros de préstamos concedidos fuera del Sector Público;36220
+2009;23230;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2009;23231;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2009;23232;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71050
+2009;23233;83;;;Reintegros de préstamos concedidos fuera del Sector Público;47000
+2009;23234;83;;;Reintegros de préstamos concedidos fuera del Sector Público;41840
+2009;23236;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2009;23237;83;;;Reintegros de préstamos concedidos fuera del Sector Público;98930
+2009;24101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;54000
+2009;24102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;63000
+2009;24103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;27000
+2009;24104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;66000
+2009;24201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;424000
+2009;24301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;95000
+2009;25101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2009;25102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;13140
+2009;25103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;440000
+2009;25401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;120000
+2009;26102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;21040
+2009;26103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;75000
+2009;26104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6000
+2009;28101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;25760
+2009;28102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6010
+2009;28201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;38650
+2009;60001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;18725710
+2009;98001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1799086000
+2009;12301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;56000
+2009;12401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3010
+2009;13301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2009;14107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;32460
+2009;14111;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2009;14113;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;110000
+2009;14204;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;50000
+2009;14301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;397920
+2009;15101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;71760
+2009;15302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;560000
+2009;15303;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20400
+2009;16101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;120200
+2009;17238;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;38320
+2009;18101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;51080
+2009;19102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;114190
+2009;19301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13280
+2009;20101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2009;20102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;77400
+2009;20301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;71350
+2009;20302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;52000
+2009;21137;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;14690
+2009;21203;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;121540
+2009;21204;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;37600
+2009;21205;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;6000
+2009;21206;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;52380
+2009;21207;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;226000
+2009;21401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;422510
+2009;22101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;50000
+2009;22102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;180300
+2009;23101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20810
+2009;23112;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;19480
+2009;23207;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;24610
+2009;23208;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2009;23211;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;139430
+2009;23225;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2009;23229;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;18120
+2009;23230;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15000
+2009;23231;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2009;23232;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27330
+2009;23233;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;22000
+2009;23234;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13950
+2009;23237;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;8060
+2009;24101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;9500
+2009;24103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27000
+2009;24201;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;102000
+2009;24301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;95000
+2009;25101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2009;25102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13140
+2009;25103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;40000
+2009;25401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;40000
+2009;26102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;21040
+2009;26103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;75000
+2009;60001;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15004320
+2009;23230;830;;00;Reintegros de anticipos al personal.;15000
+2009;12301;830;;08;A familias e instituciones sin fines de lucro;56000
+2009;13301;830;;08;A familias e instituciones sin fines de lucro;10000
+2009;14107;830;;08;A familias e instituciones sin fines de lucro;32460
+2009;14111;830;;08;A familias e instituciones sin fines de lucro;12020
+2009;14204;830;;08;A familias e instituciones sin fines de lucro;50000
+2009;14301;830;;08;A familias e instituciones sin fines de lucro;397920
+2009;15101;830;;08;A familias e instituciones sin fines de lucro;71760
+2009;15302;830;;08;A familias e instituciones sin fines de lucro;560000
+2009;15303;830;;08;A familias e instituciones sin fines de lucro;20400
+2009;17238;830;;08;A familias e instituciones sin fines de lucro;38320
+2009;18101;830;;08;A familias e instituciones sin fines de lucro;51080
+2009;19102;830;;08;A familias e instituciones sin fines de lucro;114190
+2009;19301;830;;08;A familias e instituciones sin fines de lucro;13280
+2009;20101;830;;08;A familias e instituciones sin fines de lucro;30000
+2009;20102;830;;08;A familias e instituciones sin fines de lucro;77400
+2009;20301;830;;08;A familias e instituciones sin fines de lucro;71350
+2009;20302;830;;08;A familias e instituciones sin fines de lucro;52000
+2009;21137;830;;08;A familias e instituciones sin fines de lucro;14690
+2009;21203;830;;08;A familias e instituciones sin fines de lucro;121540
+2009;21401;830;;08;A familias e instituciones sin fines de lucro;422510
+2009;22101;830;;08;A familias e instituciones sin fines de lucro;50000
+2009;23207;830;;08;A familias e instituciones sin fines de lucro;24610
+2009;23231;830;;08;A familias e instituciones sin fines de lucro;10000
+2009;23237;830;;08;A familias e instituciones sin fines de lucro;8060
+2009;24101;830;;08;A familias e instituciones sin fines de lucro;9500
+2009;24103;830;;08;A familias e instituciones sin fines de lucro;27000
+2009;24201;830;;08;A familias e instituciones sin fines de lucro;102000
+2009;24301;830;;08;A familias e instituciones sin fines de lucro;95000
+2009;25103;830;;08;A familias e instituciones sin fines de lucro;40000
+2009;26102;830;;08;A familias e instituciones sin fines de lucro;21040
+2009;26103;830;;08;A familias e instituciones sin fines de lucro;75000
+2009;12401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;9010
+2009;14111;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;48080
+2009;14113;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25000
+2009;14205;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;270640
+2009;14206;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;200000
+2009;15105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;315000
+2009;15202;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;99650
+2009;16101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;901520
+2009;16201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;19260
+2009;18101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;1598620
+2009;18103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6510
+2009;19101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;901530
+2009;19102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30050
+2009;19104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;55000
+2009;19301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;13270
+2009;20207;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4200
+2009;20208;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30000
+2009;20301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25000
+2009;21201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;55000
+2009;21203;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;119540
+2009;21204;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;49670
+2009;21205;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;36000
+2009;21206;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;52380
+2009;23225;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2009;23226;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;18000
+2009;23228;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;152050
+2009;23229;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;18100
+2009;23231;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;5000
+2009;23232;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;43720
+2009;23233;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25000
+2009;23234;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;27890
+2009;23236;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;90000
+2009;23237;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;90870
+2009;24101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;44500
+2009;24102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;63000
+2009;24104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;66000
+2009;24201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;322000
+2009;25103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;400000
+2009;25401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;80000
+2009;26104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6000
+2009;28101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25760
+2009;28102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6010
+2009;28201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;38650
+2009;60001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;3721390
+2009;98001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;1799086000
+2009;21204;831;;07;A las empresas privadas;49670
+2009;98001;831;;07;A las empresas privadas;594657000
+2009;14111;831;;08;A familias e Instituciones sin fines de lucro;48080
+2009;14205;831;;08;A familias e Instituciones sin fines de lucro;270640
+2009;14206;831;;08;A familias e Instituciones sin fines de lucro;200000
+2009;15105;831;;08;A familias e Instituciones sin fines de lucro;315000
+2009;15202;831;;08;A familias e Instituciones sin fines de lucro;99650
+2009;16101;831;;08;A familias e Instituciones sin fines de lucro;901520
+2009;16201;831;;08;A familias e Instituciones sin fines de lucro;19260
+2009;18103;831;;08;A familias e Instituciones sin fines de lucro;6510
+2009;19101;831;;08;A familias e Instituciones sin fines de lucro;901530
+2009;19102;831;;08;A familias e Instituciones sin fines de lucro;30050
+2009;19104;831;;08;A familias e Instituciones sin fines de lucro;55000
+2009;19301;831;;08;A familias e Instituciones sin fines de lucro;13270
+2009;20207;831;;08;A familias e Instituciones sin fines de lucro;4200
+2009;20208;831;;08;A familias e Instituciones sin fines de lucro;30000
+2009;20301;831;;08;A familias e Instituciones sin fines de lucro;25000
+2009;21201;831;;08;A familias e Instituciones sin fines de lucro;55000
+2009;21203;831;;08;A familias e Instituciones sin fines de lucro;119540
+2009;21205;831;;08;A familias e Instituciones sin fines de lucro;36000
+2009;21206;831;;08;A familias e Instituciones sin fines de lucro;52380
+2009;23225;831;;08;A familias e Instituciones sin fines de lucro;60000
+2009;23226;831;;08;A familias e Instituciones sin fines de lucro;18000
+2009;23228;831;;08;A familias e Instituciones sin fines de lucro;152050
+2009;23229;831;;08;A familias e Instituciones sin fines de lucro;18100
+2009;23231;831;;08;A familias e Instituciones sin fines de lucro;5000
+2009;23232;831;;08;A familias e Instituciones sin fines de lucro;43720
+2009;23233;831;;08;A familias e Instituciones sin fines de lucro;25000
+2009;23234;831;;08;A familias e Instituciones sin fines de lucro;27890
+2009;23236;831;;08;A familias e Instituciones sin fines de lucro;90000
+2009;23237;831;;08;A familias e Instituciones sin fines de lucro;90870
+2009;24101;831;;08;A familias e Instituciones sin fines de lucro;44500
+2009;24102;831;;08;A familias e Instituciones sin fines de lucro;63000
+2009;24104;831;;08;A familias e Instituciones sin fines de lucro;66000
+2009;24201;831;;08;A familias e Instituciones sin fines de lucro;322000
+2009;25103;831;;08;A familias e Instituciones sin fines de lucro;400000
+2009;25401;831;;08;A familias e Instituciones sin fines de lucro;80000
+2009;26104;831;;08;A familias e Instituciones sin fines de lucro;6000
+2009;28101;831;;08;A familias e Instituciones sin fines de lucro;25760
+2009;28102;831;;08;A familias e Instituciones sin fines de lucro;6010
+2009;28201;831;;08;A familias e Instituciones sin fines de lucro;38650
+2009;98001;831;;08;A familias e Instituciones sin fines de lucro;14520000
+2009;98001;831;;09;Al exterior;1189909000
+2009;14113;84;;;Devolución de depósitos y fianzas;50000
+2009;60001;84;;;Devolución de depósitos y fianzas;17088370
+2009;60001;840;;;Devolución de depósitos;4405780
+2009;14113;841;;;Devolución de fianzas;50000
+2009;60001;841;;;Devolución de fianzas;12682590
+2009;60001;86;;;Enajenación de acciones y part. de fuera del Sector Público;6000
+2009;60001;860;;;De empresas nacionales o de la Unión Europea;6000
+2009;12401;87;;;Remanente de tesorería;1257600
+2009;13101;87;;;Remanente de tesorería;100000
+2009;13102;87;;;Remanente de tesorería;18015760
+2009;13301;87;;;Remanente de tesorería;5082760
+2009;14104;87;;;Remanente de tesorería;958050
+2009;14107;87;;;Remanente de tesorería;10067780
+2009;14111;87;;;Remanente de tesorería;1065680
+2009;14113;87;;;Remanente de tesorería;29297160
+2009;15101;87;;;Remanente de tesorería;2079720
+2009;15103;87;;;Remanente de tesorería;1804430
+2009;15105;87;;;Remanente de tesorería;28201080
+2009;15302;87;;;Remanente de tesorería;4001320
+2009;15303;87;;;Remanente de tesorería;2231810
+2009;16102;87;;;Remanente de tesorería;656720
+2009;18101;87;;;Remanente de tesorería;15000000
+2009;18103;87;;;Remanente de tesorería;597020
+2009;19101;87;;;Remanente de tesorería;683000000
+2009;19102;87;;;Remanente de tesorería;300000000
+2009;19104;87;;;Remanente de tesorería;8907670
+2009;19301;87;;;Remanente de tesorería;1874020
+2009;20101;87;;;Remanente de tesorería;673732400
+2009;20102;87;;;Remanente de tesorería;20122570
+2009;20301;87;;;Remanente de tesorería;47600000
+2009;21137;87;;;Remanente de tesorería;1040970
+2009;21401;87;;;Remanente de tesorería;205245330
+2009;22101;87;;;Remanente de tesorería;2464520
+2009;22102;87;;;Remanente de tesorería;141700950
+2009;23101;87;;;Remanente de tesorería;17137360
+2009;23112;87;;;Remanente de tesorería;421030
+2009;24101;87;;;Remanente de tesorería;8300000
+2009;24102;87;;;Remanente de tesorería;4500000
+2009;24103;87;;;Remanente de tesorería;33500000
+2009;24104;87;;;Remanente de tesorería;7800000
+2009;24301;87;;;Remanente de tesorería;4238000
+2009;25101;87;;;Remanente de tesorería;822920
+2009;25102;87;;;Remanente de tesorería;966590
+2009;25103;87;;;Remanente de tesorería;20440940
+2009;26102;87;;;Remanente de tesorería;18800000
+2009;26103;87;;;Remanente de tesorería;5000000
+2009;26104;87;;;Remanente de tesorería;534180
+2009;26105;87;;;Remanente de tesorería;23290
+2009;28101;87;;;Remanente de tesorería;12364780
+2009;28102;87;;;Remanente de tesorería;430570
+2009;60001;87;;;Remanente de tesorería;1261083250
+2009;12401;870;;;Remanente de tesorería;1257600
+2009;13101;870;;;Remanente de tesorería;100000
+2009;13102;870;;;Remanente de tesorería;18015760
+2009;13301;870;;;Remanente de tesorería;5082760
+2009;14104;870;;;Remanente de tesorería;958050
+2009;14107;870;;;Remanente de tesorería;10067780
+2009;14111;870;;;Remanente de tesorería;1065680
+2009;14113;870;;;Remanente de tesorería;29297160
+2009;15101;870;;;Remanente de tesorería;2079720
+2009;15103;870;;;Remanente de tesorería;1804430
+2009;15105;870;;;Remanente de tesorería;28201080
+2009;15302;870;;;Remanente de tesorería;4001320
+2009;15303;870;;;Remanente de tesorería;2231810
+2009;16102;870;;;Remanente de tesorería;656720
+2009;18101;870;;;Remanente de tesorería;15000000
+2009;18103;870;;;Remanente de tesorería;597020
+2009;19101;870;;;Remanente de tesorería;683000000
+2009;19102;870;;;Remanente de tesorería;300000000
+2009;19104;870;;;Remanente de tesorería;8907670
+2009;19301;870;;;Remanente de tesorería;1874020
+2009;20101;870;;;Remanente de tesorería;673732400
+2009;20102;870;;;Remanente de tesorería;20122570
+2009;20301;870;;;Remanente de tesorería;47600000
+2009;21137;870;;;Remanente de tesorería;1040970
+2009;21401;870;;;Remanente de tesorería;205245330
+2009;22101;870;;;Remanente de tesorería;2464520
+2009;22102;870;;;Remanente de tesorería;141700950
+2009;23101;870;;;Remanente de tesorería;17137360
+2009;23112;870;;;Remanente de tesorería;421030
+2009;24101;870;;;Remanente de tesorería;8300000
+2009;24102;870;;;Remanente de tesorería;4500000
+2009;24103;870;;;Remanente de tesorería;33500000
+2009;24104;870;;;Remanente de tesorería;7800000
+2009;24301;870;;;Remanente de tesorería;4238000
+2009;25101;870;;;Remanente de tesorería;822920
+2009;25102;870;;;Remanente de tesorería;966590
+2009;25103;870;;;Remanente de tesorería;20440940
+2009;26102;870;;;Remanente de tesorería;18800000
+2009;26103;870;;;Remanente de tesorería;5000000
+2009;26104;870;;;Remanente de tesorería;534180
+2009;26105;870;;;Remanente de tesorería;23290
+2009;28101;870;;;Remanente de tesorería;12364780
+2009;28102;870;;;Remanente de tesorería;430570
+2009;60001;870;;;Remanente de tesorería;1246338240
+2009;19101;870;;00;Remanente de tesorería;683000000
+2009;60001;872;;;Remanente para la cobertura de prestaciones sociales de Accidentes de Trabajo;14745010
+2009;14113;9;;;PASIVOS FINANCIEROS;70000
+2009;23211;9;;;PASIVOS FINANCIEROS;90151820
+2009;23228;9;;;PASIVOS FINANCIEROS;129269000
+2009;23230;9;;;PASIVOS FINANCIEROS;20000000
+2009;23231;9;;;PASIVOS FINANCIEROS;51500000
+2009;23233;9;;;PASIVOS FINANCIEROS;42000000
+2009;23234;9;;;PASIVOS FINANCIEROS;20000000
+2009;23236;9;;;PASIVOS FINANCIEROS;12577000
+2009;25103;9;;;PASIVOS FINANCIEROS;100000
+2009;23211;91;;;Préstamos recibidos en moneda nacional;90151820
+2009;23228;91;;;Préstamos recibidos en moneda nacional;129269000
+2009;23230;91;;;Préstamos recibidos en moneda nacional;20000000
+2009;23231;91;;;Préstamos recibidos en moneda nacional;51500000
+2009;23233;91;;;Préstamos recibidos en moneda nacional;42000000
+2009;23234;91;;;Préstamos recibidos en moneda nacional;20000000
+2009;23236;91;;;Préstamos recibidos en moneda nacional;12577000
+2009;23211;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;90151820
+2009;23228;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;129269000
+2009;23230;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;20000000
+2009;23234;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;20000000
+2009;23236;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;8804000
+2009;23231;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;51500000
+2009;23233;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;42000000
+2009;23236;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;3773000
+2009;14113;94;;;Depósitos y fianzas recibidos;70000
+2009;25103;94;;;Depósitos y fianzas recibidos;100000
+2009;14113;940;;;Depósitos;20000
+2009;14113;941;;;Fianzas;50000
+2009;25103;941;;;Fianzas;100000
