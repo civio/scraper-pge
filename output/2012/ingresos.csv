@@ -1,0 +1,2578 @@
+EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
+2012;13102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;88534510
+2012;14113;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;681814290
+2012;15106;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;1399874400
+2012;19101;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;20328616750
+2012;19102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;600000000
+2012;60001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;106322962590
+2012;98001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;54845845390
+2012;98001;10;;;Sobre la renta;53689000000
+2012;98001;100;;;De las personas físicas;29232000000
+2012;98001;100;;00;Impuesto sobre la Renta de las Personas Físicas;29478000000
+2012;98001;100;;99;Asignacion tributaria a la Iglesia Catolica;-246000000
+2012;98001;101;;;De sociedades;19564000000
+2012;98001;101;;00;Impuesto sobre Sociedades;19564000000
+2012;98001;102;;;De no residentes;2411000000
+2012;98001;102;;00;Impuesto sobre la Renta de no residentes;2411000000
+2012;98001;103;;;Tributación especial por el Impuesto sobre la Renta de las Personas Físicas, el Impuesto de Sociedades y el Impuesto sobre la Renta de no Residentes. Real Decreto-Ley 12/2012;2482000000
+2012;98001;11;;;Sobre el capital;120000000
+2012;98001;119;;;Otros impuestos sobre el capital;120000000
+2012;98001;119;;00;Impuesto General sobre Sucesiones y Donaciones.;95000000
+2012;98001;119;;01;Impuesto sobre el Patrimonio;25000000
+2012;13102;12;;;Cotizaciones sociales;88534510
+2012;14113;12;;;Cotizaciones sociales;681814290
+2012;15106;12;;;Cotizaciones sociales;1399874400
+2012;19101;12;;;Cotizaciones sociales;20328616750
+2012;19102;12;;;Cotizaciones sociales;600000000
+2012;60001;12;;;Cotizaciones sociales;106322962590
+2012;98001;12;;;Cotizaciones sociales;1036845390
+2012;13102;120;;;Cotizaciones de los regímenes especiales de funcionarios;88534510
+2012;14113;120;;;Cotizaciones de los regímenes especiales de funcionarios;681814290
+2012;15106;120;;;Cotizaciones de los regímenes especiales de funcionarios;1399874400
+2012;98001;120;;;Cotizaciones de los regímenes especiales de funcionarios;1036845390
+2012;98001;120;;00;Cuotas de Derechos Pasivos;1036845390
+2012;13102;120;;01;Cuotas de funcionarios a Mutualidades;24108210
+2012;14113;120;;01;Cuotas de funcionarios a Mutualidades;104294190
+2012;15106;120;;01;Cuotas de funcionarios a Mutualidades;373975080
+2012;13102;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;64366800
+2012;14113;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;577520100
+2012;15106;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;1025899320
+2012;13102;120;;03;Cuotas sociales Mutualidad Benéfica de Funcionarios de la Justicia Municipal;18500
+2012;13102;120;;04;Cuotas sociales de Previsión de Funcionarios de la Administración de Justicia;19000
+2012;13102;120;;05;Cuotas sociales Mutualidad Benéfica de Funcionarios del Cuerpo Auxiliar de la Administración de Justicia;22000
+2012;60001;121;;;Cotizaciones del Regimen General;77767576090
+2012;60001;122;;;Cotizaciones del R.E.T. Autonomos;10705750000
+2012;60001;123;;;Cotizaciones R.E. Agrario;124800000
+2012;60001;124;;;Cotizaciones R.E. Trabajadores del Mar;299390000
+2012;60001;125;;;Cotizaciones R.E. Mineria del Carbon;170090000
+2012;60001;126;;;Cotizaciones del R.E. Empleados de Hogar;237220000
+2012;60001;127;;;Cotizaciones de acctes. trabajo y e. p.;6743480000
+2012;60001;128;;;Cotizaciones de desempleados, cese de actividad de trabajadores autónomos y bonificaciones para el fomento del empleo;10153786500
+2012;19101;129;;;Otras cotizaciones;20328616750
+2012;19102;129;;;Otras cotizaciones;600000000
+2012;60001;129;;;Otras cotizaciones;120870000
+2012;19101;129;;00;Cuota de desempleo;18425000000
+2012;19101;129;;01;Cuota de formación profesional;1890000000
+2012;19102;129;;02;Cuotas empresariales al Fondo de Garantía Salarial;600000000
+2012;19101;129;;03;Cuota de protección por cese de actividad;13616750
+2012;98001;2;;;IMPUESTOS INDIRECTOS;21095000000
+2012;98001;21;;;Sobre el Valor Añadido;13633000000
+2012;98001;210;;;Impuesto sobre el Valor Añadido;13633000000
+2012;98001;210;;00;IVA sobre importaciones;8528000000
+2012;98001;210;;01;IVA sobre operaciones interiores;5105000000
+2012;98001;22;;;Sobre consumos específicos;4502000000
+2012;98001;220;;;Impuestos especiales;4502000000
+2012;98001;220;;00;Sobre el alcohol y bebidas derivadas;172000000
+2012;98001;220;;01;Sobre cerveza;59000000
+2012;98001;220;;03;Sobre labores de tabaco;1971000000
+2012;98001;220;;04;Sobre hidrocarburos;2252000000
+2012;98001;220;;06;Sobre productos intermedios;4000000
+2012;98001;220;;07;Sobre la electricidad;44000000
+2012;98001;23;;;Sobre tráfico exterior;1452000000
+2012;98001;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías;1422000000
+2012;98001;231;;;Exacciones reguladoras y otros gravámenes agrícolas;30000000
+2012;98001;28;;;Otros impuestos indirectos;1508000000
+2012;98001;280;;;Cotización, producción y almacenamiento de azúcar e isoglucosa;8000000
+2012;98001;281;;;Impuesto sobre las Primas de Seguros;1392000000
+2012;98001;282;;;Sobre transmisiones patrimoniales intervivos;7000000
+2012;98001;283;;;Impuesto sobre actividades del juego;100000000
+2012;98001;283;;00;De apuestas deportivas mutuas;66094000
+2012;98001;283;;01;De apuestas hípicas mutuas;385000
+2012;98001;283;;02;Del ejercicio 2011;33521000
+2012;98001;289;;;Otros impuestos indirectos;1000000
+2012;12401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15244910
+2012;13101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;150000
+2012;13102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;55000
+2012;13301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9000000
+2012;14104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1522000
+2012;14107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1720000
+2012;14111;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;850540
+2012;14113;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2709000
+2012;14204;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9000
+2012;15101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;249770
+2012;15102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;743000
+2012;15104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;23500000
+2012;15106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1559640
+2012;15202;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;147000
+2012;15302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;38205600
+2012;15401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;90500
+2012;16101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;856605090
+2012;17238;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;960000
+2012;17401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;48723850
+2012;18101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4156790
+2012;18103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;770000
+2012;18104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;425500
+2012;18105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15000
+2012;18106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;638500
+2012;18201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1214000
+2012;18301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;14520000
+2012;18302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4210000
+2012;18401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;280000
+2012;19101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;371369990
+2012;19102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;22466500
+2012;19104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3073000
+2012;19301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;28000
+2012;20102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;45483000
+2012;20207;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1020000
+2012;20208;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1350000
+2012;20302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;43955490
+2012;23101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;423260
+2012;23207;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15140
+2012;23211;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8230000
+2012;23225;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10505000
+2012;23226;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15515000
+2012;23228;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;18208450
+2012;23229;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8685900
+2012;23230;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;19334000
+2012;23231;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8400000
+2012;23232;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5831180
+2012;23233;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10163400
+2012;23234;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;18663650
+2012;23236;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;788000
+2012;23401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;16617490
+2012;25101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;300000
+2012;25102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;532000
+2012;25103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;12310000
+2012;25301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;138400
+2012;25401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;54049500
+2012;26102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;20000
+2012;26104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;235820
+2012;26106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;20000
+2012;26107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;365200
+2012;26108;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;87660
+2012;26201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;897450
+2012;26401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;43117470
+2012;27101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;6891540
+2012;27102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5800000
+2012;27202;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;110000
+2012;27203;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;49000
+2012;27204;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1516120
+2012;27205;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1500000
+2012;27206;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5820
+2012;27301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;730000
+2012;27401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;22208830
+2012;60001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1673201060
+2012;98001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5233614000
+2012;14107;30;;;Tasas;100000
+2012;15104;30;;;Tasas;19000000
+2012;15302;30;;;Tasas;100220
+2012;16101;30;;;Tasas;447216510
+2012;17401;30;;;Tasas;10700000
+2012;18103;30;;;Tasas;250000
+2012;18104;30;;;Tasas;15000
+2012;18201;30;;;Tasas;1106000
+2012;18301;30;;;Tasas;500000
+2012;18302;30;;;Tasas;700000
+2012;20102;30;;;Tasas;45250000
+2012;20207;30;;;Tasas;5000
+2012;20302;30;;;Tasas;43174800
+2012;23211;30;;;Tasas;20000
+2012;23225;30;;;Tasas;8200000
+2012;23226;30;;;Tasas;13135000
+2012;23228;30;;;Tasas;11949440
+2012;23229;30;;;Tasas;5288240
+2012;23230;30;;;Tasas;15650000
+2012;23231;30;;;Tasas;5897700
+2012;23232;30;;;Tasas;3528100
+2012;23233;30;;;Tasas;6998500
+2012;23234;30;;;Tasas;11831500
+2012;23236;30;;;Tasas;453000
+2012;23401;30;;;Tasas;60000
+2012;25401;30;;;Tasas;50400000
+2012;26104;30;;;Tasas;235820
+2012;26401;30;;;Tasas;43117470
+2012;27102;30;;;Tasas;5500000
+2012;27301;30;;;Tasas;730000
+2012;98001;30;;;Tasas;846000000
+2012;98001;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros;25000000
+2012;98001;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre;30000000
+2012;23211;302;;;Tasa por dirección e inspección de obras;20000
+2012;23225;302;;;Tasa por dirección e inspección de obras;1400000
+2012;23226;302;;;Tasa por dirección e inspección de obras;3500000
+2012;23228;302;;;Tasa por dirección e inspección de obras;5044500
+2012;23229;302;;;Tasa por dirección e inspección de obras;3060000
+2012;23230;302;;;Tasa por dirección e inspección de obras;1300000
+2012;23231;302;;;Tasa por dirección e inspección de obras;600000
+2012;23232;302;;;Tasa por dirección e inspección de obras;1193870
+2012;23233;302;;;Tasa por dirección e inspección de obras;1949600
+2012;23234;302;;;Tasa por dirección e inspección de obras;2200000
+2012;23236;302;;;Tasa por dirección e inspección de obras;448000
+2012;98001;302;;;Tasa por dirección e inspección de obras;135000000
+2012;23225;302;;00;Dirección e inspección de obras;1400000
+2012;23226;302;;00;Dirección e inspección de obras;3500000
+2012;23229;302;;00;Dirección e inspección de obras;3060000
+2012;23230;302;;00;Dirección e inspección de obras;1300000
+2012;23232;302;;00;Dirección e inspección de obras;1193870
+2012;23233;302;;00;Dirección e inspección de obras;1949600
+2012;23236;302;;00;Dirección e inspección de obras;448000
+2012;98001;303;;;Tasa por el ejercicio de la potestad jurisdiccional;372000000
+2012;98001;304;;;Tasas de expedición de D.N.I. y Pasaportes;56000000
+2012;98001;305;;;Tasas consulares;68000000
+2012;16101;306;;;Tasas de la Jefatura de Tráfico;447216510
+2012;98001;308;;;Tasas seguridad aeroportuaria;4000000
+2012;14107;309;;;Otras tasas;100000
+2012;15104;309;;;Otras tasas;19000000
+2012;15302;309;;;Otras tasas;100220
+2012;17401;309;;;Otras tasas;10700000
+2012;18103;309;;;Otras tasas;250000
+2012;18104;309;;;Otras tasas;15000
+2012;18201;309;;;Otras tasas;1106000
+2012;18301;309;;;Otras tasas;500000
+2012;18302;309;;;Otras tasas;700000
+2012;20102;309;;;Otras tasas;45250000
+2012;20207;309;;;Otras tasas;5000
+2012;20302;309;;;Otras tasas;43174800
+2012;23225;309;;;Otras tasas;6800000
+2012;23226;309;;;Otras tasas;9635000
+2012;23228;309;;;Otras tasas;6904940
+2012;23229;309;;;Otras tasas;2228240
+2012;23230;309;;;Otras tasas;14350000
+2012;23231;309;;;Otras tasas;5297700
+2012;23232;309;;;Otras tasas;2334230
+2012;23233;309;;;Otras tasas;5048900
+2012;23234;309;;;Otras tasas;9631500
+2012;23236;309;;;Otras tasas;5000
+2012;23401;309;;;Otras tasas;60000
+2012;25401;309;;;Otras tasas;50400000
+2012;26104;309;;;Otras tasas;235820
+2012;26401;309;;;Otras tasas;43117470
+2012;27102;309;;;Otras tasas;5500000
+2012;27301;309;;;Otras tasas;730000
+2012;98001;309;;;Otras tasas;156000000
+2012;98001;309;;00;Tasa por acreditación catastral;2000000
+2012;98001;309;;01;Tasa de juego;17000000
+2012;98001;309;;02;Reconocimientos, autorizaciones y concursos;68000000
+2012;98001;309;;05;Tasa de Telecomunicaciones;13000000
+2012;98001;309;;07;Control de sanidad exterior de carnes y productos de origen animal de países no comunitarios;8000000
+2012;98001;309;;08;Derechos de examen;6000000
+2012;98001;309;;09;Tasa por la gestión administrativa del juego (D.T. 1ª Ley 13/2011);13000000
+2012;20102;309;;10;Tasas por determinadas actividades del Organismo (20.101);44100000
+2012;20302;309;;10;Servicios generales. Desclasificación de materiales;21090
+2012;23234;309;;10;Canon de utilización de bienes de D.P.H.;630000
+2012;20302;309;;11;Serv.Grales.de empresas de ámbito de protec. radiológica;48940
+2012;23225;309;;11;Canon utilización dominio público hidraúlico;150000
+2012;23230;309;;11;Canon de control de vertidos;12400000
+2012;20102;309;;12;Tasas derivadas del Arreglo de Madrid aportadas por la Organización Mundial de la Propiedad Intelectual (OMPI);1100000
+2012;20302;309;;12;Inspección y control de instalaciones nucleares;35984420
+2012;23225;309;;12;Tasa utilización bienes de dominio público;50000
+2012;23230;309;;12;Informes;190000
+2012;23232;309;;12;Navegación en embalses;2250
+2012;20102;309;;13;Búsqueda de marcas a petición de la Oficina de Armonización del Mercado Interior (OAMI);30000
+2012;20302;309;;13;Inpección,control y desmantelamiento de instal. nucleares;706320
+2012;23232;309;;13;Confrontación de proyectos;3340
+2012;20302;309;;14;Inspección y control de instalaciones nucleares;3421460
+2012;23225;309;;14;Canon de control de vertidos;5600000
+2012;23226;309;;14;Canon de vertidos;6625000
+2012;23229;309;;14;Canon de ocupación y vertido;1264800
+2012;23232;309;;14;Canon de oupación o utilización y canon de vertidos en aplicación de los art. 104 y 105 Ley de aguas;2183600
+2012;23233;309;;14;Canon control de vertidos;4577600
+2012;23234;309;;14;Canon de vertidos;8700000
+2012;20102;309;;15;Tasas derivadas del arreglo de La Haya aportadas por la OMPI;20000
+2012;20302;309;;15;Inpección,control y desmantelamiento instal. nucleares;33410
+2012;23226;309;;15;Canon de ocupación;2850000
+2012;23230;309;;15;Canon ocupación;460000
+2012;20302;309;;16;Inspección,control y homologación de cursos;38600
+2012;20302;309;;17;Inspección y control de transporte;42820
+2012;23225;309;;17;Tasa por explotación de obras;900000
+2012;23232;309;;17;Tasa explotación de obras y servicios;67010
+2012;20302;309;;18;Inspección y control de fabricación y equipos exentos;630
+2012;23225;309;;18;Tasa por confrontación y proyectos;25000
+2012;23226;309;;18;Confrontación de proyectos;10000
+2012;23229;309;;18;Tasa de informes y otras actuaciones;963440
+2012;23232;309;;18;Canon de aprovechamiento de materiales;44600
+2012;23234;309;;18;Tasa por redacción de proyectos, confrontación y tasación de obras y proyectos;1500
+2012;20302;309;;19;Inpección y control de empresas de ámbito de Protec. Radiológicas;100830
+2012;23225;309;;19;Tasa por informes y estudios;75000
+2012;23226;309;;19;Informes y otras actuaciones;150000
+2012;23232;309;;19;Tasas por informes y visitas;33430
+2012;23234;309;;19;Tasa por informe y otras actuaciones;300000
+2012;20302;309;;21;Servicios generales. Funcionamiento de instalaciones nucleares;612970
+2012;20302;309;;22;Serv.Grales.seguimiento gestión residuos;160000
+2012;23233;309;;23;Salto pie de presa;325000
+2012;20302;309;;24;Serv.Grales de instalaciones radiactivas;920840
+2012;20302;309;;25;Serv. Grales.desmantelamiento de instal. radiactivas;31640
+2012;20302;309;;26;Serv.Grales.de licencias;909930
+2012;20302;309;;27;Serv.Grales.de homologación de cursos;18560
+2012;20302;309;;28;Serv.Grales.de transporte;8440
+2012;23233;309;;28;Confrontación de obras y proyectos;4300
+2012;23233;309;;29;Infracciones y otras actuaciones;142000
+2012;14107;309;;99;Otras;100000
+2012;15104;309;;99;Otras;19000000
+2012;18103;309;;99;Otras;250000
+2012;18104;309;;99;Otras;15000
+2012;18201;309;;99;Otras;1106000
+2012;18301;309;;99;Otras;500000
+2012;18302;309;;99;Otras;700000
+2012;20207;309;;99;Otras;5000
+2012;20302;309;;99;Otras;113900
+2012;23228;309;;99;Otras;6904940
+2012;23230;309;;99;Otras;1300000
+2012;23236;309;;99;Otras;5000
+2012;25401;309;;99;Otras;50400000
+2012;26104;309;;99;Otras;235820
+2012;26401;309;;99;Otras;43117470
+2012;27102;309;;99;Otras;5500000
+2012;27301;309;;99;Otras;730000
+2012;98001;309;;99;Otras;29000000
+2012;14104;31;;;Precios Públicos;550000
+2012;14111;31;;;Precios Públicos;850540
+2012;15102;31;;;Precios Públicos;110000
+2012;17238;31;;;Precios Públicos;500000
+2012;17401;31;;;Precios Públicos;33823850
+2012;18101;31;;;Precios Públicos;4156790
+2012;18103;31;;;Precios Públicos;500000
+2012;18104;31;;;Precios Públicos;374000
+2012;18106;31;;;Precios Públicos;55000
+2012;18201;31;;;Precios Públicos;12000
+2012;18301;31;;;Precios Públicos;13962000
+2012;18302;31;;;Precios Públicos;3200000
+2012;20207;31;;;Precios Públicos;1000000
+2012;20302;31;;;Precios Públicos;500000
+2012;23401;31;;;Precios Públicos;1064440
+2012;25102;31;;;Precios Públicos;32000
+2012;25103;31;;;Precios Públicos;11800000
+2012;26201;31;;;Precios Públicos;497840
+2012;27401;31;;;Precios Públicos;1050000
+2012;98001;31;;;Precios Públicos;3000000
+2012;15102;310;;;Derechos de matrícula en cursos y seminarios;50000
+2012;18101;310;;;Derechos de matrícula en cursos y seminarios;2941630
+2012;18201;310;;;Derechos de matrícula en cursos y seminarios;12000
+2012;18301;310;;;Derechos de matrícula en cursos y seminarios;152000
+2012;25102;310;;;Derechos de matrícula en cursos y seminarios;32000
+2012;27401;310;;;Derechos de matrícula en cursos y seminarios;225000
+2012;98001;310;;;Derechos de matrícula en cursos y seminarios;1000000
+2012;18103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;300000
+2012;18301;311;;;Entradas a museos, exposiciones, espectáculos, etc.;13750000
+2012;18302;311;;;Entradas a museos, exposiciones, espectáculos, etc.;3200000
+2012;25103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;11800000
+2012;27401;311;;;Entradas a museos, exposiciones, espectáculos, etc.;825000
+2012;25103;311;;01;Entradas a museos;11798000
+2012;25103;311;;02;Entradas a exposiciones temporales, espectáculos, etc.;2000
+2012;15102;317;;;Cursos impartidos para otros Entes Públicos.;60000
+2012;14104;319;;;Otros precios públicos;550000
+2012;14111;319;;;Otros precios públicos;850540
+2012;17238;319;;;Otros precios públicos;500000
+2012;17401;319;;;Otros precios públicos;33823850
+2012;18101;319;;;Otros precios públicos;1215160
+2012;18103;319;;;Otros precios públicos;200000
+2012;18104;319;;;Otros precios públicos;374000
+2012;18106;319;;;Otros precios públicos;55000
+2012;18301;319;;;Otros precios públicos;60000
+2012;20207;319;;;Otros precios públicos;1000000
+2012;20302;319;;;Otros precios públicos;500000
+2012;23401;319;;;Otros precios públicos;1064440
+2012;26201;319;;;Otros precios públicos;497840
+2012;98001;319;;;Otros precios públicos;2000000
+2012;13101;32;;;Otros ingresos procedentes de prestación de servicios;150000
+2012;14113;32;;;Otros ingresos procedentes de prestación de servicios;1700000
+2012;15101;32;;;Otros ingresos procedentes de prestación de servicios;150000
+2012;15302;32;;;Otros ingresos procedentes de prestación de servicios;33820790
+2012;15401;32;;;Otros ingresos procedentes de prestación de servicios;90500
+2012;17401;32;;;Otros ingresos procedentes de prestación de servicios;200000
+2012;18201;32;;;Otros ingresos procedentes de prestación de servicios;48000
+2012;18301;32;;;Otros ingresos procedentes de prestación de servicios;2000
+2012;18401;32;;;Otros ingresos procedentes de prestación de servicios;280000
+2012;19101;32;;;Otros ingresos procedentes de prestación de servicios;3005060
+2012;19104;32;;;Otros ingresos procedentes de prestación de servicios;2533000
+2012;20207;32;;;Otros ingresos procedentes de prestación de servicios;8000
+2012;20302;32;;;Otros ingresos procedentes de prestación de servicios;134920
+2012;23207;32;;;Otros ingresos procedentes de prestación de servicios;6010
+2012;23211;32;;;Otros ingresos procedentes de prestación de servicios;10000
+2012;23401;32;;;Otros ingresos procedentes de prestación de servicios;15491550
+2012;25102;32;;;Otros ingresos procedentes de prestación de servicios;450000
+2012;25401;32;;;Otros ingresos procedentes de prestación de servicios;130000
+2012;27204;32;;;Otros ingresos procedentes de prestación de servicios;1404120
+2012;27205;32;;;Otros ingresos procedentes de prestación de servicios;1452000
+2012;27401;32;;;Otros ingresos procedentes de prestación de servicios;19083830
+2012;60001;32;;;Otros ingresos procedentes de prestación de servicios;76169110
+2012;98001;32;;;Otros ingresos procedentes de prestación de servicios;1477164000
+2012;98001;320;;;Comisiones por avales y seguros de operaciones financieras;1029334000
+2012;15302;321;;;Renta de aduanas. Derechos menores;73570
+2012;15302;322;;;De la Administración financiera;33425040
+2012;25102;322;;;De la Administración financiera;450000
+2012;98001;322;;;De la Administración financiera;403000000
+2012;15302;322;;01;Administración y cobranza;26567560
+2012;98001;322;;02;Compensación por gastos de percepción de recursos propios tradicionales de la Unión Europea;400000000
+2012;15302;322;;03;Derivados de costas de procedimientos de apremio;2638720
+2012;15302;322;;04;Derivados de la repercusión del coste de fabricación de efectos timbrados;4218760
+2012;25102;322;;99;Otros;450000
+2012;98001;322;;99;Otros;3000000
+2012;60001;327;;;De asistencia sanitaria;65982170
+2012;98001;327;;;De asistencia sanitaria;44830000
+2012;98001;327;;01;Por Convenios Internacionales y Conciertos;20310000
+2012;98001;327;;02;Otros conciertos de asistencia sanitaria;24520000
+2012;60001;328;;;De servicios sociales;3580000
+2012;13101;329;;;Otros ingresos procedentes de prestación de servicios;150000
+2012;14113;329;;;Otros ingresos procedentes de prestación de servicios;1700000
+2012;15101;329;;;Otros ingresos procedentes de prestación de servicios;150000
+2012;15302;329;;;Otros ingresos procedentes de prestación de servicios;322180
+2012;15401;329;;;Otros ingresos procedentes de prestación de servicios;90500
+2012;17401;329;;;Otros ingresos procedentes de prestación de servicios;200000
+2012;18201;329;;;Otros ingresos procedentes de prestación de servicios;48000
+2012;18301;329;;;Otros ingresos procedentes de prestación de servicios;2000
+2012;18401;329;;;Otros ingresos procedentes de prestación de servicios;280000
+2012;19101;329;;;Otros ingresos procedentes de prestación de servicios;3005060
+2012;19104;329;;;Otros ingresos procedentes de prestación de servicios;2533000
+2012;20207;329;;;Otros ingresos procedentes de prestación de servicios;8000
+2012;20302;329;;;Otros ingresos procedentes de prestación de servicios;134920
+2012;23207;329;;;Otros ingresos procedentes de prestación de servicios;6010
+2012;23211;329;;;Otros ingresos procedentes de prestación de servicios;10000
+2012;23401;329;;;Otros ingresos procedentes de prestación de servicios;15491550
+2012;25401;329;;;Otros ingresos procedentes de prestación de servicios;130000
+2012;27204;329;;;Otros ingresos procedentes de prestación de servicios;1404120
+2012;27205;329;;;Otros ingresos procedentes de prestación de servicios;1452000
+2012;27401;329;;;Otros ingresos procedentes de prestación de servicios;19083830
+2012;60001;329;;;Otros ingresos procedentes de prestación de servicios;6606940
+2012;15302;329;;00;Servicios ajenos;306450
+2012;15302;329;;01;Prestación de otros servicios;15730
+2012;27401;329;;01;De investigación controlada;15083830
+2012;27401;329;;02;De otras prestaciones de servicios;4000000
+2012;12401;33;;;Venta de bienes;130430
+2012;14104;33;;;Venta de bienes;926000
+2012;14204;33;;;Venta de bienes;6000
+2012;15101;33;;;Venta de bienes;99770
+2012;15102;33;;;Venta de bienes;62000
+2012;15202;33;;;Venta de bienes;1000
+2012;15302;33;;;Venta de bienes;326850
+2012;16101;33;;;Venta de bienes;9020
+2012;17238;33;;;Venta de bienes;50000
+2012;18103;33;;;Venta de bienes;12000
+2012;18104;33;;;Venta de bienes;26500
+2012;18301;33;;;Venta de bienes;1000
+2012;18302;33;;;Venta de bienes;250000
+2012;19101;33;;;Venta de bienes;10000
+2012;19104;33;;;Venta de bienes;115000
+2012;19301;33;;;Venta de bienes;8000
+2012;20102;33;;;Venta de bienes;233000
+2012;20207;33;;;Venta de bienes;3000
+2012;23101;33;;;Venta de bienes;58500
+2012;23228;33;;;Venta de bienes;79750
+2012;23234;33;;;Venta de bienes;2150
+2012;23401;33;;;Venta de bienes;1500
+2012;25101;33;;;Venta de bienes;300000
+2012;25102;33;;;Venta de bienes;50000
+2012;25103;33;;;Venta de bienes;300000
+2012;25301;33;;;Venta de bienes;138400
+2012;25401;33;;;Venta de bienes;3500000
+2012;26102;33;;;Venta de bienes;20000
+2012;26107;33;;;Venta de bienes;200
+2012;26201;33;;;Venta de bienes;12240
+2012;27101;33;;;Venta de bienes;250080
+2012;27102;33;;;Venta de bienes;300000
+2012;27203;33;;;Venta de bienes;5000
+2012;27204;33;;;Venta de bienes;2000
+2012;27205;33;;;Venta de bienes;24000
+2012;27401;33;;;Venta de bienes;1175000
+2012;98001;33;;;Venta de bienes;12000000
+2012;12401;330;;;Venta de publicaciones propias;117200
+2012;15101;330;;;Venta de publicaciones propias;99770
+2012;15102;330;;;Venta de publicaciones propias;60000
+2012;15302;330;;;Venta de publicaciones propias;139300
+2012;16101;330;;;Venta de publicaciones propias;9020
+2012;17238;330;;;Venta de publicaciones propias;44750
+2012;18103;330;;;Venta de publicaciones propias;12000
+2012;18104;330;;;Venta de publicaciones propias;25000
+2012;18302;330;;;Venta de publicaciones propias;250000
+2012;19104;330;;;Venta de publicaciones propias;113000
+2012;19301;330;;;Venta de publicaciones propias;8000
+2012;20102;330;;;Venta de publicaciones propias;1000
+2012;20207;330;;;Venta de publicaciones propias;2000
+2012;23101;330;;;Venta de publicaciones propias;47000
+2012;23401;330;;;Venta de publicaciones propias;1500
+2012;25101;330;;;Venta de publicaciones propias;300000
+2012;25102;330;;;Venta de publicaciones propias;50000
+2012;25103;330;;;Venta de publicaciones propias;20000
+2012;26102;330;;;Venta de publicaciones propias;20000
+2012;26107;330;;;Venta de publicaciones propias;200
+2012;26201;330;;;Venta de publicaciones propias;12240
+2012;27101;330;;;Venta de publicaciones propias;250080
+2012;27102;330;;;Venta de publicaciones propias;300000
+2012;27203;330;;;Venta de publicaciones propias;3000
+2012;27205;330;;;Venta de publicaciones propias;18000
+2012;27401;330;;;Venta de publicaciones propias;600000
+2012;98001;330;;;Venta de publicaciones propias;2000000
+2012;18104;331;;;Venta en comisión de publicaciones;1500
+2012;25103;331;;;Venta en comisión de publicaciones;30000
+2012;12401;332;;;Venta de fotocopias y otros productos de reprografía;13230
+2012;15102;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2012;17238;332;;;Venta de fotocopias y otros productos de reprografía;3250
+2012;18301;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2012;19104;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2012;20102;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2012;25103;332;;;Venta de fotocopias y otros productos de reprografía;45000
+2012;27203;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2012;27205;332;;;Venta de fotocopias y otros productos de reprografía;6000
+2012;27401;332;;;Venta de fotocopias y otros productos de reprografía;150000
+2012;14104;333;;;Venta de medicamentos;6000
+2012;14104;334;;;Venta de productos agropecuarios;920000
+2012;23228;334;;;Venta de productos agropecuarios;79750
+2012;27401;334;;;Venta de productos agropecuarios;225000
+2012;14204;335;;;Venta de material de desecho;6000
+2012;15202;335;;;Venta de material de desecho;1000
+2012;17238;335;;;Venta de material de desecho;2000
+2012;20207;335;;;Venta de material de desecho;1000
+2012;23101;335;;;Venta de material de desecho;11500
+2012;25103;335;;;Venta de material de desecho;5000
+2012;27204;335;;;Venta de material de desecho;2000
+2012;15302;337;;;Venta de impresos oficiales;143680
+2012;15302;339;;;Venta de otros bienes;43870
+2012;19101;339;;;Venta de otros bienes;10000
+2012;19104;339;;;Venta de otros bienes;1000
+2012;20102;339;;;Venta de otros bienes;230000
+2012;23234;339;;;Venta de otros bienes;2150
+2012;25103;339;;;Venta de otros bienes;200000
+2012;25301;339;;;Venta de otros bienes;138400
+2012;25401;339;;;Venta de otros bienes;3500000
+2012;27401;339;;;Venta de otros bienes;200000
+2012;98001;339;;;Venta de otros bienes;10000000
+2012;60001;36;;;Ingresos por compensación de costes de las actividades de prevención;25890
+2012;60001;360;;;Ingresos por compensación de costes de las actividades de prevención;25890
+2012;60001;37;;;Cotizaciones de asociados;600000
+2012;60001;370;;;Cotizaciones de asociados;600000
+2012;12401;38;;;Reintegros de operaciones corrientes;15084480
+2012;13102;38;;;Reintegros de operaciones corrientes;55000
+2012;14104;38;;;Reintegros de operaciones corrientes;5000
+2012;14107;38;;;Reintegros de operaciones corrientes;350000
+2012;14113;38;;;Reintegros de operaciones corrientes;800000
+2012;15102;38;;;Reintegros de operaciones corrientes;551000
+2012;15106;38;;;Reintegros de operaciones corrientes;1529620
+2012;15202;38;;;Reintegros de operaciones corrientes;140000
+2012;15302;38;;;Reintegros de operaciones corrientes;371880
+2012;16101;38;;;Reintegros de operaciones corrientes;6010
+2012;17238;38;;;Reintegros de operaciones corrientes;10000
+2012;18105;38;;;Reintegros de operaciones corrientes;15000
+2012;18106;38;;;Reintegros de operaciones corrientes;400000
+2012;18301;38;;;Reintegros de operaciones corrientes;4000
+2012;19101;38;;;Reintegros de operaciones corrientes;365154930
+2012;19102;38;;;Reintegros de operaciones corrientes;122610
+2012;19104;38;;;Reintegros de operaciones corrientes;300000
+2012;19301;38;;;Reintegros de operaciones corrientes;15000
+2012;20207;38;;;Reintegros de operaciones corrientes;4000
+2012;20208;38;;;Reintegros de operaciones corrientes;1200000
+2012;23101;38;;;Reintegros de operaciones corrientes;9130
+2012;23207;38;;;Reintegros de operaciones corrientes;3120
+2012;23211;38;;;Reintegros de operaciones corrientes;100000
+2012;23225;38;;;Reintegros de operaciones corrientes;15000
+2012;23226;38;;;Reintegros de operaciones corrientes;5000
+2012;23228;38;;;Reintegros de operaciones corrientes;817450
+2012;23229;38;;;Reintegros de operaciones corrientes;1660
+2012;23232;38;;;Reintegros de operaciones corrientes;9270
+2012;23236;38;;;Reintegros de operaciones corrientes;3000
+2012;25401;38;;;Reintegros de operaciones corrientes;7500
+2012;26106;38;;;Reintegros de operaciones corrientes;20000
+2012;26107;38;;;Reintegros de operaciones corrientes;350000
+2012;26201;38;;;Reintegros de operaciones corrientes;362050
+2012;27202;38;;;Reintegros de operaciones corrientes;20000
+2012;27203;38;;;Reintegros de operaciones corrientes;35000
+2012;27204;38;;;Reintegros de operaciones corrientes;10000
+2012;27401;38;;;Reintegros de operaciones corrientes;350000
+2012;60001;38;;;Reintegros de operaciones corrientes;110889430
+2012;98001;38;;;Reintegros de operaciones corrientes;345000000
+2012;12401;380;;;De ejercicios cerrados;15084480
+2012;13102;380;;;De ejercicios cerrados;55000
+2012;14104;380;;;De ejercicios cerrados;5000
+2012;14107;380;;;De ejercicios cerrados;350000
+2012;14113;380;;;De ejercicios cerrados;800000
+2012;15102;380;;;De ejercicios cerrados;551000
+2012;15106;380;;;De ejercicios cerrados;1529620
+2012;15202;380;;;De ejercicios cerrados;140000
+2012;15302;380;;;De ejercicios cerrados;371880
+2012;16101;380;;;De ejercicios cerrados;6010
+2012;17238;380;;;De ejercicios cerrados;10000
+2012;18105;380;;;De ejercicios cerrados;15000
+2012;18106;380;;;De ejercicios cerrados;400000
+2012;18301;380;;;De ejercicios cerrados;4000
+2012;19101;380;;;De ejercicios cerrados;365154930
+2012;19102;380;;;De ejercicios cerrados;122610
+2012;19104;380;;;De ejercicios cerrados;300000
+2012;19301;380;;;De ejercicios cerrados;15000
+2012;20207;380;;;De ejercicios cerrados;4000
+2012;20208;380;;;De ejercicios cerrados;1200000
+2012;23101;380;;;De ejercicios cerrados;9130
+2012;23207;380;;;De ejercicios cerrados;3120
+2012;23211;380;;;De ejercicios cerrados;100000
+2012;23225;380;;;De ejercicios cerrados;15000
+2012;23226;380;;;De ejercicios cerrados;5000
+2012;23228;380;;;De ejercicios cerrados;817450
+2012;23229;380;;;De ejercicios cerrados;1660
+2012;23232;380;;;De ejercicios cerrados;9270
+2012;23236;380;;;De ejercicios cerrados;3000
+2012;25401;380;;;De ejercicios cerrados;7500
+2012;26106;380;;;De ejercicios cerrados;20000
+2012;26107;380;;;De ejercicios cerrados;350000
+2012;26201;380;;;De ejercicios cerrados;362050
+2012;27202;380;;;De ejercicios cerrados;20000
+2012;27203;380;;;De ejercicios cerrados;35000
+2012;27204;380;;;De ejercicios cerrados;10000
+2012;27401;380;;;De ejercicios cerrados;350000
+2012;60001;380;;;De ejercicios cerrados;72698670
+2012;98001;380;;;De ejercicios cerrados;285000000
+2012;60001;381;;;Del presupuesto corriente;38190760
+2012;98001;381;;;Del presupuesto corriente;60000000
+2012;12401;39;;;Otros ingresos;30000
+2012;13301;39;;;Otros ingresos;9000000
+2012;14104;39;;;Otros ingresos;41000
+2012;14107;39;;;Otros ingresos;1270000
+2012;14113;39;;;Otros ingresos;209000
+2012;14204;39;;;Otros ingresos;3000
+2012;15102;39;;;Otros ingresos;20000
+2012;15104;39;;;Otros ingresos;4500000
+2012;15106;39;;;Otros ingresos;30020
+2012;15202;39;;;Otros ingresos;6000
+2012;15302;39;;;Otros ingresos;3585860
+2012;16101;39;;;Otros ingresos;409373550
+2012;17238;39;;;Otros ingresos;400000
+2012;17401;39;;;Otros ingresos;4000000
+2012;18103;39;;;Otros ingresos;8000
+2012;18104;39;;;Otros ingresos;10000
+2012;18106;39;;;Otros ingresos;183500
+2012;18201;39;;;Otros ingresos;48000
+2012;18301;39;;;Otros ingresos;51000
+2012;18302;39;;;Otros ingresos;60000
+2012;19101;39;;;Otros ingresos;3200000
+2012;19102;39;;;Otros ingresos;22343890
+2012;19104;39;;;Otros ingresos;125000
+2012;19301;39;;;Otros ingresos;5000
+2012;20208;39;;;Otros ingresos;150000
+2012;20302;39;;;Otros ingresos;145770
+2012;23101;39;;;Otros ingresos;355630
+2012;23207;39;;;Otros ingresos;6010
+2012;23211;39;;;Otros ingresos;8100000
+2012;23225;39;;;Otros ingresos;2290000
+2012;23226;39;;;Otros ingresos;2375000
+2012;23228;39;;;Otros ingresos;5361810
+2012;23229;39;;;Otros ingresos;3396000
+2012;23230;39;;;Otros ingresos;3684000
+2012;23231;39;;;Otros ingresos;2502300
+2012;23232;39;;;Otros ingresos;2293810
+2012;23233;39;;;Otros ingresos;3164900
+2012;23234;39;;;Otros ingresos;6830000
+2012;23236;39;;;Otros ingresos;332000
+2012;25103;39;;;Otros ingresos;210000
+2012;25401;39;;;Otros ingresos;12000
+2012;26107;39;;;Otros ingresos;15000
+2012;26108;39;;;Otros ingresos;87660
+2012;26201;39;;;Otros ingresos;25320
+2012;27101;39;;;Otros ingresos;6641460
+2012;27202;39;;;Otros ingresos;90000
+2012;27203;39;;;Otros ingresos;9000
+2012;27204;39;;;Otros ingresos;100000
+2012;27205;39;;;Otros ingresos;24000
+2012;27206;39;;;Otros ingresos;5820
+2012;27401;39;;;Otros ingresos;550000
+2012;60001;39;;;Otros ingresos;1485516630
+2012;98001;39;;;Otros ingresos;2550450000
+2012;13301;391;;;Recargos y multas;9000000
+2012;14107;391;;;Recargos y multas;270000
+2012;14113;391;;;Recargos y multas;34000
+2012;15102;391;;;Recargos y multas;1000
+2012;15104;391;;;Recargos y multas;4500000
+2012;16101;391;;;Recargos y multas;409373550
+2012;17401;391;;;Recargos y multas;4000000
+2012;18106;391;;;Recargos y multas;3500
+2012;19101;391;;;Recargos y multas;3000000
+2012;20208;391;;;Recargos y multas;30000
+2012;20302;391;;;Recargos y multas;130000
+2012;23101;391;;;Recargos y multas;38340
+2012;23211;391;;;Recargos y multas;5600000
+2012;23225;391;;;Recargos y multas;2290000
+2012;23226;391;;;Recargos y multas;700000
+2012;23228;391;;;Recargos y multas;5361810
+2012;23229;391;;;Recargos y multas;1056000
+2012;23230;391;;;Recargos y multas;2950000
+2012;23231;391;;;Recargos y multas;2502300
+2012;23232;391;;;Recargos y multas;2266000
+2012;23233;391;;;Recargos y multas;3160000
+2012;23234;391;;;Recargos y multas;6680000
+2012;23236;391;;;Recargos y multas;300000
+2012;26107;391;;;Recargos y multas;15000
+2012;26201;391;;;Recargos y multas;16320
+2012;27101;391;;;Recargos y multas;2704660
+2012;27202;391;;;Recargos y multas;90000
+2012;60001;391;;;Recargos y multas;1402119110
+2012;98001;391;;;Recargos y multas;1240000000
+2012;20302;391;;00;Recargo del periodo ejecutivo;86000
+2012;98001;391;;00;Recargo del periodo ejecutivo;520000000
+2012;14107;391;;01;Intereses de demora;20000
+2012;14113;391;;01;Intereses de demora;12000
+2012;15102;391;;01;Intereses de demora;1000
+2012;18106;391;;01;Intereses de demora;3500
+2012;19101;391;;01;Intereses de demora;3000000
+2012;20208;391;;01;Intereses de demora;30000
+2012;20302;391;;01;Intereses de demora;22000
+2012;23101;391;;01;Intereses de demora;35240
+2012;23211;391;;01;Intereses de demora;5000000
+2012;23225;391;;01;Intereses de demora;60000
+2012;23226;391;;01;Intereses de demora;100000
+2012;23228;391;;01;Intereses de demora;361810
+2012;23229;391;;01;Intereses de demora;56000
+2012;23230;391;;01;Intereses de demora;150000
+2012;23232;391;;01;Intereses de demora;412000
+2012;23233;391;;01;Intereses de demora;340000
+2012;23234;391;;01;Intereses de demora;280000
+2012;23236;391;;01;Intereses de demora;300000
+2012;26107;391;;01;Intereses de demora;15000
+2012;26201;391;;01;Intereses de demora;16320
+2012;27202;391;;01;Intereses de demora;90000
+2012;98001;391;;01;Intereses de demora;453000000
+2012;13301;391;;02;Multas y sanciones;9000000
+2012;14113;391;;02;Multas y sanciones;10000
+2012;15104;391;;02;Multas y sanciones;4500000
+2012;16101;391;;02;Multas y sanciones;409373550
+2012;17401;391;;02;Multas y sanciones;4000000
+2012;20302;391;;02;Multas y sanciones;10000
+2012;23101;391;;02;Multas y sanciones;3100
+2012;23211;391;;02;Multas y sanciones;600000
+2012;23225;391;;02;Multas y sanciones;2200000
+2012;23226;391;;02;Multas y sanciones;600000
+2012;23228;391;;02;Multas y sanciones;5000000
+2012;23229;391;;02;Multas y sanciones;1000000
+2012;23230;391;;02;Multas y sanciones;2800000
+2012;23232;391;;02;Multas y sanciones;1854000
+2012;23233;391;;02;Multas y sanciones;2820000
+2012;23234;391;;02;Multas y sanciones;6400000
+2012;27101;391;;02;Multas y sanciones;2704660
+2012;98001;391;;02;Multas y sanciones;267000000
+2012;20302;391;;03;Recargo sobre autoliquidaciones;12000
+2012;14107;391;;99;Otros;250000
+2012;14113;391;;99;Otros;12000
+2012;23225;391;;99;Otros;30000
+2012;98001;392;;;Diferencias de cambio;220450000
+2012;98001;393;;;Diferencias entre los valores de reembolso y emisión;800000000
+2012;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);21669520
+2012;15302;395;;;Rappels por compras;3050000
+2012;15302;398;;;Ingresos extraordinarios;60120
+2012;60001;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;72185000
+2012;12401;399;;;Ingresos diversos;30000
+2012;14104;399;;;Ingresos diversos;41000
+2012;14107;399;;;Ingresos diversos;1000000
+2012;14113;399;;;Ingresos diversos;175000
+2012;14204;399;;;Ingresos diversos;3000
+2012;15102;399;;;Ingresos diversos;19000
+2012;15106;399;;;Ingresos diversos;30020
+2012;15202;399;;;Ingresos diversos;6000
+2012;15302;399;;;Ingresos diversos;475740
+2012;17238;399;;;Ingresos diversos;400000
+2012;18103;399;;;Ingresos diversos;8000
+2012;18104;399;;;Ingresos diversos;10000
+2012;18106;399;;;Ingresos diversos;180000
+2012;18201;399;;;Ingresos diversos;48000
+2012;18301;399;;;Ingresos diversos;51000
+2012;18302;399;;;Ingresos diversos;60000
+2012;19101;399;;;Ingresos diversos;200000
+2012;19102;399;;;Ingresos diversos;674370
+2012;19104;399;;;Ingresos diversos;125000
+2012;19301;399;;;Ingresos diversos;5000
+2012;20208;399;;;Ingresos diversos;120000
+2012;20302;399;;;Ingresos diversos;15770
+2012;23101;399;;;Ingresos diversos;317290
+2012;23207;399;;;Ingresos diversos;6010
+2012;23211;399;;;Ingresos diversos;2500000
+2012;23226;399;;;Ingresos diversos;1675000
+2012;23229;399;;;Ingresos diversos;2340000
+2012;23230;399;;;Ingresos diversos;734000
+2012;23232;399;;;Ingresos diversos;27810
+2012;23233;399;;;Ingresos diversos;4900
+2012;23234;399;;;Ingresos diversos;150000
+2012;23236;399;;;Ingresos diversos;32000
+2012;25103;399;;;Ingresos diversos;210000
+2012;25401;399;;;Ingresos diversos;12000
+2012;26108;399;;;Ingresos diversos;87660
+2012;26201;399;;;Ingresos diversos;9000
+2012;27101;399;;;Ingresos diversos;3936800
+2012;27203;399;;;Ingresos diversos;9000
+2012;27204;399;;;Ingresos diversos;100000
+2012;27205;399;;;Ingresos diversos;24000
+2012;27206;399;;;Ingresos diversos;5820
+2012;27401;399;;;Ingresos diversos;550000
+2012;60001;399;;;Ingresos diversos;11212520
+2012;98001;399;;;Ingresos diversos;290000000
+2012;98001;399;;00;Compensaciones de servicios prestados por funcionarios públicos;15000000
+2012;14104;399;;01;Recursos eventuales;25000
+2012;15106;399;;01;Recursos eventuales;30020
+2012;20302;399;;01;Recursos eventuales;2000
+2012;23101;399;;01;Recursos eventuales;317290
+2012;23211;399;;01;Recursos eventuales;2500000
+2012;23226;399;;01;Recursos eventuales;150000
+2012;23230;399;;01;Recursos eventuales;730000
+2012;98001;399;;01;Recursos eventuales;210000000
+2012;15302;399;;04;Sanciones indemnizatorias;235530
+2012;23207;399;;04;Ingresos por estudios, informes, análisis y trabajos análogos.;6010
+2012;27101;399;;05;Convenios estadísticos;3833740
+2012;12401;399;;99;Otros ingresos diversos;30000
+2012;14104;399;;99;Otros ingresos diversos;16000
+2012;14107;399;;99;Otros ingresos diversos;1000000
+2012;14113;399;;99;Otros ingresos diversos;175000
+2012;14204;399;;99;Otros ingresos diversos;3000
+2012;15102;399;;99;Otros ingresos diversos;19000
+2012;15202;399;;99;Otros ingresos diversos;6000
+2012;15302;399;;99;Otros ingresos diversos;240210
+2012;18104;399;;99;Otros ingresos diversos;10000
+2012;18106;399;;99;Otros ingresos diversos;180000
+2012;18201;399;;99;Otros ingresos diversos;48000
+2012;18302;399;;99;Otros ingresos diversos;60000
+2012;19101;399;;99;Otros ingresos diversos;200000
+2012;19102;399;;99;Otros ingresos diversos;674370
+2012;19104;399;;99;Otros ingresos diversos;125000
+2012;19301;399;;99;Otros ingresos diversos;5000
+2012;20208;399;;99;Otros ingresos diversos;120000
+2012;20302;399;;99;Otros ingresos diversos;13770
+2012;23226;399;;99;Otros ingresos diversos;1525000
+2012;23229;399;;99;Otros ingresos diversos;2340000
+2012;23230;399;;99;Otros ingresos diversos;4000
+2012;23232;399;;99;Otros ingresos diversos;27810
+2012;23233;399;;99;Otros ingresos diversos;4900
+2012;23234;399;;99;Otros ingresos diversos;150000
+2012;23236;399;;99;Otros ingresos diversos;32000
+2012;25103;399;;99;Otros ingresos diversos;210000
+2012;25401;399;;99;Otros ingresos diversos;12000
+2012;26108;399;;99;Otros ingresos diversos;87660
+2012;26201;399;;99;Otros ingresos diversos;9000
+2012;27101;399;;99;Otros ingresos diversos;103060
+2012;27203;399;;99;Otros ingresos diversos;9000
+2012;27204;399;;99;Otros ingresos diversos;100000
+2012;27401;399;;99;Otros ingresos diversos;550000
+2012;98001;399;;99;Otros ingresos diversos;65000000
+2012;12301;4;;;TRANSFERENCIAS CORRIENTES;77788310
+2012;12401;4;;;TRANSFERENCIAS CORRIENTES;201010080
+2012;13101;4;;;TRANSFERENCIAS CORRIENTES;9698030
+2012;13102;4;;;TRANSFERENCIAS CORRIENTES;4975600
+2012;13301;4;;;TRANSFERENCIAS CORRIENTES;20000
+2012;14104;4;;;TRANSFERENCIAS CORRIENTES;12538020
+2012;14111;4;;;TRANSFERENCIAS CORRIENTES;2708280
+2012;14113;4;;;TRANSFERENCIAS CORRIENTES;24225000
+2012;14205;4;;;TRANSFERENCIAS CORRIENTES;18807540
+2012;15101;4;;;TRANSFERENCIAS CORRIENTES;13122710
+2012;15102;4;;;TRANSFERENCIAS CORRIENTES;72684100
+2012;15106;4;;;TRANSFERENCIAS CORRIENTES;87374540
+2012;15202;4;;;TRANSFERENCIAS CORRIENTES;40986140
+2012;15302;4;;;TRANSFERENCIAS CORRIENTES;961069710
+2012;15401;4;;;TRANSFERENCIAS CORRIENTES;4191460
+2012;16101;4;;;TRANSFERENCIAS CORRIENTES;327850
+2012;16102;4;;;TRANSFERENCIAS CORRIENTES;1969700
+2012;16201;4;;;TRANSFERENCIAS CORRIENTES;18397920
+2012;17238;4;;;TRANSFERENCIAS CORRIENTES;1800000
+2012;17239;4;;;TRANSFERENCIAS CORRIENTES;2240000
+2012;18101;4;;;TRANSFERENCIAS CORRIENTES;8758590
+2012;18102;4;;;TRANSFERENCIAS CORRIENTES;5400490
+2012;18103;4;;;TRANSFERENCIAS CORRIENTES;60206070
+2012;18104;4;;;TRANSFERENCIAS CORRIENTES;22446130
+2012;18105;4;;;TRANSFERENCIAS CORRIENTES;7615130
+2012;18106;4;;;TRANSFERENCIAS CORRIENTES;143980540
+2012;18201;4;;;TRANSFERENCIAS CORRIENTES;143328600
+2012;18301;4;;;TRANSFERENCIAS CORRIENTES;17316000
+2012;18302;4;;;TRANSFERENCIAS CORRIENTES;27548150
+2012;18401;4;;;TRANSFERENCIAS CORRIENTES;4752140
+2012;19101;4;;;TRANSFERENCIAS CORRIENTES;13938883970
+2012;19104;4;;;TRANSFERENCIAS CORRIENTES;22923670
+2012;19301;4;;;TRANSFERENCIAS CORRIENTES;8081180
+2012;20101;4;;;TRANSFERENCIAS CORRIENTES;302900000
+2012;20207;4;;;TRANSFERENCIAS CORRIENTES;2326460
+2012;20208;4;;;TRANSFERENCIAS CORRIENTES;32251570
+2012;20302;4;;;TRANSFERENCIAS CORRIENTES;400000
+2012;23101;4;;;TRANSFERENCIAS CORRIENTES;6268680
+2012;23112;4;;;TRANSFERENCIAS CORRIENTES;66540
+2012;23207;4;;;TRANSFERENCIAS CORRIENTES;251643150
+2012;23211;4;;;TRANSFERENCIAS CORRIENTES;6010592560
+2012;23225;4;;;TRANSFERENCIAS CORRIENTES;6110350
+2012;23226;4;;;TRANSFERENCIAS CORRIENTES;8307890
+2012;23228;4;;;TRANSFERENCIAS CORRIENTES;3539500
+2012;23229;4;;;TRANSFERENCIAS CORRIENTES;5590620
+2012;23230;4;;;TRANSFERENCIAS CORRIENTES;7333560
+2012;23231;4;;;TRANSFERENCIAS CORRIENTES;1028490
+2012;23232;4;;;TRANSFERENCIAS CORRIENTES;5327350
+2012;23233;4;;;TRANSFERENCIAS CORRIENTES;1550770
+2012;23234;4;;;TRANSFERENCIAS CORRIENTES;9161480
+2012;23401;4;;;TRANSFERENCIAS CORRIENTES;48669400
+2012;25101;4;;;TRANSFERENCIAS CORRIENTES;3901820
+2012;25102;4;;;TRANSFERENCIAS CORRIENTES;5944130
+2012;25103;4;;;TRANSFERENCIAS CORRIENTES;66427450
+2012;25301;4;;;TRANSFERENCIAS CORRIENTES;205462630
+2012;26102;4;;;TRANSFERENCIAS CORRIENTES;17927920
+2012;26104;4;;;TRANSFERENCIAS CORRIENTES;14874500
+2012;26105;4;;;TRANSFERENCIAS CORRIENTES;3699550
+2012;26106;4;;;TRANSFERENCIAS CORRIENTES;1904640
+2012;26107;4;;;TRANSFERENCIAS CORRIENTES;8975330
+2012;26108;4;;;TRANSFERENCIAS CORRIENTES;1631360
+2012;26201;4;;;TRANSFERENCIAS CORRIENTES;23660630
+2012;26401;4;;;TRANSFERENCIAS CORRIENTES;8800
+2012;27101;4;;;TRANSFERENCIAS CORRIENTES;126181740
+2012;27201;4;;;TRANSFERENCIAS CORRIENTES;39692860
+2012;27202;4;;;TRANSFERENCIAS CORRIENTES;30376610
+2012;27203;4;;;TRANSFERENCIAS CORRIENTES;23819610
+2012;27204;4;;;TRANSFERENCIAS CORRIENTES;18333280
+2012;27205;4;;;TRANSFERENCIAS CORRIENTES;145602650
+2012;27206;4;;;TRANSFERENCIAS CORRIENTES;9757260
+2012;27301;4;;;TRANSFERENCIAS CORRIENTES;11122450
+2012;27401;4;;;TRANSFERENCIAS CORRIENTES;322423270
+2012;60001;4;;;TRANSFERENCIAS CORRIENTES;13020142790
+2012;98001;4;;;TRANSFERENCIAS CORRIENTES;32130953910
+2012;12301;40;;;De la Administración del Estado;76288310
+2012;12401;40;;;De la Administración del Estado;198010080
+2012;13101;40;;;De la Administración del Estado;9698030
+2012;13102;40;;;De la Administración del Estado;4975600
+2012;14104;40;;;De la Administración del Estado;11888020
+2012;14111;40;;;De la Administración del Estado;2708280
+2012;14113;40;;;De la Administración del Estado;24225000
+2012;14205;40;;;De la Administración del Estado;18170040
+2012;15101;40;;;De la Administración del Estado;13122710
+2012;15102;40;;;De la Administración del Estado;11990910
+2012;15106;40;;;De la Administración del Estado;87374540
+2012;15202;40;;;De la Administración del Estado;40986140
+2012;15302;40;;;De la Administración del Estado;960383810
+2012;15401;40;;;De la Administración del Estado;4191460
+2012;16101;40;;;De la Administración del Estado;111370
+2012;16102;40;;;De la Administración del Estado;1969700
+2012;16201;40;;;De la Administración del Estado;13696910
+2012;17238;40;;;De la Administración del Estado;1800000
+2012;17239;40;;;De la Administración del Estado;1890000
+2012;18101;40;;;De la Administración del Estado;3041460
+2012;18102;40;;;De la Administración del Estado;2400490
+2012;18103;40;;;De la Administración del Estado;60056250
+2012;18104;40;;;De la Administración del Estado;22446130
+2012;18105;40;;;De la Administración del Estado;7615130
+2012;18106;40;;;De la Administración del Estado;143980540
+2012;18201;40;;;De la Administración del Estado;143150730
+2012;18301;40;;;De la Administración del Estado;11510000
+2012;18302;40;;;De la Administración del Estado;26603150
+2012;19101;40;;;De la Administración del Estado;13287675270
+2012;19104;40;;;De la Administración del Estado;22668670
+2012;19301;40;;;De la Administración del Estado;7581180
+2012;20101;40;;;De la Administración del Estado;302900000
+2012;20207;40;;;De la Administración del Estado;2326460
+2012;20208;40;;;De la Administración del Estado;32251570
+2012;20302;40;;;De la Administración del Estado;400000
+2012;23101;40;;;De la Administración del Estado;6268680
+2012;23112;40;;;De la Administración del Estado;66540
+2012;23207;40;;;De la Administración del Estado;251643150
+2012;23211;40;;;De la Administración del Estado;16474560
+2012;23225;40;;;De la Administración del Estado;6092350
+2012;23226;40;;;De la Administración del Estado;8307890
+2012;23228;40;;;De la Administración del Estado;3539500
+2012;23229;40;;;De la Administración del Estado;5590620
+2012;23230;40;;;De la Administración del Estado;7333560
+2012;23231;40;;;De la Administración del Estado;1028490
+2012;23232;40;;;De la Administración del Estado;5327350
+2012;23233;40;;;De la Administración del Estado;1550770
+2012;23234;40;;;De la Administración del Estado;6369240
+2012;23401;40;;;De la Administración del Estado;48069400
+2012;25101;40;;;De la Administración del Estado;3871820
+2012;25102;40;;;De la Administración del Estado;5944130
+2012;25103;40;;;De la Administración del Estado;62427450
+2012;25301;40;;;De la Administración del Estado;205462630
+2012;26102;40;;;De la Administración del Estado;17927920
+2012;26104;40;;;De la Administración del Estado;14874500
+2012;26105;40;;;De la Administración del Estado;3699550
+2012;26106;40;;;De la Administración del Estado;1904640
+2012;26107;40;;;De la Administración del Estado;6414970
+2012;26108;40;;;De la Administración del Estado;1631360
+2012;26201;40;;;De la Administración del Estado;13543440
+2012;26401;40;;;De la Administración del Estado;8800
+2012;27101;40;;;De la Administración del Estado;126181740
+2012;27201;40;;;De la Administración del Estado;39692860
+2012;27202;40;;;De la Administración del Estado;30376610
+2012;27203;40;;;De la Administración del Estado;23819610
+2012;27204;40;;;De la Administración del Estado;18333280
+2012;27205;40;;;De la Administración del Estado;99195200
+2012;27206;40;;;De la Administración del Estado;7136580
+2012;27301;40;;;De la Administración del Estado;11122450
+2012;27401;40;;;De la Administración del Estado;322141180
+2012;60001;40;;;De la Administración del Estado;8868133600
+2012;12301;400;;;Del departamento al que está adscrito;76288310
+2012;13101;400;;;Del departamento al que está adscrito;9698030
+2012;14104;400;;;Del departamento al que está adscrito;11888020
+2012;14111;400;;;Del departamento al que está adscrito;2708280
+2012;14205;400;;;Del departamento al que está adscrito;18170040
+2012;15101;400;;;Del departamento al que está adscrito;13122710
+2012;15102;400;;;Del departamento al que está adscrito;11990910
+2012;15302;400;;;Del departamento al que está adscrito;960276210
+2012;15401;400;;;Del departamento al que está adscrito;4191460
+2012;16102;400;;;Del departamento al que está adscrito;1969700
+2012;16201;400;;;Del departamento al que está adscrito;13696910
+2012;17238;400;;;Del departamento al que está adscrito;1800000
+2012;17239;400;;;Del departamento al que está adscrito;1890000
+2012;18101;400;;;Del departamento al que está adscrito;3041460
+2012;18102;400;;;Del departamento al que está adscrito;2400490
+2012;18103;400;;;Del departamento al que está adscrito;60056250
+2012;18104;400;;;Del departamento al que está adscrito;22446130
+2012;18106;400;;;Del departamento al que está adscrito;143980540
+2012;18201;400;;;Del departamento al que está adscrito;143150730
+2012;18301;400;;;Del departamento al que está adscrito;11510000
+2012;18302;400;;;Del departamento al que está adscrito;26603150
+2012;19101;400;;;Del departamento al que está adscrito;13287675270
+2012;19104;400;;;Del departamento al que está adscrito;22668670
+2012;19301;400;;;Del departamento al que está adscrito;7581180
+2012;20101;400;;;Del departamento al que está adscrito;302900000
+2012;20207;400;;;Del departamento al que está adscrito;2326460
+2012;20208;400;;;Del departamento al que está adscrito;32251570
+2012;20302;400;;;Del departamento al que está adscrito;400000
+2012;23101;400;;;Del departamento al que está adscrito;6268680
+2012;23112;400;;;Del departamento al que está adscrito;66540
+2012;23207;400;;;Del departamento al que está adscrito;251643150
+2012;23211;400;;;Del departamento al que está adscrito;16474560
+2012;23225;400;;;Del departamento al que está adscrito;6092350
+2012;23226;400;;;Del departamento al que está adscrito;8307890
+2012;23228;400;;;Del departamento al que está adscrito;3539500
+2012;23229;400;;;Del departamento al que está adscrito;5590620
+2012;23230;400;;;Del departamento al que está adscrito;7333560
+2012;23231;400;;;Del departamento al que está adscrito;1028490
+2012;23232;400;;;Del departamento al que está adscrito;5327350
+2012;23233;400;;;Del departamento al que está adscrito;1550770
+2012;23234;400;;;Del departamento al que está adscrito;6369240
+2012;23401;400;;;Del departamento al que está adscrito;48069400
+2012;25101;400;;;Del departamento al que está adscrito;3871820
+2012;25102;400;;;Del departamento al que está adscrito;5867130
+2012;25103;400;;;Del departamento al que está adscrito;62427450
+2012;25301;400;;;Del departamento al que está adscrito;205462630
+2012;26102;400;;;Del departamento al que está adscrito;17927920
+2012;26104;400;;;Del departamento al que está adscrito;14874500
+2012;26105;400;;;Del departamento al que está adscrito;3699550
+2012;26106;400;;;Del departamento al que está adscrito;1904640
+2012;26107;400;;;Del departamento al que está adscrito;6414970
+2012;26108;400;;;Del departamento al que está adscrito;1631360
+2012;26201;400;;;Del departamento al que está adscrito;13543440
+2012;26401;400;;;Del departamento al que está adscrito;8800
+2012;27101;400;;;Del departamento al que está adscrito;126181740
+2012;27201;400;;;Del departamento al que está adscrito;39592860
+2012;27202;400;;;Del departamento al que está adscrito;30376610
+2012;27203;400;;;Del departamento al que está adscrito;23819610
+2012;27204;400;;;Del departamento al que está adscrito;18333280
+2012;27205;400;;;Del departamento al que está adscrito;99195200
+2012;27206;400;;;Del departamento al que está adscrito;7136580
+2012;27301;400;;;Del departamento al que está adscrito;11122450
+2012;27401;400;;;Del departamento al que está adscrito;322141180
+2012;60001;400;;;Del departamento al que está adscrito;7115969170
+2012;15302;400;;00;Para gastos de funcionamiento;889574030
+2012;18101;400;;00;Para gastos de funcionamiento.;2929460
+2012;18103;400;;00;Del Ministerio de Cultura. Subvención de Funcionamiento.;11056250
+2012;18106;400;;00;Del Departamento al que está adscrito. Para gastos de funcionamiento;80729010
+2012;20208;400;;00;Del departamento al que está adscrito;31618790
+2012;23112;400;;00;Para gastos de funcionamiento.;66540
+2012;23211;400;;00;Para gastos de funcionamiento.;16474560
+2012;23225;400;;00;Para el desarrollo de sus actividades;3841750
+2012;23226;400;;00;Para el desarrollo de sus actividades;4380970
+2012;23228;400;;00;Para el desarrollo de sus actividades;2539500
+2012;23229;400;;00;Para el desarrollo de sus actividades;1334840
+2012;23230;400;;00;Para el desarrollo de sus actividades;5318560
+2012;23231;400;;00;Para el desarrollo de sus actividades;872580
+2012;23232;400;;00;Para el desarrollo de sus actividades;4843260
+2012;23233;400;;00;Para el desarrollo de sus actividades;1514050
+2012;23234;400;;00;Para el desarrollo de sus actividades;3545700
+2012;26102;400;;00;Para atenciones generales;12811300
+2012;27201;400;;00;Subvención ordinaria;39592860
+2012;27202;400;;00;Subvención al Organismo;30376610
+2012;27204;400;;00;Para gastos de funcionamiento;18202520
+2012;27205;400;;00;Para atenciones generales.;99195200
+2012;27206;400;;00;Subvención ordinaria para funcionamiento;7136580
+2012;27401;400;;00;Del departamento al que está adscrito;313951960
+2012;14111;400;;01;Para atender obligaciones de personal;2708280
+2012;14205;400;;01;Para atenciones de Personal previstas en el R.D. de  creación del Patronato del INTA;18170040
+2012;18103;400;;01;Del Ministerio de Cultura. Fondo de Protección a la Cinematografía.;49000000
+2012;18106;400;;01;Del Departamento al que está adscrito. Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;63251530
+2012;19101;400;;01;Para compensar el gasto incurrido de bonificaciones en las cotizaciones de seguridad social del personal investigador (art. 12 del RD 278 / 2007, de 23 de febrero);100000
+2012;20208;400;;01;Por compensación gastos de edificios por la Secretaría de Estado de Turismo;632780
+2012;23225;400;;01;Para el pago de IBI de bienes de titularidad estatal;2250600
+2012;23226;400;;01;Para el pago de IBI de bienes de titularidad estatal;3926920
+2012;23228;400;;01;Para el pago de IBI de bienes de titularidad estatal;1000000
+2012;23229;400;;01;Para el pago de IBI de bienes de titularidad estatal;4255780
+2012;23230;400;;01;Para el pago de IBI de bienes de titularidad estatal;2015000
+2012;23231;400;;01;Para el pago de IBI de bienes de titularidad estatal;155910
+2012;23232;400;;01;Para el pago de IBI de bienes de titularidad estatal;484090
+2012;23233;400;;01;Para el pago de IBI de bienes de titularidad estatal;36720
+2012;23234;400;;01;Para el pago de IBI de bienes de titularidad estatal;2823540
+2012;26102;400;;01;Para compensar al I.C.O. los gastos derivados de los costes del margen de intermediación de las entidades de crédito y el quebranto en la cesión de fondos, derivados de la línea de mediación de anticipos a cuenta a los afectados de FORUM FILATÉLICO- AFINSA;5116620
+2012;27204;400;;01;Para los gastos de la participación española en el Comité Polar;130760
+2012;15302;400;;02;Por compensación gastos de otros servicios;2931450
+2012;18101;400;;02;Para Aula de Verano;112000
+2012;19101;400;;02;Para financiar el presupuesto del Servicio Público de Empleo Estatal;13287575270
+2012;27401;400;;02;Para el funcionamiento operativo de instrumentos, líneas e instalaciones científicas;1034270
+2012;15302;400;;03;Por premio de cobranza recursos propios de la Unión Europea;67770730
+2012;27401;400;;05;Para buque y base antártica;7154950
+2012;14104;400;;07;Para gastos de funcionamiento;11888020
+2012;13102;401;;;De otros departamentos ministeriales;4975600
+2012;14113;401;;;De otros departamentos ministeriales;24225000
+2012;15106;401;;;De otros departamentos ministeriales;87374540
+2012;15202;401;;;De otros departamentos ministeriales;40986140
+2012;15302;401;;;De otros departamentos ministeriales;107600
+2012;16101;401;;;De otros departamentos ministeriales;111370
+2012;25102;401;;;De otros departamentos ministeriales;77000
+2012;27201;401;;;De otros departamentos ministeriales;100000
+2012;60001;401;;;De otros departamentos ministeriales;1752164430
+2012;15302;401;;00;Del Ministerio del Interior por los gastos comunes del edificio de la calle del Plomo, de Madrid;107600
+2012;18105;402;;;Del Departamento al que está adscrito.;7615130
+2012;12401;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;171679110
+2012;12401;405;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2. del Real Decreto 825/1988, de  15 de julio);26330970
+2012;12401;41;;;De organismos autónomos;3000000
+2012;15102;41;;;De organismos autónomos;60693190
+2012;16101;41;;;De organismos autónomos;216480
+2012;16201;41;;;De organismos autónomos;4701010
+2012;18103;41;;;De organismos autónomos;149820
+2012;18201;41;;;De organismos autónomos;105870
+2012;18401;41;;;De organismos autónomos;4752140
+2012;23234;41;;;De organismos autónomos;2792240
+2012;25103;41;;;De organismos autónomos;4000000
+2012;27401;41;;;De organismos autónomos;282090
+2012;98001;41;;;De organismos autónomos;222747090
+2012;15102;410;;;Transferencias corrientes de organismos autónomos;60693190
+2012;18103;410;;;Transferencias corrientes de organismos autónomos;149820
+2012;18201;410;;;Transferencias corrientes de organismos autónomos;105870
+2012;18401;410;;;Transferencias corrientes de organismos autónomos;4752140
+2012;23234;410;;;Transferencias corrientes de organismos autónomos;2792240
+2012;27401;410;;;Transferencias corrientes de organismos autónomos;282090
+2012;98001;410;;;Transferencias corrientes de organismos autónomos;222747090
+2012;15102;410;;01;Del Servicio Público de Empleo Estatal para Formación para el Empleo;60693190
+2012;18103;410;;01;Del Servicio Público de Empleo (SPEE);149820
+2012;18201;410;;01;Servicio Público de Empleo Estatal (SPEE);105870
+2012;98001;410;;01;Jefatura de Tráfico;135791370
+2012;98001;410;;02;Servicio Público de Empleo Estatal;66361020
+2012;27401;410;;99;Otros;282090
+2012;98001;410;;99;Otros;20594700
+2012;16101;411;;;Del Servicio Público de Empleo Estatal;216480
+2012;16201;411;;;Del Servicio Público de Empleo Estatal;4701010
+2012;25103;411;;;Del Servicio Público de Empleo Estatal;4000000
+2012;16201;411;;01;Para cursos de Formación Profesional y Ocupacional;4643960
+2012;25103;411;;01;Para ayudas salariales a Escuelas Taller;1960640
+2012;16101;411;;02;Para gastos en políticas activas de empleo;216480
+2012;16201;411;;02;Para gastos en políticas activas de empleo;57050
+2012;25103;411;;02;Para subvenciones a Escuelas Taller;2039360
+2012;12401;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior;3000000
+2012;19101;42;;;De la Seguridad Social;1208700
+2012;60001;42;;;De la Seguridad Social;4090349190
+2012;98001;42;;;De la Seguridad Social;142576820
+2012;98001;420;;;Transferencias corrientes de la Seguridad Social;142576820
+2012;19101;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad;1208700
+2012;60001;421;;;Aportaciones para sosteni. SS.CC.;891634400
+2012;60001;422;;;Ingresos por servicios prestados entre Entidades del Sistema;2251824640
+2012;60001;423;;;Cuotas de reaseguro de Acctes. T.;878323320
+2012;60001;428;;;Aplicaciones del Fondo de Prevención y Rehabilitación;30306000
+2012;60001;429;;;Otras transferencias recibidas de entidades del sistema;38260830
+2012;14205;43;;;De agencias estatales y otros organismos públicos;637500
+2012;18101;43;;;De agencias estatales y otros organismos públicos;616640
+2012;98001;43;;;De agencias estatales y otros organismos públicos;30366000
+2012;14205;430;;;De agencias estatales;637500
+2012;18101;430;;;De agencias estatales;616640
+2012;98001;430;;;De agencias estatales;30366000
+2012;18101;430;;00;Del CSIC para el desarrollo de programas de postgrado.;616640
+2012;14205;430;;01;Del Consejo Superior de Investigaciones Científicas;637500
+2012;98001;430;;01;Agencia Estatal del B.O.E.;30366000
+2012;18101;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;116740
+2012;18201;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;12000
+2012;18301;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;40000
+2012;98001;44;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;18954000
+2012;18301;440;;;De sociedades mercantiles estatales;40000
+2012;18101;441;;;De entidades públicas empresariales;116740
+2012;98001;441;;;De entidades públicas empresariales;18954000
+2012;98001;441;;09;De otras entidades públicas empresariales;18954000
+2012;18201;449;;;Del resto del sector público;12000
+2012;18101;45;;;De Comunidades Autónomas;2029770
+2012;18201;45;;;De Comunidades Autónomas;60000
+2012;18301;45;;;De Comunidades Autónomas;450000
+2012;27206;45;;;De Comunidades Autónomas;2620680
+2012;60001;45;;;De Comunidades Autónomas;950000
+2012;98001;45;;;De Comunidades Autónomas;30615280000
+2012;98001;450;;;Contribuciones Concertadas;1177000000
+2012;98001;450;;00;Cupo del País Vasco;546000000
+2012;98001;450;;01;De Navarra;631000000
+2012;98001;451;;;Compensación de pagos Impuesto de Patrimonio;89600000
+2012;98001;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.;212500000
+2012;98001;456;;;Compensaciones financieras del País Vasco;43050000
+2012;98001;456;;00;Impuestos especiales sobre el alcohol y bebidas derivadas y productos intermedios;7400000
+2012;98001;456;;01;Impuesto especial sobre la Cerveza;2650000
+2012;98001;456;;02;Impuesto especial sobre Hidrocarburos;33000000
+2012;98001;458;;;Por Fondo de Suficiencia;29093130000
+2012;18101;459;;;Otras transferencias corrientes;2029770
+2012;18201;459;;;Otras transferencias corrientes;60000
+2012;18301;459;;;Otras transferencias corrientes;450000
+2012;27206;459;;;Otras transferencias corrientes;2620680
+2012;60001;459;;;Otras transferencias corrientes;950000
+2012;18101;46;;;De Entidades Locales;772390
+2012;98001;46;;;De Entidades Locales;1056030000
+2012;18101;460;;;De Ayuntamientos;772390
+2012;98001;460;;;De Ayuntamientos;1056030000
+2012;12301;47;;;De empresas privadas;1500000
+2012;18101;47;;;De empresas privadas;1241570
+2012;18301;47;;;De empresas privadas;1204200
+2012;25101;47;;;De empresas privadas;30000
+2012;27205;47;;;De empresas privadas;46407450
+2012;60001;47;;;De empresas privadas;36500000
+2012;25101;470;;;Provenientes de empresas de propiedad privada;30000
+2012;12301;470/12301;;;De empresas privadas;1500000
+2012;18301;470/18301;;;Ingresos de empresas privadas;1204200
+2012;60001;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;36500000
+2012;27205;472;;;De Empresas;46407450
+2012;18101;479;;;Otras transferencias corrientes.;1241570
+2012;18101;48;;;De familias e instituciones sin fines de lucro;903780
+2012;18301;48;;;De familias e instituciones sin fines de lucro;3088800
+2012;18302;48;;;De familias e instituciones sin fines de lucro;765000
+2012;18301;480;;;De familias e instituciones sin fines de lucro;3088800
+2012;18101;489;;;Otras transferencias corrientes.;903780
+2012;18302;489/18302;;;Otras transferencias corrientes;765000
+2012;13301;49;;;Del exterior;20000
+2012;14104;49;;;Del exterior;650000
+2012;15302;49;;;Del exterior;685900
+2012;17239;49;;;Del exterior;350000
+2012;18101;49;;;Del exterior;36240
+2012;18102;49;;;Del exterior;3000000
+2012;18301;49;;;Del exterior;1023000
+2012;18302;49;;;Del exterior;180000
+2012;19101;49;;;Del exterior;650000000
+2012;19104;49;;;Del exterior;255000
+2012;19301;49;;;Del exterior;500000
+2012;23211;49;;;Del exterior;5994118000
+2012;23225;49;;;Del exterior;18000
+2012;23401;49;;;Del exterior;600000
+2012;26107;49;;;Del exterior;2560360
+2012;26201;49;;;Del exterior;10117190
+2012;60001;49;;;Del exterior;24210000
+2012;98001;49;;;Del exterior;45000000
+2012;19101;490;;;Del Fondo Social Europeo;650000000
+2012;26107;490;;;Del Fondo Social Europeo;2500000
+2012;60001;490;;;Del Fondo Social Europeo;24210000
+2012;98001;490;;;Del Fondo Social Europeo;30000000
+2012;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;650000000
+2012;14104;491;;;Del FEOGA GARANTÍA;650000
+2012;23211;491/23211;;;Del FEAGA;5994118000
+2012;23225;491/23225;;;De la Unión Europea-PAC;18000
+2012;23211;491/23211;;01;Subvenciones a la producción agraria;5993868000
+2012;23211;491/23211;;02;Compensación de pérdidas;100000
+2012;23211;491/23211;;04;Gastos financieros;50000
+2012;23211;491/23211;;05;Gastos de intervención. Cereales y arroz;100000
+2012;13301;492;;;Otras transferencias de la Unión Europea;20000
+2012;15302;492;;;Otras transferencias de la Unión Europea;685900
+2012;17239;492;;;Otras transferencias de la Unión Europea;350000
+2012;18102;492;;;Otras transferencias de la Unión Europea;3000000
+2012;19104;492;;;Otras transferencias de la Unión Europea;255000
+2012;19301;492;;;Otras transferencias de la Unión Europea;500000
+2012;26107;492;;;Otras transferencias de la Unión Europea;60360
+2012;98001;492;;;Otras transferencias de la Unión Europea;5000000
+2012;23401;493;;;Aportaciones derivadas de convenios internacionales de cooperación;600000
+2012;26201;493;;;Aportaciones derivadas de convenios internacionales de cooperación;10117190
+2012;18101;499;;;Otras transferencias corrientes;36240
+2012;18301;499;;;Otras transferencias corrientes;1023000
+2012;18302;499;;;Otras transferencias corrientes;180000
+2012;98001;499;;;Otras transferencias corrientes;10000000
+2012;12301;5;;;INGRESOS PATRIMONIALES;5600000
+2012;13102;5;;;INGRESOS PATRIMONIALES;205000
+2012;13301;5;;;INGRESOS PATRIMONIALES;400000
+2012;14104;5;;;INGRESOS PATRIMONIALES;10000
+2012;14107;5;;;INGRESOS PATRIMONIALES;24620000
+2012;14113;5;;;INGRESOS PATRIMONIALES;550000
+2012;14204;5;;;INGRESOS PATRIMONIALES;12925000
+2012;14205;5;;;INGRESOS PATRIMONIALES;32364210
+2012;15102;5;;;INGRESOS PATRIMONIALES;51000
+2012;15106;5;;;INGRESOS PATRIMONIALES;2398660
+2012;15202;5;;;INGRESOS PATRIMONIALES;618000
+2012;15302;5;;;INGRESOS PATRIMONIALES;722300
+2012;15401;5;;;INGRESOS PATRIMONIALES;5000
+2012;16101;5;;;INGRESOS PATRIMONIALES;1298270
+2012;16201;5;;;INGRESOS PATRIMONIALES;4600000
+2012;17238;5;;;INGRESOS PATRIMONIALES;11040000
+2012;17239;5;;;INGRESOS PATRIMONIALES;2250000
+2012;18101;5;;;INGRESOS PATRIMONIALES;29920
+2012;18103;5;;;INGRESOS PATRIMONIALES;10800
+2012;18104;5;;;INGRESOS PATRIMONIALES;7000
+2012;18106;5;;;INGRESOS PATRIMONIALES;220000
+2012;18201;5;;;INGRESOS PATRIMONIALES;-19387100
+2012;18301;5;;;INGRESOS PATRIMONIALES;2795000
+2012;18302;5;;;INGRESOS PATRIMONIALES;500000
+2012;19101;5;;;INGRESOS PATRIMONIALES;125000
+2012;19102;5;;;INGRESOS PATRIMONIALES;150899990
+2012;19104;5;;;INGRESOS PATRIMONIALES;650
+2012;20102;5;;;INGRESOS PATRIMONIALES;10000
+2012;20207;5;;;INGRESOS PATRIMONIALES;450620
+2012;20208;5;;;INGRESOS PATRIMONIALES;15020000
+2012;20302;5;;;INGRESOS PATRIMONIALES;268440
+2012;23101;5;;;INGRESOS PATRIMONIALES;3628930
+2012;23211;5;;;INGRESOS PATRIMONIALES;9332230
+2012;23225;5;;;INGRESOS PATRIMONIALES;12661000
+2012;23226;5;;;INGRESOS PATRIMONIALES;25493820
+2012;23228;5;;;INGRESOS PATRIMONIALES;43519970
+2012;23229;5;;;INGRESOS PATRIMONIALES;22016220
+2012;23230;5;;;INGRESOS PATRIMONIALES;7556800
+2012;23231;5;;;INGRESOS PATRIMONIALES;1500000
+2012;23232;5;;;INGRESOS PATRIMONIALES;32792640
+2012;23233;5;;;INGRESOS PATRIMONIALES;292900
+2012;23234;5;;;INGRESOS PATRIMONIALES;29577520
+2012;23236;5;;;INGRESOS PATRIMONIALES;16885660
+2012;23401;5;;;INGRESOS PATRIMONIALES;10500
+2012;25103;5;;;INGRESOS PATRIMONIALES;7432400
+2012;25301;5;;;INGRESOS PATRIMONIALES;99750
+2012;25401;5;;;INGRESOS PATRIMONIALES;5000
+2012;26106;5;;;INGRESOS PATRIMONIALES;1980
+2012;26201;5;;;INGRESOS PATRIMONIALES;6000
+2012;27101;5;;;INGRESOS PATRIMONIALES;23590
+2012;27201;5;;;INGRESOS PATRIMONIALES;524610
+2012;27202;5;;;INGRESOS PATRIMONIALES;77630
+2012;27203;5;;;INGRESOS PATRIMONIALES;2550000
+2012;27204;5;;;INGRESOS PATRIMONIALES;1082000
+2012;27205;5;;;INGRESOS PATRIMONIALES;1310000
+2012;27206;5;;;INGRESOS PATRIMONIALES;70000
+2012;27401;5;;;INGRESOS PATRIMONIALES;2200000
+2012;60001;5;;;INGRESOS PATRIMONIALES;2933819390
+2012;98001;5;;;INGRESOS PATRIMONIALES;5425947800
+2012;15106;50;;;Intereses de títulos y valores;1280
+2012;19102;50;;;Intereses de títulos y valores;150519990
+2012;60001;50;;;Intereses de títulos y valores;2872172520
+2012;98001;50;;;Intereses de títulos y valores;209785500
+2012;15106;500;;;Del Estado;600
+2012;19102;500;;;Del Estado;150519990
+2012;60001;500;;;Del Estado;2834672000
+2012;60001;501;;;De organismos autónomos;10000
+2012;15106;504;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;650
+2012;60001;504;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;6158850
+2012;60001;505;;;De Comunidades Autónomas;9697340
+2012;60001;506;;;De Entidades Locales;600
+2012;15106;507;;;De empresas privadas;30
+2012;60001;507;;;De empresas privadas;21633730
+2012;98001;507;;;De empresas privadas;209785500
+2012;23230;51;;;Intereses de anticipos y préstamos concedidos;102800
+2012;23236;51;;;Intereses de anticipos y préstamos concedidos;2000
+2012;60001;51;;;Intereses de anticipos y préstamos concedidos;265800
+2012;98001;51;;;Intereses de anticipos y préstamos concedidos;113100000
+2012;23230;514;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del Sector Público;102800
+2012;98001;514;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del Sector Público;49250000
+2012;98001;514;;01;I.C.O.;49250000
+2012;23230;514;;99;Otros;102800
+2012;23236;518;;;A familias e instituciones sin fines de lucro;2000
+2012;60001;518;;;A familias e instituciones sin fines de lucro;265800
+2012;98001;519;;;Al exterior;63850000
+2012;12301;52;;;Intereses de depósitos;100000
+2012;13102;52;;;Intereses de depósitos;55000
+2012;13301;52;;;Intereses de depósitos;400000
+2012;14104;52;;;Intereses de depósitos;10000
+2012;14107;52;;;Intereses de depósitos;150000
+2012;14113;52;;;Intereses de depósitos;500000
+2012;14204;52;;;Intereses de depósitos;60000
+2012;15102;52;;;Intereses de depósitos;5000
+2012;15106;52;;;Intereses de depósitos;1644590
+2012;15302;52;;;Intereses de depósitos;643780
+2012;15401;52;;;Intereses de depósitos;5000
+2012;16101;52;;;Intereses de depósitos;1268220
+2012;17238;52;;;Intereses de depósitos;40000
+2012;18101;52;;;Intereses de depósitos;11920
+2012;18104;52;;;Intereses de depósitos;2000
+2012;18201;52;;;Intereses de depósitos;7000
+2012;18301;52;;;Intereses de depósitos;80000
+2012;19101;52;;;Intereses de depósitos;48080
+2012;19102;52;;;Intereses de depósitos;30000
+2012;19104;52;;;Intereses de depósitos;650
+2012;20102;52;;;Intereses de depósitos;10000
+2012;20207;52;;;Intereses de depósitos;620
+2012;20208;52;;;Intereses de depósitos;20000
+2012;20302;52;;;Intereses de depósitos;268440
+2012;23101;52;;;Intereses de depósitos;7700
+2012;23225;52;;;Intereses de depósitos;100000
+2012;23226;52;;;Intereses de depósitos;500
+2012;23228;52;;;Intereses de depósitos;1000
+2012;23230;52;;;Intereses de depósitos;240000
+2012;23232;52;;;Intereses de depósitos;309000
+2012;23233;52;;;Intereses de depósitos;1200
+2012;23234;52;;;Intereses de depósitos;19500
+2012;23236;52;;;Intereses de depósitos;83000
+2012;23401;52;;;Intereses de depósitos;10500
+2012;25103;52;;;Intereses de depósitos;19400
+2012;25301;52;;;Intereses de depósitos;99750
+2012;25401;52;;;Intereses de depósitos;5000
+2012;26106;52;;;Intereses de depósitos;1980
+2012;26201;52;;;Intereses de depósitos;6000
+2012;27101;52;;;Intereses de depósitos;450
+2012;27202;52;;;Intereses de depósitos;6000
+2012;27203;52;;;Intereses de depósitos;10000
+2012;27204;52;;;Intereses de depósitos;2000
+2012;27401;52;;;Intereses de depósitos;800000
+2012;60001;52;;;Intereses de depósitos;53898670
+2012;98001;52;;;Intereses de depósitos;352445000
+2012;12301;520;;;Intereses de cuentas bancarias;100000
+2012;13102;520;;;Intereses de cuentas bancarias;55000
+2012;13301;520;;;Intereses de cuentas bancarias;400000
+2012;14104;520;;;Intereses de cuentas bancarias;10000
+2012;14107;520;;;Intereses de cuentas bancarias;150000
+2012;14113;520;;;Intereses de cuentas bancarias;500000
+2012;14204;520;;;Intereses de cuentas bancarias;60000
+2012;15102;520;;;Intereses de cuentas bancarias;5000
+2012;15106;520;;;Intereses de cuentas bancarias;1644590
+2012;15302;520;;;Intereses de cuentas bancarias;643780
+2012;15401;520;;;Intereses de cuentas bancarias;5000
+2012;16101;520;;;Intereses de cuentas bancarias;1268220
+2012;17238;520;;;Intereses de cuentas bancarias;40000
+2012;18101;520;;;Intereses de cuentas bancarias;11920
+2012;18104;520;;;Intereses de cuentas bancarias;2000
+2012;18201;520;;;Intereses de cuentas bancarias;7000
+2012;18301;520;;;Intereses de cuentas bancarias;80000
+2012;19101;520;;;Intereses de cuentas bancarias;48080
+2012;19102;520;;;Intereses de cuentas bancarias;30000
+2012;19104;520;;;Intereses de cuentas bancarias;650
+2012;20102;520;;;Intereses de cuentas bancarias;10000
+2012;20207;520;;;Intereses de cuentas bancarias;620
+2012;20208;520;;;Intereses de cuentas bancarias;20000
+2012;20302;520;;;Intereses de cuentas bancarias;268440
+2012;23101;520;;;Intereses de cuentas bancarias;7700
+2012;23225;520;;;Intereses de cuentas bancarias;100000
+2012;23226;520;;;Intereses de cuentas bancarias;500
+2012;23228;520;;;Intereses de cuentas bancarias;1000
+2012;23230;520;;;Intereses de cuentas bancarias;240000
+2012;23232;520;;;Intereses de cuentas bancarias;309000
+2012;23233;520;;;Intereses de cuentas bancarias;1200
+2012;23234;520;;;Intereses de cuentas bancarias;19500
+2012;23236;520;;;Intereses de cuentas bancarias;83000
+2012;23401;520;;;Intereses de cuentas bancarias;10500
+2012;25103;520;;;Intereses de cuentas bancarias;19400
+2012;25301;520;;;Intereses de cuentas bancarias;99750
+2012;25401;520;;;Intereses de cuentas bancarias;5000
+2012;26106;520;;;Intereses de cuentas bancarias;1980
+2012;26201;520;;;Intereses de cuentas bancarias;6000
+2012;27101;520;;;Intereses de cuentas bancarias;450
+2012;27202;520;;;Intereses de cuentas bancarias;6000
+2012;27203;520;;;Intereses de cuentas bancarias;10000
+2012;27204;520;;;Intereses de cuentas bancarias;2000
+2012;27401;520;;;Intereses de cuentas bancarias;800000
+2012;60001;520;;;Intereses de cuentas bancarias;40584690
+2012;98001;520;;;Intereses de cuentas bancarias;352445000
+2012;23230;520;;00;Intereses de las consignaciones judiciales;240000
+2012;23232;520;;00;Intereses de las consignaciones judiciales;309000
+2012;98001;520;;00;Intereses de las consignaciones judiciales;94445000
+2012;98001;520;;09;Intereses de la cuenta del Tesoro en el Banco de España;250000000
+2012;12301;520;;99;Otros intereses de cuentas bancarias;100000
+2012;13301;520;;99;Otros intereses de cuentas bancarias;400000
+2012;14104;520;;99;Otros intereses de cuentas bancarias;10000
+2012;14107;520;;99;Otros intereses de cuentas bancarias;150000
+2012;14113;520;;99;Otros intereses de cuentas bancarias;500000
+2012;14204;520;;99;Otros intereses de cuentas bancarias;60000
+2012;15102;520;;99;Otros intereses de cuentas bancarias;5000
+2012;15106;520;;99;Otros intereses de cuentas bancarias;1644590
+2012;16101;520;;99;Otros intereses de cuentas bancarias;1268220
+2012;18201;520;;99;Otros intereses de cuentas bancarias;7000
+2012;18301;520;;99;Otros intereses de cuentas bancarias;80000
+2012;19101;520;;99;Otros intereses de cuentas bancarias;48080
+2012;19102;520;;99;Otros intereses de cuentas bancarias;30000
+2012;19104;520;;99;Otros intereses de cuentas bancarias;650
+2012;20102;520;;99;Otros intereses de cuentas bancarias;10000
+2012;20207;520;;99;Otros intereses de cuentas bancarias;620
+2012;20208;520;;99;Otros intereses de cuentas bancarias;20000
+2012;20302;520;;99;Otros intereses de cuentas bancarias;268440
+2012;23101;520;;99;Otros intereses de cuentas bancarias;7700
+2012;23225;520;;99;Otros intereses de cuentas bancarias;100000
+2012;23226;520;;99;Otros intereses de cuentas bancarias;500
+2012;23228;520;;99;Otros intereses de cuentas bancarias;1000
+2012;23233;520;;99;Otros intereses de cuentas bancarias;1200
+2012;23234;520;;99;Otros intereses de cuentas bancarias;19500
+2012;23236;520;;99;Otros intereses de cuentas bancarias;83000
+2012;25301;520;;99;Otros intereses de cuentas bancarias;99750
+2012;26106;520;;99;Otros intereses de cuentas bancarias;1980
+2012;26201;520;;99;Otros intereses de cuentas bancarias;6000
+2012;27101;520;;99;Otros intereses de cuentas bancarias;450
+2012;27202;520;;99;Otros intereses de cuentas bancarias;6000
+2012;27203;520;;99;Otros intereses de cuentas bancarias;10000
+2012;27401;520;;99;Otros intereses de cuentas bancarias;800000
+2012;98001;520;;99;Otros intereses de cuentas bancarias;8000000
+2012;60001;529;;;Intereses de otros depósitos;13313980
+2012;14205;53;;;Dividendos y participaciones en beneficios;10000000
+2012;15102;53;;;Dividendos y participaciones en beneficios;16000
+2012;15106;53;;;Dividendos y participaciones en beneficios;246000
+2012;23211;53;;;Dividendos y participaciones en beneficios;9407230
+2012;60001;53;;;Dividendos y participaciones en beneficios;4200
+2012;98001;53;;;Dividendos y participaciones en beneficios;3918953000
+2012;14205;534;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;10000000
+2012;23211;534;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;9407230
+2012;98001;534;;;De sociedades, entes públicos empresariales, fundaciones y resto de entes del sector público;3918953000
+2012;98001;534;;03;Banco de España;2372190000
+2012;98001;534;;05;Loterías y Apuestas del Estado;1476569000
+2012;98001;534;;06;Real Casa de la Moneda. Fabrica Nacional de Moneda y Timbre;65174000
+2012;14205;534;;99;Otras participaciones en beneficios;10000000
+2012;23211;534;;99;Otras participaciones en beneficios;9407230
+2012;98001;534;;99;Otras participaciones en beneficios;5020000
+2012;15102;537;;;De empresas privadas;16000
+2012;15106;537;;;De empresas privadas;246000
+2012;60001;537;;;De empresas privadas;4200
+2012;13102;54;;;Rentas de bienes inmuebles;150000
+2012;14107;54;;;Rentas de bienes inmuebles;24270000
+2012;14113;54;;;Rentas de bienes inmuebles;50000
+2012;14204;54;;;Rentas de bienes inmuebles;115000
+2012;14205;54;;;Rentas de bienes inmuebles;364210
+2012;15102;54;;;Rentas de bienes inmuebles;30000
+2012;15106;54;;;Rentas de bienes inmuebles;506790
+2012;15202;54;;;Rentas de bienes inmuebles;278000
+2012;15302;54;;;Rentas de bienes inmuebles;78520
+2012;18106;54;;;Rentas de bienes inmuebles;220000
+2012;19102;54;;;Rentas de bienes inmuebles;350000
+2012;23211;54;;;Rentas de bienes inmuebles;25000
+2012;23225;54;;;Rentas de bienes inmuebles;11000
+2012;23226;54;;;Rentas de bienes inmuebles;2750
+2012;23230;54;;;Rentas de bienes inmuebles;14000
+2012;23234;54;;;Rentas de bienes inmuebles;5000
+2012;25103;54;;;Rentas de bienes inmuebles;6800000
+2012;27101;54;;;Rentas de bienes inmuebles;23140
+2012;27202;54;;;Rentas de bienes inmuebles;21630
+2012;27401;54;;;Rentas de bienes inmuebles;425000
+2012;60001;54;;;Rentas de bienes inmuebles;7470040
+2012;98001;54;;;Rentas de bienes inmuebles;6000000
+2012;13102;540;;;Alquiler y productos de inmuebles;150000
+2012;14107;540;;;Alquiler y productos de inmuebles;22770000
+2012;14113;540;;;Alquiler y productos de inmuebles;50000
+2012;14204;540;;;Alquiler y productos de inmuebles;115000
+2012;14205;540;;;Alquiler y productos de inmuebles;364210
+2012;15106;540;;;Alquiler y productos de inmuebles;506790
+2012;15202;540;;;Alquiler y productos de inmuebles;278000
+2012;15302;540;;;Alquiler y productos de inmuebles;78520
+2012;18106;540;;;Alquiler y productos de inmuebles;220000
+2012;19102;540;;;Alquiler y productos de inmuebles;350000
+2012;23211;540;;;Alquiler y productos de inmuebles;25000
+2012;23225;540;;;Alquiler y productos de inmuebles;11000
+2012;23226;540;;;Alquiler y productos de inmuebles;2750
+2012;23230;540;;;Alquiler y productos de inmuebles;14000
+2012;23234;540;;;Alquiler y productos de inmuebles;5000
+2012;25103;540;;;Alquiler y productos de inmuebles;6800000
+2012;27101;540;;;Alquiler y productos de inmuebles;23140
+2012;27202;540;;;Alquiler y productos de inmuebles;21630
+2012;27401;540;;;Alquiler y productos de inmuebles;425000
+2012;60001;540;;;Alquiler y productos de inmuebles;7470040
+2012;98001;540;;;Alquiler y productos de inmuebles;6000000
+2012;14107;540;;00;Alquiler de viviendas;20220000
+2012;14204;540;;00;Alquiler de viviendas;115000
+2012;14205;540;;00;Alquiler de viviendas;364210
+2012;15106;540;;00;Alquiler de viviendas;68760
+2012;18106;540;;00;Alquiler de viviendas;220000
+2012;23225;540;;00;Alquiler de viviendas;11000
+2012;23226;540;;00;Alquiler de viviendas;2750
+2012;23230;540;;00;Alquiler de viviendas;14000
+2012;23234;540;;00;Alquiler de viviendas;5000
+2012;27101;540;;00;Alquiler de viviendas;23140
+2012;27401;540;;09;Otros alquileres de viviendas (Alojamiento en residencias y buques);125000
+2012;13102;540;;10;Alquiler de locales;150000
+2012;14107;540;;10;Alquiler de locales;2500000
+2012;14113;540;;10;Alquiler de locales;50000
+2012;15106;540;;10;Alquiler de locales;364940
+2012;19102;540;;10;Alquiler de locales;350000
+2012;27401;540;;10;Alquiler de locales;300000
+2012;14107;540;;99;Otros productos de inmuebles;50000
+2012;15106;540;;99;Otros productos de inmuebles;73090
+2012;15302;540;;99;Otros productos de inmuebles;78520
+2012;23211;540;;99;Otros productos de inmuebles;25000
+2012;25103;540;;99;Otros productos de inmuebles;6800000
+2012;27202;540;;99;Otros productos de inmuebles;21630
+2012;98001;540;;99;Otros productos de inmuebles;6000000
+2012;15102;542;;;Alquiler de aulas y otras instalaciones formativas.;30000
+2012;14107;549;;;Otras rentas;1500000
+2012;18101;55;;;Productos de concesiones y aprovechamientos especiales;18000
+2012;18103;55;;;Productos de concesiones y aprovechamientos especiales;10800
+2012;18104;55;;;Productos de concesiones y aprovechamientos especiales;5000
+2012;18201;55;;;Productos de concesiones y aprovechamientos especiales;37000
+2012;18301;55;;;Productos de concesiones y aprovechamientos especiales;2715000
+2012;18302;55;;;Productos de concesiones y aprovechamientos especiales;500000
+2012;20208;55;;;Productos de concesiones y aprovechamientos especiales;9000000
+2012;23101;55;;;Productos de concesiones y aprovechamientos especiales;3621230
+2012;23225;55;;;Productos de concesiones y aprovechamientos especiales;50000
+2012;23226;55;;;Productos de concesiones y aprovechamientos especiales;30000
+2012;23228;55;;;Productos de concesiones y aprovechamientos especiales;743970
+2012;23229;55;;;Productos de concesiones y aprovechamientos especiales;16220
+2012;23232;55;;;Productos de concesiones y aprovechamientos especiales;154500
+2012;23234;55;;;Productos de concesiones y aprovechamientos especiales;103500
+2012;25103;55;;;Productos de concesiones y aprovechamientos especiales;463000
+2012;27401;55;;;Productos de concesiones y aprovechamientos especiales;975000
+2012;98001;55;;;Productos de concesiones y aprovechamientos especiales;825664300
+2012;18101;550;;;De concesiones administrativas;18000
+2012;18103;550;;;De concesiones administrativas;10800
+2012;18104;550;;;De concesiones administrativas;5000
+2012;18302;550;;;De concesiones administrativas;500000
+2012;20208;550;;;De concesiones administrativas;9000000
+2012;23101;550;;;De concesiones administrativas;39550
+2012;23228;550;;;De concesiones administrativas;1000
+2012;23229;550;;;De concesiones administrativas;16220
+2012;23234;550;;;De concesiones administrativas;51500
+2012;98001;550;;;De concesiones administrativas;2000000
+2012;23101;551;;;Aprovechamientos agrícolas y forestales;3396760
+2012;23225;551;;;Aprovechamientos agrícolas y forestales;50000
+2012;23228;551;;;Aprovechamientos agrícolas y forestales;741970
+2012;23234;551;;;Aprovechamientos agrícolas y forestales;52000
+2012;23226;555;;;Aprovechamientos agrícolas y forestales;30000
+2012;98001;558;;;Liberalización de bandas de frecuencia;821664300
+2012;18201;559;;;Otras concesiones y aprovechamientos;37000
+2012;18301;559;;;Otras concesiones y aprovechamientos;2715000
+2012;23101;559;;;Otras concesiones y aprovechamientos;184920
+2012;23228;559;;;Otras concesiones y aprovechamientos;1000
+2012;23232;559;;;Otras concesiones y aprovechamientos;154500
+2012;25103;559;;;Otras concesiones y aprovechamientos;463000
+2012;27401;559;;;Otras concesiones y aprovechamientos;975000
+2012;98001;559;;;Otras concesiones y aprovechamientos;2000000
+2012;12301;57;;;Resultados de operaciones comerciales;5500000
+2012;14204;57;;;Resultados de operaciones comerciales;12750000
+2012;14205;57;;;Resultados de operaciones comerciales;22000000
+2012;15202;57;;;Resultados de operaciones comerciales;230000
+2012;16201;57;;;Resultados de operaciones comerciales;4600000
+2012;17238;57;;;Resultados de operaciones comerciales;11000000
+2012;17239;57;;;Resultados de operaciones comerciales;2250000
+2012;18201;57;;;Resultados de operaciones comerciales;-19431100
+2012;20207;57;;;Resultados de operaciones comerciales;450000
+2012;20208;57;;;Resultados de operaciones comerciales;6000000
+2012;23211;57;;;Resultados de operaciones comerciales;-100000
+2012;23225;57;;;Resultados de operaciones comerciales;12500000
+2012;23226;57;;;Resultados de operaciones comerciales;25460570
+2012;23228;57;;;Resultados de operaciones comerciales;42775000
+2012;23229;57;;;Resultados de operaciones comerciales;22000000
+2012;23230;57;;;Resultados de operaciones comerciales;7200000
+2012;23231;57;;;Resultados de operaciones comerciales;1500000
+2012;23232;57;;;Resultados de operaciones comerciales;32020140
+2012;23233;57;;;Resultados de operaciones comerciales;291700
+2012;23234;57;;;Resultados de operaciones comerciales;29449520
+2012;23236;57;;;Resultados de operaciones comerciales;16685660
+2012;27201;57;;;Resultados de operaciones comerciales;524610
+2012;27202;57;;;Resultados de operaciones comerciales;50000
+2012;27203;57;;;Resultados de operaciones comerciales;2540000
+2012;27204;57;;;Resultados de operaciones comerciales;1080000
+2012;27205;57;;;Resultados de operaciones comerciales;1310000
+2012;27206;57;;;Resultados de operaciones comerciales;70000
+2012;12301;570;;;Resultados de operaciones comerciales;5500000
+2012;14204;570;;;Resultados de operaciones comerciales;12750000
+2012;14205;570;;;Resultados de operaciones comerciales;22000000
+2012;15202;570;;;Resultados de operaciones comerciales;230000
+2012;16201;570;;;Resultados de operaciones comerciales;4600000
+2012;17238;570;;;Resultados de operaciones comerciales;11000000
+2012;17239;570;;;Resultados de operaciones comerciales;2250000
+2012;18201;570;;;Resultados de operaciones comerciales;-19431100
+2012;20207;570;;;Resultados de operaciones comerciales;450000
+2012;20208;570;;;Resultados de operaciones comerciales;6000000
+2012;23211;570;;;Resultados de operaciones comerciales;-100000
+2012;23225;570;;;Resultados de operaciones comerciales;12500000
+2012;23226;570;;;Resultados de operaciones comerciales;25460570
+2012;23228;570;;;Resultados de operaciones comerciales;42775000
+2012;23229;570;;;Resultados de operaciones comerciales;22000000
+2012;23230;570;;;Resultados de operaciones comerciales;7200000
+2012;23231;570;;;Resultados de operaciones comerciales;1500000
+2012;23232;570;;;Resultados de operaciones comerciales;32020140
+2012;23233;570;;;Resultados de operaciones comerciales;291700
+2012;23234;570;;;Resultados de operaciones comerciales;29449520
+2012;23236;570;;;Resultados de operaciones comerciales;16685660
+2012;27201;570;;;Resultados de operaciones comerciales;524610
+2012;27202;570;;;Resultados de operaciones comerciales;50000
+2012;27203;570;;;Resultados de operaciones comerciales;2540000
+2012;27204;570;;;Resultados de operaciones comerciales;1080000
+2012;27205;570;;;Resultados de operaciones comerciales;1310000
+2012;27206;570;;;Resultados de operaciones comerciales;70000
+2012;14107;59;;;Otros ingresos patrimoniales;200000
+2012;15202;59;;;Otros ingresos patrimoniales;110000
+2012;16101;59;;;Otros ingresos patrimoniales;30050
+2012;19101;59;;;Otros ingresos patrimoniales;76920
+2012;23232;59;;;Otros ingresos patrimoniales;309000
+2012;23236;59;;;Otros ingresos patrimoniales;115000
+2012;25103;59;;;Otros ingresos patrimoniales;150000
+2012;60001;59;;;Otros ingresos patrimoniales;8160
+2012;14107;599;;;Otros;200000
+2012;15202;599;;;Otros;110000
+2012;16101;599;;;Otros;30050
+2012;19101;599;;;Otros;76920
+2012;23232;599;;;Otros;309000
+2012;23236;599;;;Otros;115000
+2012;25103;599;;;Otros;150000
+2012;60001;599;;;Otros;8160
+2012;14104;6;;;ENAJENACION DE INVERSIONES REALES;200000
+2012;14107;6;;;ENAJENACION DE INVERSIONES REALES;125000000
+2012;15202;6;;;ENAJENACION DE INVERSIONES REALES;105000
+2012;16101;6;;;ENAJENACION DE INVERSIONES REALES;330560
+2012;16102;6;;;ENAJENACION DE INVERSIONES REALES;16855500
+2012;18106;6;;;ENAJENACION DE INVERSIONES REALES;745840
+2012;19101;6;;;ENAJENACION DE INVERSIONES REALES;901810
+2012;19102;6;;;ENAJENACION DE INVERSIONES REALES;4220730
+2012;20208;6;;;ENAJENACION DE INVERSIONES REALES;1700000
+2012;23101;6;;;ENAJENACION DE INVERSIONES REALES;96020
+2012;23229;6;;;ENAJENACION DE INVERSIONES REALES;7600
+2012;27202;6;;;ENAJENACION DE INVERSIONES REALES;800000
+2012;27204;6;;;ENAJENACION DE INVERSIONES REALES;246660
+2012;60001;6;;;ENAJENACION DE INVERSIONES REALES;812870
+2012;98001;6;;;ENAJENACION DE INVERSIONES REALES;135900000
+2012;14107;60;;;De terrenos;65000000
+2012;60001;60;;;De terrenos;20000
+2012;98001;60;;;De terrenos;7500000
+2012;14107;600;;;Venta de solares;65000000
+2012;98001;600;;;Venta de solares;4500000
+2012;60001;601;;;Venta de fincas rústicas;20000
+2012;98001;601;;;Venta de fincas rústicas;3000000
+2012;14104;61;;;De las demás inversiones reales;200000
+2012;14107;61;;;De las demás inversiones reales;60000000
+2012;15202;61;;;De las demás inversiones reales;105000
+2012;16101;61;;;De las demás inversiones reales;330560
+2012;16102;61;;;De las demás inversiones reales;16855500
+2012;19101;61;;;De las demás inversiones reales;1810
+2012;19102;61;;;De las demás inversiones reales;4220730
+2012;23229;61;;;De las demás inversiones reales;7600
+2012;27204;61;;;De las demás inversiones reales;1000
+2012;60001;61;;;De las demás inversiones reales;792870
+2012;98001;61;;;De las demás inversiones reales;400000
+2012;27204;616;;;Enajenación de bienes destinados a uso general;1000
+2012;14104;619;;;Venta de otras inversiones reales;200000
+2012;14107;619;;;Venta de otras inversiones reales;60000000
+2012;15202;619;;;Venta de otras inversiones reales;105000
+2012;16101;619;;;Venta de otras inversiones reales;330560
+2012;16102;619;;;Venta de otras inversiones reales;16855500
+2012;19101;619;;;Venta de otras inversiones reales;1810
+2012;19102;619;;;Venta de otras inversiones reales;4220730
+2012;23229;619;;;Venta de otras inversiones reales;7600
+2012;60001;619;;;Venta de otras inversiones reales;792870
+2012;98001;619;;;Venta de otras inversiones reales;400000
+2012;18106;68;;;Reintegros por operaciones de capital;745840
+2012;19101;68;;;Reintegros por operaciones de capital;900000
+2012;20208;68;;;Reintegros por operaciones de capital;1700000
+2012;23101;68;;;Reintegros por operaciones de capital;96020
+2012;27202;68;;;Reintegros por operaciones de capital;800000
+2012;27204;68;;;Reintegros por operaciones de capital;245660
+2012;98001;68;;;Reintegros por operaciones de capital;128000000
+2012;18106;680;;;De ejercicios cerrados;745840
+2012;19101;680;;;De ejercicios cerrados;900000
+2012;20208;680;;;De ejercicios cerrados;1700000
+2012;23101;680;;;De ejercicios cerrados;96020
+2012;27202;680;;;De ejercicios cerrados;800000
+2012;27204;680;;;De ejercicios cerrados;245660
+2012;98001;680;;;De ejercicios cerrados;120000000
+2012;98001;681;;;Del presupuesto corriente;8000000
+2012;12301;7;;;TRANSFERENCIAS DE CAPITAL;4097000
+2012;12401;7;;;TRANSFERENCIAS DE CAPITAL;42170420
+2012;13101;7;;;TRANSFERENCIAS DE CAPITAL;468120
+2012;14104;7;;;TRANSFERENCIAS DE CAPITAL;883450
+2012;14111;7;;;TRANSFERENCIAS DE CAPITAL;695200
+2012;14205;7;;;TRANSFERENCIAS DE CAPITAL;25915150
+2012;15101;7;;;TRANSFERENCIAS DE CAPITAL;858990
+2012;15102;7;;;TRANSFERENCIAS DE CAPITAL;342240
+2012;15202;7;;;TRANSFERENCIAS DE CAPITAL;927580
+2012;15302;7;;;TRANSFERENCIAS DE CAPITAL;26380000
+2012;15401;7;;;TRANSFERENCIAS DE CAPITAL;159400
+2012;16102;7;;;TRANSFERENCIAS DE CAPITAL;2323200
+2012;16201;7;;;TRANSFERENCIAS DE CAPITAL;218130
+2012;17238;7;;;TRANSFERENCIAS DE CAPITAL;2700000
+2012;17239;7;;;TRANSFERENCIAS DE CAPITAL;2721860
+2012;18101;7;;;TRANSFERENCIAS DE CAPITAL;859800
+2012;18102;7;;;TRANSFERENCIAS DE CAPITAL;46410
+2012;18103;7;;;TRANSFERENCIAS DE CAPITAL;1483980
+2012;18104;7;;;TRANSFERENCIAS DE CAPITAL;9113050
+2012;18105;7;;;TRANSFERENCIAS DE CAPITAL;55615330
+2012;18106;7;;;TRANSFERENCIAS DE CAPITAL;27939290
+2012;18201;7;;;TRANSFERENCIAS DE CAPITAL;7107920
+2012;18301;7;;;TRANSFERENCIAS DE CAPITAL;4895000
+2012;18302;7;;;TRANSFERENCIAS DE CAPITAL;7544410
+2012;18401;7;;;TRANSFERENCIAS DE CAPITAL;510310
+2012;19101;7;;;TRANSFERENCIAS DE CAPITAL;18893500
+2012;19104;7;;;TRANSFERENCIAS DE CAPITAL;1025040
+2012;19301;7;;;TRANSFERENCIAS DE CAPITAL;100000
+2012;20101;7;;;TRANSFERENCIAS DE CAPITAL;56052610
+2012;20207;7;;;TRANSFERENCIAS DE CAPITAL;839720
+2012;20208;7;;;TRANSFERENCIAS DE CAPITAL;47526940
+2012;23101;7;;;TRANSFERENCIAS DE CAPITAL;41036230
+2012;23112;7;;;TRANSFERENCIAS DE CAPITAL;506000
+2012;23207;7;;;TRANSFERENCIAS DE CAPITAL;930010
+2012;23211;7;;;TRANSFERENCIAS DE CAPITAL;1475013510
+2012;23225;7;;;TRANSFERENCIAS DE CAPITAL;7837470
+2012;23226;7;;;TRANSFERENCIAS DE CAPITAL;2746760
+2012;23228;7;;;TRANSFERENCIAS DE CAPITAL;101434090
+2012;23229;7;;;TRANSFERENCIAS DE CAPITAL;46775630
+2012;23230;7;;;TRANSFERENCIAS DE CAPITAL;9089030
+2012;23231;7;;;TRANSFERENCIAS DE CAPITAL;24370000
+2012;23232;7;;;TRANSFERENCIAS DE CAPITAL;20057500
+2012;23233;7;;;TRANSFERENCIAS DE CAPITAL;37247160
+2012;23234;7;;;TRANSFERENCIAS DE CAPITAL;11028350
+2012;23236;7;;;TRANSFERENCIAS DE CAPITAL;27380000
+2012;23401;7;;;TRANSFERENCIAS DE CAPITAL;21923770
+2012;25101;7;;;TRANSFERENCIAS DE CAPITAL;13640
+2012;25102;7;;;TRANSFERENCIAS DE CAPITAL;54980
+2012;25103;7;;;TRANSFERENCIAS DE CAPITAL;31179900
+2012;25301;7;;;TRANSFERENCIAS DE CAPITAL;15093640
+2012;26102;7;;;TRANSFERENCIAS DE CAPITAL;277810
+2012;26104;7;;;TRANSFERENCIAS DE CAPITAL;200000
+2012;26105;7;;;TRANSFERENCIAS DE CAPITAL;214550
+2012;26106;7;;;TRANSFERENCIAS DE CAPITAL;7000
+2012;26107;7;;;TRANSFERENCIAS DE CAPITAL;838430
+2012;26108;7;;;TRANSFERENCIAS DE CAPITAL;180270
+2012;26201;7;;;TRANSFERENCIAS DE CAPITAL;407220
+2012;27101;7;;;TRANSFERENCIAS DE CAPITAL;67271400
+2012;27201;7;;;TRANSFERENCIAS DE CAPITAL;23385730
+2012;27202;7;;;TRANSFERENCIAS DE CAPITAL;23597000
+2012;27203;7;;;TRANSFERENCIAS DE CAPITAL;27273660
+2012;27204;7;;;TRANSFERENCIAS DE CAPITAL;3155630
+2012;27205;7;;;TRANSFERENCIAS DE CAPITAL;130109210
+2012;27206;7;;;TRANSFERENCIAS DE CAPITAL;1254000
+2012;27301;7;;;TRANSFERENCIAS DE CAPITAL;628840
+2012;27401;7;;;TRANSFERENCIAS DE CAPITAL;214232320
+2012;60001;7;;;TRANSFERENCIAS DE CAPITAL;173867980
+2012;98001;7;;;TRANSFERENCIAS DE CAPITAL;365734330
+2012;12301;70;;;De la Administración del Estado;4097000
+2012;12401;70;;;De la Administración del Estado;42170420
+2012;13101;70;;;De la Administración del Estado;468120
+2012;14104;70;;;De la Administración del Estado;883450
+2012;14111;70;;;De la Administración del Estado;695200
+2012;14205;70;;;De la Administración del Estado;25915150
+2012;15101;70;;;De la Administración del Estado;858990
+2012;15102;70;;;De la Administración del Estado;342240
+2012;15202;70;;;De la Administración del Estado;927580
+2012;15302;70;;;De la Administración del Estado;26380000
+2012;15401;70;;;De la Administración del Estado;159400
+2012;16201;70;;;De la Administración del Estado;218130
+2012;17238;70;;;De la Administración del Estado;2700000
+2012;17239;70;;;De la Administración del Estado;1730000
+2012;18101;70;;;De la Administración del Estado;859800
+2012;18102;70;;;De la Administración del Estado;46410
+2012;18103;70;;;De la Administración del Estado;1483980
+2012;18104;70;;;De la Administración del Estado;9113050
+2012;18105;70;;;De la Administración del Estado;55615330
+2012;18106;70;;;De la Administración del Estado;26089290
+2012;18201;70;;;De la Administración del Estado;7107920
+2012;18301;70;;;De la Administración del Estado;4895000
+2012;18302;70;;;De la Administración del Estado;7544410
+2012;19101;70;;;De la Administración del Estado;18893500
+2012;19104;70;;;De la Administración del Estado;1025040
+2012;19301;70;;;De la Administración del Estado;100000
+2012;20101;70;;;De la Administración del Estado;56052610
+2012;20207;70;;;De la Administración del Estado;839720
+2012;20208;70;;;De la Administración del Estado;47526940
+2012;23101;70;;;De la Administración del Estado;32036230
+2012;23112;70;;;De la Administración del Estado;506000
+2012;23207;70;;;De la Administración del Estado;930010
+2012;23211;70;;;De la Administración del Estado;136123510
+2012;23225;70;;;De la Administración del Estado;1185520
+2012;23226;70;;;De la Administración del Estado;2746760
+2012;23228;70;;;De la Administración del Estado;4071350
+2012;23229;70;;;De la Administración del Estado;18618780
+2012;23230;70;;;De la Administración del Estado;7646000
+2012;23231;70;;;De la Administración del Estado;1100000
+2012;23232;70;;;De la Administración del Estado;3574330
+2012;23233;70;;;De la Administración del Estado;2413080
+2012;23234;70;;;De la Administración del Estado;1185520
+2012;23401;70;;;De la Administración del Estado;21923770
+2012;25101;70;;;De la Administración del Estado;13640
+2012;25102;70;;;De la Administración del Estado;54980
+2012;25103;70;;;De la Administración del Estado;30141920
+2012;25301;70;;;De la Administración del Estado;15093640
+2012;26102;70;;;De la Administración del Estado;277810
+2012;26104;70;;;De la Administración del Estado;200000
+2012;26105;70;;;De la Administración del Estado;214550
+2012;26106;70;;;De la Administración del Estado;7000
+2012;26107;70;;;De la Administración del Estado;838430
+2012;26108;70;;;De la Administración del Estado;180270
+2012;26201;70;;;De la Administración del Estado;407220
+2012;27101;70;;;De la Administración del Estado;67271400
+2012;27201;70;;;De la Administración del Estado;23385730
+2012;27202;70;;;De la Administración del Estado;20697000
+2012;27203;70;;;De la Administración del Estado;27160000
+2012;27204;70;;;De la Administración del Estado;1775000
+2012;27205;70;;;De la Administración del Estado;49915260
+2012;27206;70;;;De la Administración del Estado;962000
+2012;27301;70;;;De la Administración del Estado;628840
+2012;27401;70;;;De la Administración del Estado;163482320
+2012;60001;70;;;De la Administración del Estado;23521180
+2012;12301;700;;;Del departamento al que está adscrito;4097000
+2012;13101;700;;;Del departamento al que está adscrito;468120
+2012;14104;700;;;Del departamento al que está adscrito;883450
+2012;14111;700;;;Del departamento al que está adscrito;695200
+2012;14205;700;;;Del departamento al que está adscrito;25915150
+2012;15101;700;;;Del departamento al que está adscrito;858990
+2012;15102;700;;;Del departamento al que está adscrito;342240
+2012;15302;700;;;Del departamento al que está adscrito;26380000
+2012;15401;700;;;Del departamento al que está adscrito;159400
+2012;16201;700;;;Del departamento al que está adscrito;218130
+2012;17238;700;;;Del departamento al que está adscrito;2700000
+2012;17239;700;;;Del departamento al que está adscrito;1730000
+2012;18101;700;;;Del departamento al que está adscrito;859800
+2012;18102;700;;;Del departamento al que está adscrito;46410
+2012;18103;700;;;Del departamento al que está adscrito;1483980
+2012;18104;700;;;Del departamento al que está adscrito;9113050
+2012;18106;700;;;Del departamento al que está adscrito;26089290
+2012;18201;700;;;Del departamento al que está adscrito;7107920
+2012;18301;700;;;Del departamento al que está adscrito;4895000
+2012;18302;700;;;Del departamento al que está adscrito;7544410
+2012;19101;700;;;Del departamento al que está adscrito;18893500
+2012;19104;700;;;Del departamento al que está adscrito;1025040
+2012;19301;700;;;Del departamento al que está adscrito;100000
+2012;20101;700;;;Del departamento al que está adscrito;56052610
+2012;20207;700;;;Del departamento al que está adscrito;839720
+2012;20208;700;;;Del departamento al que está adscrito;47526940
+2012;23101;700;;;Del departamento al que está adscrito;32036230
+2012;23112;700;;;Del departamento al que está adscrito;506000
+2012;23207;700;;;Del departamento al que está adscrito;930010
+2012;23211;700;;;Del departamento al que está adscrito;136123510
+2012;23225;700;;;Del departamento al que está adscrito;1185520
+2012;23226;700;;;Del departamento al que está adscrito;2746760
+2012;23228;700;;;Del departamento al que está adscrito;4071350
+2012;23229;700;;;Del departamento al que está adscrito;18618780
+2012;23230;700;;;Del departamento al que está adscrito;3548890
+2012;23231;700;;;Del departamento al que está adscrito;1100000
+2012;23232;700;;;Del departamento al que está adscrito;3574330
+2012;23233;700;;;Del departamento al que está adscrito;2413080
+2012;23234;700;;;Del departamento al que está adscrito;1185520
+2012;23401;700;;;Del departamento al que está adscrito;21923770
+2012;25101;700;;;Del departamento al que está adscrito;13640
+2012;25102;700;;;Del departamento al que está adscrito;54980
+2012;25103;700;;;Del departamento al que está adscrito;30141920
+2012;25301;700;;;Del departamento al que está adscrito;15093640
+2012;26102;700;;;Del departamento al que está adscrito;277810
+2012;26104;700;;;Del departamento al que está adscrito;200000
+2012;26105;700;;;Del departamento al que está adscrito;214550
+2012;26106;700;;;Del departamento al que está adscrito;7000
+2012;26107;700;;;Del departamento al que está adscrito;838430
+2012;26108;700;;;Del departamento al que está adscrito;180270
+2012;26201;700;;;Del departamento al que está adscrito;407220
+2012;27101;700;;;Del departamento al que está adscrito;67271400
+2012;27201;700;;;Del departamento al que está adscrito;23385730
+2012;27202;700;;;Del departamento al que está adscrito;20697000
+2012;27203;700;;;Del departamento al que está adscrito;27160000
+2012;27204;700;;;Del departamento al que está adscrito;1775000
+2012;27205;700;;;Del departamento al que está adscrito;44774230
+2012;27206;700;;;Del departamento al que está adscrito;962000
+2012;27301;700;;;Del departamento al que está adscrito;628840
+2012;27401;700;;;Del departamento al que está adscrito;163082320
+2012;60001;700;;;Del departamento al que está adscrito;1500000
+2012;15302;700;;00;Para gastos de inversiones;26380000
+2012;18106;700;;00;Del Departamento al que está adscrito;23245990
+2012;23112;700;;00;Para gastos de capital.;506000
+2012;23211;700;;00;Para gastos de capital;11231280
+2012;23225;700;;00;Transferencia de la Dirección General del Agua;1185520
+2012;23226;700;;00;Para el desarrollo de su actividad;2746760
+2012;23228;700;;00;Transferencia de la Dirección General del Agua;4071350
+2012;23229;700;;00;Transferencias de la Dirección General del Agua;4627050
+2012;23231;700;;00;Transferencia de la Dirección General del Agua;1100000
+2012;23232;700;;00;Transferencia de la Dirección General del Agua;3574330
+2012;23233;700;;00;Transferencia de la Dirección General del Agua;2413080
+2012;23234;700;;00;Transferencia de la Dirección General del Agua;1185520
+2012;26102;700;;00;Para atenciones generales;277810
+2012;27201;700;;00;Subvención ordinaria;23385730
+2012;27205;700;;00;Para atenciones generales.;44774230
+2012;27401;700;;00;Del departamento al que está adscrito;96766040
+2012;18106;700;;01;Del Departamento al que está adscrito. Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;2843300
+2012;23211;700;;01;De la DG de Industrias;20145560
+2012;27401;700;;01;Subvenciones de I+D+I programas nacionales;44290330
+2012;23229;700;;02;Dirección General del Agua, Plan Especial Alto Guadiana;13991730
+2012;27401;700;;02;Subvenciones programas nacionales ayudas contratación;22025950
+2012;14111;700;;05;Para investigación científica e información de base;695200
+2012;14205;700;;05;Para investigación científica e información de base;25915150
+2012;23211;700;;06;Para cofinanciación de los Programas de Desarrollo Rural;104746670
+2012;14104;700;;08;Para conservación de instalaciones y medios;883450
+2012;15202;701;;;De otros departamentos ministeriales;927580
+2012;27205;701;;;De otros departamentos ministeriales;5141030
+2012;27401;701;;;De otros departamentos ministeriales;400000
+2012;60001;701;;;De otros departamentos ministeriales;22021180
+2012;27205;701;;00;Para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias;5141030
+2012;27401;701;;00;Del Ministerio de Fomento. Estudio base herramientas Código Técnico de la Edificación;400000
+2012;18105;702;;;Del Departamento al que está adscrito;55615330
+2012;23230;702/23230;;;De la D.G. del Agua para apoyo en la ejecución de obras en humedales y restauración de  los rios;4097110
+2012;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;42170420
+2012;18401;71;;;De organismos autónomos;510310
+2012;27204;71;;;De organismos autónomos;12090
+2012;27205;71;;;De organismos autónomos;101400
+2012;27401;71;;;De organismos autónomos;450000
+2012;98001;71;;;De organismos autónomos;4000000
+2012;18401;710;;;Transferencias de capital de organismos autónomos;510310
+2012;27204;710;;;Transferencias de capital de organismos autónomos;12090
+2012;27205;710;;;Transferencias de capital de organismos autónomos;101400
+2012;27401;710;;;Transferencias de capital de organismos autónomos;450000
+2012;27205;710;;00;Del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA);101400
+2012;27401;710;;00;Del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, para proyectos de investigación.;200000
+2012;27204;710;;01;De la Confederación Hidrográfica del Ebro;12090
+2012;27401;710;;01;Del INIA para proyectos de investigación. Cofinanciación FEDER;250000
+2012;98001;711;;;"Del FEGA ""Ayudas de Desarrollo Rural""";4000000
+2012;60001;72;;;De la Seguridad Social;150346800
+2012;60001;720;;;Transferencias de capital de la Seguridad Social;150346800
+2012;17239;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;541860
+2012;18106;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;1000000
+2012;23234;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;81830
+2012;27204;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;665380
+2012;23234;740;;;De sociedades mercantiles estatales;81830
+2012;27204;740;;;De sociedades mercantiles estatales;665380
+2012;17239;741;;;Entidades públicas empresariales;541860
+2012;18106;749;;;De resto del Sector Público;1000000
+2012;18106;75;;;De Comunidades Autónomas;600000
+2012;23211;75;;;De Comunidades Autónomas;2890000
+2012;23225;75;;;De Comunidades Autónomas;3651950
+2012;23229;75;;;De Comunidades Autónomas;11000000
+2012;23230;75;;;De Comunidades Autónomas;450000
+2012;23231;75;;;De Comunidades Autónomas;2100000
+2012;23232;75;;;De Comunidades Autónomas;1600000
+2012;23233;75;;;De Comunidades Autónomas;2100000
+2012;27202;75;;;De Comunidades Autónomas;400000
+2012;27206;75;;;De Comunidades Autónomas;292000
+2012;27401;75;;;De Comunidades Autónomas;11200000
+2012;18106;750;;;De Comunidades Autónomas;600000
+2012;23225;750;;;De Comunidades Autónomas;3651950
+2012;23229;750;;;De Comunidades Autónomas;11000000
+2012;23230;750;;;De Comunidades Autónomas;450000
+2012;23231;750;;;De Comunidades Autónomas;2100000
+2012;23232;750;;;De Comunidades Autónomas;1600000
+2012;23233;750;;;De Comunidades Autónomas;2100000
+2012;23211;750/23211;;;Cofinanciación teledetección Comunidades Autónomas;2890000
+2012;27202;750/27202;;;Planes regionales de I+D;400000
+2012;27206;750/27206;;;De la Comunidad Autónoma de Canarias;292000
+2012;27401;750/27401;;;De Comunidades Autónomas para ejecución de proyectos de investigación;11200000
+2012;27401;750/27401;;01;Transferencias de capital de CCAA para ejecución proyectos I+D+I;9000000
+2012;27401;750/27401;;02;Transferencias de capital de CCAA para ayudas contratación;2200000
+2012;16102;76;;;De Entidades Locales;2323200
+2012;18106;76;;;De Entidades Locales;250000
+2012;23228;76;;;De Entidades Locales;25612740
+2012;23229;76;;;De Entidades Locales;2460000
+2012;23230;76;;;De Entidades Locales;493030
+2012;23231;76;;;De Entidades Locales;1170000
+2012;23232;76;;;De Entidades Locales;30000
+2012;23233;76;;;De Entidades Locales;1595880
+2012;23234;76;;;De Entidades Locales;261000
+2012;16102;760;;;De Ayuntamientos;2323200
+2012;18106;760;;;De Ayuntamientos;250000
+2012;23229;760;;;De Ayuntamientos;750000
+2012;23231;760;;;De Ayuntamientos;270000
+2012;23232;760;;;De Ayuntamientos;30000
+2012;23233;760;;;De Ayuntamientos;800000
+2012;23229;761;;;De Diputaciones y Cabildos Insulares;1710000
+2012;23231;761;;;De Diputaciones y Cabildos Insulares;900000
+2012;23233;761;;;De Diputaciones y Cabildos Insulares;795880
+2012;23234;761;;;De Diputaciones y Cabildos Insulares;261000
+2012;23228;769;;;Otras transferencias de capital;25612740
+2012;23230;769;;;Otras transferencias de capital;493030
+2012;27205;77;;;De empresas privadas;63592550
+2012;27401;77;;;De empresas privadas;7000000
+2012;27205;772;;;De empresas;63592550
+2012;27401;779;;;Otras transferencias de capital de empresas privadas;7000000
+2012;27205;78;;;De familias e instituciones sin fines de lucro;1500000
+2012;27205;782;;;De familias e instituciones sin fines de lucro. Subvenciones a la investigación.;1500000
+2012;17239;79;;;Del exterior;450000
+2012;23101;79;;;Del exterior;9000000
+2012;23211;79;;;Del exterior;1336000000
+2012;23225;79;;;Del exterior;3000000
+2012;23228;79;;;Del exterior;71750000
+2012;23229;79;;;Del exterior;14696850
+2012;23230;79;;;Del exterior;500000
+2012;23231;79;;;Del exterior;20000000
+2012;23232;79;;;Del exterior;14853170
+2012;23233;79;;;Del exterior;31138200
+2012;23234;79;;;Del exterior;9500000
+2012;23236;79;;;Del exterior;27380000
+2012;25103;79;;;Del exterior;1037980
+2012;27202;79;;;Del exterior;2500000
+2012;27203;79;;;Del exterior;113660
+2012;27204;79;;;Del exterior;703160
+2012;27205;79;;;Del exterior;15000000
+2012;27401;79;;;Del exterior;32100000
+2012;98001;79;;;Del exterior;361734330
+2012;23101;790;;;Fondo Europeo de Desarrollo Regional;9000000
+2012;23225;790;;;Fondo Europeo de Desarrollo Regional;3000000
+2012;23228;790;;;Fondo Europeo de Desarrollo Regional;71750000
+2012;23229;790;;;Fondo Europeo de Desarrollo Regional;14696850
+2012;23230;790;;;Fondo Europeo de Desarrollo Regional;500000
+2012;23231;790;;;Fondo Europeo de Desarrollo Regional;8700000
+2012;23232;790;;;Fondo Europeo de Desarrollo Regional;14853170
+2012;23233;790;;;Fondo Europeo de Desarrollo Regional;20680630
+2012;23234;790;;;Fondo Europeo de Desarrollo Regional;6500000
+2012;23236;790;;;Fondo Europeo de Desarrollo Regional;27380000
+2012;25103;790;;;Fondo Europeo de Desarrollo Regional;1037980
+2012;27202;790;;;Fondo Europeo de Desarrollo Regional;2000000
+2012;27203;790;;;Fondo Europeo de Desarrollo Regional;113660
+2012;27205;790;;;Fondo Europeo de Desarrollo Regional;15000000
+2012;27401;790;;;Fondo Europeo de Desarrollo Regional;3600000
+2012;98001;790;;;Fondo Europeo de Desarrollo Regional;276562730
+2012;23231;791;;;Fondo de Cohesión;10800000
+2012;23233;791;;;Fondo de Cohesión;10457570
+2012;23234;791;;;Fondo de Cohesión;3000000
+2012;98001;791;;;Fondo de Cohesión;43171600
+2012;98001;792;;;Fondo Europeo Pesca y otros recursos agrícolas y pesqueros;42000000
+2012;23211;793;;;Fondo Europeo Agrícola de Desarrollo Rural (FEADER);1336000000
+2012;27401;794;;;Fondo Social Europeo;2000000
+2012;17239;795;;;Otras transferencias de la Unión Europea;450000
+2012;23231;795;;;Otras transferencias de la Unión Europea;500000
+2012;27202;795;;;Otras transferencias de la Unión Europea;500000
+2012;27204;795;;;Otras transferencias de la Unión Europea;703160
+2012;27401;795;;;Otras transferencias de la Unión Europea;26500000
+2012;12301;8;;;ACTIVOS FINANCIEROS;9747760
+2012;12401;8;;;ACTIVOS FINANCIEROS;121012020
+2012;13101;8;;;ACTIVOS FINANCIEROS;7349750
+2012;13102;8;;;ACTIVOS FINANCIEROS;9026300
+2012;13301;8;;;ACTIVOS FINANCIEROS;4509550
+2012;14104;8;;;ACTIVOS FINANCIEROS;1258200
+2012;14107;8;;;ACTIVOS FINANCIEROS;58309590
+2012;14111;8;;;ACTIVOS FINANCIEROS;1070520
+2012;14113;8;;;ACTIVOS FINANCIEROS;50238780
+2012;14204;8;;;ACTIVOS FINANCIEROS;-41530
+2012;14205;8;;;ACTIVOS FINANCIEROS;14331700
+2012;15101;8;;;ACTIVOS FINANCIEROS;2071480
+2012;15102;8;;;ACTIVOS FINANCIEROS;2361500
+2012;15106;8;;;ACTIVOS FINANCIEROS;173372320
+2012;15202;8;;;ACTIVOS FINANCIEROS;101520
+2012;15302;8;;;ACTIVOS FINANCIEROS;631370
+2012;16101;8;;;ACTIVOS FINANCIEROS;1021720
+2012;16201;8;;;ACTIVOS FINANCIEROS;4215180
+2012;17238;8;;;ACTIVOS FINANCIEROS;16438340
+2012;17239;8;;;ACTIVOS FINANCIEROS;884280
+2012;17401;8;;;ACTIVOS FINANCIEROS;3000
+2012;18101;8;;;ACTIVOS FINANCIEROS;1706650
+2012;18103;8;;;ACTIVOS FINANCIEROS;6407620
+2012;18104;8;;;ACTIVOS FINANCIEROS;4691500
+2012;18105;8;;;ACTIVOS FINANCIEROS;10572340
+2012;18106;8;;;ACTIVOS FINANCIEROS;19231000
+2012;18201;8;;;ACTIVOS FINANCIEROS;5418150
+2012;18301;8;;;ACTIVOS FINANCIEROS;5205000
+2012;18302;8;;;ACTIVOS FINANCIEROS;2521000
+2012;19101;8;;;ACTIVOS FINANCIEROS;60155210
+2012;19102;8;;;ACTIVOS FINANCIEROS;497503080
+2012;19104;8;;;ACTIVOS FINANCIEROS;2413670
+2012;19301;8;;;ACTIVOS FINANCIEROS;634050
+2012;20101;8;;;ACTIVOS FINANCIEROS;297415020
+2012;20102;8;;;ACTIVOS FINANCIEROS;14502450
+2012;20207;8;;;ACTIVOS FINANCIEROS;2141370
+2012;20208;8;;;ACTIVOS FINANCIEROS;30000
+2012;20302;8;;;ACTIVOS FINANCIEROS;2663310
+2012;23101;8;;;ACTIVOS FINANCIEROS;15467890
+2012;23112;8;;;ACTIVOS FINANCIEROS;5679430
+2012;23207;8;;;ACTIVOS FINANCIEROS;18160
+2012;23211;8;;;ACTIVOS FINANCIEROS;5691190
+2012;23225;8;;;ACTIVOS FINANCIEROS;15478030
+2012;23226;8;;;ACTIVOS FINANCIEROS;8825200
+2012;23228;8;;;ACTIVOS FINANCIEROS;13979250
+2012;23229;8;;;ACTIVOS FINANCIEROS;-74562700
+2012;23230;8;;;ACTIVOS FINANCIEROS;-3366720
+2012;23231;8;;;ACTIVOS FINANCIEROS;4803660
+2012;23232;8;;;ACTIVOS FINANCIEROS;8920820
+2012;23233;8;;;ACTIVOS FINANCIEROS;50000
+2012;23234;8;;;ACTIVOS FINANCIEROS;10007670
+2012;23236;8;;;ACTIVOS FINANCIEROS;18776130
+2012;23401;8;;;ACTIVOS FINANCIEROS;104420
+2012;25101;8;;;ACTIVOS FINANCIEROS;838690
+2012;25102;8;;;ACTIVOS FINANCIEROS;925670
+2012;25103;8;;;ACTIVOS FINANCIEROS;440000
+2012;25301;8;;;ACTIVOS FINANCIEROS;405880
+2012;25401;8;;;ACTIVOS FINANCIEROS;10120390
+2012;26102;8;;;ACTIVOS FINANCIEROS;1142830
+2012;26104;8;;;ACTIVOS FINANCIEROS;612000
+2012;26105;8;;;ACTIVOS FINANCIEROS;23890
+2012;26106;8;;;ACTIVOS FINANCIEROS;545940
+2012;26107;8;;;ACTIVOS FINANCIEROS;8560230
+2012;26108;8;;;ACTIVOS FINANCIEROS;439920
+2012;26201;8;;;ACTIVOS FINANCIEROS;1290890
+2012;26401;8;;;ACTIVOS FINANCIEROS;5080000
+2012;27101;8;;;ACTIVOS FINANCIEROS;15547620
+2012;27102;8;;;ACTIVOS FINANCIEROS;1510140
+2012;27201;8;;;ACTIVOS FINANCIEROS;20296230
+2012;27202;8;;;ACTIVOS FINANCIEROS;23098200
+2012;27203;8;;;ACTIVOS FINANCIEROS;4729070
+2012;27204;8;;;ACTIVOS FINANCIEROS;1637700
+2012;27205;8;;;ACTIVOS FINANCIEROS;14924600
+2012;27206;8;;;ACTIVOS FINANCIEROS;5950110
+2012;27301;8;;;ACTIVOS FINANCIEROS;280520
+2012;27401;8;;;ACTIVOS FINANCIEROS;107626380
+2012;60001;8;;;ACTIVOS FINANCIEROS;814187260
+2012;98001;8;;;ACTIVOS FINANCIEROS;10092937110
+2012;15106;80;;;Enajenación de deuda del Sector Público;1000
+2012;19102;80;;;Enajenación de deuda del Sector Público;378122000
+2012;60001;80;;;Enajenación de deuda del Sector Público;290122350
+2012;60001;800;;;Enajenación de deuda del Sector Público a corto plazo;254804530
+2012;15106;801;;;Enajenación de deuda del Sector Público a largo plazo;1000
+2012;19102;801;;;Enajenación de deuda del Sector Público a largo plazo;378122000
+2012;60001;801;;;Enajenación de deuda del Sector Público a largo plazo;35317820
+2012;15106;81;;;Enajenación de obligac. y bonos de fuera del Sector Público;930
+2012;60001;81;;;Enajenación de obligac. y bonos de fuera del Sector Público;198067500
+2012;98001;81;;;Enajenación de obligac. y bonos de fuera del Sector Público;5993100000
+2012;60001;810;;;Enajenación de obligaciones y bonos de fuera del Sector Público a corto plazo;109712530
+2012;15106;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo;930
+2012;60001;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo;88354970
+2012;98001;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo;5993100000
+2012;23225;82;;;Reintegros de préstamos concedidos al Sector Público;30000
+2012;98001;82;;;Reintegros de préstamos concedidos al Sector Público;3108339330
+2012;23225;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo;30000
+2012;98001;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo;3108339330
+2012;98001;821;;04;A las  sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;3097585390
+2012;98001;821;;05;Para Campus de Excelencia Internacional;10753940
+2012;12301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;49300
+2012;12401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2012;13102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1500
+2012;13301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;22800
+2012;14107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;238750
+2012;14111;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60100
+2012;14113;83;;;Reintegros de préstamos concedidos fuera del Sector Público;160000
+2012;14204;83;;;Reintegros de préstamos concedidos fuera del Sector Público;65000
+2012;14205;83;;;Reintegros de préstamos concedidos fuera del Sector Público;270640
+2012;15101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71480
+2012;15102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2012;15106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;180300
+2012;15202;83;;;Reintegros de préstamos concedidos fuera del Sector Público;101520
+2012;15302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;631370
+2012;16101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1021720
+2012;16201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;14910
+2012;17238;83;;;Reintegros de préstamos concedidos fuera del Sector Público;38320
+2012;17401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;3000
+2012;18101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15130
+2012;18103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;54000
+2012;18104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;63000
+2012;18105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;27000
+2012;18106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;4231000
+2012;18201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;431720
+2012;18301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2012;18302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60000
+2012;19101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;794000
+2012;19102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;147120
+2012;19104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;86710
+2012;19301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;26550
+2012;20102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60000
+2012;20207;83;;;Reintegros de préstamos concedidos fuera del Sector Público;4200
+2012;20208;83;;;Reintegros de préstamos concedidos fuera del Sector Público;30000
+2012;20302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;65000
+2012;23101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;5410
+2012;23112;83;;;Reintegros de préstamos concedidos fuera del Sector Público;17330
+2012;23207;83;;;Reintegros de préstamos concedidos fuera del Sector Público;18160
+2012;23211;83;;;Reintegros de préstamos concedidos fuera del Sector Público;122700
+2012;23225;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2012;23226;83;;;Reintegros de préstamos concedidos fuera del Sector Público;40000
+2012;23228;83;;;Reintegros de préstamos concedidos fuera del Sector Público;147620
+2012;23229;83;;;Reintegros de préstamos concedidos fuera del Sector Público;37300
+2012;23230;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2012;23231;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2012;23232;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71050
+2012;23233;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2012;23234;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2012;23236;83;;;Reintegros de préstamos concedidos fuera del Sector Público;80000
+2012;23401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;104420
+2012;25101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12030
+2012;25102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2012;25103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;440000
+2012;25301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;405880
+2012;25401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2012;26102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;21040
+2012;26104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12000
+2012;26106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6510
+2012;26107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;23440
+2012;26108;83;;;Reintegros de préstamos concedidos fuera del Sector Público;5470
+2012;26201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;29950
+2012;26401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;80000
+2012;27101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;247620
+2012;27102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2012;27201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;241080
+2012;27202;83;;;Reintegros de préstamos concedidos fuera del Sector Público;87270
+2012;27203;83;;;Reintegros de préstamos concedidos fuera del Sector Público;42000
+2012;27204;83;;;Reintegros de préstamos concedidos fuera del Sector Público;70000
+2012;27205;83;;;Reintegros de préstamos concedidos fuera del Sector Público;226000
+2012;27206;83;;;Reintegros de préstamos concedidos fuera del Sector Público;55000
+2012;27301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15400
+2012;27401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;180000
+2012;60001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;22171020
+2012;98001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;991497780
+2012;12301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;49300
+2012;12401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3010
+2012;13301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;22800
+2012;14107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;38750
+2012;14111;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2012;14113;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;150000
+2012;14204;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;65000
+2012;15101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;71480
+2012;15102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;50000
+2012;15106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;180300
+2012;15302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;631370
+2012;16101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;120200
+2012;17238;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;38320
+2012;18101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15130
+2012;18103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2012;18105;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27000
+2012;18106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;25000
+2012;18201;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;431720
+2012;18301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2012;19102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;117070
+2012;19301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13280
+2012;20102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;60000
+2012;20302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;65000
+2012;23101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;5410
+2012;23112;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;17330
+2012;23207;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;18160
+2012;23211;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;122700
+2012;23225;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2012;23229;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;18660
+2012;23230;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2012;23231;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2012;23232;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27330
+2012;23233;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;24000
+2012;23234;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2012;23401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;620
+2012;25101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12030
+2012;25102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2012;25301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;405880
+2012;25401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;25000
+2012;26102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;21040
+2012;26401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;80000
+2012;27102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15000
+2012;27201;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;121540
+2012;27202;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27270
+2012;27203;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;6000
+2012;27204;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;35000
+2012;27205;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;226000
+2012;27301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15400
+2012;27401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;180000
+2012;60001;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;18252060
+2012;23230;830;;00;Reintegros de anticipos al personal.;20000
+2012;12301;830;;08;A familias e instituciones sin fines de lucro;49300
+2012;13301;830;;08;A familias e instituciones sin fines de lucro;22800
+2012;14107;830;;08;A familias e instituciones sin fines de lucro;38750
+2012;14111;830;;08;A familias e instituciones sin fines de lucro;12020
+2012;14204;830;;08;A familias e instituciones sin fines de lucro;65000
+2012;15101;830;;08;A familias e instituciones sin fines de lucro;71480
+2012;15102;830;;08;A familias e instituciones sin fines de lucro;50000
+2012;15302;830;;08;A familias e instituciones sin fines de lucro;631370
+2012;17238;830;;08;A familias e instituciones sin fines de lucro;38320
+2012;18101;830;;08;A familias e instituciones sin fines de lucro;15130
+2012;18103;830;;08;A familias e instituciones sin fines de lucro;10000
+2012;18105;830;;08;A familias e instituciones sin fines de lucro;27000
+2012;18106;830;;08;A familias e instituciones sin fines de lucro;25000
+2012;18201;830;;08;A familias e instituciones sin fines de lucro;431720
+2012;18301;830;;08;A familias e instituciones sin fines de lucro;100000
+2012;19102;830;;08;A familias e instituciones sin fines de lucro;117070
+2012;19301;830;;08;A familias e instituciones sin fines de lucro;13280
+2012;20102;830;;08;A familias e instituciones sin fines de lucro;60000
+2012;20302;830;;08;A familias e instituciones sin fines de lucro;65000
+2012;23207;830;;08;A familias e instituciones sin fines de lucro;18160
+2012;23231;830;;08;A familias e instituciones sin fines de lucro;10000
+2012;25301;830;;08;A familias e instituciones sin fines de lucro;405880
+2012;26102;830;;08;A familias e instituciones sin fines de lucro;21040
+2012;26401;830;;08;A familias e instituciones sin fines de lucro;80000
+2012;27102;830;;08;A familias e instituciones sin fines de lucro;15000
+2012;27201;830;;08;A familias e instituciones sin fines de lucro;121540
+2012;27202;830;;08;A familias e instituciones sin fines de lucro;27270
+2012;27301;830;;08;A familias e instituciones sin fines de lucro;15400
+2012;27401;830;;08;A familias e instituciones sin fines de lucro;180000
+2012;12401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;9010
+2012;13102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;1500
+2012;14107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;200000
+2012;14111;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;48080
+2012;14113;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2012;14205;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;270640
+2012;15202;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;101520
+2012;16101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;901520
+2012;16201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;14910
+2012;17401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;3000
+2012;18103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;44000
+2012;18104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;63000
+2012;18106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4206000
+2012;18302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2012;19101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;794000
+2012;19102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30050
+2012;19104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;86710
+2012;19301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;13270
+2012;20207;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4200
+2012;20208;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30000
+2012;23225;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2012;23226;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;40000
+2012;23228;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;147620
+2012;23229;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;18640
+2012;23231;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;5000
+2012;23232;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;43720
+2012;23233;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;26000
+2012;23234;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;70000
+2012;23236;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;80000
+2012;23401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;103800
+2012;25103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;440000
+2012;25401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;65000
+2012;26104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;12000
+2012;26106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6510
+2012;26107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;23440
+2012;26108;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;5470
+2012;26201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;29950
+2012;27101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;247620
+2012;27201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;119540
+2012;27202;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2012;27203;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;36000
+2012;27204;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;35000
+2012;27206;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;55000
+2012;60001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;3918960
+2012;98001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;991497780
+2012;98001;831;;07;A las empresas privadas;931762190
+2012;13102;831;;08;A familias e Instituciones sin fines de lucro;1500
+2012;14107;831;;08;A familias e Instituciones sin fines de lucro;200000
+2012;14111;831;;08;A familias e Instituciones sin fines de lucro;48080
+2012;14205;831;;08;A familias e Instituciones sin fines de lucro;270640
+2012;15202;831;;08;A familias e Instituciones sin fines de lucro;101520
+2012;16101;831;;08;A familias e Instituciones sin fines de lucro;901520
+2012;16201;831;;08;A familias e Instituciones sin fines de lucro;14910
+2012;17401;831;;08;A familias e Instituciones sin fines de lucro;3000
+2012;18103;831;;08;A familias e Instituciones sin fines de lucro;44000
+2012;18104;831;;08;A familias e Instituciones sin fines de lucro;63000
+2012;18302;831;;08;A familias e Instituciones sin fines de lucro;60000
+2012;19101;831;;08;A familias e Instituciones sin fines de lucro;794000
+2012;19102;831;;08;A familias e Instituciones sin fines de lucro;30050
+2012;19104;831;;08;A familias e Instituciones sin fines de lucro;86710
+2012;19301;831;;08;A familias e Instituciones sin fines de lucro;13270
+2012;20207;831;;08;A familias e Instituciones sin fines de lucro;4200
+2012;20208;831;;08;A familias e Instituciones sin fines de lucro;30000
+2012;23225;831;;08;A familias e Instituciones sin fines de lucro;60000
+2012;23226;831;;08;A familias e Instituciones sin fines de lucro;40000
+2012;23228;831;;08;A familias e Instituciones sin fines de lucro;147620
+2012;23229;831;;08;A familias e Instituciones sin fines de lucro;18640
+2012;23231;831;;08;A familias e Instituciones sin fines de lucro;5000
+2012;23232;831;;08;A familias e Instituciones sin fines de lucro;43720
+2012;23233;831;;08;A familias e Instituciones sin fines de lucro;26000
+2012;23234;831;;08;A familias e Instituciones sin fines de lucro;70000
+2012;23236;831;;08;A familias e Instituciones sin fines de lucro;80000
+2012;25103;831;;08;A familias e Instituciones sin fines de lucro;440000
+2012;25401;831;;08;A familias e Instituciones sin fines de lucro;65000
+2012;26104;831;;08;A familias e Instituciones sin fines de lucro;12000
+2012;26106;831;;08;A familias e Instituciones sin fines de lucro;6510
+2012;26107;831;;08;A familias e Instituciones sin fines de lucro;23440
+2012;26108;831;;08;A familias e Instituciones sin fines de lucro;5470
+2012;26201;831;;08;A familias e Instituciones sin fines de lucro;29950
+2012;27101;831;;08;A familias e Instituciones sin fines de lucro;247620
+2012;27201;831;;08;A familias e Instituciones sin fines de lucro;119540
+2012;27202;831;;08;A familias e Instituciones sin fines de lucro;60000
+2012;27203;831;;08;A familias e Instituciones sin fines de lucro;36000
+2012;27204;831;;08;A familias e Instituciones sin fines de lucro;35000
+2012;27206;831;;08;A familias e Instituciones sin fines de lucro;55000
+2012;98001;831;;08;A familias e Instituciones sin fines de lucro;59735590
+2012;14113;84;;;Devolución de depósitos y fianzas;50000
+2012;60001;84;;;Devolución de depósitos y fianzas;5807750
+2012;60001;840;;;Devolución de depósitos;526990
+2012;14113;841;;;Devolución de fianzas;50000
+2012;60001;841;;;Devolución de fianzas;5280760
+2012;12301;87;;;Remanente de tesorería;9698460
+2012;12401;87;;;Remanente de tesorería;121000000
+2012;13101;87;;;Remanente de tesorería;7349750
+2012;13102;87;;;Remanente de tesorería;9024800
+2012;13301;87;;;Remanente de tesorería;4486750
+2012;14104;87;;;Remanente de tesorería;1258200
+2012;14107;87;;;Remanente de tesorería;58070840
+2012;14111;87;;;Remanente de tesorería;1010420
+2012;14113;87;;;Remanente de tesorería;50028780
+2012;14204;87;;;Remanente de tesorería;-106530
+2012;14205;87;;;Remanente de tesorería;14061060
+2012;15101;87;;;Remanente de tesorería;2000000
+2012;15102;87;;;Remanente de tesorería;2311500
+2012;15106;87;;;Remanente de tesorería;173190090
+2012;16201;87;;;Remanente de tesorería;4200270
+2012;17238;87;;;Remanente de tesorería;16400020
+2012;17239;87;;;Remanente de tesorería;884280
+2012;18101;87;;;Remanente de tesorería;1691520
+2012;18103;87;;;Remanente de tesorería;6353620
+2012;18104;87;;;Remanente de tesorería;4628500
+2012;18105;87;;;Remanente de tesorería;10545340
+2012;18106;87;;;Remanente de tesorería;15000000
+2012;18201;87;;;Remanente de tesorería;4986430
+2012;18301;87;;;Remanente de tesorería;5105000
+2012;18302;87;;;Remanente de tesorería;2461000
+2012;19101;87;;;Remanente de tesorería;59361210
+2012;19102;87;;;Remanente de tesorería;119233960
+2012;19104;87;;;Remanente de tesorería;2326960
+2012;19301;87;;;Remanente de tesorería;607500
+2012;20101;87;;;Remanente de tesorería;297415020
+2012;20102;87;;;Remanente de tesorería;14442450
+2012;20207;87;;;Remanente de tesorería;2137170
+2012;20302;87;;;Remanente de tesorería;2598310
+2012;23101;87;;;Remanente de tesorería;15462480
+2012;23112;87;;;Remanente de tesorería;5662100
+2012;23211;87;;;Remanente de tesorería;5568490
+2012;23225;87;;;Remanente de tesorería;15358030
+2012;23226;87;;;Remanente de tesorería;8785200
+2012;23228;87;;;Remanente de tesorería;13831630
+2012;23229;87;;;Remanente de tesorería;-74600000
+2012;23230;87;;;Remanente de tesorería;-3386720
+2012;23231;87;;;Remanente de tesorería;4788660
+2012;23232;87;;;Remanente de tesorería;8849770
+2012;23234;87;;;Remanente de tesorería;9907670
+2012;23236;87;;;Remanente de tesorería;18696130
+2012;25101;87;;;Remanente de tesorería;826660
+2012;25102;87;;;Remanente de tesorería;913650
+2012;25401;87;;;Remanente de tesorería;10030390
+2012;26102;87;;;Remanente de tesorería;1121790
+2012;26104;87;;;Remanente de tesorería;600000
+2012;26105;87;;;Remanente de tesorería;23890
+2012;26106;87;;;Remanente de tesorería;539430
+2012;26107;87;;;Remanente de tesorería;8536790
+2012;26108;87;;;Remanente de tesorería;434450
+2012;26201;87;;;Remanente de tesorería;1260940
+2012;26401;87;;;Remanente de tesorería;5000000
+2012;27101;87;;;Remanente de tesorería;15300000
+2012;27102;87;;;Remanente de tesorería;1495140
+2012;27201;87;;;Remanente de tesorería;20055150
+2012;27202;87;;;Remanente de tesorería;23010930
+2012;27203;87;;;Remanente de tesorería;4687070
+2012;27204;87;;;Remanente de tesorería;1567700
+2012;27205;87;;;Remanente de tesorería;14698600
+2012;27206;87;;;Remanente de tesorería;5895110
+2012;27301;87;;;Remanente de tesorería;265120
+2012;27401;87;;;Remanente de tesorería;107446380
+2012;60001;87;;;Remanente de tesorería;298018640
+2012;12301;870;;;Remanente de tesorería;9698460
+2012;12401;870;;;Remanente de tesorería;121000000
+2012;13101;870;;;Remanente de tesorería;7349750
+2012;13102;870;;;Remanente de tesorería;9024800
+2012;13301;870;;;Remanente de tesorería;4486750
+2012;14104;870;;;Remanente de tesorería;1258200
+2012;14107;870;;;Remanente de tesorería;58070840
+2012;14111;870;;;Remanente de tesorería;1010420
+2012;14113;870;;;Remanente de tesorería;50028780
+2012;14204;870;;;Remanente de tesorería;-106530
+2012;14205;870;;;Remanente de tesorería;14061060
+2012;15101;870;;;Remanente de tesorería;2000000
+2012;15102;870;;;Remanente de tesorería;2311500
+2012;15106;870;;;Remanente de tesorería;173190090
+2012;16201;870;;;Remanente de tesorería;4200270
+2012;17238;870;;;Remanente de tesorería;16400020
+2012;17239;870;;;Remanente de tesorería;884280
+2012;18101;870;;;Remanente de tesorería;1691520
+2012;18103;870;;;Remanente de tesorería;6353620
+2012;18104;870;;;Remanente de tesorería;4628500
+2012;18105;870;;;Remanente de tesorería;10545340
+2012;18106;870;;;Remanente de tesorería;15000000
+2012;18201;870;;;Remanente de tesorería;4986430
+2012;18301;870;;;Remanente de tesorería;5105000
+2012;18302;870;;;Remanente de tesorería;2461000
+2012;19101;870;;;Remanente de tesorería;59361210
+2012;19102;870;;;Remanente de tesorería;119233960
+2012;19104;870;;;Remanente de tesorería;2326960
+2012;19301;870;;;Remanente de tesorería;607500
+2012;20101;870;;;Remanente de tesorería;297415020
+2012;20102;870;;;Remanente de tesorería;14442450
+2012;20207;870;;;Remanente de tesorería;2137170
+2012;20302;870;;;Remanente de tesorería;2598310
+2012;23101;870;;;Remanente de tesorería;15462480
+2012;23112;870;;;Remanente de tesorería;5662100
+2012;23211;870;;;Remanente de tesorería;5568490
+2012;23225;870;;;Remanente de tesorería;15358030
+2012;23226;870;;;Remanente de tesorería;8785200
+2012;23228;870;;;Remanente de tesorería;13831630
+2012;23229;870;;;Remanente de tesorería;-74600000
+2012;23230;870;;;Remanente de tesorería;-3386720
+2012;23231;870;;;Remanente de tesorería;4788660
+2012;23232;870;;;Remanente de tesorería;8849770
+2012;23234;870;;;Remanente de tesorería;9907670
+2012;23236;870;;;Remanente de tesorería;18696130
+2012;25101;870;;;Remanente de tesorería;826660
+2012;25102;870;;;Remanente de tesorería;913650
+2012;25401;870;;;Remanente de tesorería;10030390
+2012;26102;870;;;Remanente de tesorería;1121790
+2012;26104;870;;;Remanente de tesorería;600000
+2012;26105;870;;;Remanente de tesorería;23890
+2012;26106;870;;;Remanente de tesorería;539430
+2012;26107;870;;;Remanente de tesorería;8536790
+2012;26108;870;;;Remanente de tesorería;434450
+2012;26201;870;;;Remanente de tesorería;1260940
+2012;26401;870;;;Remanente de tesorería;5000000
+2012;27101;870;;;Remanente de tesorería;15300000
+2012;27102;870;;;Remanente de tesorería;1495140
+2012;27201;870;;;Remanente de tesorería;20055150
+2012;27202;870;;;Remanente de tesorería;23010930
+2012;27203;870;;;Remanente de tesorería;4687070
+2012;27204;870;;;Remanente de tesorería;1567700
+2012;27205;870;;;Remanente de tesorería;14698600
+2012;27206;870;;;Remanente de tesorería;5895110
+2012;27301;870;;;Remanente de tesorería;265120
+2012;27401;870;;;Remanente de tesorería;107446380
+2012;60001;870;;;Remanente de tesorería;298018640
+2012;14113;9;;;PASIVOS FINANCIEROS;70000
+2012;23228;9;;;PASIVOS FINANCIEROS;71750000
+2012;23229;9;;;PASIVOS FINANCIEROS;92000000
+2012;23230;9;;;PASIVOS FINANCIEROS;75000000
+2012;23231;9;;;PASIVOS FINANCIEROS;8720000
+2012;23233;9;;;PASIVOS FINANCIEROS;27650000
+2012;23234;9;;;PASIVOS FINANCIEROS;14000000
+2012;23236;9;;;PASIVOS FINANCIEROS;10140000
+2012;25103;9;;;PASIVOS FINANCIEROS;100000
+2012;23228;91;;;Préstamos recibidos en moneda nacional;71750000
+2012;23229;91;;;Préstamos recibidos en moneda nacional;92000000
+2012;23230;91;;;Préstamos recibidos en moneda nacional;75000000
+2012;23231;91;;;Préstamos recibidos en moneda nacional;8720000
+2012;23233;91;;;Préstamos recibidos en moneda nacional;27650000
+2012;23234;91;;;Préstamos recibidos en moneda nacional;14000000
+2012;23236;91;;;Préstamos recibidos en moneda nacional;10140000
+2012;23228;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;71750000
+2012;23230;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;75000000
+2012;23234;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;14000000
+2012;23229;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;92000000
+2012;23231;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;8720000
+2012;23233;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;27650000
+2012;23236;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;10140000
+2012;14113;94;;;Depósitos y fianzas recibidos;70000
+2012;25103;94;;;Depósitos y fianzas recibidos;100000
+2012;14113;940;;;Depósitos;20000
+2012;14113;941;;;Fianzas;50000
+2012;25103;941;;;Fianzas;100000
