@@ -1,0 +1,2205 @@
+EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA;DESCRIPCION LARGA
+2007;G;1;;;;;GASTOS DE PERSONAL
+2007;G;1;10;;;;Altos cargos
+2007;G;1;10;100;;;Retribuciones básicas y otras remuneraciones de altos cargos
+2007;G;1;10;101;;;Asignación Parlamentarios Europeos
+2007;G;1;10;101/02002;;;Asignación Constitucional Señores Diputados
+2007;G;1;10;101/02003;;;Asignación Constitucional Señores Senadores
+2007;G;1;10;101/02005;;;Retribuciones básicas y otras remuneraciones de Altos Cargos
+2007;G;1;10;107;;;Contribuciones a Planes de Pensiones
+2007;G;1;11;;;;Personal eventual
+2007;G;1;11;110;;;Retribuciones básicas y otras remuneraciones de personal eventual
+2007;G;1;11;111;;;Personal eventual de las Cortes
+2007;G;1;11;117;;;Contribuciones a Planes de Pensiones
+2007;G;1;12;;;;Funcionarios
+2007;G;1;12;120;;;Retribuciones básicas
+2007;G;1;12;121;;;Retribuciones complementarias
+2007;G;1;12;122;;;Retribuciones en especie
+2007;G;1;12;123;;;Indemnizaciones percibidas por destino en el extranjero
+2007;G;1;12;124;;;Retribuciones de funcionarios en prácticas
+2007;G;1;12;125;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2007;G;1;12;125/13002;;;Para retribuir al personal sustituto de la Administración de Justicia
+2007;G;1;12;126;;;Retribuciones básicas y complementarias del CNI
+2007;G;1;12;127;;;Contribuciones a Planes de Pensiones
+2007;G;1;12;129;;;Para la repercusión del complemento específico en la paga extraordinaria y otras mejoras retributivas contempladas en la presente Ley
+2007;G;1;13;;;;Laborales
+2007;G;1;13;130;;;Laboral fijo
+2007;G;1;13;131;;;Laboral eventual
+2007;G;1;13;133;;;Laboral en el extranjero
+2007;G;1;13;135;;;Retribuciones del personal laboral de las Cortes
+2007;G;1;13;135/02004;;;Retribuciones del personal laboral de la Junta Electoral Central
+2007;G;1;13;137;;;Contribuciones a Planes de Pensiones
+2007;G;1;14;;;;Otro personal
+2007;G;1;14;143;;;Otro personal
+2007;G;1;14;145;;;Otro Personal del Defensor del Pueblo
+2007;G;1;14;147;;;Contribuciones a Planes de Pensiones
+2007;G;1;15;;;;Incentivos al rendimiento
+2007;G;1;15;150;;;Productividad
+2007;G;1;15;151;;;Gratificaciones
+2007;G;1;15;152;;;Otros incentivos al rendimiento
+2007;G;1;15;153;;;Complemento de dedicación especial
+2007;G;1;15;154;;;Otras gratificaciones por Actos de Estado
+2007;G;1;15;154/26105;;;Productividad personal estatutario factor fijo
+2007;G;1;15;155;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio
+2007;G;1;15;155/26105;;;Productividad personal estatutario factor variable.
+2007;G;1;16;;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2007;G;1;16;160;;;Cuotas sociales
+2007;G;1;16;161;;;Prestaciones sociales
+2007;G;1;16;162;;;Gastos sociales del personal
+2007;G;1;16;164;;;Complemento familiar
+2007;G;1;16;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2007;G;1;16;165/21211;;;Pensiones de jubilación especial por convenio colectivo.
+2007;G;2;;;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS
+2007;G;2;20;;;;Arrendamientos y cánones
+2007;G;2;20;200;;;Arrendamientos terrenos y bienes naturales
+2007;G;2;20;201;;;Arrendamientos de edificios y otras construcciones.Obligaciones de ejercicios anteriores
+2007;G;2;20;202;;;Arrendamientos edificios y otras construcciones
+2007;G;2;20;203;;;Arrendamientos maquinaria, instalaciones y utillaje
+2007;G;2;20;204;;;Arrendamientos material de transporte
+2007;G;2;20;205;;;Arrendamientos mobiliario y enseres
+2007;G;2;20;206;;;Arrendamientos equipos para procesos de información
+2007;G;2;20;207;;;Alquileres
+2007;G;2;20;207/17001;;;Obligaciones de ejercicios anteriores, por arrendamiento de edificios y otras construcciones.
+2007;G;2;20;208;;;Arrendamientos otro inmovilizado material
+2007;G;2;20;209;;;Cánones
+2007;G;2;21;;;;Reparaciones, mantenimiento y conservación
+2007;G;2;21;210;;;Infraestructura y bienes naturales
+2007;G;2;21;212;;;Edificios y otras construcciones
+2007;G;2;21;213;;;Maquinaria, instalaciones y utillaje
+2007;G;2;21;214;;;Elementos de transporte
+2007;G;2;21;215;;;Mobiliario y enseres
+2007;G;2;21;216;;;Equipos para procesos de la información
+2007;G;2;21;217;;;Gastos diversos de reparación y conservación
+2007;G;2;21;217/16002;;;Obligaciones de ejercicios anteriores
+2007;G;2;21;217/16004;;;Obligaciones de ejercicios anteriores
+2007;G;2;21;217/16005;;;Obligaciones de ejercicios anteriores
+2007;G;2;21;218;;;Bienes situados en el exterior
+2007;G;2;21;219;;;Otro inmovilizado material
+2007;G;2;22;;;;Material, suministros y otros
+2007;G;2;22;220;;;Material de oficina
+2007;G;2;22;221;;;Suministros
+2007;G;2;22;222;;;Comunicaciones
+2007;G;2;22;223;;;Transportes
+2007;G;2;22;224;;;Primas de seguros
+2007;G;2;22;225;;;Tributos
+2007;G;2;22;226;;;Gastos diversos
+2007;G;2;22;227;;;Trabajos realizados por otras empresas y profesionales
+2007;G;2;22;228;;;Gastos originados por participación de las Fuerzas Armadas en operaciones de mantenimiento de la paz
+2007;G;2;22;229;;;Otros gastos de vida y funcionamiento
+2007;G;2;22;229/16001;;;Obligaciones de ejercicios anteriores
+2007;G;2;22;229/16003;;;Obligaciones de ejercicios anteriores
+2007;G;2;22;229/16004;;;Obligaciones de ejercicios anteriores
+2007;G;2;22;229/16005;;;Obligaciones de ejercicios anteriores
+2007;G;2;22;229/18002;;;Gastos de funcionamiento de los Centros Docentes no Universitarios
+2007;G;2;22;229/18009;;;Gastos de funcionamiento de los Centros Docentes no Universitarios
+2007;G;2;22;229/18010;;;Gastos de funcionamiento de los Centros Docentes no Universitarios
+2007;G;2;22;229/18011;;;Gastos de funcionamiento de los Centros Docentes no Universitarios
+2007;G;2;22;229/23003;;;Incidencias de ejercicios anteriores.
+2007;G;2;22;229/25003;;;Para los gastos de constitución y puesta en funcionamiento del nuevo Centro Internacional de Prensa
+2007;G;2;23;;;;Indemnizaciones por razón del servicio
+2007;G;2;23;230;;;Dietas
+2007;G;2;23;231;;;Locomoción
+2007;G;2;23;232;;;Traslado
+2007;G;2;23;233;;;Otras indemnizaciones
+2007;G;2;23;234;;;Dietas, locomoción y otras indemnizaciones
+2007;G;2;23;239;;;Obligaciones de ejercicios anteriores
+2007;G;2;24;;;;Gastos de publicaciones
+2007;G;2;24;240;;;Gastos de edición y distribución
+2007;G;2;25;;;;Conciertos de asistencia sanitaria
+2007;G;2;25;250;;;Con la Seguridad Social
+2007;G;2;25;251;;;Con entidades de seguro libre
+2007;G;2;25;258;;;Obligaciones de ejercicios anteriores
+2007;G;2;25;259;;;Otros conciertos de asistencia sanitaria
+2007;G;2;26;;;;Servicios sociales con medios ajenos
+2007;G;3;;;;;GASTOS FINANCIEROS
+2007;G;3;30;;;;De deuda pública en moneda nacional
+2007;G;3;30;300;;;Intereses
+2007;G;3;30;301;;;Gastos de emisión, modificación y cancelación
+2007;G;3;30;302;;;Diferencias de cambio devengadas en Eurobonos emitidos en monedas del área euro
+2007;G;3;30;309;;;Otros gastos financieros
+2007;G;3;31;;;;De préstamos en moneda nacional
+2007;G;3;31;310;;;Intereses
+2007;G;3;31;311;;;Gastos de emisión, modificación y cancelación
+2007;G;3;31;312;;;Diferencias de cambio devengadas en  préstamos concertados en monedas del área euro
+2007;G;3;31;319;;;Otros gastos financieros
+2007;G;3;32;;;;De deuda pública en moneda extranjera
+2007;G;3;32;320;;;Intereses
+2007;G;3;32;321;;;Gastos de emisión, modificación y cancelación
+2007;G;3;32;322;;;Diferencias de cambio
+2007;G;3;32;329;;;Otros gastos financieros
+2007;G;3;33;;;;De préstamos en moneda extranjera
+2007;G;3;33;330;;;Intereses
+2007;G;3;33;331;;;Gastos de emision, modificacion y cancelacion
+2007;G;3;33;339;;;Otros gastos financieros
+2007;G;3;34;;;;De depósitos y fianzas
+2007;G;3;34;340;;;Intereses de depósitos
+2007;G;3;35;;;;Intereses de demora y otros gastos financieros
+2007;G;3;35;350;;;Intereses de demora y otros gastos financieros
+2007;G;3;35;351;;;Cobertura de riesgos en avales prestados por el Tesoro, incluidos los riesgos de ejercicios anteriores
+2007;G;3;35;352;;;Intereses de demora
+2007;G;3;35;353;;;Intereses de demora por Sentencias, Recursos y Reclamaciones, incluidas obligaciones de ejercicios anteriores.
+2007;G;3;35;357;;;Gastos derivados de la acuñación del Euro
+2007;G;3;35;357/19102;;;Intereses deudores en Entidades financieras correspondientes a ejercicios anteriores
+2007;G;3;35;358;;;Intereses de demora correspondientes a liquidaciones de ejercicios anteriores
+2007;G;3;35;358/12103;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
+2007;G;3;35;358/17001;;;Obligaciones de ejercicios anteriores, por intereses de demora.
+2007;G;3;35;358/17020;;;Obligaciones de ejercicios anteriores, por intereses de demora
+2007;G;3;35;358/19001;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
+2007;G;3;35;358/23009;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
+2007;G;3;35;359;;;Otros gastos financieros
+2007;G;4;;;;;TRANSFERENCIAS CORRIENTES
+2007;G;4;40;;;;A la Administración del Estado
+2007;G;4;40;400;;;Al Estado, para generar crédito en el Ministerio de Defensa
+2007;G;4;40;400/16101;;;Al Estado, para generar crédito en el Ministerio del Interior por acuerdo del Ministro de Economía y Hacienda
+2007;G;4;40;400/19101;;;Planes de reinserción y de mejora de la capacidad de ocupación de demandantes de empleo
+2007;G;4;40;400/25201;;;Al Estado
+2007;G;4;40;400/60001;;;A la Administración del Estado
+2007;G;4;40;401;;;Al Estado
+2007;G;4;40;401/19101;;;"Reserva gestión directa del SPEE ""Cuotas de seguros de accidentes de alumnos, becas y/o ayudas a alumnos y subvenciones a entidades colaboradoras de F.P.O. para parados, a órganos de la Administración General del Estado"""
+2007;G;4;40;401/20102;;;A la Administración del Estado.
+2007;G;4;40;402;;;"Reserva gestión directa del SPEE ""Para gastos derivados de políticas activas de fomento del empleo"""
+2007;G;4;40;409;;;Para equilibrar el coste asumido por el Estado por las transferencias a las Comunidades Autónomas en políticas activas de empleo
+2007;G;4;41;;;;A Organismos Autónomos
+2007;G;4;41;410;;;A organismos autónomos
+2007;G;4;41;410/14001;;;A organismos autónomos del Departamento
+2007;G;4;41;410/14003;;;A organismos autónomos del Departamento
+2007;G;4;41;410/15005;;;Al Instituto de Estudios Fiscales
+2007;G;4;41;410/16002;;;A la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado
+2007;G;4;41;410/17020;;;Al Centro de Estudios y Experimentación de Obras Públicas. (C.E.D.E.X)
+2007;G;4;41;410/17039;;;A la Jefatura de Tráfico para cursos de formación de la Agrupación de Tráfico de la Guardia Civil.
+2007;G;4;41;410/18001;;;Al Consejo Superior de Deportes.
+2007;G;4;41;410/18003;;;Al Instituto Geológico y Minero de España (IGME)
+2007;G;4;41;410/18006;;;Al Consejo Superior de Investigaciones Científicas
+2007;G;4;41;410/18007;;;A la Universidad Internacional Menéndez Pelayo
+2007;G;4;41;410/18008;;;Al Instituto Geológico y Minero de España (IGME), para los gastos de la participación española en el Comité Polar
+2007;G;4;41;410/18009;;;Al Organismo Autónomo Programas Educativos Europeos, para el cumplimiento de sus fines
+2007;G;4;41;410/19003;;;Al Servicio Público de Empleo Estatal para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía
+2007;G;4;41;410/21009;;;Subvención al Fondo de Regulación y Organización del Mercado de Productos de la Pesca y Cultivos Marinos (FROM)
+2007;G;4;41;410/22001;;;Al Instituto Nacional de Administración Pública
+2007;G;4;41;410/23004;;;Subvención al Organismo Autónomo Parques Nacionales
+2007;G;4;41;410/23005;;;A OO.AA. adscritos a la Dirección General del Agua.
+2007;G;4;41;410/23232;;;A la Confederación Hidrográfica del Tajo, gastos de explotación del trasvase Tajo-Segura.
+2007;G;4;41;410/25002;;;Al Centro de Estudios Políticos y Constitucionales
+2007;G;4;41;410/27001;;;Al Consejo de la Juventud de España
+2007;G;4;41;410/31004;;;Al Parque Móvil del Estado
+2007;G;4;41;411;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
+2007;G;4;41;411/16005;;;A Trabajo Penitenciario y Formación para el Empleo
+2007;G;4;41;411/18003;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+2007;G;4;41;411/18007;;;A la Universidad Internacional Menéndez Pelayo, para definición y desarrollo del Espacio Europeo de la Educación Superior
+2007;G;4;41;411/18202;;;Aportación al Instituto de Salud Carlos III para cofinanciar los gastos del convenio con el Instituto Salk de Estudios Biológicos.
+2007;G;4;41;411/19101;;;Al Consejo de Administración del Patrimonio Nacional, para gastos derivados del programa de Escuelas Taller, Casas de Oficios y Talleres de Empleo
+2007;G;4;41;411/20004;;;Al Instituto de Turismo de España
+2007;G;4;41;411/23005;;;Para el pago del IBI de bienes de titularidad estatal
+2007;G;4;41;411/24001;;;Al Museo Nacional Centro de Arte Reina Sofía.
+2007;G;4;41;411/25002;;;Al Centro de Investigaciones Sociológicas.
+2007;G;4;41;411/31002;;;"Aportación del Estado  a la Mutualidad General  de Funcionarios Civiles del Estado,  al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, al amparo de las siguientes Disposiciones: artículo 30.3 del Real Decreto Legislativo 1/2000,  de 9 de junio;  artículo 24 y Disposición Adicional 3ª.3 del Real Decreto Legislativo 3/2000, de 23 de junio y  artículo 35.3 del Real Decreto Legislativo  4/2000, de 23 de junio"
+2007;G;4;41;412;;;Al Parque de Maquinaria para compensar las actividades de desarrollo de la Junta Administradora de vehículos y maquinaria.
+2007;G;4;41;412/17018;;;Al Centro Nacional de Información Geográfica (CNIG)
+2007;G;4;41;412/18003;;;Al Instituto Español de Oceanografía (IEO)
+2007;G;4;41;412/19101;;;Reserva de gestión directa del SPEE. Trabajo Penitenciario y Formación para el Empleo (Ministerio del Interior). Para gastos derivados de políticas activas de fomento del empleo
+2007;G;4;41;412/20018;;;Al Instituto para la Reestructuración de la Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras
+2007;G;4;41;412/21001;;;Subvención a la Agencia para el Aceite de Oliva (AAO)
+2007;G;4;41;412/24001;;;A la Biblioteca Nacional.
+2007;G;4;41;412/26004;;;Al Instituto Nacional del Consumo.
+2007;G;4;41;413;;;Al Instituto de Contabilidad y Auditoría de Cuentas
+2007;G;4;41;413/18003;;;Al Consejo Superior de Investigaciones Científicas (CSIC)
+2007;G;4;41;413/19101;;;Reserva de gestión directa del SPEE. Dirección General de Tráfico -Jefatura de Tráfico- (Ministerio del Interior). Para gastos derivados de politicas activas de fomento del empleo
+2007;G;4;41;413/21001;;;Subvención al Fondo Español de Garantía Agraria (FEGA)
+2007;G;4;41;414;;;A la Agencia Española de Cooperación Internacional, para atender los gastos derivados de proyectos de ayuda oficial al desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
+2007;G;4;41;414/18003;;;Al Instituto de Astrofísica de Canarias (IAC)
+2007;G;4;41;414/19101;;;Reserva de gestión directa del SPEE, Consejo Superior de Investigaciones Científicas (Ministerio de Educación y Ciencia). Para gastos derivados de políticas activas de fomento del empleo
+2007;G;4;41;414/21001;;;Subvención a la Entidad Estatal de Seguros Agrarios (ENESA)
+2007;G;4;41;414/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales.
+2007;G;4;41;414/26009;;;A la Agencia Española de Medicamentos y Productos Sanitarios
+2007;G;4;41;414/26011;;;A la Organización Nacional de Trasplantes
+2007;G;4;41;415;;;A la Agencia Española de Cooperación Internacional, para los fines sociales que se realicen en el campo de la cooperación internacional (art.2.del Real Decreto 825/1988, de 15 de julio). Porcentaje IRPF
+2007;G;4;41;415/15016;;;Al Instituto Nacional de Estadística
+2007;G;4;41;415/18003;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
+2007;G;4;41;415/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo para el cumplimiento de sus fines.
+2007;G;4;41;415/19101;;;Al Instituto Nacional de Administración Pública, para la formación continua del personal al servicio de las Administraciones Públicas
+2007;G;4;41;415/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales. Dotación del Fondo de Protección a la Cinematografía.
+2007;G;4;41;415/26001;;;A la Agencia Española de Seguridad Alimentaria.
+2007;G;4;41;416;;;Al Tribunal de Defensa de la Competencia
+2007;G;4;41;416/18003;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) para subvencionar la Fundación Ciudad de la Energía
+2007;G;4;41;416/19008;;;Al Instituto de la Mujer para el cumplimiento de sus fines
+2007;G;4;41;416/20015;;;Al Centro Español de Metrología
+2007;G;4;41;416/24001;;;Al Instituto Nacional de las Artes Escénicas y de la Música
+2007;G;4;41;416/26001;;;Al Instituto de Salud Carlos III.
+2007;G;4;41;417;;;Al Instituto de la Juventud para el cumplimiento de sus fines
+2007;G;4;41;417/19101;;;A la Agencia Española de Cooperación Internacional, para financiar los gastos derivados del programa de Escuelas Taller y Casas de Oficios a desarrollar en el exterior
+2007;G;4;41;417/24001;;;A la Gerencia de Infraestructuras y Equipamientos de Cultura
+2007;G;4;41;417/25002;;;Al Consejo de Administración del Patrimonio Nacional
+2007;G;4;41;418;;;Al Consejo de la Juventud de España para el cumplimiento de sus fines
+2007;G;4;41;419;;;Al Real Patronato sobre Discapacidad para el cumplimiento de sus fines.
+2007;G;4;42;;;;A la Seguridad Social
+2007;G;4;42;420;;;Seguros sociales de los condenados a la pena de trabajos en beneficio de la comunidad
+2007;G;4;42;420/19002;;;Prestaciones socio-económicas de carácter no contributivo.
+2007;G;4;42;421;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones corrientes del Instituto Nacional de Gestión Sanitaria.
+2007;G;4;42;421/26013;;;Al Instituto Nacional de Gestión Sanitaria para el desarrollo del Plan de Calidad del Sistema Nacional de Salud, en las ciudades de Ceuta y Melilla (por incremento de la población protegida).
+2007;G;4;42;421/60001;;;Aportaciones para el sostenimiento de servicios comunes
+2007;G;4;42;422;;;Ayudas destinadas a facilitar la jubilación de trabajadores de empresas en crisis no acogidas a planes de reconversión.
+2007;G;4;42;422/60001;;;Capitales renta
+2007;G;4;42;423;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.
+2007;G;4;42;423/60001;;;Cuotas de reaseguro de accidentes de trabajo
+2007;G;4;42;424;;;Al IMSERSO.Servicios sociales Ley 24/1997.
+2007;G;4;42;425;;;Cuotas de seguridad social de emigrantes
+2007;G;4;42;425/26012;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago.
+2007;G;4;42;426;;;Aportación del Estado a la Seguridad Social para financiar los servicios social del ISM
+2007;G;4;42;427;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina (ISM).
+2007;G;4;42;428;;;Aportación del Estado para financiar capitales coste correspondientes a docentes del euskera que no pudieron cotizar por su actividad
+2007;G;4;42;429;;;Otras aportaciones a la Seguridad Social.
+2007;G;4;42;429/60001;;;Otras transferencias a entidades del sistema
+2007;G;4;43;;;;A Agencias Estatales y otros Organismos Públicos
+2007;G;4;43;430;;;A la Agencia de la Evaluación de políticas y programas públicos, calidad de los servicios e impacto normativo
+2007;G;4;43;435;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
+2007;G;4;43;435/16001;;;A la Agencia Estatal de Administración Tributaria, por los gastos comunes del edificio de la calle del Plomo en Madrid
+2007;G;4;43;435/19001;;;Al Consejo Económico y Social para el cumpliento de sus fines
+2007;G;4;43;436;;;Al Consejo de Seguridad Nuclear
+2007;G;4;43;437;;;Al Instituto Cervantes
+2007;G;4;43;437/13002;;;A la Agencia Española de Protección de Datos
+2007;G;4;43;437/14001;;;A Organismos Públicos
+2007;G;4;43;437/20003;;;Transferencias a Entes Públicos
+2007;G;4;43;437/24001;;;Al Museo Nacional del Prado.
+2007;G;4;44;;;;A Sdades, Ent.Públ.Emp, Fundac. y resto entes Sect. Públ.
+2007;G;4;44;440;;;Subvenciones a Organismos
+2007;G;4;44;440/12103;;;Instituciones adheridas en España
+2007;G;4;44;440/14205;;;A sociedades mercantiles estatales, entidades empresariales y otros organismos
+2007;G;4;44;440/17001;;;A la Sociedad Estatal Correos y Telégrafos, S.A., para la prestación del Servicio Postal Universal.
+2007;G;4;44;440/17018;;;A la Universidad Politécnica de Madrid
+2007;G;4;44;440/18001;;;A la Fundación Residencia de Estudiantes, para sus gastos de funcionamiento
+2007;G;4;44;440/18007;;;Al Hospital Clínico y Provincial de Barcelona
+2007;G;4;44;440/18008;;;A la Fundación Española de Ciencia y Tecnología para la Oficina Eurociencia
+2007;G;4;44;440/18203;;;Aportación a la Fundación Estatal Ciudad de la Energía, para cumplimiento de sus fines
+2007;G;4;44;440/18204;;;Subvenciones a Universidades
+2007;G;4;44;440/19003;;;A la Fundación del Sevicio Interconfederal de Mediación y Arbitraje (SIMA)
+2007;G;4;44;440/19101;;;Planes de reinsercion y de mejora de la capacidad de ocupacion de demandantes de empleo
+2007;G;4;44;440/20004;;;A la Sociedad Estatal para el Desarrollo Tecnológico del Turismo, S.A. (SEDETTUR)
+2007;G;4;44;440/20019;;;A ENRESA para la realización de una campaña para la recuperación de Fuentes Huérfanas
+2007;G;4;44;440/20102;;;Subvención a la Fundación Escuela de Organización Industrial
+2007;G;4;44;440/21001;;;Al Consorcio de Compensación de Seguros para cobertura de pérdidas del Seguro Agrario Combinado.
+2007;G;4;44;440/23003;;;Ayudas a organismos de investigación meteorológica.
+2007;G;4;44;440/23004;;;A la Fundación Biodiversidad
+2007;G;4;44;440/23101;;;Al IDAE para atender obligaciones derivadas del Convenio para la rehabilitación del Salto del Olvido
+2007;G;4;44;440/23225;;;Convenio con la Universidad de León
+2007;G;4;44;440/23229;;;Aportacion a la Universidad de Extremadura
+2007;G;4;44;440/23233;;;A la Universidad de Oviedo
+2007;G;4;44;440/24003;;;A la Fundación Thyssen Bornemisza, en concepto de déficit dotable
+2007;G;4;44;440/24005;;;Al Consorcio Forum de las Culturas Barcelona 2004, para atender los gastos extraordinarios derivados de la liquidación del Consorcio y de Fórum de las Culturas 2004 S.A.
+2007;G;4;44;440/24101;;;Festival Internacional de Cine de San Sebastián, S.A.
+2007;G;4;44;440/24201;;;A la Fundación Teatro Lírico, para el desarrollo de sus actividades musicales.
+2007;G;4;44;440/25002;;;Al Consorcio para la conmemoración del Bicentenario de la Constitución de 1812
+2007;G;4;44;441;;;A la Universidad Nacional de Educación a Distancia
+2007;G;4;44;441/12103;;;A la Fundación Carolina
+2007;G;4;44;441/13001;;;A la Fundación Pluralismo y Convivencia
+2007;G;4;44;441/15001;;;Al Ente Público Radio Televisión Española (en liquidación)
+2007;G;4;44;441/15105;;;A la Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas - FIIAPP
+2007;G;4;44;441/16004;;;Colaboración con Universidades
+2007;G;4;44;441/17018;;;Formación Geográfica internacional
+2007;G;4;44;441/17032;;;A la Sociedad Estatal de Salvamento y Seguridad Marítima, (SASEMAR).
+2007;G;4;44;441/18003;;;A la Fundación Agencia Nacional de Evaluación de la Calidad y Acreditación, para su funcionamiento y desarrollo de sus funciones
+2007;G;4;44;441/18007;;;A la Universidad Nacional de Educación a Distancia.
+2007;G;4;44;441/18009;;;A Universidades y otras instituciones de carácter público para programas de formación del profesorado
+2007;G;4;44;441/18010;;;"A la Sociedad Mercantil Estatal Televisión Española, S. A. para la producción y emisión del espacio educativo ""La Aventura del Saber"""
+2007;G;4;44;441/18101;;;A Universidades y Entidades Públicas para programas de apoyo científico al deporte y actividades afines.
+2007;G;4;44;441/18137;;;Al Consorcio Universidad Internacional Menéndez Pelayo Barcelona
+2007;G;4;44;441/20001;;;A la Fundación Escuela de Organización Industrial
+2007;G;4;44;441/20014;;;A la Fundación Residencia de Estudiantes, para gastos de funcionamiento relacionados con el desarrollo de la Sociedad de la información
+2007;G;4;44;441/20016;;;Para compensar al Instituto de Crédito Oficial (ICO) de quebrantos por avales y préstamos de reconversión industrial
+2007;G;4;44;441/20101;;;Ayudas a los costes de explotación para empresas productoras de carbón
+2007;G;4;44;441/20102;;;Programa de fomento de las solicitudes de Patentes en el exterior a fundaciones estatales
+2007;G;4;44;441/23229;;;Aportacion a la Universidad de Castilla-La Mancha
+2007;G;4;44;441/24003;;;Al CSIC para realización de un estudio sobre el estado de conservación de las Cuevas de Altamira
+2007;G;4;44;441/24005;;;A la Fundación Centro Nacional del Vidrio, para sus gastos de funcionamiento.
+2007;G;4;44;441/24201;;;Transferencias para actividades musicales y coreográficas de ámbito nacional.
+2007;G;4;44;441/26001;;;Al Hospital Clínico y Provincial de Barcelona
+2007;G;4;44;441/26203;;;"A la ""Fundación Centro Nacional de Investigaciones Oncológicas Carlos III"". Operaciones corrientes."
+2007;G;4;44;442;;;Al Grupo de la Corporación R.T.V.E.
+2007;G;4;44;442/12103;;;Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas, para funcionamiento y actividades
+2007;G;4;44;442/17032;;;Compensación económica a Empresas Públicas o privadas de transporte marítimo por la prestación del servicio de navegaciones de interés público.
+2007;G;4;44;442/17040;;;A FEVE por déficit de explotación.
+2007;G;4;44;442/18002;;;Para desarrollar Programas de Promoción y Difusión del Español
+2007;G;4;44;442/18003;;;A la Fundación para el Desarrollo de la Investigación en Genómica y Proteómica
+2007;G;4;44;442/18008;;;Para los gastos de funcionamiento de la Secretaria del Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED)
+2007;G;4;44;442/18101;;;Al Centro de Alto Rendimiento Deportivo de San Cugat (Barcelona) para gastos de funcionamiento
+2007;G;4;44;442/20001;;;A la Fundación Residencia de Estudiantes para el proyecto memoria de la Edad de Plata en la Sociedad del Conocimiento
+2007;G;4;44;442/20015;;;Al CDTI para financiación de la RED PI+D+I
+2007;G;4;44;442/20102;;;Programa de fomento de las solicitudes de Patentes en el exterior a sociedades mercantiles, entidades empresariales y otros organismos públicos
+2007;G;4;44;442/23007;;;"A la Fundación ""Entorno, Empresa y Medio Ambiente"""
+2007;G;4;44;442/23229;;;Aportacion a la Comunidad General de Usuarios del Acuifero Mancha Occidental
+2007;G;4;44;442/24005;;;A la Fundación Víctimas del Terrorismo, para desarrollo de sus actividades.
+2007;G;4;44;442/24201;;;Programas de apoyo a festivales de música y temporadas líricas de interés nacional
+2007;G;4;44;442/26001;;;Al Hospital Clínico y Provincial de Barcelona para atender liquidaciones pendientes de ejercicios anteriores.
+2007;G;4;44;442/26203;;;"A la ""Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III"". Operaciones corrientes"
+2007;G;4;44;443;;;"Al Consorcio ""Ciudad de Santiago de Compostela"""
+2007;G;4;44;443/12103;;;Fundación Colegios Mayores MAE-AECI
+2007;G;4;44;443/18003;;;A la Fundación de Ciencia y Tecnología
+2007;G;4;44;443/18101;;;A Universidades para actividades estatales de deporte universitario.
+2007;G;4;44;443/19101;;;A la Fundación Estatal para la Formación en el Empleo, para gastos corrientes
+2007;G;4;44;443/20015;;;Al Centro para el Desarrollo Tecnológico Industrial (CDTI) para Oficina SOST en Bruselas
+2007;G;4;44;443/24005;;;A la Fundación Residencia de Estudiantes
+2007;G;4;44;443/24201;;;Al Instituto Complutense de Ciencias Musicales para el desarrollo de sus actividades musicales.
+2007;G;4;44;443/26203;;;"A la ""Fundación para la Cooperación y Salud Internacional Carlos III"". Operaciones corrientes."
+2007;G;4;44;444;;;Al Consorcio de la Ciudad de Toledo
+2007;G;4;44;444/12103;;;Fundación Residencia de Estudiantes, funcionamiento y actividades
+2007;G;4;44;444/18007;;;Al Hospital Clínico y Provincial de Barcelona, para atender liquidaciones pendientes de ejercicios anteriores
+2007;G;4;44;444/20006;;;Para cobertura de las diferencias producidas por operaciones autorizadas al amparo de la Ley 11/1983, de subvención al crédito a la exportación a librar a través del Instituto de Crédito Oficial (ICO)
+2007;G;4;44;444/23004;;;A la Fundación Ferrocarriles Españoles
+2007;G;4;44;444/26203;;;"A la ""Fundación para el desarrollo de la Investigación en Genómica y Proteómica"". Operaciones corrientes."
+2007;G;4;44;445;;;Al Consorcio de la Ciudad de Cuenca
+2007;G;4;44;445/12103;;;Fundación Española para la Innovación de la Artesanía, actividades
+2007;G;4;44;445/18007;;;A la Universidad de Granada para atender la financiación que corresponda a los centros y enseñanzas universitarias en Ceuta y Melilla
+2007;G;4;44;445/20006;;;A la Sociedad Estatal para la Promoción y Atracción de las Inversiones Exteriores, S.A.
+2007;G;4;44;445/24005;;;A la Fundación Instituto de Cultura Gitana
+2007;G;4;44;445/24201;;;A la Fundación Centro de Artes del Movimiento para sus actividades
+2007;G;4;44;445/26203;;;"la ""Fundación Centro de Investigación de Enfermedades Neurológicas"". Operaciones corrientes."
+2007;G;4;44;446;;;Al Consorcio Expo Zaragoza 2008
+2007;G;4;44;446/12103;;;Fundación para la Coperación y Salud Internacional Carlos III, actividades
+2007;G;4;44;446/17040;;;A RENFE-OPERADORA por compensación por la prestación de servicios de Cercanías y Media Distancia
+2007;G;4;44;446/18007;;;"Aportación a las Universidades como contribución por los costes derivados de su participación en el Programa Español de Ayudas para la Movilidad de Estudiantes ""Séneca"""
+2007;G;4;44;446/20006;;;Elaboración de un estudio sobre ventajas y perjuicios de la integración de Ceuta en la Unión Aduanera
+2007;G;4;44;446/32009;;;A la Entidad Pública de Transporte Metropolitano de Valencia
+2007;G;4;44;447;;;A RENFE-OPERADORA para compensación de pérdidas del Resto de Negocios y Plan de Recursos Humanos
+2007;G;4;44;447/12103;;;Universidad Complutense de Madrid
+2007;G;4;44;447/18204;;;Transferencias para sostenimiento de servicios comunes.
+2007;G;4;44;447/20006;;;Elaboración de un estudio de los mercados potenciales para empresas que acogiendose a las Reglas de Origen, pudieran instalarse en Ceuta
+2007;G;4;44;447/23226;;;A la Universidad de León
+2007;G;4;44;448;;;A la Universidad de Barcelona
+2007;G;4;44;448/12103;;;Sociedad Estatal Expoagua Zaragoza 2008, S. A.
+2007;G;4;44;448/15001;;;Al Consorcio de la Zona Especial Canaria
+2007;G;4;44;448/15105;;;A la Universidad de Alcalá de Henares
+2007;G;4;44;448/18003;;;Para reembolsar a las Universidades los gastos derivados de la actuación de las Comisiones de habilitación, de acuerdo con lo establecido en el artículo 8.7 del Real Decreto 774/2002, de 26 de julio
+2007;G;4;44;448/18007;;;Programa de estudios para la realización de proyectos de innovación universitaria
+2007;G;4;44;448/20014;;;Al Instituto Nacional de las Tecnologías de las Comunicaciones, S.A. (INTECO) (Plan León)
+2007;G;4;44;448/20302;;;A Organismos Públicos con presupuestos no consolidables con los del Estado
+2007;G;4;44;448/23226;;;A la Universidad de Zaragoza
+2007;G;4;44;449;;;Al Patronato de la Obra Pía de los Santos Lugares de Jerusalén
+2007;G;4;44;449/60001;;;Otras transferencias
+2007;G;4;45;;;;A Comunidades Autónomas
+2007;G;4;45;450;;;Comunidades Autónomas. Programa de Reforma de la Administración de Justicia
+2007;G;4;45;450/16101;;;Gestión de cobro de tasas por las estaciones ITV
+2007;G;4;45;450/18010;;;Convenios con las Ciudades Autónomas de Ceuta y Melilla para la extensión del primer ciclo de educación infantil
+2007;G;4;45;450/18011;;;Para programas integrados de apoyo y refuerzo en centros de Educación Primaria y Educación Secundaria
+2007;G;4;45;450/18204;;;Transferencias para actividades complementarias.
+2007;G;4;45;450/19008;;;Para actuaciones conjuntas contra la violencia de género
+2007;G;4;45;450/19201;;;"Acciones del ""Plan Juventud"" concertadas con CC.AA."
+2007;G;4;45;450/21211;;;Al País Vasco y Navarra por costes de traspaso fuera de cupo
+2007;G;4;45;450/22101;;;Para formación continua
+2007;G;4;45;450/23101;;;Fondos para nuevos parques nacionales
+2007;G;4;45;450/26203;;;A CC.AA. para la investigación en terapia celular y medicina regenerativa. Operaciones corrientes.
+2007;G;4;45;450/27009;;;Para políticas de promoción pública de acceso a viviendas y acceso en alquiler.
+2007;G;4;45;450/32001;;;Compensación financiera derivada del Impuesto Especial sobre labores de tabaco,  incluso liquidación definitiva del ejercicio anterior
+2007;G;4;45;450/32002;;;A la  Autoridad  del Transporte  Metropolitano  de Barcelona
+2007;G;4;45;450/32012;;;A la Comunidad Autónoma de Canarias para apoyo y fomento del transporte colectivo en las distintas Islas
+2007;G;4;45;450/60001;;;A Comunidades Autónomas por funciones y servicios transferidos
+2007;G;4;45;451;;;Coste provisional de la policía autónoma de Cataluña, incluso liquidaciones definitivas de ejercicios anteriores
+2007;G;4;45;451/16201;;;Convenios en materia de educación para el empleo
+2007;G;4;45;451/17020;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99)
+2007;G;4;45;451/18010;;;Para actividades de Educación Compensatoria.
+2007;G;4;45;451/18011;;;Convenios con Comunidades Autónomas para apoyar la Ley Organica de la Educación
+2007;G;4;45;451/19007;;;Para acciones en favor de los migrantes
+2007;G;4;45;451/19101;;;Dotación para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía
+2007;G;4;45;451/19105;;;Transferencias a Comunidades Autónomas para programas dirigidos a mujeres
+2007;G;4;45;451/19201;;;"A CC.AA. para proyectos y actividades del programa ""Juventud"" de la Unión Europea"
+2007;G;4;45;451/20019;;;Actuaciones de Seguridad Minera
+2007;G;4;45;451/20302;;;Por participación en ingresos del Consejo de Seguridad Nuclear
+2007;G;4;45;451/21211;;;Transferencia para compensación de los gastos técnicos de intervención.
+2007;G;4;45;451/23008;;;CV MIMAM - C.A. Cataluña apoyo actuaciones Departamento Medio Ambiente y Vivienda y Agencia de Residuos de Cataluña
+2007;G;4;45;451/23228;;;A la C.A. de Andalucia para el trasvase Guadiaro-Majaceite
+2007;G;4;45;451/24004;;;Confección del Catálogo Colectivo del Patrimonio Bibliográfico Español.
+2007;G;4;45;451/24101;;;Ayudas al Instituto Catalán de Industrias Culturales
+2007;G;4;45;451/24201;;;Transferencias para actividades musicales de ámbito nacional e internacional
+2007;G;4;45;451/26007;;;Transferencias a CC.AA. para toda clase de gastos, incluso personal, que originen los programas autonómicos derivados del Plan Nacional sobre el SIDA.
+2007;G;4;45;451/26014;;;Para toda clase de gastos que origine el desarrollo de la Estrategia Nacional sobre Drogas 2000-2008 en los programas autonómicos derivados del Plan Nacional sobre Drogas.
+2007;G;4;45;451/26102;;;Ayuda a la gestión de las Juntas Arbitrales adscritas a administraciones autonómicas.
+2007;G;4;45;451/26203;;;Convenios para la dirección técnica de usos tutelados y mantenimiento de un Sistema de Agentes de Evaluación de Tecnologías Sanitarias.
+2007;G;4;45;451/32002;;;Fondo de Suficiencia
+2007;G;4;45;451/32003;;;Fondo de Suficiencia
+2007;G;4;45;451/32004;;;Fondo de Suficiencia
+2007;G;4;45;451/32005;;;Fondo de Suficiencia
+2007;G;4;45;451/32006;;;Fondo de Suficiencia
+2007;G;4;45;451/32007;;;Fondo de Suficiencia
+2007;G;4;45;451/32008;;;Fondo de Suficiencia
+2007;G;4;45;451/32009;;;Fondo de Suficiencia
+2007;G;4;45;451/32010;;;Fondo de Suficiencia
+2007;G;4;45;451/32011;;;Fondo de Suficiencia
+2007;G;4;45;451/32012;;;Fondo de Suficiencia
+2007;G;4;45;451/32014;;;Fondo de Suficiencia
+2007;G;4;45;451/32017;;;Fondo de Suficiencia
+2007;G;4;45;451/32019;;;Fondo de Suficiencia
+2007;G;4;45;451/32020;;;Fondo de Suficiencia
+2007;G;4;45;451/60001;;;Para atención a personas en situación de dependencia
+2007;G;4;45;452;;;Para la concesión de ayudas a Federaciones y Confederaciones de Asociaciones de Padres de Alumnos en que aquéllas se integren.
+2007;G;4;45;452/18011;;;Para la gratuidad del segundo ciclo de educación infantil
+2007;G;4;45;452/19004;;;Mantenimiento de plazas y otras actuaciones del Plan de Acción para las personas mayores.
+2007;G;4;45;452/19101;;;Gestión por las Comunidades Autónomas de la formación profesional ocupacional y continua
+2007;G;4;45;452/21001;;;A la Comunidad Autónoma de Canarias para fomentar la concentración de cooperativas agrícolas.
+2007;G;4;45;452/23008;;;A la Comunidad Autónoma de Canarias para la protección y mejora del medio natural de Las Palmas de Gran Canaria
+2007;G;4;45;452/24004;;;Para la actualización del Censo Guía de los Archivos Españoles
+2007;G;4;45;452/24201;;;"A la Consejería de Cultura y Deportes de la Comunidad de Madrid para el desarrollo de ""Madrid en Danza"""
+2007;G;4;45;452/26007;;;Transferencias a CC.AA. para toda clase de gastos necesarios para el desarrollo de programas de prevención y promoción de la salud, especialmente en el ámbito de enfermedades  emergentes, reemergentes y de especial relevancia.
+2007;G;4;45;452/26014;;;Para toda clase de gastos que originen los programas de prevención de drogodependencias desarrollados en el marco de la Estrategia Nacional sobre Drogas 2000-2008.
+2007;G;4;45;452/26203;;;A Comunidades Autónomas para el Programa de Estabilización e Intensificación de la Investigación.
+2007;G;4;45;452/32018;;;Liquidación definitiva de la financiación de las Comunidades Autónomas y ciudades con Estatuto de Autonomía de ejercicios anteriores.
+2007;G;4;45;453;;;Convenios con Comunidades Autónomas para el desarrollo de programas de inserción social y laboral
+2007;G;4;45;453/18011;;;A Comunidades Autonomas para mejora de las Bibliotecas Escolares
+2007;G;4;45;453/19003;;;Gestión de diferentes programas de fomento de empleo en Comunidades Autónomas con gestión  transferida
+2007;G;4;45;453/19004;;;Programas de servicios sociales
+2007;G;4;45;453/24004;;;Mejora colecciones bibliográficas de las Bibliotecas Públicas
+2007;G;4;45;453/24201;;;"A la Consejería de las Artes de la Comunidad de Madrid para el Festival para niños ""TEATRALIA"""
+2007;G;4;45;453/26012;;;Fondo de cohesión sanitaria.
+2007;G;4;45;453/32002;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32003;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32004;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32005;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32006;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32007;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32008;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32009;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32010;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32011;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32012;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32014;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32015;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32016;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;453/32017;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
+2007;G;4;45;454;;;A Comunidades Autónomas para Centros de Referencia Nacional y Centros integrados de Formación Profesional
+2007;G;4;45;454/18101;;;A Comunidades Autónomas para actividad deportiva estatal en edad escolar y en la Universidad, incluidas Ceuta y Melilla
+2007;G;4;45;454/19004;;;Para programas y/o servicios de apoyo a familias y atención de menores
+2007;G;4;45;454/19101;;;Gestión por Comunidades Autónomas de programas de fomento del empleo, Escuelas Taller, Casas de Oficios y Talleres de Empleo
+2007;G;4;45;454/24004;;;Preservación Patrimonio digital
+2007;G;4;45;454/26012;;;A CC.AA. Estrategias de Salud del Sistema Nacional de Salud.
+2007;G;4;45;454/26014;;;Para toda clase de gastos derivados del desarrollo del Observatorio Español sobre Drogas.
+2007;G;4;45;454/32012;;;Dotación de Compensación de Insularidad
+2007;G;4;45;454/32015;;;Dotación de Compensación de Insularidad
+2007;G;4;45;455;;;Convenios con CC.AA. para desarrollar actividades destinadas al alumnado con sobredotación intelectual o con talento.
+2007;G;4;45;455/18101;;;A Comunidades Autónomas de Baleares, Canarias y ciudades autónomas de Ceuta y Melilla para desplazamientos de participantes en competiciones estatales
+2007;G;4;45;455/19004;;;Plan de acción para discapacitados.
+2007;G;4;45;455/19007;;;Acciones de integración a favor de los inmigrantes
+2007;G;4;45;455/19101;;;Planes Integrales de Empleo y otras actuaciones en materia de empleo,  mediante convenios de colaboración con Comunidades Autónomas
+2007;G;4;45;455/24005;;;A las CCAA de Baleares, Canarias y Ciudades Autónomas de Ceuta y Melilla para desplazamientos a/desde la península de empresas, personas e Instituciones con motivo de eventos de carácter artístico y/o cultural
+2007;G;4;45;455/32016;;;Al  Consorcio Regional de Transportes de Madrid  para la financiación del  transporte  regular de viajeros  en el año 2007, a cuenta del Contrato-Programa a suscribir con el Estado, tras tener en cuenta la aplicación de las Cuentas Reserva de los Contratos-Programa 1998-2001 y 2002-2004 y la propuesta de liquidación de la Comisión de Seguimiento correspondiente al ejercicio 2005
+2007;G;4;45;456;;;A la Comunidad Autónoma de Extremadura para la creación, mediante convenio, de un Centro Nacional de Desarrollo Curricular en sistemas no propietarios
+2007;G;4;45;456/18101;;;A Comunidades Autónomas para gastos de funcionamiento de Centros de Alto Rendimiento y Tecnificación
+2007;G;4;45;456/26014;;;Para toda clase de gastos derivados de programas de rehabilitación-reinserción de toxicómanos con problemas juridicopenales.
+2007;G;4;45;457;;;Para el aumento de oferta de plazas en las Escuelas Oficiales de Idiomas, para la enseñanza del inglés
+2007;G;4;45;457/19004;;;Mantenimiento de plazas y otras actuaciones para personas con Alzheimer y otras demencias del Plan de Acción para las personas mayores.
+2007;G;4;45;457/19101;;;A Comunidades Autónomas. Para actuaciones de centros nacionales de formación ocupacional
+2007;G;4;45;458;;;Plan Estatal del Voluntariado
+2007;G;4;45;458/19101;;;Para la modernización de los servicios públicos de empleo, según la ley 45/2002, de 12 de diciembre
+2007;G;4;45;458/26014;;;Actividades derivadas de la aplicación de la Ley 17/2003, de cuyo Fondo serán beneficiarias las CC.AA., las CC.LL. y las ONGs con actuaciones comunitarias o locales.
+2007;G;4;45;459;;;Transferencia a la Generalitat Valenciana para Reunión IPPC
+2007;G;4;45;459/26014;;;Para toda clase de gastos que originen aquellos programas que la Delegación del Gobierno para el Plan Nacional sobre Drogas considere prioritarios en función de las necesidades de determinadas áreas y ámbitos de intervención.
+2007;G;4;45;459/60001;;;Otras transferencias corrientes
+2007;G;4;46;;;;A Corporaciones Locales
+2007;G;4;46;460;;;Actuacionespara la ordenación de los flujos migratorios laborales cofinanciadas o no cofinanciadas por el Fondo Social Europeo
+2007;G;4;46;460/18204;;;Transferencias para actividades complementarias.
+2007;G;4;46;460/19008;;;Para actuaciones conjuntas contra la violencia de género
+2007;G;4;46;460/19101;;;Planes de reinserción, mejora de la capacidad de ocupación de demandantes de empleo y fomento del desarrollo local
+2007;G;4;46;460/19107;;;Para experiencias innovadoras
+2007;G;4;46;460/19201;;;"A Entidades de la Administración Local para proyectos del programa ""Juventud"" de la Unión Europea."
+2007;G;4;46;460/20007;;;Premios a Ayuntamientos para estimular acciones de renovación urbana comercial
+2007;G;4;46;460/22003;;;Compensaciones a Entidades Locales
+2007;G;4;46;460/22101;;;Para formación continua.
+2007;G;4;46;460/23007;;;A la Federación Española de Municipios y Provincias para cam pañas de sensibilización de prevención de la contaminación
+2007;G;4;46;460/23101;;;A Corporaciones Locales
+2007;G;4;46;460/24003;;;"Al Consorcio de Derecho Público Museo de Arte Contemporáneo ""Esteban Vicente"", para el desarrollo de sus actividades"
+2007;G;4;46;460/24101;;;Ayudas a la Cinematografía a través de Corporaciones Locales.
+2007;G;4;46;460/32023;;;Transferencias a Ayuntamientos
+2007;G;4;46;461;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2007;G;4;46;461/16201;;;Convenios en materia de formación, orientación y acompañamiento para la reinserción laboral
+2007;G;4;46;461/18010;;;A Corporaciones Locales para Educación de Adultos
+2007;G;4;46;461/19007;;;Acciones a favor de los inmigrantes
+2007;G;4;46;461/19101;;;Programa de fomento de empleo agrario
+2007;G;4;46;461/22003;;;Fondo especial para la financiación a favor de los municipios de población no superior a 20.000 habitantes.
+2007;G;4;46;461/23101;;;Entidades Locales - Programas de colaboración
+2007;G;4;46;461/24003;;;Para pago del Censo Reservativo al Ayuntamiento de Santillana del Mar sobre las Cuevas de Altamira.
+2007;G;4;46;461/24101;;;Al Ayuntamiento de Santiago para el plan de actuación en el área de fomento y difusión de las actividades audiovisuales
+2007;G;4;46;461/24201;;;Festivales y otras actividades musicales de ámbito nacional.
+2007;G;4;46;461/26102;;;Ayuda a la gestión de las Juntas Arbitrales adscritas a administraciones locales.
+2007;G;4;46;461/32023;;;Transferencias a las Diputaciones y Cabildos Insulares
+2007;G;4;46;462;;;Subvención por gastos Juzgados de Paz (art. 52 Ley de Demarcación y de Planta Judicial)
+2007;G;4;46;462/18010;;;Para el desarrollo de programas de cualificación profesional inicial o, en su caso, de garantía social
+2007;G;4;46;462/24003;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento de Can Comasema
+2007;G;4;46;462/24201;;;A la Fundación pública Festival Internacional de Santander para el desarrollo de su Festival.
+2007;G;4;46;462/26014;;;A CC.LL en aplicación de la Ley 17/2003.
+2007;G;4;46;462/32023;;;A Corporaciones Locales para cofinanciar los servicios de transporte colectivo urbano
+2007;G;4;46;463;;;Para subvencionar convenios con Ayuntamientos que desarrollan el proyecto MENTOR para la formación a distancia con nuevas tecnologías
+2007;G;4;46;463/24003;;;Al Ayuntamiento de Sant Feliu de Guixols para el Centro de Arte Carmen Thyssen-Bornemisza
+2007;G;4;46;463/24201;;;Al Ayuntamiento de la Unión (Murcia) para el Festival de Cante de las Minas.
+2007;G;4;46;463/32023;;;Al Ayuntamiento de Ceuta para compensar los costes de funcionamiento de la planta desalinizadora y, en su caso, los del transporte de agua para abastecimiento de la ciudad
+2007;G;4;46;464;;;Depósitos Municipales
+2007;G;4;46;464/24003;;;Al Ayuntamiento de Monesterio, para financiar la construcción Museo Etnográfico e Histórico de la Comarca de la Tentundia
+2007;G;4;46;464/24201;;;Programa de apoyo a Festivales, Muestras, Ferias y otras actividades Teatrales y Circenses organizadas por Corporaciones Locales.
+2007;G;4;46;465;;;PROGRAMA DE APOYO A FESTIVALES, MUESTRAS, FERIAS Y OTRAS ACT IVIDADES MUSICALES ORGANIZADAS POR CORPORACIONES LOCALES.
+2007;G;4;46;466;;;Al Ayuntamiento de Sevilla para la Bienal de Arte Flamenco.
+2007;G;4;46;468;;;Liquidación definitiva  de la participación  en los ingresos del Estado  de las Corporaciones Locales,  correspondiente a ejercicios  anteriores y compensaciones derivadas del  Nuevo Modelo de Financiación Local
+2007;G;4;46;468/24201;;;Al Instituto Municipal de Artes Escénicas Gran Teatro de Córdoba para el festival de guitarra
+2007;G;4;46;469;;;Compensaciones socioeconómicas en áreas de influencia de Parques Nacionales de ejercicios anteriores
+2007;G;4;46;469/24201;;;Festival de verano de la Porta Ferrada de Sant Feliu de Guixols
+2007;G;4;47;;;;A empresas privadas
+2007;G;4;47;470;;;Transferencia corriente de las Cortes a Empresas privadas
+2007;G;4;47;470/02003;;;A empresas privadas
+2007;G;4;47;470/12103;;;Transferencias a empresas privadas
+2007;G;4;47;470/19007;;;Actuaciones para la ordenación de los flujos migratorios laborales
+2007;G;4;47;470/19008;;;Premio en materia de lucha contra la violencia de género
+2007;G;4;47;470/20007;;;Premios al pequeño comerciante para el desarrollo comercial y la modernización empresarial
+2007;G;4;47;470/21001;;;Apoyo financiero debido a daños ocasionados por causas extraordinarias.
+2007;G;4;47;470/21021;;;Apoyo a Consejos Reguladores, Comisiones de Seguimiento y Organizaciones Interprofesionales Agroalimentarias.
+2007;G;4;47;470/21211;;;Subvenciones a la producción agraria con aportación financiera del FEAGA.
+2007;G;4;47;470/22401;;;Cuotas Nacionales
+2007;G;4;47;470/23005;;;Subvención para plantas potabilizadoras de agua en Canarias
+2007;G;4;47;470/23101;;;Indemnización a particulares por pérdida de renta en Parques Nacionales.
+2007;G;4;47;470/24101;;;Fondo de Protección a la Cinematografía. Por obligaciones derivadas de la Ley 15/2001, de 9 de julio
+2007;G;4;47;471;;;Para subvencionar las diferencias de cambio de las divisas obtenidas en préstamos concedidos a las Sociedades concesionarias de Autopistas de Peaje (Artículo 13.c de la Ley 8/1972, de 10 de mayo). Crédito destinado a cancelar deudas contraídas por el Banco de España, incluidas obligaciones de ejercicios anteriores
+2007;G;4;47;471/16001;;;Por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia
+2007;G;4;47;471/17031;;;Subvención al transporte marítimo y aéreo de mercancias entre la Península y las Islas Canarias o entre éstas y la Península, así como el existente entre las Islas y el de exportación de las mismas a paises extranjeros de acuerdo con la legislación vigente
+2007;G;4;47;471/17040;;;Garantía de intereses para ferrocarriles secundarios y estratégicos, correspondientes al ejercicio corriente y a posteriores, hasta el final de las concesiones.
+2007;G;4;47;471/18101;;;A Universidades privadas para actividad estatal de deporte universitario.
+2007;G;4;47;471/19105;;;Fomento de la igualdad en el ámbito empresarial
+2007;G;4;47;471/20101;;;Ayudas a los costes de explotación para empresas productoras de carbón
+2007;G;4;47;471/20102;;;Programa de fomento de las solicitudes de Patentes en el exterior a empresas privadas
+2007;G;4;47;471/21001;;;Para cumplimiento de sentencias de los Tribunales de Justicia.
+2007;G;4;47;471/21021;;;Para Convenio de colaboración con la Asociación Española de Técnicos Cerealistas.
+2007;G;4;47;471/21207;;;Plan Anual de Seguros Agrarios y liquidación de Planes anteriores.
+2007;G;4;47;471/21211;;;Subvenciones adicionales a la producción agraria.
+2007;G;4;47;471/24003;;;Ayudas para  la promoción del arte español
+2007;G;4;47;471/24004;;;Fomento de la cultura y el libro español mediante la convocatoria de ayudas a la difusión y distribución de libros españoles en el mundo
+2007;G;4;47;471/24201;;;A Orquestas, grupos de cámara, compañías de teatro, circenses y de danza, para giras por el extranjero.
+2007;G;4;47;471/27001;;;Abono de indemnizaciones por Sentencias de Tribunales
+2007;G;4;47;471/60001;;;Entregas de botiquines
+2007;G;4;47;472;;;Subvención al transporte marítimo y aéreo de mercancias entre la Península y las Islas Baleares o entre éstas y la Península, así como el existente entre las Islas y el de exportación de las mismas a paises extranjeros de acuerdo con la legislación vigente
+2007;G;4;47;472/19101;;;Apoyo a la creación de empleo: ayudas al colectivo de minusválidos, al fomento del empleo estable y a la creación de actividad.
+2007;G;4;47;472/19105;;;Ayudas a la edición
+2007;G;4;47;472/20101;;;Para la financiación de stocks de carbón de Centrales Térmicas
+2007;G;4;47;472/21021;;;Para Convenio de colaboración Fundación  para el desarrollo de la dieta mediterránea.
+2007;G;4;47;472/21211;;;Importes inherentes a actuaciones, no asumidos por la U.E.
+2007;G;4;47;472/24004;;;A KLASIKOAK S.A. para el programa de traducción de obras de autores clásicos al Euskera
+2007;G;4;47;472/24101;;;Subvención Festivales Nacionales e Internacionales.
+2007;G;4;47;472/60001;;;Ayudas para balsas de salvamento
+2007;G;4;47;473;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99)
+2007;G;4;47;473/19101;;;Fomento del desarrollo local: subvenciones a empresas calificadas como I+E
+2007;G;4;47;473/20101;;;Subvención a los costes de transporte de carbón entre Cuencas Mineras
+2007;G;4;47;473/21021;;;Ayudas a operadores del sector agroalimentario.
+2007;G;4;47;473/21211;;;Subvenciones nacionales para la cofinanciación de ayudas con Fondos Europeos Agrícolas
+2007;G;4;47;473/24201;;;Giras y producciones de personas y conjuntos musicales y coreográficos.
+2007;G;4;47;474;;;A la Mutualidad General Deportiva, subvención para primar la afiliación de menores.
+2007;G;4;47;474/20101;;;Para cubrir costes sociales y técnicos, así como obligaciones contractuales, derivadas de la reordenación del sector del carbón
+2007;G;4;47;475;;;Para compensar a las Sociedades Concesionarias de Autopistas de Peaje por la modificación temporal de las tarifas de acuerdo con lo dispuesto en el Real Decreto Ley 11/2001, de 22 de junio.
+2007;G;4;47;475/18101;;;A la Mutualidad de Previsión Social de futbolistas españoles a prima fija, subvención para primar la afiliación de menores
+2007;G;4;47;475/19003;;;Subvenciones para el fomento del empleo en cooperativas y sociedades laborales
+2007;G;4;47;475/24201;;;A Programas de difusión nacional de la dramaturgia actual y de preservación y difusión del Teatro Clásico y desarrollo de la actividad circense a través de planes de comunicación y difusión en España.
+2007;G;4;47;476;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A. por la rebaja del 30 por 100 en los peajes a los vehículos pesados, en la autopista Leon-Campomanes
+2007;G;4;47;477;;;Para compensar a Autopistas del Atlántico, Concesionaria Española, S.A. por la supresión del peaje de los movimientos O Morrazo - Vigo y A Coruña - A Barcala, e inversos
+2007;G;4;47;477/24004;;;Ayudas para empresas editoras de revistas de cultura.
+2007;G;4;47;478;;;A Universidades privadas para programas de apoyo científico al deporte y actividades afines
+2007;G;4;47;479;;;Obligaciones de ejercicios anteriores, para compensar a empresas privadas de su pérdida de ingresos por la rebaja de tarifas de peaje (R.D.L. 6/99)
+2007;G;4;47;479/17032;;;Para abono de sentencias relacionadas con el transporte marítimo, incluidos intereses.
+2007;G;4;47;479/24201;;;Fondo Económico Iberescena.
+2007;G;4;48;;;;A familias e instituciones sin fines de lucro
+2007;G;4;48;480;;;A S.M. el Rey. Para el sostenimiento de su Familia y Casa (Art. 65 de la Constitución)
+2007;G;4;48;480/02001;;;A Familias e Instituciones sin fines de lucro
+2007;G;4;48;480/02002;;;A Familias e Instituciones sin fines de lucro
+2007;G;4;48;480/02003;;;A familias e instituciones sin fines de lucro
+2007;G;4;48;480/02004;;;A Familias e Instituciones sin fines de lucro
+2007;G;4;48;480/07002;;;Otras pensiones y prestaciones
+2007;G;4;48;480/08001;;;A Asociaciones y Fundaciones sin ánimo de lucro relacionadas con la Administración de Justicia
+2007;G;4;48;480/12005;;;A asociaciones juveniles y entidades de ámbito nacional prestadoras de servicios de juventud que pertenezcan a organizaciones internacionales con presencia en Iberomérica para la realización de encuentros Iberoamericanos en España
+2007;G;4;48;480/12103;;;A familias e instituciones sin fines de lucro
+2007;G;4;48;480/13102;;;Subsidios e Indemnizaciones
+2007;G;4;48;480/14113;;;Subsidios e indemnizaciones
+2007;G;4;48;480/14205;;;A familias e instituciones sin fines de lucro
+2007;G;4;48;480/15001;;;Para concesión de becas, asistencia a congresos, cursos, seminarios y otras subvenciones
+2007;G;4;48;480/15015;;;Subvención a la Asociación Española de Presupuesto Público
+2007;G;4;48;480/15101;;;Becas
+2007;G;4;48;480/15103;;;A la Asociación Española de Administración y Contabilidad de Empresas
+2007;G;4;48;480/15105;;;A la Sociedad Española de Estadística e Investigación Operativa
+2007;G;4;48;480/16001;;;Subvenciones según el artículo 95 de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y de orden social, a asociaciones, fundaciones, entidades e instituciones sin ánimo de lucro cuyo objetivo sea la atención a las víctimas del terrorismo
+2007;G;4;48;480/16101;;;Becas de estudio para el personal, sus hijos y huérfanos y ayudas para renovación de parques infantiles de tráfico
+2007;G;4;48;480/17001;;;Cuotas y contribuciones a Organismos e Instituciones Nacionales
+2007;G;4;48;480/17018;;;Cuotas y contribuciones a Organismos e Instituciones Nacionales
+2007;G;4;48;480/17032;;;Becas en la especialidad profesional marítima
+2007;G;4;48;480/17039;;;Al Comité Nacional del transporte por carretera (Actividades relacionadas con la Ley de Ordenacion de los Transportes Terrestres)
+2007;G;4;48;480/18001;;;Indemnizaciones por jubilación anticipada
+2007;G;4;48;480/18002;;;Para actividades de cooperación e intercambio cultural y educativo
+2007;G;4;48;480/18003;;;Ayudas a Asociaciones juveniles y a Federaciones y Confederaciones de Estudiantes de ámbito nacional cuyo ámbito de actuación sea la Universidad.
+2007;G;4;48;480/18007;;;"Becas y ayudas del Programa Español de Ayudas para la Movilidad de estudiantes ""Séneca"""
+2007;G;4;48;480/18008;;;"A la Fundación ""Centro de Regulación Genómica"" para el funcionamiento de la Unidad Mixta CRG-EMBL (Centro de Regulación Genómica-European Molecular Biology Laboratory)."
+2007;G;4;48;480/18010;;;Para financiar actividades de enseñanza de adultos y de carácter compensatorio
+2007;G;4;48;480/18011;;;Para programas de mejora de la calidad educativa.
+2007;G;4;48;480/18101;;;A Federaciones Deportivas Españolas de minusválidos y Comité Paralímpico Español
+2007;G;4;48;480/18201;;;Becas para personal investigador en formación
+2007;G;4;48;480/18204;;;Transferencias para actividades complementarias.
+2007;G;4;48;480/18206;;;Cuotas y ayudas a Organismos y Entidades en las que colabore o participe el ITGE
+2007;G;4;48;480/19001;;;A los participantes en órganos consultivos y consejos.
+2007;G;4;48;480/19004;;;A Instituciones para Víctimas del Terrorismo
+2007;G;4;48;480/19007;;;A los participantes en órganos consultivos y consejos
+2007;G;4;48;480/19008;;;Ayudas sociales, artículo 27 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+2007;G;4;48;480/19101;;;Prestaciones por desempleo
+2007;G;4;48;480/19106;;;Ayuda a la realización de proyectos de cooperación internacional
+2007;G;4;48;480/20001;;;Para concesión de becas, asistencia a Congresos, Cursos, Seminarios y otras subvenciones
+2007;G;4;48;480/20003;;;Becas Fulbright de comercio y turismo
+2007;G;4;48;480/20004;;;Becas para proyectos de la Secretaría General de Turismo
+2007;G;4;48;480/20005;;;Becas de colaboración con Asociaciones de Exportadores
+2007;G;4;48;480/20007;;;Becas de investigación y colaboración para estudiantes de último curso o postgraduado
+2007;G;4;48;480/20016;;;Becas de investigación y colaboración para postgraduados en proyectos de I+D+I
+2007;G;4;48;480/21001;;;Subvenciones a Órganos Colegiados de la Administración de carácter agrario.
+2007;G;4;48;480/21009;;;Ayudas a la formación nautico-pesquera
+2007;G;4;48;480/22003;;;A la Federación Española de Municipios y Provincias
+2007;G;4;48;480/22101;;;Becas, ayudas y premios de estudios e investigación
+2007;G;4;48;480/22102;;;Subsidios e Indemnizaciones
+2007;G;4;48;480/23002;;;Becas
+2007;G;4;48;480/23003;;;Becas de estudios
+2007;G;4;48;480/23007;;;Para campañas de sensibilización de prevención de la contaminación
+2007;G;4;48;480/23009;;;Subvenciones a entidades o asociaciones cuyos fines se ajusten a los principios inspiradores de la Ley de Conservación de Espacios Naturales y de la Flora y Fauna Silvestres
+2007;G;4;48;480/23101;;;Subvenciones a la Formación Ambiental
+2007;G;4;48;480/23225;;;Cuotas a asociaciones relacionadas con la actividad del organismo
+2007;G;4;48;480/23226;;;A Instituciones sin fines de lucro
+2007;G;4;48;480/23228;;;Ayudas a entidades relacionadas con la actividad del organismo.
+2007;G;4;48;480/23232;;;Becas aplicación Directiva Marco del Agua
+2007;G;4;48;480/23236;;;Ayudas para estudios
+2007;G;4;48;480/24003;;;Ayudas para la promoción del arte español
+2007;G;4;48;480/24004;;;Ayudas a instituciones sin fines de lucro y asociaciones profesionales para el desarrollo de sus actividades.
+2007;G;4;48;480/24005;;;A Fundaciones para actividades culturales y gastos de funcionamiento
+2007;G;4;48;480/24101;;;A familias e instituciones sin fines de lucro
+2007;G;4;48;480/24102;;;Premio de bibliografía española
+2007;G;4;48;480/24104;;;Becas y ayudas para formación y perfeccionamiento en materias museísticas
+2007;G;4;48;480/24201;;;A programas de actividades musicales de Entidades sin fines de lucro.
+2007;G;4;48;480/24301;;;A la Fundación Amigos del Museo del Prado, para la elaboración de la Enciclopedia del Museo
+2007;G;4;48;480/25001;;;Dotación ex-Presidentes del Gobierno (R.D. 405/92)
+2007;G;4;48;480/25201;;;Becas de postgrado
+2007;G;4;48;480/26104;;;Para atender becas de investigación.
+2007;G;4;48;480/26105;;;A familias e instituciones sin fines de lucro. Becas.
+2007;G;4;48;480/26203;;;Fundación Parque de Investigación Biomédica de Barcelona
+2007;G;4;48;480/27001;;;Premios e indemnizaciones
+2007;G;4;48;480/60001;;;A Familias e instituciones sin fines de lucro
+2007;G;4;48;481;;;Remuneraciones de transición Magistrados (art. 25.1 Ley Orgánica del Tribunal Constitucional, 2/1979, de 3 de octubre)
+2007;G;4;48;481/07003;;;Pensiones e indemnizaciones de guerra
+2007;G;4;48;481/08001;;;Pensiones e indemnización al Presidente del Consejo
+2007;G;4;48;481/12001;;;A familias e instituciones sin fines de lucro
+2007;G;4;48;481/12002;;;A Familias e instituciones sin fines de lucro
+2007;G;4;48;481/12103;;;Ayudas convenios básicos de cooperación
+2007;G;4;48;481/12301;;;Becas Instituto Cervantes
+2007;G;4;48;481/13002;;;Subvención  asociaciones de Fiscales
+2007;G;4;48;481/13101;;;Becas para la preparación de oposiciones de las carreras judicial y fiscal
+2007;G;4;48;481/13102;;;Protección a la familia
+2007;G;4;48;481/14001;;;Para acción social
+2007;G;4;48;481/14012;;;Para acción social
+2007;G;4;48;481/14017;;;Para acción social
+2007;G;4;48;481/14022;;;Para acción social
+2007;G;4;48;481/14113;;;Protección a la familia
+2007;G;4;48;481/14206;;;Indemnización por desalojo de vivienda
+2007;G;4;48;481/15001;;;A la Hermandad de Jubilados del Ministerio de Economía y Hacienda
+2007;G;4;48;481/16001;;;Dotación de premios
+2007;G;4;48;481/16002;;;Para todo tipo de atenciones derivadas de la inmigración
+2007;G;4;48;481/16003;;;A la Fundación de Huérfanos de la Dirección General de la Policía
+2007;G;4;48;481/16005;;;Transferencia a la Comisión Episcopal para atención del culto en centros penitenciarios
+2007;G;4;48;481/17001;;;Subvenciones a la realización de actividades relacionadas con los programas del Departamento, referidas a las obras públicas, los transportes y las comunicaciones postales y telegráficas, a distribuir por Orden Ministerial.
+2007;G;4;48;481/17032;;;A familias para satisfacer la bonificación a residentes no peninsulares por traslado a la Península y regreso por via marítima
+2007;G;4;48;481/17040;;;Convenio para el establecimiento de operación del Centro Iberoamericano para el Desarrollo Integrado del Transporte (CIDITRANS).
+2007;G;4;48;481/17238;;;Becas del CEDEX.
+2007;G;4;48;481/18001;;;Becas para formación de postgraduados en materia de tecnologías de la información
+2007;G;4;48;481/18002;;;A la Fundación Campus Comillas, para la promoción y enseñanza del español
+2007;G;4;48;481/18003;;;Ayudas al Instituto de España, Reales Academias y otras Instituciones adscritas al Programa para desarrollo de actividades y gastos de funcionamiento.
+2007;G;4;48;481/18007;;;A la Fundación César Carlos, para sus actividades.
+2007;G;4;48;481/18008;;;A la Fundación CIDTUR-Centro de Investigación de Desarrollo e Innovación en Turismo.
+2007;G;4;48;481/18010;;;Para hacer efectiva la gratuidad de la enseñanza en centros educativos
+2007;G;4;48;481/18101;;;A Asociaciones, agrupaciones deportivas y otras instituciones sin fines de lucro, para actividades y equipamiento.
+2007;G;4;48;481/18102;;;Para actuaciones relacionadas con programas educativos europeos
+2007;G;4;48;481/18203;;;Becas a funcionarios
+2007;G;4;48;481/18204;;;Transferencias para actividades de cooperación internacional en materia de formación y especialización
+2007;G;4;48;481/19002;;;Prestaciones asistenciales
+2007;G;4;48;481/19004;;;Compensación económica para el funcionamiento del Consejo Nacional de la Discapacidad
+2007;G;4;48;481/19008;;;Para promover actuaciones del Observatorio Estatal de Violencia sobre la Mujer
+2007;G;4;48;481/19101;;;Dotación para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía
+2007;G;4;48;481/19102;;;Pago prestaciones acordadas a trabajadores segun la legislación vigente, incluidas obligaciones de ejercicios anteriores
+2007;G;4;48;481/19104;;;Para la concesión de becas de formación e investigación
+2007;G;4;48;481/19105;;;Transferencias a entidades y personas físicas para realizar actividades que fomenten la no discriminación de la mujer y su participación en la sociedad
+2007;G;4;48;481/19201;;;A Asociaciones juveniles y entidades de ámbito nacional prestadoras de servicios a la juventud
+2007;G;4;48;481/20013;;;Cuota de pertenencia y otros gastos de participación en la Entidad Nacional de Acreditación (ENAC)
+2007;G;4;48;481/20017;;;Becas para postgraduados en materia de PYME
+2007;G;4;48;481/20101;;;A la Fundación para el Desarrollo de la Formación en las Comarcas Mineras
+2007;G;4;48;481/20102;;;A funcionarios de las Oficinas Iberoamericanas de la Propiedad Industrial de Méjico, Perú, El Salvador, Guatemala y Uru guay,  designados por las mismas y de conformidad con el Acuerdo suscrito por la OEPM con cada una de las Oficinas
+2007;G;4;48;481/20207;;;Becas a estudiantes en prácticas
+2007;G;4;48;481/20302;;;A Familias e Instituciones sin fines de lucro
+2007;G;4;48;481/21009;;;A la Federación Nacional de Cofradias de Pescadores
+2007;G;4;48;481/21208;;;Ayudas al asociacionismo pesquero y para la constitución y funcionamiento de Organizaciones Pesqueras.
+2007;G;4;48;481/21211;;;Ayuda a la Caja de Pensiones.
+2007;G;4;48;481/22001;;;"Pensión vitalicia como consecuencia de la Sentencia de 20 de abril de 1.994 de la Sección Sexta de la Audiencia Provincial de Madrid (Asunto ""Alcalá 20"")."
+2007;G;4;48;481/22101;;;Para formación continua.
+2007;G;4;48;481/22102;;;Protección a la familia
+2007;G;4;48;481/23001;;;Premios Nacionales de Medio Ambiente
+2007;G;4;48;481/23002;;;A la Fundación Ecología y Desarrollo
+2007;G;4;48;481/23005;;;Cuotas y contribuciones a Organismos e Instituciones Nacionales
+2007;G;4;48;481/23009;;;Oficina Regional de la U.I.C.N. (Unión Internacional para la Conservación de la Naturaleza)
+2007;G;4;48;481/23230;;;Subvención al Comité Español de Grandes Presas
+2007;G;4;48;481/23233;;;Subvención a la Asociación Española de Abastecimiento de Aguas y Saneamiento (Comité Español de la I.W.S.A.)
+2007;G;4;48;481/24002;;;Becas de formación Tecnologías de la Información aplicadas a la Cultura
+2007;G;4;48;481/24003;;;Premios Nacionales
+2007;G;4;48;481/24004;;;A la Organización Española para el Libro Infantil y Juvenil (OEPLI)
+2007;G;4;48;481/24005;;;Ayudas para la acción y promoción cultural
+2007;G;4;48;481/24101;;;Subvención a Festivales y Mercados Cinematográficos Nacionales e Internacionales.
+2007;G;4;48;481/24201;;;Programa de actividades musicales de ámbito nacional e internacional.
+2007;G;4;48;481/25101;;;A familias e Instituciones sin fines de lucro.
+2007;G;4;48;481/25102;;;Becas a postgraduados
+2007;G;4;48;481/25103;;;Subvención a los Reales Patronatos y Fundaciones (Párrafo 2 del Art. 2 de la Ley 23/82 del Patrimonio Nacional)
+2007;G;4;48;481/26011;;;Para subvencionar a instituciones y entidades de cualquier titularidad, sin ánimo de lucro, para el fomento de la donación y el trasplante de órganos y tejidos
+2007;G;4;48;481/26013;;;Para promover las actuaciones del Observatorio de Salud de la Mujer.
+2007;G;4;48;481/26014;;;A ONGs sin ánimo de lucro, de ámbito estatal, para el desarrollo de programas supracomunitarios en el marco de prioridades del Plan Nacional sobre Drogas.
+2007;G;4;48;481/26103;;;Para atender becas de formación de postgrado en evaluación y control de medicamentos, mediante convocatoria y adjudicación por la Agencia Española de Medicamentos y Productos Sanitarios.
+2007;G;4;48;481/26203;;;Proyecto METLAB. Instituto de Recerca Biomédica
+2007;G;4;48;481/27001;;;Federación de Usuarios y Consumidores de España
+2007;G;4;48;481/60001;;;Pensiones
+2007;G;4;48;482;;;A la Asociación de Letrados del Tribunal Constitucional
+2007;G;4;48;482/05001;;;Indemnizaciones
+2007;G;4;48;482/08001;;;Remuneraciones de transición a Vocales del Consejo General del Poder Judicial(Art.121 Ley Orgánica 6/85)
+2007;G;4;48;482/12004;;;Para defensa y protección de los Derechos Humanos
+2007;G;4;48;482/12103;;;Instituciones adheridas en España
+2007;G;4;48;482/13002;;;Subvención asociación Secretarios Judiciales
+2007;G;4;48;482/13101;;;Becas y acciones formativas Carrera Fiscal
+2007;G;4;48;482/13102;;;Servicios Sociales
+2007;G;4;48;482/14017;;;Indemnización vitalicia como consecuencia de la Sentencia de 10 de Mayo de 2000, de la Sección Cuarta de ContenciosoAdministrativo de la Audiencia Nacional (Recurso número 0497/1999)
+2007;G;4;48;482/14113;;;Servicios Sociales
+2007;G;4;48;482/14206;;;Compensación económica por carencia de vivienda
+2007;G;4;48;482/15103;;;Becas de colaboración para elaborar una base de datos de literatura contable
+2007;G;4;48;482/15105;;;A la Asociación Española de Economía Aplicada
+2007;G;4;48;482/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2007;G;4;48;482/16004;;;Al Colegio de Huérfanos de la Guardia Civil
+2007;G;4;48;482/16005;;;Para atenciones de los internos, liberados y familiares
+2007;G;4;48;482/17001;;;A la Asociación Recreativo Cultural del Ministerio de Fomento.
+2007;G;4;48;482/17018;;;Subvención a la Real Sociedad Geográfica.
+2007;G;4;48;482/17032;;;Transferencia corriente a INNOVAMAR.
+2007;G;4;48;482/17039;;;Fundación para la formación en el transporte por carretera.
+2007;G;4;48;482/18001;;;A la Fundación Francisco Giner de los Ríos (Institución Libre de Enseñanza), para apoyo de sus actividades.
+2007;G;4;48;482/18002;;;"Al Colegio ""Parque de España"" de Rosario (Argentina) para ayuda de sus actividades"
+2007;G;4;48;482/18003;;;Comisión Permanente de la Asociación de Academias de la Lengua Española.
+2007;G;4;48;482/18010;;;Para financiar medidas de apoyo institucional a los sindicatos del sector de la enseñanza privada sostenida total o parcialmente con fondos públicos.
+2007;G;4;48;482/18011;;;Ayudas a actividades de alumnos.
+2007;G;4;48;482/18101;;;A Federaciones Deportivas Españolas.
+2007;G;4;48;482/18203;;;Cuotas asociaciones
+2007;G;4;48;482/19003;;;Subvenciones y aportaciones para fomento del empleo, protección del desempleo y ayudas a la jubilación
+2007;G;4;48;482/19004;;;Para programas de discapacitados
+2007;G;4;48;482/19008;;;Convenio con la Federación Española de Municipios y Provincias
+2007;G;4;48;482/19101;;;Reserva de gestión directa del SPEE de créditos destinados a políticas activas de empleo
+2007;G;4;48;482/19201;;;Convenio con la Federación Española de Municipios y Provincias
+2007;G;4;48;482/20001;;;Al Consorcio Casa de las Lenguas
+2007;G;4;48;482/20005;;;Acuerdos Sectoriales a la Exportación
+2007;G;4;48;482/20102;;;A funcionarios de Oficinas de Propiedad Industrial designados por las mismas y jueces y fiscales de Iberoamérica para participar en cursos organizados por la OEPM, en solitario o en colaboración con la OMPI, OEP u otros Organismos Nacionales o Internacionales.
+2007;G;4;48;482/20207;;;Gastos derivados de la formación de becarios
+2007;G;4;48;482/20302;;;Indemnizaciones a Ex-Altos Cargos del Consejo de Seguridad Nuclear
+2007;G;4;48;482/21001;;;Transferencias de caracter general a Organizaciones Profesionales Agrarias y otras Entidades Asociativas.
+2007;G;4;48;482/21009;;;Ayudas a la acuicultura
+2007;G;4;48;482/21207;;;Transferencias a Organizaciones Profesionales Agrarias y otras Entidades Asociativas.
+2007;G;4;48;482/21208;;;Subvenciones al sector comercial pesquero para ampliación de mercados.
+2007;G;4;48;482/22002;;;Apoyo instrumental Ley 7/90.
+2007;G;4;48;482/22101;;;Fundación Pi y Suñer de estudios autonómicos y territoriales
+2007;G;4;48;482/22102;;;Servicios Sociales
+2007;G;4;48;482/23001;;;Apoyo al funcionamiento de ONG's que fomenten valores ambientales
+2007;G;4;48;482/23005;;;Comité Nacional Español de Riegos y Drenajes
+2007;G;4;48;482/23228;;;Subvención al Comité Español de Grandes Presas
+2007;G;4;48;482/23229;;;Subvención al Comité Español de Grandes Presas.
+2007;G;4;48;482/23230;;;Becas a estudiantes de ingenieria en prácticas
+2007;G;4;48;482/23233;;;Subvención al Comité Español de Grandes Presas
+2007;G;4;48;482/24003;;;Premios
+2007;G;4;48;482/24004;;;Ayudas para la promoción del libro, la lectura y las letras españolas.
+2007;G;4;48;482/24101;;;Ayudas a la Cinematografía a través de familias e Instituciones sin fines de lucro.
+2007;G;4;48;482/24201;;;Becas y ayudas a personas o asociaciones para actividades musicales, líricas, teatrales, circenses y coreográficas en el exterior.
+2007;G;4;48;482/25002;;;Indemnizaciones
+2007;G;4;48;482/25103;;;Becas
+2007;G;4;48;482/26002;;;"A la organización ""Médicos del Mundo"" para, mediante convenio, llevar a cabo proyectos de promoción y prevención de la salud en países en desarrollo a determinar."
+2007;G;4;48;482/26012;;;A Instituciones. Estrategias de Salud del Sistema Nacional de Salud.
+2007;G;4;48;482/26013;;;A Instituciones de cualquier titularidad para el desarrollo del Plan de Calidad del Sistema Nacional de Salud.
+2007;G;4;48;482/26014;;;Programas desarrollados por ONGs de ámbito estatal, financiados a través del Fondo creado por la Ley 17/2003.
+2007;G;4;48;482/26102;;;Ayudas y subvenciones para impulsar, orientar y desarrollar etc, colaborando con las asociaciones de consumidores, cooperativas de consumo, instituciones públicas y privadas y personas físicas de ámbito nacional sobre asuntos de política de consumo y de los consumidores, educación para el consumo y didáctica sobre la educación para el consumo.
+2007;G;4;48;482/26103;;;A la Fundación para el Fomento de la Innovación Industrial.
+2007;G;4;48;482/26203;;;Proyecto IDIBAPS. Hospital Clinic (Barcelona)
+2007;G;4;48;482/27001;;;Fundación Secretariado General Gitano
+2007;G;4;48;482/60001;;;Incapacidad temporal y riesgo durante el embarazo
+2007;G;4;48;483;;;A Asociaciones Judiciales (art. 121 de la L.O. 6/85)
+2007;G;4;48;483/12001;;;Para actividades docentes, investigación y de relaciones internacionales.
+2007;G;4;48;483/13002;;;Al Consejo General de la Abogacía Española como aportación del Estado para indemnizar a los abogados en los asuntos de asistencia jurídica gratuita
+2007;G;4;48;483/13102;;;Asistencia Social
+2007;G;4;48;483/14113;;;Asistencia Social
+2007;G;4;48;483/15105;;;Becas de postgrado para formación de estadísticos
+2007;G;4;48;483/16001;;;Indemnizaciones y compensaciones derivadas de la Ley 32/1999, de 8 de octubre, de Solidaridad con las Víctimas del Terrorismo
+2007;G;4;48;483/16003;;;A Organizaciones Sindicales del Cuerpo Nacional de Policía, en proporción a su representatividad
+2007;G;4;48;483/16005;;;Cofinanciación de redes de recursos para atención de personas sometidas a medidas de seguridad, suspensión de la pena y reglas de conducta del Código Penal, así como a enfermos de SIDA e integración social de niños en Unidades de Madres
+2007;G;4;48;483/17018;;;Al observatorio del Ebro
+2007;G;4;48;483/18001;;;A la Fundación Jimenez Abad
+2007;G;4;48;483/18002;;;A la Fundación Red Iberoamericana de Colegios Españoles, para sus gastos de funcionamiento y desarrollo de actividades.
+2007;G;4;48;483/18003;;;Al Colegio de España en Paris, para ayuda de sus gastos de funcionamiento
+2007;G;4;48;483/18007;;;Para financiar medidas de apoyo institucional a los sindicatos del sector.
+2007;G;4;48;483/18009;;;Becas de formación de especialistas en observación y diseño de cualificaciones profesionales.
+2007;G;4;48;483/18010;;;A la Federación de Ikastolas-Ikastolen Elkartea. Programa AMASIS, sistema digital de aprendizaje.
+2007;G;4;48;483/18011;;;Becas y ayudas al estudio.
+2007;G;4;48;483/18101;;;A Federaciones Deportivas Españolas y Comité Olímpico Español.
+2007;G;4;48;483/18202;;;A los centros coordinados y subvencionados dependientes del C.S.I.C.
+2007;G;4;48;483/18203;;;Becas de estudios a postgraduados (Art. 17, Ley 25/1964)
+2007;G;4;48;483/19003;;;Subvenciones para asistencia técnica prestada por entidades asociativas de cooperativas y sociedades laborales
+2007;G;4;48;483/19004;;;Para programas de infancia y familias
+2007;G;4;48;483/19007;;;Acciones en el ámbito migratorio
+2007;G;4;48;483/19008;;;Para el fomento de medidas contra la violencia de género
+2007;G;4;48;483/19101;;;A centros colaboradores y otros
+2007;G;4;48;483/19105;;;Convenio con la Federación Española de Municipios y Provincias para actuaciones en materia de igualdad
+2007;G;4;48;483/19201;;;"A entidades, asociaciones y jóvenes participantes en el programa""Juventud"""
+2007;G;4;48;483/20001;;;Al Instituto Catalán de las Industrias Culturales
+2007;G;4;48;483/20005;;;Becas Analíticas CATICES
+2007;G;4;48;483/20019;;;A las Cámaras Oficiales Mineras por participación en la recaudación de la tasa 20.04
+2007;G;4;48;483/20102;;;Subvenciones al Club de Inventores de España
+2007;G;4;48;483/21001;;;Transferencias a Organizaciones Profesionales Agrarias y otras Entidades Asociativas para su participación y presencia internacional
+2007;G;4;48;483/21009;;;Subvención a la Cruz Roja del Mar
+2007;G;4;48;483/21021;;;A la Federación Nacional de Comunidades de Regantes de España (FENACORE)
+2007;G;4;48;483/21208;;;Becas de perfeccionamiento en comercialización pesquera
+2007;G;4;48;483/22101;;;Becas Fulbright.
+2007;G;4;48;483/22102;;;Asistencia Social
+2007;G;4;48;483/23005;;;Centro Español de Nueva Tecnología del Agua (CENTA)
+2007;G;4;48;483/23007;;;Fundación Centro de Estudios Ambientales del Mediterráneo
+2007;G;4;48;483/23009;;;Fondo para el Patrimonio Natural
+2007;G;4;48;483/23101;;;Becas
+2007;G;4;48;483/23228;;;Subvención al Comité Español de Riegos y Drenajes
+2007;G;4;48;483/23229;;;Subvención al Comité Español de Riegos y Drenajes.
+2007;G;4;48;483/23230;;;Subvención al Comité Español de Riegos y Drenajes
+2007;G;4;48;483/23233;;;Subvención al Comité Español de Riegos y Drenajes.
+2007;G;4;48;483/24003;;;Al Museo Nacional de Arte de Cataluña (MNAC) para gastos de funcionamiento
+2007;G;4;48;483/24004;;;A la Federación de Gremios de Editores de España, para la promoción del libro español en el exterior y la participación en Ferias Internacionales.
+2007;G;4;48;483/24005;;;Premio Luso-Español
+2007;G;4;48;483/24201;;;Apoyo a la actividad teatral y circense de ámbito nacional de Entidades sin fines de lucro.
+2007;G;4;48;483/25002;;;Para toda clase de gastos derivados de las propuestas de la Comisión Interministerial creada por el Real Decreto 1891/2004, de 10 de septiembre
+2007;G;4;48;483/25103;;;Convenio Monasterio de Yuste
+2007;G;4;48;483/26001;;;Fomento de actividades de alto interés sanitario.
+2007;G;4;48;483/26014;;;A la Federación Española de Municipios y Provincias para el desarrollo de programas sobre drogodependencias financiados a través del Fondo creado por la Ley 17/2003.
+2007;G;4;48;483/26102;;;Ayudas y subvenciones para la formación de postgraduados especialistas en consumo, mediante la colaboración en la actividad del Consejo de Consumidores.
+2007;G;4;48;483/26203;;;Programa de Recursos Humanos y Difusión de la Investigación Biomédica del Fondo de Investigación Sanitaria e investigación intramural.
+2007;G;4;48;483/60001;;;Recargos por faltas de medidas de seguridad e higiene en el trabajo
+2007;G;4;48;484;;;Ayudas en el ámbito de la cooperación internacional
+2007;G;4;48;484/12103;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2.del Real Decreto 825/1988 de 15 de julio). Porcentaje IRPF
+2007;G;4;48;484/13002;;;Al Consejo General de los Procuradores de España como aportación del Estado para indemnizar a los procuradores en los asuntos de asistencia jurídica gratuita
+2007;G;4;48;484/13102;;;Farmacia
+2007;G;4;48;484/14001;;;A Hermandades de retirados, viudas y huérfanos a distribuir según Orden Ministerial
+2007;G;4;48;484/14113;;;Farmacia
+2007;G;4;48;484/15105;;;A la Asociación XBRL España, para la difusión de estándares de tecnología
+2007;G;4;48;484/16001;;;Asignación anual a partidos políticos para sufragar gastos de seguridad
+2007;G;4;48;484/16003;;;Compensación económica por participación de Centrales Sindicales en el Consejo de la Policía,comisiones de trabajo y órganos consultivos
+2007;G;4;48;484/16005;;;A la Federación Española de Municipios y Provincias, para trabajo en favor de la comunidad y arresto de fin de semana
+2007;G;4;48;484/17001;;;A la Asociación de Padres de la Guardería Jardín de Infancia del MOPU, para las actividades propias del Centro.
+2007;G;4;48;484/17018;;;Becas y ayudas en áreas de astronomía, geofísica, geodesia, teledetección y documentación geográfica
+2007;G;4;48;484/17032;;;Para satisfacer bonificaciones en billetes de transporte marítimo expedidos a familias numerosas, incluidas las obligaciones derivadas de ejercicios anteriores.
+2007;G;4;48;484/17034;;;Subvención al tráfico aéreo regular entre la Península y el Archipiélago Canario, así como entre las Islas Canarias.
+2007;G;4;48;484/18001;;;"A la Fundación ""El somni dels nens"""
+2007;G;4;48;484/18002;;;Para desarrollar programas para fomentar la cultura de la paz.
+2007;G;4;48;484/18003;;;Fundación Euroárabe de Altos Estudios.
+2007;G;4;48;484/18007;;;Aportación complementaria a las Universidades para el desarrollo del programa comunitario ERASMUS.
+2007;G;4;48;484/18009;;;A Instituciones sin fines de lucro para formación de profesorado
+2007;G;4;48;484/18010;;;Becas para formación de especialistas en investigación, innovación, documentación e informática en materia educativa
+2007;G;4;48;484/18011;;;Para programas de mejora de Bibliotecas Escolares y animación a la lectura
+2007;G;4;48;484/18101;;;A Federaciones Deportivas Españolas
+2007;G;4;48;484/18202;;;Cuotas y subvenciones a instituciones y sociedades españolas sin fines de lucro, para el fomento de la investigación
+2007;G;4;48;484/19003;;;Subvenciones para el desarrollo de acciones de formación, difusión y fomento de la economia social, la responsabilidad social de la empresa y el autoempleo de ámbito estatal
+2007;G;4;48;484/19004;;;Para los fines de interés social regulados por el art. 2 del R.D. 825/1988, de 15 de julio
+2007;G;4;48;484/19007;;;Ayudas y subvenciones en favor de inmigrantes y refugiados
+2007;G;4;48;484/19101;;;Subvención de cuotas de la Seguridad Social derivadas de la capitalización de las prestaciones por desempleo
+2007;G;4;48;484/19301;;;Compensacion economica por participacion en Organos consultivos.
+2007;G;4;48;484/20004;;;Becas para alumnos de Turismo
+2007;G;4;48;484/20101;;;Para cubrir costes sociales y técnicos, así como obligaciones contractuales, derivadas de la reordenación del sector del carbón
+2007;G;4;48;484/20102;;;Programa de fomento de las solicitudes de Patentes en el exterior a familias e instituciones sin fines de lucro
+2007;G;4;48;484/21001;;;Convenio con las Federaciones Agroalimentarias de la Unión General de Trabajadores y de Comisiones Obreras.
+2007;G;4;48;484/21021;;;Subvención a la Federación Española de Asociaciones de Ganado Selecto (FEAGAS).
+2007;G;4;48;484/21208;;;Subvenciones a los mecanismos de intervención pesquera con aportación financiera del FEAGA
+2007;G;4;48;484/22101;;;"Aportación ""Fundación del Aula de Altos Estudios de Electos"""
+2007;G;4;48;484/22102;;;Farmacia
+2007;G;4;48;484/23233;;;A la Asociación Defensa de la Calidad del Agua (ADECAGUA)
+2007;G;4;48;484/24004;;;Ayudas a instituciones sin fines de lucro editoras de revis tas de cultura escritas en castellano y otras lenguas cooficiales
+2007;G;4;48;484/24005;;;Ayudas para la formación de profesionales de la cultura
+2007;G;4;48;484/24201;;;Para el mantenimiento de las actividades musicales del Gran Teatre del Liceu
+2007;G;4;48;484/25002;;;A la Fundación Principe de Asturias
+2007;G;4;48;484/26007;;;Para el pago de ayudas sociales a personas con hemofilia u otras coagulopatías congénitas que hayan desarrollado la hepatitis C como consecuencia de haber recibido tratamiento con concentrados de factores de coagulación.
+2007;G;4;48;484/26014;;;A becarios de formación en drogodependencias.
+2007;G;4;48;484/26102;;;Ayudas para la formación de postgraduados especialistas en consumo mediante colaboración en la actividad del CICC.
+2007;G;4;48;484/26203;;;Convenios con entidades sin fines de lucro.
+2007;G;4;48;484/60001;;;Prestacion por maternidad
+2007;G;4;48;485;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
+2007;G;4;48;485/13102;;;Prótesis y otras prestaciones
+2007;G;4;48;485/14104;;;Transferencias corrientes a organismos específicos
+2007;G;4;48;485/14113;;;Prótesis y otras prestaciones
+2007;G;4;48;485/14204;;;A Organismos específicos, servicios, etc.
+2007;G;4;48;485/16001;;;Financiación a Partidos Políticos
+2007;G;4;48;485/16003;;;A la Agrupación Deportiva de la Dirección General de la Policía
+2007;G;4;48;485/16004;;;Ayuda a la Fundación Guardia  Civil
+2007;G;4;48;485/16005;;;Premios de investigación en materia penitenciaria
+2007;G;4;48;485/17001;;;Premio Nacional de Ingeniería Civil
+2007;G;4;48;485/17034;;;Subvención al tráfico aéreo regular entre la Península y el Archipiélago Balear, así como entre las Islas Baleares.
+2007;G;4;48;485/18001;;;Fomento de la participación de los representantes de los empleados públicos en los órganos de negociación colectiva de los centros docentes públicos no universitarios
+2007;G;4;48;485/18003;;;A la Fundación Biblioteca Virtual Miguel de Cervantes para desarrollo de sus actividades
+2007;G;4;48;485/18007;;;A la Federación Española de Universidades Populares para la realización de actividades
+2007;G;4;48;485/18009;;;Becas y ayudas al profesorado
+2007;G;4;48;485/18010;;;Ayudas y subvenciones para financiar actuaciones en materia de nuevas tecnologías aplicadas a la educación.
+2007;G;4;48;485/18011;;;Compensación a las Universidades de los precios públicos por servicios académicos correspondientes a los alumnos exentos de su pago.
+2007;G;4;48;485/18101;;;A la Federación Española de Municipios y Provincias para actividades y equipamiento.
+2007;G;4;48;485/19003;;;Subvenciones para sufragar los gastos de funcionamiento de las asociaciones de cooperativas, de sociedades laborales, de trabajadores autónomos y otros entes representativos de la economía social, de ámbito estatal
+2007;G;4;48;485/19101;;;Planes de reinserción y de mejora de la capacidad de ocupación de demandantes de empleo
+2007;G;4;48;485/19301;;;Compensación economica por actividades desarrolladas para el Consejo por los Grupos y por las Organizaciones en él representadas.
+2007;G;4;48;485/20005;;;Aportación a la Fundación Real Instituto Elcano de Estudios Internacionales Estratégicos
+2007;G;4;48;485/20102;;;Subvención a la Fundación Bosch i Gimpera
+2007;G;4;48;485/21009;;;Becas de formación técnica y práctica área en pesca marítima.
+2007;G;4;48;485/21021;;;Ayudas a actividades de la mujer rural
+2007;G;4;48;485/22101;;;"Aportación a la ""Unión Iberoamericana de Municipalistas"""
+2007;G;4;48;485/22102;;;Prótesis y otras prestaciones
+2007;G;4;48;485/23101;;;Actividades de acercamiento a los Parques Nacionales
+2007;G;4;48;485/23229;;;Becas según Reglamento del Organismo
+2007;G;4;48;485/23234;;;Instituto de Enseñanza Secundaria San Fernando
+2007;G;4;48;485/24003;;;Otras transferencias
+2007;G;4;48;485/24005;;;Ayudas para la cooperación cultural con Iberoamérica
+2007;G;4;48;485/24201;;;Apoyo a programas líricos y de danza.
+2007;G;4;48;485/26007;;;Para el pago de ayudas sociales a enfermos contaminados de VIH por tratamiento con hemoderivados por transfusiones sanguíneas y sus familiares.
+2007;G;4;48;485/60001;;;Proteccion a la familia
+2007;G;4;48;486;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional
+2007;G;4;48;486/12103;;;Para Ayuda Oficial al Desarrollo
+2007;G;4;48;486/13102;;;Prestaciones económicas Mutualidades Integradas
+2007;G;4;48;486/14001;;;Indemnizaciones por fallecimiento y gran invalidez de participantes en operaciones internacionales de paz y seguridad y cooperantes afectados por conflictos armados locales, reguladas en la presente Ley
+2007;G;4;48;486/14012;;;Alumnos de academias
+2007;G;4;48;486/14113;;;Prestaciones económicas de las Mutualidades integradas
+2007;G;4;48;486/15019;;;Indemnizaciones a los afectados por el síndrome tóxico, según Sentencia de la Sala Segunda del Tribunal Supremo de 26 de septiembre de 1997
+2007;G;4;48;486/16004;;;Ayudas para el pago de prótesis del personal del extinto Cuerpo de Mutilados de Guerra procedente de la Guardia Civil
+2007;G;4;48;486/16005;;;Locomoción y alimentación de condenados a la pena de trabajos en beneficio de la comunidad
+2007;G;4;48;486/17001;;;Premios por jubilación al personal del Departamento
+2007;G;4;48;486/17034;;;Subvención al tráfico aéreo regular entre Ceuta, Melilla y el resto del territorio nacional.
+2007;G;4;48;486/18003;;;Al nodo nacional de GBIF-CSIC (Global Biodiversity Info Facility)
+2007;G;4;48;486/18010;;;A las federaciones y confederaciones de asociaciones de padres de alumnos en que aquéllas se integren
+2007;G;4;48;486/18011;;;Programa de cooperación territorial con centros docentes de las diferentes Comunidades Autónomas
+2007;G;4;48;486/18101;;;Otras ayudas y subvenciones
+2007;G;4;48;486/19004;;;Para programas de acción social
+2007;G;4;48;486/19101;;;Para gastos derivados del programa de Escuelas Taller, Casas de Oficios y Talleres de Empleo
+2007;G;4;48;486/19201;;;Convocatoria de premios Injuve en materia artística
+2007;G;4;48;486/19301;;;Premios y becas convocados por el Consejo Economico y Social
+2007;G;4;48;486/20005;;;A la Fundación Parque Científico de Barcelona para la Cátedra Organización Mundial del Comercio
+2007;G;4;48;486/20102;;;Subvenciones a Universidades
+2007;G;4;48;486/21009;;;Ayudas a la Asociación Cluster de empresas pesqueras en paises terceros
+2007;G;4;48;486/21021;;;Ayudas a la formación profesional agraria en cursos y estancias.
+2007;G;4;48;486/22101;;;Becas estudios en escuelas extranjeras de formación de funcionarios.
+2007;G;4;48;486/22102;;;Prestaciones económicas Mutualidades integradas
+2007;G;4;48;486/23005;;;Actuaciones para la sostenibilidad económica de los recursos hídricos y de planificación hidrológica del Tajo en la Comunidad de Madrid
+2007;G;4;48;486/23101;;;A la Fundación Félix Rodríguez de la Fuente
+2007;G;4;48;486/24003;;;A la Fundación Real Fábrica de Tapices para el desarrollo de sus actividades
+2007;G;4;48;486/24004;;;Ayudas a entidades privadas sin ánimo de lucro para el desarrollo de proyectos archivísticos
+2007;G;4;48;486/24005;;;Al Instituto de Relaciones Internacionales y Estudios Estratégicos, para sus gastos de funcionamiento y de actividades culturales
+2007;G;4;48;486/24201;;;A Entidades Corales
+2007;G;4;48;486/25002;;;"Premio Mujer y Parlamento ""Clara Campoamor"""
+2007;G;4;48;486/26007;;;Para subvencionar a Instituciones de cualquier titularidad, sin ánimo de lucro, con destino a financiar Programas de Prevención y Control del SIDA.
+2007;G;4;48;486/26203;;;Becas de cooperación e intercambio con otros países en materia sanitaria.
+2007;G;4;48;486/60001;;;Indemnizaciones y entregas unicas reglamentarias
+2007;G;4;48;487;;;Becas formación
+2007;G;4;48;487/12003;;;Premio Bartolomé de las Casas
+2007;G;4;48;487/13002;;;Subvenciones a Fundaciones Judiciales
+2007;G;4;48;487/14001;;;Becas de estudios para personal de las Fuerzas Armadas
+2007;G;4;48;487/16001;;;"Indemnizaciones artículos 93 al 96 de Ley de Medidas Fiscales, Administrativas y del Orden Social para 1997; artículos 139 al 144 de la L.R.J.A.P. y del P.A.C.; y Ley 52/84"
+2007;G;4;48;487/16005;;;Para el pago de gastos ocasionados por la asistencia religiosa  a reclusos de religiones minoritarias
+2007;G;4;48;487/16101;;;Becas a postgraduados
+2007;G;4;48;487/17001;;;Programa becas Fullbright
+2007;G;4;48;487/17034;;;Para satisfacer bonificaciones en billetes de transporte aéreo expedidos a familias numerosas
+2007;G;4;48;487/18003;;;A la Fundación José Ortega y Gasset, para el desarrollo de actividades y gastos de funcionamiento del Instituto Universitario.
+2007;G;4;48;487/18011;;;Servicios Escolares Complementarios.
+2007;G;4;48;487/18101;;;A la Fundación Deporte Joven
+2007;G;4;48;487/18137;;;Concesion de becas y premios
+2007;G;4;48;487/19004;;;"A la ""Fundación + familia"", para el cumplimiento de sus fines y en especial la creación, desarrollo y promoción del ""Certificado de empresa familiarmente responsable"""
+2007;G;4;48;487/19101;;;Para pago de cuotas, subvenciones y bonificaciones a la Seguridad Social
+2007;G;4;48;487/21021;;;Ayudas a la formación profesional del personal de empresas agrarias, selvícolas y alimentarias, cofinanciadas por el Fondo Social Europeo.
+2007;G;4;48;487/22101;;;"Aportación al Ayuntamiento de Valdeavellano de Tera: Centro de formación ""ESPACIO VALDEAVELLANO"" (Plan Soria)"
+2007;G;4;48;487/23005;;;Contribución a Cruz Roja Española.
+2007;G;4;48;487/23234;;;A la universidad Rey Juan Carlos I.
+2007;G;4;48;487/24003;;;A Icomos España para el desarrollo de trabajos y reuniones para la celebración de candidaturas españolas a Patrimonio de la Humanidad
+2007;G;4;48;487/24005;;;Becas de formación de profesionales de la cultura.
+2007;G;4;48;487/24201;;;Premios nacionales de Música y Danza.
+2007;G;4;48;487/25002;;;Premios de Investigación e Innovación Tecnológica en la Lucha contra la Contaminación Marítima y del Litoral
+2007;G;4;48;487/26007;;;Para coordinar con otros Agentes, de cualquier titularidad, el desarrollo del Plan Multisectorial de Lucha contra el SIDA.
+2007;G;4;48;487/26203;;;A la Asociación para el Registro y Estudio de Malformaciones Congénitas.
+2007;G;4;48;487/60001;;;Prestaciones sociales
+2007;G;4;48;488;;;Para actividades de promoción de asuntos de la Unión Europea
+2007;G;4;48;488/13002;;;Al Consejo General de Colegios Oficiales de Psicólogos para asistencia psicólogica a las victimas
+2007;G;4;48;488/14001;;;Ayudas a alumnos extranjeros en centros docentes de las Fuerzas Armadas
+2007;G;4;48;488/14012;;;Ayudas a alumnos extranjeros en centros docentes de las FAS
+2007;G;4;48;488/16001;;;Ayudas a agrupaciones de voluntarios
+2007;G;4;48;488/16005;;;Convenio con la Cruz Roja
+2007;G;4;48;488/16101;;;Ayudas a asociaciones de víctimas de tráfico
+2007;G;4;48;488/17001;;;Al Patronato Rector UNED-INBAD.
+2007;G;4;48;488/18003;;;A otros
+2007;G;4;48;488/18010;;;Para el desarrollo de programas de cualificación profesional inicial o, en su caso, de garantía social
+2007;G;4;48;488/18011;;;Para programas integrados de apoyo y refuerzo en centros de Educación Primaria y Educación Secundaria
+2007;G;4;48;488/19101;;;Renta activa de inserción
+2007;G;4;48;488/21021;;;Convenio marco de colaboración con la Confederación de Cooperativas Agrarias de España (CCAE).
+2007;G;4;48;488/22001;;;Pensiones de jubilación complementaria correspondientes a personal no funcionario.
+2007;G;4;48;488/24003;;;A Spain-USA Foundation para defensa de intereses españoles en los buques hundidos en aguas norteamericanas
+2007;G;4;48;488/24004;;;A la Federación Española de Cámaras del Libro, para la difusión y comercialización del libro.
+2007;G;4;48;488/24005;;;Becas para la ampliación de estudios artísticos en los Estados Unidos
+2007;G;4;48;488/24201;;;"Premios Nacionales de Teatro y Circo y Premio para Autores Noveles ""Calderón de la Barca""."
+2007;G;4;48;488/26007;;;A la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica (GESIDA) para, mediante convenio, fomentar la investigación clínica sobre el SIDA.
+2007;G;4;48;488/60001;;;Otras prestaciones e indemnizaciones
+2007;G;4;48;489;;;Indemnizaciones por fallecimiento y gran invalidez de participantes en operaciones internacionales de paz y seguridad y cooperantes afectados por conflictos armados locales, reguladas en la presente Ley
+2007;G;4;48;489/12103;;;Instituciones sin fines de lucro
+2007;G;4;48;489/14001;;;Indemnizaciones derivadas de la aplicación del Real Decreto Ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad
+2007;G;4;48;489/16001;;;A la Cruz Roja Española, por su participación en la Operación Paso del Estrecho y en otras actividades de protección civil
+2007;G;4;48;489/16005;;;A Cáritas Española para facilitar la aplicación de los programas con personas sentenciadas a penas no privativas de libertad
+2007;G;4;48;489/17031;;;Al Centro de Estudios de Transportes del Mediterraneo Occidental
+2007;G;4;48;489/18009;;;Becas para formación de evaluadores en educación
+2007;G;4;48;489/18011;;;Programa en colaboración con la Federación Española de Municipios y Provincias para mejora de la gestión educativa municipal
+2007;G;4;48;489/18101;;;A la Federación Española de Fútbol para programas de actividades del fútbol no profesional
+2007;G;4;48;489/19001;;;Financiación y compensaciones económicas
+2007;G;4;48;489/19003;;;Financiación y compensaciones económicas
+2007;G;4;48;489/20102;;;Subvención a la Fundación Foro de Marcas Renombradas Españolas
+2007;G;4;48;489/21021;;;Para Convenios de colaboración con Entidades sin ánimo de lucro.
+2007;G;4;48;489/22101;;;Subvención al Aula d'Alts Estudis d'Electes Locals.
+2007;G;4;48;489/22401;;;Becas y otras ayudas al estudio
+2007;G;4;48;489/23101;;;Compensaciones socioeconómicas en áreas de influencia de Parques Nacionales de ejercicios anteriores
+2007;G;4;48;489/24003;;;Premio Velázquez de Artes Plásticas
+2007;G;4;48;489/24004;;;Para premios literarios de ámbito nacional.
+2007;G;4;48;489/24005;;;Otras ayudas y subvenciones
+2007;G;4;48;489/24201;;;A Fundaciones e Instituciones sin fines de lucro para actividades teatrales.
+2007;G;4;48;489/26004;;;Para coordinar actuaciones de información y atención al ciudadano en salud y consumo.
+2007;G;4;48;489/26007;;;Para coordinar actuaciones de educación y promoción de la salud.
+2007;G;4;48;489/60001;;;Farmacia (Recetas Medicas)
+2007;G;4;49;;;;Al exterior
+2007;G;4;49;490;;;Al exterior
+2007;G;4;49;490/03001;;;Cuota de España al INTOSAI y OLACEFS
+2007;G;4;49;490/08001;;;Cuotas a Organismos Internacionales
+2007;G;4;49;490/14001;;;A organismos internacionales
+2007;G;4;49;490/14003;;;A organismos internacionales
+2007;G;4;49;490/14017;;;A organismos internacionales
+2007;G;4;49;490/14111;;;A organismos internacionales
+2007;G;4;49;490/14205;;;A organismos internacionales
+2007;G;4;49;490/15005;;;A la OCDE para financiar Convenios de Colaboración
+2007;G;4;49;490/17001;;;Cuotas a Organismos Internacionales
+2007;G;4;49;490/17018;;;Cuotas a Organismos internacionales
+2007;G;4;49;490/17032;;;Cuotas a Organismos Internacionales
+2007;G;4;49;490/17040;;;Cuotas a Organismos Internacionales.
+2007;G;4;49;490/18002;;;Contribuciones a Organismos Internacionales
+2007;G;4;49;490/18003;;;Cuotas por participación en Organismos y Programas Internacionales
+2007;G;4;49;490/18006;;;Cuotas y participaciones en Organismos Internacionales
+2007;G;4;49;490/18007;;;Cuota por la participación en el Instituto Universitario Europeo, con sede en Florencia (Italia)
+2007;G;4;49;490/18008;;;Gastos de participación en Centros o Programas internacionales de investigación
+2007;G;4;49;490/18009;;;Pago de cuotas a Organismos Internacionales.
+2007;G;4;49;490/18010;;;Para el pago de cuotas a Organismos Internacionales.
+2007;G;4;49;490/18202;;;Cuotas y contribuciones a Organismos Internacionales
+2007;G;4;49;490/18206;;;Cuotas y contribuciones a Organismos Internacionales
+2007;G;4;49;490/19004;;;Cuotas a organismos internacionales (discapacidad)
+2007;G;4;49;490/19106;;;Aportaciones a organizaciones internacionales
+2007;G;4;49;490/19107;;;Para premios y experiencias innovadoras
+2007;G;4;49;490/20017;;;A la OCDE para CENTRO Emprendimiento y Desarrollo Local
+2007;G;4;49;490/20302;;;Al Exterior.Transferencia a la OIEA. Programas de Países del Este Europeo y la República Popular China.
+2007;G;4;49;490/21001;;;Para abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantia Agraria ( FEGA), de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEOGA-GARANTIA.
+2007;G;4;49;490/22002;;;Cuotas internacionales
+2007;G;4;49;490/22101;;;Cuotas de adhesión al Centro Latinoamericano de Administraci ón para el Desarrollo (C.L.A.D.).
+2007;G;4;49;490/22401;;;Cuotas Internacionales
+2007;G;4;49;490/23002;;;A Organizaciones Internacionales
+2007;G;4;49;490/23003;;;Cuotas correspondientes a España en Organizaciones Meteorológicas Internacionales.
+2007;G;4;49;490/23005;;;Cuotas a Organismos Internacionales
+2007;G;4;49;490/23007;;;Ayudas y otras actuaciones en países en desarrollo
+2007;G;4;49;490/23008;;;Contribuciones a Organismos Internacionales
+2007;G;4;49;490/23009;;;Gastos que originan las obligaciones contraidas con Instituciones Internacionales de la U.E. y de la Conservación de la Naturaleza.
+2007;G;4;49;490/23101;;;Cuotas a Organismos Internacionales relacionados con la Conservación de la Naturaleza.
+2007;G;4;49;490/23225;;;Subvención a la Asociación Internacional del Agua
+2007;G;4;49;490/23233;;;A la Red Internacional de Organismos de Cuenca
+2007;G;4;49;490/24005;;;Aportación para la difusión de la cultura española en el exterior
+2007;G;4;49;490/25101;;;Cuotas a Organismos Internacionales
+2007;G;4;49;490/26203;;;Cuotas y convenios internacionales.
+2007;G;4;49;490/60001;;;Al Exterior
+2007;G;4;49;491;;;A instituciones sin fines de lucro con proyección en el exterior
+2007;G;4;49;491/12103;;;Fundación Desarrollo Local y el Fortalecimiento Municipal e Institucional Centro América y Caribe
+2007;G;4;49;491/13001;;;Conferencia de Ministros de Justicia de Paises Iberoamericanos
+2007;G;4;49;491/15105;;;Cuotas a Organismos Internacionales
+2007;G;4;49;491/16002;;;Contribución a Organismos Internacionales
+2007;G;4;49;491/16003;;;Contribución a Organismos Internacionales
+2007;G;4;49;491/16004;;;Cuotas a Organismos Internacionales
+2007;G;4;49;491/16101;;;Cuotas y contribuciones a Organismos Internacionales
+2007;G;4;49;491/17001;;;Obligaciones de la Administración Española con Organismos In ternacionales, relacionados con su función reguladora de la prestación de servicios postales y telegráficos.
+2007;G;4;49;491/17018;;;Colaboración con organizaciones geográficas internacionales
+2007;G;4;49;491/17034;;;Cuotas a Organismos Internacionales
+2007;G;4;49;491/17039;;;A EURO CONTROL ROUTE.
+2007;G;4;49;491/17238;;;Cuotas a Organismos Internacionales.
+2007;G;4;49;491/18001;;;Cuotas por participación en Organismos y Programas Internacionales
+2007;G;4;49;491/18002;;;Cuotas por participación en organismos y programas internacionales
+2007;G;4;49;491/18009;;;Pago de cuotas a Organismos Internacionales
+2007;G;4;49;491/18010;;;Para pago de cuotas a Organismos Internacionales y participación en Programas educativos
+2007;G;4;49;491/18101;;;Para cuotas de Congresos, reuniones e inscripciones del CSD en asociaciones y Organismos internacionales
+2007;G;4;49;491/18203;;;Contribuciones a Organismos de la OCDE
+2007;G;4;49;491/18204;;;Cuotas y gastos derivados de la participación española en otros Organismos Internacionales.
+2007;G;4;49;491/18205;;;Pago de cuotas a Organismos Internacionales
+2007;G;4;49;491/19001;;;Aportaciones para realización de programas y otros
+2007;G;4;49;491/19101;;;Cuotas a Organismos Internacionales
+2007;G;4;49;491/19105;;;Cuotas a Organismos Internacionales
+2007;G;4;49;491/19106;;;Ayuda a la realización de proyectos de cooperación al desarrollo en países desfavorecidos
+2007;G;4;49;491/19201;;;Cuotas a Organismos Internacionales
+2007;G;4;49;491/20001;;;Cuotas de asociación y gastos de participación en Organismos Internacionales de los servicios del Departamento
+2007;G;4;49;491/20004;;;Cuotas a Organismos Internacionales de Turismo
+2007;G;4;49;491/20016;;;Contribución española al Secretariado EUREKA
+2007;G;4;49;491/20017;;;A la OCDE para la evaluación de Programas de Formación para gerentes de PYME
+2007;G;4;49;491/20019;;;Gastos de participación en Organismos Internacionales Energéticos
+2007;G;4;49;491/20208;;;Cuotas a Organismos Internacionales de Turismo
+2007;G;4;49;491/21001;;;Cuotas a Organismos Internacionales.
+2007;G;4;49;491/22101;;;Cuota anual a la Organización Iberoaméricana de Cooperación Intermunicipal (O.I.C.I.).
+2007;G;4;49;491/23002;;;Al Instituto Internacional de Desarrollo Sostenible
+2007;G;4;49;491/23003;;;A la Organización Meteorológica Mundial para el Centro de Aplicaciones Meteorológicas para el Desarrollo (ACMAD)
+2007;G;4;49;491/23005;;;Cuota Comité Internacional de Grandes Presas
+2007;G;4;49;491/23007;;;Aportaciones a Organismos y Convenios Internacionales
+2007;G;4;49;491/24003;;;Cuotas a Organismos Internacionales.
+2007;G;4;49;491/24004;;;Para cuotas a Organismos Internacionales relacionados con el libro, archivos y bibliotecas y para proyectos de cooperación internacional
+2007;G;4;49;491/24005;;;A la Federación Internacional de los consejos de las Artes y Agencias Culturales (IFACCA) para favorecer el intercambio de información y experiencias entre operadores culturales
+2007;G;4;49;491/24101;;;Cuotas a Organismos Internacionales.
+2007;G;4;49;491/24102;;;Contribución a Organismos Internacionales relacionados con el libro y las bibliotecas
+2007;G;4;49;491/26002;;;Para cuotas y demás gastos de organismos internacionales.
+2007;G;4;49;491/26014;;;Cuotas a Organismos Internacionales.
+2007;G;4;49;491/26103;;;Para cuotas y demás gastos de organismos internacionales.
+2007;G;4;49;491/27001;;;Red Europea de Información Urbana
+2007;G;4;49;491/34001;;;Aportación a la Unión Europea por recurso propio procedente del IVA
+2007;G;4;49;492;;;Participación en Organismos Internacionales, incluídas obligaciones de ejercicios anteriores
+2007;G;4;49;492/12103;;;Sociedad Cultural Brasil España, funcionamiento y liquidación filiales
+2007;G;4;49;492/13001;;;Cuota al Instituto de las Naciones Unidas para la prevención del delito y tratamiento del delicuente
+2007;G;4;49;492/17039;;;Asociación vinculada a Sistemas Inteligentes de Transporte (ERTICO)
+2007;G;4;49;492/18002;;;A la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura (OEI), para financiación y desarrollo de actividades
+2007;G;4;49;492/18101;;;Contribución a la Agencia Mundial Antidopaje (AMA)
+2007;G;4;49;492/18203;;;Contribución voluntaria a la Organización Internacional de la Energía Atómica (OIEA)
+2007;G;4;49;492/19007;;;Pensiones asistenciales para emigrantes y otras ayudas para migrantes
+2007;G;4;49;492/19101;;;Cuota ILE y otras contribuciones (O.C.D.E.)
+2007;G;4;49;492/19104;;;Subvención para la Agencia Europea para la Seguridad y Salud en el Trabajo
+2007;G;4;49;492/19105;;;Programas de cooperación internacional
+2007;G;4;49;492/19201;;;A la Organización Iberoamericana de Juventud para los gastos de funcionamiento previstos en el Convenio entre España y esta organización internacional
+2007;G;4;49;492/20013;;;Para abonar las cuotas que se deriven del acuerdo firmado con el Instituto Europeo de Normas de Telecomunicaciones y (ETSI) y Digital Video Broadcasting (DVB)
+2007;G;4;49;492/20102;;;Cuotas a asociaciones y participación en Organismos Internacionales
+2007;G;4;49;492/23005;;;Global Water Partnerships Organisation (GWPO)
+2007;G;4;49;492/23007;;;A la Organización Meteorológica Mundial para el Fondo de Garantía del Grupo Intergubernamental de expertos sobre el Cambio Climático
+2007;G;4;49;492/23009;;;Programa ARAUCARIA y AZAHAR
+2007;G;4;49;492/23101;;;Programa de Cooperación Internacional
+2007;G;4;49;492/24004;;;Convocatoria para el fomento de la cultura y el libro español mediante la traducción y edición en lenguas extranjeras de obras literarias o científicas de autores españoles.
+2007;G;4;49;492/24101;;;Aportación voluntaria del ICAA al Fondo Ibermedia
+2007;G;4;49;492/24201;;;Pagos de cuotas a Organismos Internacionales.
+2007;G;4;49;492/26002;;;Para todos los gastos que ocasione la cooperación sanitaria internacional.
+2007;G;4;49;492/26014;;;Programas de cooperación internacional en aplicación de la Ley 17/2003.
+2007;G;4;49;492/34001;;;Aportación a la Unión Europea por recurso propio basado en la Renta Nacional Bruta (RNB)
+2007;G;4;49;493;;;Protección de españoles en el extranjero: asistencia social, evacuaciones, hospitalizaciones y repatriaciones
+2007;G;4;49;493/12103;;;Centro Cultural Español Iberoamericano de Miami, para su funcionamiento y actividades
+2007;G;4;49;493/13001;;;GRECO - Grupo de Estados contra la Corrupción
+2007;G;4;49;493/15008;;;Cuota a EUROGEOGRAPHICS
+2007;G;4;49;493/15101;;;Cuotas de participación Organismos Internacionales
+2007;G;4;49;493/18101;;;Contribución al Consejo de Europa en materia de deportes
+2007;G;4;49;493/18203;;;Cuotas a asociaciones internacionales relacionadas con la energía y el medio ambiente.
+2007;G;4;49;493/19101;;;Cuotas CINTERFOR
+2007;G;4;49;493/19201;;;A organismos internacionales para proyectos de expertos jovenes españoles
+2007;G;4;49;493/20013;;;Para satisfacer las obligaciones que se deriven para España de nuestra participación en la Oficina Europea de Radiocomunicaciones (ERO)
+2007;G;4;49;493/20017;;;Cuotas de participación y contribución a Organismos Internacionales
+2007;G;4;49;493/20102;;;A la OEP: Reembolso de los importes abonados en concepto de ajustes fiscales a sus funcionarios jubilados residentes en España
+2007;G;4;49;493/22101;;;Al Instituto Europeo de Administración Pública
+2007;G;4;49;493/23003;;;Participación en el Grupo de Cooperacion HIRLAM. Proyecto para el desarrollo de un modelo numérico de previsión meteorológica a corto plazo.
+2007;G;4;49;493/23005;;;Redo Internacional de Organismos de Cuenca (RIOC)
+2007;G;4;49;493/23007;;;Al Fondo para el Medio Ambiente Mundial
+2007;G;4;49;493/34001;;;Aportación a la Unión Europea por la recaudación líquida en España de los recursos propios tradicionales
+2007;G;4;49;494;;;Asistencia en el extranjero a beneficiarios de asilo en España
+2007;G;4;49;494/16002;;;Cooperación Policial con otros países
+2007;G;4;49;494/16003;;;Cooperación Internacional con otros países
+2007;G;4;49;494/16004;;;Cooperación policial con otros países
+2007;G;4;49;494/18204;;;Cuotas y gastos derivados de la representación española ante la O.C.D.E.
+2007;G;4;49;494/20005;;;Cuotas participación en Organismos de Comercio Internacional
+2007;G;4;49;494/20013;;;Para satisfacer las obligaciones de la pertenencia de España a la Conferencia Europea de Administraciones Postales y de Telecomunicaciones (CEPT), así como abonar las cuotas de participación y servicios derivados del Acuerdo con la CEPT sobre motorización de telecomunicaciones por  satélite, a través de la Oficina Europea de Radiocomunicaciones (ERO)
+2007;G;4;49;494/23005;;;Contribución a la Comisión Económica para Europa de Naciones Unidas (CEPE)
+2007;G;4;49;494/23007;;;A los Fondos de la Convención Marco de Cambio Climático
+2007;G;4;49;494/34001;;;Aportación a la Unión Europea por prestación de servicios
+2007;G;4;49;495;;;Participación en Organismos Internacionales
+2007;G;4;49;495/12103;;;Fondo Mixto de Cooperación Técnica y Científica Méjico-España
+2007;G;4;49;495/15009;;;"Cuota participación en ""Asociación Iberoamericana de Tribunales de Justicia Fiscal o Administrativa"""
+2007;G;4;49;495/20013;;;Para satisfacer las obligaciones que se deriven para España del cumplimiento del Convenio Internacional de Telecomunicaciones (Nairobi 1982) y con la Secretaría General de la Unión Internacional de las Telecomunicaciones
+2007;G;4;49;495/23005;;;Contribución a organismos Internacionales
+2007;G;4;49;495/23007;;;Al Mecanismo de Cooperación del Sistema Mundial de Observación del Clima
+2007;G;4;49;495/24005;;;A la Organización de Estados Iberoamericanos para la organización de la Conferencia Iberoamericana de Ministros de Cultura
+2007;G;4;49;496;;;Cuotas a Organizaciones Internacionales de Seguros
+2007;G;4;49;496/12103;;;Para Ayuda Oficial al Desarrollo
+2007;G;4;49;496/18204;;;Transferencias derivadas de las actividades de cooperación con el C.G.I.A.R.
+2007;G;4;49;496/20013;;;Cuota a la Asociación para el Cumplimiento de los Equipos Radio y Terminales de Telecomunicación (R&TTE CA)
+2007;G;4;49;496/21001;;;Colaboración con Organismos Internacionales (APOs).
+2007;G;4;49;496/24005;;;A la Conferencia de Autoridades Audiovisuales y Cinematográficas Iberoamericanas, CAACI, Programa Ibermedia para televisión cultural
+2007;G;4;49;497;;;Cuota al Centro Europeo de Empresas Públicas (CEEP)
+2007;G;4;49;497/12103;;;Cooperación España-Argentina
+2007;G;4;49;497/20013;;;Participación española en la Oficina Europea de Telecomunicaciones (ETO)
+2007;G;4;49;497/24005;;;A la UNESCO, para ejecución del Convenio de cooperación en materia de Patrimonio Cultural
+2007;G;4;49;498;;;Instituto Guatemalteco de Cultura Hispánica
+2007;G;4;49;499;;;Ayudas para el programa iberescena
+2007;G;4;49;499/12103;;;Instituto Nicaragüense de Cultura Hispánica
+2007;G;4;49;499/60001;;;Otras Tansferencias al Exterior
+2007;G;5;;;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS
+2007;G;5;50;;;;Dotación al Fondo de Contingencia
+2007;G;5;50;500;;;Fondo de Contingencia de ejecución presupuestaria.  Artículo 15 de la Ley 18/2001
+2007;G;5;51;;;;Otros Imprevistos
+2007;G;5;51;510;;;Para atender necesidades que puedan presentarse en los Departamentos Ministeriales
+2007;G;6;;;;;INVERSIONES REALES
+2007;G;6;60;;;;Inv. nueva en infraestr. y bienes destinados al uso general
+2007;G;6;60;600;;;Inversiones en terrenos
+2007;G;6;60;601;;;Otras
+2007;G;6;60;602;;;Inversiones en la Autovía Conil-Algeciras.
+2007;G;6;60;609;;;Expropiaciones, Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2007;G;6;60;609/21021;;;Modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2007;G;6;60;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2007;G;6;60;609/23006;;;Incidencias de inversiones de ejercicios anteriores.
+2007;G;6;60;609/27009;;;Incidencias de inversiones de ejercicios anteriores.
+2007;G;6;61;;;;Inv. de reposición en infraes. y bienes dest. al uso general
+2007;G;6;61;610;;;Inversiones en terrenos
+2007;G;6;61;611;;;Otras
+2007;G;6;61;618;;;Obligaciones de ejercicios anteriores por modificados, adicionales, liquidaciones y otras incidencias
+2007;G;6;61;619;;;Expropiaciones, Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2007;G;6;61;619/21021;;;Modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2007;G;6;61;619/23005;;;Incidencias de inversiones de ejercicios anteriores.
+2007;G;6;61;619/23006;;;Incidencias de inversiones de ejercicios anteriores.
+2007;G;6;61;619/23008;;;Incidencias de inversiones de ejercicios anteriores
+2007;G;6;62;;;;Inv. nueva asociada al funcionamiento operativo de los serv.
+2007;G;6;62;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios
+2007;G;6;62;621;;;Estudios para la Estación Intermodal de Vitoria-Gasteiz.
+2007;G;6;62;621/24003;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de junio,del Patrimonio Histórico Español, para adquisición de bienes culturales
+2007;G;6;62;622;;;"Pago de indemnizaciones a que se refiere la Directiva 93/7 de la CEE, relativa a la restitución de bienes culturales que hayan salido del territorio de un Estado miembro y pago de los costes derivados de la devolución de bienes culturales previsto en el ""Convenio UNIDROIT sobre bienes culturales robados o exportados ilegalmente"" de 24 de junio de 1995"
+2007;G;6;62;628;;;Obligaciones de ejercicios anteriores
+2007;G;6;62;629;;;Incidencias de inversiones de ejercicios anteriores.
+2007;G;6;63;;;;Inv. de reposición asociada al func. operativo de los serv.
+2007;G;6;63;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios
+2007;G;6;63;631;;;Cancelación de deudas tributarias pagadas mediante entrega o adjudicación de bienes, incluidas las obligaciones de ejercicios anteriores
+2007;G;6;63;631/14301;;;Inversión de cualquier naturaleza del CNI
+2007;G;6;63;631/24003;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales
+2007;G;6;63;638;;;Obligaciones de ejercicios anteriores
+2007;G;6;63;639;;;Incidencias de inversiones de ejercicios anteriores.
+2007;G;6;64;;;;Gastos de inversiones de carácter inmaterial
+2007;G;6;64;640;;;Gastos en inversiones de carácter inmaterial
+2007;G;6;64;648;;;Obligaciones de ejercicios anteriores
+2007;G;6;64;649;;;Incidencias de inversiones de ejercicios anteriores
+2007;G;6;64;649/23006;;;Incidencias de inversiones de ejercicios anteriores.
+2007;G;6;65;;;;Inversiones militares en infraestructura y otros bienes
+2007;G;6;65;650;;;Inversiones militares en infraestructura y otros bienes
+2007;G;6;65;655;;;Programas Especiales de Modernización del Ejercito de Tierra
+2007;G;6;65;656;;;Programas Especiales de Modernización de la Armada
+2007;G;6;65;657;;;Programas Especiales de Modernización del Ejercito del Aire
+2007;G;6;66;;;;Inv. militares asociadas al funcionamiento de los servicios
+2007;G;6;66;660;;;Inversiones militares asociadas al funcionamiento operativo de los servicios
+2007;G;6;67;;;;Gastos militares de inversiones de carácter inmaterial
+2007;G;6;67;670;;;Gastos militares en inversiones de carácter inmaterial
+2007;G;7;;;;;TRANSFERENCIAS DE CAPITAL
+2007;G;7;71;;;;A Organismos Autónomos
+2007;G;7;71;710;;;A organismos autónomos del Departamento
+2007;G;7;71;710/15005;;;Al Instituto de Estudios Fiscales
+2007;G;7;71;710/16005;;;A Trabajo Penitenciario y Formación para el Empleo
+2007;G;7;71;710/17020;;;Al Centro de Estudios y Experimentación de Obras Públicas. (C.E.D.E.X)
+2007;G;7;71;710/18001;;;Al Consejo Superior de Deportes.
+2007;G;7;71;710/18003;;;Al Instituto Geológico y Minero de España (IGME)
+2007;G;7;71;710/18006;;;Fondo estratégico para Infraestructuras Científicas y Tecnológicas
+2007;G;7;71;710/18007;;;A la Universidad Internacional Menéndez Pelayo
+2007;G;7;71;710/18008;;;Al Consejo Superior de Investigaciones Científicas para la construcción del Centro de Ciencias Físicas de Benasque (Huesca)
+2007;G;7;71;710/18009;;;Al Organismo Autónomo Programas  Educativos Europeos , para el cumplimiento de sus fines
+2007;G;7;71;710/18204;;;Para proyectos de investigación.
+2007;G;7;71;710/21009;;;Al Fondo de Regulación y Organización del Mercado de Productos de la Pesca y Cultivos Marinos (FROM) para gastos de capital
+2007;G;7;71;710/22001;;;Al Instituto Nacional de Administración Pública
+2007;G;7;71;710/23004;;;Subvención al Organismo Autónomo Parques Nacionales para gastos de capital
+2007;G;7;71;710/23005;;;A OO.AA. adscritos a la Dirección General del Agua.
+2007;G;7;71;710/25002;;;Al Centro de Estudios Políticos y Constitucionales
+2007;G;7;71;710/27010;;;Centro Nacional de Información Geográfica
+2007;G;7;71;710/31004;;;Al Parque Móvil del Estado
+2007;G;7;71;711;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
+2007;G;7;71;711/15001;;;Al Instituto de Contabilidad y Auditoría de Cuentas
+2007;G;7;71;711/18003;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+2007;G;7;71;711/23004;;;Transferencia Centro Nacional de Información Geográfica explotación de imágenes y trabajos - Proyecto SIOSE
+2007;G;7;71;711/24001;;;Al Museo Nacional Centro de Arte Reina Sofía.
+2007;G;7;71;711/25002;;;Al Centro de Investigaciones Sociológicas.
+2007;G;7;71;711/26013;;;Al Instituto de Salud Carlos III para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a traves de la Agen cia de Evaluación de Tecnologías Sanitarias.
+2007;G;7;71;712;;;Al Centro Nacional de Información Geográfica (Proyecto SIOSE)
+2007;G;7;71;712/15008;;;Al Centro Nacional de Información Geográfica     (Proyecto  SIOSE )
+2007;G;7;71;712/17018;;;Al Centro Nacional de Información Geográfica (CNIG).
+2007;G;7;71;712/18003;;;Al Instituto Español de Oceanografía (IEO)
+2007;G;7;71;712/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo
+2007;G;7;71;712/20018;;;Al Instituto para la Reestructuración de la Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras
+2007;G;7;71;712/21001;;;Subvención a la Agencia para el Aceite de Oliva (AAO), para gastos de capital.
+2007;G;7;71;712/24001;;;A la Biblioteca Nacional.
+2007;G;7;71;712/26004;;;Al Instituto Nacional del Consumo.
+2007;G;7;71;713;;;Al Consejo Superior de Investigaciones Científicas (CSIC)
+2007;G;7;71;713/20004;;;Al Instituto de Turismo de España
+2007;G;7;71;713/21001;;;Al Fondo Español de Garantía Agraria (FEGA), para gastos de capital.
+2007;G;7;71;714;;;A la Agencia Española de Cooperación Internacional, para atender los gastos derivados de proyectos de ayuda oficial al desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
+2007;G;7;71;714/15016;;;Al Instituto Nacional de Estadística
+2007;G;7;71;714/18003;;;Al Instituto de Astrofísica de Canarias (IAC)
+2007;G;7;71;714/20004;;;Al Instituto de Turismo de España. Redacción y ejecución del proyecto de construcción del Parador de Bejar
+2007;G;7;71;714/21001;;;Subvención a la Entidad Estatal de Seguros Agrarios (ENESA) para gastos de capital
+2007;G;7;71;714/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales.
+2007;G;7;71;714/26011;;;A la Organización Nacional  de Trasplantes
+2007;G;7;71;715;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
+2007;G;7;71;715/26001;;;A la Agencia Española de Seguridad Alimentaria.
+2007;G;7;71;716;;;Al Tribunal de Defensa de la Competencia
+2007;G;7;71;716/18003;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) para subvencionar la Fundación Ciudad de la Energía
+2007;G;7;71;716/19008;;;Al Instituto de la Mujer
+2007;G;7;71;716/20015;;;Al Centro Español de Metrología
+2007;G;7;71;716/24001;;;Al Instituto Nacional de las Artes Escénicas y de la Música
+2007;G;7;71;716/26001;;;Al Instituto de Salud Carlos III.
+2007;G;7;71;717;;;Al Instituto de la Juventud
+2007;G;7;71;717/24001;;;A la Gerencia de Infraestructuras y Equipamientos de Cultura
+2007;G;7;71;717/25002;;;Al Consejo de Administración del Patrimonio Nacional
+2007;G;7;71;718;;;Al Consejo de la Juventud de España
+2007;G;7;71;719;;;Al Real Patronato sobre Discapacidad.
+2007;G;7;72;;;;A la Seguridad Social
+2007;G;7;72;720;;;Al IMSERSO. Servicios sociales Ley 24/1997.
+2007;G;7;72;720/60001;;;A la Seguridad Social
+2007;G;7;72;721;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones de capital del Instituto Nacional de Gestión Sanitaria.
+2007;G;7;72;726;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del Instituto Social de la Marina
+2007;G;7;73;;;;A Agencias Estatales y otros Organismos Públicos
+2007;G;7;73;730;;;A la Agencia de la Evaluación de políticas y programas públicos, calidad de los servicios e impacto normativo
+2007;G;7;73;735;;;A la Agencia Estatal de Administración Tributaria
+2007;G;7;73;735/19001;;;Al Consejo Económico y Social
+2007;G;7;73;736;;;Al Consejo de Seguridad Nuclear
+2007;G;7;73;737;;;Al Instituto Cervantes
+2007;G;7;73;737/14001;;;A Organismos Públicos
+2007;G;7;73;737/20003;;;Transferencias a Entes Públicos
+2007;G;7;73;737/24001;;;Al Museo Nacional del Prado.
+2007;G;7;74;;;;A Sdades, Ent.Públ.Emp, Fundac. y resto entes Sect. Públ.
+2007;G;7;74;740;;;Al Consorcio Valencia 2007, para la celebración de la Copa América 2007
+2007;G;7;74;740/17001;;;A la Sociedad Estatal Correos y Telégrafos, S.A., para la prestación del Servicio Postal Universal.
+2007;G;7;74;740/18003;;;A la Fundación Agencia Nacional de Evaluación de la Calidad y Acreditación, para inversiones
+2007;G;7;74;740/18005;;;Programa Consolider y Subprograma Explora
+2007;G;7;74;740/18006;;;Al Consorcio para la creación, construcción, equipamiento y explotación del Barcelona Supercomputing Center-Centro Nacional de Supercomputación (BSC-CNS)
+2007;G;7;74;740/18007;;;A la Universidad Nacional de Educación a Distancia, para inversiones.
+2007;G;7;74;740/18008;;;Fondo Nacional para el Desarrollo de la Investigación Científica y Técnica
+2007;G;7;74;740/18203;;;Aportación a la Fundación Estatal Ciudad de la Energía, para cumplimiento de sus fines
+2007;G;7;74;740/18204;;;Transferencias a otros Entes Públicos para investigación.
+2007;G;7;74;740/18205;;;A Universidades para proyectos de investigación.
+2007;G;7;74;740/19003;;;A la Fundación del Servicio Interconfederal de Mediación y Arbitraje (SIMA)
+2007;G;7;74;740/20004;;;A la Sociedad Estatal para el Desarrollo Tecnológico del Turismo, S.A.(SEDETTUR)
+2007;G;7;74;740/20014;;;Fomento de la Investigación Técnica en el Área de las Tecnologías de la Sociedad de la Información
+2007;G;7;74;740/20015;;;Para la financiación de la participación en Programas Espaciales a través del Centro para el Desarrollo Tecnológico Industrial (CDTI)
+2007;G;7;74;740/20018;;;Al Instituto para la Diversificación y Ahorro de la Energía (IDAE) para la Estrategia de Eficiencia Energética
+2007;G;7;74;740/20302;;;A otros Organismos Públicos
+2007;G;7;74;740/21009;;;Al Instituto de Crédito Oficial para subsidiación a tipos de interés en el marco del Plan de Acción en el Sector Pesquero Español.
+2007;G;7;74;740/21021;;;Convenios para inversiones en Centros Tecnológicos Agroalimentarios
+2007;G;7;74;740/23004;;;A la Fundación Biodiversidad
+2007;G;7;74;740/23009;;;Al Fondo de Compensación de Incendios para la cobertura del riesgo de accidentes a las personas que intervienen en la extinción de incendios.
+2007;G;7;74;740/23236;;;A la sociedad estatal Aguas del Segura S.A., para inversiones.
+2007;G;7;74;740/25002;;;Al Consorcio Urbanístico de la Ciudad Universitaria de Madrid
+2007;G;7;74;740/25103;;;"A la Sociedad ""Hipódromo de la Zarzuela S.A."", para financiar la  ejecución  de  obras en el Hipódromo de la Zarzuela"
+2007;G;7;74;740/27009;;;A SEPES otras Comunidades
+2007;G;7;74;741;;;"Dotación fundacional para la Fundación ""Pluralismo y Convivencia"""
+2007;G;7;74;741/17020;;;A la Sociedad Española de Estudios para la Comunicación Fija a través del Estrecho de Gibraltar, S.A. (SECEGSA).
+2007;G;7;74;741/17032;;;A la Sociedad Estatal de Salvamento y Seguridad Marítima, (SASEMAR).
+2007;G;7;74;741/17034;;;A SENASA para estudios para la promoción de la actividad aérea en el aeropuerto de Matacán (Salamanca).
+2007;G;7;74;741/17040;;;Al Consorcio de Transportes de Bizkaia. Estación Intermodal de Urbinaga.
+2007;G;7;74;741/17238;;;Subvenciones para fomento de  I + D
+2007;G;7;74;741/18006;;;Fondo estratégico para Infraestructuras Científicas y Tecnológicas
+2007;G;7;74;741/18007;;;A la Universidad Nacional de Educación a Distancia para amortización del préstamo para financiar déficits de ejercicios anteriores
+2007;G;7;74;741/20004;;;A ICO para apoyo a los tipos de interés de la línea de financiación de actividades turísticas privadas de la Iniciativa de Modernización de Destinos Turísticos Maduros
+2007;G;7;74;741/20015;;;Para la financiación de Programas Bilaterales de Cooperación en materia Espacial a través del CDTI
+2007;G;7;74;741/20016;;;A la Fundación Observatorio de Prospectiva Tecnológica Industrial (OPTI)
+2007;G;7;74;741/20017;;;A CERSA para apoyo línea de reafianzamiento
+2007;G;7;74;741/20018;;;Al Instituto para la Diversificación y Ahorro de la Energía (IDAE)
+2007;G;7;74;741/20101;;;Reactivación económica de las comarcas mineras del carbón
+2007;G;7;74;741/21021;;;Para Convenios de Colaboración en materia de promoción agroalimentaria.
+2007;G;7;74;741/23008;;;Subvenciones a Sociedades, Ent. púb. emp., Fundaciones y resto Entes sector público para financiar proyectos I+D+i medioambientales en el ámbito de la prevención de la contaminación
+2007;G;7;74;741/23101;;;Convenio Fundación PP.NN. Rehabilitación La Raixa
+2007;G;7;74;741/24005;;;"Al Consorcio ""Salamanca Capital Europea de la Cultura 2002"" aportación para la liquidación y disolución del Consorcio"
+2007;G;7;74;741/24201;;;Al Consorcio de rehabilitación de Teatros de Madrid.
+2007;G;7;74;741/26203;;;"A la ""Fundación Centro Nacional de Investigaciones Oncológicas Carlos III!. Operaciones de capital."
+2007;G;7;74;741/31003;;;A la Sociedad Estatal Barcelona Holding Olimpico S.A.
+2007;G;7;74;742;;;Ayudas a Planes de Transporte de Empresas y Centros de Actividad y Proyectos Piloto y Estudios de Viabilidad relacionados con infraestructuras o servicios de transporte
+2007;G;7;74;742/17032;;;A SASEMAR para subvencionar actuaciones para mejorar la seguridad de los buques pesqueros.
+2007;G;7;74;742/17040;;;A los Ferrocarriles de Vía Estrecha (FEVE).
+2007;G;7;74;742/18006;;;Al Consorcio para la construccion y explotacion de la Fuente de Espalacion de Neutrones del Pais Vasco
+2007;G;7;74;742/18101;;;Al Centro de Alto Rendimiento deportivo de San Cugat (Barcelona), para la construcción de nuevas instalaciones deportivas y modernización.
+2007;G;7;74;742/20016;;;A la Sociedad Estatal para el Desarrollo del Diseño y la Innovación S.A. (DDI)
+2007;G;7;74;742/20018;;;A la Fundación Pública Ciudad de la Energía
+2007;G;7;74;742/23101;;;Programa de investigación de Parques Nacionales
+2007;G;7;74;742/24005;;;A la Fundación Museo de la Minería del Pais Vasco
+2007;G;7;74;742/24201;;;Al Consorcio de Rehabilitación de Teatros de Barcelona.
+2007;G;7;74;742/26203;;;"A la ""Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III"". Operaciones de capital."
+2007;G;7;74;742/27009;;;SEPES para Convenio Extremadura
+2007;G;7;74;743;;;A ICO para compensación de intereses de préstamo
+2007;G;7;74;743/12103;;;Fundación Colegios Mayores MAE-AECI
+2007;G;7;74;743/18008;;;Al Consorcio para la creación, equipamiento y explotación de la Plataforma Cenotipal Metabólica (Mouse Clinic).
+2007;G;7;74;743/19101;;;A la Fundación Estatal para la Formación en el Empleo, para gastos de capital
+2007;G;7;74;743/20016;;;A la Compañía Española de Reafianzamiento, S.A. (CERSA)
+2007;G;7;74;743/20017;;;A la Compañía Española de Reafianzamiento, S.A. (CERSA)
+2007;G;7;74;743/23228;;;A la Sociedad Estatal Aguas del Guadalquivir
+2007;G;7;74;743/24005;;;A la Universidad de les Illes Balears. Edición de una enciclopedia de la Historia de Mallorca
+2007;G;7;74;743/24201;;;Al Gran Teatro de la Maestranza para la ampliación de su escenario
+2007;G;7;74;743/26203;;;"A la ""Fundación para la Cooperación y Salud Internacional Carlos III"". Operaciones de capital."
+2007;G;7;74;743/31003;;;A Autopistas del Atlántico S.A. por regularización de subvenciones
+2007;G;7;74;744;;;Subvenciones de intereses por préstamos de líneas de mediación instrumentados por el ICO
+2007;G;7;74;744/18006;;;Consorcio para la creación, equipamiento y explotación del Centro de Infraestructura en Visualización, Realidad Virtual e Interacción Gráfica.
+2007;G;7;74;744/18008;;;A la Fundación Ciencia y Tecnología para actuaciones del Programa Nacional de Difusión y Plan de Divulgación
+2007;G;7;74;744/20016;;;Políticas de Reindustrialización en Zonas Desfavorecidas
+2007;G;7;74;744/20017;;;A la Sociedad Estatal para el Desarrollo del Diseño y la Innovación S.A. (DDI)
+2007;G;7;74;744/20018;;;Al Instituto para la Diversificación y Ahorro de la Energía (IDAE) para una subvención a la empresa Gorona del Viento El Hierro S.A. gestora del proyecto de la Central Hidroeólica de la Isla del Hierro
+2007;G;7;74;744/23004;;;Fundación General de la Universidad de Alcalá de Henares para el Observatorio de la Sostenibilidad de España.
+2007;G;7;74;745;;;Al Ente Vasco de Energía para equipamientos e instalaciones del Centro de Investigación  Cooperativa de Energias Alternativas
+2007;G;7;74;745/18008;;;A la Fundación de Ciencia y Tecnología para financiar la Web of knowledge
+2007;G;7;74;745/20006;;;A la Sociedad Estatal para la Promoción y Atracción de las Inversiones Exteriores, S.A.
+2007;G;7;74;745/20016;;;Al ICO, para bonificación de intereses al plan de mejora de la competitividad en los sectores textil-confección, calzado, mueble y juguete, incluidas obligaciones de ejercicios anteriores.
+2007;G;7;74;745/20017;;;A la Fundación Española para la Innovación de la Artesanía
+2007;G;7;74;745/20018;;;Al Instituto para la Diversificación y Ahorro de la Energía (IDAE),para ayudas a la incentivación, desarrollo y actuaciones del Plan de Energías Renovables
+2007;G;7;74;745/24005;;;A la Fundación Instituto de Cultura Gitana, dotación de su capital fundacional
+2007;G;7;74;745/26203;;;"la ""Fundación Centro de Investigación de Enfermedades Neurológicas"". Operaciones de capital."
+2007;G;7;74;746;;;Para la construcción de la nueva sede del Centro Tecnolológico Forestal de Cataluña
+2007;G;7;74;746/20015;;;Al CDTI por la iniciativa TECNOEUROPA
+2007;G;7;74;746/20016;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores
+2007;G;7;74;746/21021;;;Informatización del medio rural.
+2007;G;7;74;747;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
+2007;G;7;74;747/20015;;;Al Centro para el Desarrollo Tecnológico Industrial para el Programa Nacional del Espacio
+2007;G;7;74;747/20016;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;7;74;747/20017;;;Programa INNOEMPRESA
+2007;G;7;74;747/21021;;;Al Instituto de Crédito Oficial (ICO) para modernización de infraestructuras agrarias.
+2007;G;7;74;748;;;Actuaciones relacionadas con el 1% cultural
+2007;G;7;74;748/18006;;;Al Centro de Competencia Logística Integral. Funcionamiento centro intercomunitario (Zaragoza)
+2007;G;7;74;748/18008;;;Para estudios en la UPC sobre superconductividad para el soterramiento de líneas de alta tensión.
+2007;G;7;74;748/20014;;;Al Instituto Nacional de las Tecnologías de la Comunicación, S.A. (INTECO) (Plan León)
+2007;G;7;74;748/20015;;;Al Centro para el Desarrollo Tecnológico Industrial (CDTI) para la cobertura de los costes de sus actividades de financiación
+2007;G;7;74;748/20017;;;A la Empresa Nacional de Innovación, S.A. (ENISA)
+2007;G;7;74;748/20302;;;A Organismos Públicos con presupuestos no consolidables con los del Estado
+2007;G;7;74;748/23226;;;Transferencias a la Universidad de Zaragoza
+2007;G;7;74;749;;;Plan AVANZ@
+2007;G;7;74;749/20015;;;Al Centro para el Desarrollo Tecnológico Industrial para la financiación del Programa CENIT
+2007;G;7;74;749/23226;;;A la Universidad de Barcelona
+2007;G;7;74;749/60001;;;Otras transferencias
+2007;G;7;75;;;;A Comunidades Autónomas
+2007;G;7;75;750;;;A la Generalitat de Cataluña, financiación de traspasos
+2007;G;7;75;750/17018;;;Plan Nacional de Ortofotografía Aérea
+2007;G;7;75;750/17020;;;Ayudas a Planes de Movilidad Sostenible, Planes de Transporte de Empresas y Centros de Actividad y Proyectos Piloto y Estudios de Viabilidad relacionados con infraestructuras o servicios de transporte
+2007;G;7;75;750/17239;;;A CC.AA. prestación servicios públicos de difusión y diseminación de información cartográfica por cuenta del CNIG
+2007;G;7;75;750/18001;;;Plan Integral de Empleo de Canarias
+2007;G;7;75;750/18005;;;Programa Consolider y Subprograma Explora
+2007;G;7;75;750/18008;;;Fondo Nacional para el Desarrollo de la Investigación Científica y Técnica
+2007;G;7;75;750/18205;;;A Comunidades Autónomas para proyectos de investigación.
+2007;G;7;75;750/19003;;;Apoyo a las inversiones de cooperativas y sociedades laborales
+2007;G;7;75;750/19004;;;Creación de plazas y otras actuaciones del Plan de Acción para las personas mayores.
+2007;G;7;75;750/20004;;;Dinamización del Turismo en Molina de Aragón (Guadalajara)
+2007;G;7;75;750/20012;;;Transferencia a la Generalitat de Catalunya. Fomento de la lengua catalana en las nuevas tecnologías
+2007;G;7;75;750/20014;;;Fomento de la Investigación Técnica en el Área de las Tecnologías de la Sociedad de la Información
+2007;G;7;75;750/21009;;;Convenios con CC.AA. para diversificación y medidas colaterales del sector pesquero.
+2007;G;7;75;750/21021;;;Convenios de colaboración para creación Centros Tecnológicos Agroalimentarios.
+2007;G;7;75;750/21211;;;Al País Vasco y Navarra por costes de traspaso fuera de cupo
+2007;G;7;75;750/22003;;;A la Generalidad de Cataluña. Como aportación del Estado al Plan Único de Obras y Servicios de Cataluña (PUOSC)
+2007;G;7;75;750/23004;;;Convenios con CC.AA. para apoyo a la Coordinacion de Reservas de la Biosfera
+2007;G;7;75;750/23005;;;Convenio con el Gobierno de Canarias
+2007;G;7;75;750/23008;;;Transferencias a CCAA para llevar a cabo los Planes Nacionales de Suelos Contaminados, Residuos Urbanos, Residuos Especiales y el traslado de residuos a la península.
+2007;G;7;75;750/23101;;;Compensaciones socioeconómicas las áreas de influencia de los Parques Nacionales
+2007;G;7;75;750/23225;;;A Comunidades Autónomas, canon de vertidos
+2007;G;7;75;750/23226;;;A Comunidades Autónomas
+2007;G;7;75;750/23233;;;A Comunidades Autónomas. Canon de vertidos.
+2007;G;7;75;750/24005;;;Recuperación y potenciación de la Vía de la Plata, mediante convenios con CCAA.
+2007;G;7;75;750/24103;;;Convenio con la Junta de Andalucía para la rehabilitación del Convento de la Trinidad
+2007;G;7;75;750/26203;;;A Comunidades Autónomas para la investigación en terapia celular y medicina regenerativa. Operaciones de capital.
+2007;G;7;75;750/27009;;;A Comunidades Autónomas
+2007;G;7;75;750/32009;;;A la Generalidad Valenciana para la financiación de infraestructuras del  Ferrocarril Metropolitano de Valencia,  según Convenio suscrito con el Estado
+2007;G;7;75;750/32010;;;A la Comunidad Autónoma de Aragón  para financiar  proyectos de inversión, según Convenio
+2007;G;7;75;750/32015;;;Para la financiación de nuevos convenios de infraestructuras en Illes Balears
+2007;G;7;75;751;;;Traspaso CC.AA. Madrid, Ciudad de la Justicia
+2007;G;7;75;751/17001;;;Actuaciones relacionadas con el 1% cultural
+2007;G;7;75;751/17238;;;Subvenciones para fomento de  I + D
+2007;G;7;75;751/18101;;;A Comunidades Autónomas para construcción y adaptación de Centros de Alto Rendimiento y Tecnificación
+2007;G;7;75;751/18204;;;Para actividades de investigación
+2007;G;7;75;751/19004;;;Creación de plazas y otras actuaciones para personas con Alzheimer y otras demencias del Plan de Acción para personas mayores.
+2007;G;7;75;751/19105;;;Cofinanciación con CC.AA. para  centros de promoción de la igualdad
+2007;G;7;75;751/19201;;;Facilitar el aceso de los jóvenes a centros de creación y otros equipamientos
+2007;G;7;75;751/20001;;;A Comunidades Autónomas para actividades relacionadas con competencias del MITYC
+2007;G;7;75;751/20004;;;Plan de promoción del turismo termal
+2007;G;7;75;751/20007;;;Plan de Mejora de la Calidad en el Comercio
+2007;G;7;75;751/20014;;;Programa Ciudades Digitales
+2007;G;7;75;751/20019;;;Actuaciones de Seguridad Minera
+2007;G;7;75;751/20101;;;Reactivación económica de las comarcas mineras del carbón
+2007;G;7;75;751/21009;;;Planes Nacionales de Cultivos Marinos. Transferencia a CC.AA
+2007;G;7;75;751/21021;;;Convenio con la Comunidad Autónoma de Castilla-La Mancha para mejora del sector agroalimentario. Plan Guadiana
+2007;G;7;75;751/23005;;;Convenio con la Junta de Andalucia para el aprovechamiento hidráulico del litoral atlántico
+2007;G;7;75;751/23008;;;Subvenciones a CC AA para financiar los proyectos I+D+i medioambientles en el ámbito de la prevención de la contaminación
+2007;G;7;75;751/23101;;;Fondos para nuevos parques nacionales
+2007;G;7;75;751/23228;;;A la C.A. de Andalucia para el trasvase Guadiaro-Majaceite
+2007;G;7;75;751/23232;;;C.A. de Castilla-La Mancha, trasvase Tajo-Segura.
+2007;G;7;75;751/24103;;;Convenios con CCAA para obras en archivos, bibliotecas y museos de titularidad estatal
+2007;G;7;75;751/26011;;;"A la Comunidad Autónoma de Cantabria, para la financiación del Plan Director del Hospital Universitario ""Marqués de Valdecilla"" de Santander."
+2007;G;7;75;751/32002;;;A la  Generalidad de Cataluña para la financiación de infraestructuras   del  transporte   metropolitano de Barcelona, según Convenio suscrito con el Estado
+2007;G;7;75;751/32004;;;A la Comunidad Autónoma de Andalucía para la financiación de infraestructuras del transporte metropolitano de Sevilla, según Convenio suscrito con el Estado
+2007;G;7;75;751/32010;;;Para financiar proyectos de inversión en la provincia de Teruel
+2007;G;7;75;751/32016;;;A  la Comunidad Autónoma  de Madrid  para la financiación de infraestruturas del transporte metropolitano, según Convenio suscrito con el Estado
+2007;G;7;75;751/32017;;;Convenio con  la Comunidad Autónoma  de Castilla y León para la construcción de la autovía León-Burgos
+2007;G;7;75;752;;;Proyectos de información geográfica
+2007;G;7;75;752/17038;;;Para financiar expropiaciones y otras actuaciones del Convenio con la Comunidad Autónoma de Canarias.
+2007;G;7;75;752/18101;;;A Comunidades Autónomas para programas cofinanciados de dotación de infraestructuras deportivas en centros escolares
+2007;G;7;75;752/19004;;;Creación de plazas para atención de menores de 3 años
+2007;G;7;75;752/20001;;;A la Comunidad Autónoma de Cataluña. Para la remodelación del Barrio de l´Estació en Sallent
+2007;G;7;75;752/20016;;;Al Centre d´Innovació i Desenvolupament Empresarial (CIDEM) para centro tecnológico de la industria química
+2007;G;7;75;752/21009;;;Ayuda al Instituto Canario de Ciencias Marinas
+2007;G;7;75;752/21021;;;Ayudas para obras de infraestructura y equipamiento.
+2007;G;7;75;752/21211;;;A la Comunidad Autónoma de Canarias de gastos de años anteriores
+2007;G;7;75;752/23005;;;Convenio con la Junta de Andalucia para el aprovechamiento hidráulico del litoral mediterráneo
+2007;G;7;75;752/23008;;;A CC.AA. para llevar a cabo la política de residuos
+2007;G;7;75;752/23232;;;C.A. de Madrid, trasvase Tajo-Segura.
+2007;G;7;75;752/24003;;;A la Xunta de Galicia, restauración muralla de Lugo
+2007;G;7;75;752/24201;;;A la Consejería de Cultura y Turismo de Castilla y León para equipamiento del Auditorio de Valladolid
+2007;G;7;75;752/26013;;;A CC.AA. Plan de inversiones para el desarrollo de Sistemas de Información Sanitaria.
+2007;G;7;75;752/27009;;;Subvenciones para adquisición y rehabilitación de viviendas
+2007;G;7;75;752/32002;;;Para financiar proyecto de urbanización del nucleo antiguo del municipio de Llagostera (Girona)
+2007;G;7;75;752/32004;;;A la Comunidad Autónoma de Andalucía para la financiación de infraestructuras del transporte metropolitano de Málaga, según Convenio suscrito con el Estado
+2007;G;7;75;753;;;Para obras prefinanciadas  del Convenio con la Comunidad Autónoma de Canarias
+2007;G;7;75;753/18008;;;"""Programa Eurociencia"""
+2007;G;7;75;753/19004;;;Acciones en favor de personas en situación de dependencia
+2007;G;7;75;753/20016;;;Al Centre Tecnològic mediambiental de Flix (Centre d´Empreses)
+2007;G;7;75;753/21021;;;Convenios con Comunidades Aútonomas para medidas de desarrollo rural.
+2007;G;7;75;753/23005;;;Convenio con la Generalitat de Catalunya para la mejora y re generación ambiental del Llobregat
+2007;G;7;75;753/23008;;;Convenio con la Agenica de Residuos de Cataluña (C.A. de Cataluña) para actuaciones en materia de biomasa
+2007;G;7;75;753/23232;;;C.A. de Extremadura, trasvase Tajo-Segura.
+2007;G;7;75;753/24003;;;A la Comunidad Autónoma de Castilla y León para la construcción del edificio del Centro de interpretación de las Médulas en la provincia de León (Plan León)
+2007;G;7;75;753/26011;;;A la Comunidad Autónoma del Principado de Asturias para la financiación del Plan Director del Hospital Universitario Central de Asturias.
+2007;G;7;75;753/27009;;;Remodelación Barrios Madrid
+2007;G;7;75;754;;;Convenio con Junta de Andalucía Parque Aracena
+2007;G;7;75;754/18101;;;A Comunidades Autónomas para la actualización del Censo Nacional de Instalaciones Deportivas
+2007;G;7;75;754/21021;;;Programa de desarrollo rural en Galicia
+2007;G;7;75;754/24003;;;A la Junta de Andalucía para actuaciones en el Castillo de Baños de la Encina (Plan Jaén XXI)
+2007;G;7;75;755;;;Convenio C.A. Cataluña. Infraestructuras del ciclo del agua. Actuaciones de abastecimiento.
+2007;G;7;75;755/19101;;;Planes Integrales de Empleo y otras actuaciones en materia de empleo,  mediante convenios de colaboración con Comunidades Autónomas
+2007;G;7;75;755/23009;;;Fondo Patrimonio Natural
+2007;G;7;75;755/33003;;;Fondo de Compensación
+2007;G;7;75;755/33004;;;Fondo de Compensación
+2007;G;7;75;755/33005;;;Fondo de Compensación
+2007;G;7;75;755/33006;;;Fondo de Compensación
+2007;G;7;75;755/33008;;;Fondo de Compensación
+2007;G;7;75;755/33009;;;Fondo de Compensación
+2007;G;7;75;755/33011;;;Fondo de Compensación
+2007;G;7;75;755/33012;;;Fondo de Compensación
+2007;G;7;75;755/33014;;;Fondo de Compensación
+2007;G;7;75;755/33017;;;Fondo de Compensación
+2007;G;7;75;755/33019;;;Fondo de Compensación
+2007;G;7;75;755/33020;;;Fondo de Compensación
+2007;G;7;75;756;;;Convenio con la Generalitat de Catalunya para actuaciones de mejora de recursos hídricos y correcciones hidráulicas, actuaciones de saneamiento incluidas en el PSARU 2005 y potenciación de tratamientos terciarios
+2007;G;7;75;756/23009;;;A Comunidades Autónomas para corrección de tendidos eléctricos
+2007;G;7;75;756/33003;;;Fondo Complementario
+2007;G;7;75;756/33004;;;Fondo Complementario
+2007;G;7;75;756/33005;;;Fondo Complementario
+2007;G;7;75;756/33006;;;Fondo Complementario
+2007;G;7;75;756/33008;;;Fondo Complementario
+2007;G;7;75;756/33009;;;Fondo Complementario
+2007;G;7;75;756/33011;;;Fondo Complementario
+2007;G;7;75;756/33012;;;Fondo Complementario
+2007;G;7;75;756/33014;;;Fondo Complementario
+2007;G;7;75;756/33017;;;Fondo Complementario
+2007;G;7;75;756/33019;;;Fondo Complementario
+2007;G;7;75;756/33020;;;Fondo Complementario
+2007;G;7;75;757;;;Cofinanciación con Portugal del Puente Internacional sobre el río Manzanas
+2007;G;7;75;757/18006;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
+2007;G;7;75;757/20016;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;7;75;757/20017;;;Gestión del Programa INNOEMPRESA
+2007;G;7;75;757/27009;;;Construcción y rehabilitación de viviendas de protección oficial.
+2007;G;7;75;758;;;Convenios con Comunidades Autónomas.
+2007;G;7;75;758/18006;;;Fondo estratégico para Infraestructuras Científicas y Tecnológicas
+2007;G;7;75;758/23009;;;A CC.AA para Planes de recuperación especies en peligro de extinción (Oso y otras)
+2007;G;7;75;758/24003;;;A la Junta de Andalucía para restauración de la Muralla de la Hoya de la Alcazaba de Almería
+2007;G;7;75;759;;;Plan AVANZ@
+2007;G;7;75;759/23008;;;Incidencias ejercicios anteriores
+2007;G;7;75;759/24003;;;A la CA de Canarias para proyectos de coservación, rehabilitación y restauración de bienes culturales, instrumentados a través de convenios específicos.
+2007;G;7;75;759/60001;;;Otras transferencias de capital
+2007;G;7;76;;;;A Corporaciones Locales
+2007;G;7;76;760;;;Al Ayuntamiento de Zaragoza para la construcción del Parque Metropolitano de Zaragoza, en el marco del Convenio de colaboración entre el Estado, la Diputación General de Aragón y el citado Ayuntamiento
+2007;G;7;76;760/15105;;;A municipios para gastos originados por la explotación estadística del Padrón Municipal y la actualización mensual del Censo Electoral
+2007;G;7;76;760/17001;;;Sustitución del Teatro de Getxo (Bizkaia)-Getxo Antzokia, por una nueva infraestructura escénica.
+2007;G;7;76;760/17020;;;Ayudas a Planes de Movilidad Sostenible, Planes de Transporte de Empresas y Centros de Actividad y Proyectos Piloto y Estudios de Viabilidad relacionados con infraestructuras o servicios del transporte
+2007;G;7;76;760/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Mallorca
+2007;G;7;76;760/18005;;;Programa Consolider y Subprograma Explora
+2007;G;7;76;760/18006;;;Al Ayuntamiento de Estella. Centro tecnológico de nuevas tecnologías de las artes visuales.
+2007;G;7;76;760/18008;;;Fondo Nacional para el Desarrollo de la Investigación Científica y Técnica
+2007;G;7;76;760/18204;;;Transferencias para el desarrollo de proyectos de investigación.
+2007;G;7;76;760/19004;;;Al Ayuntamiento de Sueca (Comunidad Autónoma Valenciana) para Centro Ocupacional Municipal y Proyecto Pisos tutelados personas discapacitadas psíquicas
+2007;G;7;76;760/20014;;;Fomento de la Investigación Técnica en el Área de las Tecnologías de la Sociedad de la Información
+2007;G;7;76;760/20018;;;Al Ayuntamiento de Marinaleda (Sevilla). Nave Industrial con central de energía eléctrica solar fotovoltaica
+2007;G;7;76;760/21021;;;Convenios para inversiones en Centros Alimentarios.
+2007;G;7;76;760/22003;;;A las Diputaciones, Cabildos, Consejos Insulares,Comunidades Autónomas Uniprovinciales y Ayuntamientos de Ceuta y Melilla, como aportación a la financiación de las inversiones de las Entidades locales por Cooperación Económica Local del Estado.
+2007;G;7;76;760/23004;;;Convenio Ayuntamiento Palma de Mallorca-Cuña Verde
+2007;G;7;76;760/23005;;;Convenios con Ayuntamientos del Pirineo Aragonés para el plan de actuación en el Ciclo Integral del Agua
+2007;G;7;76;760/23008;;;Subvenciones I+D+i a corporaciones locales para financiar proyectos piloto municipales con carácter innovador y alto c ontenido tecnológico.
+2007;G;7;76;760/23101;;;Compensaciones socioeconómicas en las áreas de influencia de los Parques Nacionales
+2007;G;7;76;760/23225;;;A corporaciones Locales
+2007;G;7;76;760/24003;;;A Ayuntamientos, Diputaciones y otros entes locales
+2007;G;7;76;760/24005;;;A Ayuntamientos, Diputaciones y otros entes locales
+2007;G;7;76;760/27009;;;Centre d`Interpretació d`El Cogul
+2007;G;7;76;760/60001;;;A Corporaciones Locales
+2007;G;7;76;761;;;Al Ayuntamiento de Zaragoza para la construcción del azud sobre el rio Ebro, en el marco del Convenio de colaboración entre la Administración General del Estado, la Diputación General de Aragón y el Ayuntamiento de Zaragoza
+2007;G;7;76;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2007;G;7;76;761/16102;;;Para financiar obligaciones derivadas de convenios y acuerdos con otras administraciones
+2007;G;7;76;761/17001;;;Rehabilitación del Palacio Horkasitas. Balmaseda (Bizkaia)
+2007;G;7;76;761/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Menorca
+2007;G;7;76;761/17238;;;Subvenciones para fomento de  I + D
+2007;G;7;76;761/18101;;;A Corporaciones Locales para construcciones deportivas y equipamiento
+2007;G;7;76;761/19004;;;Al Ayuntamiento de Pollença para el Centro de día
+2007;G;7;76;761/19105;;;Transferencias a CC.LL. para  centros de promoción de la igualdad
+2007;G;7;76;761/19201;;;Facilitar el acceso de jóvenes a centros de creación y otros equipamientos
+2007;G;7;76;761/20001;;;A Corporaciones Locales para actividades relacionadas con competencias del MITYC
+2007;G;7;76;761/20014;;;Al Ayuntamiento de Segovia para la puesta en marcha del Círculo de las Artes y la Tecnología (CAT)
+2007;G;7;76;761/20016;;;Centro de transformación de la Cochinilla en Lanzarote
+2007;G;7;76;761/20101;;;Reactivación económica de las comarcas mineras del carbón
+2007;G;7;76;761/21021;;;Ayudas a la reconstrucción y reparación de obras de carácter agrario afectadas por daños catastróficos.
+2007;G;7;76;761/23004;;;Convenio con el Ayuntamiento de Vitoria-Centro de interpretación de la naturaleza-Proyecto ATARIA
+2007;G;7;76;761/23005;;;Al Ayuntamiento de Zaragoza para la recuperación de riberas con motivo de la EXPO 2008
+2007;G;7;76;761/23006;;;Ayuntamiento de Gorliz, remodelación de la playa, aparcamiento.
+2007;G;7;76;761/23101;;;Desarrollo de actividades relacionadas con Parques
+2007;G;7;76;761/24003;;;Ayudas a proyectos de conservación, protección y difusión de bienes declarados Patrimonio Mundial
+2007;G;7;76;761/24004;;;Concurso nacional para proyectos de animación lectora en municipios de menos de 50.000 habitantes.
+2007;G;7;76;761/27009;;;Museo de Ripoll
+2007;G;7;76;761/32023;;;Al Cabildo Insular de Tenerife para la financiación del tranvía/metro ligero Santa Cruz de Tenerife-La Laguna, según Convenio suscrito con el Estado.
+2007;G;7;76;762;;;A Corporaciones Locales para creación de infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
+2007;G;7;76;762/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Ibiza
+2007;G;7;76;762/21021;;;Al Ayuntamiento de Idiazábal. Centro de Experimentación y difusión del queso de idiazábal.
+2007;G;7;76;762/23004;;;Convenios con Corporaciones Locales para apoyo a la Coordinacion de Reservas de la Biosfera
+2007;G;7;76;762/23005;;;"Diputación Provincial de Huesca para actuaciones de mejora de las condiciones actuales del denominado ""ciclo integral del agua"" en el Pirineo Aragonés."
+2007;G;7;76;762/23006;;;Para apoyo a expropiaciones en Caminos de Ronda de la Costa Brava
+2007;G;7;76;762/24003;;;Al Ayuntamiento de León para estudio e intervenciones urgentes en la muralla de la ciudad (Plan León)
+2007;G;7;76;762/24005;;;Al Ayuntamiento de Rianxo para intervenciones en el Centro Literário Castelao.
+2007;G;7;76;762/24201;;;Transferencias a Corporaciones locales para la construcción de Auditorios.
+2007;G;7;76;762/27009;;;Al Ayuntamiento de Molins de Rei para rehabilitación Mercado
+2007;G;7;76;763;;;Rehabilitación del antiguo Palacio de Justicia de Tolosa (Guipuzcoa)
+2007;G;7;76;763/17038;;;A CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
+2007;G;7;76;763/20004;;;Recuperación del Patrimonio de interés geológico y turístico de las Escletxes del Papiol i la mina de Berta
+2007;G;7;76;763/23005;;;Convenio para el desarrollo rural sostenible del área de Yesa.
+2007;G;7;76;763/24003;;;Aportación institucional al Consorcio de la Ciudad Romana de Mérida.
+2007;G;7;76;763/24201;;;Transferencias a Corporaciones Locales para la creación de espacios teatrales y rehabilitación de teatros públicos.
+2007;G;7;76;763/27009;;;Museu del Vi d'Alella
+2007;G;7;76;764;;;Remodelación y mejora de la antigua N-340 en el municipio de L'Ampolla.
+2007;G;7;76;764/20004;;;Promoción turística de Balnearios
+2007;G;7;76;764/20016;;;Políticas de Reindustrialización en Zonas Desfavorecidas
+2007;G;7;76;764/24103;;;Adecuación del Moll Fariner de Sueca
+2007;G;7;76;765;;;Convenio con el Ayuntamiento de Lleida. Avenida Pinyana
+2007;G;7;76;765/20004;;;Plan Integral de Calidad en Turismo
+2007;G;7;76;765/24003;;;Al Ayuntamiento de Ribadavia para el Castillo Los Sarmiento
+2007;G;7;76;765/24201;;;Al Ayuntamiento de Cabra para el equipamiento del teatro
+2007;G;7;76;766;;;Soporte de Promoción de Ciudades
+2007;G;7;76;766/24201;;;A Ayuntamientos, Diputaciones y otros entes locales
+2007;G;7;76;767;;;Actuaciones relacionadas con el 1% cultural
+2007;G;7;76;767/18006;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
+2007;G;7;76;767/20004;;;Convenios de Colaboración para Planes Especiales
+2007;G;7;76;767/20016;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;7;76;767/24005;;;Al Ayuntamiento de Bakio. Txakoli-Gune
+2007;G;7;76;767/24103;;;"Convenio con el Ayuntamiento de Mairena del Alcor (Sevilla) para la construcción de la ""Villa del Conocimiento y las Artes"""
+2007;G;7;76;768;;;Convenio con el Ayuntamiento de Teruel y la Diputación General de Aragón para financiación de la conexión vía perimetral de Teruel con A-23.
+2007;G;7;76;768/18006;;;Fondo Estratégico para Infraestructuras Científicas y Tecnológicas
+2007;G;7;76;768/20004;;;Apoyo a actividades turísticas en Corporaciones Locales
+2007;G;7;76;768/24003;;;Al Ayuntamiento de San Fernando (Cádiz) para la restauración del Castillo San Romualdo
+2007;G;7;76;768/24005;;;Al Ayuntamiento de Lazkao. Centro de especialidades artísticas y teatrales
+2007;G;7;76;769;;;Al Ayuntamiento de Oñati. Proyecto Turístico de Valorización del Patrimonio Histórico, Etnográfico y Paleontológico del karts de Arantzazu-Arrikrutz
+2007;G;7;76;769/20014;;;Plan AVANZ@
+2007;G;7;76;769/22003;;;A las Diputaciones, Cabildos, Consejos Insulares y Comunidades Autónomas Uniprovinciales, para la actualización y mantenimiento de la Encuesta de Infraestructura y Equipamientos Locales.
+2007;G;7;76;769/23101;;;Incidencias ejercicios anteriores
+2007;G;7;76;769/24003;;;A la Diputación Provincial de Cádiz para la restauración de las Murallas Meriníes, Ciudad de Algeciras
+2007;G;7;77;;;;A empresas privadas
+2007;G;7;77;770;;;Ayudas a Planes de Transporte de Empresas y Centros de Actividad y Proyectos Piloto y Estudios de Viabilidad relacionados con infraestructuras o servicios de transporte
+2007;G;7;77;770/17040;;;A la Concesionaria Figueras-Perpignan
+2007;G;7;77;770/18005;;;Programa Consolider y Suprograma Explora
+2007;G;7;77;770/18008;;;Fondo Nacional para el Desarrollo de la Investigación Científica y Técnica
+2007;G;7;77;770/18204;;;Transferencias para el desarrollo de proyectos de investigación.
+2007;G;7;77;770/20014;;;Fomento de la Investigación Técnica en el Área de las Tecnologías de la Sociedad de la Información
+2007;G;7;77;770/20302;;;A empresas privadas
+2007;G;7;77;770/21001;;;Apoyo financiero por daños ocasionados por la sequía y otras causas extraodinarias
+2007;G;7;77;770/21009;;;"Control de la actividad pesquera. ""Cajas azules""."
+2007;G;7;77;770/21021;;;Fomento de la innovación tecnológica.
+2007;G;7;77;770/21211;;;Ayudas por cofinanciación de actuaciones con la Unión Europea
+2007;G;7;77;770/23004;;;Ayudas a empresas para investigación, desarrollo e innovación
+2007;G;7;77;770/23008;;;Subvenciones a empresas privadas para financiar los proyectos I+D+i medioambientales en el ámbito de la prevención de la contaminación.
+2007;G;7;77;770/23101;;;Compensaciones en las areas de influencia de Parques Nacionales
+2007;G;7;77;771;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
+2007;G;7;77;771/17020;;;A la Sociedad para la integración del Ferrocarril de Vitoria-Gasteiz.
+2007;G;7;77;771/17238;;;Subvenciones para fomento de  I + D
+2007;G;7;77;771/18006;;;A Karranzako Minda SL. Proyecto de tratamiento de purines y producción de biogás del Valle de Karranza.
+2007;G;7;77;771/19003;;;Apoyo a las inversiones de cooperativas y sociedades laborales
+2007;G;7;77;771/20101;;;Reactivación económica de las comarcas mineras del carbón
+2007;G;7;77;771/21021;;;Fomento del asociacionismo.
+2007;G;7;77;771/23007;;;Convenio con el ICO para mejora medioambiental de las empresas a través de una línea de crédito
+2007;G;7;77;771/23101;;;Programa de investigación de Parques Nacionales.
+2007;G;7;77;771/24101;;;Ayudas a la Cinematografía a través de Empresas Privadas.
+2007;G;7;77;771/24201;;;Transferencias a empresas privadas para infraestructuras de circo itinerante.
+2007;G;7;77;771/27009;;;Para investigación, desarrollo e innovación tecnológica (I+D+i). Innovación y calidad
+2007;G;7;77;772;;;Programa de medidas para la mejora del sector del transporte por carretera.
+2007;G;7;77;772/20014;;;Acción de Formación dirigida al Sector de las Industrias de la Información
+2007;G;7;77;772/21001;;;Analisis e información nacional de las magnitudes de los sectores.
+2007;G;7;77;772/21021;;;Sanidad de la producción agraria.
+2007;G;7;77;772/24201;;;Rehabilitación y equipamiento escénico del teatro Dengra en Baza (Granada)
+2007;G;7;77;773;;;Acción de Formación dirigida a potenciar el uso de Internet
+2007;G;7;77;773/21021;;;Promoción y diversificación de la economía rural
+2007;G;7;77;774;;;Estrategia de Banda Ancha
+2007;G;7;77;774/21009;;;Ayudas a programas operativos de la Unión Europea
+2007;G;7;77;774/21021;;;Mejora de la calidad de la producción agraria.
+2007;G;7;77;774/21211;;;Medidas de Desarrollo Rural
+2007;G;7;77;775;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores
+2007;G;7;77;775/21021;;;Mejora de la organización de la producción y reordenación de los sectores productivos.
+2007;G;7;77;775/24004;;;Ayudas para el Fomento de la Edición de Libros Españoles, para Bibliotecas Públicas.
+2007;G;7;77;776;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores
+2007;G;7;77;776/21009;;;Desarrollo tecnológico pesquero y acuícola
+2007;G;7;77;776/21021;;;Fomento de la industrialización agroalimentaria
+2007;G;7;77;776/24004;;;Ayudas para el fomento de la traducción y edición entre las lenguas oficiales españolas de obras de autores españoles.
+2007;G;7;77;777;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
+2007;G;7;77;777/20016;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;7;77;777/20018;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;7;77;777/20019;;;Exploración, Ordenación y Seguridad Minera
+2007;G;7;77;777/21009;;;Acciones de partenariado y cooperación pesquera
+2007;G;7;77;777/21021;;;Modernización de explotaciones.
+2007;G;7;77;777/24004;;;Ayudas para el fomento de la edición de libros españoles escritos en lengua gallega, catalana y euskera para bibliotecas públicas
+2007;G;7;77;778;;;Fondo Estratégico para Infraestructuras Científicas y Tecnológicas
+2007;G;7;77;778/21021;;;Medidas de acompañamiento de la P.A.C.
+2007;G;7;77;779;;;Plan AVANZ@
+2007;G;7;77;779/21021;;;Otras actuaciones de desarrollo rural
+2007;G;7;77;779/23101;;;Incidencias ejercicios anteriores
+2007;G;7;78;;;;A familias e instituciones sin fines de lucro
+2007;G;7;78;780;;;Ayudas a la investigación
+2007;G;7;78;780/18005;;;Programa Consolider y Subprograma Explora
+2007;G;7;78;780/18008;;;Fondo Nacional para el Desarrollo de la Investigación Científica y Técnica
+2007;G;7;78;780/18202;;;Formación de personal investigador
+2007;G;7;78;780/18204;;;Becas para iniciación, formación y actualización de investigadores.
+2007;G;7;78;780/18205;;;Becas de formación
+2007;G;7;78;780/18206;;;Becas para Formación de Post-graduados
+2007;G;7;78;780/19007;;;Transferencias a familias e instituciones sin fines de lucro
+2007;G;7;78;780/19105;;;Ayudas a proyectos de investigacion sobre temas de la mujer
+2007;G;7;78;780/20014;;;Fomento de la Investigación Técnica en el Área de las Tecnologías de la Sociedad de la Información
+2007;G;7;78;780/20015;;;Asociación Plan Estratégico Metropolitano de Barcelona
+2007;G;7;78;780/20016;;;Análisis y seguimiento de los sectores industriales
+2007;G;7;78;780/21001;;;Becas de formación técnica y práctica en estadísticas agroalimentarias
+2007;G;7;78;780/21009;;;Ayuda a la Fundación INNOVAMAR
+2007;G;7;78;780/21021;;;Becas de formación practica en el Area de Sanidad Animal para Licenciados.
+2007;G;7;78;780/23004;;;Subvención a la Fundación Instituto de Hidraulica Ambiental
+2007;G;7;78;780/23008;;;Convenio de colaboración entre el Ministerio de Medio Ambiente y la Fundación Instituto para la sostenibilidad de los recursos - Club español de los Residuos
+2007;G;7;78;780/23101;;;Compensaciones en las areas de influencia de Parques Nacionales.
+2007;G;7;78;780/23232;;;A familias e instituciones
+2007;G;7;78;780/24003;;;Aportaciones a otros museos e instituciones culturales
+2007;G;7;78;780/60001;;;Ayudas genéricas a Familias e Instituciones sin fines de lucro
+2007;G;7;78;781;;;Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica: Áreas de Construcción y Transportes
+2007;G;7;78;781/17039;;;Programa de apoyo a Instituciones y Entidades sin fines de lucro relacionadas con el transporte por carretera.
+2007;G;7;78;781/17238;;;Subvenciones para fomento de I+D
+2007;G;7;78;781/18003;;;Ayudas para inversiones en el Instituto de España y Academias de ámbito estatal.
+2007;G;7;78;781/18006;;;A Grantecan para la construcción del Telescopio
+2007;G;7;78;781/18007;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores, incluso pago de primas de seguros de los becarios.
+2007;G;7;78;781/18101;;;A Federaciones Deportivas Españolas y de Minusválidos y otras entidades y asociaciones, para instalaciones deportivas y equipamiento.
+2007;G;7;78;781/18202;;;Convenio con Fundación Centro Tecnológico de Supercomputación de Galicia para adquisición y mantenimiento de equipamiento.
+2007;G;7;78;781/18203;;;Aportación a la Asociación EURATOM-CIEMAT (fusión termonuclear controlada)
+2007;G;7;78;781/19004;;;A la FEMP para proyectos de atención a personas dependientes
+2007;G;7;78;781/19007;;;Subvención a CRE para atender a inmigrantes llegados a las costas españolas
+2007;G;7;78;781/19201;;;A Asociaciones juveniles de ámbito nacional
+2007;G;7;78;781/20007;;;Al Centro de Estudios Comerciales (CECO)
+2007;G;7;78;781/20014;;;Subvenciones relacionadas con el Programa ARTE
+2007;G;7;78;781/20016;;;A la Asociación de Parques Tecnológicos de España (APTE)
+2007;G;7;78;781/20017;;;A Agrupaciones Empresariales Innovadoras (Clusters Innovadores)
+2007;G;7;78;781/20019;;;Actuaciones de Seguridad Minera
+2007;G;7;78;781/20101;;;Reactivación económica de las comarcas mineras del carbón
+2007;G;7;78;781/20302;;;A Familias e Instituciones sin fines de lucro
+2007;G;7;78;781/21009;;;Ayuda a la Fundación AZTI
+2007;G;7;78;781/23004;;;Subvenciones para apoyo a la coordinación de las Reservas de la Biosfera.
+2007;G;7;78;781/23005;;;Actuaciones en pueblos recuperados de Aragón
+2007;G;7;78;781/23008;;;Subvenciones a familias e instituciones sin fines de lucro para financiar proyectos I+D+i medioambientales en el ámbito de la prevención de la contaminación.
+2007;G;7;78;781/23009;;;Programa para la UICN (Unión Internacional para la Conservación de la Naturaleza)
+2007;G;7;78;781/24003;;;Pago de indemnizaciones a que se refiere la Disposición Adicional Novena de la Ley 16/1985, del Patrimonio Histórico Español.
+2007;G;7;78;781/24004;;;Ayudas a entidades privadas sin ánimo de lucro para la mejora de las instalaciones y el equipamiento de sus archivos
+2007;G;7;78;781/24005;;;Para la financiación de proyectos de inversión de Instituciones culturales
+2007;G;7;78;781/24103;;;A la Fundación Francisco Giner de los Ríos para la rehabilitación integral de su patrimonio histórico-arquitectónico
+2007;G;7;78;781/26014;;;Par proyectos de investigación a desarrollar por entidades públicas y privadas.
+2007;G;7;78;781/26203;;;Fondo de Investigación Sanitaria. Programa de fomento de la investigación. Concesión de ayudas de investigación e infraestructuras.
+2007;G;7;78;782;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2007;G;7;78;782/14206;;;Ayuda al acceso a la propiedad de vivienda
+2007;G;7;78;782/18003;;;Institut d'Estudis Catalans.
+2007;G;7;78;782/18005;;;A la Fundación de Apoyo al Museo de Ciencia y Tecnología.
+2007;G;7;78;782/18007;;;Programa de movilidad José Castillejo
+2007;G;7;78;782/18008;;;A la Fundación Instituto de Investigación Rafael Lapesa para el Nuevo Diccionario Histórico de la Lengua Española
+2007;G;7;78;782/18203;;;Aportación a la Fundación CENER-CIEMAT
+2007;G;7;78;782/20014;;;Al Centro Nacional de Referencia de Aplicación de Tecnologías de la Información y Comunicación (CENATIC) (Plan Extremadura)
+2007;G;7;78;782/20016;;;Instituto Tecnológico para la Seguridad del Automóvil
+2007;G;7;78;782/20017;;;Programa INNOEMPRESA
+2007;G;7;78;782/21009;;;Ayuda al Centro Tecnológico del Mar-Fundación CETMAR
+2007;G;7;78;782/24003;;;A la Caja de Ahorros de la Inmaculada de Aragón, para proyectos de restauración en las catedrales de Aragón.
+2007;G;7;78;782/24004;;;A la asociación International Center for Lexicography and language planning
+2007;G;7;78;782/24103;;;a la Fundación Giner de los Ríos para la construcción de un Centro de Educación Ambiental en su sede de San Vicente de la Barquera
+2007;G;7;78;782/24201;;;Para la financiación del Gran Teatre del Liceu.
+2007;G;7;78;782/26203;;;Estructuras estables de investigación cooperativa.
+2007;G;7;78;782/27009;;;Subsidiación de intereses de préstamos y otros apoyos a viviendas
+2007;G;7;78;783;;;Al Centro Nacional de Energías Renovables (CENER) para el desarrollo de energías renovables
+2007;G;7;78;783/18007;;;Subsidiación de intereses de préstamos a estudiantes de Enseñanza Superior y postgraduados.
+2007;G;7;78;783/18008;;;Becas y ayudas de Formación y movilidad de profesorado y personal investigador
+2007;G;7;78;783/18203;;;Aportación al Convenio Hispano Alemán (Plataforma Solar de Almería)
+2007;G;7;78;783/19101;;;Subvenciones de capital para la creación y dotación de centros de formación profesional
+2007;G;7;78;783/20014;;;"Aportación a la Fundación:""I+D+I Fundación Ciencia, Tecnología y Empresa"""
+2007;G;7;78;783/20016;;;Instituto Tecnológico para el desarrollo de las Industrias Marítimas
+2007;G;7;78;783/20017;;;Programa CREA
+2007;G;7;78;783/21021;;;Becas de formación en materia de desarrollo rural.
+2007;G;7;78;783/23007;;;Fundación Centro de Estudios del Mediterráneo
+2007;G;7;78;783/24003;;;Al Patronato del Museo Nacional de Arte de Cataluña para la última fase de las obras de su sede en el Palacio de Montjuic.
+2007;G;7;78;783/24004;;;Al Ateneu Barcelonés para reforma y modernización de su biblioteca
+2007;G;7;78;783/27009;;;Ayuda Estatal Directa a la Entrada, para la adquisición de viviendas (A.E.D.E.)
+2007;G;7;78;784;;;Al Centro de Recerca Economía Internacional (CREI).
+2007;G;7;78;784/18008;;;Apotación fundacional a la Fundación CIDTUR-Centro de Iinvestigación y Desarrollo e Innovación enTurismo
+2007;G;7;78;784/18101;;;A la Federación Española de Fútbol para obras y equipamiento del fútbol no profesional
+2007;G;7;78;784/18203;;;Aportación a la Fundación Parque Científico de Madrid
+2007;G;7;78;784/20014;;;Acción de Formación dirigida al Sector de las Industrias de la Información
+2007;G;7;78;784/20016;;;Políticas de Reindustrialización en Zonas Desfavorecidas
+2007;G;7;78;784/20017;;;Programa Proyectos Consorciados
+2007;G;7;78;784/24003;;;Aportaciones institucionales.
+2007;G;7;78;784/27009;;;Patronatos Provinciales de Canarias
+2007;G;7;78;785;;;A otros
+2007;G;7;78;785/18203;;;Aportación a la Fundación Energía sin Fronteras
+2007;G;7;78;785/20004;;;Al Instituto de Calidad Turística Española
+2007;G;7;78;785/20014;;;Acción de Formación dirigida a potenciar el uso de Internet
+2007;G;7;78;785/20016;;;Acciones de Fomento de la Investigación Técnica en el Sector Aeronáutico
+2007;G;7;78;785/20017;;;INNOEUROPA Programa Marco I+D de la Unión Europea
+2007;G;7;78;785/21021;;;Para Convenios de colaboración con Entidades sin ánimo de lucro.
+2007;G;7;78;785/24003;;;A la Fundación Joan Miró de Barcelona
+2007;G;7;78;785/26203;;;Fondo de Investigación Sanitaria. Investigación evaluativa de tecnologías sanitarias e investigación en servicios de salud.
+2007;G;7;78;786;;;A la Fundación INASMET-TECNALIA para el desarrollo de tecnologías avanzadas en medios de transporte
+2007;G;7;78;786/12103;;;Para proyectos especiales de Ayuda Oficial al Desarrollo
+2007;G;7;78;786/18008;;;Otras transferencias
+2007;G;7;78;786/18203;;;Aportación para la implantación de la Entidad Legal Europea de Fusión (ELE) en España
+2007;G;7;78;786/20014;;;A la Fundación Universitat Oberta de Catalunya
+2007;G;7;78;786/20017;;;A la Federación Española de Entidades de Innovación y Tecnología (FEDIT)
+2007;G;7;78;786/21021;;;Ayudas a los planes sectoriales y acciones promocionales para el fomento de productos agroalimentarios.
+2007;G;7;78;786/24003;;;A la Universidad de Alicante. Museo de la Universidad, intervención arquitectónica
+2007;G;7;78;786/24201;;;"A la Fundación ""La Casa del Actor"", para ayuda a la construcción de su nueva sede."
+2007;G;7;78;787;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
+2007;G;7;78;787/18008;;;Al Centro de Investigaciones sobre el Fuego (CIFU), para construcción y equipamiento del centro
+2007;G;7;78;787/18203;;;"Para hacer frente a los compromisos con la Unión Europea para la participación en los proyectos internacionales del denominado ""Enfoque Amplio hacia la Fusión"" (Broader Approach to Fusion)"
+2007;G;7;78;787/20014;;;Plan Avanz@-DNI electrónico
+2007;G;7;78;787/20016;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;7;78;787/20017;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;7;78;787/20018;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;7;78;787/21021;;;Ayuda a la constitución de certificadoras de productos agroalimentarios acreditadas por ENAC.
+2007;G;7;78;787/24201;;;"A la Fundación Isaac Albéniz para la construcción de la Escuela de Estudios Musicales ""Reina Sofía""."
+2007;G;7;78;787/27009;;;Ayuda Estatal Directa a la Entrada. Obligaciones de ejercicios anteriores.
+2007;G;7;78;788;;;Actuaciones relacionadas con el 1% cultural
+2007;G;7;78;788/18006;;;Fondo estratégico para Infraestructuras Científicas y Tecnológicas
+2007;G;7;78;788/18008;;;"A la Fundación ""Centro de Regulación Genómica"" para el equipamiento de la Unidad Mixta CRG-EMBL (Centro de Regulación Genómica-European Molecular Biology Laboratory)"
+2007;G;7;78;788/20017;;;A Fundación Barcelona Centro de Diseño para Premios Nacionales de Diseño
+2007;G;7;78;788/21021;;;Becas de formación.
+2007;G;7;78;788/23005;;;Fundación Ecología y Desarrollo.
+2007;G;7;78;788/24003;;;Ayudas y subvenciones para financiar excavaciones arqueológicas en el exterior, dentro del Plan establecido por el Instituto del Patrimonio Histórico Español.
+2007;G;7;78;788/27009;;;Rehabilitación del patrimonio Entidades sin fines de lucro.
+2007;G;7;78;789;;;Pago de indemnizaciones y compensaciones derivadas de la Ley 43/98
+2007;G;7;78;789/18008;;;Para la creación, equipamiento y explotación del Instituto de Nanotecnología de Madrid
+2007;G;7;78;789/20014;;;Plan AVANZ@
+2007;G;7;78;789/20016;;;Plan de Promoción de la Innovación en Calidad y Seguridad Industrial
+2007;G;7;78;789/20017;;;Asociación Nacional de CEEIS Españoles (ANCES)
+2007;G;7;78;789/23101;;;Incidencias ejercicios anteriores
+2007;G;7;78;789/24003;;;Convenio de colaboración y coordinación con el Arzobispado de Sevilla para obras en el templo del Divino Salvador
+2007;G;7;78;789/27009;;;Subsidiación de intereses, correspondientes a liquidaciones de ejercicios anteriores.
+2007;G;7;79;;;;Al exterior
+2007;G;7;79;790;;;Fondo estratégico para Infraestructuras Científicas y Tecnológicas
+2007;G;7;79;790/19007;;;Para centros e instituciones asociativas de carácter social, benéfico, cultural y educativo
+2007;G;7;79;790/20006;;;Subvención a las Cámaras de Comercio en el extranjero
+2007;G;7;79;790/20302;;;Al exterior
+2007;G;7;79;790/21009;;;"Ayuda a la Fundación Philippe Cousteau ""Unión de los Oceanos """
+2007;G;7;79;790/23003;;;A EUMETSAT, contribución española a los programas METEOSAT (MSG), Sistema Polar Europeo (EPS) Y METEORTAT de Transición (MTP)
+2007;G;7;79;790/23004;;;Programa Operativo ESPON 2006
+2007;G;7;79;790/23005;;;Creación de la Oficina del Agua de las Naciones Unidas en Zaragoza
+2007;G;7;79;790/23101;;;Programa de Cooperación Internacional
+2007;G;7;79;790/27001;;;Asentamientos Humanos en América Latina y Caribe
+2007;G;7;79;790/60001;;;Al exterior
+2007;G;7;79;791;;;Aportación al Observatorio Europeo del Sur (ESO) para el diseño y construcción del Gran Interferómetro Milimétrico de Atacama (Proyecto ALMA)
+2007;G;7;79;791/23003;;;Contribución española en programas de cooperación iberoamericana y otros países
+2007;G;7;79;791/34001;;;Aportación al Fondo Europeo de Desarrollo (FED)
+2007;G;7;79;792;;;Sistema de Información Schengen
+2007;G;7;79;792/18008;;;Al Spain-Portugal International Naotechnology Center, de Braga, para construcción del centro
+2007;G;7;79;793;;;Al Centro Binacional Argentino-Español de Investigación en Genómica Vegetal
+2007;G;7;79;793/18203;;;Aportación española al programa JET
+2007;G;7;79;794;;;Para la creación, establecimiento, equipamiento y funcionamiento de la Oficina Regional del Instituto Forestal Europeo en Barcelona
+2007;G;7;79;794/18203;;;Participación en el fondo general y común de los experimentos L32, CMS y AMS del CERN.
+2007;G;7;79;795;;;Fondo Mixto de Cooperación Técnica y Científica Méjico-España
+2007;G;7;79;796;;;Para Ayuda Oficial al Desarrollo
+2007;G;7;79;796/18203;;;Participación del CIEMAT en el experimento CDF-II
+2007;G;7;79;797;;;Participación en la construcción del imán superconductor del experimento AMS (Alpha Magnetic Spectrometer)
+2007;G;7;79;798;;;Aportación al Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED)
+2007;G;8;;;;;ACTIVOS FINANCIEROS
+2007;G;8;80;;;;Adquisición de deuda del Sector Público
+2007;G;8;80;800;;;Adquisición de deuda del Sector Público a corto plazo
+2007;G;8;80;801;;;Adquisición de deuda del Sector Público a largo plazo
+2007;G;8;81;;;;Adquisición de obligaciones y bonos fuera del Sector Público
+2007;G;8;81;810;;;Adquisición de obligaciones y bonos fuera del Sector Público a corto plazo
+2007;G;8;81;811;;;Adquisición de obligaciones y bonos fuera del Sector Público a largo plazo
+2007;G;8;82;;;;Concesión de préstamos al Sector Público
+2007;G;8;82;820;;;Préstamos a corto plazo
+2007;G;8;82;821;;;Préstamos a largo plazo
+2007;G;8;82;822;;;Aportaciones reembolsables.Programa CONSOLIDER y Subprograma EXPLORA
+2007;G;8;82;822/18008;;;Anticipos reembolsables. Fondo Nacional para el desarrollo de la investigación científica y técnica
+2007;G;8;82;822/20015;;;Al Centro para el Desarrollo Tecnológico Industrial para proyectos tecnológico-industriales cualificados de carácter civil
+2007;G;8;82;822/20016;;;Aportación reembolsable a ENISA para creación y desarrollo de empresas de base tecnológica
+2007;G;8;82;823;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
+2007;G;8;83;;;;Concesión de préstamos fuera del Sector Público
+2007;G;8;83;830;;;Préstamos a corto plazo
+2007;G;8;83;831;;;Préstamos a largo plazo
+2007;G;8;83;832;;;Préstamos a promotores de infraestructuras de carreteras para la financiación de autopistas de peaje en régimen de concesión hasta el importe resultante de la adjudicación.
+2007;G;8;83;832/17040;;;Préstamos a promotores de infraestructuras ferroviarias.
+2007;G;8;83;832/18005;;;Aportaciones reembolsables.Programa CONSOLIDER y Subprograma EXPLORA
+2007;G;8;83;832/18008;;;Anticipos reembolsables. Fondo Nacional para el desarrollo de la investigación científica y técnica
+2007;G;8;83;832/20016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
+2007;G;8;83;832/20017;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;8;83;832/20018;;;Programa de Fomento de la Investigación y el Desarrollo Tecnológico Industrial
+2007;G;8;83;832/21009;;;Préstamos al sector pesquero y acuícola para el desarrollo tecnológico.
+2007;G;8;83;833;;;Programa de desarrollo de medios aéreos para la Unidad Militar de Emergencia
+2007;G;8;84;;;;Constitución de depósitos y fianzas
+2007;G;8;84;840;;;Depósitos
+2007;G;8;84;841;;;Fianzas
+2007;G;8;85;;;;Adquisición de acciones y participaciones del Sector Público
+2007;G;8;85;850;;;Adquisición de acciones y participaciones del Sector Público
+2007;G;8;85;852;;;Sociedad Estatal de Infraestructuras del Transporte Terrestre (SEITTSA)
+2007;G;8;86;;;;Adquisición de acciones y particip. fuera del Sector Público
+2007;G;8;86;860;;;De empresas nacionales o de la Unión Europea
+2007;G;8;86;863;;;Pago de otros justiprecios
+2007;G;8;86;869;;;De Organismos Financieros Multilaterales
+2007;G;8;87;;;;Aportaciones patrimoniales
+2007;G;8;87;870;;;Aportaciones patrimoniales
+2007;G;8;87;871;;;Fondo para la concesión de microcréditos
+2007;G;8;87;871/15016;;;Aportación patrimonial al ICO
+2007;G;8;87;871/15021;;;Fondo de Ayuda al Desarrollo para Instituciones Financieras Internacionales y para la Gestión de la Deuda Externa (FIDE)
+2007;G;8;87;871/17020;;;Al Administrador de Infraestructuras Ferroviarias (ADIF)
+2007;G;8;87;871/17040;;;A RENFE-Operadora
+2007;G;8;87;871/20004;;;Fondo Financiero del Estado para la Modernización de las Infraestructuras Turísticas Maduras (FOMIT)
+2007;G;8;87;871/20006;;;Fondo de Ayuda al Desarrollo para la Internacionalización
+2007;G;8;87;871/20015;;;Aportación al CDTI para apoyo a proyectos de I+D+I
+2007;G;8;87;872;;;Fondo de Ayuda al Desarrollo en materia de Cooperación
+2007;G;8;87;872/15001;;;Aportación Patrimonial a SEPI
+2007;G;8;87;872/20006;;;Al Fondo para Inversiones en el Exterior
+2007;G;8;87;873;;;Aportación patrimonial al Consorcio Valencia 2007 Copa de América
+2007;G;8;88;;;;Dotaciones
+2007;G;8;88;880;;;Dotación al Fondo de Reserva (Art. 91.1 de la Ley General de la Seguridad Social)
+2007;G;8;88;881;;;Afectos al Fondo de Prevención y Rehabilitación
+2007;G;9;;;;;PASIVOS FINANCIEROS
+2007;G;9;90;;;;Amortización de deuda pública en moneda nacional
+2007;G;9;90;900;;;Amortización  de deuda  pública en  moneda nacional  a corto plazo
+2007;G;9;90;901;;;Amortización de deuda pública en moneda nacional a largo plazo
+2007;G;9;91;;;;Amortización de préstamos en moneda nacional
+2007;G;9;91;911;;;Amortización de préstamos a largo plazo de entes del Sector Público
+2007;G;9;91;912;;;Amortización de préstamos a corto plazo de entes de fuera del Sector Público
+2007;G;9;91;913;;;Amortización de préstamos a largo plazo de entes de fuera del Sector Público
+2007;G;9;92;;;;Amortización de deuda pública en moneda extranjera
+2007;G;9;92;921;;;Amortización de deuda pública en moneda extranjera a largo plazo
+2007;G;9;93;;;;Amortización de préstamos en moneda extranjera
+2007;G;9;93;931;;;Amortización de préstamos en moneda extranjera a largo plazo
+2007;G;9;94;;;;Devolución de depósitos y fianzas
+2007;G;9;94;940;;;Devolución de depósitos
+2007;G;9;94;941;;;Devolución de fianzas
+2007;I;1;;;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES
+2007;I;1;10;;;;Sobre la renta
+2007;I;1;10;100;;;De las personas físicas
+2007;I;1;10;101;;;De sociedades
+2007;I;1;10;102;;;De no residentes
+2007;I;1;11;;;;Sobre el capital
+2007;I;1;11;119;;;Otros impuestos sobre el capital
+2007;I;1;12;;;;Cotizaciones sociales
+2007;I;1;12;120;;;Cotizaciones de los regímenes especiales de funcionarios
+2007;I;1;12;121;;;Cotizaciones del Regimen General
+2007;I;1;12;122;;;Cotizaciones del R.E.T. Autonomos
+2007;I;1;12;123;;;Cotizaciones R.E. Agrario
+2007;I;1;12;124;;;Cotizaciones R.E. Trabajadores del Mar
+2007;I;1;12;125;;;Cotizaciones R.E. Mineria del Carbon
+2007;I;1;12;126;;;Cotizaciones del R.E. Empleados de Hogar
+2007;I;1;12;127;;;Cotizaciones de acctes. trabajo y e. p.
+2007;I;1;12;128;;;Cotizaciones de desempleados
+2007;I;1;12;129;;;Otras cotizaciones
+2007;I;2;;;;;IMPUESTOS INDIRECTOS
+2007;I;2;21;;;;Sobre el Valor Añadido
+2007;I;2;21;210;;;Impuesto sobre el Valor Añadido
+2007;I;2;22;;;;Sobre consumos específicos
+2007;I;2;22;220;;;Impuestos especiales
+2007;I;2;23;;;;Sobre tráfico exterior
+2007;I;2;23;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías
+2007;I;2;23;231;;;Exacciones reguladoras y otros gravámenes agrícolas
+2007;I;2;28;;;;Otros impuestos indirectos
+2007;I;2;28;280;;;Cotización, producción y almacenamiento de azúcar e isoglucosa
+2007;I;2;28;281;;;Impuesto sobre las Primas de Seguros
+2007;I;2;28;282;;;Sobre transmisiones patrimoniales intervivos
+2007;I;2;28;283;;;Sobre Actos Jurídicos Documentados
+2007;I;2;28;289;;;Otros impuestos indirectos
+2007;I;3;;;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS
+2007;I;3;30;;;;Tasas
+2007;I;3;30;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros
+2007;I;3;30;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre
+2007;I;3;30;302;;;Tasa por dirección e inspección de obras
+2007;I;3;30;303;;;Tasa por el ejercicio de la potestad jurisdiccional
+2007;I;3;30;304;;;Tasas de expedición de D.N.I. y Pasaportes
+2007;I;3;30;305;;;Tasas consulares
+2007;I;3;30;306;;;Tasas de la Jefatura de Tráfico
+2007;I;3;30;307;;;Tasa por reserva del dominio radioeléctrico
+2007;I;3;30;308;;;Tasas seguridad aeroportuaria
+2007;I;3;30;309;;;Otras tasas
+2007;I;3;31;;;;Precios Públicos
+2007;I;3;31;310;;;Derechos de matrícula en cursos y seminarios
+2007;I;3;31;311;;;Entradas a museos, exposiciones, espectáculos, etc.
+2007;I;3;31;317;;;Cursos impartidos para otros Entes Públicos.
+2007;I;3;31;319;;;Otros precios públicos
+2007;I;3;32;;;;Otros ingresos procedentes de prestación de servicios
+2007;I;3;32;320;;;Comisiones por avales y seguros de operaciones financieras
+2007;I;3;32;321;;;Renta de aduanas. Derechos menores
+2007;I;3;32;322;;;De la Administración financiera
+2007;I;3;32;324;;;Derechos de alojamiento, restauración y residencia.
+2007;I;3;32;327;;;De asistencia sanitaria
+2007;I;3;32;328;;;De servicios sociales
+2007;I;3;32;329;;;Otros ingresos procedentes de prestación de servicios
+2007;I;3;33;;;;Venta de bienes
+2007;I;3;33;330;;;Venta de publicaciones propias
+2007;I;3;33;331;;;Venta en comisión de publicaciones
+2007;I;3;33;332;;;Venta de fotocopias y otros productos de reprografía
+2007;I;3;33;333;;;Venta de medicamentos
+2007;I;3;33;334;;;Venta de productos agropecuarios
+2007;I;3;33;335;;;Venta de material de desecho
+2007;I;3;33;337;;;Venta de impresos oficiales
+2007;I;3;33;339;;;Venta de otros bienes
+2007;I;3;36;;;;INGRESOS POR COMPENSACIÓN DE COSTES DE LAS ACTIVIDADES DE PREVENCIÓN
+2007;I;3;36;360;;;Ingresos por compensación de costes de las actividades de prevención
+2007;I;3;37;;;;Cotizaciones de asociados
+2007;I;3;37;370;;;Cotizaciones de asociados
+2007;I;3;38;;;;Reintegros de operaciones corrientes
+2007;I;3;38;380;;;De ejercicios cerrados
+2007;I;3;38;381;;;Del presupuesto corriente
+2007;I;3;39;;;;Otros ingresos
+2007;I;3;39;391;;;Recargos y multas
+2007;I;3;39;392;;;Diferencias de cambio
+2007;I;3;39;393;;;Diferencias entre los valores de reembolso y emisión
+2007;I;3;39;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial)
+2007;I;3;39;398;;;Ingresos extraordinarios
+2007;I;3;39;399;;;Ingresos diversos
+2007;I;4;;;;;TRANSFERENCIAS CORRIENTES
+2007;I;4;40;;;;De la Administración del Estado
+2007;I;4;40;400;;;Del departamento al que está adscrito
+2007;I;4;40;401;;;De otros departamentos ministeriales
+2007;I;4;40;402;;;Del Departamento al que está adscrito.
+2007;I;4;40;404;;;Para atender gastos derivados de proyectos de ayuda oficial al desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
+2007;I;4;40;405;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2.del Real Decreto 825/1988, de  15 de julio)
+2007;I;4;41;;;;De organismos autónomos
+2007;I;4;41;410;;;Transferencias corrientes de organismos autónomos
+2007;I;4;41;411;;;Del Servicio Público de Empleo Estatal
+2007;I;4;41;411/26203;;;Aportación del Consejo Superior de Investigaciones Científicas.
+2007;I;4;41;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior
+2007;I;4;42;;;;De la Seguridad Social
+2007;I;4;42;420;;;Transferencias corrientes de la Seguridad Social
+2007;I;4;42;421;;;Aportaciones para sosteni. SS.CC.
+2007;I;4;42;422;;;Ingresos por servicios prestados entre Entidades del Sistema
+2007;I;4;42;423;;;Cuotas de reaseguro de Acctes. T.
+2007;I;4;42;429;;;Otras transferencias recibidas de entidades del sistema
+2007;I;4;44;;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.
+2007;I;4;44;440;;;De sociedades mercantiles estatales
+2007;I;4;44;441;;;De entidades empresariales
+2007;I;4;45;;;;De Comunidades Autónomas
+2007;I;4;45;450;;;Contribuciones Concertadas
+2007;I;4;45;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.
+2007;I;4;45;456;;;Compensaciones financieras del País Vasco
+2007;I;4;45;458;;;Por Fondo de Suficiencia
+2007;I;4;45;459;;;Otras transferencias corrientes
+2007;I;4;46;;;;De Corporaciones Locales
+2007;I;4;46;460;;;De Ayuntamientos
+2007;I;4;46;461;;;De Diputaciones y Cabildos Insulares
+2007;I;4;47;;;;De empresas privadas
+2007;I;4;47;470;;;De empresas privadas
+2007;I;4;47;470/24301;;;Ingresos de empresas privadas
+2007;I;4;47;471;;;De empresas privadas
+2007;I;4;47;471/60001;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes
+2007;I;4;47;479;;;Otras transferencias corrientes.
+2007;I;4;47;479/24201;;;Otras transferencias corrientes
+2007;I;4;48;;;;De familias e instituciones sin fines de lucro
+2007;I;4;48;480;;;De familias e instituciones sin fines de lucro
+2007;I;4;48;489;;;Otras transferencias corrientes.
+2007;I;4;48;489/24104;;;Otras transferencias corrientes
+2007;I;4;49;;;;Del exterior
+2007;I;4;49;490;;;Del Fondo Social Europeo
+2007;I;4;49;491;;;Del FEOGA GARANTÍA
+2007;I;4;49;491/21208;;;Del FEAGA
+2007;I;4;49;491/21211;;;Del FEAGA
+2007;I;4;49;492;;;Otras transferencias de la Unión Europea
+2007;I;4;49;493;;;Aportaciones derivadas de convenios internacionales de cooperación
+2007;I;4;49;499;;;Otras transferencias corrientes
+2007;I;5;;;;;INGRESOS PATRIMONIALES
+2007;I;5;50;;;;Intereses de títulos y valores
+2007;I;5;50;500;;;Del Estado
+2007;I;5;50;501;;;De organismos autónomos
+2007;I;5;50;504;;;De sociedades mercantiles estatales, entidades empresariales y otros organismos públicos
+2007;I;5;50;505;;;De Comunidades Autónomas
+2007;I;5;50;506;;;De Corporaciones Locales y otros Entes Territoriales
+2007;I;5;50;507;;;De empresas privadas
+2007;I;5;51;;;;Intereses de anticipos y préstamos concedidos
+2007;I;5;51;514;;;A sociedades mercantiles estatales, entidades empresariales y otros organismos públicos
+2007;I;5;51;517;;;A empresas privadas
+2007;I;5;51;518;;;A familias e instituciones sin fines de lucro
+2007;I;5;51;519;;;Al exterior
+2007;I;5;52;;;;Intereses de depósitos
+2007;I;5;52;520;;;Intereses de cuentas bancarias
+2007;I;5;52;529;;;Intereses de otros depósitos
+2007;I;5;53;;;;Dividendos y participaciones en beneficios
+2007;I;5;53;534;;;De sociedades mercantiles estatales, entidades empresariales y otros organismos públicos
+2007;I;5;53;537;;;De empresas privadas
+2007;I;5;54;;;;Rentas de bienes inmuebles
+2007;I;5;54;540;;;Alquiler y productos de inmuebles
+2007;I;5;54;542;;;Alquiler de aulas y otras instalaciones formativas.
+2007;I;5;54;549;;;Otras rentas
+2007;I;5;55;;;;Productos de concesiones y aprovechamientos especiales
+2007;I;5;55;550;;;De concesiones administrativas
+2007;I;5;55;551;;;Aprovechamientos agrícolas y forestales
+2007;I;5;55;555;;;Aprovechamientos agrícolas y forestales
+2007;I;5;55;559;;;Otras concesiones y aprovechamientos
+2007;I;5;57;;;;Resultados de operaciones comerciales
+2007;I;5;57;570;;;Resultados de operaciones comerciales
+2007;I;5;58;;;;Variación del fondo de maniobra
+2007;I;5;58;580;;;Variación del fondo de maniobra
+2007;I;5;59;;;;Otros ingresos patrimoniales
+2007;I;5;59;592;;;Otros
+2007;I;5;59;599;;;Otros
+2007;I;6;;;;;ENAJENACION DE INVERSIONES REALES
+2007;I;6;60;;;;De terrenos
+2007;I;6;60;600;;;Venta de solares
+2007;I;6;60;601;;;Venta de fincas rústicas
+2007;I;6;61;;;;De las demás inversiones reales
+2007;I;6;61;616;;;Enajenación de bienes destinados a uso general
+2007;I;6;61;619;;;Venta de otras inversiones reales
+2007;I;6;68;;;;Reintegros por operaciones de capital
+2007;I;6;68;680;;;De ejercicios cerrados
+2007;I;6;68;681;;;Del presupuesto corriente
+2007;I;7;;;;;TRANSFERENCIAS DE CAPITAL
+2007;I;7;70;;;;De la Administración del Estado
+2007;I;7;70;700;;;Del departamento al que está adscrito
+2007;I;7;70;701;;;De otros departamentos ministeriales
+2007;I;7;70;702;;;Del Departamento al que está adscrito
+2007;I;7;70;704;;;Para atender gastos derivados de proyectos de ayuda oficial al desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
+2007;I;7;71;;;;De organismos autónomos
+2007;I;7;71;710;;;Transferencias de capital de organismos autónomos
+2007;I;7;72;;;;De la Seguridad Social
+2007;I;7;72;720;;;Transferencias de capital de la Seguridad Social
+2007;I;7;74;;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.
+2007;I;7;74;740;;;De sociedades mercantiles estatales
+2007;I;7;74;749;;;De otros organismos públicos
+2007;I;7;75;;;;De Comunidades Autónomas
+2007;I;7;75;750;;;Transferencias de capital de Comunidades Autónomas
+2007;I;7;75;750/18101;;;De Comunidades Autónomas
+2007;I;7;75;750/18201;;;De la Comunidad Autónoma de Canarias
+2007;I;7;75;750/21211;;;Cofinanciación teledetección Comunidades Autónomas
+2007;I;7;75;750/23225;;;De Comunidades Autónomas
+2007;I;7;75;750/23226;;;De Comunidades Autónomas
+2007;I;7;75;750/23230;;;De Comunidades Autonomas
+2007;I;7;75;750/23232;;;De Comunidades Autónomas
+2007;I;7;75;750/23233;;;De Comunidades Autónomas
+2007;I;7;75;750/23234;;;De Comunidades Autónomas
+2007;I;7;76;;;;De Corporaciones Locales
+2007;I;7;76;760;;;De Ayuntamientos
+2007;I;7;76;761;;;De Diputaciones y Cabildos Insulares
+2007;I;7;76;769;;;Otras transferencias de capital
+2007;I;7;77;;;;De empresas privadas
+2007;I;7;77;772;;;De empresas
+2007;I;7;78;;;;De familias e instituciones sin fines de lucro
+2007;I;7;78;782;;;De familias e instituciones sin fines de lucro. Subvenciones a la investigación.
+2007;I;7;79;;;;Del exterior
+2007;I;7;79;790;;;Fondo Europeo de Desarrollo Regional
+2007;I;7;79;791;;;Fondo de Cohesión
+2007;I;7;79;792;;;FEOGA-Orientación, Instrumento Financiero de Ordenación pesquera, Fondo Europeo de la Pesca y otros recursos agrarios y pesqueros
+2007;I;7;79;793;;;FEADER
+2007;I;7;79;794;;;Fondo Social Europeo
+2007;I;7;79;795;;;Otras transferencias de la Unión Europea
+2007;I;8;;;;;ACTIVOS FINANCIEROS
+2007;I;8;80;;;;Enajenación de deuda del Sector Público
+2007;I;8;80;800;;;Enajenación de deuda del Sector Público a corto plazo
+2007;I;8;80;801;;;Enajenación de deuda del Sector Público a largo plazo
+2007;I;8;81;;;;Enajenación de obligac. y bonos de fuera del Sector Público
+2007;I;8;81;810;;;Enajenación de obligaciones y bonos de fuera del Sector Público a corto plazo
+2007;I;8;81;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo
+2007;I;8;82;;;;Reintegros de préstamos concedidos al Sector Público
+2007;I;8;82;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo
+2007;I;8;82;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo
+2007;I;8;83;;;;Reintegros de préstamos concedidos fuera del Sector Público
+2007;I;8;83;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo
+2007;I;8;83;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo
+2007;I;8;84;;;;Devolución de depósitos y fianzas
+2007;I;8;84;840;;;Devolución de depósitos
+2007;I;8;84;841;;;Devolución de fianzas
+2007;I;8;86;;;;Enajenación de acciones y part. de fuera del Sector Público
+2007;I;8;86;860;;;De empresas nacionales o de la Unión Europea
+2007;I;8;87;;;;Remanente de tesorería
+2007;I;8;87;870;;;Remanente de tesorería
+2007;I;8;87;872;;;Remanente para la cobertura de prestaciones sociales de Accidentes de Trabajo
+2007;I;9;;;;;PASIVOS FINANCIEROS
+2007;I;9;91;;;;Préstamos recibidos en moneda nacional
+2007;I;9;91;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.
+2007;I;9;91;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público
+2007;I;9;94;;;;Depósitos y fianzas recibidos
+2007;I;9;94;940;;;Depósitos
+2007;I;9;94;941;;;Fianzas

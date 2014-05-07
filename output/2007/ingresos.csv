@@ -1,0 +1,2566 @@
+EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
+2007;13102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;85700000
+2007;14113;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;660579530
+2007;19101;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;19694100000
+2007;19102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;465120000
+2007;22102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;1435403050
+2007;60001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;97357540000
+2007;98001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;83924620000
+2007;98001;10;;;Sobre la renta;82915000000
+2007;98001;100;;;De las personas físicas;39474000000
+2007;98001;100;;00;Impuesto sobre la Renta de las Personas Físicas;39624000000
+2007;98001;100;;99;Asignacion tributaria a la Iglesia Catolica;-150000000
+2007;98001;101;;;De sociedades;41641000000
+2007;98001;101;;00;Impuesto sobre Sociedades;41641000000
+2007;98001;102;;;De no residentes;1800000000
+2007;98001;102;;00;Impuesto sobre la Renta de no residentes;1800000000
+2007;98001;11;;;Sobre el capital;72000000
+2007;98001;119;;;Otros impuestos sobre el capital;72000000
+2007;98001;119;;00;Impuesto General sobre Sucesiones y Donaciones.;30000000
+2007;98001;119;;01;Impuesto sobre el Patrimonio;42000000
+2007;13102;12;;;Cotizaciones sociales;85700000
+2007;14113;12;;;Cotizaciones sociales;660579530
+2007;19101;12;;;Cotizaciones sociales;19694100000
+2007;19102;12;;;Cotizaciones sociales;465120000
+2007;22102;12;;;Cotizaciones sociales;1435403050
+2007;60001;12;;;Cotizaciones sociales;97357540000
+2007;98001;12;;;Cotizaciones sociales;937620000
+2007;13102;120;;;Cotizaciones de los regímenes especiales de funcionarios;85700000
+2007;14113;120;;;Cotizaciones de los regímenes especiales de funcionarios;660579530
+2007;22102;120;;;Cotizaciones de los regímenes especiales de funcionarios;1435403050
+2007;98001;120;;;Cotizaciones de los regímenes especiales de funcionarios;937620000
+2007;98001;120;;00;Cuotas de Derechos Pasivos;937620000
+2007;13102;120;;01;Cuotas de funcionarios a Mutualidades;18640000
+2007;14113;120;;01;Cuotas de funcionarios a Mutualidades;96952900
+2007;22102;120;;01;Cuotas de funcionarios a Mutualidades;320399980
+2007;13102;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;66977500
+2007;14113;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;563626630
+2007;22102;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;1115003070
+2007;13102;120;;03;Cuotas sociales Mutualidad Benéfica de Funcionarios de la Justicia Municipal;24500
+2007;13102;120;;04;Cuotas sociales de Previsión de Funcionarios de la Administración de Justicia;26000
+2007;13102;120;;05;Cuotas sociales Mutualidad Benéfica de Funcionarios del Cuerpo Auxiliar de la Administración de Justicia;32000
+2007;60001;121;;;Cotizaciones del Regimen General;70949220000
+2007;60001;122;;;Cotizaciones del R.E.T. Autonomos;9442280000
+2007;60001;123;;;Cotizaciones R.E. Agrario;1350400000
+2007;60001;124;;;Cotizaciones R.E. Trabajadores del Mar;290690000
+2007;60001;125;;;Cotizaciones R.E. Mineria del Carbon;203420000
+2007;60001;126;;;Cotizaciones del R.E. Empleados de Hogar;548080000
+2007;60001;127;;;Cotizaciones de acctes. trabajo y e. p.;7564010000
+2007;60001;128;;;Cotizaciones de desempleados;7009440000
+2007;19101;129;;;Otras cotizaciones;19694100000
+2007;19102;129;;;Otras cotizaciones;465120000
+2007;19101;129;;00;Cuota de desempleo;17911100000
+2007;19101;129;;01;Cuota de formación profesional;1783000000
+2007;19102;129;;02;Cuotas empresariales al Fondo de Garantía Salarial;465120000
+2007;98001;2;;;IMPUESTOS INDIRECTOS;50740000000
+2007;98001;21;;;Sobre el Valor Añadido;36538000000
+2007;98001;210;;;Impuesto sobre el Valor Añadido;36538000000
+2007;98001;210;;00;IVA sobre importaciones;9400000000
+2007;98001;210;;01;IVA sobre operaciones interiores;27138000000
+2007;98001;22;;;Sobre consumos específicos;10961000000
+2007;98001;220;;;Impuestos especiales;10961000000
+2007;98001;220;;00;Sobre el alcohol y bebidas derivadas;596000000
+2007;98001;220;;01;Sobre cerveza;162000000
+2007;98001;220;;03;Sobre labores de tabaco;3732000000
+2007;98001;220;;04;Sobre hidrocarburos;6420000000
+2007;98001;220;;06;Sobre productos intermedios;13000000
+2007;98001;220;;07;Sobre la electricidad;38000000
+2007;98001;23;;;Sobre tráfico exterior;1700000000
+2007;98001;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías;1632000000
+2007;98001;231;;;Exacciones reguladoras y otros gravámenes agrícolas;68000000
+2007;98001;28;;;Otros impuestos indirectos;1541000000
+2007;98001;280;;;Cotización, producción y almacenamiento de azúcar e isoglucosa;29000000
+2007;98001;281;;;Impuesto sobre las Primas de Seguros;1494000000
+2007;98001;282;;;Sobre transmisiones patrimoniales intervivos;13000000
+2007;98001;283;;;Sobre Actos Jurídicos Documentados;1000000
+2007;98001;289;;;Otros impuestos indirectos;4000000
+2007;12103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2626210
+2007;13101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;150000
+2007;13102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10650
+2007;13301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4600000
+2007;14104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3992500
+2007;14107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;250000
+2007;14111;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;660250
+2007;14113;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7160000
+2007;14204;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9000
+2007;14206;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;300000
+2007;14301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;123080
+2007;15101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;288430
+2007;15102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;450760
+2007;15103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3930000
+2007;15104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10501150
+2007;15105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3183620
+2007;15202;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;153550
+2007;15302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;30635860
+2007;16101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;839015030
+2007;17238;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3216000
+2007;18101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;746070
+2007;18137;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3824480
+2007;18201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;6010
+2007;18202;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;187570
+2007;18204;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;492090
+2007;18205;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;29700
+2007;18206;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;499440
+2007;19101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;272291670
+2007;19102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;22466500
+2007;19104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;768190
+2007;19105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;212680
+2007;19106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;91980
+2007;19201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;734990
+2007;19301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;49920
+2007;20102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;49878010
+2007;20207;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1296000
+2007;20208;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1100000
+2007;20301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7428420
+2007;20302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;38199600
+2007;21207;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;72120
+2007;21208;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;18030
+2007;21211;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1878870
+2007;22101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1356420
+2007;22102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;661110
+2007;22401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;132020
+2007;23101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;196000
+2007;23225;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8556010
+2007;23226;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;14272470
+2007;23228;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;12430180
+2007;23229;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4863040
+2007;23230;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9946000
+2007;23232;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4961570
+2007;23233;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;30332460
+2007;23234;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;11741470
+2007;23236;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3584000
+2007;24101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1693000
+2007;24102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;455000
+2007;24103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15000
+2007;24104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3527820
+2007;24201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1214000
+2007;24301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8162000
+2007;25101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;315000
+2007;25102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;490000
+2007;25103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;12378000
+2007;25201;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;65956420
+2007;26102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;19300
+2007;26103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;33425330
+2007;26104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;100000
+2007;26203;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1000000
+2007;60001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;737038370
+2007;98001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2486056410
+2007;14104;30;;;Tasas;850000
+2007;15102;30;;;Tasas;450760
+2007;15103;30;;;Tasas;3570000
+2007;15104;30;;;Tasas;10001150
+2007;16101;30;;;Tasas;517000000
+2007;20102;30;;;Tasas;49043010
+2007;20207;30;;;Tasas;310000
+2007;20302;30;;;Tasas;36775650
+2007;23225;30;;;Tasas;6890000
+2007;23226;30;;;Tasas;11685980
+2007;23228;30;;;Tasas;6530880
+2007;23229;30;;;Tasas;4259850
+2007;23230;30;;;Tasas;9701000
+2007;23232;30;;;Tasas;2786240
+2007;23233;30;;;Tasas;29235650
+2007;23234;30;;;Tasas;9770730
+2007;23236;30;;;Tasas;3550000
+2007;24101;30;;;Tasas;1040000
+2007;24102;30;;;Tasas;22000
+2007;24104;30;;;Tasas;600000
+2007;24201;30;;;Tasas;1106000
+2007;24301;30;;;Tasas;215000
+2007;25103;30;;;Tasas;12000
+2007;25201;30;;;Tasas;60630000
+2007;26103;30;;;Tasas;33425330
+2007;26104;30;;;Tasas;100000
+2007;98001;30;;;Tasas;850000000
+2007;98001;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros;55000000
+2007;98001;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre;23000000
+2007;23225;302;;;Tasa por dirección e inspección de obras;1000000
+2007;23226;302;;;Tasa por dirección e inspección de obras;2939230
+2007;23229;302;;;Tasa por dirección e inspección de obras;1140520
+2007;23230;302;;;Tasa por dirección e inspección de obras;1500000
+2007;23232;302;;;Tasa por dirección e inspección de obras;520000
+2007;23233;302;;;Tasa por dirección e inspección de obras;6354000
+2007;23236;302;;;Tasa por dirección e inspección de obras;3545000
+2007;98001;302;;;Tasa por dirección e inspección de obras;148000000
+2007;23225;302;;00;Dirección e inspección de obras;1000000
+2007;23226;302;;00;Dirección e inspección de obras;2939230
+2007;23229;302;;00;Dirección e inspección de obras;1140520
+2007;23230;302;;00;Dirección e inspección de obras;1500000
+2007;23232;302;;00;Dirección e inspección de obras;520000
+2007;23233;302;;00;Dirección e inspección de obras;6354000
+2007;23236;302;;00;Dirección e inspección de obras;3545000
+2007;98001;303;;;Tasa por el ejercicio de la potestad jurisdiccional;52000000
+2007;98001;304;;;Tasas de expedición de D.N.I. y Pasaportes;71000000
+2007;98001;305;;;Tasas consulares;41000000
+2007;16101;306;;;Tasas de la Jefatura de Tráfico;517000000
+2007;98001;307;;;Tasa por reserva del dominio radioeléctrico;270000000
+2007;98001;308;;;Tasas seguridad aeroportuaria;52000000
+2007;14104;309;;;Otras tasas;850000
+2007;15102;309;;;Otras tasas;450760
+2007;15103;309;;;Otras tasas;3570000
+2007;15104;309;;;Otras tasas;10001150
+2007;20102;309;;;Otras tasas;49043010
+2007;20207;309;;;Otras tasas;310000
+2007;20302;309;;;Otras tasas;36775650
+2007;23225;309;;;Otras tasas;5890000
+2007;23226;309;;;Otras tasas;8746750
+2007;23228;309;;;Otras tasas;6530880
+2007;23229;309;;;Otras tasas;3119330
+2007;23230;309;;;Otras tasas;8201000
+2007;23232;309;;;Otras tasas;2266240
+2007;23233;309;;;Otras tasas;22881650
+2007;23234;309;;;Otras tasas;9770730
+2007;23236;309;;;Otras tasas;5000
+2007;24101;309;;;Otras tasas;1040000
+2007;24102;309;;;Otras tasas;22000
+2007;24104;309;;;Otras tasas;600000
+2007;24201;309;;;Otras tasas;1106000
+2007;24301;309;;;Otras tasas;215000
+2007;25103;309;;;Otras tasas;12000
+2007;25201;309;;;Otras tasas;60630000
+2007;26103;309;;;Otras tasas;33425330
+2007;26104;309;;;Otras tasas;100000
+2007;98001;309;;;Otras tasas;138000000
+2007;98001;309;;00;Tasa por acreditación catastral;13000000
+2007;98001;309;;01;Tasa de juego;17000000
+2007;98001;309;;02;Reconocimientos, autorizaciones y concursos;18000000
+2007;98001;309;;03;Prestación de servicios y realización de actividades en materia de navegación aérea;5000000
+2007;98001;309;;05;Tasa de Telecomunicaciones;11000000
+2007;98001;309;;06;Tasa por numeración de la Comisión del Mercado de las Telecomunicaciones;3000000
+2007;98001;309;;07;Control de sanidad exterior de carnes y productos de origen animal de países no comunitarios;6000000
+2007;98001;309;;08;Derechos de examen;5000000
+2007;20302;309;;09;Serv.Grales.fabricación o exención de equipos;163330
+2007;20102;309;;10;Tasas por determinadas actividades del Organismo (20.101);47355000
+2007;23234;309;;10;Canón de utilización de bienes de D.P.H.;400000
+2007;20302;309;;11;Serv.Grales.de empresas de ámbito de protec. radiológica;46830
+2007;23225;309;;11;Canon utilización dominio público hidraú lico;225000
+2007;23230;309;;11;Canón de ocupación o utilización;7000000
+2007;20102;309;;12;Tasas derivadas del Arreglo de Madrid aportadas por la Organización Mundial de la Propiedad Intelectual (OMPI);600000
+2007;20302;309;;12;Inspección y control de instalaciones nucleares;31666170
+2007;23225;309;;12;Tasa utilización bienes de dominio públi co;120000
+2007;23230;309;;12;Informes;300000
+2007;23232;309;;12;Navegación en embalses;2170
+2007;20102;309;;13;Búsqueda de marcas a petición de la Oficina de Armonización del Mercado Interior (OAMI);1041740
+2007;20302;309;;13;Inpección,control y desmantelamiento de instal. nucleares;44370
+2007;23230;309;;13;Confrontación de proyectos;1000
+2007;23232;309;;13;Confrontación de proyectos;3240
+2007;20102;309;;14;Acuerdo sobre armonía en las búsquedas realizadas entre OEP, OEPM y PRV;38760
+2007;20302;309;;14;Inspección y control de instalaciones nucleares;2773290
+2007;23225;309;;14;Canon de vertidos;4600000
+2007;23226;309;;14;Canón de vertidos;6211750
+2007;23229;309;;14;Canón de ocupación y vertido;2835600
+2007;23230;309;;14;Canón vertidos;150000
+2007;23232;309;;14;Canon de oupación o utilización y canon de vertidos en aplicación de los art. 104 y 105 Ley de aguas;2120000
+2007;23233;309;;14;Canón control de vertidos;21962650
+2007;23234;309;;14;Canon de vertidos;6000000
+2007;20102;309;;15;Tasas derivadas del arreglo de La Haya aportadas por la OMPI;7510
+2007;20302;309;;15;Inpección,control y desmantelamiento instal. nucleares;30870
+2007;23226;309;;15;Canón de ocupación;2200000
+2007;23229;309;;15;Tasas por análisis de laboratorio;9180
+2007;23230;309;;15;Canón ocupación;750000
+2007;20302;309;;16;Inspección,control y homologación de cursos;37780
+2007;20302;309;;17;Inspección y control de transporte;22630
+2007;23225;309;;17;Tasa por explotación de obras;800000
+2007;23226;309;;17;Tasas de explotación de obras;70000
+2007;23229;309;;17;Tasa de redacción de proyectos, confrontación y tasación de obras;7430
+2007;23232;309;;17;Tasa explotación de obras y servicios;65060
+2007;23225;309;;18;Tasa por confrontación y proyectos;45000
+2007;23226;309;;18;Confrontación de proyectos;65000
+2007;23229;309;;18;Tasa de informes y otras actuaciones;267120
+2007;23232;309;;18;Canon de aprovechamiento de materiales;43300
+2007;23234;309;;18;Tasa por redacción de proyrctos, confron tación y tasación de obras y proyectos;34820
+2007;20302;309;;19;Inpección y control de empresas de ámbito de Protec. Radiológicas;76740
+2007;23225;309;;19;Tasa por informes y estudios;100000
+2007;23226;309;;19;Informes y otras actuaciones;200000
+2007;23232;309;;19;Tasas por informes y visitas;32470
+2007;23234;309;;19;Tasa por informe y otras actuaciones;148850
+2007;20302;309;;20;Inspección y control de registro de empresas externas;1100
+2007;20302;309;;22;Serv.Grales.seguimiento gestión residuos;100000
+2007;23233;309;;23;Salto pie de presa;350000
+2007;20302;309;;24;Serv.Grales de instalaciones radiactivas;932340
+2007;20302;309;;25;Serv. Grales.desmantelamiento de instal. radiactivas;155640
+2007;20302;309;;26;Serv.Grales.de licencias;681270
+2007;20302;309;;27;Serv.Grales.de homologación de cursos;23610
+2007;20302;309;;28;Serv.Grales.de transporte;19680
+2007;23233;309;;28;Confrontación de obras y proyectos;104000
+2007;23233;309;;29;Infracciones y otras actuaciones;275000
+2007;14104;309;;99;Otras;850000
+2007;15102;309;;99;Otras;450760
+2007;15103;309;;99;Otras;3570000
+2007;15104;309;;99;Otras;10001150
+2007;20207;309;;99;Otras;310000
+2007;23228;309;;99;Otras;6530880
+2007;23233;309;;99;Otras;190000
+2007;23234;309;;99;Otras;3187060
+2007;23236;309;;99;Otras;5000
+2007;24101;309;;99;Otras;1040000
+2007;24102;309;;99;Otras;22000
+2007;24104;309;;99;Otras;600000
+2007;24201;309;;99;Otras;1106000
+2007;24301;309;;99;Otras;215000
+2007;25103;309;;99;Otras;12000
+2007;25201;309;;99;Otras;60630000
+2007;26103;309;;99;Otras;33425330
+2007;26104;309;;99;Otras;100000
+2007;98001;309;;99;Otras;60000000
+2007;14104;31;;;Precios Públicos;2000000
+2007;14111;31;;;Precios Públicos;660250
+2007;17238;31;;;Precios Públicos;760000
+2007;18137;31;;;Precios Públicos;3824480
+2007;18204;31;;;Precios Públicos;110250
+2007;19201;31;;;Precios Públicos;450990
+2007;20207;31;;;Precios Públicos;900000
+2007;20302;31;;;Precios Públicos;1300000
+2007;22101;31;;;Precios Públicos;260100
+2007;22401;31;;;Precios Públicos;18020
+2007;24101;31;;;Precios Públicos;635000
+2007;24104;31;;;Precios Públicos;2648320
+2007;24201;31;;;Precios Públicos;12000
+2007;24301;31;;;Precios Públicos;7259000
+2007;25103;31;;;Precios Públicos;11300000
+2007;25201;31;;;Precios Públicos;4950000
+2007;98001;31;;;Precios Públicos;8160000
+2007;18137;310;;;Derechos de matrícula en cursos y seminarios;1835740
+2007;22101;310;;;Derechos de matrícula en cursos y seminarios;200000
+2007;22401;310;;;Derechos de matrícula en cursos y seminarios;18020
+2007;24104;310;;;Derechos de matrícula en cursos y seminarios;12020
+2007;24201;310;;;Derechos de matrícula en cursos y seminarios;12000
+2007;24301;310;;;Derechos de matrícula en cursos y seminarios;38600
+2007;98001;310;;;Derechos de matrícula en cursos y seminarios;2160000
+2007;24101;311;;;Entradas a museos, exposiciones, espectáculos, etc.;375000
+2007;24104;311;;;Entradas a museos, exposiciones, espectáculos, etc.;2600000
+2007;24301;311;;;Entradas a museos, exposiciones, espectáculos, etc.;7087000
+2007;25103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;11300000
+2007;22101;317;;;Cursos impartidos para otros Entes Públicos.;60100
+2007;14104;319;;;Otros precios públicos;2000000
+2007;14111;319;;;Otros precios públicos;660250
+2007;17238;319;;;Otros precios públicos;760000
+2007;18137;319;;;Otros precios públicos;1988740
+2007;18204;319;;;Otros precios públicos;110250
+2007;19201;319;;;Otros precios públicos;450990
+2007;20207;319;;;Otros precios públicos;900000
+2007;20302;319;;;Otros precios públicos;1300000
+2007;24101;319;;;Otros precios públicos;260000
+2007;24104;319;;;Otros precios públicos;36300
+2007;24301;319;;;Otros precios públicos;133400
+2007;25201;319;;;Otros precios públicos;4950000
+2007;98001;319;;;Otros precios públicos;6000000
+2007;13101;32;;;Otros ingresos procedentes de prestación de servicios;150000
+2007;14113;32;;;Otros ingresos procedentes de prestación de servicios;2400000
+2007;15101;32;;;Otros ingresos procedentes de prestación de servicios;94300
+2007;15302;32;;;Otros ingresos procedentes de prestación de servicios;28779710
+2007;18101;32;;;Otros ingresos procedentes de prestación de servicios;123250
+2007;19101;32;;;Otros ingresos procedentes de prestación de servicios;3005060
+2007;19104;32;;;Otros ingresos procedentes de prestación de servicios;95000
+2007;20207;32;;;Otros ingresos procedentes de prestación de servicios;70000
+2007;20301;32;;;Otros ingresos procedentes de prestación de servicios;7008530
+2007;21207;32;;;Otros ingresos procedentes de prestación de servicios;6010
+2007;21211;32;;;Otros ingresos procedentes de prestación de servicios;70000
+2007;22101;32;;;Otros ingresos procedentes de prestación de servicios;500000
+2007;22102;32;;;Otros ingresos procedentes de prestación de servicios;30050
+2007;22401;32;;;Otros ingresos procedentes de prestación de servicios;114000
+2007;24201;32;;;Otros ingresos procedentes de prestación de servicios;48000
+2007;24301;32;;;Otros ingresos procedentes de prestación de servicios;11000
+2007;25102;32;;;Otros ingresos procedentes de prestación de servicios;440000
+2007;25201;32;;;Otros ingresos procedentes de prestación de servicios;121420
+2007;26203;32;;;Otros ingresos procedentes de prestación de servicios;952000
+2007;60001;32;;;Otros ingresos procedentes de prestación de servicios;91797670
+2007;98001;32;;;Otros ingresos procedentes de prestación de servicios;515276410
+2007;98001;320;;;Comisiones por avales y seguros de operaciones financieras;676410
+2007;15302;321;;;Renta de aduanas. Derechos menores;246640
+2007;15302;322;;;De la Administración financiera;28129090
+2007;25102;322;;;De la Administración financiera;440000
+2007;98001;322;;;De la Administración financiera;494500000
+2007;15302;322;;01;Administración y cobranza;20907590
+2007;98001;322;;02;Compensación por gastos de percepción de recursos propios tradicionales de la Unión Europea;487500000
+2007;15302;322;;03;Derivados de costas de procedimientos de apremio;2058500
+2007;15302;322;;04;Derivados de la repercusión del coste de fabricación de efectos timbrados;5163000
+2007;25102;322;;99;Otros;440000
+2007;98001;322;;99;Otros;7000000
+2007;22101;324;;;Derechos de alojamiento, restauración y residencia.;500000
+2007;60001;327;;;De asistencia sanitaria;81495090
+2007;98001;327;;;De asistencia sanitaria;20100000
+2007;98001;327;;00;Gestionada por I.N. de Gestión Sanitaria;100000
+2007;98001;327;;01;Por Convenios Internacionales y Conciertos;20000000
+2007;60001;328;;;De servicios sociales;4175200
+2007;13101;329;;;Otros ingresos procedentes de prestación de servicios;150000
+2007;14113;329;;;Otros ingresos procedentes de prestación de servicios;2400000
+2007;15101;329;;;Otros ingresos procedentes de prestación de servicios;94300
+2007;15302;329;;;Otros ingresos procedentes de prestación de servicios;403980
+2007;18101;329;;;Otros ingresos procedentes de prestación de servicios;123250
+2007;19101;329;;;Otros ingresos procedentes de prestación de servicios;3005060
+2007;19104;329;;;Otros ingresos procedentes de prestación de servicios;95000
+2007;20207;329;;;Otros ingresos procedentes de prestación de servicios;70000
+2007;20301;329;;;Otros ingresos procedentes de prestación de servicios;7008530
+2007;21207;329;;;Otros ingresos procedentes de prestación de servicios;6010
+2007;21211;329;;;Otros ingresos procedentes de prestación de servicios;70000
+2007;22102;329;;;Otros ingresos procedentes de prestación de servicios;30050
+2007;22401;329;;;Otros ingresos procedentes de prestación de servicios;114000
+2007;24201;329;;;Otros ingresos procedentes de prestación de servicios;48000
+2007;24301;329;;;Otros ingresos procedentes de prestación de servicios;11000
+2007;25201;329;;;Otros ingresos procedentes de prestación de servicios;121420
+2007;26203;329;;;Otros ingresos procedentes de prestación de servicios;952000
+2007;60001;329;;;Otros ingresos procedentes de prestación de servicios;6127380
+2007;15302;329;;00;Servicios ajenos;107020
+2007;20301;329;;00;Bases de Datos;2760
+2007;15302;329;;01;Prestación de otros servicios;296960
+2007;20301;329;;01;Cuotas asistencia a ferias;7000000
+2007;20301;329;;02;Otros servicios;5770
+2007;12103;33;;;Venta de bienes;126210
+2007;14104;33;;;Venta de bienes;1110000
+2007;14204;33;;;Venta de bienes;6000
+2007;14301;33;;;Venta de bienes;123080
+2007;15101;33;;;Venta de bienes;194130
+2007;15103;33;;;Venta de bienes;360000
+2007;15105;33;;;Venta de bienes;127350
+2007;15202;33;;;Venta de bienes;4750
+2007;15302;33;;;Venta de bienes;894400
+2007;16101;33;;;Venta de bienes;9020
+2007;17238;33;;;Venta de bienes;55000
+2007;18101;33;;;Venta de bienes;890
+2007;18204;33;;;Venta de bienes;3310
+2007;18205;33;;;Venta de bienes;4500
+2007;18206;33;;;Venta de bienes;13270
+2007;19101;33;;;Venta de bienes;12020
+2007;19104;33;;;Venta de bienes;406190
+2007;19105;33;;;Venta de bienes;7150
+2007;19201;33;;;Venta de bienes;12000
+2007;19301;33;;;Venta de bienes;18720
+2007;20102;33;;;Venta de bienes;835000
+2007;20207;33;;;Venta de bienes;11000
+2007;20301;33;;;Venta de bienes;419890
+2007;22101;33;;;Venta de bienes;126000
+2007;23101;33;;;Venta de bienes;61000
+2007;23228;33;;;Venta de bienes;94750
+2007;23234;33;;;Venta de bienes;6820
+2007;24101;33;;;Venta de bienes;12000
+2007;24102;33;;;Venta de bienes;403000
+2007;24104;33;;;Venta de bienes;231420
+2007;24301;33;;;Venta de bienes;582000
+2007;25101;33;;;Venta de bienes;315000
+2007;25102;33;;;Venta de bienes;50000
+2007;25103;33;;;Venta de bienes;466000
+2007;26102;33;;;Venta de bienes;19300
+2007;26203;33;;;Venta de bienes;24000
+2007;98001;33;;;Venta de bienes;15000000
+2007;12103;330;;;Venta de publicaciones propias;114190
+2007;14104;330;;;Venta de publicaciones propias;5000
+2007;15101;330;;;Venta de publicaciones propias;194130
+2007;15103;330;;;Venta de publicaciones propias;360000
+2007;15105;330;;;Venta de publicaciones propias;110790
+2007;15302;330;;;Venta de publicaciones propias;195900
+2007;16101;330;;;Venta de publicaciones propias;9020
+2007;17238;330;;;Venta de publicaciones propias;50000
+2007;18101;330;;;Venta de publicaciones propias;890
+2007;18204;330;;;Venta de publicaciones propias;3310
+2007;18205;330;;;Venta de publicaciones propias;2500
+2007;19104;330;;;Venta de publicaciones propias;403190
+2007;19105;330;;;Venta de publicaciones propias;4600
+2007;19201;330;;;Venta de publicaciones propias;12000
+2007;19301;330;;;Venta de publicaciones propias;18720
+2007;20102;330;;;Venta de publicaciones propias;105000
+2007;20207;330;;;Venta de publicaciones propias;10000
+2007;20301;330;;;Venta de publicaciones propias;340390
+2007;22101;330;;;Venta de publicaciones propias;120000
+2007;23101;330;;;Venta de publicaciones propias;50000
+2007;24101;330;;;Venta de publicaciones propias;12000
+2007;24102;330;;;Venta de publicaciones propias;77000
+2007;24104;330;;;Venta de publicaciones propias;220000
+2007;24301;330;;;Venta de publicaciones propias;580840
+2007;25101;330;;;Venta de publicaciones propias;315000
+2007;25102;330;;;Venta de publicaciones propias;50000
+2007;25103;330;;;Venta de publicaciones propias;35000
+2007;26102;330;;;Venta de publicaciones propias;19300
+2007;26203;330;;;Venta de publicaciones propias;18000
+2007;98001;330;;;Venta de publicaciones propias;5000000
+2007;20301;330;;00;Venta de libros;102480
+2007;20301;330;;01;Venta de revistas;45270
+2007;20301;330;;02;Publicidad;192640
+2007;15105;331;;;Venta en comisión de publicaciones;14010
+2007;24102;331;;;Venta en comisión de publicaciones;10000
+2007;25103;331;;;Venta en comisión de publicaciones;60000
+2007;12103;332;;;Venta de fotocopias y otros productos de reprografía;12020
+2007;15302;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2007;17238;332;;;Venta de fotocopias y otros productos de reprografía;3000
+2007;18205;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2007;19104;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2007;19105;332;;;Venta de fotocopias y otros productos de reprografía;2550
+2007;20102;332;;;Venta de fotocopias y otros productos de reprografía;30000
+2007;20301;332;;;Venta de fotocopias y otros productos de reprografía;75000
+2007;22101;332;;;Venta de fotocopias y otros productos de reprografía;6000
+2007;23101;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2007;24102;332;;;Venta de fotocopias y otros productos de reprografía;316000
+2007;24104;332;;;Venta de fotocopias y otros productos de reprografía;11420
+2007;24301;332;;;Venta de fotocopias y otros productos de reprografía;1160
+2007;25103;332;;;Venta de fotocopias y otros productos de reprografía;65000
+2007;26203;332;;;Venta de fotocopias y otros productos de reprografía;6000
+2007;14104;333;;;Venta de medicamentos;5000
+2007;14104;334;;;Venta de productos agropecuarios;1100000
+2007;23228;334;;;Venta de productos agropecuarios;94750
+2007;14204;335;;;Venta de material de desecho;6000
+2007;15105;335;;;Venta de material de desecho;2550
+2007;15202;335;;;Venta de material de desecho;4750
+2007;15302;335;;;Venta de material de desecho;31000
+2007;17238;335;;;Venta de material de desecho;2000
+2007;18206;335;;;Venta de material de desecho;13270
+2007;19101;335;;;Venta de material de desecho;12020
+2007;20207;335;;;Venta de material de desecho;1000
+2007;23101;335;;;Venta de material de desecho;10000
+2007;25103;335;;;Venta de material de desecho;6000
+2007;15302;337;;;Venta de impresos oficiales;402000
+2007;14301;339;;;Venta de otros bienes;123080
+2007;15302;339;;;Venta de otros bienes;263500
+2007;19104;339;;;Venta de otros bienes;1000
+2007;20102;339;;;Venta de otros bienes;700000
+2007;20301;339;;;Venta de otros bienes;4500
+2007;23234;339;;;Venta de otros bienes;6820
+2007;25103;339;;;Venta de otros bienes;300000
+2007;98001;339;;;Venta de otros bienes;10000000
+2007;60001;36;;;INGRESOS POR COMPENSACIÓN DE COSTES DE LAS ACTIVIDADES DE PREVENCIÓN;11968560
+2007;60001;360;;;Ingresos por compensación de costes de las actividades de prevención;11968560
+2007;60001;37;;;Cotizaciones de asociados;907000
+2007;60001;370;;;Cotizaciones de asociados;907000
+2007;12103;38;;;Reintegros de operaciones corrientes;2470000
+2007;13102;38;;;Reintegros de operaciones corrientes;10650
+2007;14113;38;;;Reintegros de operaciones corrientes;4500000
+2007;14206;38;;;Reintegros de operaciones corrientes;250000
+2007;15202;38;;;Reintegros de operaciones corrientes;40900
+2007;15302;38;;;Reintegros de operaciones corrientes;608110
+2007;16101;38;;;Reintegros de operaciones corrientes;6010
+2007;17238;38;;;Reintegros de operaciones corrientes;1000
+2007;18101;38;;;Reintegros de operaciones corrientes;562490
+2007;18202;38;;;Reintegros de operaciones corrientes;120200
+2007;18204;38;;;Reintegros de operaciones corrientes;367500
+2007;18205;38;;;Reintegros de operaciones corrientes;20000
+2007;18206;38;;;Reintegros de operaciones corrientes;33170
+2007;19101;38;;;Reintegros de operaciones corrientes;266419780
+2007;19102;38;;;Reintegros de operaciones corrientes;122610
+2007;19104;38;;;Reintegros de operaciones corrientes;200000
+2007;19105;38;;;Reintegros de operaciones corrientes;204000
+2007;19201;38;;;Reintegros de operaciones corrientes;256000
+2007;19301;38;;;Reintegros de operaciones corrientes;20800
+2007;20207;38;;;Reintegros de operaciones corrientes;5000
+2007;20208;38;;;Reintegros de operaciones corrientes;953000
+2007;21207;38;;;Reintegros de operaciones corrientes;60100
+2007;21211;38;;;Reintegros de operaciones corrientes;132000
+2007;22101;38;;;Reintegros de operaciones corrientes;451320
+2007;22102;38;;;Reintegros de operaciones corrientes;601010
+2007;23101;38;;;Reintegros de operaciones corrientes;12000
+2007;23225;38;;;Reintegros de operaciones corrientes;6010
+2007;23228;38;;;Reintegros de operaciones corrientes;914500
+2007;23229;38;;;Reintegros de operaciones corrientes;1520
+2007;23232;38;;;Reintegros de operaciones corrientes;8660
+2007;23236;38;;;Reintegros de operaciones corrientes;1000
+2007;24103;38;;;Reintegros de operaciones corrientes;15000
+2007;24301;38;;;Reintegros de operaciones corrientes;50000
+2007;25201;38;;;Reintegros de operaciones corrientes;215000
+2007;60001;38;;;Reintegros de operaciones corrientes;47971180
+2007;98001;38;;;Reintegros de operaciones corrientes;90400000
+2007;12103;380;;;De ejercicios cerrados;2470000
+2007;13102;380;;;De ejercicios cerrados;10650
+2007;14113;380;;;De ejercicios cerrados;4500000
+2007;14206;380;;;De ejercicios cerrados;250000
+2007;15202;380;;;De ejercicios cerrados;40900
+2007;15302;380;;;De ejercicios cerrados;608110
+2007;16101;380;;;De ejercicios cerrados;6010
+2007;17238;380;;;De ejercicios cerrados;1000
+2007;18101;380;;;De ejercicios cerrados;562490
+2007;18202;380;;;De ejercicios cerrados;120200
+2007;18204;380;;;De ejercicios cerrados;367500
+2007;18205;380;;;De ejercicios cerrados;20000
+2007;18206;380;;;De ejercicios cerrados;33170
+2007;19101;380;;;De ejercicios cerrados;266419780
+2007;19102;380;;;De ejercicios cerrados;122610
+2007;19104;380;;;De ejercicios cerrados;200000
+2007;19105;380;;;De ejercicios cerrados;204000
+2007;19201;380;;;De ejercicios cerrados;256000
+2007;19301;380;;;De ejercicios cerrados;20800
+2007;20207;380;;;De ejercicios cerrados;5000
+2007;20208;380;;;De ejercicios cerrados;953000
+2007;21207;380;;;De ejercicios cerrados;60100
+2007;21211;380;;;De ejercicios cerrados;132000
+2007;22101;380;;;De ejercicios cerrados;451320
+2007;22102;380;;;De ejercicios cerrados;601010
+2007;23101;380;;;De ejercicios cerrados;12000
+2007;23225;380;;;De ejercicios cerrados;6010
+2007;23228;380;;;De ejercicios cerrados;914500
+2007;23229;380;;;De ejercicios cerrados;1520
+2007;23232;380;;;De ejercicios cerrados;8660
+2007;23236;380;;;De ejercicios cerrados;1000
+2007;24103;380;;;De ejercicios cerrados;15000
+2007;24301;380;;;De ejercicios cerrados;50000
+2007;25201;380;;;De ejercicios cerrados;215000
+2007;60001;380;;;De ejercicios cerrados;33339970
+2007;98001;380;;;De ejercicios cerrados;70000000
+2007;60001;381;;;Del presupuesto corriente;14631210
+2007;98001;381;;;Del presupuesto corriente;20400000
+2007;12103;39;;;Otros ingresos;30000
+2007;13301;39;;;Otros ingresos;4600000
+2007;14104;39;;;Otros ingresos;32500
+2007;14107;39;;;Otros ingresos;250000
+2007;14113;39;;;Otros ingresos;260000
+2007;14204;39;;;Otros ingresos;3000
+2007;14206;39;;;Otros ingresos;50000
+2007;15104;39;;;Otros ingresos;500000
+2007;15105;39;;;Otros ingresos;3056270
+2007;15202;39;;;Otros ingresos;107900
+2007;15302;39;;;Otros ingresos;353640
+2007;16101;39;;;Otros ingresos;322000000
+2007;17238;39;;;Otros ingresos;2400000
+2007;18101;39;;;Otros ingresos;59440
+2007;18201;39;;;Otros ingresos;6010
+2007;18202;39;;;Otros ingresos;67370
+2007;18204;39;;;Otros ingresos;11030
+2007;18205;39;;;Otros ingresos;5200
+2007;18206;39;;;Otros ingresos;453000
+2007;19101;39;;;Otros ingresos;2854810
+2007;19102;39;;;Otros ingresos;22343890
+2007;19104;39;;;Otros ingresos;67000
+2007;19105;39;;;Otros ingresos;1530
+2007;19106;39;;;Otros ingresos;91980
+2007;19201;39;;;Otros ingresos;16000
+2007;19301;39;;;Otros ingresos;10400
+2007;20208;39;;;Otros ingresos;147000
+2007;20302;39;;;Otros ingresos;123950
+2007;21207;39;;;Otros ingresos;6010
+2007;21208;39;;;Otros ingresos;18030
+2007;21211;39;;;Otros ingresos;1676870
+2007;22101;39;;;Otros ingresos;19000
+2007;22102;39;;;Otros ingresos;30050
+2007;23101;39;;;Otros ingresos;123000
+2007;23225;39;;;Otros ingresos;1660000
+2007;23226;39;;;Otros ingresos;2586490
+2007;23228;39;;;Otros ingresos;4890050
+2007;23229;39;;;Otros ingresos;601670
+2007;23230;39;;;Otros ingresos;245000
+2007;23232;39;;;Otros ingresos;2166670
+2007;23233;39;;;Otros ingresos;1096810
+2007;23234;39;;;Otros ingresos;1963920
+2007;23236;39;;;Otros ingresos;33000
+2007;24101;39;;;Otros ingresos;6000
+2007;24102;39;;;Otros ingresos;30000
+2007;24104;39;;;Otros ingresos;48080
+2007;24201;39;;;Otros ingresos;48000
+2007;24301;39;;;Otros ingresos;45000
+2007;25103;39;;;Otros ingresos;600000
+2007;25201;39;;;Otros ingresos;40000
+2007;26203;39;;;Otros ingresos;24000
+2007;60001;39;;;Otros ingresos;584393960
+2007;98001;39;;;Otros ingresos;1007220000
+2007;13301;391;;;Recargos y multas;4600000
+2007;14113;391;;;Recargos y multas;10000
+2007;14206;391;;;Recargos y multas;10000
+2007;15104;391;;;Recargos y multas;500000
+2007;15105;391;;;Recargos y multas;1467010
+2007;16101;391;;;Recargos y multas;322000000
+2007;18101;391;;;Recargos y multas;3500
+2007;19101;391;;;Recargos y multas;2764660
+2007;19105;391;;;Recargos y multas;1530
+2007;19201;391;;;Recargos y multas;6000
+2007;20208;391;;;Recargos y multas;2000
+2007;20302;391;;;Recargos y multas;84620
+2007;21211;391;;;Recargos y multas;228140
+2007;23101;391;;;Recargos y multas;36000
+2007;23225;391;;;Recargos y multas;1660000
+2007;23226;391;;;Recargos y multas;800000
+2007;23228;391;;;Recargos y multas;4890050
+2007;23229;391;;;Recargos y multas;594670
+2007;23230;391;;;Recargos y multas;200000
+2007;23232;391;;;Recargos y multas;2139670
+2007;23233;391;;;Recargos y multas;1036370
+2007;23234;391;;;Recargos y multas;1898830
+2007;23236;391;;;Recargos y multas;1000
+2007;60001;391;;;Recargos y multas;573061830
+2007;98001;391;;;Recargos y multas;755240000
+2007;20302;391;;00;Recargo de apremio;55030
+2007;98001;391;;00;Recargo de apremio;293000000
+2007;14113;391;;01;Intereses de demora;10000
+2007;14206;391;;01;Intereses de demora;10000
+2007;18101;391;;01;Intereses de demora;3500
+2007;19101;391;;01;Intereses de demora;2764660
+2007;19105;391;;01;Intereses de demora;1530
+2007;19201;391;;01;Intereses de demora;6000
+2007;20302;391;;01;Intereses de demora;6000
+2007;23101;391;;01;Intereses de demora;6000
+2007;23225;391;;01;Intereses de demora;40000
+2007;23228;391;;01;Intereses de demora;345670
+2007;23229;391;;01;Intereses de demora;202190
+2007;23230;391;;01;Intereses de demora;50000
+2007;23232;391;;01;Intereses de demora;389670
+2007;23233;391;;01;Intereses de demora;196880
+2007;23234;391;;01;Intereses de demora;398830
+2007;23236;391;;01;Intereses de demora;1000
+2007;98001;391;;01;Intereses de demora;194240000
+2007;13301;391;;02;Multas y sanciones;4600000
+2007;15104;391;;02;Multas y sanciones;500000
+2007;15105;391;;02;Multas y sanciones;1467010
+2007;16101;391;;02;Multas y sanciones;322000000
+2007;20302;391;;02;Multas y sanciones;20690
+2007;21211;391;;02;Multas y sanciones;228140
+2007;23101;391;;02;Multas y sanciones;30000
+2007;23225;391;;02;Multas y sanciones;1600000
+2007;23226;391;;02;Multas y sanciones;800000
+2007;23228;391;;02;Multas y sanciones;509640
+2007;23229;391;;02;Multas y sanciones;392480
+2007;23230;391;;02;Multas y sanciones;150000
+2007;23232;391;;02;Multas y sanciones;1750000
+2007;23233;391;;02;Multas y sanciones;839490
+2007;23234;391;;02;Multas y sanciones;1500000
+2007;98001;391;;02;Multas y sanciones;268000000
+2007;20302;391;;03;Recargo sobre autoliquidaciones;2900
+2007;23228;391;;03;Recargo sobre autoliquidaciones;2570010
+2007;20208;391;;99;Otros;2000
+2007;23225;391;;99;Otros;20000
+2007;23228;391;;99;Otros;1464730
+2007;98001;392;;;Diferencias de cambio;15000000
+2007;98001;393;;;Diferencias entre los valores de reembolso y emisión;60000000
+2007;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);21669520
+2007;15302;398;;;Ingresos extraordinarios;136200
+2007;12103;399;;;Ingresos diversos;30000
+2007;14104;399;;;Ingresos diversos;32500
+2007;14107;399;;;Ingresos diversos;250000
+2007;14113;399;;;Ingresos diversos;250000
+2007;14204;399;;;Ingresos diversos;3000
+2007;14206;399;;;Ingresos diversos;40000
+2007;15105;399;;;Ingresos diversos;1589260
+2007;15202;399;;;Ingresos diversos;107900
+2007;15302;399;;;Ingresos diversos;217440
+2007;17238;399;;;Ingresos diversos;2400000
+2007;18101;399;;;Ingresos diversos;55940
+2007;18201;399;;;Ingresos diversos;6010
+2007;18202;399;;;Ingresos diversos;67370
+2007;18204;399;;;Ingresos diversos;11030
+2007;18205;399;;;Ingresos diversos;5200
+2007;18206;399;;;Ingresos diversos;453000
+2007;19101;399;;;Ingresos diversos;90150
+2007;19102;399;;;Ingresos diversos;674370
+2007;19104;399;;;Ingresos diversos;67000
+2007;19106;399;;;Ingresos diversos;91980
+2007;19201;399;;;Ingresos diversos;10000
+2007;19301;399;;;Ingresos diversos;10400
+2007;20208;399;;;Ingresos diversos;145000
+2007;20302;399;;;Ingresos diversos;39330
+2007;21207;399;;;Ingresos diversos;6010
+2007;21208;399;;;Ingresos diversos;18030
+2007;21211;399;;;Ingresos diversos;1448730
+2007;22101;399;;;Ingresos diversos;19000
+2007;22102;399;;;Ingresos diversos;30050
+2007;23101;399;;;Ingresos diversos;87000
+2007;23226;399;;;Ingresos diversos;1786490
+2007;23229;399;;;Ingresos diversos;7000
+2007;23230;399;;;Ingresos diversos;45000
+2007;23232;399;;;Ingresos diversos;27000
+2007;23233;399;;;Ingresos diversos;60440
+2007;23234;399;;;Ingresos diversos;65090
+2007;23236;399;;;Ingresos diversos;32000
+2007;24101;399;;;Ingresos diversos;6000
+2007;24102;399;;;Ingresos diversos;30000
+2007;24104;399;;;Ingresos diversos;48080
+2007;24201;399;;;Ingresos diversos;48000
+2007;24301;399;;;Ingresos diversos;45000
+2007;25103;399;;;Ingresos diversos;600000
+2007;25201;399;;;Ingresos diversos;40000
+2007;26203;399;;;Ingresos diversos;24000
+2007;60001;399;;;Ingresos diversos;11332130
+2007;98001;399;;;Ingresos diversos;176980000
+2007;15202;399;;00;Compensaciones de servicios prestados por funcionarios públicos;60970
+2007;98001;399;;00;Compensaciones de servicios prestados por funcionarios públicos;5260000
+2007;14104;399;;01;Recursos eventuales;14000
+2007;15202;399;;01;Recursos eventuales;3360
+2007;21208;399;;01;Recursos eventuales;18030
+2007;21211;399;;01;Recursos eventuales;1448730
+2007;22102;399;;01;Recursos eventuales;30050
+2007;23101;399;;01;Recursos eventuales;20000
+2007;23226;399;;01;Recursos eventuales;150000
+2007;23230;399;;01;Recursos eventuales;25000
+2007;98001;399;;01;Recursos eventuales;130000000
+2007;20302;399;;03;Ingresos por prestaciones.;17110
+2007;98001;399;;03;Venta de cuota láctea de la Reserva Nacional;100000
+2007;21207;399;;04;Ingresos por estudios, informes, análisis y trabajos análogos.;6010
+2007;15105;399;;05;Convenios estadísticos;1509800
+2007;12103;399;;99;Otros ingresos diversos;30000
+2007;14104;399;;99;Otros ingresos diversos;18500
+2007;14107;399;;99;Otros ingresos diversos;250000
+2007;14113;399;;99;Otros ingresos diversos;250000
+2007;14204;399;;99;Otros ingresos diversos;3000
+2007;14206;399;;99;Otros ingresos diversos;40000
+2007;15105;399;;99;Otros ingresos diversos;79460
+2007;15202;399;;99;Otros ingresos diversos;43570
+2007;15302;399;;99;Otros ingresos diversos;217440
+2007;18101;399;;99;Otros ingresos diversos;55940
+2007;18202;399;;99;Otros ingresos diversos;67370
+2007;18204;399;;99;Otros ingresos diversos;11030
+2007;18205;399;;99;Otros ingresos diversos;5200
+2007;18206;399;;99;Otros ingresos diversos;453000
+2007;19101;399;;99;Otros ingresos diversos;90150
+2007;19102;399;;99;Otros ingresos diversos;674370
+2007;19104;399;;99;Otros ingresos diversos;67000
+2007;19106;399;;99;Otros ingresos diversos;91980
+2007;19201;399;;99;Otros ingresos diversos;10000
+2007;19301;399;;99;Otros ingresos diversos;10400
+2007;20208;399;;99;Otros ingresos diversos;145000
+2007;20302;399;;99;Otros ingresos diversos;22220
+2007;22101;399;;99;Otros ingresos diversos;19000
+2007;23101;399;;99;Otros ingresos diversos;67000
+2007;23226;399;;99;Otros ingresos diversos;1636490
+2007;23229;399;;99;Otros ingresos diversos;7000
+2007;23230;399;;99;Otros ingresos diversos;20000
+2007;23232;399;;99;Otros ingresos diversos;27000
+2007;23233;399;;99;Otros ingresos diversos;60440
+2007;23234;399;;99;Otros ingresos diversos;65090
+2007;23236;399;;99;Otros ingresos diversos;32000
+2007;24102;399;;99;Otros ingresos diversos;30000
+2007;24104;399;;99;Otros ingresos diversos;48080
+2007;24201;399;;99;Otros ingresos diversos;48000
+2007;25103;399;;99;Otros ingresos diversos;600000
+2007;25201;399;;99;Otros ingresos diversos;40000
+2007;98001;399;;99;Otros ingresos diversos;41620000
+2007;12103;4;;;TRANSFERENCIAS CORRIENTES;685169640
+2007;12301;4;;;TRANSFERENCIAS CORRIENTES;66905950
+2007;13101;4;;;TRANSFERENCIAS CORRIENTES;8696380
+2007;13102;4;;;TRANSFERENCIAS CORRIENTES;5074000
+2007;13301;4;;;TRANSFERENCIAS CORRIENTES;225000
+2007;14104;4;;;TRANSFERENCIAS CORRIENTES;2778920
+2007;14111;4;;;TRANSFERENCIAS CORRIENTES;2902460
+2007;14113;4;;;TRANSFERENCIAS CORRIENTES;24200000
+2007;14205;4;;;TRANSFERENCIAS CORRIENTES;39238370
+2007;14301;4;;;TRANSFERENCIAS CORRIENTES;196922510
+2007;15101;4;;;TRANSFERENCIAS CORRIENTES;18417730
+2007;15102;4;;;TRANSFERENCIAS CORRIENTES;4223210
+2007;15103;4;;;TRANSFERENCIAS CORRIENTES;546170
+2007;15105;4;;;TRANSFERENCIAS CORRIENTES;124213960
+2007;15202;4;;;TRANSFERENCIAS CORRIENTES;36446520
+2007;15302;4;;;TRANSFERENCIAS CORRIENTES;1109285190
+2007;16101;4;;;TRANSFERENCIAS CORRIENTES;624080
+2007;16102;4;;;TRANSFERENCIAS CORRIENTES;1600000
+2007;16201;4;;;TRANSFERENCIAS CORRIENTES;27839640
+2007;17238;4;;;TRANSFERENCIAS CORRIENTES;15789420
+2007;17239;4;;;TRANSFERENCIAS CORRIENTES;590000
+2007;18101;4;;;TRANSFERENCIAS CORRIENTES;113459830
+2007;18102;4;;;TRANSFERENCIAS CORRIENTES;1650580
+2007;18137;4;;;TRANSFERENCIAS CORRIENTES;9532740
+2007;18201;4;;;TRANSFERENCIAS CORRIENTES;11178510
+2007;18202;4;;;TRANSFERENCIAS CORRIENTES;365408920
+2007;18203;4;;;TRANSFERENCIAS CORRIENTES;56419350
+2007;18204;4;;;TRANSFERENCIAS CORRIENTES;29475290
+2007;18205;4;;;TRANSFERENCIAS CORRIENTES;25055990
+2007;18206;4;;;TRANSFERENCIAS CORRIENTES;17053000
+2007;19101;4;;;TRANSFERENCIAS CORRIENTES;851100000
+2007;19104;4;;;TRANSFERENCIAS CORRIENTES;23802880
+2007;19105;4;;;TRANSFERENCIAS CORRIENTES;22733510
+2007;19106;4;;;TRANSFERENCIAS CORRIENTES;3055910
+2007;19107;4;;;TRANSFERENCIAS CORRIENTES;2843280
+2007;19201;4;;;TRANSFERENCIAS CORRIENTES;28421840
+2007;19301;4;;;TRANSFERENCIAS CORRIENTES;8002760
+2007;20101;4;;;TRANSFERENCIAS CORRIENTES;652610740
+2007;20207;4;;;TRANSFERENCIAS CORRIENTES;3890950
+2007;20208;4;;;TRANSFERENCIAS CORRIENTES;36788340
+2007;20301;4;;;TRANSFERENCIAS CORRIENTES;15692010
+2007;20302;4;;;TRANSFERENCIAS CORRIENTES;5202580
+2007;21112;4;;;TRANSFERENCIAS CORRIENTES;5865540
+2007;21207;4;;;TRANSFERENCIAS CORRIENTES;268767870
+2007;21208;4;;;TRANSFERENCIAS CORRIENTES;5058480
+2007;21211;4;;;TRANSFERENCIAS CORRIENTES;6370684550
+2007;22101;4;;;TRANSFERENCIAS CORRIENTES;131867500
+2007;22102;4;;;TRANSFERENCIAS CORRIENTES;73770570
+2007;22401;4;;;TRANSFERENCIAS CORRIENTES;4319330
+2007;23101;4;;;TRANSFERENCIAS CORRIENTES;29095220
+2007;23225;4;;;TRANSFERENCIAS CORRIENTES;8850210
+2007;23226;4;;;TRANSFERENCIAS CORRIENTES;11213770
+2007;23228;4;;;TRANSFERENCIAS CORRIENTES;16238120
+2007;23229;4;;;TRANSFERENCIAS CORRIENTES;7182840
+2007;23230;4;;;TRANSFERENCIAS CORRIENTES;10967770
+2007;23232;4;;;TRANSFERENCIAS CORRIENTES;8514000
+2007;23233;4;;;TRANSFERENCIAS CORRIENTES;5209550
+2007;23234;4;;;TRANSFERENCIAS CORRIENTES;16293170
+2007;23237;4;;;TRANSFERENCIAS CORRIENTES;4753890
+2007;24101;4;;;TRANSFERENCIAS CORRIENTES;75012150
+2007;24102;4;;;TRANSFERENCIAS CORRIENTES;24223920
+2007;24103;4;;;TRANSFERENCIAS CORRIENTES;5959460
+2007;24104;4;;;TRANSFERENCIAS CORRIENTES;20775060
+2007;24201;4;;;TRANSFERENCIAS CORRIENTES;140681780
+2007;24301;4;;;TRANSFERENCIAS CORRIENTES;23377400
+2007;25101;4;;;TRANSFERENCIAS CORRIENTES;3976750
+2007;25102;4;;;TRANSFERENCIAS CORRIENTES;6765440
+2007;25103;4;;;TRANSFERENCIAS CORRIENTES;65513080
+2007;26102;4;;;TRANSFERENCIAS CORRIENTES;14909080
+2007;26103;4;;;TRANSFERENCIAS CORRIENTES;1068840
+2007;26104;4;;;TRANSFERENCIAS CORRIENTES;16145030
+2007;26105;4;;;TRANSFERENCIAS CORRIENTES;3844820
+2007;26203;4;;;TRANSFERENCIAS CORRIENTES;130541150
+2007;60001;4;;;TRANSFERENCIAS CORRIENTES;9235713350
+2007;98001;4;;;TRANSFERENCIAS CORRIENTES;5756910560
+2007;12103;40;;;De la Administración del Estado;681497640
+2007;12301;40;;;De la Administración del Estado;65905950
+2007;13101;40;;;De la Administración del Estado;8696380
+2007;13102;40;;;De la Administración del Estado;5074000
+2007;13301;40;;;De la Administración del Estado;200000
+2007;14104;40;;;De la Administración del Estado;2053920
+2007;14111;40;;;De la Administración del Estado;2902460
+2007;14113;40;;;De la Administración del Estado;24200000
+2007;14205;40;;;De la Administración del Estado;39238370
+2007;14301;40;;;De la Administración del Estado;196922510
+2007;15101;40;;;De la Administración del Estado;18417730
+2007;15102;40;;;De la Administración del Estado;4223210
+2007;15103;40;;;De la Administración del Estado;546170
+2007;15105;40;;;De la Administración del Estado;124213960
+2007;15202;40;;;De la Administración del Estado;36446520
+2007;15302;40;;;De la Administración del Estado;1108665220
+2007;16101;40;;;De la Administración del Estado;199080
+2007;16102;40;;;De la Administración del Estado;1600000
+2007;16201;40;;;De la Administración del Estado;23351530
+2007;17238;40;;;De la Administración del Estado;15789420
+2007;17239;40;;;De la Administración del Estado;590000
+2007;18101;40;;;De la Administración del Estado;113123260
+2007;18102;40;;;De la Administración del Estado;1650580
+2007;18137;40;;;De la Administración del Estado;4852640
+2007;18201;40;;;De la Administración del Estado;7476960
+2007;18202;40;;;De la Administración del Estado;365143100
+2007;18203;40;;;De la Administración del Estado;56419350
+2007;18204;40;;;De la Administración del Estado;29475290
+2007;18205;40;;;De la Administración del Estado;25055990
+2007;18206;40;;;De la Administración del Estado;17053000
+2007;19101;40;;;De la Administración del Estado;6000000
+2007;19104;40;;;De la Administración del Estado;23702880
+2007;19105;40;;;De la Administración del Estado;19493620
+2007;19106;40;;;De la Administración del Estado;3055910
+2007;19107;40;;;De la Administración del Estado;2843280
+2007;19201;40;;;De la Administración del Estado;21148840
+2007;19301;40;;;De la Administración del Estado;8002760
+2007;20101;40;;;De la Administración del Estado;652610740
+2007;20207;40;;;De la Administración del Estado;3890950
+2007;20208;40;;;De la Administración del Estado;36788340
+2007;20301;40;;;De la Administración del Estado;15692010
+2007;20302;40;;;De la Administración del Estado;5152750
+2007;21112;40;;;De la Administración del Estado;5865540
+2007;21207;40;;;De la Administración del Estado;268767870
+2007;21208;40;;;De la Administración del Estado;3058480
+2007;21211;40;;;De la Administración del Estado;31073210
+2007;22101;40;;;De la Administración del Estado;16864000
+2007;22102;40;;;De la Administración del Estado;73770570
+2007;22401;40;;;De la Administración del Estado;4319330
+2007;23101;40;;;De la Administración del Estado;29095220
+2007;23225;40;;;De la Administración del Estado;8831500
+2007;23226;40;;;De la Administración del Estado;11213770
+2007;23228;40;;;De la Administración del Estado;16238120
+2007;23229;40;;;De la Administración del Estado;7182840
+2007;23230;40;;;De la Administración del Estado;10967770
+2007;23232;40;;;De la Administración del Estado;8514000
+2007;23233;40;;;De la Administración del Estado;5209550
+2007;23234;40;;;De la Administración del Estado;9663170
+2007;23237;40;;;De la Administración del Estado;4753890
+2007;24101;40;;;De la Administración del Estado;75012150
+2007;24102;40;;;De la Administración del Estado;24003920
+2007;24103;40;;;De la Administración del Estado;5959460
+2007;24104;40;;;De la Administración del Estado;20275060
+2007;24201;40;;;De la Administración del Estado;140609780
+2007;24301;40;;;De la Administración del Estado;20373400
+2007;25101;40;;;De la Administración del Estado;3976750
+2007;25102;40;;;De la Administración del Estado;6765440
+2007;25103;40;;;De la Administración del Estado;62249080
+2007;26102;40;;;De la Administración del Estado;14909080
+2007;26103;40;;;De la Administración del Estado;1068840
+2007;26104;40;;;De la Administración del Estado;16145030
+2007;26105;40;;;De la Administración del Estado;3844820
+2007;26203;40;;;De la Administración del Estado;130297310
+2007;60001;40;;;De la Administración del Estado;5912992500
+2007;12301;400;;;Del departamento al que está adscrito;65905950
+2007;13101;400;;;Del departamento al que está adscrito;8696380
+2007;13301;400;;;Del departamento al que está adscrito;200000
+2007;14104;400;;;Del departamento al que está adscrito;2053920
+2007;14111;400;;;Del departamento al que está adscrito;2902460
+2007;14205;400;;;Del departamento al que está adscrito;39238370
+2007;14301;400;;;Del departamento al que está adscrito;196922510
+2007;15101;400;;;Del departamento al que está adscrito;18417730
+2007;15102;400;;;Del departamento al que está adscrito;4223210
+2007;15103;400;;;Del departamento al que está adscrito;546170
+2007;15105;400;;;Del departamento al que está adscrito;124213960
+2007;15302;400;;;Del departamento al que está adscrito;1108600720
+2007;16102;400;;;Del departamento al que está adscrito;1600000
+2007;16201;400;;;Del departamento al que está adscrito;23351530
+2007;17238;400;;;Del departamento al que está adscrito;15789420
+2007;17239;400;;;Del departamento al que está adscrito;590000
+2007;18101;400;;;Del departamento al que está adscrito;113123260
+2007;18102;400;;;Del departamento al que está adscrito;1650580
+2007;18137;400;;;Del departamento al que está adscrito;4852640
+2007;18201;400;;;Del departamento al que está adscrito;7476960
+2007;18202;400;;;Del departamento al que está adscrito;365143100
+2007;18203;400;;;Del departamento al que está adscrito;56419350
+2007;18204;400;;;Del departamento al que está adscrito;29475290
+2007;18205;400;;;Del departamento al que está adscrito;25055990
+2007;18206;400;;;Del departamento al que está adscrito;17053000
+2007;19101;400;;;Del departamento al que está adscrito;6000000
+2007;19104;400;;;Del departamento al que está adscrito;23702880
+2007;19105;400;;;Del departamento al que está adscrito;19493620
+2007;19106;400;;;Del departamento al que está adscrito;2658710
+2007;19107;400;;;Del departamento al que está adscrito;2843280
+2007;19201;400;;;Del departamento al que está adscrito;21148840
+2007;19301;400;;;Del departamento al que está adscrito;8002760
+2007;20101;400;;;Del departamento al que está adscrito;652610740
+2007;20207;400;;;Del departamento al que está adscrito;3890950
+2007;20208;400;;;Del departamento al que está adscrito;36788340
+2007;20301;400;;;Del departamento al que está adscrito;15692010
+2007;20302;400;;;Del departamento al que está adscrito;5152750
+2007;21112;400;;;Del departamento al que está adscrito;5865540
+2007;21207;400;;;Del departamento al que está adscrito;268767870
+2007;21208;400;;;Del departamento al que está adscrito;3058480
+2007;21211;400;;;Del departamento al que está adscrito;31073210
+2007;22101;400;;;Del departamento al que está adscrito;16864000
+2007;22401;400;;;Del departamento al que está adscrito;4319330
+2007;23101;400;;;Del departamento al que está adscrito;29095220
+2007;23225;400;;;Del departamento al que está adscrito;8831500
+2007;23226;400;;;Del departamento al que está adscrito;11213770
+2007;23228;400;;;Del departamento al que está adscrito;16238120
+2007;23229;400;;;Del departamento al que está adscrito;7182840
+2007;23230;400;;;Del departamento al que está adscrito;10967770
+2007;23232;400;;;Del departamento al que está adscrito;8514000
+2007;23233;400;;;Del departamento al que está adscrito;5209550
+2007;23234;400;;;Del departamento al que está adscrito;9663170
+2007;23237;400;;;Del departamento al que está adscrito;4740870
+2007;24101;400;;;Del departamento al que está adscrito;75012150
+2007;24102;400;;;Del departamento al que está adscrito;24003920
+2007;24104;400;;;Del departamento al que está adscrito;20275060
+2007;24201;400;;;Del departamento al que está adscrito;140609780
+2007;24301;400;;;Del departamento al que está adscrito;20373400
+2007;25101;400;;;Del departamento al que está adscrito;3976750
+2007;25102;400;;;Del departamento al que está adscrito;6765440
+2007;25103;400;;;Del departamento al que está adscrito;62249080
+2007;26102;400;;;Del departamento al que está adscrito;14909080
+2007;26103;400;;;Del departamento al que está adscrito;1068840
+2007;26104;400;;;Del departamento al que está adscrito;16145030
+2007;26105;400;;;Del departamento al que está adscrito;3844820
+2007;26203;400;;;Del departamento al que está adscrito;130297310
+2007;60001;400;;;Del departamento al que está adscrito;5679848660
+2007;15302;400;;00;Para gastos de funcionamiento;1037497980
+2007;18101;400;;00;Del Ministerio de Educación y Ciencia;113123260
+2007;18137;400;;00;Para gastos de funcionamiento.;4822640
+2007;18203;400;;00;Subvención ordinaria;53814900
+2007;18204;400;;00;Subvención al Organismo;26880290
+2007;18206;400;;00;Para gastos de funcionamiento;16907000
+2007;19101;400;;00;Para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía;6000000
+2007;20208;400;;00;Del departamento al que está adscrito;36346680
+2007;21112;400;;00;Para gastos de funcionamiento.;5865540
+2007;21211;400;;00;Para gastos de funcionamiento.;31073210
+2007;23225;400;;00;Para el desarrollo de sus actividades;7040240
+2007;23226;400;;00;Para el desarrollo de sus actividades;8393770
+2007;23228;400;;00;Para el desarrollo de sus actividades;10729950
+2007;23229;400;;00;Para el desarrollo de sus actividades;5032590
+2007;23230;400;;00;Para el desarrollo de sus actividades;8570400
+2007;23232;400;;00;Para el desarrollo de sus actividades;8070020
+2007;23233;400;;00;Para el desarrollo de sus actividades;4929290
+2007;23234;400;;00;Para el desarrollo de sus actividades;6463170
+2007;24101;400;;00;Del Ministerio de Cultura. Subvención de Funcionamiento.;7964150
+2007;26203;400;;00;Para atenciones generales.;130297310
+2007;14111;400;;01;Para atender obligaciones de personal;2902460
+2007;14205;400;;01;Para atenciones de Personal previstas en el R.D. de  creación del Patronato del INTA;39238370
+2007;18137;400;;01;Para definición y desarrollo del Espacio Europeo de la Educación Superior;30000
+2007;18202;400;;01;Del departamento al que está adscrito;361161340
+2007;18203;400;;01;Del Departamento, para la Fundación Ciudad de la Energía;2604450
+2007;18206;400;;01;Para los gastos de la participación española en el Comité Polar;146000
+2007;20208;400;;01;Por compensación gastos de edificios por la D.G.T. y el I.E.T.;441660
+2007;23225;400;;01;Para el pago de IBI de bienes de titularidad del estatal;1791260
+2007;23226;400;;01;Para el pago de IBI de bienes de titularidad del estatal;2820000
+2007;23228;400;;01;Para el pago de IBI de bienes de titularidad del estatal;5508170
+2007;23229;400;;01;Para el pago de IBI de bienes de titularidad del estatal;2150250
+2007;23230;400;;01;Para el pago de IBI de bienes de titularidad del estatal;2397370
+2007;23232;400;;01;Para el pago de IBI de bienes de titularidad del estatal;443980
+2007;23233;400;;01;Para el pago de IBI de bienes de titularidad del estatal;280260
+2007;23234;400;;01;Para el pago de IBI de bienes de titularidad del estatal;3200000
+2007;24101;400;;01;Del Ministerio de Cultura. Fondo de Protección a la Cinematografía.;67048000
+2007;15302;400;;02;Por compensación gastos de otros servicios;3332010
+2007;18202;400;;02;Para el funcionamiento operativo de instrumentos, líneas e instalaciones científicas;3981760
+2007;18204;400;;02;Para satisfacer cuantos gastos originen las actividades agrícolas de España como miembro de la O.C.D.E.;35000
+2007;15302;400;;03;Por premio cobranza recursos propios CEE;67770730
+2007;18204;400;;03;Para satisfacer cuantos gastos originen las actividades agrícolas de España como miembro de la C.G.I.A.R.;2500000
+2007;18204;400;;04;Para satisfacer cuotas y gastos de la participación española en otros Organismos Internacionales.;60000
+2007;14104;400;;07;Para gastos de funcionamiento;2053920
+2007;13102;401;;;De otros departamentos ministeriales;5074000
+2007;14113;401;;;De otros departamentos ministeriales;24200000
+2007;15202;401;;;De otros departamentos ministeriales;36446520
+2007;15302;401;;;De otros departamentos ministeriales;64500
+2007;16101;401;;;De otros departamentos ministeriales;199080
+2007;19106;401;;;De otros departamentos ministeriales;397200
+2007;22102;401;;;De otros departamentos ministeriales;73770570
+2007;23237;401;;;De otros departamentos ministeriales;13020
+2007;60001;401;;;De otros departamentos ministeriales;233143840
+2007;15302;401;;00;Del Ministerio del Interior por los gastos comunes del edificio de la calle del Plomo, de Madrid;64500
+2007;23237;401;;00;Aportación del Mº de Fomento.;13020
+2007;24103;402;;;Del Departamento al que está adscrito.;5959460
+2007;12103;404;;;Para atender gastos derivados de proyectos de ayuda oficial al desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;656282140
+2007;12103;405;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2.del Real Decreto 825/1988, de  15 de julio);25215500
+2007;12103;41;;;De organismos autónomos;3672000
+2007;16101;41;;;De organismos autónomos;425000
+2007;16201;41;;;De organismos autónomos;4488110
+2007;18202;41;;;De organismos autónomos;265820
+2007;22101;41;;;De organismos autónomos;115003500
+2007;23234;41;;;De organismos autónomos;6630000
+2007;25103;41;;;De organismos autónomos;3264000
+2007;26203;41;;;De organismos autónomos;243840
+2007;98001;41;;;De organismos autónomos;319790930
+2007;18202;410;;;Transferencias corrientes de organismos autónomos;265820
+2007;22101;410;;;Transferencias corrientes de organismos autónomos;115003500
+2007;23234;410;;;Transferencias corrientes de organismos autónomos;6630000
+2007;98001;410;;;Transferencias corrientes de organismos autónomos;319790930
+2007;22101;410;;01;Del Servicio Público de Empleo Estatal para Formación Continua;115003500
+2007;98001;410;;01;Jefatura de Tráfico;106164130
+2007;98001;410;;02;Boletín Oficial del Estado;30366000
+2007;18202;410;;99;Otros;265820
+2007;98001;410;;99;Otros;183260800
+2007;16101;411;;;Del Servicio Público de Empleo Estatal;425000
+2007;16201;411;;;Del Servicio Público de Empleo Estatal;4488110
+2007;25103;411;;;Del Servicio Público de Empleo Estatal;3264000
+2007;26203;411/26203;;;Aportación del Consejo Superior de Investigaciones Científicas.;243840
+2007;16201;411;;01;Para cursos de Formación Profesional y Ocupacional;4376110
+2007;25103;411;;01;Para ayudas salariales a Escuelas Taller;1516190
+2007;16101;411;;02;Para gastos en políticas activas de empleo;425000
+2007;16201;411;;02;Para gastos en políticas activas de empleo;112000
+2007;25103;411;;02;Para subvenciones a Escuelas Taller;1747810
+2007;12103;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior;3672000
+2007;60001;42;;;De la Seguridad Social;3267998780
+2007;98001;42;;;De la Seguridad Social;161939630
+2007;98001;420;;;Transferencias corrientes de la Seguridad Social;161939630
+2007;98001;420;;00;Transferencias de la Seguridad Social del ejercicio corriente;161939630
+2007;60001;421;;;Aportaciones para sosteni. SS.CC.;959286820
+2007;60001;422;;;Ingresos por servicios prestados entre Entidades del Sistema;1372139400
+2007;60001;423;;;Cuotas de reaseguro de Acctes. T.;932884280
+2007;60001;429;;;Otras transferencias recibidas de entidades del sistema;3688280
+2007;18101;44;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.;336570
+2007;18137;44;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.;108420
+2007;98001;44;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.;2550000000
+2007;18101;440;;;De sociedades mercantiles estatales;336570
+2007;18137;441;;;De entidades empresariales;108420
+2007;98001;441;;;De entidades empresariales;2550000000
+2007;98001;441;;00;Loterías y Apuestas del Estado;2550000000
+2007;18137;45;;;De Comunidades Autónomas;1884980
+2007;18201;45;;;De Comunidades Autónomas;3701550
+2007;20302;45;;;De Comunidades Autónomas;49830
+2007;24102;45;;;De Comunidades Autónomas;220000
+2007;24201;45;;;De Comunidades Autónomas;12000
+2007;24301;45;;;De Comunidades Autónomas;394720
+2007;60001;45;;;De Comunidades Autónomas;171320
+2007;98001;45;;;De Comunidades Autónomas;2635180000
+2007;20302;450;;;Contribuciones Concertadas;49830
+2007;98001;450;;;Contribuciones Concertadas;1962000000
+2007;20302;450;;00;Cupo del País Vasco;49830
+2007;98001;450;;00;Cupo del País Vasco;1374000000
+2007;98001;450;;01;De Navarra;588000000
+2007;98001;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.;209000000
+2007;98001;456;;;Compensaciones financieras del País Vasco;48980000
+2007;98001;456;;00;Impuestos especiales sobre el alcohol y bebidas derivadas y productos intermedios;9110000
+2007;98001;456;;01;Impuesto especial sobre la Cerveza;2550000
+2007;98001;456;;02;Impuesto especial sobre Hidrocarburos;37320000
+2007;98001;458;;;Por Fondo de Suficiencia;415200000
+2007;18137;459;;;Otras transferencias corrientes;1884980
+2007;18201;459;;;Otras transferencias corrientes;3701550
+2007;24102;459;;;Otras transferencias corrientes;220000
+2007;24201;459;;;Otras transferencias corrientes;12000
+2007;24301;459;;;Otras transferencias corrientes;394720
+2007;60001;459;;;Otras transferencias corrientes;171320
+2007;18137;46;;;De Corporaciones Locales;717300
+2007;18137;460;;;De Ayuntamientos;207970
+2007;18137;461;;;De Diputaciones y Cabildos Insulares;509330
+2007;12301;47;;;De empresas privadas;1000000
+2007;18137;47;;;De empresas privadas;1125510
+2007;24104;47;;;De empresas privadas;350000
+2007;24201;47;;;De empresas privadas;60000
+2007;24301;47;;;De empresas privadas;1027820
+2007;60001;47;;;De empresas privadas;48940000
+2007;12301;470;;;De empresas privadas;1000000
+2007;24301;470/24301;;;Ingresos de empresas privadas;1027820
+2007;24104;471;;;De empresas privadas;350000
+2007;60001;471/60001;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;48940000
+2007;18137;479;;;Otras transferencias corrientes.;1125510
+2007;24201;479/24201;;;Otras transferencias corrientes;60000
+2007;18137;48;;;De familias e instituciones sin fines de lucro;811340
+2007;24104;48;;;De familias e instituciones sin fines de lucro;150000
+2007;24301;48;;;De familias e instituciones sin fines de lucro;658730
+2007;24301;480;;;De familias e instituciones sin fines de lucro;658730
+2007;18137;489;;;Otras transferencias corrientes.;811340
+2007;24104;489/24104;;;Otras transferencias corrientes;150000
+2007;13301;49;;;Del exterior;25000
+2007;14104;49;;;Del exterior;725000
+2007;15302;49;;;Del exterior;619970
+2007;18137;49;;;Del exterior;32550
+2007;19101;49;;;Del exterior;845100000
+2007;19104;49;;;Del exterior;100000
+2007;19105;49;;;Del exterior;3239890
+2007;19201;49;;;Del exterior;7273000
+2007;21208;49;;;Del exterior;2000000
+2007;21211;49;;;Del exterior;6339611340
+2007;23225;49;;;Del exterior;18710
+2007;24301;49;;;Del exterior;922730
+2007;60001;49;;;Del exterior;5610750
+2007;98001;49;;;Del exterior;90000000
+2007;19101;490;;;Del Fondo Social Europeo;845100000
+2007;19105;490;;;Del Fondo Social Europeo;3239890
+2007;60001;490;;;Del Fondo Social Europeo;5610750
+2007;98001;490;;;Del Fondo Social Europeo;90000000
+2007;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;845100000
+2007;14104;491;;;Del FEOGA GARANTÍA;725000
+2007;23225;491;;;Del FEOGA GARANTÍA;18710
+2007;21208;491/21208;;;Del FEAGA;2000000
+2007;21211;491/21211;;;Del FEAGA;6339611340
+2007;21211;491/21211;;01;Subvenciones a la producción agraria;6220000000
+2007;21211;491/21211;;02;Compensación de pérdidas;100906670
+2007;21211;491/21211;;03;Gastos de intervención. Resto producto;6440850
+2007;21211;491/21211;;04;Gastos financieros;4963820
+2007;21211;491/21211;;05;Gastos de intervención. Cereales y arroz;7300000
+2007;13301;492;;;Otras transferencias de la Unión Europea;25000
+2007;15302;492;;;Otras transferencias de la Unión Europea;619970
+2007;19104;492;;;Otras transferencias de la Unión Europea;100000
+2007;19201;493;;;Aportaciones derivadas de convenios internacionales de cooperación;7273000
+2007;18137;499;;;Otras transferencias corrientes;32550
+2007;24301;499;;;Otras transferencias corrientes;922730
+2007;12301;5;;;INGRESOS PATRIMONIALES;7551050
+2007;13102;5;;;INGRESOS PATRIMONIALES;376500
+2007;13301;5;;;INGRESOS PATRIMONIALES;350000
+2007;14104;5;;;INGRESOS PATRIMONIALES;43720
+2007;14107;5;;;INGRESOS PATRIMONIALES;1150000
+2007;14113;5;;;INGRESOS PATRIMONIALES;2215010
+2007;14204;5;;;INGRESOS PATRIMONIALES;8434840
+2007;14205;5;;;INGRESOS PATRIMONIALES;34930780
+2007;14206;5;;;INGRESOS PATRIMONIALES;-16698930
+2007;14301;5;;;INGRESOS PATRIMONIALES;728000
+2007;15105;5;;;INGRESOS PATRIMONIALES;9860
+2007;15202;5;;;INGRESOS PATRIMONIALES;11686280
+2007;15302;5;;;INGRESOS PATRIMONIALES;3563030
+2007;16101;5;;;INGRESOS PATRIMONIALES;586050
+2007;16201;5;;;INGRESOS PATRIMONIALES;1551410
+2007;17238;5;;;INGRESOS PATRIMONIALES;18997570
+2007;17239;5;;;INGRESOS PATRIMONIALES;2535500
+2007;18101;5;;;INGRESOS PATRIMONIALES;117630
+2007;18137;5;;;INGRESOS PATRIMONIALES;27680
+2007;18201;5;;;INGRESOS PATRIMONIALES;912730
+2007;18202;5;;;INGRESOS PATRIMONIALES;23698890
+2007;18203;5;;;INGRESOS PATRIMONIALES;23707930
+2007;18204;5;;;INGRESOS PATRIMONIALES;7365410
+2007;18205;5;;;INGRESOS PATRIMONIALES;8364720
+2007;18206;5;;;INGRESOS PATRIMONIALES;2683720
+2007;19101;5;;;INGRESOS PATRIMONIALES;125000
+2007;19102;5;;;INGRESOS PATRIMONIALES;95171260
+2007;19104;5;;;INGRESOS PATRIMONIALES;6650
+2007;19105;5;;;INGRESOS PATRIMONIALES;8160
+2007;19106;5;;;INGRESOS PATRIMONIALES;12020
+2007;19107;5;;;INGRESOS PATRIMONIALES;3060
+2007;19201;5;;;INGRESOS PATRIMONIALES;1322120
+2007;19301;5;;;INGRESOS PATRIMONIALES;25000
+2007;20101;5;;;INGRESOS PATRIMONIALES;100000
+2007;20102;5;;;INGRESOS PATRIMONIALES;20000
+2007;20207;5;;;INGRESOS PATRIMONIALES;685170
+2007;20208;5;;;INGRESOS PATRIMONIALES;43999070
+2007;20301;5;;;INGRESOS PATRIMONIALES;2105040
+2007;20302;5;;;INGRESOS PATRIMONIALES;219090
+2007;21207;5;;;INGRESOS PATRIMONIALES;41770
+2007;21208;5;;;INGRESOS PATRIMONIALES;69810
+2007;21211;5;;;INGRESOS PATRIMONIALES;-102533420
+2007;22101;5;;;INGRESOS PATRIMONIALES;70250
+2007;22102;5;;;INGRESOS PATRIMONIALES;7524290
+2007;23101;5;;;INGRESOS PATRIMONIALES;3274000
+2007;23225;5;;;INGRESOS PATRIMONIALES;20936550
+2007;23226;5;;;INGRESOS PATRIMONIALES;28300090
+2007;23228;5;;;INGRESOS PATRIMONIALES;47514710
+2007;23229;5;;;INGRESOS PATRIMONIALES;41659530
+2007;23230;5;;;INGRESOS PATRIMONIALES;2822410
+2007;23232;5;;;INGRESOS PATRIMONIALES;42770100
+2007;23233;5;;;INGRESOS PATRIMONIALES;929600
+2007;23234;5;;;INGRESOS PATRIMONIALES;22687000
+2007;23236;5;;;INGRESOS PATRIMONIALES;39225580
+2007;23237;5;;;INGRESOS PATRIMONIALES;4779160
+2007;24101;5;;;INGRESOS PATRIMONIALES;10140
+2007;24102;5;;;INGRESOS PATRIMONIALES;65010
+2007;24104;5;;;INGRESOS PATRIMONIALES;800000
+2007;24201;5;;;INGRESOS PATRIMONIALES;-9156000
+2007;24301;5;;;INGRESOS PATRIMONIALES;1998000
+2007;25103;5;;;INGRESOS PATRIMONIALES;7090000
+2007;25201;5;;;INGRESOS PATRIMONIALES;-4331000
+2007;26203;5;;;INGRESOS PATRIMONIALES;5310000
+2007;60001;5;;;INGRESOS PATRIMONIALES;1980972220
+2007;98001;5;;;INGRESOS PATRIMONIALES;1932513030
+2007;19102;50;;;Intereses de títulos y valores;94459760
+2007;22102;50;;;Intereses de títulos y valores;2580
+2007;60001;50;;;Intereses de títulos y valores;1785812280
+2007;19102;500;;;Del Estado;94459760
+2007;22102;500;;;Del Estado;590
+2007;60001;500;;;Del Estado;1765600930
+2007;60001;501;;;De organismos autónomos;484330
+2007;22102;504;;;De sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;1790
+2007;60001;504;;;De sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;3123030
+2007;60001;505;;;De Comunidades Autónomas;2574690
+2007;60001;506;;;De Corporaciones Locales y otros Entes Territoriales;22440
+2007;22102;507;;;De empresas privadas;200
+2007;60001;507;;;De empresas privadas;14006860
+2007;14113;51;;;Intereses de anticipos y préstamos concedidos;10
+2007;22102;51;;;Intereses de anticipos y préstamos concedidos;10
+2007;23230;51;;;Intereses de anticipos y préstamos concedidos;131610
+2007;23236;51;;;Intereses de anticipos y préstamos concedidos;2000
+2007;60001;51;;;Intereses de anticipos y préstamos concedidos;221480
+2007;98001;51;;;Intereses de anticipos y préstamos concedidos;160160000
+2007;23230;514;;;A sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;131610
+2007;98001;514;;;A sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;12160000
+2007;98001;514;;01;I.C.O.;12160000
+2007;23230;514;;99;Otros;131610
+2007;98001;517;;;A empresas privadas;2000000
+2007;14113;518;;;A familias e instituciones sin fines de lucro;10
+2007;22102;518;;;A familias e instituciones sin fines de lucro;10
+2007;23236;518;;;A familias e instituciones sin fines de lucro;2000
+2007;60001;518;;;A familias e instituciones sin fines de lucro;221480
+2007;98001;518;;;A familias e instituciones sin fines de lucro;1000000
+2007;98001;519;;;Al exterior;145000000
+2007;12301;52;;;Intereses de depósitos;300000
+2007;13102;52;;;Intereses de depósitos;51100
+2007;13301;52;;;Intereses de depósitos;350000
+2007;14104;52;;;Intereses de depósitos;30500
+2007;14107;52;;;Intereses de depósitos;10000
+2007;14113;52;;;Intereses de depósitos;2000000
+2007;14204;52;;;Intereses de depósitos;90000
+2007;14206;52;;;Intereses de depósitos;400000
+2007;14301;52;;;Intereses de depósitos;728000
+2007;15302;52;;;Intereses de depósitos;3531640
+2007;16101;52;;;Intereses de depósitos;556000
+2007;17238;52;;;Intereses de depósitos;30000
+2007;18137;52;;;Intereses de depósitos;11030
+2007;18202;52;;;Intereses de depósitos;3584280
+2007;18204;52;;;Intereses de depósitos;17330
+2007;18205;52;;;Intereses de depósitos;32000
+2007;18206;52;;;Intereses de depósitos;6000
+2007;19101;52;;;Intereses de depósitos;48080
+2007;19102;52;;;Intereses de depósitos;81600
+2007;19104;52;;;Intereses de depósitos;6650
+2007;19105;52;;;Intereses de depósitos;8160
+2007;19106;52;;;Intereses de depósitos;12020
+2007;19107;52;;;Intereses de depósitos;3060
+2007;19301;52;;;Intereses de depósitos;25000
+2007;20101;52;;;Intereses de depósitos;100000
+2007;20102;52;;;Intereses de depósitos;20000
+2007;20207;52;;;Intereses de depósitos;1000
+2007;20208;52;;;Intereses de depósitos;20000
+2007;20301;52;;;Intereses de depósitos;2040000
+2007;20302;52;;;Intereses de depósitos;219090
+2007;21211;52;;;Intereses de depósitos;50190
+2007;22101;52;;;Intereses de depósitos;3500
+2007;22102;52;;;Intereses de depósitos;6198800
+2007;23101;52;;;Intereses de depósitos;50000
+2007;23225;52;;;Intereses de depósitos;4000
+2007;23226;52;;;Intereses de depósitos;1000
+2007;23228;52;;;Intereses de depósitos;1000
+2007;23229;52;;;Intereses de depósitos;74280
+2007;23230;52;;;Intereses de depósitos;5000
+2007;23232;52;;;Intereses de depósitos;300000
+2007;23233;52;;;Intereses de depósitos;1600
+2007;23234;52;;;Intereses de depósitos;20000
+2007;23236;52;;;Intereses de depósitos;70000
+2007;23237;52;;;Intereses de depósitos;15000
+2007;24102;52;;;Intereses de depósitos;3000
+2007;24201;52;;;Intereses de depósitos;7000
+2007;24301;52;;;Intereses de depósitos;200000
+2007;25103;52;;;Intereses de depósitos;325000
+2007;25201;52;;;Intereses de depósitos;115000
+2007;60001;52;;;Intereses de depósitos;192148370
+2007;98001;52;;;Intereses de depósitos;467463030
+2007;12301;520;;;Intereses de cuentas bancarias;300000
+2007;13102;520;;;Intereses de cuentas bancarias;51100
+2007;13301;520;;;Intereses de cuentas bancarias;350000
+2007;14104;520;;;Intereses de cuentas bancarias;30500
+2007;14107;520;;;Intereses de cuentas bancarias;10000
+2007;14113;520;;;Intereses de cuentas bancarias;2000000
+2007;14204;520;;;Intereses de cuentas bancarias;90000
+2007;14206;520;;;Intereses de cuentas bancarias;400000
+2007;14301;520;;;Intereses de cuentas bancarias;728000
+2007;15302;520;;;Intereses de cuentas bancarias;3531640
+2007;16101;520;;;Intereses de cuentas bancarias;556000
+2007;17238;520;;;Intereses de cuentas bancarias;30000
+2007;18137;520;;;Intereses de cuentas bancarias;11030
+2007;18202;520;;;Intereses de cuentas bancarias;3584280
+2007;18204;520;;;Intereses de cuentas bancarias;17330
+2007;18205;520;;;Intereses de cuentas bancarias;32000
+2007;18206;520;;;Intereses de cuentas bancarias;6000
+2007;19101;520;;;Intereses de cuentas bancarias;48080
+2007;19102;520;;;Intereses de cuentas bancarias;81600
+2007;19104;520;;;Intereses de cuentas bancarias;6650
+2007;19105;520;;;Intereses de cuentas bancarias;8160
+2007;19106;520;;;Intereses de cuentas bancarias;12020
+2007;19107;520;;;Intereses de cuentas bancarias;3060
+2007;19301;520;;;Intereses de cuentas bancarias;25000
+2007;20101;520;;;Intereses de cuentas bancarias;100000
+2007;20102;520;;;Intereses de cuentas bancarias;20000
+2007;20207;520;;;Intereses de cuentas bancarias;1000
+2007;20208;520;;;Intereses de cuentas bancarias;20000
+2007;20301;520;;;Intereses de cuentas bancarias;2040000
+2007;20302;520;;;Intereses de cuentas bancarias;219090
+2007;21211;520;;;Intereses de cuentas bancarias;50190
+2007;22101;520;;;Intereses de cuentas bancarias;3500
+2007;22102;520;;;Intereses de cuentas bancarias;6198800
+2007;23101;520;;;Intereses de cuentas bancarias;50000
+2007;23225;520;;;Intereses de cuentas bancarias;4000
+2007;23226;520;;;Intereses de cuentas bancarias;1000
+2007;23228;520;;;Intereses de cuentas bancarias;1000
+2007;23229;520;;;Intereses de cuentas bancarias;74280
+2007;23230;520;;;Intereses de cuentas bancarias;5000
+2007;23232;520;;;Intereses de cuentas bancarias;300000
+2007;23233;520;;;Intereses de cuentas bancarias;1600
+2007;23234;520;;;Intereses de cuentas bancarias;20000
+2007;23236;520;;;Intereses de cuentas bancarias;70000
+2007;23237;520;;;Intereses de cuentas bancarias;15000
+2007;24102;520;;;Intereses de cuentas bancarias;3000
+2007;24201;520;;;Intereses de cuentas bancarias;7000
+2007;24301;520;;;Intereses de cuentas bancarias;200000
+2007;25103;520;;;Intereses de cuentas bancarias;325000
+2007;25201;520;;;Intereses de cuentas bancarias;115000
+2007;60001;520;;;Intereses de cuentas bancarias;189118540
+2007;98001;520;;;Intereses de cuentas bancarias;467463030
+2007;23229;520;;00;Intereses de las consignaciones judiciales;74280
+2007;23230;520;;00;Intereses de las consignaciones judiciales;5000
+2007;23232;520;;00;Intereses de las consignaciones judiciales;300000
+2007;23234;520;;00;Intereses de las consignaciones judiciales;20000
+2007;98001;520;;00;Intereses de las consignaciones judiciales;79463030
+2007;98001;520;;09;Intereses de la cuenta del Tesoro;375000000
+2007;12301;520;;99;Otros intereses de cuentas bancarias;300000
+2007;13301;520;;99;Otros intereses de cuentas bancarias;350000
+2007;14104;520;;99;Otros intereses de cuentas bancarias;30500
+2007;14107;520;;99;Otros intereses de cuentas bancarias;10000
+2007;14113;520;;99;Otros intereses de cuentas bancarias;2000000
+2007;14204;520;;99;Otros intereses de cuentas bancarias;90000
+2007;14206;520;;99;Otros intereses de cuentas bancarias;400000
+2007;14301;520;;99;Otros intereses de cuentas bancarias;728000
+2007;16101;520;;99;Otros intereses de cuentas bancarias;556000
+2007;18202;520;;99;Otros intereses de cuentas bancarias;3584280
+2007;18204;520;;99;Otros intereses de cuentas bancarias;17330
+2007;18205;520;;99;Otros intereses de cuentas bancarias;32000
+2007;19101;520;;99;Otros intereses de cuentas bancarias;48080
+2007;19102;520;;99;Otros intereses de cuentas bancarias;81600
+2007;19104;520;;99;Otros intereses de cuentas bancarias;6650
+2007;19105;520;;99;Otros intereses de cuentas bancarias;8160
+2007;19106;520;;99;Otros intereses de cuentas bancarias;12020
+2007;19107;520;;99;Otros intereses de cuentas bancarias;3060
+2007;19301;520;;99;Otros intereses de cuentas bancarias;25000
+2007;20101;520;;99;Otros intereses de cuentas bancarias;100000
+2007;20102;520;;99;Otros intereses de cuentas bancarias;20000
+2007;20207;520;;99;Otros intereses de cuentas bancarias;1000
+2007;20208;520;;99;Otros intereses de cuentas bancarias;20000
+2007;20301;520;;99;Otros intereses de cuentas bancarias;2040000
+2007;20302;520;;99;Otros intereses de cuentas bancarias;219090
+2007;21211;520;;99;Otros intereses de cuentas bancarias;50190
+2007;22101;520;;99;Otros intereses de cuentas bancarias;3500
+2007;22102;520;;99;Otros intereses de cuentas bancarias;6198800
+2007;23101;520;;99;Otros intereses de cuentas bancarias;50000
+2007;23225;520;;99;Otros intereses de cuentas bancarias;4000
+2007;23226;520;;99;Otros intereses de cuentas bancarias;1000
+2007;23228;520;;99;Otros intereses de cuentas bancarias;1000
+2007;23233;520;;99;Otros intereses de cuentas bancarias;1600
+2007;23236;520;;99;Otros intereses de cuentas bancarias;70000
+2007;23237;520;;99;Otros intereses de cuentas bancarias;15000
+2007;24201;520;;99;Otros intereses de cuentas bancarias;7000
+2007;24301;520;;99;Otros intereses de cuentas bancarias;200000
+2007;98001;520;;99;Otros intereses de cuentas bancarias;13000000
+2007;60001;529;;;Intereses de otros depósitos;3029830
+2007;14205;53;;;Dividendos y participaciones en beneficios;1200000
+2007;21211;53;;;Dividendos y participaciones en beneficios;4539730
+2007;22101;53;;;Dividendos y participaciones en beneficios;4000
+2007;22102;53;;;Dividendos y participaciones en beneficios;401800
+2007;60001;53;;;Dividendos y participaciones en beneficios;206020
+2007;98001;53;;;Dividendos y participaciones en beneficios;1297390000
+2007;14205;534;;;De sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;1200000
+2007;21211;534;;;De sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;4539730
+2007;98001;534;;;De sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;1297390000
+2007;98001;534;;03;Banco de España;1258360000
+2007;14205;534;;99;Otras participaciones en beneficios;1200000
+2007;21211;534;;99;Otras participaciones en beneficios;4539730
+2007;98001;534;;99;Otras participaciones en beneficios;39030000
+2007;22101;537;;;De empresas privadas;4000
+2007;22102;537;;;De empresas privadas;401800
+2007;60001;537;;;De empresas privadas;206020
+2007;13102;54;;;Rentas de bienes inmuebles;325400
+2007;14107;54;;;Rentas de bienes inmuebles;1120000
+2007;14113;54;;;Rentas de bienes inmuebles;215000
+2007;14204;54;;;Rentas de bienes inmuebles;116000
+2007;14205;54;;;Rentas de bienes inmuebles;340000
+2007;15105;54;;;Rentas de bienes inmuebles;9860
+2007;15202;54;;;Rentas de bienes inmuebles;286110
+2007;15302;54;;;Rentas de bienes inmuebles;8390
+2007;18101;54;;;Rentas de bienes inmuebles;117630
+2007;18204;54;;;Rentas de bienes inmuebles;17330
+2007;19102;54;;;Rentas de bienes inmuebles;629900
+2007;21211;54;;;Rentas de bienes inmuebles;81280
+2007;22101;54;;;Rentas de bienes inmuebles;62750
+2007;22102;54;;;Rentas de bienes inmuebles;921100
+2007;23225;54;;;Rentas de bienes inmuebles;10000
+2007;23226;54;;;Rentas de bienes inmuebles;3150
+2007;23229;54;;;Rentas de bienes inmuebles;4180
+2007;23230;54;;;Rentas de bienes inmuebles;16310
+2007;23234;54;;;Rentas de bienes inmuebles;1830
+2007;25103;54;;;Rentas de bienes inmuebles;6045000
+2007;60001;54;;;Rentas de bienes inmuebles;1578600
+2007;98001;54;;;Rentas de bienes inmuebles;3500000
+2007;13102;540;;;Alquiler y productos de inmuebles;325400
+2007;14113;540;;;Alquiler y productos de inmuebles;215000
+2007;14204;540;;;Alquiler y productos de inmuebles;116000
+2007;14205;540;;;Alquiler y productos de inmuebles;340000
+2007;15105;540;;;Alquiler y productos de inmuebles;9860
+2007;15202;540;;;Alquiler y productos de inmuebles;286110
+2007;15302;540;;;Alquiler y productos de inmuebles;8390
+2007;18101;540;;;Alquiler y productos de inmuebles;117630
+2007;18204;540;;;Alquiler y productos de inmuebles;17330
+2007;19102;540;;;Alquiler y productos de inmuebles;629900
+2007;21211;540;;;Alquiler y productos de inmuebles;81280
+2007;22102;540;;;Alquiler y productos de inmuebles;921100
+2007;23225;540;;;Alquiler y productos de inmuebles;10000
+2007;23226;540;;;Alquiler y productos de inmuebles;3150
+2007;23229;540;;;Alquiler y productos de inmuebles;4180
+2007;23230;540;;;Alquiler y productos de inmuebles;16310
+2007;23234;540;;;Alquiler y productos de inmuebles;1830
+2007;25103;540;;;Alquiler y productos de inmuebles;6045000
+2007;60001;540;;;Alquiler y productos de inmuebles;1578600
+2007;98001;540;;;Alquiler y productos de inmuebles;3500000
+2007;15105;540;;00;Alquiler de viviendas a funcionarios;2960
+2007;23225;540;;00;Alquiler de viviendas a funcionarios;10000
+2007;23230;540;;00;Alquiler de viviendas a funcionarios;16310
+2007;23234;540;;00;Alquiler de viviendas a funcionarios;1830
+2007;14204;540;;09;Otros alquileres de viviendas;116000
+2007;14205;540;;09;Otros alquileres de viviendas;340000
+2007;15105;540;;09;Otros alquileres de viviendas;6900
+2007;18101;540;;09;Otros alquileres de viviendas;117630
+2007;22102;540;;09;Otros alquileres de viviendas;241100
+2007;23226;540;;09;Otros alquileres de viviendas;3150
+2007;13102;540;;10;Alquiler de locales;325400
+2007;14113;540;;10;Alquiler de locales;215000
+2007;19102;540;;10;Alquiler de locales;629900
+2007;22102;540;;10;Alquiler de locales;545000
+2007;23229;540;;10;Alquiler de locales;4180
+2007;15302;540;;99;Otros productos de inmuebles;8390
+2007;18204;540;;99;Otros productos de inmuebles;17330
+2007;21211;540;;99;Otros productos de inmuebles;81280
+2007;22102;540;;99;Otros productos de inmuebles;135000
+2007;25103;540;;99;Otros productos de inmuebles;6045000
+2007;98001;540;;99;Otros productos de inmuebles;3500000
+2007;22101;542;;;Alquiler de aulas y otras instalaciones formativas.;62750
+2007;14107;549;;;Otras rentas;1120000
+2007;14107;55;;;Productos de concesiones y aprovechamientos especiales;8000
+2007;15302;55;;;Productos de concesiones y aprovechamientos especiales;23000
+2007;18137;55;;;Productos de concesiones y aprovechamientos especiales;16650
+2007;20208;55;;;Productos de concesiones y aprovechamientos especiales;17379070
+2007;23101;55;;;Productos de concesiones y aprovechamientos especiales;3224000
+2007;23225;55;;;Productos de concesiones y aprovechamientos especiales;60000
+2007;23226;55;;;Productos de concesiones y aprovechamientos especiales;36000
+2007;23228;55;;;Productos de concesiones y aprovechamientos especiales;973260
+2007;23229;55;;;Productos de concesiones y aprovechamientos especiales;14850
+2007;23232;55;;;Productos de concesiones y aprovechamientos especiales;150000
+2007;23234;55;;;Productos de concesiones y aprovechamientos especiales;160570
+2007;24101;55;;;Productos de concesiones y aprovechamientos especiales;10140
+2007;24102;55;;;Productos de concesiones y aprovechamientos especiales;62010
+2007;24104;55;;;Productos de concesiones y aprovechamientos especiales;800000
+2007;24201;55;;;Productos de concesiones y aprovechamientos especiales;37000
+2007;24301;55;;;Productos de concesiones y aprovechamientos especiales;1798000
+2007;25103;55;;;Productos de concesiones y aprovechamientos especiales;460000
+2007;60001;55;;;Productos de concesiones y aprovechamientos especiales;134640
+2007;98001;55;;;Productos de concesiones y aprovechamientos especiales;4000000
+2007;18137;550;;;De concesiones administrativas;16650
+2007;20208;550;;;De concesiones administrativas;17379070
+2007;23101;550;;;De concesiones administrativas;24000
+2007;23228;550;;;De concesiones administrativas;124220
+2007;23229;550;;;De concesiones administrativas;14850
+2007;23234;550;;;De concesiones administrativas;50000
+2007;24101;550;;;De concesiones administrativas;10140
+2007;24102;550;;;De concesiones administrativas;62010
+2007;24104;550;;;De concesiones administrativas;800000
+2007;24301;550;;;De concesiones administrativas;1537860
+2007;60001;550;;;De concesiones administrativas;134640
+2007;98001;550;;;De concesiones administrativas;2000000
+2007;23101;551;;;Aprovechamientos agrícolas y forestales;2900000
+2007;23225;551;;;Aprovechamientos agrícolas y forestales;60000
+2007;23228;551;;;Aprovechamientos agrícolas y forestales;848040
+2007;23234;551;;;Aprovechamientos agrícolas y forestales;110570
+2007;23226;555;;;Aprovechamientos agrícolas y forestales;36000
+2007;14107;559;;;Otras concesiones y aprovechamientos;8000
+2007;15302;559;;;Otras concesiones y aprovechamientos;23000
+2007;23101;559;;;Otras concesiones y aprovechamientos;300000
+2007;23228;559;;;Otras concesiones y aprovechamientos;1000
+2007;23232;559;;;Otras concesiones y aprovechamientos;150000
+2007;24201;559;;;Otras concesiones y aprovechamientos;37000
+2007;24301;559;;;Otras concesiones y aprovechamientos;260140
+2007;25103;559;;;Otras concesiones y aprovechamientos;460000
+2007;98001;559;;;Otras concesiones y aprovechamientos;2000000
+2007;12301;57;;;Resultados de operaciones comerciales;3000000
+2007;14204;57;;;Resultados de operaciones comerciales;10169600
+2007;14205;57;;;Resultados de operaciones comerciales;21000000
+2007;14206;57;;;Resultados de operaciones comerciales;-4945000
+2007;15202;57;;;Resultados de operaciones comerciales;1500000
+2007;16201;57;;;Resultados de operaciones comerciales;1551410
+2007;17238;57;;;Resultados de operaciones comerciales;10500000
+2007;17239;57;;;Resultados de operaciones comerciales;2000000
+2007;18201;57;;;Resultados de operaciones comerciales;70000
+2007;18202;57;;;Resultados de operaciones comerciales;4264040
+2007;18203;57;;;Resultados de operaciones comerciales;524610
+2007;18204;57;;;Resultados de operaciones comerciales;330750
+2007;18205;57;;;Resultados de operaciones comerciales;1100000
+2007;18206;57;;;Resultados de operaciones comerciales;844800
+2007;20207;57;;;Resultados de operaciones comerciales;70000
+2007;20208;57;;;Resultados de operaciones comerciales;6600000
+2007;21211;57;;;Resultados de operaciones comerciales;-107951450
+2007;23225;57;;;Resultados de operaciones comerciales;14600000
+2007;23226;57;;;Resultados de operaciones comerciales;19668090
+2007;23228;57;;;Resultados de operaciones comerciales;45450180
+2007;23229;57;;;Resultados de operaciones comerciales;22756090
+2007;23230;57;;;Resultados de operaciones comerciales;4050000
+2007;23232;57;;;Resultados de operaciones comerciales;31827840
+2007;23233;57;;;Resultados de operaciones comerciales;918000
+2007;23234;57;;;Resultados de operaciones comerciales;20975010
+2007;23236;57;;;Resultados de operaciones comerciales;20343300
+2007;23237;57;;;Resultados de operaciones comerciales;4637060
+2007;24201;57;;;Resultados de operaciones comerciales;-16800000
+2007;25201;57;;;Resultados de operaciones comerciales;-4650000
+2007;26203;57;;;Resultados de operaciones comerciales;1310000
+2007;12301;570;;;Resultados de operaciones comerciales;3000000
+2007;14204;570;;;Resultados de operaciones comerciales;10169600
+2007;14205;570;;;Resultados de operaciones comerciales;21000000
+2007;14206;570;;;Resultados de operaciones comerciales;-4945000
+2007;15202;570;;;Resultados de operaciones comerciales;1500000
+2007;16201;570;;;Resultados de operaciones comerciales;1551410
+2007;17238;570;;;Resultados de operaciones comerciales;10500000
+2007;17239;570;;;Resultados de operaciones comerciales;2000000
+2007;18201;570;;;Resultados de operaciones comerciales;70000
+2007;18202;570;;;Resultados de operaciones comerciales;4264040
+2007;18203;570;;;Resultados de operaciones comerciales;524610
+2007;18204;570;;;Resultados de operaciones comerciales;330750
+2007;18205;570;;;Resultados de operaciones comerciales;1100000
+2007;18206;570;;;Resultados de operaciones comerciales;844800
+2007;20207;570;;;Resultados de operaciones comerciales;70000
+2007;20208;570;;;Resultados de operaciones comerciales;6600000
+2007;21211;570;;;Resultados de operaciones comerciales;-107951450
+2007;23225;570;;;Resultados de operaciones comerciales;14600000
+2007;23226;570;;;Resultados de operaciones comerciales;19668090
+2007;23228;570;;;Resultados de operaciones comerciales;45450180
+2007;23229;570;;;Resultados de operaciones comerciales;22756090
+2007;23230;570;;;Resultados de operaciones comerciales;4050000
+2007;23232;570;;;Resultados de operaciones comerciales;31827840
+2007;23233;570;;;Resultados de operaciones comerciales;918000
+2007;23234;570;;;Resultados de operaciones comerciales;20975010
+2007;23236;570;;;Resultados de operaciones comerciales;20343300
+2007;23237;570;;;Resultados de operaciones comerciales;4637060
+2007;24201;570;;;Resultados de operaciones comerciales;-16800000
+2007;25201;570;;;Resultados de operaciones comerciales;-4650000
+2007;26203;570;;;Resultados de operaciones comerciales;1310000
+2007;12301;58;;;Variación del fondo de maniobra;4251050
+2007;14204;58;;;Variación del fondo de maniobra;-1940760
+2007;14205;58;;;Variación del fondo de maniobra;12390780
+2007;14206;58;;;Variación del fondo de maniobra;-12293930
+2007;15202;58;;;Variación del fondo de maniobra;9700000
+2007;17238;58;;;Variación del fondo de maniobra;8467570
+2007;17239;58;;;Variación del fondo de maniobra;535500
+2007;18201;58;;;Variación del fondo de maniobra;842730
+2007;18202;58;;;Variación del fondo de maniobra;15850570
+2007;18203;58;;;Variación del fondo de maniobra;23183320
+2007;18204;58;;;Variación del fondo de maniobra;7000000
+2007;18205;58;;;Variación del fondo de maniobra;7232720
+2007;18206;58;;;Variación del fondo de maniobra;1832920
+2007;19201;58;;;Variación del fondo de maniobra;1322120
+2007;20207;58;;;Variación del fondo de maniobra;614170
+2007;20208;58;;;Variación del fondo de maniobra;20000000
+2007;21207;58;;;Variación del fondo de maniobra;41770
+2007;21208;58;;;Variación del fondo de maniobra;69810
+2007;21211;58;;;Variación del fondo de maniobra;746830
+2007;23225;58;;;Variación del fondo de maniobra;6262550
+2007;23226;58;;;Variación del fondo de maniobra;8591850
+2007;23228;58;;;Variación del fondo de maniobra;955440
+2007;23229;58;;;Variación del fondo de maniobra;18806170
+2007;23230;58;;;Variación del fondo de maniobra;-1380510
+2007;23232;58;;;Variación del fondo de maniobra;10192260
+2007;23233;58;;;Variación del fondo de maniobra;10000
+2007;23234;58;;;Variación del fondo de maniobra;1529590
+2007;23236;58;;;Variación del fondo de maniobra;18718280
+2007;23237;58;;;Variación del fondo de maniobra;112100
+2007;24201;58;;;Variación del fondo de maniobra;7600000
+2007;25201;58;;;Variación del fondo de maniobra;204000
+2007;26203;58;;;Variación del fondo de maniobra;4000000
+2007;12301;580;;;Variación del fondo de maniobra;4251050
+2007;14204;580;;;Variación del fondo de maniobra;-1940760
+2007;14205;580;;;Variación del fondo de maniobra;12390780
+2007;14206;580;;;Variación del fondo de maniobra;-12293930
+2007;15202;580;;;Variación del fondo de maniobra;9700000
+2007;17238;580;;;Variación del fondo de maniobra;8467570
+2007;17239;580;;;Variación del fondo de maniobra;535500
+2007;18201;580;;;Variación del fondo de maniobra;842730
+2007;18202;580;;;Variación del fondo de maniobra;15850570
+2007;18203;580;;;Variación del fondo de maniobra;23183320
+2007;18204;580;;;Variación del fondo de maniobra;7000000
+2007;18205;580;;;Variación del fondo de maniobra;7232720
+2007;18206;580;;;Variación del fondo de maniobra;1832920
+2007;19201;580;;;Variación del fondo de maniobra;1322120
+2007;20207;580;;;Variación del fondo de maniobra;614170
+2007;20208;580;;;Variación del fondo de maniobra;20000000
+2007;21207;580;;;Variación del fondo de maniobra;41770
+2007;21208;580;;;Variación del fondo de maniobra;69810
+2007;21211;580;;;Variación del fondo de maniobra;746830
+2007;23225;580;;;Variación del fondo de maniobra;6262550
+2007;23226;580;;;Variación del fondo de maniobra;8591850
+2007;23228;580;;;Variación del fondo de maniobra;955440
+2007;23229;580;;;Variación del fondo de maniobra;18806170
+2007;23230;580;;;Variación del fondo de maniobra;-1380510
+2007;23232;580;;;Variación del fondo de maniobra;10192260
+2007;23233;580;;;Variación del fondo de maniobra;10000
+2007;23234;580;;;Variación del fondo de maniobra;1529590
+2007;23236;580;;;Variación del fondo de maniobra;18718280
+2007;23237;580;;;Variación del fondo de maniobra;112100
+2007;24201;580;;;Variación del fondo de maniobra;7600000
+2007;25201;580;;;Variación del fondo de maniobra;204000
+2007;26203;580;;;Variación del fondo de maniobra;4000000
+2007;14104;59;;;Otros ingresos patrimoniales;13220
+2007;14107;59;;;Otros ingresos patrimoniales;12000
+2007;14206;59;;;Otros ingresos patrimoniales;140000
+2007;15202;59;;;Otros ingresos patrimoniales;200170
+2007;16101;59;;;Otros ingresos patrimoniales;30050
+2007;19101;59;;;Otros ingresos patrimoniales;76920
+2007;20301;59;;;Otros ingresos patrimoniales;65040
+2007;23228;59;;;Otros ingresos patrimoniales;134830
+2007;23229;59;;;Otros ingresos patrimoniales;3960
+2007;23232;59;;;Otros ingresos patrimoniales;300000
+2007;23236;59;;;Otros ingresos patrimoniales;92000
+2007;23237;59;;;Otros ingresos patrimoniales;15000
+2007;25103;59;;;Otros ingresos patrimoniales;260000
+2007;60001;59;;;Otros ingresos patrimoniales;870830
+2007;14104;592;;;Otros;13220
+2007;14206;592;;;Otros;140000
+2007;23229;592;;;Otros;3960
+2007;23236;592;;;Otros;92000
+2007;14107;599;;;Otros;12000
+2007;15202;599;;;Otros;200170
+2007;16101;599;;;Otros;30050
+2007;19101;599;;;Otros;76920
+2007;20301;599;;;Otros;65040
+2007;23228;599;;;Otros;134830
+2007;23232;599;;;Otros;300000
+2007;23237;599;;;Otros;15000
+2007;25103;599;;;Otros;260000
+2007;60001;599;;;Otros;870830
+2007;14104;6;;;ENAJENACION DE INVERSIONES REALES;710000
+2007;14107;6;;;ENAJENACION DE INVERSIONES REALES;180000000
+2007;14206;6;;;ENAJENACION DE INVERSIONES REALES;220504000
+2007;15202;6;;;ENAJENACION DE INVERSIONES REALES;214000
+2007;16101;6;;;ENAJENACION DE INVERSIONES REALES;330560
+2007;16102;6;;;ENAJENACION DE INVERSIONES REALES;24040490
+2007;18206;6;;;ENAJENACION DE INVERSIONES REALES;166190
+2007;19101;6;;;ENAJENACION DE INVERSIONES REALES;1800
+2007;19102;6;;;ENAJENACION DE INVERSIONES REALES;4220730
+2007;19105;6;;;ENAJENACION DE INVERSIONES REALES;71400
+2007;20208;6;;;ENAJENACION DE INVERSIONES REALES;900000
+2007;22102;6;;;ENAJENACION DE INVERSIONES REALES;12020240
+2007;23229;6;;;ENAJENACION DE INVERSIONES REALES;6970
+2007;23237;6;;;ENAJENACION DE INVERSIONES REALES;60000
+2007;25201;6;;;ENAJENACION DE INVERSIONES REALES;13120
+2007;60001;6;;;ENAJENACION DE INVERSIONES REALES;559840
+2007;98001;6;;;ENAJENACION DE INVERSIONES REALES;109000000
+2007;14107;60;;;De terrenos;180000000
+2007;98001;60;;;De terrenos;9000000
+2007;14107;600;;;Venta de solares;180000000
+2007;98001;600;;;Venta de solares;8000000
+2007;98001;601;;;Venta de fincas rústicas;1000000
+2007;14104;61;;;De las demás inversiones reales;710000
+2007;14206;61;;;De las demás inversiones reales;220504000
+2007;15202;61;;;De las demás inversiones reales;214000
+2007;16101;61;;;De las demás inversiones reales;330560
+2007;16102;61;;;De las demás inversiones reales;24040490
+2007;18206;61;;;De las demás inversiones reales;6990
+2007;19101;61;;;De las demás inversiones reales;1800
+2007;19102;61;;;De las demás inversiones reales;4220730
+2007;22102;61;;;De las demás inversiones reales;12020240
+2007;23229;61;;;De las demás inversiones reales;6970
+2007;23237;61;;;De las demás inversiones reales;60000
+2007;25201;61;;;De las demás inversiones reales;13120
+2007;60001;61;;;De las demás inversiones reales;559840
+2007;98001;61;;;De las demás inversiones reales;9000000
+2007;18206;616;;;Enajenación de bienes destinados a uso general;6990
+2007;14104;619;;;Venta de otras inversiones reales;710000
+2007;14206;619;;;Venta de otras inversiones reales;220504000
+2007;15202;619;;;Venta de otras inversiones reales;214000
+2007;16101;619;;;Venta de otras inversiones reales;330560
+2007;16102;619;;;Venta de otras inversiones reales;24040490
+2007;19101;619;;;Venta de otras inversiones reales;1800
+2007;19102;619;;;Venta de otras inversiones reales;4220730
+2007;22102;619;;;Venta de otras inversiones reales;12020240
+2007;23229;619;;;Venta de otras inversiones reales;6970
+2007;23237;619;;;Venta de otras inversiones reales;60000
+2007;25201;619;;;Venta de otras inversiones reales;13120
+2007;60001;619;;;Venta de otras inversiones reales;559840
+2007;98001;619;;;Venta de otras inversiones reales;9000000
+2007;18206;68;;;Reintegros por operaciones de capital;159200
+2007;19105;68;;;Reintegros por operaciones de capital;71400
+2007;20208;68;;;Reintegros por operaciones de capital;900000
+2007;98001;68;;;Reintegros por operaciones de capital;91000000
+2007;18206;680;;;De ejercicios cerrados;159200
+2007;19105;680;;;De ejercicios cerrados;71400
+2007;20208;680;;;De ejercicios cerrados;900000
+2007;98001;680;;;De ejercicios cerrados;90000000
+2007;98001;681;;;Del presupuesto corriente;1000000
+2007;12103;7;;;TRANSFERENCIAS DE CAPITAL;73319090
+2007;12301;7;;;TRANSFERENCIAS DE CAPITAL;14900000
+2007;13101;7;;;TRANSFERENCIAS DE CAPITAL;97050
+2007;14104;7;;;TRANSFERENCIAS DE CAPITAL;1957700
+2007;14111;7;;;TRANSFERENCIAS DE CAPITAL;1451640
+2007;14205;7;;;TRANSFERENCIAS DE CAPITAL;50186690
+2007;14301;7;;;TRANSFERENCIAS DE CAPITAL;43479880
+2007;15101;7;;;TRANSFERENCIAS DE CAPITAL;858230
+2007;15102;7;;;TRANSFERENCIAS DE CAPITAL;363190
+2007;15103;7;;;TRANSFERENCIAS DE CAPITAL;126220
+2007;15105;7;;;TRANSFERENCIAS DE CAPITAL;68998580
+2007;15202;7;;;TRANSFERENCIAS DE CAPITAL;5744000
+2007;15302;7;;;TRANSFERENCIAS DE CAPITAL;46028120
+2007;16102;7;;;TRANSFERENCIAS DE CAPITAL;3000000
+2007;16201;7;;;TRANSFERENCIAS DE CAPITAL;3850190
+2007;17238;7;;;TRANSFERENCIAS DE CAPITAL;15104170
+2007;17239;7;;;TRANSFERENCIAS DE CAPITAL;4752520
+2007;18101;7;;;TRANSFERENCIAS DE CAPITAL;51554220
+2007;18102;7;;;TRANSFERENCIAS DE CAPITAL;10380
+2007;18137;7;;;TRANSFERENCIAS DE CAPITAL;264040
+2007;18201;7;;;TRANSFERENCIAS DE CAPITAL;4686260
+2007;18202;7;;;TRANSFERENCIAS DE CAPITAL;196700890
+2007;18203;7;;;TRANSFERENCIAS DE CAPITAL;43301360
+2007;18204;7;;;TRANSFERENCIAS DE CAPITAL;33999920
+2007;18205;7;;;TRANSFERENCIAS DE CAPITAL;18625910
+2007;18206;7;;;TRANSFERENCIAS DE CAPITAL;16255060
+2007;19104;7;;;TRANSFERENCIAS DE CAPITAL;2878870
+2007;19105;7;;;TRANSFERENCIAS DE CAPITAL;2839150
+2007;19106;7;;;TRANSFERENCIAS DE CAPITAL;66370
+2007;19107;7;;;TRANSFERENCIAS DE CAPITAL;26540
+2007;19201;7;;;TRANSFERENCIAS DE CAPITAL;3240830
+2007;19301;7;;;TRANSFERENCIAS DE CAPITAL;552000
+2007;20101;7;;;TRANSFERENCIAS DE CAPITAL;353735780
+2007;20207;7;;;TRANSFERENCIAS DE CAPITAL;3861330
+2007;20208;7;;;TRANSFERENCIAS DE CAPITAL;65155370
+2007;20301;7;;;TRANSFERENCIAS DE CAPITAL;152277380
+2007;20302;7;;;TRANSFERENCIAS DE CAPITAL;130800
+2007;21112;7;;;TRANSFERENCIAS DE CAPITAL;696000
+2007;21207;7;;;TRANSFERENCIAS DE CAPITAL;2607940
+2007;21208;7;;;TRANSFERENCIAS DE CAPITAL;16398950
+2007;21211;7;;;TRANSFERENCIAS DE CAPITAL;569024000
+2007;22101;7;;;TRANSFERENCIAS DE CAPITAL;663000
+2007;22401;7;;;TRANSFERENCIAS DE CAPITAL;450000
+2007;23101;7;;;TRANSFERENCIAS DE CAPITAL;76139010
+2007;23225;7;;;TRANSFERENCIAS DE CAPITAL;11937770
+2007;23226;7;;;TRANSFERENCIAS DE CAPITAL;14126230
+2007;23228;7;;;TRANSFERENCIAS DE CAPITAL;222077600
+2007;23229;7;;;TRANSFERENCIAS DE CAPITAL;89748760
+2007;23230;7;;;TRANSFERENCIAS DE CAPITAL;61186800
+2007;23232;7;;;TRANSFERENCIAS DE CAPITAL;32306260
+2007;23233;7;;;TRANSFERENCIAS DE CAPITAL;239644060
+2007;23234;7;;;TRANSFERENCIAS DE CAPITAL;75457070
+2007;23236;7;;;TRANSFERENCIAS DE CAPITAL;61600000
+2007;23237;7;;;TRANSFERENCIAS DE CAPITAL;974410
+2007;24101;7;;;TRANSFERENCIAS DE CAPITAL;2453030
+2007;24102;7;;;TRANSFERENCIAS DE CAPITAL;18573930
+2007;24103;7;;;TRANSFERENCIAS DE CAPITAL;117807340
+2007;24104;7;;;TRANSFERENCIAS DE CAPITAL;23615900
+2007;24201;7;;;TRANSFERENCIAS DE CAPITAL;15776350
+2007;24301;7;;;TRANSFERENCIAS DE CAPITAL;4503190
+2007;25101;7;;;TRANSFERENCIAS DE CAPITAL;55650
+2007;25102;7;;;TRANSFERENCIAS DE CAPITAL;125000
+2007;25103;7;;;TRANSFERENCIAS DE CAPITAL;45051000
+2007;26102;7;;;TRANSFERENCIAS DE CAPITAL;777440
+2007;26104;7;;;TRANSFERENCIAS DE CAPITAL;1839000
+2007;26105;7;;;TRANSFERENCIAS DE CAPITAL;253680
+2007;26203;7;;;TRANSFERENCIAS DE CAPITAL;196727690
+2007;60001;7;;;TRANSFERENCIAS DE CAPITAL;558559180
+2007;98001;7;;;TRANSFERENCIAS DE CAPITAL;1598000000
+2007;12103;70;;;De la Administración del Estado;73319090
+2007;12301;70;;;De la Administración del Estado;14900000
+2007;13101;70;;;De la Administración del Estado;97050
+2007;14104;70;;;De la Administración del Estado;1957700
+2007;14111;70;;;De la Administración del Estado;1451640
+2007;14205;70;;;De la Administración del Estado;50186690
+2007;14301;70;;;De la Administración del Estado;43479880
+2007;15101;70;;;De la Administración del Estado;858230
+2007;15102;70;;;De la Administración del Estado;363190
+2007;15103;70;;;De la Administración del Estado;126220
+2007;15105;70;;;De la Administración del Estado;68998580
+2007;15202;70;;;De la Administración del Estado;5744000
+2007;15302;70;;;De la Administración del Estado;46028120
+2007;16201;70;;;De la Administración del Estado;3850190
+2007;17238;70;;;De la Administración del Estado;15104170
+2007;17239;70;;;De la Administración del Estado;4652520
+2007;18101;70;;;De la Administración del Estado;45582700
+2007;18102;70;;;De la Administración del Estado;10380
+2007;18137;70;;;De la Administración del Estado;264040
+2007;18201;70;;;De la Administración del Estado;4218080
+2007;18202;70;;;De la Administración del Estado;179455890
+2007;18203;70;;;De la Administración del Estado;43296360
+2007;18204;70;;;De la Administración del Estado;33999920
+2007;18205;70;;;De la Administración del Estado;18625910
+2007;18206;70;;;De la Administración del Estado;11271340
+2007;19104;70;;;De la Administración del Estado;2878870
+2007;19105;70;;;De la Administración del Estado;2839150
+2007;19106;70;;;De la Administración del Estado;66370
+2007;19107;70;;;De la Administración del Estado;26540
+2007;19201;70;;;De la Administración del Estado;3240830
+2007;19301;70;;;De la Administración del Estado;552000
+2007;20101;70;;;De la Administración del Estado;346735780
+2007;20207;70;;;De la Administración del Estado;3861330
+2007;20208;70;;;De la Administración del Estado;65155370
+2007;20301;70;;;De la Administración del Estado;152277380
+2007;20302;70;;;De la Administración del Estado;130800
+2007;21112;70;;;De la Administración del Estado;696000
+2007;21207;70;;;De la Administración del Estado;2607940
+2007;21208;70;;;De la Administración del Estado;16398950
+2007;21211;70;;;De la Administración del Estado;26500000
+2007;22101;70;;;De la Administración del Estado;663000
+2007;22401;70;;;De la Administración del Estado;450000
+2007;23101;70;;;De la Administración del Estado;76139010
+2007;23225;70;;;De la Administración del Estado;8594770
+2007;23226;70;;;De la Administración del Estado;11379000
+2007;23228;70;;;De la Administración del Estado;7383310
+2007;23229;70;;;De la Administración del Estado;39748760
+2007;23230;70;;;De la Administración del Estado;12823670
+2007;23232;70;;;De la Administración del Estado;14176260
+2007;23233;70;;;De la Administración del Estado;15833010
+2007;23234;70;;;De la Administración del Estado;14189070
+2007;23237;70;;;De la Administración del Estado;974410
+2007;24101;70;;;De la Administración del Estado;2453030
+2007;24102;70;;;De la Administración del Estado;18573930
+2007;24103;70;;;De la Administración del Estado;107107340
+2007;24104;70;;;De la Administración del Estado;23615900
+2007;24201;70;;;De la Administración del Estado;15776350
+2007;24301;70;;;De la Administración del Estado;4503190
+2007;25101;70;;;De la Administración del Estado;55650
+2007;25102;70;;;De la Administración del Estado;125000
+2007;25103;70;;;De la Administración del Estado;41551000
+2007;26102;70;;;De la Administración del Estado;777440
+2007;26104;70;;;De la Administración del Estado;1839000
+2007;26105;70;;;De la Administración del Estado;253680
+2007;26203;70;;;De la Administración del Estado;85227690
+2007;60001;70;;;De la Administración del Estado;120582790
+2007;12301;700;;;Del departamento al que está adscrito;14900000
+2007;13101;700;;;Del departamento al que está adscrito;97050
+2007;14104;700;;;Del departamento al que está adscrito;1957700
+2007;14111;700;;;Del departamento al que está adscrito;1451640
+2007;14205;700;;;Del departamento al que está adscrito;50186690
+2007;14301;700;;;Del departamento al que está adscrito;43479880
+2007;15101;700;;;Del departamento al que está adscrito;858230
+2007;15102;700;;;Del departamento al que está adscrito;363190
+2007;15103;700;;;Del departamento al que está adscrito;126220
+2007;15105;700;;;Del departamento al que está adscrito;68998580
+2007;15302;700;;;Del departamento al que está adscrito;46028120
+2007;16201;700;;;Del departamento al que está adscrito;3850190
+2007;17238;700;;;Del departamento al que está adscrito;15104170
+2007;17239;700;;;Del departamento al que está adscrito;3060000
+2007;18101;700;;;Del departamento al que está adscrito;45582700
+2007;18102;700;;;Del departamento al que está adscrito;10380
+2007;18137;700;;;Del departamento al que está adscrito;264040
+2007;18201;700;;;Del departamento al que está adscrito;4218080
+2007;18202;700;;;Del departamento al que está adscrito;179455890
+2007;18203;700;;;Del departamento al que está adscrito;43296360
+2007;18204;700;;;Del departamento al que está adscrito;33999920
+2007;18205;700;;;Del departamento al que está adscrito;18625910
+2007;18206;700;;;Del departamento al que está adscrito;11271340
+2007;19104;700;;;Del departamento al que está adscrito;2878870
+2007;19105;700;;;Del departamento al que está adscrito;2839150
+2007;19106;700;;;Del departamento al que está adscrito;66370
+2007;19107;700;;;Del departamento al que está adscrito;26540
+2007;19201;700;;;Del departamento al que está adscrito;3240830
+2007;19301;700;;;Del departamento al que está adscrito;552000
+2007;20101;700;;;Del departamento al que está adscrito;346735780
+2007;20207;700;;;Del departamento al que está adscrito;3861330
+2007;20208;700;;;Del departamento al que está adscrito;65155370
+2007;20301;700;;;Del departamento al que está adscrito;152277380
+2007;20302;700;;;Del departamento al que está adscrito;130800
+2007;21112;700;;;Del departamento al que está adscrito;696000
+2007;21207;700;;;Del departamento al que está adscrito;2607940
+2007;21208;700;;;Del departamento al que está adscrito;16398950
+2007;21211;700;;;Del departamento al que está adscrito;26500000
+2007;22101;700;;;Del departamento al que está adscrito;663000
+2007;22401;700;;;Del departamento al que está adscrito;450000
+2007;23101;700;;;Del departamento al que está adscrito;76139010
+2007;23225;700;;;Del departamento al que está adscrito;8594770
+2007;23226;700;;;Del departamento al que está adscrito;11379000
+2007;23228;700;;;Del departamento al que está adscrito;7383310
+2007;23229;700;;;Del departamento al que está adscrito;39748760
+2007;23230;700;;;Del departamento al que está adscrito;12823670
+2007;23232;700;;;Del departamento al que está adscrito;14176260
+2007;23233;700;;;Del departamento al que está adscrito;15833010
+2007;23234;700;;;Del departamento al que está adscrito;14189070
+2007;23237;700;;;Del departamento al que está adscrito;974410
+2007;24101;700;;;Del departamento al que está adscrito;2453030
+2007;24102;700;;;Del departamento al que está adscrito;18573930
+2007;24104;700;;;Del departamento al que está adscrito;23615900
+2007;24201;700;;;Del departamento al que está adscrito;15776350
+2007;24301;700;;;Del departamento al que está adscrito;4503190
+2007;25101;700;;;Del departamento al que está adscrito;55650
+2007;25102;700;;;Del departamento al que está adscrito;125000
+2007;25103;700;;;Del departamento al que está adscrito;41551000
+2007;26102;700;;;Del departamento al que está adscrito;777440
+2007;26104;700;;;Del departamento al que está adscrito;1839000
+2007;26105;700;;;Del departamento al que está adscrito;253680
+2007;26203;700;;;Del departamento al que está adscrito;85227690
+2007;60001;700;;;Del departamento al que está adscrito;99594470
+2007;18101;700;;00;Del Ministerio de Educación y Ciencia;45582700
+2007;18202;700;;00;Del departamento al que está adscrito;172648140
+2007;18203;700;;00;Subvención ordinaria;24900810
+2007;21112;700;;00;Para gastos de capital.;696000
+2007;26203;700;;00;Para atenciones generales.;70227690
+2007;18202;700;;01;Para el equipamiento del buque oceanográfico Sarmiento de Gamboa;6000000
+2007;18203;700;;01;Del Departamento, para la Fundación Ciudad de la Energía;18395550
+2007;26203;700;;01;Para el desarrollo del Plan de Calidad d el Sistema Nacional de Salud a traves de la Agencia de Evalución de Tecnologías Sanitarias.;15000000
+2007;18202;700;;02;Para promoción, desarrollo, equipamiento y explotación de instrumentos, líneas e instalaciones científicas;307750
+2007;18202;700;;03;Para la construcción del Centro de Ciencias Físicas de Benasque;500000
+2007;14111;700;;05;Para investigación científica e información de base;1451640
+2007;14205;700;;05;Para investigación científica e información de base;50186690
+2007;14104;700;;08;Para conservación de instalaciones y medios;1957700
+2007;15202;701;;;De otros departamentos ministeriales;5744000
+2007;17239;701;;;De otros departamentos ministeriales;1592520
+2007;60001;701;;;De otros departamentos ministeriales;20988320
+2007;17239;701;;00;Del Ministerio de Medio Ambiente;1000000
+2007;17239;701;;01;Del Ministerio de Defensa;148130
+2007;17239;701;;02;Del Ministerio de Economía y Hacienda;148130
+2007;17239;701;;03;Del Ministerio de Vivienda;296260
+2007;24103;702;;;Del Departamento al que está adscrito;107107340
+2007;12103;704;;;Para atender gastos derivados de proyectos de ayuda oficial al desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;73319090
+2007;18202;71;;;De organismos autónomos;245000
+2007;18203;71;;;De organismos autónomos;5000
+2007;18202;710;;;Transferencias de capital de organismos autónomos;245000
+2007;18203;710;;;Transferencias de capital de organismos autónomos;5000
+2007;18203;710;;01;Del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA);5000
+2007;60001;72;;;De la Seguridad Social;420827580
+2007;60001;720;;;Transferencias de capital de la Seguridad Social;420827580
+2007;18101;74;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.;4471520
+2007;18206;74;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.;4535180
+2007;23234;74;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.;4018000
+2007;18101;740;;;De sociedades mercantiles estatales;4471520
+2007;18206;740;;;De sociedades mercantiles estatales;4535180
+2007;23234;740;;;De sociedades mercantiles estatales;4000000
+2007;23234;749;;;De otros organismos públicos;18000
+2007;18101;75;;;De Comunidades Autónomas;500000
+2007;18201;75;;;De Comunidades Autónomas;468180
+2007;21211;75;;;De Comunidades Autónomas;2524000
+2007;23225;75;;;De Comunidades Autónomas;766000
+2007;23226;75;;;De Comunidades Autónomas;845310
+2007;23230;75;;;De Comunidades Autónomas;10326280
+2007;23232;75;;;De Comunidades Autónomas;5300000
+2007;23233;75;;;De Comunidades Autónomas;19745000
+2007;23234;75;;;De Comunidades Autónomas;6000000
+2007;98001;75;;;De Comunidades Autónomas;8000000
+2007;98001;750;;;Transferencias de capital de Comunidades Autónomas;8000000
+2007;18101;750/18101;;;De Comunidades Autónomas;500000
+2007;18201;750/18201;;;De la Comunidad Autónoma de Canarias;468180
+2007;21211;750/21211;;;Cofinanciación teledetección Comunidades Autónomas;2524000
+2007;23225;750/23225;;;De Comunidades Autónomas;766000
+2007;23226;750/23226;;;De Comunidades Autónomas;845310
+2007;23230;750/23230;;;De Comunidades Autonomas;10326280
+2007;23232;750/23232;;;De Comunidades Autónomas;5300000
+2007;23233;750/23233;;;De Comunidades Autónomas;19745000
+2007;23234;750/23234;;;De Comunidades Autónomas;6000000
+2007;16102;76;;;De Corporaciones Locales;3000000
+2007;18101;76;;;De Corporaciones Locales;1000000
+2007;23228;76;;;De Corporaciones Locales;42194290
+2007;23229;76;;;De Corporaciones Locales;12500000
+2007;23230;76;;;De Corporaciones Locales;960890
+2007;23232;76;;;De Corporaciones Locales;30000
+2007;23233;76;;;De Corporaciones Locales;8590050
+2007;23234;76;;;De Corporaciones Locales;1250000
+2007;16102;760;;;De Ayuntamientos;3000000
+2007;18101;760;;;De Ayuntamientos;1000000
+2007;23229;760;;;De Ayuntamientos;12500000
+2007;23232;760;;;De Ayuntamientos;30000
+2007;23233;760;;;De Ayuntamientos;8590050
+2007;23234;760;;;De Ayuntamientos;1000000
+2007;23234;761;;;De Diputaciones y Cabildos Insulares;100000
+2007;23228;769;;;Otras transferencias de capital;42194290
+2007;23230;769;;;Otras transferencias de capital;960890
+2007;23234;769;;;Otras transferencias de capital;150000
+2007;26203;77;;;De empresas privadas;102000000
+2007;26203;772;;;De empresas;102000000
+2007;26203;78;;;De familias e instituciones sin fines de lucro;1500000
+2007;26203;782;;;De familias e instituciones sin fines de lucro. Subvenciones a la investigación.;1500000
+2007;17239;79;;;Del exterior;100000
+2007;18202;79;;;Del exterior;17000000
+2007;18206;79;;;Del exterior;448540
+2007;20101;79;;;Del exterior;7000000
+2007;21211;79;;;Del exterior;540000000
+2007;23225;79;;;Del exterior;2577000
+2007;23226;79;;;Del exterior;1901920
+2007;23228;79;;;Del exterior;172500000
+2007;23229;79;;;Del exterior;37500000
+2007;23230;79;;;Del exterior;37075960
+2007;23232;79;;;Del exterior;12800000
+2007;23233;79;;;Del exterior;195476000
+2007;23234;79;;;Del exterior;50000000
+2007;23236;79;;;Del exterior;61600000
+2007;24103;79;;;Del exterior;10700000
+2007;25103;79;;;Del exterior;3500000
+2007;26203;79;;;Del exterior;8000000
+2007;60001;79;;;Del exterior;17148810
+2007;98001;79;;;Del exterior;1590000000
+2007;17239;790;;;Fondo Europeo de Desarrollo Regional;100000
+2007;18202;790;;;Fondo Europeo de Desarrollo Regional;12000000
+2007;20101;790;;;Fondo Europeo de Desarrollo Regional;7000000
+2007;23225;790;;;Fondo Europeo de Desarrollo Regional;2577000
+2007;23226;790;;;Fondo Europeo de Desarrollo Regional;1901920
+2007;23228;790;;;Fondo Europeo de Desarrollo Regional;172500000
+2007;23229;790;;;Fondo Europeo de Desarrollo Regional;37500000
+2007;23230;790;;;Fondo Europeo de Desarrollo Regional;37075960
+2007;23232;790;;;Fondo Europeo de Desarrollo Regional;12800000
+2007;23233;790;;;Fondo Europeo de Desarrollo Regional;59046000
+2007;23234;790;;;Fondo Europeo de Desarrollo Regional;10000000
+2007;23236;790;;;Fondo Europeo de Desarrollo Regional;59782000
+2007;24103;790;;;Fondo Europeo de Desarrollo Regional;10700000
+2007;25103;790;;;Fondo Europeo de Desarrollo Regional;3500000
+2007;26203;790;;;Fondo Europeo de Desarrollo Regional;8000000
+2007;60001;790;;;Fondo Europeo de Desarrollo Regional;17148810
+2007;98001;790;;;Fondo Europeo de Desarrollo Regional;1219000000
+2007;23233;791;;;Fondo de Cohesión;136430000
+2007;23234;791;;;Fondo de Cohesión;40000000
+2007;23236;791;;;Fondo de Cohesión;1818000
+2007;98001;791;;;Fondo de Cohesión;191000000
+2007;98001;792;;;FEOGA-Orientación, Instrumento Financiero de Ordenación pesquera, Fondo Europeo de la Pesca y otros recursos agrarios y pesqueros;180000000
+2007;21211;793;;;FEADER;540000000
+2007;18202;794;;;Fondo Social Europeo;5000000
+2007;18206;795;;;Otras transferencias de la Unión Europea;448540
+2007;12103;8;;;ACTIVOS FINANCIEROS;512020
+2007;12301;8;;;ACTIVOS FINANCIEROS;56000
+2007;13101;8;;;ACTIVOS FINANCIEROS;4924310
+2007;13102;8;;;ACTIVOS FINANCIEROS;1179480
+2007;13301;8;;;ACTIVOS FINANCIEROS;4911350
+2007;14104;8;;;ACTIVOS FINANCIEROS;1345050
+2007;14107;8;;;ACTIVOS FINANCIEROS;25301650
+2007;14111;8;;;ACTIVOS FINANCIEROS;947140
+2007;14113;8;;;ACTIVOS FINANCIEROS;27025600
+2007;14204;8;;;ACTIVOS FINANCIEROS;40000
+2007;14205;8;;;ACTIVOS FINANCIEROS;257610
+2007;14206;8;;;ACTIVOS FINANCIEROS;250000
+2007;14301;8;;;ACTIVOS FINANCIEROS;317220
+2007;15101;8;;;ACTIVOS FINANCIEROS;1991980
+2007;15102;8;;;ACTIVOS FINANCIEROS;846720
+2007;15103;8;;;ACTIVOS FINANCIEROS;2924490
+2007;15105;8;;;ACTIVOS FINANCIEROS;29162070
+2007;15202;8;;;ACTIVOS FINANCIEROS;97580
+2007;15302;8;;;ACTIVOS FINANCIEROS;12234840
+2007;16101;8;;;ACTIVOS FINANCIEROS;35340520
+2007;16102;8;;;ACTIVOS FINANCIEROS;426460
+2007;16201;8;;;ACTIVOS FINANCIEROS;19260
+2007;17238;8;;;ACTIVOS FINANCIEROS;36480
+2007;18101;8;;;ACTIVOS FINANCIEROS;16152890
+2007;18137;8;;;ACTIVOS FINANCIEROS;1663990
+2007;18201;8;;;ACTIVOS FINANCIEROS;25000
+2007;18202;8;;;ACTIVOS FINANCIEROS;644890
+2007;18203;8;;;ACTIVOS FINANCIEROS;441080
+2007;18204;8;;;ACTIVOS FINANCIEROS;77700
+2007;18205;8;;;ACTIVOS FINANCIEROS;42000
+2007;18206;8;;;ACTIVOS FINANCIEROS;104780
+2007;19101;8;;;ACTIVOS FINANCIEROS;1223309040
+2007;19102;8;;;ACTIVOS FINANCIEROS;469242240
+2007;19104;8;;;ACTIVOS FINANCIEROS;12421690
+2007;19105;8;;;ACTIVOS FINANCIEROS;1586580
+2007;19106;8;;;ACTIVOS FINANCIEROS;36020
+2007;19107;8;;;ACTIVOS FINANCIEROS;571360
+2007;19201;8;;;ACTIVOS FINANCIEROS;36780
+2007;19301;8;;;ACTIVOS FINANCIEROS;682680
+2007;20101;8;;;ACTIVOS FINANCIEROS;414441560
+2007;20102;8;;;ACTIVOS FINANCIEROS;8248970
+2007;20207;8;;;ACTIVOS FINANCIEROS;4000
+2007;20208;8;;;ACTIVOS FINANCIEROS;42000
+2007;20301;8;;;ACTIVOS FINANCIEROS;51707600
+2007;20302;8;;;ACTIVOS FINANCIEROS;71880
+2007;21112;8;;;ACTIVOS FINANCIEROS;350090
+2007;21207;8;;;ACTIVOS FINANCIEROS;24130
+2007;21208;8;;;ACTIVOS FINANCIEROS;12020
+2007;21211;8;;;ACTIVOS FINANCIEROS;139430
+2007;22101;8;;;ACTIVOS FINANCIEROS;3153440
+2007;22102;8;;;ACTIVOS FINANCIEROS;59328310
+2007;23101;8;;;ACTIVOS FINANCIEROS;19469600
+2007;23225;8;;;ACTIVOS FINANCIEROS;120000
+2007;23226;8;;;ACTIVOS FINANCIEROS;6000
+2007;23228;8;;;ACTIVOS FINANCIEROS;144730
+2007;23229;8;;;ACTIVOS FINANCIEROS;34490
+2007;23230;8;;;ACTIVOS FINANCIEROS;20000
+2007;23232;8;;;ACTIVOS FINANCIEROS;67630
+2007;23233;8;;;ACTIVOS FINANCIEROS;51000
+2007;23234;8;;;ACTIVOS FINANCIEROS;39820
+2007;23236;8;;;ACTIVOS FINANCIEROS;90000
+2007;23237;8;;;ACTIVOS FINANCIEROS;98150
+2007;24101;8;;;ACTIVOS FINANCIEROS;6551000
+2007;24102;8;;;ACTIVOS FINANCIEROS;4063000
+2007;24103;8;;;ACTIVOS FINANCIEROS;34025500
+2007;24104;8;;;ACTIVOS FINANCIEROS;6972000
+2007;24201;8;;;ACTIVOS FINANCIEROS;423300
+2007;24301;8;;;ACTIVOS FINANCIEROS;2580000
+2007;25101;8;;;ACTIVOS FINANCIEROS;709890
+2007;25102;8;;;ACTIVOS FINANCIEROS;963140
+2007;25103;8;;;ACTIVOS FINANCIEROS;6753000
+2007;25201;8;;;ACTIVOS FINANCIEROS;21000
+2007;26102;8;;;ACTIVOS FINANCIEROS;821040
+2007;26103;8;;;ACTIVOS FINANCIEROS;5065000
+2007;26104;8;;;ACTIVOS FINANCIEROS;3000
+2007;26203;8;;;ACTIVOS FINANCIEROS;226000
+2007;60001;8;;;ACTIVOS FINANCIEROS;632157860
+2007;98001;8;;;ACTIVOS FINANCIEROS;997989810
+2007;19102;80;;;Enajenación de deuda del Sector Público;469098000
+2007;22102;80;;;Enajenación de deuda del Sector Público;20020
+2007;60001;80;;;Enajenación de deuda del Sector Público;13787970
+2007;60001;800;;;Enajenación de deuda del Sector Público a corto plazo;7312970
+2007;19102;801;;;Enajenación de deuda del Sector Público a largo plazo;469098000
+2007;22102;801;;;Enajenación de deuda del Sector Público a largo plazo;20020
+2007;60001;801;;;Enajenación de deuda del Sector Público a largo plazo;6475000
+2007;22102;81;;;Enajenación de obligac. y bonos de fuera del Sector Público;2390
+2007;60001;81;;;Enajenación de obligac. y bonos de fuera del Sector Público;1419600
+2007;60001;810;;;Enajenación de obligaciones y bonos de fuera del Sector Público a corto plazo;305300
+2007;22102;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo;2390
+2007;60001;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo;1114300
+2007;23225;82;;;Reintegros de préstamos concedidos al Sector Público;30000
+2007;98001;82;;;Reintegros de préstamos concedidos al Sector Público;386651680
+2007;23225;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo;30000
+2007;98001;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo;3223290
+2007;98001;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo;383428390
+2007;98001;821;;04;A las  sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;382828390
+2007;98001;821;;06;Reintegro prestamos concedidos a Corporaciones Locales y otros entes territoriales;600000
+2007;12103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2007;12301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;56000
+2007;13301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10000
+2007;14107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;31200
+2007;14111;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60100
+2007;14113;83;;;Reintegros de préstamos concedidos fuera del Sector Público;142000
+2007;14204;83;;;Reintegros de préstamos concedidos fuera del Sector Público;40000
+2007;14205;83;;;Reintegros de préstamos concedidos fuera del Sector Público;257610
+2007;14206;83;;;Reintegros de préstamos concedidos fuera del Sector Público;250000
+2007;14301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;317220
+2007;15101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;68980
+2007;15105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;235690
+2007;15202;83;;;Reintegros de préstamos concedidos fuera del Sector Público;97580
+2007;15302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;528000
+2007;16101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1021720
+2007;16201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;19260
+2007;17238;83;;;Reintegros de préstamos concedidos fuera del Sector Público;36480
+2007;18101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;51080
+2007;18137;83;;;Reintegros de préstamos concedidos fuera del Sector Público;13990
+2007;18201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;25000
+2007;18202;83;;;Reintegros de préstamos concedidos fuera del Sector Público;422510
+2007;18203;83;;;Reintegros de préstamos concedidos fuera del Sector Público;441080
+2007;18204;83;;;Reintegros de préstamos concedidos fuera del Sector Público;77700
+2007;18205;83;;;Reintegros de préstamos concedidos fuera del Sector Público;42000
+2007;18206;83;;;Reintegros de préstamos concedidos fuera del Sector Público;104780
+2007;19101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;901530
+2007;19102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;144240
+2007;19104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;64120
+2007;19105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;24520
+2007;19106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6010
+2007;19107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6380
+2007;19201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;36780
+2007;19301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;25510
+2007;20101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;30050
+2007;20102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;74390
+2007;20207;83;;;Reintegros de préstamos concedidos fuera del Sector Público;4000
+2007;20208;83;;;Reintegros de préstamos concedidos fuera del Sector Público;42000
+2007;20301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;87390
+2007;20302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71880
+2007;21112;83;;;Reintegros de préstamos concedidos fuera del Sector Público;19100
+2007;21207;83;;;Reintegros de préstamos concedidos fuera del Sector Público;24130
+2007;21208;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2007;21211;83;;;Reintegros de préstamos concedidos fuera del Sector Público;139430
+2007;22101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;40000
+2007;22102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;180300
+2007;23101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2007;23225;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2007;23226;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6000
+2007;23228;83;;;Reintegros de préstamos concedidos fuera del Sector Público;144730
+2007;23229;83;;;Reintegros de préstamos concedidos fuera del Sector Público;34490
+2007;23230;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2007;23232;83;;;Reintegros de préstamos concedidos fuera del Sector Público;67630
+2007;23233;83;;;Reintegros de préstamos concedidos fuera del Sector Público;51000
+2007;23234;83;;;Reintegros de préstamos concedidos fuera del Sector Público;39820
+2007;23236;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2007;23237;83;;;Reintegros de préstamos concedidos fuera del Sector Público;98150
+2007;24101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;51000
+2007;24102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;63000
+2007;24103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;25500
+2007;24104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;72000
+2007;24201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;423300
+2007;24301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;130000
+2007;25101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2007;25102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;13140
+2007;25103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;300000
+2007;25201;83;;;Reintegros de préstamos concedidos fuera del Sector Público;21000
+2007;26102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;21040
+2007;26103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;65000
+2007;26104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;3000
+2007;26203;83;;;Reintegros de préstamos concedidos fuera del Sector Público;226000
+2007;60001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;16605040
+2007;98001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;611325130
+2007;12103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3010
+2007;12301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;56000
+2007;13301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2007;14107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;31200
+2007;14111;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2007;14113;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;130000
+2007;14204;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;40000
+2007;14301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;317220
+2007;15101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;68980
+2007;15302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;528000
+2007;16101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;120200
+2007;17238;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;36480
+2007;18101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;51080
+2007;18137;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13990
+2007;18202;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;422510
+2007;18203;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;321540
+2007;18204;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;32550
+2007;18205;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;6000
+2007;18206;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;52390
+2007;19102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;114190
+2007;20101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30050
+2007;20102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;74390
+2007;20301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;64710
+2007;20302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;71880
+2007;21112;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;19100
+2007;21207;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;24130
+2007;21208;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2007;21211;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;139430
+2007;22101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;40000
+2007;22102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;180300
+2007;23101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2007;23225;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2007;23228;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;98980
+2007;23229;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;17250
+2007;23230;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2007;23232;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;26010
+2007;23233;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;24000
+2007;23234;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13280
+2007;23237;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;8000
+2007;24101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12500
+2007;24103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;25500
+2007;24201;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;102000
+2007;24301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;130000
+2007;25101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2007;25102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13140
+2007;25201;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;9000
+2007;26102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;21040
+2007;26103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;65000
+2007;26104;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3000
+2007;26203;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;226000
+2007;60001;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;11806180
+2007;23230;830;;00;Reintegros de anticipos al personal.;20000
+2007;12301;830;;08;A familias e instituciones sin fines de lucro;56000
+2007;13301;830;;08;A familias e instituciones sin fines de lucro;10000
+2007;14107;830;;08;A familias e instituciones sin fines de lucro;31200
+2007;14111;830;;08;A familias e instituciones sin fines de lucro;12020
+2007;14204;830;;08;A familias e instituciones sin fines de lucro;40000
+2007;14301;830;;08;A familias e instituciones sin fines de lucro;317220
+2007;15101;830;;08;A familias e instituciones sin fines de lucro;68980
+2007;15302;830;;08;A familias e instituciones sin fines de lucro;528000
+2007;17238;830;;08;A familias e instituciones sin fines de lucro;36480
+2007;18101;830;;08;A familias e instituciones sin fines de lucro;51080
+2007;18137;830;;08;A familias e instituciones sin fines de lucro;13990
+2007;18202;830;;08;A familias e instituciones sin fines de lucro;422510
+2007;18203;830;;08;A familias e instituciones sin fines de lucro;321540
+2007;19102;830;;08;A familias e instituciones sin fines de lucro;114190
+2007;20101;830;;08;A familias e instituciones sin fines de lucro;30050
+2007;20102;830;;08;A familias e instituciones sin fines de lucro;74390
+2007;20301;830;;08;A familias e instituciones sin fines de lucro;64710
+2007;20302;830;;08;A familias e instituciones sin fines de lucro;71880
+2007;21207;830;;08;A familias e instituciones sin fines de lucro;24130
+2007;22101;830;;08;A familias e instituciones sin fines de lucro;40000
+2007;23237;830;;08;A familias e instituciones sin fines de lucro;8000
+2007;24101;830;;08;A familias e instituciones sin fines de lucro;12500
+2007;24103;830;;08;A familias e instituciones sin fines de lucro;25500
+2007;24201;830;;08;A familias e instituciones sin fines de lucro;102000
+2007;24301;830;;08;A familias e instituciones sin fines de lucro;130000
+2007;26102;830;;08;A familias e instituciones sin fines de lucro;21040
+2007;26103;830;;08;A familias e instituciones sin fines de lucro;65000
+2007;26104;830;;08;A familias e instituciones sin fines de lucro;3000
+2007;12103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;9010
+2007;14111;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;48080
+2007;14113;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;12000
+2007;14205;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;257610
+2007;14206;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;250000
+2007;15105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;235690
+2007;15202;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;97580
+2007;16101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;901520
+2007;16201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;19260
+2007;18201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25000
+2007;18203;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;119540
+2007;18204;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;45150
+2007;18205;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;36000
+2007;18206;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;52390
+2007;19101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;901530
+2007;19102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30050
+2007;19104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;64120
+2007;19105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;24520
+2007;19106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6010
+2007;19107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6380
+2007;19201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;36780
+2007;19301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25510
+2007;20207;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4000
+2007;20208;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;42000
+2007;20301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;22680
+2007;23225;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2007;23226;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6000
+2007;23228;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;45750
+2007;23229;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;17240
+2007;23232;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;41620
+2007;23233;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;27000
+2007;23234;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;26540
+2007;23236;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;90000
+2007;23237;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;90150
+2007;24101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;38500
+2007;24102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;63000
+2007;24104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;72000
+2007;24201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;321300
+2007;25103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;300000
+2007;25201;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;12000
+2007;60001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4798860
+2007;98001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;611325130
+2007;18204;831;;07;A las empresas privadas;45150
+2007;98001;831;;07;A las empresas privadas;451912130
+2007;14111;831;;08;A familias e Instituciones sin fines de lucro;48080
+2007;14205;831;;08;A familias e Instituciones sin fines de lucro;257610
+2007;14206;831;;08;A familias e Instituciones sin fines de lucro;250000
+2007;15105;831;;08;A familias e Instituciones sin fines de lucro;235690
+2007;15202;831;;08;A familias e Instituciones sin fines de lucro;97580
+2007;16101;831;;08;A familias e Instituciones sin fines de lucro;901520
+2007;16201;831;;08;A familias e Instituciones sin fines de lucro;19260
+2007;18201;831;;08;A familias e Instituciones sin fines de lucro;25000
+2007;18203;831;;08;A familias e Instituciones sin fines de lucro;119540
+2007;18205;831;;08;A familias e Instituciones sin fines de lucro;36000
+2007;18206;831;;08;A familias e Instituciones sin fines de lucro;52390
+2007;19101;831;;08;A familias e Instituciones sin fines de lucro;901530
+2007;19102;831;;08;A familias e Instituciones sin fines de lucro;30050
+2007;19104;831;;08;A familias e Instituciones sin fines de lucro;64120
+2007;19105;831;;08;A familias e Instituciones sin fines de lucro;24520
+2007;19106;831;;08;A familias e Instituciones sin fines de lucro;6010
+2007;19107;831;;08;A familias e Instituciones sin fines de lucro;6380
+2007;19201;831;;08;A familias e Instituciones sin fines de lucro;36780
+2007;19301;831;;08;A familias e Instituciones sin fines de lucro;25510
+2007;20207;831;;08;A familias e Instituciones sin fines de lucro;4000
+2007;20208;831;;08;A familias e Instituciones sin fines de lucro;42000
+2007;20301;831;;08;A familias e Instituciones sin fines de lucro;22680
+2007;23225;831;;08;A familias e Instituciones sin fines de lucro;60000
+2007;23226;831;;08;A familias e Instituciones sin fines de lucro;6000
+2007;23228;831;;08;A familias e Instituciones sin fines de lucro;45750
+2007;23229;831;;08;A familias e Instituciones sin fines de lucro;17240
+2007;23232;831;;08;A familias e Instituciones sin fines de lucro;41620
+2007;23233;831;;08;A familias e Instituciones sin fines de lucro;27000
+2007;23234;831;;08;A familias e Instituciones sin fines de lucro;26540
+2007;23236;831;;08;A familias e Instituciones sin fines de lucro;90000
+2007;23237;831;;08;A familias e Instituciones sin fines de lucro;90150
+2007;24101;831;;08;A familias e Instituciones sin fines de lucro;38500
+2007;24102;831;;08;A familias e Instituciones sin fines de lucro;63000
+2007;24104;831;;08;A familias e Instituciones sin fines de lucro;72000
+2007;24201;831;;08;A familias e Instituciones sin fines de lucro;321300
+2007;25103;831;;08;A familias e Instituciones sin fines de lucro;300000
+2007;25201;831;;08;A familias e Instituciones sin fines de lucro;12000
+2007;98001;831;;08;A familias e Instituciones sin fines de lucro;8743000
+2007;98001;831;;09;Al exterior;150670000
+2007;14113;84;;;Devolución de depósitos y fianzas;50000
+2007;60001;84;;;Devolución de depósitos y fianzas;9176490
+2007;98001;84;;;Devolución de depósitos y fianzas;13000
+2007;60001;840;;;Devolución de depósitos;2496070
+2007;14113;841;;;Devolución de fianzas;50000
+2007;60001;841;;;Devolución de fianzas;6680420
+2007;98001;841;;;Devolución de fianzas;13000
+2007;18202;86;;;Enajenación de acciones y part. de fuera del Sector Público;222380
+2007;60001;86;;;Enajenación de acciones y part. de fuera del Sector Público;34000
+2007;18202;860;;;De empresas nacionales o de la Unión Europea;222380
+2007;60001;860;;;De empresas nacionales o de la Unión Europea;34000
+2007;12103;87;;;Remanente de tesorería;500000
+2007;13101;87;;;Remanente de tesorería;4924310
+2007;13102;87;;;Remanente de tesorería;1179480
+2007;13301;87;;;Remanente de tesorería;4901350
+2007;14104;87;;;Remanente de tesorería;1345050
+2007;14107;87;;;Remanente de tesorería;25270450
+2007;14111;87;;;Remanente de tesorería;887040
+2007;14113;87;;;Remanente de tesorería;26833600
+2007;15101;87;;;Remanente de tesorería;1923000
+2007;15102;87;;;Remanente de tesorería;846720
+2007;15103;87;;;Remanente de tesorería;2924490
+2007;15105;87;;;Remanente de tesorería;28926380
+2007;15302;87;;;Remanente de tesorería;11706840
+2007;16101;87;;;Remanente de tesorería;34318800
+2007;16102;87;;;Remanente de tesorería;426460
+2007;18101;87;;;Remanente de tesorería;16101810
+2007;18137;87;;;Remanente de tesorería;1650000
+2007;19101;87;;;Remanente de tesorería;1222407510
+2007;19104;87;;;Remanente de tesorería;12357570
+2007;19105;87;;;Remanente de tesorería;1562060
+2007;19106;87;;;Remanente de tesorería;30010
+2007;19107;87;;;Remanente de tesorería;564980
+2007;19301;87;;;Remanente de tesorería;657170
+2007;20101;87;;;Remanente de tesorería;414411510
+2007;20102;87;;;Remanente de tesorería;8174580
+2007;20301;87;;;Remanente de tesorería;51620210
+2007;21112;87;;;Remanente de tesorería;330990
+2007;22101;87;;;Remanente de tesorería;3113440
+2007;22102;87;;;Remanente de tesorería;59125600
+2007;23101;87;;;Remanente de tesorería;19449600
+2007;24101;87;;;Remanente de tesorería;6500000
+2007;24102;87;;;Remanente de tesorería;4000000
+2007;24103;87;;;Remanente de tesorería;34000000
+2007;24104;87;;;Remanente de tesorería;6900000
+2007;24301;87;;;Remanente de tesorería;2450000
+2007;25101;87;;;Remanente de tesorería;697870
+2007;25102;87;;;Remanente de tesorería;950000
+2007;25103;87;;;Remanente de tesorería;6453000
+2007;26102;87;;;Remanente de tesorería;800000
+2007;26103;87;;;Remanente de tesorería;5000000
+2007;60001;87;;;Remanente de tesorería;591134760
+2007;12103;870;;;Remanente de tesorería;500000
+2007;13101;870;;;Remanente de tesorería;4924310
+2007;13102;870;;;Remanente de tesorería;1179480
+2007;13301;870;;;Remanente de tesorería;4901350
+2007;14104;870;;;Remanente de tesorería;1345050
+2007;14107;870;;;Remanente de tesorería;25270450
+2007;14111;870;;;Remanente de tesorería;887040
+2007;14113;870;;;Remanente de tesorería;26833600
+2007;15101;870;;;Remanente de tesorería;1923000
+2007;15102;870;;;Remanente de tesorería;846720
+2007;15103;870;;;Remanente de tesorería;2924490
+2007;15105;870;;;Remanente de tesorería;28926380
+2007;15302;870;;;Remanente de tesorería;11706840
+2007;16101;870;;;Remanente de tesorería;34318800
+2007;16102;870;;;Remanente de tesorería;426460
+2007;18101;870;;;Remanente de tesorería;16101810
+2007;18137;870;;;Remanente de tesorería;1650000
+2007;19101;870;;;Remanente de tesorería;1222407510
+2007;19104;870;;;Remanente de tesorería;12357570
+2007;19105;870;;;Remanente de tesorería;1562060
+2007;19106;870;;;Remanente de tesorería;30010
+2007;19107;870;;;Remanente de tesorería;564980
+2007;19301;870;;;Remanente de tesorería;657170
+2007;20101;870;;;Remanente de tesorería;414411510
+2007;20102;870;;;Remanente de tesorería;8174580
+2007;20301;870;;;Remanente de tesorería;51620210
+2007;21112;870;;;Remanente de tesorería;330990
+2007;22101;870;;;Remanente de tesorería;3113440
+2007;22102;870;;;Remanente de tesorería;59125600
+2007;23101;870;;;Remanente de tesorería;19449600
+2007;24101;870;;;Remanente de tesorería;6500000
+2007;24102;870;;;Remanente de tesorería;4000000
+2007;24103;870;;;Remanente de tesorería;34000000
+2007;24104;870;;;Remanente de tesorería;6900000
+2007;24301;870;;;Remanente de tesorería;2450000
+2007;25101;870;;;Remanente de tesorería;697870
+2007;25102;870;;;Remanente de tesorería;950000
+2007;25103;870;;;Remanente de tesorería;6453000
+2007;26102;870;;;Remanente de tesorería;800000
+2007;26103;870;;;Remanente de tesorería;5000000
+2007;60001;870;;;Remanente de tesorería;584435040
+2007;19101;870;;00;Remanente de tesorería;1057631500
+2007;19101;870;;01;Remanente de tesorería para compensar el coste efectivo de las transferencias a las Comunidades Autónomas en materia de programas de fomento de empleo, formación profesional ocupacional y escuelas taller, casas de oficios y talleres de empleo;157585770
+2007;19101;870;;02;Remanente de tesorería para compensar el coste efectivo de las transferencias a las Comunidades Autónomas en materia de formación continua;7190240
+2007;60001;872;;;Remanente para la cobertura de prestaciones sociales de Accidentes de Trabajo;6699720
+2007;14113;9;;;PASIVOS FINANCIEROS;70000
+2007;21211;9;;;PASIVOS FINANCIEROS;90151820
+2007;23228;9;;;PASIVOS FINANCIEROS;172500000
+2007;23230;9;;;PASIVOS FINANCIEROS;14000000
+2007;23233;9;;;PASIVOS FINANCIEROS;22000000
+2007;23234;9;;;PASIVOS FINANCIEROS;20000000
+2007;23236;9;;;PASIVOS FINANCIEROS;42000000
+2007;25103;9;;;PASIVOS FINANCIEROS;100000
+2007;21211;91;;;Préstamos recibidos en moneda nacional;90151820
+2007;23228;91;;;Préstamos recibidos en moneda nacional;172500000
+2007;23230;91;;;Préstamos recibidos en moneda nacional;14000000
+2007;23233;91;;;Préstamos recibidos en moneda nacional;22000000
+2007;23234;91;;;Préstamos recibidos en moneda nacional;20000000
+2007;23236;91;;;Préstamos recibidos en moneda nacional;42000000
+2007;21211;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;90151820
+2007;23228;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;172500000
+2007;23230;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;14000000
+2007;23234;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;20000000
+2007;23233;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;22000000
+2007;23236;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;42000000
+2007;14113;94;;;Depósitos y fianzas recibidos;70000
+2007;25103;94;;;Depósitos y fianzas recibidos;100000
+2007;14113;940;;;Depósitos;20000
+2007;14113;941;;;Fianzas;50000
+2007;25103;941;;;Fianzas;100000
