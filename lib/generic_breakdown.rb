@@ -17,8 +17,8 @@ class GenericBreakdown < BaseBreakdown
   end
 
   def is_final
-    @filename =~ /N_(\d\d)_([AE])_/
-    return $2 == 'E'
+    @filename =~ /N_(\d\d)_([ASE])_/
+    return $2 != 'A'  # S is final for 2007 and before; E for 2008+
   end
 
   # Retrieve a cell given its row and column position (-1 means last, as in Ruby)

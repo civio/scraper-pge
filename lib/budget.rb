@@ -1,6 +1,6 @@
 =begin
 Parte general del nombre
-   N_10[Año]_E[A=proyecto,E=aprobado?]_V[Color]_1[Serie]_
+   N_10[Año]_E[2008+: A=proyecto,E=aprobado / -2007: P=proyecto,S=aprobado]_V[Color]_1[Serie]_
 más parte específica, como:
    102[O Autonomos]_2_2[Gastos]_2[Detalle]_115[Seccion MEH]_1_2[Detalle]_1105[INE]_1
 
@@ -114,7 +114,8 @@ class Budget
   end
 
   def generic_breakdown(year, breakdown_id)
-    filename = "N_#{(year.to_s)[-2..-1]}_#{@is_final ? 'E' : 'A'}_#{breakdown_id}.HTM"
+    budget_letter = @is_final ? (year.to_i < 2008 ? 'S': 'E') : 'A'
+    filename = "N_#{(year.to_s)[-2..-1]}_#{budget_letter}_#{breakdown_id}.HTM"
     full_path = File.join(@path, 'doc', 'HTM', filename)
     GenericBreakdown.new(full_path)
   end

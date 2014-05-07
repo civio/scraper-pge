@@ -88,7 +88,7 @@ class IncomeBreakdown < BaseBreakdown
     data_grid
   end
 
-  INCOME_BKDOWN = /N_(\d\d)_[AE]_R_2_10(\d)_1_2_1(\d\d)_1_1(\d\d+)_1.HTM/  
+  INCOME_BKDOWN = /N_(\d\d)_[ASE]_R_2_10(\d)_1_2_1(\d\d)_1_1(\d\d+)_1.HTM/  
   
   def doc
     @doc = Nokogiri::HTML(open(@filename)) if @doc.nil?  # Lazy parsing of doc, only when needed

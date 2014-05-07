@@ -138,7 +138,7 @@ class EntityBreakdown < BaseBreakdown
   end
 
   def self.get_year(filename)
-    filename =~ /N_(\d\d)_[AE]/
+    filename =~ /N_(\d\d)_[ASE]/
     return '20'+$1
   end
   
@@ -149,8 +149,8 @@ class EntityBreakdown < BaseBreakdown
         /N_(\d\d)_[AE]_V_1_10([1234])_2_1_[1234](\d\d)_1_1(\d\d\d)_2_2_1.HTM/;
     else
       is_state_entity ? 
-        /N_(\d\d)_[AE]_V_1_10([1234])_2_2_2_1(\d\d)_1_[12]_1.HTM/ :
-        /N_(\d\d)_[AE]_V_1_10([1234])_2_2_2_1(\d\d)_1_[12]_1(\d\d\d)_1.HTM/;
+        /N_(\d\d)_[ASE]_V_1_10([1234])_2_2_2_1(\d\d)_1_[12]_1.HTM/ :
+        /N_(\d\d)_[ASE]_V_1_10([1234])_2_2_2_1(\d\d)_1_[12]_1(\d\d\d)_1.HTM/;
     end
   end
 
