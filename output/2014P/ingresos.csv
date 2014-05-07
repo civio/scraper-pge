@@ -802,7 +802,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2014;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);92200000
 2014;15302;395;;;Rappels por compras;2726440
 2014;15302;398;;;Ingresos extraordinarios;60000
-2014;60004;398;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;75374000
+2014;60004;398/60004;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;75374000
 2014;12401;399;;;Ingresos diversos;30000
 2014;14107;399;;;Ingresos diversos;1500000
 2014;14113;399;;;Ingresos diversos;125000
@@ -1186,8 +1186,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2014;19101;42;;;De la Seguridad Social;1502400
 2014;60004;42;;;De la Seguridad Social;3149442820
 2014;98001;42;;;De la Seguridad Social;154806900
-2014;19101;420;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad;1502400
 2014;98001;420;;;Transferencias corrientes de la Seguridad Social;154806900
+2014;19101;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad;1502400
 2014;60004;421;;;Aportaciones para sosteni. SS.CC.;854210760
 2014;60004;422;;;Ingresos por servicios prestados entre Entidades del Sistema;1368289880
 2014;60004;423;;;Cuotas de reaseguro de Acctes. T.;858513700
@@ -1239,14 +1239,14 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2014;25101;47;;;De empresas privadas;80000
 2014;27205;47;;;De empresas privadas;34521510
 2014;60004;47;;;De empresas privadas;33600000
-2014;12301;470;;;De empresas privadas;1250000
-2014;18301;470;;;Ingresos de empresas privadas;1613000
-2014;18302;470;;;Ingresos de empresas privadas;1000000
 2014;25101;470;;;Provenientes de empresas de propiedad privada;80000
+2014;12301;470/12301;;;De empresas privadas;1250000
+2014;18301;470/18301;;;Ingresos de empresas privadas;1613000
+2014;18302;470/18302;;;Ingresos de empresas privadas;1000000
 2014;60004;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;33600000
 2014;27205;472;;;De empresas;34521510
 2014;18101;479;;;Otras transferencias corrientes;1030360
-2014;18201;479;;;De empresas privadas.;20000
+2014;18201;479/18201;;;De empresas privadas.;20000
 2014;18101;48;;;De familias e instituciones sin fines de lucro;795730
 2014;18301;48;;;De familias e instituciones sin fines de lucro;2718000
 2014;18302;48;;;De familias e instituciones sin fines de lucro;865000
@@ -1921,13 +1921,13 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2014;23233;75;;;De Comunidades Autónomas;4284510
 2014;27401;75;;;De Comunidades Autónomas;14371720
 2014;23211;750;;;Cofinanciación teledetección Comunidades Autónomas;2400000
-2014;23229;750;;;De Comunidades Autónomas;3253240
-2014;23231;750;;;De Comunidades Autónomas;3555000
-2014;23232;750;;;De Comunidades Autónomas;1600000
-2014;23233;750;;;De Comunidades Autónomas;4284510
-2014;27401;750;;;De CCAA para ejecución de proyectos de investigación;14371720
-2014;27401;750;;01;Transferencias de capital de CCAA para ejecución proyectos I+D+I;12582410
-2014;27401;750;;02;Transferencias de capital de CCAA para ayudas contratación;1789310
+2014;23229;750/23229;;;De Comunidades Autónomas;3253240
+2014;23231;750/23231;;;De Comunidades Autónomas;3555000
+2014;23232;750/23232;;;De Comunidades Autónomas;1600000
+2014;23233;750/23233;;;De Comunidades Autónomas;4284510
+2014;27401;750/27401;;;De CCAA para ejecución de proyectos de investigación;14371720
+2014;27401;750/27401;;01;Transferencias de capital de CCAA para ejecución proyectos I+D+I;12582410
+2014;27401;750/27401;;02;Transferencias de capital de CCAA para ayudas contratación;1789310
 2014;16102;76;;;De Entidades Locales;2000000
 2014;23228;76;;;De Entidades Locales;31282000
 2014;23229;76;;;De Entidades Locales;4970000
