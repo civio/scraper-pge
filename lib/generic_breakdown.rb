@@ -45,7 +45,10 @@ class GenericBreakdown < BaseBreakdown
 
   # Let's see how long this lasts :/
   def get_url()
-    "http://www.sepg.pap.minhap.gob.es/Presup/PGE20#{year}#{is_final ? 'Ley' : 'Proyecto'}/MaestroDocumentos/PGE-ROM/doc/HTM/#{File.basename(@filename)}"
+    # URL for year 2008 is inconsistent with the others in the ministry's site
+    "http://www.sepg.pap.minhap.gob.es/Presup/PGE20#{year}#{is_final ? 'Ley' : 'Proyecto'}/" \
+      "#{year=='08' ? '' : 'MaestroDocumentos/'}" \
+      "PGE-ROM/doc/HTM/#{File.basename(@filename)}"
   end
 
   private
