@@ -117,6 +117,14 @@ def get_entity_id(section, service)
   section+service.rjust(3, '0')
 end
 
+# Capitalize (initial uppercase, rest lowercase) a string if it's all uppercase.
+# That way we beautify the result a bit when needed, but don't lose any data
+# for strings that already have valid mixed case.
+def beautify_description(description)
+  description.match(/\p{Lower}/) ? description : description.capitalize()
+end
+
+
 # Collect categories first, then output, to avoid duplicated chapters and articles.
 # Important note: descriptions are consistent across the PGE budgets for chapters (x)
 # and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
@@ -167,7 +175,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 3 ? concept : nil,
             nil,  # We don't use subheadings
             nil,  # Short description, not used
-            line[:description] ]
+            beautify_description(line[:description]) ]
   end
 
   income.each do |line|
@@ -199,7 +207,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 3 ? concept : nil,
             nil,  # We don't use subheadings
             nil,  # Short description, not used
-            line[:description] ]
+            beautify_description(line[:description]) ]
   end
 end
 
