@@ -22,6 +22,7 @@
 # ProgrammeBreakdown notes) a chapter is not even broken down into articles.
 #
 require 'csv'
+require 'unicode_utils'
 
 require_relative 'lib/budget'
 
@@ -120,8 +121,11 @@ end
 # Capitalize (initial uppercase, rest lowercase) a string if it's all uppercase.
 # That way we beautify the result a bit when needed, but don't lose any data
 # for strings that already have valid mixed case.
-def beautify_description(description)
-  description.match(/\p{Lower}/) ? description : description.capitalize()
+def capitalize_description_if_needed(description)
+  return description if description.match(/\p{Lower}/)  # Some lowercase in there, do nothing
+  description = UnicodeUtils.downcase(description)  # There's no capitalize method!?
+  description[0] = UnicodeUtils.upcase(description[0])
+  description
 end
 
 
@@ -175,7 +179,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 3 ? concept : nil,
             nil,  # We don't use subheadings
             nil,  # Short description, not used
-            beautify_description(line[:description]) ]
+            capitalize_description_if_needed(line[:description]) ]
   end
 
   income.each do |line|
@@ -207,7 +211,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 3 ? concept : nil,
             nil,  # We don't use subheadings
             nil,  # Short description, not used
-            beautify_description(line[:description]) ]
+            capitalize_description_if_needed(line[:description]) ]
   end
 end
 
@@ -252,7 +256,8 @@ CSV.open(File.join(output_path, "estructura_organica.csv"), "w", col_sep: ';') d
     csv << [year,
             body_id,
             nil,  # Short description, not used
-            line[:description]]
+            # The data is all uppercase; title case looks better
+            UnicodeUtils.titlecase(line[:description])]
   end
 end
 
