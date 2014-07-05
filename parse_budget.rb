@@ -139,10 +139,10 @@ end
 # programme would be enough on the expense side. It's not. I thought section would be 
 # enough on both sides... It is not. We need section and department/service.
 #
-# Note: We don't need new economic categories for these, they are items belonging to a heading.
-# Once obstacle to this was distinguishing heading subtotals from the items themselves
-# in the output files, but we've sorted that out through a new 'budget item' column
-# in the output (see below).
+# Note: We don't need economic categories for budget items (concept length==5), they are 
+# just items belonging to a heading. At one point the obstacle to this was distinguishing 
+# heading subtotals from the items themselves in the output files, but we've sorted that 
+# out through a new 'budget item' column in the output (see below).
 #
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_105_1_2_160_1_104_1.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_104_1_2_115_1_1302_1.HTM
