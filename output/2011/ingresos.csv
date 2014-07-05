@@ -747,7 +747,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2011;23228;391;;99;Otros;1000
 2011;98001;393;;;Diferencias entre los valores de reembolso y emisión;400000000
 2011;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);21669520
-2011;15302;398;;;Ingresos extraordinarios;153000
+2011;15302;398/15302;;;Ingresos extraordinarios;153000
 2011;60001;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;72005000
 2011;12401;399;;;Ingresos diversos;30000
 2011;14104;399;;;Ingresos diversos;67000
@@ -1167,8 +1167,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2011;19101;42;;;De la Seguridad Social;856500
 2011;60001;42;;;De la Seguridad Social;3393423990
 2011;98001;42;;;De la Seguridad Social;142576820
-2011;98001;420;;;Transferencias corrientes de la Seguridad Social;142576820
 2011;19101;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad;856500
+2011;98001;420/98001;;;Transferencias corrientes de la Seguridad Social;142576820
 2011;60001;421;;;Aportaciones para sosteni. SS.CC.;1006931690
 2011;60001;422;;;Ingresos por servicios prestados entre Entidades del Sistema;1370586890
 2011;60001;423;;;Cuotas de reaseguro de Acctes. T.;963138700
@@ -1227,9 +1227,9 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2011;24301;47;;;De empresas privadas;2204200
 2011;25101;47;;;De empresas privadas;30000
 2011;60001;47;;;De empresas privadas;36500000
-2011;25101;470;;;Provenientes de empresas de propiedad privada;30000
 2011;12301;470/12301;;;De empresas privadas;2000000
 2011;24301;470/24301;;;Ingresos de empresas privadas;2204200
+2011;25101;470/25101;;;Provenientes de empresas de propiedad privada;30000
 2011;60001;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;36500000
 2011;21207;472;;;De Empresas;35505450
 2011;18101;479;;;Otras transferencias corrientes.;1241570
@@ -1237,7 +1237,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2011;24104;48;;;De familias e instituciones sin fines de lucro;765000
 2011;24301;48;;;De familias e instituciones sin fines de lucro;3117000
 2011;24301;480;;;De familias e instituciones sin fines de lucro;3117000
-2011;18101;489;;;Otras transferencias corrientes.;903780
+2011;18101;489/18101;;;Otras transferencias corrientes.;903780
 2011;24104;489/24104;;;Otras transferencias corrientes;765000
 2011;13301;49;;;Del exterior;25000
 2011;14104;49;;;Del exterior;650000
@@ -1260,7 +1260,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2011;60001;490;;;Del Fondo Social Europeo;24210000
 2011;98001;490;;;Del Fondo Social Europeo;90000000
 2011;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;575000000
-2011;14104;491;;;Del FEOGA GARANTÍA;650000
+2011;14104;491/14104;;;Del FEOGA GARANTÍA;650000
 2011;23211;491/23211;;;Del FEAGA;6057082540
 2011;23225;491/23225;;;De la Unión Europea-PAC;18000
 2011;23211;491/23211;;01;Subvenciones a la producción agraria;6049868360
@@ -2019,7 +2019,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2011;14205;701;;01;Del Ministerio de Vivienda;91350
 2011;21401;701;;01;Del Ministerio de Vivienda Aplicación exigencias Código Técnico de la Edificación;100000
 2011;17239;701;;03;Del Ministerio de Vivienda;58840
-2011;23230;702;;;De la D.G. del Agua para apoyo en la ejecución de obras en humedales y restauración de  los rios;11335730
+2011;23230;702/23230;;;De la D.G. del Agua para apoyo en la ejecución de obras en humedales y restauración de  los rios;11335730
 2011;24103;702/24103;;;Del Departamento al que está adscrito;79943460
 2011;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;66590420
 2011;12401;706;;;Del Ministerio de Medio Ambiente, Medio Rural y Marino;84480
@@ -2057,7 +2057,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2011;23233;75;;;De Comunidades Autónomas;3450000
 2011;23234;75;;;De Comunidades Autónomas;300000
 2011;25106;75;;;De Comunidades Autónomas;680000
-2011;21201;750;;;De la Comunidad Autónoma de Canarias;397300
+2011;21201;750/21201;;;De la Comunidad Autónoma de Canarias;397300
 2011;21401;750/21401;;;De Comunidades Autónomas para ejecución de proyectos de investigación;8384000
 2011;23211;750/23211;;;Cofinanciación teledetección Comunidades Autónomas;2890000
 2011;23225;750/23225;;;De Comunidades Autónomas;3651750

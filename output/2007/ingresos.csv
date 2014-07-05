@@ -1106,15 +1106,15 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2007;98001;410;;02;Boletín Oficial del Estado;30366000
 2007;18202;410;;99;Otros;265820
 2007;98001;410;;99;Otros;183260800
-2007;16101;411;;;Del Servicio Público de Empleo Estatal;425000
-2007;16201;411;;;Del Servicio Público de Empleo Estatal;4488110
-2007;25103;411;;;Del Servicio Público de Empleo Estatal;3264000
+2007;16101;411/16101;;;Del Servicio Público de Empleo Estatal;425000
+2007;16201;411/16201;;;Del Servicio Público de Empleo Estatal;4488110
+2007;25103;411/25103;;;Del Servicio Público de Empleo Estatal;3264000
 2007;26203;411/26203;;;Aportación del Consejo Superior de Investigaciones Científicas.;243840
-2007;16201;411;;01;Para cursos de Formación Profesional y Ocupacional;4376110
-2007;25103;411;;01;Para ayudas salariales a Escuelas Taller;1516190
-2007;16101;411;;02;Para gastos en políticas activas de empleo;425000
-2007;16201;411;;02;Para gastos en políticas activas de empleo;112000
-2007;25103;411;;02;Para subvenciones a Escuelas Taller;1747810
+2007;16201;411/16201;;01;Para cursos de Formación Profesional y Ocupacional;4376110
+2007;25103;411/25103;;01;Para ayudas salariales a Escuelas Taller;1516190
+2007;16101;411/16101;;02;Para gastos en políticas activas de empleo;425000
+2007;16201;411/16201;;02;Para gastos en políticas activas de empleo;112000
+2007;25103;411/25103;;02;Para subvenciones a Escuelas Taller;1747810
 2007;12103;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior;3672000
 2007;60001;42;;;De la Seguridad Social;3267998780
 2007;98001;42;;;De la Seguridad Social;161939630
@@ -1165,17 +1165,17 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2007;24201;47;;;De empresas privadas;60000
 2007;24301;47;;;De empresas privadas;1027820
 2007;60001;47;;;De empresas privadas;48940000
-2007;12301;470;;;De empresas privadas;1000000
+2007;12301;470/12301;;;De empresas privadas;1000000
 2007;24301;470/24301;;;Ingresos de empresas privadas;1027820
-2007;24104;471;;;De empresas privadas;350000
+2007;24104;471/24104;;;De empresas privadas;350000
 2007;60001;471/60001;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;48940000
-2007;18137;479;;;Otras transferencias corrientes.;1125510
+2007;18137;479/18137;;;Otras transferencias corrientes.;1125510
 2007;24201;479/24201;;;Otras transferencias corrientes;60000
 2007;18137;48;;;De familias e instituciones sin fines de lucro;811340
 2007;24104;48;;;De familias e instituciones sin fines de lucro;150000
 2007;24301;48;;;De familias e instituciones sin fines de lucro;658730
 2007;24301;480;;;De familias e instituciones sin fines de lucro;658730
-2007;18137;489;;;Otras transferencias corrientes.;811340
+2007;18137;489/18137;;;Otras transferencias corrientes.;811340
 2007;24104;489/24104;;;Otras transferencias corrientes;150000
 2007;13301;49;;;Del exterior;25000
 2007;14104;49;;;Del exterior;725000
@@ -1196,10 +1196,10 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2007;60001;490;;;Del Fondo Social Europeo;5610750
 2007;98001;490;;;Del Fondo Social Europeo;90000000
 2007;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;845100000
-2007;14104;491;;;Del FEOGA GARANTÍA;725000
-2007;23225;491;;;Del FEOGA GARANTÍA;18710
+2007;14104;491/14104;;;Del FEOGA GARANTÍA;725000
 2007;21208;491/21208;;;Del FEAGA;2000000
 2007;21211;491/21211;;;Del FEAGA;6339611340
+2007;23225;491/23225;;;Del FEOGA GARANTÍA;18710
 2007;21211;491/21211;;01;Subvenciones a la producción agraria;6220000000
 2007;21211;491/21211;;02;Compensación de pérdidas;100906670
 2007;21211;491/21211;;03;Gastos de intervención. Resto producto;6440850
@@ -2034,7 +2034,6 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2007;23233;75;;;De Comunidades Autónomas;19745000
 2007;23234;75;;;De Comunidades Autónomas;6000000
 2007;98001;75;;;De Comunidades Autónomas;8000000
-2007;98001;750;;;Transferencias de capital de Comunidades Autónomas;8000000
 2007;18101;750/18101;;;De Comunidades Autónomas;500000
 2007;18201;750/18201;;;De la Comunidad Autónoma de Canarias;468180
 2007;21211;750/21211;;;Cofinanciación teledetección Comunidades Autónomas;2524000
@@ -2044,6 +2043,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2007;23232;750/23232;;;De Comunidades Autónomas;5300000
 2007;23233;750/23233;;;De Comunidades Autónomas;19745000
 2007;23234;750/23234;;;De Comunidades Autónomas;6000000
+2007;98001;750/98001;;;Transferencias de capital de Comunidades Autónomas;8000000
 2007;16102;76;;;De Corporaciones Locales;3000000
 2007;18101;76;;;De Corporaciones Locales;1000000
 2007;23228;76;;;De Corporaciones Locales;42194290

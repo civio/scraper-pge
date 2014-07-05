@@ -2,7 +2,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;1;;;;;Gastos de personal
 2009;G;1;10;;;;Altos cargos
 2009;G;1;10;100;;;Retribuciones básicas y otras remuneraciones
-2009;G;1;10;101;;;Asignación Parlamentarios Europeos
+2009;G;1;10;101/02001;;;Asignación Parlamentarios Europeos
 2009;G;1;10;101/02002;;;Asignación Constitucional Señores Diputados
 2009;G;1;10;101/02003;;;Asignación Constitucional Señores Senadores
 2009;G;1;10;101/02005;;;Retribuciones básicas y otras remuneraciones de Altos Cargos
@@ -17,7 +17,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;1;12;122;;;Retribuciones en especie
 2009;G;1;12;123;;;Indemnizaciones percibidas por destino en el extranjero
 2009;G;1;12;124;;;Retribuciones de funcionarios en prácticas
-2009;G;1;12;125;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2009;G;1;12;125/02001;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2009;G;1;12;125/02002;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2009;G;1;12;125/02005;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
 2009;G;1;12;125/13002;;;Para retribuir al personal sustituto de la Administración de Justicia
 2009;G;1;12;126;;;Retribuciones básicas y complementarias del CNI
 2009;G;1;12;127;;;Contribuciones a planes de pensiones
@@ -26,7 +28,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;1;13;130;;;Laboral fijo
 2009;G;1;13;131;;;Laboral eventual
 2009;G;1;13;133;;;Laboral en el extranjero
-2009;G;1;13;135;;;Retribuciones del personal laboral de las Cortes
+2009;G;1;13;135/02002;;;Retribuciones del personal laboral de las Cortes
+2009;G;1;13;135/02003;;;Retribuciones del personal laboral de las Cortes
 2009;G;1;13;135/02004;;;Retribuciones del personal laboral de la Junta Electoral Central
 2009;G;1;13;137;;;Contribuciones a planes de pensiones
 2009;G;1;13;138;;;Para gastos Presidencia Española Unión Europea
@@ -39,16 +42,20 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;1;15;151;;;Gratificaciones
 2009;G;1;15;152;;;Otros incentivos al rendimiento
 2009;G;1;15;153;;;Complemento de dedicación especial
-2009;G;1;15;154;;;Otras gratificaciones por Actos de Estado
+2009;G;1;15;154/25103;;;Otras gratificaciones por Actos de Estado
 2009;G;1;15;154/26105;;;Productividad personal estatutario factor fijo
-2009;G;1;15;155;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio
 2009;G;1;15;155/26105;;;Productividad personal estatutario factor variable.
+2009;G;1;15;155/31002;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio
 2009;G;1;16;;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
 2009;G;1;16;160;;;Cuotas sociales
 2009;G;1;16;161;;;Prestaciones sociales
 2009;G;1;16;162;;;Gastos sociales del personal
 2009;G;1;16;164;;;Protección familiar
-2009;G;1;16;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2009;G;1;16;165/02001;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2009;G;1;16;165/02002;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2009;G;1;16;165/02003;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2009;G;1;16;165/02004;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2009;G;1;16;165/02005;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
 2009;G;1;16;165/23211;;;Pensiones de jubilación especial por convenio colectivo.
 2009;G;1;16;169;;;Cuotas de Seguridad Social. Obligaciones de ejercicios anteriores.
 2009;G;1;19;;;;Obligaciones de ejercicios anteriores pendientes de imputar
@@ -61,7 +68,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;2;20;204;;;Arrendamientos de material de transporte
 2009;G;2;20;205;;;Arrendamientos de mobiliario y enseres
 2009;G;2;20;206;;;Arrendamientos de equipos para procesos de información
-2009;G;2;20;207;;;Alquileres
+2009;G;2;20;207/02002;;;Alquileres
+2009;G;2;20;207/02003;;;Alquileres
+2009;G;2;20;207/02005;;;Alquileres
 2009;G;2;20;207/16004;;;Obligaciones de ejercicios anteriores
 2009;G;2;20;207/17001;;;Obligaciones de ejercicios anteriores, por arrendamiento de edificios y otras construcciones.
 2009;G;2;20;208;;;Arrendamientos de otro inmovilizado material
@@ -73,7 +82,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;2;21;214;;;Elementos de transporte
 2009;G;2;21;215;;;Mobiliario y enseres
 2009;G;2;21;216;;;Equipos para procesos de la información
-2009;G;2;21;217;;;Gastos diversos de reparación y conservación
+2009;G;2;21;217/02002;;;Gastos diversos de reparación y conservación
+2009;G;2;21;217/02003;;;Gastos diversos de reparación y conservación
+2009;G;2;21;217/02005;;;Gastos diversos de reparación y conservación
 2009;G;2;21;217/16005;;;Obligaciones de ejercicios anteriores
 2009;G;2;21;218;;;Bienes situados en el exterior
 2009;G;2;21;219;;;Otro inmovilizado material
@@ -87,7 +98,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;2;22;226;;;Gastos diversos
 2009;G;2;22;227;;;Trabajos realizados por otras empresas y profesionales
 2009;G;2;22;228;;;Gastos originados por participación de las Fuerzas Armadas en operaciones de mantenimiento de la paz
-2009;G;2;22;229;;;Obligaciones de ejercicios anteriores
+2009;G;2;22;229/12001;;;Obligaciones de ejercicios anteriores
 2009;G;2;22;229/13002;;;Material, suministros y otros. Obligaciones de ejercicios anteriores
 2009;G;2;22;229/14001;;;Otros gastos de vida y funcionamiento
 2009;G;2;22;229/14002;;;Otros gastos de vida y funcionamiento
@@ -95,6 +106,11 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;2;22;229/14012;;;Otros gastos de vida y funcionamiento
 2009;G;2;22;229/14017;;;Otros gastos de vida y funcionamiento
 2009;G;2;22;229/14022;;;Otros gastos de vida y funcionamiento
+2009;G;2;22;229/16001;;;Obligaciones de ejercicios anteriores
+2009;G;2;22;229/16002;;;Obligaciones de ejercicios anteriores
+2009;G;2;22;229/16003;;;Obligaciones de ejercicios anteriores
+2009;G;2;22;229/16004;;;Obligaciones de ejercicios anteriores
+2009;G;2;22;229/16005;;;Obligaciones de ejercicios anteriores
 2009;G;2;22;229/18002;;;Gastos de funcionamiento de los Centros Docentes no Universitarios
 2009;G;2;22;229/18004;;;Gastos de funcionamiento de los Centros Docentes no Universitarios
 2009;G;2;22;229/18005;;;Gastos de funcionamiento de los Centros Docentes no Universitarios
@@ -106,7 +122,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;2;23;232;;;Traslado
 2009;G;2;23;233;;;Otras indemnizaciones
 2009;G;2;23;234;;;Dietas, locomoción y otras indemnizaciones
-2009;G;2;23;239;;;Obligaciones de ejercicios anteriores
+2009;G;2;23;239/16004;;;Obligaciones de ejercicios anteriores
 2009;G;2;23;239/23001;;;Incidencias de ejercicios anteriores
 2009;G;2;24;;;;Gastos de publicaciones
 2009;G;2;24;240;;;Gastos de edición y distribución
@@ -147,10 +163,10 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;3;35;351;;;Cobertura de riesgos en avales prestados por el Tesoro, incluidos los riesgos de ejercicios anteriores
 2009;G;3;35;352;;;Intereses de demora
 2009;G;3;35;353;;;Intereses de demora por Sentencias, Recursos y Reclamaciones, incluidas obligaciones de ejercicios anteriores.
-2009;G;3;35;357;;;Gastos derivados de la acuñación del Euro
+2009;G;3;35;357/15019;;;Gastos derivados de la acuñación del Euro
 2009;G;3;35;357/19102;;;Intereses deudores en Entidades financieras correspondientes a ejercicios anteriores
-2009;G;3;35;358;;;Intereses de demora correspondientes a liquidaciones de ejercicios anteriores
 2009;G;3;35;358/12401;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
+2009;G;3;35;358/16001;;;Intereses de demora correspondientes a liquidaciones de ejercicios anteriores
 2009;G;3;35;358/17001;;;Obligaciones de ejercicios anteriores, por intereses de demora.
 2009;G;3;35;358/17020;;;Obligaciones de ejercicios anteriores, por intereses de demora
 2009;G;3;35;358/19001;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
@@ -160,17 +176,17 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;3;39;399;;;Obligaciones de ejercicios anteriores pendientes de imputar
 2009;G;4;;;;;Transferencias corrientes
 2009;G;4;40;;;;A la Administración del Estado
-2009;G;4;40;400;;;Al Estado, para generar crédito en el Ministerio de Defensa
+2009;G;4;40;400/14206;;;Al Estado, para generar crédito en el Ministerio de Defensa
 2009;G;4;40;400/16101;;;Al Estado, para generar crédito en el Ministerio del Interior por acuerdo del Ministro de Economía y Hacienda
 2009;G;4;40;400/19101;;;Planes de reinserción y de mejora de la capacidad de ocupación de demandantes de empleo
 2009;G;4;40;400/25401;;;Al Estado
 2009;G;4;40;400/60001;;;A la Administración del Estado
-2009;G;4;40;401;;;Al Estado
+2009;G;4;40;401/16101;;;Al Estado
 2009;G;4;40;401/19101;;;"Reserva gestión directa del SPEE ""Cuotas de seguros de accidentes de alumnos, becas y/o ayudas a alumnos y subvenciones a centros y entidades de formación profesional para el empleo para desempleados, a órganos de la Administración General del Estado"""
 2009;G;4;40;401/20102;;;A la Administración del Estado.
 2009;G;4;40;402;;;"Reserva gestión directa del SPEE ""Para gastos derivados de políticas activas de fomento del empleo"""
 2009;G;4;41;;;;A organismos autónomos
-2009;G;4;41;410;;;A organismos autónomos
+2009;G;4;41;410/02003;;;A organismos autónomos
 2009;G;4;41;410/14001;;;A organismos autónomos del Departamento
 2009;G;4;41;410/14003;;;A organismos autónomos del Departamento
 2009;G;4;41;410/15005;;;Al Instituto de Estudios Fiscales
@@ -193,7 +209,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;41;410/27001;;;Al Consejo de la Juventud de España
 2009;G;4;41;410/28001;;;Al Instituto de la Juventud para el cumplimiento de sus fines
 2009;G;4;41;410/31004;;;Al Parque Móvil del Estado
-2009;G;4;41;411;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
+2009;G;4;41;411/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
 2009;G;4;41;411/16005;;;A Trabajo Penitenciario y Formación para el Empleo
 2009;G;4;41;411/19003;;;Al SPEE para compensar el gasto incurrido de bonificaciones en las cotizaciones de Seguridad Social del personal investigador (art. 12 del RD 278/2007, de 23 de febrero)
 2009;G;4;41;411/19101;;;"Reserva gestión directa SPEE ""Para programas de escuelas taller, casas de oficios y talleres de empleo"""
@@ -206,7 +222,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;41;411/25002;;;Al Centro de Investigaciones Sociológicas.
 2009;G;4;41;411/28001;;;Al Consejo de la Juventud de España para el cumplimiento de sus fines
 2009;G;4;41;411/31002;;;"Aportación del Estado  a la Mutualidad General  de Funcionarios Civiles del Estado,  al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, al amparo de las siguientes Disposiciones: artículo 30.3 del Real Decreto Legislativo 1/2000,  de 9 de junio;  artículo 24 y Disposición Adicional 3ª.3 del Real Decreto Legislativo 3/2000, de 23 de junio y  artículo 35.3 del Real Decreto Legislativo  4/2000, de 23 de junio"
-2009;G;4;41;412;;;Al Parque de Maquinaria para compensar las actividades de desarrollo de la Junta Administradora de vehículos y maquinaria.
+2009;G;4;41;412/17001;;;Al Parque de Maquinaria para compensar las actividades de desarrollo de la Junta Administradora de vehículos y maquinaria.
 2009;G;4;41;412/17018;;;Al Centro Nacional de Información Geográfica (CNIG)
 2009;G;4;41;412/19003;;;Para financiar el presupuesto del Servicio Público de Empleo Estatal
 2009;G;4;41;412/19101;;;Reserva de gestión directa  SPEE. Para cuotas de seguros de accidentes de alumnos, becas y/o ayudas a alumnos y subvenciones a centros y entidades de formación profesional para el empleo para desempleados, a Organismos Autónomos de la Administración General del Estado
@@ -216,14 +232,14 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;41;412/23001;;;Subvención a la Agencia para el Aceite de Oliva (AAO)
 2009;G;4;41;412/24001;;;A la Biblioteca Nacional.
 2009;G;4;41;412/26004;;;Al Instituto Nacional del Consumo.
-2009;G;4;41;413;;;Al Instituto de Contabilidad y Auditoría de Cuentas
+2009;G;4;41;413/15001;;;Al Instituto de Contabilidad y Auditoría de Cuentas
 2009;G;4;41;413/21401;;;Al Instituto Nacional de Técnicas Aeroespaciales
 2009;G;4;41;413/23001;;;Subvención al Fondo Español de Garantía Agraria (FEGA)
-2009;G;4;41;414;;;Al Instituto de Astrofísica de Canarias (IAC)
+2009;G;4;41;414/21006;;;Al Instituto de Astrofísica de Canarias (IAC)
 2009;G;4;41;414/23001;;;Subvención a la Entidad Estatal de Seguros Agrarios (ENESA)
 2009;G;4;41;414/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales.
 2009;G;4;41;414/26005;;;A la Organización Nacional de Trasplantes.
-2009;G;4;41;415;;;Al Instituto Nacional de Estadística
+2009;G;4;41;415/15016;;;Al Instituto Nacional de Estadística
 2009;G;4;41;415/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo para el cumplimiento de sus fines.
 2009;G;4;41;415/19101;;;Al Instituto Nacional de Administración Pública, para la formación del personal al servicio de las Administraciones Públicas
 2009;G;4;41;415/21001;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria
@@ -231,37 +247,37 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;41;415/23005;;;Parque de Maquinaria, para sufragar gastos corrientes
 2009;G;4;41;415/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales. Dotación del Fondo de Protección a la Cinematografía.
 2009;G;4;41;415/26001;;;A la Agencia Española de Seguridad Alimentaria y Nutrición.
-2009;G;4;41;416;;;Al Centro Español de Metrología
+2009;G;4;41;416/20015;;;Al Centro Español de Metrología
 2009;G;4;41;416/21006;;;Al Instituto de Salud Carlos III
 2009;G;4;41;416/24001;;;Al Instituto Nacional de las Artes Escénicas y de la Música
 2009;G;4;41;416/28003;;;Al Instituto de la Mujer para el cumplimiento de sus fines
-2009;G;4;41;417;;;Al Organismo Autónomo Programas Educativos Europeos
+2009;G;4;41;417/21003;;;Al Organismo Autónomo Programas Educativos Europeos
 2009;G;4;41;417/24001;;;A la Gerencia de Infraestructuras y Equipamientos de Cultura
 2009;G;4;41;417/25002;;;Al Consejo de Administración del Patrimonio Nacional
 2009;G;4;41;417/26001;;;A la Agencia Española de Medicamentos y Productos Sanitarios
 2009;G;4;41;419;;;Al Real Patronato sobre Discapacidad para el cumplimiento de sus fines
 2009;G;4;42;;;;A la Seguridad Social
 2009;G;4;42;420;;;Prestaciones socio-económicas de carácter no contributivo.
-2009;G;4;42;421;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones corrientes del Instituto Nacional de Gestión Sanitaria.
+2009;G;4;42;421/26011;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones corrientes del Instituto Nacional de Gestión Sanitaria.
 2009;G;4;42;421/26013;;;Al Instituto Nacional de Gestión Sanitaria para el desarrollo del Plan de Calidad del Sistema Nacional de Salud, en las ciudades de Ceuta y Melilla (por incremento de la población protegida).
 2009;G;4;42;421/60001;;;Aportaciones para el sostenimiento de servicios comunes
-2009;G;4;42;422;;;Ayudas previas a la jubilación ordinaria a trabajadores mayores de 60 años en el sistema de la Seguridad Social.
+2009;G;4;42;422/19003;;;Ayudas previas a la jubilación ordinaria a trabajadores mayores de 60 años en el sistema de la Seguridad Social.
 2009;G;4;42;422/60001;;;Capitales renta
-2009;G;4;42;423;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.
+2009;G;4;42;423/19002;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.
 2009;G;4;42;423/60001;;;Cuotas de reaseguro de accidentes de trabajo
 2009;G;4;42;424;;;Al IMSERSO, para el cumplimiento de sus fines
-2009;G;4;42;425;;;Cuotas de seguridad social de emigrantes
+2009;G;4;42;425/19007;;;Cuotas de seguridad social de emigrantes
 2009;G;4;42;425/26011;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago.
-2009;G;4;42;426;;;Al IMSERSO para la cobertura de cuotas sociales de cuidadores no profesionales en dependencia (SAAD)
+2009;G;4;42;426/18007;;;Al IMSERSO para la cobertura de cuotas sociales de cuidadores no profesionales en dependencia (SAAD)
 2009;G;4;42;426/19002;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM
-2009;G;4;42;427;;;Al IMSERSO para mínimo garantizado en dependencia.
+2009;G;4;42;427/18007;;;Al IMSERSO para mínimo garantizado en dependencia.
 2009;G;4;42;427/26011;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina (ISM).
 2009;G;4;42;428;;;Al IMSERSO. Nivel convenido en dependencia (SAAD).
-2009;G;4;42;429;;;Al IMSERSO para otros gastos en dependencia.
+2009;G;4;42;429/18007;;;Al IMSERSO para otros gastos en dependencia.
 2009;G;4;42;429/19002;;;Otras aportaciones a la Seguridad Social.
 2009;G;4;42;429/60001;;;Otras transferencias a entidades del sistema
 2009;G;4;43;;;;A agencias estatales y otros organismos públicos
-2009;G;4;43;430;;;A Agencias Estatales y otros Organismos Públicos
+2009;G;4;43;430/02003;;;A Agencias Estatales y otros Organismos Públicos
 2009;G;4;43;430/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrrollo.
 2009;G;4;43;430/17034;;;A la Agencia Estatal de Seguridad Aérea. ( AESA )
 2009;G;4;43;430/18101;;;A la Agencia Estatal Antidopaje para cumplimiento de sus fines
@@ -270,22 +286,22 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;43;430/21009;;;Al CSIC, líneas e instalaciones
 2009;G;4;43;430/22001;;;A la Agencia de la Evaluación de políticas y programas públicos, calidad de los servicios e impacto normativo
 2009;G;4;43;430/23007;;;A la Agencia Estatal de Meteorología
-2009;G;4;43;431;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para los fines sociales que se realicen en el campo de la cooperación internacional (art. 2 del Real Decreto 825/1988, de 15 de julio). Porcentaje IRPF.
+2009;G;4;43;431/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para los fines sociales que se realicen en el campo de la cooperación internacional (art. 2 del Real Decreto 825/1988, de 15 de julio). Porcentaje IRPF.
 2009;G;4;43;431/19101;;;Reserva de gestión directa del SPEE. Al Consejo Superior de Investigaciones Científicas (Ministerio de Ciencia e Innovación). Para contratación de desempleados en obras y servicios de interés general y social por órganos de la Administración General del Estado
 2009;G;4;43;432;;;Al CSIC para gastos de funcionamiento operativo de la flota oceanográfica española y las bases antárticas
-2009;G;4;43;435;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
+2009;G;4;43;435/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
 2009;G;4;43;435/16001;;;A la Agencia Estatal de Administración Tributaria, por los gastos comunes del edificio de la calle del Plomo en Madrid
 2009;G;4;43;435/19001;;;Al Consejo Económico y Social para el cumplimiento de sus fines
-2009;G;4;43;436;;;A la Comisión Nacional de la Competencia
+2009;G;4;43;436/15016;;;A la Comisión Nacional de la Competencia
 2009;G;4;43;436/20018;;;Al Consejo de Seguridad Nuclear
-2009;G;4;43;437;;;Al Instituto Cervantes
+2009;G;4;43;437/12003;;;Al Instituto Cervantes
 2009;G;4;43;437/13002;;;A la Agencia Española de Protección de Datos
 2009;G;4;43;437/14001;;;A Organismos Públicos
 2009;G;4;43;437/20003;;;Transferencias a Entes Públicos
 2009;G;4;43;437/24001;;;Al Museo Nacional del Prado.
 2009;G;4;43;439;;;Al ICEX para compensación de los gastos derivados de la celebración de la 41 Asamblea Anual de Gobernadores del Banco Asiático de Desarrollo
 2009;G;4;44;;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.
-2009;G;4;44;440;;;Subvenciones a Organismos
+2009;G;4;44;440/12004;;;Subvenciones a Organismos
 2009;G;4;44;440/12401;;;Instituciones adheridas en España
 2009;G;4;44;440/14205;;;A sociedades mercantiles estatales, entidades empresariales y otros organismos
 2009;G;4;44;440/17001;;;A la Sociedad Estatal Correos y Telégrafos, S.A., para la prestación del Servicio Postal Universal.
@@ -314,12 +330,13 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;44;440/24201;;;A la Fundación Teatro Real, para el desarrollo de sus actividades musicales.
 2009;G;4;44;440/25002;;;Al Consorcio para la conmemoración del Bicentenario de la Constitución de 1812
 2009;G;4;44;440/26102;;;Al Instituto de Crédito Oficial, para atender los gastos derivados de los costes del margen de intermediación de las entidades de crédito y el quebranto en la cesión de fondos, derivados de la línea de mediación de anticipos a cuenta a los afectados de FORUM FILATÉLICO-AFINSA.
-2009;G;4;44;441;;;A la Universidad Nacional de Educación a Distancia
+2009;G;4;44;441/12001;;;A la Universidad Nacional de Educación a Distancia
 2009;G;4;44;441/12401;;;A la Fundación Carolina
 2009;G;4;44;441/13001;;;A la Fundación Pluralismo y Convivencia
 2009;G;4;44;441/15001;;;Al Ente Público Radio Televisión Española (en liquidación)
 2009;G;4;44;441/15105;;;A la Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas - FIIAPP
 2009;G;4;44;441/16004;;;Colaboración con Universidades
+2009;G;4;44;441/16005;;;A la Universidad Nacional de Educación a Distancia
 2009;G;4;44;441/17018;;;Formación Geográfica internacional
 2009;G;4;44;441/17032;;;A la Sociedad Estatal de Salvamento y Seguridad Marítima, (SASEMAR).
 2009;G;4;44;441/18005;;;"A la Sociedad Mercantil Estatal Televisión Española, S. A. para la producción y emisión del espacio educativo ""La Aventura del Saber"""
@@ -345,7 +362,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;44;441/24003;;;Al CSIC para realización de un estudio sobre el estado de conservación de las Cuevas de Altamira
 2009;G;4;44;441/24006;;;A la Fundación Centro nacional del Vidrio para sus gastos de funcionamiento
 2009;G;4;44;441/24201;;;Transferencias para actividades musicales y coreográficas de ámbito nacional.
-2009;G;4;44;442;;;A la Fundación Internacional y para Iberoamércia de Administración y Políticas Públicas
+2009;G;4;44;442/12003;;;A la Fundación Internacional y para Iberoamércia de Administración y Políticas Públicas
 2009;G;4;44;442/12401;;;Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas, para funcionamiento y actividades
 2009;G;4;44;442/15001;;;Al Grupo de la Corporación R.T.V.E.
 2009;G;4;44;442/17032;;;Compensación económica a Empresas Públicas o privadas de transporte marítimo por la prestación del servicio de navegaciones de interés público.
@@ -367,8 +384,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;44;442/24006;;;A la Fundación Víctimas del terrorismo para desarrollo de sus actividades
 2009;G;4;44;442/24201;;;Programas de apoyo a festivales de música y temporadas líricas de interés nacional
 2009;G;4;44;442/25001;;;A la Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas
-2009;G;4;44;443;;;"Al Consorcio ""Ciudad de Santiago de Compostela"""
 2009;G;4;44;443/12401;;;Fundación Colegios Mayores MAEC-AECI
+2009;G;4;44;443/15001;;;"Al Consorcio ""Ciudad de Santiago de Compostela"""
 2009;G;4;44;443/18101;;;A Universidades para actividades estatales de deporte universitario.
 2009;G;4;44;443/19101;;;A la Fundación Tripartita para la Formación en el Empleo, para gastos corrientes
 2009;G;4;44;443/20102;;;Subvenciones a la Fundación Bosch i Gimpera
@@ -377,8 +394,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;44;443/24006;;;A la Fundación Residencia de Estudiantes
 2009;G;4;44;443/24201;;;Al Instituto Complutense de Ciencias Musicales para el desarrollo de sus actividades musicales.
 2009;G;4;44;443/26005;;;"A la ""Fundación para la Cooperación y Salud Internacional Carlos III"". Operaciones corrientes."
-2009;G;4;44;444;;;Al Consorcio de la Ciudad de Toledo
 2009;G;4;44;444/12401;;;Fundación Residencia de Estudiantes, funcionamiento y actividades
+2009;G;4;44;444/15001;;;Al Consorcio de la Ciudad de Toledo
 2009;G;4;44;444/20006;;;Para cobertura de las diferencias producidas por operaciones autorizadas al amparo de la Ley 11/1983, de subvención al crédito a la exportación a librar a través del Instituto de Crédito Oficial (ICO)
 2009;G;4;44;444/21001;;;Al CDTI para financiación de la RED PI+D+I
 2009;G;4;44;444/21004;;;Ayudas a las Universidades para gastos de gestión
@@ -386,7 +403,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;44;444/24006;;;Al Consorcio del Centro Federico García Lorca de Granada
 2009;G;4;44;444/24201;;;A la Sociedad Mercantil Estatal Televisión Española S.A.,  para la creación del canal cultural de TV
 2009;G;4;44;444/26005;;;"A la ""Fundación para el desarrollo de la Investigación en Genómica y Proteómica"". Operaciones corrientes."
-2009;G;4;44;445;;;Centro Internacional de Toledo para la paz
+2009;G;4;44;445/12004;;;Centro Internacional de Toledo para la paz
 2009;G;4;44;445/12401;;;Fundación Española para la Innovación de la Artesanía, actividades
 2009;G;4;44;445/15001;;;Al Consorcio de la Ciudad de Cuenca
 2009;G;4;44;445/20006;;;A la Sociedad Estatal para la Promoción y Atracción de las Inversiones Exteriores, S.A.
@@ -397,29 +414,29 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;44;445/24003;;;Consorci de Rehabilitació Teatres Barcelona
 2009;G;4;44;445/24006;;;A la Fundación Instituto de Cultura Gitana para sus gastos de funcionamiento
 2009;G;4;44;445/24201;;;Al Consorci Mercat de les Flors-Centre de les Arts de Moviment
-2009;G;4;44;446;;;A Unescocat
+2009;G;4;44;446/12004;;;A Unescocat
 2009;G;4;44;446/12401;;;Fundación para la Coperación y Salud Internacional Carlos III, actividades
 2009;G;4;44;446/17040;;;A RENFE-OPERADORA por compensación por la prestación de servicios de Cercanías y Media Distancia
 2009;G;4;44;446/20014;;;A la Entidad Pública Empresarial RED.es
 2009;G;4;44;446/21004;;;"Aportación a las Universidades como contribución por los costes derivados de su participación en el Programa Español de Ayudas para la Movilidad de Estudiantes ""Séneca"""
 2009;G;4;44;446/24201;;;Al Centro Internacional de Teatro Clásico de Almagro
-2009;G;4;44;447;;;A RENFE-OPERADORA para compensación de pérdidas del Resto de Negocios y Plan de Recursos Humanos
+2009;G;4;44;447/17040;;;A RENFE-OPERADORA para compensación de pérdidas del Resto de Negocios y Plan de Recursos Humanos
 2009;G;4;44;447/21204;;;Transferencias para sostenimiento de servicios comunes
 2009;G;4;44;447/23226;;;A la Universidad de León
-2009;G;4;44;448;;;Al Consorcio de la Zona Especial Canaria
+2009;G;4;44;448/15001;;;Al Consorcio de la Zona Especial Canaria
 2009;G;4;44;448/20014;;;Al Instituto Nacional de las Tecnologías de las Comunicaciones, S.A. (INTECO) (Plan León)
 2009;G;4;44;448/21003;;;A las Universidades por los gastos derivados de las actuaciones de las comisiones de habilitación y acreditación
 2009;G;4;44;448/21004;;;Programa de estudios para la realización de proyectos de innovación universitaria
 2009;G;4;44;448/21401;;;A la Universidad Nacional de Educación a Distancia para desarrollo de cursos de formación
 2009;G;4;44;448/23226;;;A la Universidad de Zaragoza
 2009;G;4;44;448/24201;;;Al Museo y Centro para la Difusión del Circo (Albacete)
-2009;G;4;44;449;;;Al Patronato de la Obra Pía de los Santos Lugares de Jerusalén
+2009;G;4;44;449/12001;;;Al Patronato de la Obra Pía de los Santos Lugares de Jerusalén
 2009;G;4;44;449/60001;;;Otras transferencias
 2009;G;4;45;;;;A comunidades autónomas
-2009;G;4;45;450;;;A Universidades y otros Organismos Públicos para desarrollar cursos para profesores extranjeros de español y cursos en centros de convenio
 2009;G;4;45;450/12401;;;Universidad Complutense de Madrid
 2009;G;4;45;450/15105;;;A la Universidad de Alcalá de Henares
 2009;G;4;45;450/16101;;;Gestión de cobro de tasas por las estaciones ITV
+2009;G;4;45;450/18002;;;A Universidades y otros Organismos Públicos para desarrollar cursos para profesores extranjeros de español y cursos en centros de convenio
 2009;G;4;45;450/18004;;;Convenios con las Ciudades Autónomas de Ceuta y Melilla para la extensión del primer ciclo de educación infantil
 2009;G;4;45;450/18006;;;Para programas integrados de apoyo y refuerzo en centros de Educación Primaria y Educación Secundaria
 2009;G;4;45;450/19101;;;Plan extraordinario orientación, formación profesional e inserción laboral para hacer frente al incremento del paro registrado
@@ -439,8 +456,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;45;450/32009;;;A la Entidad Pública de Transporte Metropolitano de Valencia
 2009;G;4;45;450/32012;;;A la Comunidad Autónoma de Canarias, según Convenio suscrito por el Estado
 2009;G;4;45;450/60001;;;A Comunidades Autónomas por funciones y servicios transferidos
-2009;G;4;45;451;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99)
 2009;G;4;45;451/16201;;;Convenios en materia de educación para el empleo
+2009;G;4;45;451/17020;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99)
 2009;G;4;45;451/18004;;;Para actividades de Educación Compensatoria.
 2009;G;4;45;451/18006;;;Convenios con Comunidades Autónomas para apoyar la Ley Organica de la Educación
 2009;G;4;45;451/19007;;;Para acciones en favor de los emigrantes
@@ -476,7 +493,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;45;451/32019;;;Fondo de Suficiencia
 2009;G;4;45;451/32020;;;Fondo de Suficiencia
 2009;G;4;45;451/60001;;;Para atención a personas en situación de dependencia
-2009;G;4;45;452;;;Para la concesión de ayudas a Federaciones y Confederaciones de Asociaciones de Padres de Alumnos en que aquéllas se integren.
+2009;G;4;45;452/18004;;;Para la concesión de ayudas a Federaciones y Confederaciones de Asociaciones de Padres de Alumnos en que aquéllas se integren.
 2009;G;4;45;452/18006;;;Para la gratuidad del segundo ciclo de educación infantil
 2009;G;4;45;452/19101;;;Gestión por las Comunidades Autónomas de la formación profesional para el empleo
 2009;G;4;45;452/21004;;;A Comunidades Autónomas, para mejora de la calidad de los campus
@@ -487,7 +504,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;45;452/26007;;;Transferencias a CC.AA. para toda clase de gastos necesarios para el desarrollo de programas de prevención y promoción de la salud, especialmente en el ámbito de enfermedades  emergentes, reemergentes y de especial relevancia.
 2009;G;4;45;452/26014;;;Para toda clase de gastos que originen los programas de prevención de drogodependencias desarrollados en el marco de la Estrategia Nacional sobre Drogas 2009-2011.
 2009;G;4;45;452/32018;;;Liquidación definitiva de la financiación de las Comunidades Autónomas y ciudades con Estatuto de Autonomía de ejercicios anteriores.
-2009;G;4;45;453;;;Convenios con Comunidades Autónomas para el desarrollo de programas de acciones de compensación educativa e inserción laboral
+2009;G;4;45;453/18005;;;Convenios con Comunidades Autónomas para el desarrollo de programas de acciones de compensación educativa e inserción laboral
 2009;G;4;45;453/18006;;;A Comunidades Autonomas para mejora de las Bibliotecas Escolares
 2009;G;4;45;453/18007;;;Programas de servicios sociales
 2009;G;4;45;453/18008;;;Programas de servicios sociales
@@ -510,7 +527,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;45;453/32015;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
 2009;G;4;45;453/32016;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
 2009;G;4;45;453/32017;;;Dotación Complementaria para la financiación de la Asistencia Sanitaria
-2009;G;4;45;454;;;A Comunidades Autónomas para Centros de Referencia Nacional y Centros integrados de Formación Profesional
+2009;G;4;45;454/18005;;;A Comunidades Autónomas para Centros de Referencia Nacional y Centros integrados de Formación Profesional
 2009;G;4;45;454/18006;;;Fondo para cofinanciar plazas del primer ciclo de educación infantil del servicio público de educación
 2009;G;4;45;454/18009;;;Para programas y/o servicios de apoyo a familias y atención de menores
 2009;G;4;45;454/18101;;;A Comunidades Autónomas para actividad deportiva estatal en edad escolar y en la Universidad, incluidas Ceuta y Melilla
@@ -520,7 +537,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;45;454/26014;;;Para toda clase de gastos derivados del desarrollo del Observatorio Español sobre Drogas.
 2009;G;4;45;454/32012;;;Dotación de Compensación de Insularidad
 2009;G;4;45;454/32015;;;Dotación de Compensación de Insularidad
-2009;G;4;45;455;;;Para  compensar  a  la  Generalidad  de  Cataluña por  las  reducciones  de  peaje  realizadas  según  Convenio  de  colaboración con  la  Administración  General del  Estado  de  conformidad  con  la  Disposición  Adicional  Tercera  del  Estatuto  de  Cataluña
+2009;G;4;45;455/17020;;;Para  compensar  a  la  Generalidad  de  Cataluña por  las  reducciones  de  peaje  realizadas  según  Convenio  de  colaboración con  la  Administración  General del  Estado  de  conformidad  con  la  Disposición  Adicional  Tercera  del  Estatuto  de  Cataluña
 2009;G;4;45;455/18004;;;Convenios con CC.AA. para desarrollar actividades destinadas al alumnado con sobredotación intelectual o con talento.
 2009;G;4;45;455/18101;;;A Comunidades Autónomas de Baleares, Canarias y ciudades autónomas de Ceuta y Melilla para desplazamientos de participantes en competiciones estatales
 2009;G;4;45;455/19007;;;Acciones de integración a favor de los inmigrantes
@@ -532,23 +549,23 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;45;455/26013;;;A CC.AA. Para el desarrollo de la Estrategia de Historia Clínica Digital del SNS.
 2009;G;4;45;455/32002;;;Coste provisional de la policía autónoma de Cataluña, incluso liquidaciónes definitivas de ejercicios anteriores
 2009;G;4;45;455/32016;;;Al  Consorcio Regional de Transportes de Madrid
-2009;G;4;45;456;;;Plan de acción para las personas con discapacidad
+2009;G;4;45;456/18010;;;Plan de acción para las personas con discapacidad
 2009;G;4;45;456/18101;;;A Comunidades Autónomas para gastos de funcionamiento de Centros de Alto Rendimiento y Tecnificación
 2009;G;4;45;456/24201;;;Al Ballet de Víctor Ullate de la Comunidad de Madrid para la creación del Ballet Clásico Español
 2009;G;4;45;456/26014;;;Para toda clase de gastos derivados de programas de rehabilitación-reinserción de toxicómanos con problemas juridicopenales.
-2009;G;4;45;457;;;Para el aumento de oferta de plazas en las Escuelas Oficiales de Idiomas, para la enseñanza del inglés
+2009;G;4;45;457/18004;;;Para el aumento de oferta de plazas en las Escuelas Oficiales de Idiomas, para la enseñanza del inglés
 2009;G;4;45;457/19101;;;A Comunidades Autónomas. Para actuaciones en centros nacionales de formación de desempleados y centros de referencia nacional
 2009;G;4;45;457/24006;;;Centro cultural en el municipio de Vic
 2009;G;4;45;457/24201;;;Otros festivales
-2009;G;4;45;458;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado
+2009;G;4;45;458/18008;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado
 2009;G;4;45;458/19101;;;Para la modernización de los servicios públicos de empleo, según la ley 45/2002, de 12 de diciembre
 2009;G;4;45;458/24006;;;Ampliación y reforma del centro cultural en el municipio  de Taradell
 2009;G;4;45;458/26014;;;Para actividades de las Comunidades y Ciudades Autónomas en aplicación de la Ley 17/2003.
-2009;G;4;45;459;;;Para toda clase de gastos que originen aquellos programas que la Delegación del Gobierno para el Plan Nacional sobre Drogas considere prioritarios en función de las necesidades de determinadas áreas y ámbitos de intervención.
+2009;G;4;45;459/26014;;;Para toda clase de gastos que originen aquellos programas que la Delegación del Gobierno para el Plan Nacional sobre Drogas considere prioritarios en función de las necesidades de determinadas áreas y ámbitos de intervención.
 2009;G;4;45;459/60001;;;Otras transferencias corrientes
 2009;G;4;46;;;;A entidades locales
-2009;G;4;46;460;;;Actuaciones para la ordenación de los flujos migratorios laborales cofinanciadas o no cofinanciadas por el Fondo Social Europeo
 2009;G;4;46;460/18103;;;Para experiencias innovadoras
+2009;G;4;46;460/19007;;;Actuaciones para la ordenación de los flujos migratorios laborales cofinanciadas o no cofinanciadas por el Fondo Social Europeo
 2009;G;4;46;460/19101;;;Planes de reinserción, mejora de la capacidad de ocupación de demandantes de empleo y fomento del desarrollo local
 2009;G;4;46;460/21204;;;Transferencias para actividades complementarias
 2009;G;4;46;460/22003;;;Compensaciones a Entidades Locales
@@ -559,7 +576,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;46;460/24101;;;Ayudas a la Cinematografía a través de Corporaciones Locales.
 2009;G;4;46;460/28201;;;"A Entidades de la Administración Local para proyectos del programa ""Juventud en acción"" de la Unión Europea."
 2009;G;4;46;460/32023;;;Transferencias a Ayuntamientos
-2009;G;4;46;461;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2009;G;4;46;461/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2009;G;4;46;461/16201;;;Convenios en materia de formación, orientación y acompañamiento para la reinserción laboral
 2009;G;4;46;461/18005;;;A Corporaciones Locales para Educación de Adultos
 2009;G;4;46;461/18101;;;Al Ayuntamiento de Calella (Barcelona) para el desarrollo de la Challenger Barcelona-Maresme.
@@ -574,7 +591,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;46;461/24201;;;Festivales y otras actividades musicales de ámbito nacional.
 2009;G;4;46;461/26102;;;Ayuda a la gestión de las Juntas Arbitrales adscritas a administraciones locales.
 2009;G;4;46;461/32023;;;Transferencias a las Diputaciones y Cabildos Insulares
-2009;G;4;46;462;;;Subvención por gastos Juzgados de Paz (art. 52 Ley de Demarcación y de Planta Judicial)
+2009;G;4;46;462/13002;;;Subvención por gastos Juzgados de Paz (art. 52 Ley de Demarcación y de Planta Judicial)
 2009;G;4;46;462/18005;;;Para el desarrollo de programas de cualificación profesional inicial
 2009;G;4;46;462/23101;;;Corporaciones Locales. Indemnizaciones por pérdida de renta
 2009;G;4;46;462/24003;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento del Museo Puget
@@ -582,20 +599,20 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;46;462/24201;;;A la Fundación pública Festival Internacional de Santander para el desarrollo de su Festival.
 2009;G;4;46;462/26014;;;A CC.LL en aplicación de la Ley 17/2003.
 2009;G;4;46;462/32023;;;A Corporaciones Locales para cofinanciar los servicios de transporte colectivo urbano
-2009;G;4;46;463;;;Para subvencionar convenios con Ayuntamientos que desarrollan el proyecto MENTOR para la formación a distancia con nuevas tecnologías
+2009;G;4;46;463/18005;;;Para subvencionar convenios con Ayuntamientos que desarrollan el proyecto MENTOR para la formación a distancia con nuevas tecnologías
 2009;G;4;46;463/23101;;;Entidades Locales. Programas y Convenios de Colaboración
 2009;G;4;46;463/24003;;;Al Ayuntamiento de Capellades, para el Museo del Neardental de Catalunya
 2009;G;4;46;463/24201;;;Al Ayuntamiento de la Unión (Murcia) para el Festival de Cante de las Minas.
 2009;G;4;46;463/32023;;;A los Ayuntamientos de Ceuta y Melilla, para compensar los costes de funcionamiento de las plantas desalinizadoras y, en su caso, los del transporte de agua, según Convenio
-2009;G;4;46;464;;;Depósitos Municipales
+2009;G;4;46;464/16005;;;Depósitos Municipales
 2009;G;4;46;464/24201;;;Programa de apoyo a Festivales, Muestras, Ferias y otras actividades Teatrales y Circenses organizadas por Corporaciones Locales.
 2009;G;4;46;465;;;Programa de apoyo a festivales, muestras, ferias y otras actividades musicales organizadas por corporaciones locales.
 2009;G;4;46;466;;;Financiación de instituciones del municipio de Barcelona, de acuerdo con el Convenio que se suscriba en el ámbito de la Comisión de Colaboración Interadministrativa, y contribución a la financiación de servicios específicos de su Área Metropolitana, creada por la Ley de la Comunidad Autónoma, y con arreglo al Texto Refundido de la Ley Reguladora de las Haciendas Locales
-2009;G;4;46;468;;;Liquidación definitiva  de la participación  en los ingresos del Estado  de las Corporaciones Locales,  correspondiente a ejercicios  anteriores y compensaciones derivadas del  Nuevo Modelo de Financiación Local
 2009;G;4;46;468/24201;;;Al Instituto Municipal de Artes Escénicas Gran Teatro de Córdoba para el festival de guitarra
+2009;G;4;46;468/32023;;;Liquidación definitiva  de la participación  en los ingresos del Estado  de las Corporaciones Locales,  correspondiente a ejercicios  anteriores y compensaciones derivadas del  Nuevo Modelo de Financiación Local
 2009;G;4;46;469;;;Al Ayuntamiento de Sant Feliu de Guixols para el Festival de verano de la Porta Ferrada
 2009;G;4;47;;;;A empresas privadas
-2009;G;4;47;470;;;Transferencia corriente de las Cortes a Empresas privadas
+2009;G;4;47;470/02002;;;Transferencia corriente de las Cortes a Empresas privadas
 2009;G;4;47;470/02003;;;A empresas privadas
 2009;G;4;47;470/12401;;;Transferencias a empresas privadas
 2009;G;4;47;470/19007;;;Actuaciones para la ordenación de los flujos migratorios laborales
@@ -610,7 +627,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;47;470/24006;;;Al ICO ( Instituto de Crédito Oficial) para subvencionar los tipos de interés de los préstamos  a empresas e industrias culturales
 2009;G;4;47;470/24101;;;Fondo de Protección a la Cinematografía
 2009;G;4;47;470/28003;;;Programa incentivación de buenas prácticas empresariales en materia de igualdad (distintivo empresarial art. 50 L.O. 3/2007)
-2009;G;4;47;471;;;Por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia
+2009;G;4;47;471/16001;;;Por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia
 2009;G;4;47;471/17031;;;Subvención al transporte marítimo y aéreo de mercancias entre la Península y las Islas Canarias o entre éstas y la Península, así como el existente entre las Islas y el de exportación de las mismas a paises extranjeros de acuerdo con la legislación vigente.  Sin Financiación  Comunitaria
 2009;G;4;47;471/17040;;;Garantía de intereses para ferrocarriles secundarios y estratégicos, correspondientes al ejercicio corriente y a posteriores, hasta el final de las concesiones.
 2009;G;4;47;471/18101;;;A Universidades privadas para actividad estatal de deporte universitario.
@@ -625,7 +642,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;47;471/24201;;;A Orquestas, grupos de cámara, compañías de teatro, circenses y de danza, para giras por el extranjero.
 2009;G;4;47;471/27001;;;Abono de indemnizaciones por Sentencias de Tribunales
 2009;G;4;47;471/60001;;;Entregas de botiquines
-2009;G;4;47;472;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2009;G;4;47;472/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2009;G;4;47;472/17031;;;Subvención al transporte marítimo y aéreo de mercancias entre la Península y las Islas Baleares o entre éstas y la Península, así como el existente entre las Islas y el de exportación de las mismas a paises extranjeros de acuerdo con la legislación vigente
 2009;G;4;47;472/18101;;;Al Colegio Oficial de Sociólogos y Politólogos para desarrollo de un plan integral de tutorización y orientación laboral para deportistas
 2009;G;4;47;472/19101;;;Apoyo a la creación de empleo: ayudas al colectivo de personas con discapacidad, al fomento del empleo estable y a la creación de actividad.
@@ -636,30 +653,30 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;47;472/24101;;;Subvención Festivales Nacionales e Internacionales.
 2009;G;4;47;472/28101;;;Ayudas a la edición
 2009;G;4;47;472/60001;;;Ayudas para balsas de salvamento
-2009;G;4;47;473;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99)
+2009;G;4;47;473/17020;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99)
 2009;G;4;47;473/17031;;;Subvención  al  transporte  marítimo  y  aéreo  de  mercancias  entre  la  Península  y  las  Islas  Canarias  o  entre  éstas  y  la  Península,  así  como  el  existente  entre  las  Islas  y  el  de  exportación  de  las  mismas  a  paises  extranjeros  de  acuerdo  con  la  legislación  vigente.  Con  Financiación  Comunitaria
 2009;G;4;47;473/19101;;;Fomento del desarrollo local: subvenciones a empresas calificadas como I+E
 2009;G;4;47;473/20101;;;Subvención a los costes de transporte de carbón entre Cuencas Mineras
 2009;G;4;47;473/23211;;;Subvenciones nacionales para la cofinanciación de ayudas con Fondos Europeos Agrícolas
 2009;G;4;47;473/24201;;;Giras y producciones de personas y conjuntos musicales y coreográficos.
-2009;G;4;47;474;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A. por la rebaja del 50 por 100 en los peajes a los vehículos ligeros, en la autopista Leon-Campomanes
+2009;G;4;47;474/17020;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A. por la rebaja del 50 por 100 en los peajes a los vehículos ligeros, en la autopista Leon-Campomanes
 2009;G;4;47;474/18101;;;A la Mutualidad General Deportiva, subvención para primar la afiliación de menores.
 2009;G;4;47;474/20101;;;Para cubrir costes sociales y técnicos, así como obligaciones contractuales, derivadas de la reordenación del sector del carbón
-2009;G;4;47;475;;;Para compensar a las Sociedades Concesionarias de Autopistas de Peaje por la modificación temporal de las tarifas de acuerdo con lo dispuesto en el Real Decreto Ley 11/2001, de 22 de junio.
+2009;G;4;47;475/17020;;;Para compensar a las Sociedades Concesionarias de Autopistas de Peaje por la modificación temporal de las tarifas de acuerdo con lo dispuesto en el Real Decreto Ley 11/2001, de 22 de junio.
 2009;G;4;47;475/17031;;;Subvención al funcionamiento de las Autopistas del Mar entre España y Francia
 2009;G;4;47;475/18101;;;A la Mutualidad de Previsión Social de futbolistas españoles a prima fija, subvención para primar la afiliación de menores
 2009;G;4;47;475/24201;;;A Programas de difusión nacional de la dramaturgia actual y de preservación y difusión del Teatro Clásico y desarrollo de la actividad circense a través de planes de comunicación y difusión en España.
-2009;G;4;47;476;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A. por la rebaja del 30 por 100 en los peajes a los vehículos pesados, en la autopista Leon-Campomanes
+2009;G;4;47;476/17020;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A. por la rebaja del 30 por 100 en los peajes a los vehículos pesados, en la autopista Leon-Campomanes
 2009;G;4;47;476/24201;;;Programa de espacios escénicos de nueva creación
-2009;G;4;47;477;;;Para compensar a Autopistas del Atlántico, Concesionaria Española, S.A. por la supresión del peaje de los movimientos O Morrazo - Vigo y A Coruña - A Barcala, e inversos
+2009;G;4;47;477/17020;;;Para compensar a Autopistas del Atlántico, Concesionaria Española, S.A. por la supresión del peaje de los movimientos O Morrazo - Vigo y A Coruña - A Barcala, e inversos
 2009;G;4;47;477/24004;;;Ayudas para empresas editoras de revistas de cultura en castellano y otras lenguas cooficiales distintas del castellano
-2009;G;4;47;478;;;Para  compensar  a  Autopista  Vasco-Aragonesa, Concesionaria  Española  S. A.  por  la  supresión  del  peaje  de  los  movimientos  con  origen  en  el  enlace  de  Cenicero  y  destino  en  los  de  Navarrete,  Logroño  o  Agoncillo  de  la  Autopista  AP-68  e  inversos
+2009;G;4;47;478/17020;;;Para  compensar  a  Autopista  Vasco-Aragonesa, Concesionaria  Española  S. A.  por  la  supresión  del  peaje  de  los  movimientos  con  origen  en  el  enlace  de  Cenicero  y  destino  en  los  de  Navarrete,  Logroño  o  Agoncillo  de  la  Autopista  AP-68  e  inversos
 2009;G;4;47;478/18101;;;A Universidades privadas para programas de apoyo científico al deporte y actividades afines
 2009;G;4;47;478/24201;;;A Serveis Scenics Romea para actividades teatrales
-2009;G;4;47;479;;;Obligaciones de ejercicios anteriores, para compensar a empresas privadas de su pérdida de ingresos por la rebaja de tarifas de peaje (R.D.L. 6/99)
+2009;G;4;47;479/17020;;;Obligaciones de ejercicios anteriores, para compensar a empresas privadas de su pérdida de ingresos por la rebaja de tarifas de peaje (R.D.L. 6/99)
 2009;G;4;47;479/17032;;;Para abono de sentencias relacionadas con el transporte marítimo, incluidos intereses.
 2009;G;4;48;;;;A familias e instituciones sin fines de lucro
-2009;G;4;48;480;;;A S.M. el Rey. Para el sostenimiento de su Familia y Casa (Art. 65 de la Constitución)
+2009;G;4;48;480/01001;;;A S.M. el Rey. Para el sostenimiento de su Familia y Casa (Art. 65 de la Constitución)
 2009;G;4;48;480/02001;;;A Familias e Instituciones sin fines de lucro
 2009;G;4;48;480/02002;;;A Familias e Instituciones sin fines de lucro
 2009;G;4;48;480/02003;;;A familias e instituciones sin fines de lucro
@@ -737,7 +754,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;480/28004;;;Ayudas sociales, para mujeres (art 27 de la L.O.1/2004, de 28 de diciembre)
 2009;G;4;48;480/28102;;;Ayuda a la realización de proyectos de cooperación internacional
 2009;G;4;48;480/60001;;;A Familias e instituciones sin fines de lucro
-2009;G;4;48;481;;;Remuneraciones de transición Magistrados (art. 25.1 Ley Orgánica del Tribunal Constitucional, 2/1979, de 3 de octubre)
+2009;G;4;48;481/04001;;;Remuneraciones de transición Magistrados (art. 25.1 Ley Orgánica del Tribunal Constitucional, 2/1979, de 3 de octubre)
 2009;G;4;48;481/07003;;;Pensiones e indemnizaciones de guerra
 2009;G;4;48;481/08001;;;Pensiones e indemnización al Presidente del Consejo
 2009;G;4;48;481/12001;;;A familias e instituciones sin fines de lucro
@@ -825,7 +842,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;481/28101;;;Transferencias a entidades y personas físicas para realizar actividades que fomenten la no discriminación de la mujer y su participación en la sociedad
 2009;G;4;48;481/28201;;;A Asociaciones juveniles y entidades de ámbito nacional prestadoras de servicios a la juventud
 2009;G;4;48;481/60001;;;Pensiones
-2009;G;4;48;482;;;A la Asociación de Letrados del Tribunal Constitucional
+2009;G;4;48;482/04001;;;A la Asociación de Letrados del Tribunal Constitucional
 2009;G;4;48;482/05001;;;Indemnizaciones
 2009;G;4;48;482/12004;;;Para defensa y protección de los Derechos Humanos
 2009;G;4;48;482/12401;;;Instituciones adheridas en España
@@ -886,7 +903,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;482/26102;;;Ayudas y subvenciones para impulsar, orientar y desarrollar etc, colaborando con las asociaciones de consumidores, cooperativas de consumo, instituciones públicas y privadas y personas físicas de ámbito nacional sobre asuntos de política de consumo y de los consumidores, educación para el consumo y didáctica sobre la educación para el consumo.
 2009;G;4;48;482/28004;;;Convenio con la Federación Española de Municipios y Provincias
 2009;G;4;48;482/60001;;;Incapacidad temporal y riesgo durante el embarazo
-2009;G;4;48;483;;;A Asociaciones Judiciales (art. 121 de la L.O. 6/85)
+2009;G;4;48;483/08001;;;A Asociaciones Judiciales (art. 121 de la L.O. 6/85)
 2009;G;4;48;483/12001;;;Para actividades docentes, investigación y de relaciones internacionales.
 2009;G;4;48;483/13002;;;Al Consejo General de la Abogacía Española como aportación del Estado para indemnizar a los abogados en los asuntos de asistencia jurídica gratuita
 2009;G;4;48;483/13101;;;Becas para la preparación de oposiciones al Cuerpo de Secretarios Judiciales
@@ -941,7 +958,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;483/28101;;;Convenio con la Federación Española de Municipios y Provincias para actuaciones en materia de igualdad
 2009;G;4;48;483/28201;;;"A entidades, asociaciones y jóvenes participantes en el programa""Juventud en acción"" de la Unión Europea"
 2009;G;4;48;483/60001;;;Recargos por faltas de medidas de seguridad e higiene en el trabajo
-2009;G;4;48;484;;;Ayudas a la formación
+2009;G;4;48;484/08001;;;Ayudas a la formación
 2009;G;4;48;484/12003;;;Ayudas en el ámbito de la cooperación internacional
 2009;G;4;48;484/12401;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2.del Real Decreto 825/1988 de 15 de julio). Porcentaje IRPF
 2009;G;4;48;484/13002;;;Al Consejo General de los Procuradores de España como aportación del Estado para indemnizar a los procuradores en los asuntos de asistencia jurídica gratuita
@@ -997,9 +1014,11 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;484/28003;;;Programa de empleo y autoempleo de mujeres para facilitar su inserción en el mercado laboral
 2009;G;4;48;484/28004;;;Atención a mujeres víctimas de trata con fines de explotación sexual y laboral
 2009;G;4;48;484/60001;;;Prestacion por maternidad
-2009;G;4;48;485;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
 2009;G;4;48;485/13101;;;Becas para la preparación de oposiciones al Cuerpo de Abogados del Estado
 2009;G;4;48;485/13102;;;Prótesis y otras prestaciones
+2009;G;4;48;485/14001;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
+2009;G;4;48;485/14012;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
+2009;G;4;48;485/14017;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
 2009;G;4;48;485/14111;;;A organismos específicos, servicios, etc.
 2009;G;4;48;485/14113;;;Prótesis y otras prestaciones
 2009;G;4;48;485/16001;;;Financiación a Partidos Políticos
@@ -1037,7 +1056,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;485/26007;;;Para el pago de ayudas sociales a enfermos contaminados de VIH por tratamiento con hemoderivados por transfusiones sanguíneas y sus familiares.
 2009;G;4;48;485/28003;;;Programas de formación para la dirección a mujeres dentro de la empresa
 2009;G;4;48;485/60001;;;Proteccion a la familia
-2009;G;4;48;486;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional
+2009;G;4;48;486/12003;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional
 2009;G;4;48;486/12401;;;Para Ayuda Oficial al Desarrollo
 2009;G;4;48;486/13101;;;Becas y acciones formativas en idioma extranjero Abogados del Estado.
 2009;G;4;48;486/13102;;;Prestaciones económicas Mutualidades Integradas
@@ -1070,7 +1089,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;486/26007;;;Para subvencionar a Instituciones de cualquier titularidad, sin ánimo de lucro, con destino a financiar Programas de Prevención y Control del SIDA.
 2009;G;4;48;486/28201;;;Convocatoria de premios Injuve
 2009;G;4;48;486/60001;;;Indemnizaciones y entregas unicas reglamentarias
-2009;G;4;48;487;;;Becas formación
+2009;G;4;48;487/04001;;;Becas formación
 2009;G;4;48;487/12003;;;Premio Bartolomé de las Casas
 2009;G;4;48;487/13002;;;Subvenciones a Fundaciones Judiciales
 2009;G;4;48;487/13101;;;Becas para la preparación de oposiciones al Cuerpo de Médicos Forenses y Facultativos
@@ -1099,7 +1118,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;487/24201;;;Premios nacionales de Música y Danza.
 2009;G;4;48;487/26007;;;Para coordinar con otros Agentes, de cualquier titularidad, el desarrollo del Plan Multisectorial de Lucha contra el SIDA.
 2009;G;4;48;487/60001;;;Prestaciones sociales
-2009;G;4;48;488;;;Para actividades de promoción de asuntos de la Unión Europea
+2009;G;4;48;488/12002;;;Para actividades de promoción de asuntos de la Unión Europea
 2009;G;4;48;488/13002;;;Al Consejo General de Colegios Oficiales de Psicólogos para asistencia psicólogica a las victimas
 2009;G;4;48;488/13101;;;Becas y acciones formativas en idioma extranjero Médicos Forenses
 2009;G;4;48;488/14001;;;Ayudas a alumnos extranjeros en centros docentes de las Fuerzas Armadas
@@ -1122,8 +1141,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;488/24201;;;"Premios Nacionales de Teatro y Circo y Premio para Autores Noveles ""Calderón de la Barca""."
 2009;G;4;48;488/26007;;;A la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica (GESIDA) para, mediante convenio, fomentar la investigación clínica sobre el SIDA.
 2009;G;4;48;488/60001;;;Otras prestaciones e indemnizaciones
-2009;G;4;48;489;;;Indemnizaciones derivadas de la aplicación del Real Decreto Ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad
 2009;G;4;48;489/12401;;;Instituciones sin fines de lucro
+2009;G;4;48;489/14001;;;Indemnizaciones derivadas de la aplicación del Real Decreto Ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad
 2009;G;4;48;489/16001;;;A la Cruz Roja Española, por su participación en la Operación Paso del Estrecho y en otras actividades de protección civil
 2009;G;4;48;489/16005;;;A Cáritas Española para facilitar la aplicación de los programas con personas sentenciadas a penas no privativas de libertad
 2009;G;4;48;489/17031;;;Al Centro de Estudios de Transportes del Mediterraneo Occidental
@@ -1143,9 +1162,10 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;48;489/26003;;;Para coordinar actuaciones de información y atención al ciudadano  en salud y consumo
 2009;G;4;48;489/60001;;;Farmacia (Recetas Medicas)
 2009;G;4;49;;;;Al exterior
-2009;G;4;49;490;;;Al exterior
+2009;G;4;49;490/02003;;;Al exterior
 2009;G;4;49;490/03001;;;Cuota de España al INTOSAI y OLACEFS
 2009;G;4;49;490/08001;;;Cuotas a Organismos Internacionales
+2009;G;4;49;490/12401;;;Al exterior
 2009;G;4;49;490/14001;;;A organismos internacionales
 2009;G;4;49;490/14003;;;A organismos internacionales
 2009;G;4;49;490/14017;;;A organismos internacionales
@@ -1185,7 +1205,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;49;490/25101;;;Cuotas a Organismos Internacionales
 2009;G;4;49;490/28102;;;Aportaciones a organizaciones internacionales
 2009;G;4;49;490/60001;;;Al Exterior
-2009;G;4;49;491;;;A instituciones sin fines de lucro con proyección en el exterior
+2009;G;4;49;491/12001;;;A instituciones sin fines de lucro con proyección en el exterior
 2009;G;4;49;491/12401;;;Fundación Desarrollo Local y el Fortalecimiento Municipal e Institucional Centro América y Caribe
 2009;G;4;49;491/13001;;;Conferencia de Ministros de Justicia de Países Iberoamericanos
 2009;G;4;49;491/15014;;;Aportación española al Programa de Cooperación Interregional INTERREG IV
@@ -1233,7 +1253,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;49;491/28003;;;Cuotas a organismos internacionales
 2009;G;4;49;491/28201;;;Cuotas a Organismos Internacionales
 2009;G;4;49;491/34001;;;Aportación a la Unión Europea por recurso propio procedente del IVA
-2009;G;4;49;492;;;Participación en Organismos Internacionales, incluídas obligaciones de ejercicios anteriores
+2009;G;4;49;492/12004;;;Participación en Organismos Internacionales, incluídas obligaciones de ejercicios anteriores
 2009;G;4;49;492/12005;;;Participación Organismos Internacionales
 2009;G;4;49;492/12401;;;Entidades culturales en el exterior
 2009;G;4;49;492/13001;;;Cuota al Instituto de las Naciones Unidas para la prevención del delito y tratamiento del delicuente
@@ -1260,7 +1280,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;49;492/28102;;;Convenio con la UJSario
 2009;G;4;49;492/28201;;;A la Organización Iberoamericana de Juventud para los gastos de funcionamiento previstos en el Convenio entre España y esta organización internacional
 2009;G;4;49;492/34001;;;Aportación a la Unión Europea por recurso propio basado en la Renta Nacional Bruta (RNB)
-2009;G;4;49;493;;;Protección de españoles en el extranjero: asistencia social, evacuaciones, hospitalizaciones y repatriaciones
+2009;G;4;49;493/12001;;;Protección de españoles en el extranjero: asistencia social, evacuaciones, hospitalizaciones y repatriaciones
 2009;G;4;49;493/13001;;;GRECO - Grupo de Estados contra la Corrupción
 2009;G;4;49;493/15008;;;Cuota a EUROGEOGRAPHICS
 2009;G;4;49;493/15101;;;Cuotas de participación Organismos Internacionales
@@ -1274,7 +1294,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;49;493/24006;;;Al Congreso Iberoamericano de Cultura para la celebración de su 2º Congreso
 2009;G;4;49;493/28102;;;Convenio con la Organización Iberoamericana de Juventud y el Foro Latinoamericano de Juventud
 2009;G;4;49;493/34001;;;Aportación a la Unión Europea por la recaudación líquida en España de los recursos propios tradicionales
-2009;G;4;49;494;;;Asistencia en el extranjero a beneficiarios de asilo en España
+2009;G;4;49;494/12001;;;Asistencia en el extranjero a beneficiarios de asilo en España
 2009;G;4;49;494/15016;;;Aportación voluntaria del Gobierno español a la OCDE, según convenio para promover el buen gobierno de las sociedades cotizadas en Bolsa en Latinoamérica
 2009;G;4;49;494/16002;;;Cooperación Policial con otros países
 2009;G;4;49;494/16003;;;Cooperación Internacional con otros países
@@ -1284,25 +1304,25 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;49;494/20013;;;Para satisfacer las obligaciones de la pertenencia de España a la Conferencia Europea de Administraciones Postales y de Telecomunicaciones (CEPT), así como abonar las cuotas de participación y servicios derivados del Acuerdo con la CEPT sobre motorización de telecomunicaciones por  satélite, a través de la Oficina Europea de Radiocomunicaciones (ERO)
 2009;G;4;49;494/21204;;;Cuotas y gastos derivados de la representación española ante la OCDE
 2009;G;4;49;494/34001;;;Aportación a la Unión Europea por prestación de servicios
-2009;G;4;49;495;;;Participación en Organismos Internacionales
+2009;G;4;49;495/12003;;;Participación en Organismos Internacionales
 2009;G;4;49;495/12401;;;Fondo Mixto de Cooperación Técnica y Científica Méjico-España
 2009;G;4;49;495/15009;;;"Cuota participación en ""Asociación Iberoamericana de Tribunales de Justicia Fiscal o Administrativa"""
 2009;G;4;49;495/18004;;;A la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura (OEI) para la realización de actividades de evaluación, mediante convenio.
 2009;G;4;49;495/20013;;;Para satisfacer las obligaciones que se deriven para España del cumplimiento del Convenio Internacional de Telecomunicaciones (Nairobi 1982) y con la Secretaría General de la Unión Internacional de las Telecomunicaciones
 2009;G;4;49;495/24006;;;A la Organización de Estados Iberoamericanos para la organización de la Conferencia Iberoamericana de Ministros de Cultura
 2009;G;4;49;495/34001;;;Aplicación Jurisprudencia artículo 228.2 del TUE
-2009;G;4;49;496;;;Cuotas a Organizaciones Internacionales de Seguros
 2009;G;4;49;496/12401;;;Para Ayuda Oficial al Desarrollo
+2009;G;4;49;496/15020;;;Cuotas a Organizaciones Internacionales de Seguros
 2009;G;4;49;496/20013;;;Cuota a la Asociación para el Cumplimiento de los Equipos Radio y Terminales de Telecomunicación (R&TTE CA)
 2009;G;4;49;496/21204;;;Transferencias derivadas de las actividades de cooperación con el CGIAR
 2009;G;4;49;496/24006;;;A la Conferencia de Autoridades Audiovisuales y Cinematográficas Iberoamericanas, CAACI, Programa Ibermedia para televisión cultural
-2009;G;4;49;497;;;Cuota al Centro Europeo de Empresas Públicas (CEEP)
 2009;G;4;49;497/12401;;;Asistencia a Ciudadanía que afronta condenas de pena de muerte
+2009;G;4;49;497/15004;;;Cuota al Centro Europeo de Empresas Públicas (CEEP)
 2009;G;4;49;497/20013;;;Participación española en la Oficina Europea de Telecomunicaciones (ETO)
 2009;G;4;49;497/24006;;;A la UNESCO, para ejecución del Convenio de cooperación en materia de Patrimonio Cultural
-2009;G;4;49;498;;;Contribución del Gobierno Español al Programa Comunitario INTERACT
+2009;G;4;49;498/15014;;;Contribución del Gobierno Español al Programa Comunitario INTERACT
 2009;G;4;49;498/24006;;;Programa Ibermuseos
-2009;G;4;49;499;;;Aportación española al programa operativo URBACT II 2007-2013 de mejora de la efectividad de las políticas de desarrollo urbano integrales
+2009;G;4;49;499/15014;;;Aportación española al programa operativo URBACT II 2007-2013 de mejora de la efectividad de las políticas de desarrollo urbano integrales
 2009;G;4;49;499/20014;;;A la Iniciativa Ambient Asistent Living Association (AAL)
 2009;G;4;49;499/23002;;;Pago deuda histórica cuotas OCDE
 2009;G;4;49;499/24006;;;A la OEI para la ejecución del programa iberescena
@@ -1316,9 +1336,10 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;6;60;;;;Inv. nueva en infraestr. y bienes destinados al uso general
 2009;G;6;60;600;;;Inversiones en terrenos
 2009;G;6;60;601;;;Otras
-2009;G;6;60;603;;;Proyectos sin regionalizar para creación de carreteras
+2009;G;6;60;603/17038;;;Proyectos sin regionalizar para creación de carreteras
 2009;G;6;60;603/23005;;;Inversiones sin regionalizar
-2009;G;6;60;609;;;Expropiaciones, Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2009;G;6;60;609/17038;;;Expropiaciones, Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2009;G;6;60;609/17040;;;Expropiaciones, Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
 2009;G;6;60;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
 2009;G;6;60;609/23006;;;Incidencias de inversiones de ejercicios anteriores.
 2009;G;6;60;609/23018;;;Modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
@@ -1327,7 +1348,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;6;61;610;;;Inversiones en terrenos
 2009;G;6;61;611;;;Otras
 2009;G;6;61;618;;;Obligaciones de ejercicios anteriores por modificados, adicionales, liquidaciones y otras incidencias
-2009;G;6;61;619;;;Expropiaciones, Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2009;G;6;61;619/17038;;;Expropiaciones, Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
 2009;G;6;61;619/23005;;;Incidencias de inversiones de ejercicios anteriores.
 2009;G;6;61;619/23006;;;Incidencias de inversiones de ejercicios anteriores.
 2009;G;6;61;619/23018;;;Modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
@@ -1340,14 +1361,14 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;6;62;629;;;Incidencias de inversiones de ejercicios anteriores.
 2009;G;6;63;;;;Inv. de reposición asociada al func. operativo de los serv.
 2009;G;6;63;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios
-2009;G;6;63;631;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales
 2009;G;6;63;631/14301;;;Inversión de cualquier naturaleza del CNI
+2009;G;6;63;631/24003;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales
 2009;G;6;63;638;;;Obligaciones de ejercicios anteriores
 2009;G;6;63;639;;;Incidencias de inversiones de ejercicios anteriores.
 2009;G;6;64;;;;Gastos de inversiones de carácter inmaterial
 2009;G;6;64;640;;;Gastos en inversiones de carácter inmaterial
 2009;G;6;64;648;;;Obligaciones de ejercicios anteriores
-2009;G;6;64;649;;;Incidencias de inversiones de ejercicios anteriores
+2009;G;6;64;649/23005;;;Incidencias de inversiones de ejercicios anteriores
 2009;G;6;64;649/23006;;;Incidencias de inversiones de ejercicios anteriores.
 2009;G;6;65;;;;Inversiones militares en infraestructura y otros bienes
 2009;G;6;65;650;;;Inversiones militares en infraestructura y otros bienes
@@ -1362,7 +1383,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;70;;;;A la Administración del Estado
 2009;G;7;70;700;;;Ai Estado. Ayudas Desarrollo Rural.FEGA Organismo pagador
 2009;G;7;71;;;;A organismos autónomos
-2009;G;7;71;710;;;A organismos autónomos del Departamento
+2009;G;7;71;710/14001;;;A organismos autónomos del Departamento
+2009;G;7;71;710/14003;;;A organismos autónomos del Departamento
 2009;G;7;71;710/15005;;;Al Instituto de Estudios Fiscales
 2009;G;7;71;710/16005;;;A Trabajo Penitenciario y Formación para el Empleo
 2009;G;7;71;710/17019;;;Al Centro de Estudios y Experimentación de Obras Públicas. (C.E.D.E.X)
@@ -1379,7 +1401,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;71;710/27010;;;Centro Nacional de Información Geográfica (CNIG)
 2009;G;7;71;710/28001;;;Al Instituto de la Juventud
 2009;G;7;71;710/31004;;;Al Parque Móvil del Estado
-2009;G;7;71;711;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
+2009;G;7;71;711/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
 2009;G;7;71;711/15001;;;Al Instituto de Contabilidad y Auditoría de Cuentas
 2009;G;7;71;711/21006;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
 2009;G;7;71;711/21009;;;Al CIEMAT para participación en instalaciones internacionales
@@ -1392,7 +1414,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;71;711/27009;;;Al Centro de Estudios y Experimentación de Obras Públicas (CEDEX). Desarrollo anejos nacionales de los eurocódigos estructurales aplicables en edificación
 2009;G;7;71;711/27010;;;Instituto Nacional de Técnica Aeroespacial (INTA). Plan Nacional de Teledetección
 2009;G;7;71;711/28001;;;Al Consejo de la Juventud de España
-2009;G;7;71;712;;;Al Centro Nacional de Información Geográfica (Proyecto SIOSE)
+2009;G;7;71;712/14001;;;Al Centro Nacional de Información Geográfica (Proyecto SIOSE)
 2009;G;7;71;712/15008;;;Al Centro Nacional de Información Geográfica     (Proyecto  SIOSE )
 2009;G;7;71;712/17018;;;Al Centro Nacional de Información Geográfica (CNIG).
 2009;G;7;71;712/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo
@@ -1403,38 +1425,38 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;71;712/23009;;;Convenio conla C.H. del Guadiana para actuaciones de restauración hidrológico forestal
 2009;G;7;71;712/24001;;;A la Biblioteca Nacional.
 2009;G;7;71;712/26004;;;Al Instituto Nacional del Consumo.
-2009;G;7;71;713;;;Al Instituto de Turismo de España
+2009;G;7;71;713/20004;;;Al Instituto de Turismo de España
 2009;G;7;71;713/23001;;;Al Fondo Español de Garantía Agraria (FEGA), para gastos de capital.
 2009;G;7;71;713/23005;;;A la C. H. del Júcar para apoyo en la ejecución de obras con financiación FEDER
 2009;G;7;71;713/23009;;;Convenio con la C.H. del Tajo para actuaciones de restauración hidrológico forestal
-2009;G;7;71;714;;;Al Instituto Nacional de Estadística
+2009;G;7;71;714/15016;;;Al Instituto Nacional de Estadística
 2009;G;7;71;714/21006;;;Al Instituto de Astrofísica de Canarias (IAC)
 2009;G;7;71;714/23001;;;Subvención a la Entidad Estatal de Seguros Agrarios (ENESA) para gastos de capital
 2009;G;7;71;714/23009;;;Convenio con la C.H. del Duero para actuaciones de restauración hidrológico forestal
 2009;G;7;71;714/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales.
 2009;G;7;71;714/26005;;;A la Organización Nacional de Trasplantes.
-2009;G;7;71;715;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
+2009;G;7;71;715/21006;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
 2009;G;7;71;715/23005;;;Parque de Maquinaria, para financiar operaciones de capital
 2009;G;7;71;715/26001;;;A la Agencia Española de Seguridad Alimentaria y Nutrición.
-2009;G;7;71;716;;;Al Centro Español de Metrología
+2009;G;7;71;716/20015;;;Al Centro Español de Metrología
 2009;G;7;71;716/21006;;;Al Instituto de Salud Carlos III
 2009;G;7;71;716/23009;;;Convenio con la C.H. del Miño-Sil para actuaciones de restauración hidrológico forestal
 2009;G;7;71;716/24001;;;Al Instituto Nacional de las Artes Escénicas y de la Música
 2009;G;7;71;716/28003;;;Al Instituto de la Mujer
-2009;G;7;71;717;;;Al Organismo Autónomo Programas Educativos Europeos
+2009;G;7;71;717/21003;;;Al Organismo Autónomo Programas Educativos Europeos
 2009;G;7;71;717/21008;;;Al CIEMAT para TECNOFUSION
 2009;G;7;71;717/23009;;;Convenio con la C.H. del Cantábrico para actuaciones de restauración hidrológico forestal
 2009;G;7;71;717/24001;;;A la Gerencia de Infraestructuras y Equipamientos de Cultura
 2009;G;7;71;717/25002;;;Al Consejo de Administración del Patrimonio Nacional
 2009;G;7;71;719;;;Al Real Patronato sobre Discapacidad
 2009;G;7;72;;;;A la Seguridad Social
-2009;G;7;72;720;;;Al IMSERSO, para el cumplimiento de sus fines
+2009;G;7;72;720/18007;;;Al IMSERSO, para el cumplimiento de sus fines
 2009;G;7;72;720/60001;;;A la Seguridad Social
 2009;G;7;72;721;;;Aportación del  Estado a la Tesorería General de la Seguridad Social para financiar las operaciones de capital del Instituto Nacional de Gestión Sanitaria.
 2009;G;7;72;726;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del Instituto Social de la Marina
 2009;G;7;72;729;;;Al IMSERSO para otros gastos en dependencia.
 2009;G;7;73;;;;A agencias estatales y otros organismos públicos
-2009;G;7;73;730;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamnetales, con destino a países en vías desarrollo.
+2009;G;7;73;730/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamnetales, con destino a países en vías desarrollo.
 2009;G;7;73;730/17034;;;A la Agencia Estatal de Seguridad Aérea. ( AESA )
 2009;G;7;73;730/18101;;;A la Agencia Estatal Antidopaje para cumplimiento de sus fines
 2009;G;7;73;730/20101;;;CSIC (INCAR) - Uso limpio carbón y desarrollo de nuevos materiales
@@ -1447,16 +1469,16 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;73;730/23015;;;A la Agencia Española de Cooperación Internacional y Desarrollo (AECID)
 2009;G;7;73;731;;;Al CSIC para el Centro de Competencia Tecnológica de la leche en Asturias
 2009;G;7;73;732;;;Al CSIC para el Inst. Español de Matematicas. Constr. y equipam.
-2009;G;7;73;735;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
+2009;G;7;73;735/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
 2009;G;7;73;735/19001;;;Al Consejo Económico y Social
-2009;G;7;73;736;;;A la Comisión Nacional de la Competencia
+2009;G;7;73;736/15016;;;A la Comisión Nacional de la Competencia
 2009;G;7;73;736/20018;;;Al Consejo de Seguridad Nuclear
-2009;G;7;73;737;;;Al Instituto Cervantes
+2009;G;7;73;737/12003;;;Al Instituto Cervantes
 2009;G;7;73;737/14001;;;A Organismos Públicos
 2009;G;7;73;737/20003;;;Transferencias a Entes Públicos
 2009;G;7;73;737/24001;;;Al Museo Nacional del Prado.
 2009;G;7;74;;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.
-2009;G;7;74;740;;;A la Sociedad Estatal Correos y Telégrafos, S.A., para la prestación del Servicio Postal Universal.
+2009;G;7;74;740/17001;;;A la Sociedad Estatal Correos y Telégrafos, S.A., para la prestación del Servicio Postal Universal.
 2009;G;7;74;740/17039;;;A  Fundación para la formación en el transporte por carretera
 2009;G;7;74;740/19003;;;A la Fundación del Servicio Interconfederal de Mediación y Arbitraje (SIMA)
 2009;G;7;74;740/20007;;;Al Centro de Estudios Comerciales (CECO)
@@ -1481,7 +1503,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;74;740/25002;;;Al Consorcio Urbanístico de la Ciudad Universitaria de Madrid
 2009;G;7;74;740/25103;;;"A la Sociedad ""Hipódromo de la  Zarzuela S.A."", para financiar la ejecución de obras en el Hipódromo de la Zarzuela"
 2009;G;7;74;740/27009;;;A SEPES otras comunidades
-2009;G;7;74;741;;;A  la  Comisión  Nacional  del  Sector  Postal
+2009;G;7;74;741/17001;;;A  la  Comisión  Nacional  del  Sector  Postal
 2009;G;7;74;741/17019;;;A la Sociedad Española de Estudios para la Comunicación Fija a través del Estrecho de Gibraltar, S.A. (SECEGSA).
 2009;G;7;74;741/17032;;;A la Sociedad Estatal de Salvamento y Seguridad Marítima, (SASEMAR).
 2009;G;7;74;741/17238;;;Subvenciones para fomento de  I + D
@@ -1500,7 +1522,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;74;741/23226;;;A la Universidad politécnica de Madrid para programas de investigación puentes río Ebro
 2009;G;7;74;741/24003;;;A la Fundación Universidad de Alcalá de Henares, para el proyecto de investigación Valle Alto del Lozoya (Pinilla)
 2009;G;7;74;741/24201;;;Al Consorcio de Rehabilitación de Teatros de Madrid.
-2009;G;7;74;742;;;Convenio con la Autoridad Portuaria de Pasajes para la construcción de la nueva lonja pesquera, polígono industrial-portuario de la Herrea-Sur, ampliación del silo de coches y conexión del puerto con Errentería-Kaputxinos.
+2009;G;7;74;742/17019;;;Convenio con la Autoridad Portuaria de Pasajes para la construcción de la nueva lonja pesquera, polígono industrial-portuario de la Herrea-Sur, ampliación del silo de coches y conexión del puerto con Errentería-Kaputxinos.
 2009;G;7;74;742/17040;;;A los Ferrocarriles de Vía Estrecha (FEVE).
 2009;G;7;74;742/17238;;;Al Consorcio del Museo de la Obra Pública en Málaga
 2009;G;7;74;742/18101;;;Al Centro de Alto Rendimiento deportivo de San Cugat (Barcelona), para la construcción de nuevas instalaciones deportivas y modernización.
@@ -1516,51 +1538,51 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;74;742/23014;;;A la Fundación para el Desarrollo de la Investigación en Genómica y Proteómica
 2009;G;7;74;742/23101;;;Programa de investigación de Parques Nacionales
 2009;G;7;74;742/24201;;;Al Consorcio de Rehabilitación de Teatros de Barcelona.
-2009;G;7;74;743;;;A la Compañía Española de Reafianzamiento, S.A. (CERSA)
 2009;G;7;74;743/12401;;;Fundación Colegios Mayores MAEC-AECID
 2009;G;7;74;743/19101;;;A la Fundación Tripartita para la Formación en el Empleo, para gastos de capital
+2009;G;7;74;743/20017;;;A la Compañía Española de Reafianzamiento, S.A. (CERSA)
 2009;G;7;74;743/21001;;;A la Fundación de Ciencia y Tecnología
 2009;G;7;74;743/21008;;;Al Consorcio Parque de las Ciencias de Granada para infraestructuras y equipamientos científicos
 2009;G;7;74;743/21009;;;Al Consorcio para la construcción, equipamiento y explotación del Laboratorio de Luz Sincrotrón para el proyecto XFEL
 2009;G;7;74;743/23228;;;A la Sociedad Estatal Aguas del Guadalquivir
 2009;G;7;74;743/26005;;;"A la ""Fundación para la Cooperación y Salud Internacional Carlos III"". Operaciones de capital."
-2009;G;7;74;744;;;Subvenciones de intereses por préstamos de líneas de mediación instrumentados por el ICO
+2009;G;7;74;744/15016;;;Subvenciones de intereses por préstamos de líneas de mediación instrumentados por el ICO
 2009;G;7;74;744/20016;;;Políticas de Reindustrialización en Zonas Desfavorecidas
 2009;G;7;74;744/20018;;;Al Instituto para la Diversificación y Ahorro de la Energía (IDAE) para una subvención a la empresa Gorona del Viento El Hierro S.A. gestora del proyecto de la Central Hidroeólica de la Isla del Hierro
 2009;G;7;74;744/21001;;;Al CDTI Iniciativa TECNOEUROPA
 2009;G;7;74;744/23004;;;Fundación General de la Universidad de Alcalá de Henares para el Observatorio de la Sostenibilidad de España.
 2009;G;7;74;744/24201;;;Al Consorcio para la construcción del Auditorio de Málaga
-2009;G;7;74;745;;;A la Sociedad Estatal para la Promoción y Atracción de las Inversiones Exteriores, S.A.
+2009;G;7;74;745/20006;;;A la Sociedad Estatal para la Promoción y Atracción de las Inversiones Exteriores, S.A.
 2009;G;7;74;745/20016;;;Al ICO, para bonificación de intereses a préstamos para sectores manufacturados
 2009;G;7;74;745/20017;;;A la Fundación Española para la Innovación de la Artesanía
 2009;G;7;74;745/20018;;;Al Instituto para la Diversificación y Ahorro de la Energía (IDAE),para ayudas a la incentivación, desarrollo y actuaciones del Plan de Energías Renovables
 2009;G;7;74;745/21001;;;Al CDTI para la cobertura de los costes de sus actividades de financiación
 2009;G;7;74;745/21207;;;A la Fundación Centro de Investigación de Enfermedades Neurológicas. Operaciones de capital
-2009;G;7;74;746;;;A la Entidad Pública empresarial RED.es
+2009;G;7;74;746/20014;;;A la Entidad Pública empresarial RED.es
 2009;G;7;74;746/20016;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores
 2009;G;7;74;746/21001;;;Al CDTI  para la financiación del Programa CENIT
 2009;G;7;74;746/21005;;;Apoyo I+D en sistema C-T-E, Parques y CIT
 2009;G;7;74;746/21207;;;A Centros de Investigación Biomédica en Red
 2009;G;7;74;746/23226;;;A la Universidad de Girona
 2009;G;7;74;746/24201;;;Al Consorcio del Palau de la Música Catalana, para obras de restauración
-2009;G;7;74;747;;;A Sdades., Entidades Públicas Empresariales, Fundaciones y resto entes del Sector Público
+2009;G;7;74;747/20016;;;A Sdades., Entidades Públicas Empresariales, Fundaciones y resto entes del Sector Público
 2009;G;7;74;747/20017;;;Programa INNOEMPRESA
 2009;G;7;74;747/21008;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
 2009;G;7;74;747/23005;;;Al Instituto de crédito Oficial (ICO) para modernización de infraestructuras agrarias
-2009;G;7;74;748;;;Actuaciones relacionadas con el 1% cultural
+2009;G;7;74;748/17001;;;Actuaciones relacionadas con el 1% cultural
 2009;G;7;74;748/20014;;;Al Instituto Nacional de las Tecnologías de las Comunicaciones, S.A. (INTECO) (Plan León)
 2009;G;7;74;748/20017;;;A la Empresa Nacional de Innovación, S.A. (ENISA)
 2009;G;7;74;748/21007;;;A la Sociedad Estatal para el Desarrollo del Diseño y la Innovación (DDI)
 2009;G;7;74;748/21008;;;Fondo Estratégico para Infraestructuras Científicas y Tecnológicas
 2009;G;7;74;748/23226;;;Transferencias a la Universidad de Zaragoza
 2009;G;7;74;748/23229;;;Al Consorcio del Plan Especial de Alto Guadiana
-2009;G;7;74;749;;;A Promotoras  de  Planes  de  Movilidad  Urbana
+2009;G;7;74;749/17001;;;A Promotoras  de  Planes  de  Movilidad  Urbana
 2009;G;7;74;749/20013;;;Plan Tránsito TDT
 2009;G;7;74;749/20014;;;Plan AVANZA
 2009;G;7;74;749/21401;;;A Diseño y Tecnología microelectrónica AIE para financiar gastos de inversión
 2009;G;7;74;749/23226;;;A la Universidad de Barcelona
 2009;G;7;75;;;;A comunidades autónomas
-2009;G;7;75;750;;;A la Generalitat de Cataluña, financiación de traspasos
+2009;G;7;75;750/13002;;;A la Generalitat de Cataluña, financiación de traspasos
 2009;G;7;75;750/19101;;;Subvenciones de capital para la creación y dotación de centros y entidades de formación profesional para el empleo
 2009;G;7;75;750/20014;;;AVANZA Competitividad e Innovación en Telecomunicaciones y S.I.
 2009;G;7;75;750/20302;;;A Universidades Públicas
@@ -1586,7 +1608,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;75;750/32009;;;A la Generalidad Valenciana para la financiación de infraestructuras del  Ferrocarril Metropolitano de Valencia,  según Convenio suscrito con el Estado
 2009;G;7;75;750/32010;;;A la Comunidad Autónoma de Aragón  para financiar  proyectos de inversión, según Convenio
 2009;G;7;75;750/32018;;;Para la celebración de Convenios con las Comunidades Autónomas de Cataluña e Illes Balears en cumplimiento de lo establecido en sus respectivos Estatutos de Autonomía en matera de inversiones
-2009;G;7;75;751;;;Traspaso CC.AA. Madrid, Ciudad de la Justicia
+2009;G;7;75;751/13002;;;Traspaso CC.AA. Madrid, Ciudad de la Justicia
 2009;G;7;75;751/17001;;;Actuaciones relacionadas con el 1% cultural
 2009;G;7;75;751/17040;;;Para financiar Convenio con la Comunidad Autónoma de las Illes Balears en materia de ferrocarril
 2009;G;7;75;751/18101;;;A Comunidades Autónomas para construcción y adaptación de Centros de Alto Rendimiento y Tecnificación
@@ -1616,7 +1638,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;75;751/32004;;;A la Comunidad Autónoma de Andalucía para la financiación de infraestructuras del transporte metropolitano de Sevilla, según Convenio suscrito con el Estado
 2009;G;7;75;751/32010;;;Para financiar proyectos de inversión en la provincia de Teruel
 2009;G;7;75;751/32016;;;A  la Comunidad Autónoma  de Madrid
-2009;G;7;75;752;;;A CC.AA. según Acuerdos de traspasos de funciones y servicios
+2009;G;7;75;752/13002;;;A CC.AA. según Acuerdos de traspasos de funciones y servicios
 2009;G;7;75;752/17018;;;Aportación a proyectos  en materia de información geográfica CCAA
 2009;G;7;75;752/17038;;;Para financiar expropiaciones y otras actuaciones del Convenio con la Comunidad Autónoma de Canarias.
 2009;G;7;75;752/18101;;;A Comunidades Autónomas para programas cofinanciados de dotación de infraestructuras deportivas en centros escolares
@@ -1633,7 +1655,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;75;752/26013;;;A CC.AA. Plan de inversiones para el desarrollo de Sistemas de Información Sanitaria.
 2009;G;7;75;752/27009;;;Subvenciones para adquisición y rehabilitación de viviendas
 2009;G;7;75;752/32004;;;A la Comunidad Autónoma de Andalucía para la financiación de infraestructuras del transporte metropolitano de Málaga, según Convenio suscrito con el Estado
-2009;G;7;75;753;;;Para obras prefinanciadas  del Convenio con la Comunidad Autónoma de Canarias
+2009;G;7;75;753/17038;;;Para obras prefinanciadas  del Convenio con la Comunidad Autónoma de Canarias
 2009;G;7;75;753/18101;;;A la Comunidad Autónoma de Madrid para la construcción del Museo de Esquí en Cercedilla
 2009;G;7;75;753/21005;;;Campus de excelencia internacional (CEI´s)
 2009;G;7;75;753/21009;;;Programa Eurociencia
@@ -1642,11 +1664,11 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;75;753/23232;;;C.A. de Extremadura, trasvase Tajo-Segura.
 2009;G;7;75;753/24003;;;Financiación del Plan de equipamientos culturales de Cataluña
 2009;G;7;75;753/26011;;;A la Comunidad Autónoma del Principado de Asturias para la financiación del Plan Director del Hospital Universitario Central de Asturias.
-2009;G;7;75;754;;;Convenio con Junta de Andalucia Parque de Aracena
+2009;G;7;75;754/17038;;;Convenio con Junta de Andalucia Parque de Aracena
 2009;G;7;75;754/23005;;;Plan Nacional de calidad de las aguas y del ciclo hídrico en Aragón.
 2009;G;7;75;754/23009;;;Ayudas para planes de recuperación de especies en peligro de extinción y corrección de infraestructuras peligrosas
 2009;G;7;75;754/23018;;;Programa de desarrollo rural en Galicia
-2009;G;7;75;755;;;Balsa de Bailin
+2009;G;7;75;755/23005;;;Balsa de Bailin
 2009;G;7;75;755/23009;;;Fondo Patrimonio Natural
 2009;G;7;75;755/23012;;;Para la mejora de la organización de la producción y reordenación de los sectores productivos.
 2009;G;7;75;755/23016;;;Cofinanciación del Programa Operativo FEP (Fondo Europeo de Pesca) a CC.AA.
@@ -1662,7 +1684,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;75;755/33017;;;Fondo de Compensación
 2009;G;7;75;755/33019;;;Fondo de Compensación
 2009;G;7;75;755/33020;;;Fondo de Compensación
-2009;G;7;75;756;;;Apoyo I+D en sistema C-T-E, Parques y CIT
+2009;G;7;75;756/21005;;;Apoyo I+D en sistema C-T-E, Parques y CIT
 2009;G;7;75;756/33003;;;Fondo Complementario
 2009;G;7;75;756/33004;;;Fondo Complementario
 2009;G;7;75;756/33005;;;Fondo Complementario
@@ -1675,26 +1697,26 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;75;756/33017;;;Fondo Complementario
 2009;G;7;75;756/33019;;;Fondo Complementario
 2009;G;7;75;756/33020;;;Fondo Complementario
-2009;G;7;75;757;;;Cofinanciación con Portugal del Puente Internacional sobre el río Manzanas
+2009;G;7;75;757/17038;;;Cofinanciación con Portugal del Puente Internacional sobre el río Manzanas
 2009;G;7;75;757/20017;;;Gestión del Programa INNOEMPRESA
 2009;G;7;75;757/21008;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
 2009;G;7;75;757/23005;;;Para Recursos Hídricos Eje 1 PDR
 2009;G;7;75;757/23018;;;Convenios con CCAA para apoyo a la coordinación de Reservas de la Biosfera
-2009;G;7;75;758;;;Convenios con Comunidades Autónomas.
+2009;G;7;75;758/17038;;;Convenios con Comunidades Autónomas.
 2009;G;7;75;758/20016;;;Potenciación y mejora de la Agencia de Acreditación en Investigación, Desarrollo e Innovación Tecnológica (AIDIT)
 2009;G;7;75;758/21005;;;Subvenciones a proyectos medio ambientales
 2009;G;7;75;758/21008;;;Fondo estratégico para Infraestructuras Científicas y Tecnológicas
 2009;G;7;75;758/27009;;;A organismos públicos de comunidades autónomas
 2009;G;7;75;758/27010;;;A organismos públicos de comunidades autónomas
-2009;G;7;75;759;;;A  Promotoras  de  Planes  de  Movilidad  Urbana
+2009;G;7;75;759/17001;;;A  Promotoras  de  Planes  de  Movilidad  Urbana
 2009;G;7;75;759/20013;;;Plan Tránsito TDT
 2009;G;7;75;759/20014;;;Plan AVANZA
 2009;G;7;75;759/20016;;;Plan de Promoción de la Innovación en Calidad y Seguridad Industrial
 2009;G;7;75;759/21008;;;Fortalecimiento institucional. IDEFEX
 2009;G;7;75;759/60001;;;Otras transferencias de capital
 2009;G;7;76;;;;A entidades locales
-2009;G;7;76;760;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Mallorca
 2009;G;7;76;760/15105;;;A municipios para gastos originados por la explotación estadística del Padrón Municipal y la actualización mensual del Censo Electoral
+2009;G;7;76;760/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Mallorca
 2009;G;7;76;760/17040;;;Para inversiones en transporte ferroviario en diferentes municipios.
 2009;G;7;76;760/18007;;;Al Ayuntamiento de Sestao. Residencia Municipal Julián Ellacurria
 2009;G;7;76;760/19003;;;Al Ayuntamiento de Arcos de la Frontera. Instituto Campo Vidad.
@@ -1714,7 +1736,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;76;760/24003;;;A Ayuntamientos, Diputaciones y otros entes locales
 2009;G;7;76;760/24006;;;A Ayuntamientos, Diputaciones y otros entes locales
 2009;G;7;76;760/60001;;;A Corporaciones Locales
-2009;G;7;76;761;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2009;G;7;76;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2009;G;7;76;761/16102;;;Para financiar obligaciones derivadas de convenios y acuerdos con otras administraciones
 2009;G;7;76;761/17019;;;Convenio de colaboración entre el Concejo de Pontevedra y el Ministerio de Fomento para la racionalización y mejora de la Red de Carreteras del Estado en el Municipio de Pontevedra.
 2009;G;7;76;761/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Menorca
@@ -1729,7 +1751,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;76;761/24006;;;A otros Ayuntamientos Diputaciones y entes locales
 2009;G;7;76;761/28201;;;Facilitar el acceso de los jóvenes a los espacios de creación joven e infraestructuras de juventud
 2009;G;7;76;761/32023;;;Al Cabildo Insular de Tenerife para la financiación del tranvía/metro ligero Santa Cruz de Tenerife-La Laguna, según Convenio suscrito con el Estado.
-2009;G;7;76;762;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
+2009;G;7;76;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
 2009;G;7;76;762/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Ibiza
 2009;G;7;76;762/17040;;;Para financiar Convenio con el Cabildo Insular de Tenerife en materia de ferrocarril
 2009;G;7;76;762/20208;;;Planes de Recualificación integral de destinos turísticos. Eje Sostenibilidad
@@ -1741,7 +1763,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;76;762/24006;;;Al Ayuntamiento de Rianxo para intervenciones en el Centro Literario Castelao
 2009;G;7;76;762/24201;;;Transferencias a Corporaciones locales para la construcción de Auditorios.
 2009;G;7;76;762/27009;;;Al Ayuntamiento de Molins de Rei para rehabilitación del Mercado
-2009;G;7;76;763;;;A CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
+2009;G;7;76;763/17038;;;A CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
 2009;G;7;76;763/17040;;;Convenio con el Cabildo Insular de Gran Canaria en materia de ferrocarril
 2009;G;7;76;763/20001;;;Palacio de Exposiciones y Congresos de Sevilla (FIBES)
 2009;G;7;76;763/21006;;;Al Ayuntamiento de Ermua para un laboratorio de innovación
@@ -1751,34 +1773,34 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;76;763/24003;;;Aportación institucional al Consorcio de la Ciudad Romana de Mérida.
 2009;G;7;76;763/24201;;;Transferencias a Corporaciones Locales para la creación de espacios teatrales y rehabilitación de teatros públicos.
 2009;G;7;76;763/32023;;;A los Ayuntamientos de Ceuta y Melilla para la financiación de actuaciones de mejora de la gestión del agua
-2009;G;7;76;764;;;Remodelación y mejora de la antigua N-340 en el municipio de L'Ampolla.
+2009;G;7;76;764/17038;;;Remodelación y mejora de la antigua N-340 en el municipio de L'Ampolla.
 2009;G;7;76;764/20016;;;Políticas de Reindustrialización en Zonas Desfavorecidas
 2009;G;7;76;764/23005;;;Convenio con el Ayuntamiento de Sallent para el tratamiento, canalización y trasvase de aguas.
 2009;G;7;76;764/23018;;;Convenios con Corporaciones Locales para apoyo a la coordinación de Reservas de la Biosfera
-2009;G;7;76;765;;;Convenio con el Ayuntamiento de Ejea de los Caballeros para el desarrollo sostenible del medio rural
+2009;G;7;76;765/23018;;;Convenio con el Ayuntamiento de Ejea de los Caballeros para el desarrollo sostenible del medio rural
 2009;G;7;76;765/24003;;;Al Ayuntamiento de Ribadavia para el Castillo Los Sarmiento
 2009;G;7;76;765/24103;;;A la Diputación de Pontevedra para el Museo de Pontevedra
 2009;G;7;76;765/27009;;;Intervención y mejora de espacios públicos en centros urbanos y rurales
-2009;G;7;76;766;;;Apoyo I+D en sistema C-T-E, Parques y CIT
+2009;G;7;76;766/21005;;;Apoyo I+D en sistema C-T-E, Parques y CIT
 2009;G;7;76;766/23018;;;Planes de desarrollo rural sostenible en zonas de Aragón afectadas por embalses
 2009;G;7;76;766/24003;;;Al Ayuntamiento de León para la rehabilitación del Palacio Luna (Plan León)
 2009;G;7;76;766/24201;;;A Ayuntamientos, Diputaciones y otros entes locales
 2009;G;7;76;766/27009;;;Convenio con Ayuntamiento de Carballo para la construcción de nuevo Mercado Municipal de Abastos
-2009;G;7;76;767;;;Actuaciones relacionadas con el 1% cultural
+2009;G;7;76;767/17001;;;Actuaciones relacionadas con el 1% cultural
 2009;G;7;76;767/20016;;;A Corporaciones Locales
 2009;G;7;76;767/21008;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
 2009;G;7;76;767/24003;;;A otros Ayuntamientos y entes locales
 2009;G;7;76;767/27009;;;Remodelación Barrios en Vic
-2009;G;7;76;768;;;Museo del Ferrocarril de Vilanova i la Geltrú
+2009;G;7;76;768/17001;;;Museo del Ferrocarril de Vilanova i la Geltrú
 2009;G;7;76;768/17038;;;Para financiar actuaciones encomendadas en virtud del Convenio de Colaboración entre el Ministerio de Fomento y el  Consell Insular de Menorca suscrito el 28-09-2007
 2009;G;7;76;768/21008;;;Fondo Estratégico para Infraestructuras Científicas y Tecnológicas
-2009;G;7;76;769;;;A  Promotoras  de  Planes  de  Movilidad  Urbana
+2009;G;7;76;769/17001;;;A  Promotoras  de  Planes  de  Movilidad  Urbana
 2009;G;7;76;769/20013;;;Plan Tránsito TDT
 2009;G;7;76;769/20014;;;Plan AVANZA
 2009;G;7;76;769/22003;;;A las Diputaciones, Cabildos, Consejos Insulares y Comunidades Autónomas Uniprovinciales, para la actualización y mantenimiento de la Encuesta de Infraestructura y Equipamientos Locales.
 2009;G;7;76;769/23101;;;Subvenciones otorgadas en ejercicios anteriores pendientes de abono
 2009;G;7;77;;;;A empresas privadas
-2009;G;7;77;770;;;A  Empresas  Navieras  españolas  por  los  costes  de  implantación  en  buques  de  pabellón  español  del  Código  Internacional  de  Protección  de  Buques  e  Instalaciones  Portuarias
+2009;G;7;77;770/17032;;;A  Empresas  Navieras  españolas  por  los  costes  de  implantación  en  buques  de  pabellón  español  del  Código  Internacional  de  Protección  de  Buques  e  Instalaciones  Portuarias
 2009;G;7;77;770/17040;;;A la Concesionaria Figueras-Perpignan
 2009;G;7;77;770/19007;;;Alojamientos para trabajadores migrantes
 2009;G;7;77;770/20014;;;AVANZA Competitividad e Innovación en Telecomunicaciones y S.I.
@@ -1793,7 +1815,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;77;770/23018;;;Fomento de la innovación tecnológica.
 2009;G;7;77;770/23211;;;Ayudas por cofinanciación de actuaciones con la Unión Europea
 2009;G;7;77;770/24006;;;Ayudas a proyectos de inversión de empresas e industrias culturales
-2009;G;7;77;771;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
+2009;G;7;77;771/15014;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
 2009;G;7;77;771/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia.
 2009;G;7;77;771/17238;;;Subvenciones para fomento de  I + D
 2009;G;7;77;771/20014;;;Convocatoria de la Empresa común Artemis (Sistemas de computación empotrados)
@@ -1807,40 +1829,40 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;77;771/24101;;;Ayudas a la Cinematografía a través de Empresas Privadas.
 2009;G;7;77;771/24201;;;Transferencias a empresas privadas para infraestructuras de circo itinerante.
 2009;G;7;77;771/27009;;;Investigación, desarrollo e innovación tecnológica (I+D+i). Innovación y calidad
-2009;G;7;77;772;;;Programa de medidas para la mejora del sector del transporte por carretera.
+2009;G;7;77;772/17039;;;Programa de medidas para la mejora del sector del transporte por carretera.
 2009;G;7;77;772/20014;;;AVANZA Formación Profesionales
 2009;G;7;77;772/20208;;;Plan de I+D+i Turismo. Eje Nueva Economía Turística
 2009;G;7;77;772/23002;;;Análisis e información nacional de las magnitudes de los sectores
 2009;G;7;77;772/23005;;;Ayudas a las CC. de Regantes para el equipamiento colectivo de parcelas
 2009;G;7;77;772/24101;;;Aportación al fondo de provisiones técnicas de la Sociedad Audiovisual Aval S.G.R.I.
-2009;G;7;77;773;;;AVANZA Formación Usuarios
+2009;G;7;77;773/20014;;;AVANZA Formación Usuarios
 2009;G;7;77;773/20015;;;Para el Programa Nacional del Espacio
 2009;G;7;77;773/23015;;;Apoyo financiero debido a causas de carácter extraordinario.
 2009;G;7;77;773/23018;;;Promoción y diversificación de la economía rural
 2009;G;7;77;773/24201;;;Programa de equipamiento de espacios escénicos de nueva generación
-2009;G;7;77;774;;;AVANZA Infraestructuras
+2009;G;7;77;774/20014;;;AVANZA Infraestructuras
 2009;G;7;77;774/23016;;;Ayudas a programas operativos de la Unión Europea
 2009;G;7;77;774/23018;;;Medidas del Ministerio de Medio Ambiente, y Medio Rural y Marino, incluidas las ayudas para contratos territoriales a los productores ecologicos por servicios medioambientales
 2009;G;7;77;774/23211;;;Medidas de Desarrollo Rural
-2009;G;7;77;775;;;Convocatoria de la Iniciativa Ambient Assisted Living/Vida Cotidiana Asistida por el Entorno (AAL/VCAE)
+2009;G;7;77;775/20014;;;Convocatoria de la Iniciativa Ambient Assisted Living/Vida Cotidiana Asistida por el Entorno (AAL/VCAE)
 2009;G;7;77;775/20016;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores
 2009;G;7;77;775/24004;;;Ayudas para el fomento de la edición de libros españoles escritos en lengua castellana y en lenguas cooficiales distintas a la castellana para Bibliotecas Públicas.
-2009;G;7;77;776;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores
+2009;G;7;77;776/20016;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores
 2009;G;7;77;776/21005;;;Apoyo I+D en sistema C-T-E, Parques y CIT
 2009;G;7;77;776/23014;;;Fomento de la industrialización agroalimentaria
 2009;G;7;77;776/23016;;;Desarrollo tecnológico pesquero y acuícola
 2009;G;7;77;776/24004;;;Ayudas para el fomento de la traducción y edición entre las lenguas oficiales españolas de obras de autores españoles.
-2009;G;7;77;777;;;Exploración, Ordenación y Seguridad Minera
+2009;G;7;77;777/20019;;;Exploración, Ordenación y Seguridad Minera
 2009;G;7;77;777/21008;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
 2009;G;7;77;777/23018;;;Modernización de explotaciones.
-2009;G;7;77;778;;;Plan AVANZA: Consolidación infraestructuras y Pymes
+2009;G;7;77;778/20014;;;Plan AVANZA: Consolidación infraestructuras y Pymes
 2009;G;7;77;778/21005;;;Subvenciones a proyectos medio ambientales
 2009;G;7;77;778/21008;;;Fondo Estratégico para Infraestructuras Científicas y Tecnológicas
-2009;G;7;77;779;;;Para  Planes  de  Movilidad  en  Centros  de  Trabajo
+2009;G;7;77;779/17001;;;Para  Planes  de  Movilidad  en  Centros  de  Trabajo
 2009;G;7;77;779/20014;;;Plan AVANZA
 2009;G;7;77;779/23101;;;Subvenciones otorgadas en ejercicios anteriores pendientes de abono
 2009;G;7;78;;;;A familias e instituciones sin fines de lucro
-2009;G;7;78;780;;;A la Fundación Mobilitat Sostenible i Segura
+2009;G;7;78;780/17019;;;A la Fundación Mobilitat Sostenible i Segura
 2009;G;7;78;780/19007;;;Transferencias a familias e instituciones sin fines de lucro
 2009;G;7;78;780/20014;;;AVANZA Competitividad e Innovación en Telecomunicaciones y S.I.
 2009;G;7;78;780/20016;;;Análisis y seguimiento de los sectores industriales
@@ -1866,7 +1888,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;780/28004;;;Convenio con la Fundación Jose María Llanos
 2009;G;7;78;780/28101;;;Ayudas a proyectos de investigacion sobre temas de la mujer I+D+I
 2009;G;7;78;780/60001;;;Ayudas genéricas a Familias e Instituciones sin fines de lucro
-2009;G;7;78;781;;;Programa de apoyo a Instituciones y Entidades sin fines de lucro relacionadas con el transporte por carretera.
+2009;G;7;78;781/17039;;;Programa de apoyo a Instituciones y Entidades sin fines de lucro relacionadas con el transporte por carretera.
 2009;G;7;78;781/17238;;;Subvenciones para fomento de I + D
 2009;G;7;78;781/18001;;;Ayudas para inversiones en el Instituto de España y Academias de ámbito estatal.
 2009;G;7;78;781/18007;;;A la FEMP para proyectos de atención a personas dependientes
@@ -1896,8 +1918,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;781/26014;;;Par proyectos de investigación a desarrollar por entidades públicas y privadas.
 2009;G;7;78;781/27009;;;Al Consejo Superior de Colegios de Arquitectos. Bienal Iberoamericana de Arquitectura y Urbanismo
 2009;G;7;78;781/28201;;;A Asociaciones juveniles y entidades de ámbito nacional prestadoras de servicios a la juventud
-2009;G;7;78;782;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2009;G;7;78;782/14206;;;Ayuda al acceso a la propiedad de vivienda
+2009;G;7;78;782/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2009;G;7;78;782/18007;;;"A la Fundación ""La Casa del Actor"". Para la construcción de la Casa del Actor en el Ayuntamiento de Las Rozas (Madrid)"
 2009;G;7;78;782/20016;;;Instituto Tecnológico para la Seguridad del Automóvil
 2009;G;7;78;782/20017;;;Programa INNOEMPRESA
@@ -1912,7 +1934,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;782/23018;;;"Convenio de Colaboración con la Sociedad Española de Ornitología ""SEO/Birdlife"" para la instrumentación del proyecto europeo ""Campaña de promoción de la Red Natura 2000 en cuatro CC.AA. españolas"""
 2009;G;7;78;782/24201;;;Para la financiación del Gran Teatre del Liceu.
 2009;G;7;78;782/27009;;;Ayudas para renta básica de emancipación de jóvenes, subsidiación de préstamos y otros apoyos a la vivienda
-2009;G;7;78;783;;;Convenio con la Fundación privada Via-Guasp para la construcción de una residencia para enfermos mentales y la ampliación de su sede social.
+2009;G;7;78;783/18007;;;Convenio con la Fundación privada Via-Guasp para la construcción de una residencia para enfermos mentales y la ampliación de su sede social.
 2009;G;7;78;783/19101;;;Subvenciones de capital para la creación y dotación de centros de formación profesional para el empleo
 2009;G;7;78;783/20014;;;Plan AVANZA: Consolidación Ciudadana
 2009;G;7;78;783/20016;;;Instituto Tecnológico para el desarrollo de las Industrias Marítimas
@@ -1929,8 +1951,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;783/23018;;;Becas de formación en materia de desarrollo rural.
 2009;G;7;78;783/24003;;;Al Patronato del Museo Nacional de Arte de Cataluña, para la última fase de las obras de su sede en el Palacio de Montjuic.
 2009;G;7;78;783/27009;;;Ayuda Estatal Directa a la Entrada, para la adquisición de viviendas (A.E.D.E.)
-2009;G;7;78;784;;;AVANZA Formación Profesionales
 2009;G;7;78;784/18101;;;A la Real Federación Española de Fútbol para obras y equipamiento del  fútbol no profesional, procedente del 1% de la recaudación de las Apuestas Deportivas del Estado, previsto en el Real Decreto 258/1998, de 20 de febrero
+2009;G;7;78;784/20014;;;AVANZA Formación Profesionales
 2009;G;7;78;784/20016;;;Políticas de Reindustrialización en Zonas Desfavorecidas
 2009;G;7;78;784/21003;;;A la Fundación Deusto para un centro de recursos para el aprendizaje y la investigación
 2009;G;7;78;784/21007;;;Al Centro Tecnológico Agroalimentario de Extremadura (CTAEX)
@@ -1941,7 +1963,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;784/23016;;;Ayudas a la Fundación Observatorio de Prospectiva Tecnológica Industrial (OPTI)
 2009;G;7;78;784/24003;;;Aportaciones institucionales.
 2009;G;7;78;784/27009;;;A Desarrollo, innovación y calidad edificación (I+D+i)
-2009;G;7;78;785;;;AVANZA Formación Usuarios
+2009;G;7;78;785/20014;;;AVANZA Formación Usuarios
 2009;G;7;78;785/20016;;;Potenciación de la Asociación Barcelona Aeronáutica de Espai (BAIE)
 2009;G;7;78;785/21005;;;A otros
 2009;G;7;78;785/21008;;;A otros
@@ -1949,8 +1971,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;785/21207;;;Fondo de Investigación Sanitaria. Investigación evaluativa de tecnologías sanitarias e investigación en servicios de salud
 2009;G;7;78;785/23014;;;Para Convenios de colaboración con Entidades sin ánimo de lucro.
 2009;G;7;78;785/27009;;;Al Consejo Superior de Colegios de Arquitectos. Bienal de Arquitectura Española
-2009;G;7;78;786;;;Para la dotación fundacional de la Fundación del  Museo de la Real Academia de Bellas Artes de San Fernando.
 2009;G;7;78;786/12401;;;Para proyectos especiales de Ayuda Oficial al Desarrollo
+2009;G;7;78;786/18001;;;Para la dotación fundacional de la Fundación del  Museo de la Real Academia de Bellas Artes de San Fernando.
 2009;G;7;78;786/20017;;;A la Federación Española de Entidades de Innovación y Tecnología (FEDIT)
 2009;G;7;78;786/20208;;;Programas de Colaboración con actores sociales del turismo
 2009;G;7;78;786/21005;;;Otras transferencias
@@ -1958,11 +1980,11 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;786/23014;;;Ayudas a los planes sectoriales y acciones promocionales para el fomento de productos agroalimentarios.
 2009;G;7;78;786/24201;;;"A la Fundación ""La Casa del Actor"", para ayuda a la construcción de su nueva sede."
 2009;G;7;78;786/27009;;;A Fundación Mies Van der Rohe
-2009;G;7;78;787;;;Plan Nacional de Investigación Científica, desarrollo e innovación tecnológica. Acción sectorial de transporte e infraestructuras
+2009;G;7;78;787/21005;;;Plan Nacional de Investigación Científica, desarrollo e innovación tecnológica. Acción sectorial de transporte e infraestructuras
 2009;G;7;78;787/21008;;;Apoyo a la investigación y desarrollo tecnológico en el sistema CTE (Ciencia-Tecnología-Empresa)
 2009;G;7;78;787/21203;;;"Participación en los proyectos del ""Enfoque Amplio hacia la Fusión"""
 2009;G;7;78;787/23014;;;Ayuda a la constitución de certificadoras de productos agroalimentarios acreditadas por la Entidad Nacional de Acreditación (ENAC)
-2009;G;7;78;788;;;Actuaciones relacionadas con el 1% cultural
+2009;G;7;78;788/17001;;;Actuaciones relacionadas con el 1% cultural
 2009;G;7;78;788/20014;;;A familias e instituciones sin fines de lucro
 2009;G;7;78;788/20016;;;A APTE para Plan de Dinamización de Polígonos Industriales
 2009;G;7;78;788/21007;;;Programa Nacional de Internacionalización INNOEUROPA
@@ -1972,7 +1994,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;788/23014;;;Becas de formación.
 2009;G;7;78;788/24003;;;Ayudas y subvenciones para financiar excavaciones arqueológicas en el exterior, dentro del Plan establecido por el Instituto del Patrimonio Histórico Español.
 2009;G;7;78;788/24201;;;A la Fundación Teatro La Abadía, sede y equipamiento
-2009;G;7;78;789;;;Pago de indemnizaciones y compensaciones derivadas de la Ley 43/1998 modificada por Ley 50/2007
+2009;G;7;78;789/15004;;;Pago de indemnizaciones y compensaciones derivadas de la Ley 43/1998 modificada por Ley 50/2007
 2009;G;7;78;789/20013;;;Plan Tránsito TDT
 2009;G;7;78;789/20014;;;Plan AVANZA
 2009;G;7;78;789/20016;;;Plan de Promoción de la Innovación en Calidad y Seguridad Industrial
@@ -1981,8 +2003,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;789/21008;;;Otras transferencias
 2009;G;7;78;789/23101;;;Subvenciones otorgadas en ejercicios anteriores pendientes de abono
 2009;G;7;79;;;;Al exterior
-2009;G;7;79;790;;;Para centros e instituciones asociativas de carácter social, benéfico, cultural y educativo
 2009;G;7;79;790/14301;;;Transferencias al exterior
+2009;G;7;79;790/19007;;;Para centros e instituciones asociativas de carácter social, benéfico, cultural y educativo
 2009;G;7;79;790/20006;;;Subvención a las Cámaras de Comercio en el extranjero
 2009;G;7;79;790/20015;;;Para la financiación de la participación en Programas Espaciales
 2009;G;7;79;790/20302;;;Al exterior
@@ -1995,20 +2017,20 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;79;790/24201;;;A la Secretaría General Iberoamericana (SEGIB) de la OEI, para equipamientos teatrales en Iberoamérica
 2009;G;7;79;790/27001;;;A Asentamientos Humanos (UN-HABITAT) para América Latina y Caribe
 2009;G;7;79;790/60001;;;Al exterior
-2009;G;7;79;791;;;Aportación al Fondo Europeo de Desarrollo (FED)
 2009;G;7;79;791/23401;;;Contribución española en programas de cooperación iberoamericana y otros países
-2009;G;7;79;792;;;Sistema de Información Schengen
+2009;G;7;79;791/34001;;;Aportación al Fondo Europeo de Desarrollo (FED)
+2009;G;7;79;792/16002;;;Sistema de Información Schengen
 2009;G;7;79;792/17018;;;Aportación a proyectos internacionales en materia de información geográfica
 2009;G;7;79;792/21009;;;Al Laboratorio Ibérico Internacional de Nanotecnología (INL centro de Braga) para construcción y equipamiento del centro.
 2009;G;7;79;792/23401;;;Acuerdo de cooperación con Organismos internacionales
-2009;G;7;79;793;;;Al Centro Binacional Argentino-Español de Investigación en Genómica Vegetal
+2009;G;7;79;793/21009;;;Al Centro Binacional Argentino-Español de Investigación en Genómica Vegetal
 2009;G;7;79;793/21203;;;Aportación española al programa JET
-2009;G;7;79;794;;;Ayudas y subvenciones en el ámbito de la cooperación policial internacional
+2009;G;7;79;794/16002;;;Ayudas y subvenciones en el ámbito de la cooperación policial internacional
 2009;G;7;79;794/21009;;;Para la creación, establecimiento, equipamiento y funcionamiento de la Oficina Regional del Instituto Forestal Europeo en Barcelona
 2009;G;7;79;794/21203;;;Participación en el fondo general y común de los experimentos L32, CMS y AMS del CERN
 2009;G;7;79;795;;;Fondo Mixto de Cooperación Técnica y Científica Méjico-España
-2009;G;7;79;796;;;Participación del CIEMAT en el experimento CDF-II
 2009;G;7;79;796/12401;;;Para Ayuda Oficial al Desarrollo
+2009;G;7;79;796/21203;;;Participación del CIEMAT en el experimento CDF-II
 2009;G;7;79;797;;;Participación en la construcción del imán superconductor del experimento AMS (Alpha Magnetic Spectrometer)
 2009;G;7;79;798;;;Aportación al Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED)
 2009;G;7;79;799;;;Colaboración en la integración, probado y operación del experimento AMS (Alpha Magnetic Spectrometer)
@@ -2023,7 +2045,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;8;82;820;;;Préstamos a corto plazo
 2009;G;8;82;821;;;Préstamos a largo plazo
 2009;G;8;82;822;;;Aportación reembolsable a ENISA para creación y desarrollo de empresas de base tecnológica
-2009;G;8;82;823;;;A la Entidad Pública Empresarial Red.es para el Programa de atracción de capital-riesgo al Sector TIC
+2009;G;8;82;823/20014;;;A la Entidad Pública Empresarial Red.es para el Programa de atracción de capital-riesgo al Sector TIC
 2009;G;8;82;823/20016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
 2009;G;8;82;823/21005;;;Anticipos reembolsables para el desarrollo de la investigación científica y técnica
 2009;G;8;82;824;;;Aportaciones reembolsables a empresas. Actuaciones de apoyo al tejido industrial innovador
@@ -2032,16 +2054,16 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;8;83;;;;Concesión de préstamos fuera del Sector Público
 2009;G;8;83;830;;;Préstamos a corto plazo
 2009;G;8;83;831;;;Préstamos a largo plazo
-2009;G;8;83;832;;;Préstamos a promotores de infraestructuras de carreteras para la financiación de autopistas de peaje en régimen de concesión hasta el importe resultante de la adjudicación.
+2009;G;8;83;832/17020;;;Préstamos a promotores de infraestructuras de carreteras para la financiación de autopistas de peaje en régimen de concesión hasta el importe resultante de la adjudicación.
 2009;G;8;83;832/20004;;;Plan Renove de Infraestructuras Turísticas
 2009;G;8;83;832/20015;;;Para la financiación del Programa A-380 y los compromisos adquiridos de proyectos cualificados civiles
 2009;G;8;83;832/20016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
-2009;G;8;83;833;;;Plan de Apoyo a la Internacionalización
+2009;G;8;83;833/20006;;;Plan de Apoyo a la Internacionalización
 2009;G;8;83;833/20015;;;Para apoyo a proyectos de interés estratégico en varios sectores
 2009;G;8;83;833/20016;;;Programa de desarrollo de equipamiento para la Unidad Militar de Emergencia (UME)
 2009;G;8;83;833/21005;;;Anticipos reembolsables para el desarrollo de la investigación científica y técnica
 2009;G;8;83;833/21007;;;Proyectos de Investigación Aplicada. Subprograma de Centros Tecnológicos
-2009;G;8;83;834;;;Para la financiación de proyectos estratégicos de desarrollo en el Sector Aeronáutico
+2009;G;8;83;834/20015;;;Para la financiación de proyectos estratégicos de desarrollo en el Sector Aeronáutico
 2009;G;8;83;834/21007;;;Aportaciones reembolsables a empresas. Actuaciones de apoyo al tejido industrial innovador
 2009;G;8;83;835;;;Plan VIVE
 2009;G;8;84;;;;Constitución de depósitos y fianzas
@@ -2057,7 +2079,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;8;86;869;;;De Organismos Financieros Multilaterales
 2009;G;8;87;;;;Aportaciones patrimoniales
 2009;G;8;87;870;;;Aportaciones patrimoniales
-2009;G;8;87;871;;;Fondo para la concesión de microcréditos
+2009;G;8;87;871/12003;;;Fondo para la concesión de microcréditos
 2009;G;8;87;871/15016;;;Aportación patrimonial al ICO
 2009;G;8;87;871/15021;;;Fondo de Ayuda al Desarrollo para Instituciones Financieras Internacionales y para la Gestión de la Deuda Externa (FIDE)
 2009;G;8;87;871/17032;;;A la Sociedad Estatal de Salvamento y Seguridad Marítima (SASEMAR)
@@ -2070,7 +2092,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;8;87;871/20018;;;Aportación a la Fundación Pública Ciudad de la Energía
 2009;G;8;87;871/21001;;;Aportación al CDTI para proyectos I+D+i en el área de la energía
 2009;G;8;87;871/23007;;;Fundación Ciudad de la Energía para infraestructuras y proyectos
-2009;G;8;87;872;;;Fondo de Ayuda al Desarrollo en materia de Cooperación
+2009;G;8;87;872/12003;;;Fondo de Ayuda al Desarrollo en materia de Cooperación
 2009;G;8;87;872/15001;;;Aportación Patrimonial a SEPI
 2009;G;8;87;872/20006;;;Al Fondo para Inversiones en el Exterior
 2009;G;8;87;873;;;Fondo de Cooperación para Agua y Saneamiento
@@ -2175,15 +2197,15 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;3;39;392;;;Diferencias de cambio
 2009;I;3;39;393;;;Diferencias entre los valores de reembolso y emisión
 2009;I;3;39;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial)
-2009;I;3;39;398;;;Ingresos extraordinarios
+2009;I;3;39;398/15302;;;Ingresos extraordinarios
 2009;I;3;39;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene
 2009;I;3;39;399;;;Ingresos diversos
 2009;I;4;;;;;Transferencias corrientes
 2009;I;4;40;;;;De la Administración del Estado
 2009;I;4;40;400;;;Del departamento al que está adscrito
 2009;I;4;40;401;;;De otros departamentos ministeriales
-2009;I;4;40;402;;;Del Departamento al que está adscrito.
 2009;I;4;40;402/20301;;;Compensación de los gastos derivados de la 41 Asamblea Anual de Gobernadores del Banco Asiático de Desarrollo
+2009;I;4;40;402/24103;;;Del Departamento al que está adscrito.
 2009;I;4;40;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
 2009;I;4;40;405;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2. del Real Decreto 825/1988, de  15 de julio)
 2009;I;4;41;;;;De organismos autónomos
@@ -2211,19 +2233,19 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;4;46;460;;;De Ayuntamientos
 2009;I;4;46;461;;;De Diputaciones y Cabildos Insulares
 2009;I;4;47;;;;De empresas privadas
-2009;I;4;47;470;;;De empresas privadas
+2009;I;4;47;470/12301;;;De empresas privadas
 2009;I;4;47;470/24301;;;Ingresos de empresas privadas
-2009;I;4;47;471;;;De empresas privadas
+2009;I;4;47;471/24104;;;De empresas privadas
 2009;I;4;47;471/60001;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes
-2009;I;4;47;479;;;Otras transferencias corrientes.
+2009;I;4;47;479/21137;;;Otras transferencias corrientes.
 2009;I;4;47;479/24201;;;Otras transferencias corrientes
 2009;I;4;48;;;;De familias e instituciones sin fines de lucro
 2009;I;4;48;480;;;De familias e instituciones sin fines de lucro
-2009;I;4;48;489;;;Otras transferencias corrientes.
+2009;I;4;48;489/21137;;;Otras transferencias corrientes.
 2009;I;4;48;489/24104;;;Otras transferencias corrientes
 2009;I;4;49;;;;Del exterior
 2009;I;4;49;490;;;Del Fondo Social Europeo
-2009;I;4;49;491;;;Del FEOGA GARANTÍA
+2009;I;4;49;491/14104;;;Del FEOGA GARANTÍA
 2009;I;4;49;491/23211;;;Del FEAGA
 2009;I;4;49;491/23225;;;De la Unión Europea-PAC
 2009;I;4;49;492;;;Otras transferencias de la Unión Europea
@@ -2277,22 +2299,21 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;7;70;;;;De la Administración del Estado
 2009;I;7;70;700;;;Del departamento al que está adscrito
 2009;I;7;70;701;;;De otros departamentos ministeriales
-2009;I;7;70;702;;;De la D.G. del Agua para apoyo en la ejecución de obras con financiación FEDER
+2009;I;7;70;702/23230;;;De la D.G. del Agua para apoyo en la ejecución de obras con financiación FEDER
 2009;I;7;70;702/24103;;;Del Departamento al que está adscrito
 2009;I;7;70;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
 2009;I;7;70;706;;;Del Ministerio de Medio Ambiente, Medio Rural y Marino
 2009;I;7;71;;;;De organismos autónomos
 2009;I;7;71;710;;;Transferencias de capital de organismos autónomos
-2009;I;7;71;711;;;"Del FEGA ""Ayudas de Desarrollo Rural"""
 2009;I;7;71;711/21207;;;Aportación del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria.
 2009;I;7;71;711/21401;;;Del Instituto para la Reestructuración de la Minería del Carbón y D.A.C.M.
+2009;I;7;71;711/98001;;;"Del FEGA ""Ayudas de Desarrollo Rural"""
 2009;I;7;72;;;;De la Seguridad Social
 2009;I;7;72;720;;;Transferencias de capital de la Seguridad Social
 2009;I;7;74;;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.
 2009;I;7;74;740;;;De sociedades mercantiles estatales
 2009;I;7;74;749;;;De resto del Sector Público
 2009;I;7;75;;;;De Comunidades Autónomas
-2009;I;7;75;750;;;Transferencias de capital de Comunidades Autónomas
 2009;I;7;75;750/18101;;;De Comunidades Autónomas
 2009;I;7;75;750/21201;;;De la Comunidad Autónoma de Canarias
 2009;I;7;75;750/21401;;;De Comunidades Autónomas para ejecución de proyectos de investigación
@@ -2304,6 +2325,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;7;75;750/23232;;;De Comunidades Autónomas
 2009;I;7;75;750/23233;;;De Comunidades Autónomas
 2009;I;7;75;750/23234;;;De Comunidades Autónomas
+2009;I;7;75;750/98001;;;Transferencias de capital de Comunidades Autónomas
 2009;I;7;76;;;;De Entidades Locales
 2009;I;7;76;760;;;De Ayuntamientos
 2009;I;7;76;761;;;De Diputaciones y Cabildos Insulares

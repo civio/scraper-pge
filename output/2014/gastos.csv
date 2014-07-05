@@ -2,60 +2,60 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12003;000X;4;;;TRANSFERENCIAS CORRIENTES;208094460
 2014;12003;000X;43;;;A agencias estatales y otros organismos públicos;208094460
 2014;12003;000X;430/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrrollo.;134603180
-2014;12003;000X;431;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto Ley 7/2013, de 28 de junio;24955970
-2014;12003;000X;437;;;Al Instituto Cervantes;48535310
+2014;12003;000X;431/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto Ley 7/2013, de 28 de junio;24955970
+2014;12003;000X;437/12003;;;Al Instituto Cervantes;48535310
 2014;12003;000X;7;;;TRANSFERENCIAS DE CAPITAL;12920250
 2014;12003;000X;73;;;A agencias estatales y otros organismos públicos;12920250
-2014;12003;000X;730;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamnetales, con destino a países en vías desarrollo.;11070250
-2014;12003;000X;737;;;Al Instituto Cervantes;1850000
+2014;12003;000X;730/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamnetales, con destino a países en vías desarrollo.;11070250
+2014;12003;000X;737/12003;;;Al Instituto Cervantes;1850000
 2014;13002;000X;4;;;TRANSFERENCIAS CORRIENTES;6548620
 2014;13002;000X;41;;;A organismos autónomos;6548620
-2014;13002;000X;411;;;Al Centro de Estudios Jurídicos de la Administración de Justicia;6548620
+2014;13002;000X;411/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia;6548620
 2014;13002;000X;7;;;TRANSFERENCIAS DE CAPITAL;430670
 2014;13002;000X;71;;;A organismos autónomos;430670
-2014;13002;000X;711;;;Al Centro de Estudios Jurídicos de la Administración de Justicia;430670
+2014;13002;000X;711/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia;430670
 2014;14003;000X;4;;;TRANSFERENCIAS CORRIENTES;70629560
 2014;14003;000X;41;;;A organismos autónomos;70629560
-2014;14003;000X;410;;;A organismos autónomos del Departamento;70629560
-2014;14003;000X;410;;02;Al Canal de Experiencias Hidrodinámicas de El Pardo;2572460
-2014;14003;000X;410;;03;Al Instituto Nacional de Técnica Aeroespacial Esteban Terradas;24657100
-2014;14003;000X;410;;04;Al Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa;43400000
+2014;14003;000X;410/14003;;;A organismos autónomos del Departamento;70629560
+2014;14003;000X;410/14003;;02;Al Canal de Experiencias Hidrodinámicas de El Pardo;2572460
+2014;14003;000X;410/14003;;03;Al Instituto Nacional de Técnica Aeroespacial Esteban Terradas;24657100
+2014;14003;000X;410/14003;;04;Al Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa;43400000
 2014;14003;000X;7;;;TRANSFERENCIAS DE CAPITAL;23120270
 2014;14003;000X;71;;;A organismos autónomos;23120270
-2014;14003;000X;710;;;A organismos autónomos del Departamento;23120270
-2014;14003;000X;710;;02;Al Canal de Experiencias Hidrodinámicas de El Pardo;523290
-2014;14003;000X;710;;03;"Al Instituto Nacional de Técnica Aeroespacial ""Esteban Terradas""";19506980
-2014;14003;000X;710;;04;"Al Instituto Nacional de Técnica Aeroespacial ""Esteban Terradas"" para  financiar el proyecto Galileo";3090000
+2014;14003;000X;710/14003;;;A organismos autónomos del Departamento;23120270
+2014;14003;000X;710/14003;;02;Al Canal de Experiencias Hidrodinámicas de El Pardo;523290
+2014;14003;000X;710/14003;;03;"Al Instituto Nacional de Técnica Aeroespacial ""Esteban Terradas""";19506980
+2014;14003;000X;710/14003;;04;"Al Instituto Nacional de Técnica Aeroespacial ""Esteban Terradas"" para  financiar el proyecto Galileo";3090000
 2014;15001;000X;4;;;TRANSFERENCIAS CORRIENTES;500000
 2014;15001;000X;43;;;A agencias estatales y otros organismos públicos;500000
-2014;15001;000X;436;;;A la Autoridad Independiente de Responsabilidad Fiscal;500000
+2014;15001;000X;436/15001;;;A la Autoridad Independiente de Responsabilidad Fiscal;500000
 2014;15005;000X;4;;;TRANSFERENCIAS CORRIENTES;880617150
 2014;15005;000X;41;;;A organismos autónomos;11484720
 2014;15005;000X;410/15005;;;Al Instituto de Estudios Fiscales;11484720
 2014;15005;000X;43;;;A agencias estatales y otros organismos públicos;869132430
-2014;15005;000X;435;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.);869132430
-2014;15005;000X;435;;00;A la A.E.A.T. para gastos de funcionamiento;798430250
-2014;15005;000X;435;;02;A la A.E.A.T. por compensación de gastos de otros servicios;2931450
-2014;15005;000X;435;;03;A la A.E.A.T. por premio de cobranza de los recursos propios de la CEE;67770730
+2014;15005;000X;435/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.);869132430
+2014;15005;000X;435/15005;;00;A la A.E.A.T. para gastos de funcionamiento;798430250
+2014;15005;000X;435/15005;;02;A la A.E.A.T. por compensación de gastos de otros servicios;2931450
+2014;15005;000X;435/15005;;03;A la A.E.A.T. por premio de cobranza de los recursos propios de la CEE;67770730
 2014;15005;000X;7;;;TRANSFERENCIAS DE CAPITAL;24671120
 2014;15005;000X;71;;;A organismos autónomos;834080
 2014;15005;000X;710/15005;;;Al Instituto de Estudios Fiscales;834080
 2014;15005;000X;73;;;A agencias estatales y otros organismos públicos;23837040
-2014;15005;000X;735;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.);23837040
-2014;15005;000X;735;;00;A la A.E.A.T. para gastos de inversiones;23837040
+2014;15005;000X;735/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.);23837040
+2014;15005;000X;735/15005;;00;A la A.E.A.T. para gastos de inversiones;23837040
 2014;15026;000X;4;;;TRANSFERENCIAS CORRIENTES;13650740
 2014;15026;000X;41;;;A organismos autónomos;10202060
-2014;15026;000X;418;;;Al Instituto Nacional de Administración Pública (INAP);10202060
+2014;15026;000X;418/15026;;;Al Instituto Nacional de Administración Pública (INAP);10202060
 2014;15026;000X;43;;;A agencias estatales y otros organismos públicos;3448680
 2014;15026;000X;430/15026;;;A la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios (AEVAL);3448680
 2014;15026;000X;7;;;TRANSFERENCIAS DE CAPITAL;793970
 2014;15026;000X;71;;;A organismos autónomos;641260
-2014;15026;000X;718;;;Al Instituto Nacional de Administración Pública (INAP);641260
+2014;15026;000X;718/15026;;;Al Instituto Nacional de Administración Pública (INAP);641260
 2014;15026;000X;73;;;A agencias estatales y otros organismos públicos;152710
 2014;15026;000X;730/15026;;;A la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios (AEVAL);152710
 2014;15104;000X;4;;;TRANSFERENCIAS CORRIENTES;15743570
 2014;15104;000X;40;;;A la Administración del Estado;15743570
-2014;15104;000X;400;;;A la Administración del Estado;15743570
+2014;15104;000X;400/15104;;;A la Administración del Estado;15743570
 2014;16001;000X;4;;;TRANSFERENCIAS CORRIENTES;107600
 2014;16001;000X;43;;;A agencias estatales y otros organismos públicos;107600
 2014;16001;000X;435/16001;;;A la Agencia Estatal de Administración Tributaria, por los gastos comunes del edificio de la calle del Plomo en Madrid;107600
@@ -65,7 +65,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16101;000X;4;;;TRANSFERENCIAS CORRIENTES;135791370
 2014;16101;000X;40;;;A la Administración del Estado;135791370
 2014;16101;000X;400/16101;;;Al Estado, para generar crédito en el Ministerio del Interior, según la DIsposición adicional segunda de la Ley Orgánica 6/2011;1270000
-2014;16101;000X;401;;;Al Estado;134521370
+2014;16101;000X;401/16101;;;Al Estado;134521370
 2014;17009;000X;4;;;TRANSFERENCIAS CORRIENTES;55000
 2014;17009;000X;41;;;A organismos autónomos;55000
 2014;17009;000X;410/17009;;;Al Centro de Investigaciones Sociológicas para la realización del estudio Barómetro de la Vivienda.;55000
@@ -75,10 +75,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17009;000X;730/17009;;00;Al CSIC para el estudio base herramientas Codigo Tecnico de la Edificacion (Instituto de Ciencias de la Construcción Eduardo Torroja).;800000
 2014;17018;000X;4;;;TRANSFERENCIAS CORRIENTES;1880000
 2014;17018;000X;41;;;A organismos autónomos;1880000
-2014;17018;000X;412;;;Al Centro Nacional de Información Geográfica (CNIG);1880000
+2014;17018;000X;412/17018;;;Al Centro Nacional de Información Geográfica (CNIG);1880000
 2014;17018;000X;7;;;TRANSFERENCIAS DE CAPITAL;2220000
 2014;17018;000X;71;;;A organismos autónomos;2220000
-2014;17018;000X;712;;;Al Centro Nacional de Información Geográfica (CNIG).;2220000
+2014;17018;000X;712/17018;;;Al Centro Nacional de Información Geográfica (CNIG).;2220000
 2014;17020;000X;4;;;TRANSFERENCIAS CORRIENTES;15000000
 2014;17020;000X;41;;;A organismos autónomos;15000000
 2014;17020;000X;410/17020;;;Al Centro de Estudios y Experimentación de Obras Públicas. (C.E.D.E.X);15000000
@@ -99,10 +99,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18001;000X;730/18001;;;A la Agencia Española de Protección de la Salud en el Deporte;158000
 2014;18006;000X;4;;;TRANSFERENCIAS CORRIENTES;2395950
 2014;18006;000X;41;;;A organismos autónomos;2395950
-2014;18006;000X;417;;;Al Organismo Autónomo Programas Educativos Europeos;2395950
+2014;18006;000X;417/18006;;;Al Organismo Autónomo Programas Educativos Europeos;2395950
 2014;18006;000X;7;;;TRANSFERENCIAS DE CAPITAL;150000
 2014;18006;000X;71;;;A organismos autónomos;150000
-2014;18006;000X;717;;;Al Organismo Autónomo Programas Educativos Europeos;150000
+2014;18006;000X;717/18006;;;Al Organismo Autónomo Programas Educativos Europeos;150000
 2014;18007;000X;4;;;TRANSFERENCIAS CORRIENTES;2718090
 2014;18007;000X;41;;;A organismos autónomos;2718090
 2014;18007;000X;410/18007;;;A la Universidad Internacional Menéndez Pelayo;2606090
@@ -113,9 +113,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18009;000X;4;;;TRANSFERENCIAS CORRIENTES;199494520
 2014;18009;000X;41;;;A organismos autónomos;170206730
 2014;18009;000X;412/18009;;;A la Biblioteca Nacional;17783630
-2014;18009;000X;414;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales;9441150
-2014;18009;000X;415;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales. Dotación del Fondo de Protección a la Cinematografía;33703070
-2014;18009;000X;416;;;Al Instituto Nacional de las Artes Escénicas y de la Música;101000420
+2014;18009;000X;414/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales;9441150
+2014;18009;000X;415/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales. Dotación del Fondo de Protección a la Cinematografía;33703070
+2014;18009;000X;416/18009;;;Al Instituto Nacional de las Artes Escénicas y de la Música;101000420
 2014;18009;000X;417/18009;;;A la Gerencia de Infraestructuras y Equipamientos;8278460
 2014;18009;000X;43;;;A agencias estatales y otros organismos públicos;29287790
 2014;18009;000X;437/18009;;;Al Museo Nacional del Prado;8410640
@@ -123,8 +123,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18009;000X;7;;;TRANSFERENCIAS DE CAPITAL;43069180
 2014;18009;000X;71;;;A organismos autónomos;38063180
 2014;18009;000X;712/18009;;;A la Biblioteca Nacional;5732070
-2014;18009;000X;714;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales;779590
-2014;18009;000X;716;;;Al Instituto Nacional de las Artes Escénicas y de la Música;7545230
+2014;18009;000X;714/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales;779590
+2014;18009;000X;716/18009;;;Al Instituto Nacional de las Artes Escénicas y de la Música;7545230
 2014;18009;000X;717/18009;;;A la Gerencia de Infraestructuras y Equipamientos;24006290
 2014;18009;000X;73;;;A agencias estatales y otros organismos públicos;5006000
 2014;18009;000X;737/18009;;;Al Museo Nacional del Prado;2941000
@@ -142,12 +142,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;19002;000X;420;;02;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones no contributivas establecidas por la Ley 26/1990 . Pensiones, incluso para atender obligaciones de ejercicios anteriores;2320943070
 2014;19002;000X;420;;03;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones no contributivas establecidas por  la Leyes  26/1990 y 35/2007. Protección familiar, incluso para atender obligaciones de ejercicios anteriores.;1369487450
 2014;19002;000X;420;;04;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones de maternidad no contributivas establecidas por la Ley Orgánica 3/2007, de 22 de marzo.;620000
-2014;19002;000X;423;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.;7633020000
+2014;19002;000X;423/19002;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.;7633020000
 2014;19002;000X;426;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM;13452830
-2014;19002;000X;429;;;Otras aportaciones a la Seguridad Social.;60201500
-2014;19002;000X;429;;01;Cuotas de seguridad social  correspondientes a los trabajadores afectados por el art.8 de la Ley de Amnistía de 15 de octubre de 1977.;12020
-2014;19002;000X;429;;03;A la Seguridad Social para financiar las bonificaciones de cuotas empresariales por tripulantes de buques especificados en la Ley 19/1994 de Régimen Económico y Fiscal de Canarias;40868180
-2014;19002;000X;429;;04;Transferencia a la S.Social para financiar las prestaciones del Síndrome Tóxico.;19321300
+2014;19002;000X;429/19002;;;Otras aportaciones a la Seguridad Social.;60201500
+2014;19002;000X;429/19002;;01;Cuotas de seguridad social  correspondientes a los trabajadores afectados por el art.8 de la Ley de Amnistía de 15 de octubre de 1977.;12020
+2014;19002;000X;429/19002;;03;A la Seguridad Social para financiar las bonificaciones de cuotas empresariales por tripulantes de buques especificados en la Ley 19/1994 de Régimen Económico y Fiscal de Canarias;40868180
+2014;19002;000X;429/19002;;04;Transferencia a la S.Social para financiar las prestaciones del Síndrome Tóxico.;19321300
 2014;19002;000X;7;;;TRANSFERENCIAS DE CAPITAL;1200000
 2014;19002;000X;72;;;A la Seguridad Social;1200000
 2014;19002;000X;726;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del Instituto Social de la Marina;1200000
@@ -156,11 +156,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;19003;000X;412/19003;;;Para financiar el presupuesto del Servicio Público de Empleo Estatal;14586106710
 2014;19003;000X;415/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo para el cumplimiento de sus fines.;21580650
 2014;19003;000X;42;;;A la Seguridad Social;44439800
-2014;19003;000X;422;;;Ayudas previas a la jubilación ordinaria a trabajadores mayores de 60 años en el sistema de la Seguridad Social.;44439800
+2014;19003;000X;422/19003;;;Ayudas previas a la jubilación ordinaria a trabajadores mayores de 60 años en el sistema de la Seguridad Social.;44439800
 2014;19003;000X;7;;;TRANSFERENCIAS DE CAPITAL;12355860
 2014;19003;000X;71;;;A organismos autónomos;12355860
 2014;19003;000X;712/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo;925100
-2014;19003;000X;713;;;Para financiar el presupuesto del SPEE;11430760
+2014;19003;000X;713/19003;;;Para financiar el presupuesto del SPEE;11430760
 2014;19101;000X;4;;;TRANSFERENCIAS CORRIENTES;124172210
 2014;19101;000X;40;;;A la Administración del Estado;65585560
 2014;19101;000X;400/19101;;;Reserva de gestión directa del SPEE. Gestión de acciones y medidas de políticas activas de empleo en colaboración con órganos de la Administración General del Estado;3317830
@@ -245,7 +245,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;23011;000X;4;;;TRANSFERENCIAS CORRIENTES;59437470
 2014;23011;000X;41;;;A organismos autónomos;59437470
 2014;23011;000X;412/23011;;;Subvención a la Agencia de Información y Control Alimentario (AICA) para gastos corrientes;4215200
-2014;23011;000X;413;;;Al Fondo Español de Garantía Agraria (FEGA) para gastos de funcionamiento.;15222270
+2014;23011;000X;413/23011;;;Al Fondo Español de Garantía Agraria (FEGA) para gastos de funcionamiento.;15222270
 2014;23011;000X;414/23011;;;Al FEGA, para atender gastos de ayuda alimentaria;40000000
 2014;23011;000X;7;;;TRANSFERENCIAS DE CAPITAL;13860000
 2014;23011;000X;71;;;A organismos autónomos;13860000
@@ -287,18 +287,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;26004;000X;413/26004;;;Al Instituto Nacional del Consumo, para compensar al I.C.O. los gastos derivados de los costes del margen de intermediación de las entidades de crédito y el quebranto en la cesión de fondos, derivados de la línea de mediación de anticipos a cuenta a los afectados de FORUM FILATÉLICO-AFINSA;3050000
 2014;26004;000X;415/26004;;;A la Agencia Española de Seguridad Alimentaria y Nutrición;13274600
 2014;26004;000X;42;;;A la Seguridad Social;2855000
-2014;26004;000X;427;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina;2855000
+2014;26004;000X;427/26004;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina;2855000
 2014;26004;000X;43;;;A agencias estatales y otros organismos públicos;8800
 2014;26004;000X;431/26004;;;A la Agencia Española de Medicamentos y Productos Sanitarios;8800
 2014;26004;000X;7;;;TRANSFERENCIAS DE CAPITAL;407810
 2014;26004;000X;71;;;A organismos autónomos;387810
 2014;26004;000X;712/26004;;;Al Instituto Nacional del Consumo;187810
-2014;26004;000X;715;;;A la Agencia Española de Seguridad Alimentaria y Nutrición;200000
+2014;26004;000X;715/26004;;;A la Agencia Española de Seguridad Alimentaria y Nutrición;200000
 2014;26004;000X;72;;;A la Seguridad Social;20000
 2014;26004;000X;727;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina;20000
 2014;26007;000X;4;;;TRANSFERENCIAS CORRIENTES;1056000
 2014;26007;000X;42;;;A la Seguridad Social;1056000
-2014;26007;000X;421;;;Al Instituto Nacional de Gestión Sanitaria para el desarrollo del Plan de Calidad del Sistema Nacional de Salud, en las ciudades de Ceuta y Melilla (por incremento de la población protegida);1056000
+2014;26007;000X;421/26007;;;Al Instituto Nacional de Gestión Sanitaria para el desarrollo del Plan de Calidad del Sistema Nacional de Salud, en las ciudades de Ceuta y Melilla (por incremento de la población protegida);1056000
 2014;26007;000X;7;;;TRANSFERENCIAS DE CAPITAL;4149510
 2014;26007;000X;71;;;A organismos autónomos;4149510
 2014;26007;000X;711/26007;;;Al Instituto de Salud Carlos III para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias;4149510
@@ -308,7 +308,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;26009;000X;42;;;A la Seguridad Social;210028650
 2014;26009;000X;421/26009;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones corrientes del Instituto Nacional de Gestión Sanitaria;204290620
 2014;26009;000X;422/26009;;;Aportación al Instituto Nacional de Gestión Sanitaria para compensación de saldos y gastos por la atención a pacientes derivados a otras comunidades autonomas para asegurar la cohesión del SNS;5732020
-2014;26009;000X;425;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago;6010
+2014;26009;000X;425/26009;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago;6010
 2014;26009;000X;7;;;TRANSFERENCIAS DE CAPITAL;11438730
 2014;26009;000X;71;;;A organismos autónomos;247550
 2014;26009;000X;714/26009;;;A la Organización Nacional de Trasplantes;247550
@@ -318,7 +318,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;26015;000X;41;;;A organismos autónomos;13786530
 2014;26015;000X;410/26015;;;Al Instituto de la Juventud para el cumplimiento de sus fines;11081890
 2014;26015;000X;411/26015;;;Al Consejo de la Juventud de España para el cumplimiento de sus fines;1000000
-2014;26015;000X;419;;;Al Real Patronato sobre Discapacidad para el cumplimiento de sus fines;1704640
+2014;26015;000X;419/26015;;;Al Real Patronato sobre Discapacidad para el cumplimiento de sus fines;1704640
 2014;26015;000X;42;;;A la Seguridad Social;1298622320
 2014;26015;000X;424;;;Al IMSERSO, para el cumplimiento de sus fines;126523580
 2014;26015;000X;425/26015;;;Al IMSERSO para la cobertura de obligaciones de ejercicios anteriores por cuotas sociales de cuidadores no profesionales en dependencia (SAAD);15000
@@ -332,7 +332,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;26015;000X;711/26015;;;Al Consejo de la Juventud de España;80270
 2014;26015;000X;719;;;Al Real Patronato sobre Discapacidad;7000
 2014;26015;000X;72;;;A la Seguridad Social;6125000
-2014;26015;000X;720;;;Al IMSERSO, para el cumplimiento de sus fines;1646000
+2014;26015;000X;720/26015;;;Al IMSERSO, para el cumplimiento de sus fines;1646000
 2014;26015;000X;729;;;Al IMSERSO para otros gastos en dependencia;4479000
 2014;26021;000X;4;;;TRANSFERENCIAS CORRIENTES;6490060
 2014;26021;000X;41;;;A organismos autónomos;6490060
@@ -410,7 +410,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;60001;000X;720/60001;;;A la Seguridad Social;603262780
 2014;60002;000X;4;;;TRANSFERENCIAS CORRIENTES;154806900
 2014;60002;000X;40;;;A la Administración del Estado;154806900
-2014;60002;000X;400;;;A la Administración del Estado;154806900
+2014;60002;000X;400/60002;;;A la Administración del Estado;154806900
 2014;60003;000X;4;;;TRANSFERENCIAS CORRIENTES;29997000
 2014;60003;000X;42;;;A la Seguridad Social;29997000
 2014;60003;000X;428;;;Aplicaciones del Fondo de Prevención y Rehabilitación;29997000
@@ -499,7 +499,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;08001;111M;4;;;TRANSFERENCIAS CORRIENTES;580550
 2014;08001;111M;48;;;A familias e instituciones sin fines de lucro;575800
 2014;08001;111M;481/08001;;;Pensiones e indemnizaciones a favor del Presidente del Consejo (art. 10.5 Ley 74/1980);115870
-2014;08001;111M;483;;;A Asociaciones Judiciales;459930
+2014;08001;111M;483/08001;;;A Asociaciones Judiciales;459930
 2014;08001;111M;49;;;Al exterior;4750
 2014;08001;111M;490/08001;;;Cuotas a Organismos Internacionales;4750
 2014;08001;111M;6;;;INVERSIONES REALES;1547200
@@ -602,10 +602,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;13001;111N;240;;;Gastos de edición y distribución;135000
 2014;13001;111N;4;;;TRANSFERENCIAS CORRIENTES;1545380
 2014;13001;111N;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;1380000
-2014;13001;111N;441;;;A la Fundación Pluralismo y Convivencia;1380000
+2014;13001;111N;441/13001;;;A la Fundación Pluralismo y Convivencia;1380000
 2014;13001;111N;49;;;Al exterior;165380
 2014;13001;111N;491/13001;;;Conferencia de Ministros de Justicia de Países Iberoamericanos;55630
-2014;13001;111N;492;;;Cuota al Instituto de las Naciones Unidas para la prevención del delito y tratamiento del delincuente;20000
+2014;13001;111N;492/13001;;;Cuota al Instituto de las Naciones Unidas para la prevención del delito y tratamiento del delincuente;20000
 2014;13001;111N;493/13001;;;GRECO - Grupo de Estados contra la Corrupción;89750
 2014;13001;111N;6;;;INVERSIONES REALES;3613950
 2014;13001;111N;62;;;Inv. nueva asociada al funcionamiento operativo de los serv.;2785030
@@ -698,8 +698,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;08001;111O;4;;;TRANSFERENCIAS CORRIENTES;161450
 2014;08001;111O;48;;;A familias e instituciones sin fines de lucro;145850
 2014;08001;111O;480/08001;;;A Asociaciones y Fundaciones sin ánimo de lucro relacionadas con la Administración de Justicia;40000
-2014;08001;111O;483;;;A Asociaciones Judiciales;32500
-2014;08001;111O;484;;;Ayudas a la formación;73350
+2014;08001;111O;483/08001;;;A Asociaciones Judiciales;32500
+2014;08001;111O;484/08001;;;Ayudas a la formación;73350
 2014;08001;111O;49;;;Al exterior;15600
 2014;08001;111O;490/08001;;;Cuotas a Organismos Internacionales;15600
 2014;08001;111O;6;;;INVERSIONES REALES;365000
@@ -977,7 +977,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;13002;112A;227;;04;Custodia, depósito y almacenaje;2000000
 2014;13002;112A;227;;06;Estudios y trabajos técnicos;3111370
 2014;13002;112A;227;;99;Otros;1210000
-2014;13002;112A;229;;;Obligaciones de ejercicios anteriores;3638620
+2014;13002;112A;229/13002;;;Obligaciones de ejercicios anteriores;3638620
 2014;13002;112A;23;;;Indemnizaciones por razón del servicio;3327870
 2014;13002;112A;230;;;Dietas;680780
 2014;13002;112A;231;;;Locomoción;1492000
@@ -988,7 +988,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;13002;112A;352;;;Intereses de demora;25770
 2014;13002;112A;4;;;TRANSFERENCIAS CORRIENTES;36736880
 2014;13002;112A;46;;;A entidades locales;1994210
-2014;13002;112A;462;;;Subvención por gastos Juzgados de Paz (art. 52 Ley de Demarcación y de Planta Judicial);1994210
+2014;13002;112A;462/13002;;;Subvención por gastos Juzgados de Paz (art. 52 Ley de Demarcación y de Planta Judicial);1994210
 2014;13002;112A;48;;;A familias e instituciones sin fines de lucro;34742670
 2014;13002;112A;483/13002;;;Al Consejo General de la Abogacía Española como aportación del Estado para indemnizar a los abogados en los asuntos de asistencia jurídica gratuita;31547850
 2014;13002;112A;484/13002;;;Al Consejo General de los Procuradores de España como aportación del Estado para indemnizar a los procuradores en los asuntos de asistencia jurídica gratuita;2603210
@@ -1000,7 +1000,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;13002;112A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;14779400
 2014;13002;112A;7;;;TRANSFERENCIAS DE CAPITAL;3746150
 2014;13002;112A;75;;;A comunidades autónomas;3746150
-2014;13002;112A;752;;;A CC.AA. según Acuerdos de traspasos de funciones y servicios;3746150
+2014;13002;112A;752/13002;;;A CC.AA. según Acuerdos de traspasos de funciones y servicios;3746150
 2014;13002;112A;8;;;ACTIVOS FINANCIEROS;536000
 2014;13002;112A;83;;;Concesión de préstamos fuera del Sector Público;536000
 2014;13002;112A;830;;;Préstamos a corto plazo;536000
@@ -1190,7 +1190,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;14001;121M;15;;;Incentivos al rendimiento;156938830
 2014;14001;121M;150;;;Productividad;5374460
 2014;14001;121M;151;;;Gratificaciones;2683230
-2014;14001;121M;152;;;Productividad del Personal Estatutario;1397700
+2014;14001;121M;152/14001;;;Productividad del Personal Estatutario;1397700
 2014;14001;121M;153;;;Complemento de dedicación especial;147483440
 2014;14001;121M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;128341830
 2014;14001;121M;160;;;Cuotas sociales;107468720
@@ -1271,13 +1271,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;14001;121M;48;;;A familias e instituciones sin fines de lucro;2078000
 2014;14001;121M;481/14001;;;Fondo de reconocimiento de servicios prestados en el territorio de Ifni-Sahara;729020
 2014;14001;121M;484/14001;;;A Hermandades de retirados, viudas y huérfanos a distribuir según Orden Ministerial;23170
-2014;14001;121M;485;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros;564370
-2014;14001;121M;485;;00;A organismos e instituciones relacionados con las Fuerzas Armadas;41510
-2014;14001;121M;485;;01;"Al Instituto ""Gutiérrez Mellado""";151550
-2014;14001;121M;485;;02;Al Instituto de Estudios Internacionales y Estratégicos;175690
-2014;14001;121M;485;;03;A personas físicas o jurídicas, públicas/privadas, sin ánimo de lucro, activi. direc. o indi. FAS;195620
+2014;14001;121M;485/14001;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros;564370
+2014;14001;121M;485/14001;;00;A organismos e instituciones relacionados con las Fuerzas Armadas;41510
+2014;14001;121M;485/14001;;01;"Al Instituto ""Gutiérrez Mellado""";151550
+2014;14001;121M;485/14001;;02;Al Instituto de Estudios Internacionales y Estratégicos;175690
+2014;14001;121M;485/14001;;03;A personas físicas o jurídicas, públicas/privadas, sin ánimo de lucro, activi. direc. o indi. FAS;195620
 2014;14001;121M;486/14001;;;Pensiones a funcionarios, de carácter militar;760440
-2014;14001;121M;489;;;Indemnizaciones derivadas de la aplicación del Real Decreto Ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad;1000
+2014;14001;121M;489/14001;;;Indemnizaciones derivadas de la aplicación del Real Decreto Ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad;1000
 2014;14001;121M;49;;;Al exterior;15200
 2014;14001;121M;490/14001;;;A organismos internacionales;15200
 2014;14001;121M;490/14001;;00;Cuota a la Organización Internacional de Deporte Militar;15200
@@ -1450,8 +1450,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;14012;121M;232;;;Traslado;3700000
 2014;14012;121M;4;;;TRANSFERENCIAS CORRIENTES;292190
 2014;14012;121M;48;;;A familias e instituciones sin fines de lucro;292190
-2014;14012;121M;485;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros;189130
-2014;14012;121M;485;;00;A organismos e instituciones de carácter benéfico y cultural relacionados con las Fuerzas Armadas;189130
+2014;14012;121M;485/14012;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros;189130
+2014;14012;121M;485/14012;;00;A organismos e instituciones de carácter benéfico y cultural relacionados con las Fuerzas Armadas;189130
 2014;14012;121M;486/14012;;;Pensiones a funcionarios, de carácter militar;103060
 2014;14012;121M;8;;;ACTIVOS FINANCIEROS;977360
 2014;14012;121M;83;;;Concesión de préstamos fuera del Sector Público;977360
@@ -1638,19 +1638,19 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;14001;121N;440/14001;;03;Centro Universitario de la Defensa en la Escuela Naval Militar de Marín;2155730
 2014;14001;121N;440/14001;;04;Centro Universitario de la Defensa en el Grupo de Escuelas de la Defensa de Madrid;523890
 2014;14001;121N;45;;;A comunidades autónomas;5140330
-2014;14001;121N;450;;;Transferencias a CCAA.Formación Escuelas de Suboficiales;5140330
+2014;14001;121N;450/14001;;;Transferencias a CCAA.Formación Escuelas de Suboficiales;5140330
 2014;14001;121N;48;;;A familias e instituciones sin fines de lucro;841870
-2014;14001;121N;485;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros;12160
-2014;14001;121N;485;;00;A organismos e instituciones relacionados con las Fuerzas Armadas;12160
+2014;14001;121N;485/14001;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros;12160
+2014;14001;121N;485/14001;;00;A organismos e instituciones relacionados con las Fuerzas Armadas;12160
 2014;14001;121N;487/14001;;;Becas de estudios para personal de las Fuerzas Armadas;125880
 2014;14001;121N;488/14001;;;Ayudas a alumnos extranjeros en centros docentes de las Fuerzas Armadas;703830
 2014;14001;121N;7;;;TRANSFERENCIAS DE CAPITAL;596000
 2014;14001;121N;74;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;596000
-2014;14001;121N;740;;;Centros Universitarios de la Defensa;596000
-2014;14001;121N;740;;01;Centro Universitario de la Defensa en la Academia General del Aire de San Javier;267000
-2014;14001;121N;740;;02;Centro Universitario de la Defensa en la Academia General Militar de Zaragoza;46000
-2014;14001;121N;740;;03;Centro Universitario de la Defensa en la Escuela Naval Militar de Marín;248000
-2014;14001;121N;740;;04;Centro Universitario de la Defensa en el Grupo de Escuelas de la Defensa de Madrid;35000
+2014;14001;121N;740/14001;;;Centros Universitarios de la Defensa;596000
+2014;14001;121N;740/14001;;01;Centro Universitario de la Defensa en la Academia General del Aire de San Javier;267000
+2014;14001;121N;740/14001;;02;Centro Universitario de la Defensa en la Academia General Militar de Zaragoza;46000
+2014;14001;121N;740/14001;;03;Centro Universitario de la Defensa en la Escuela Naval Militar de Marín;248000
+2014;14001;121N;740/14001;;04;Centro Universitario de la Defensa en el Grupo de Escuelas de la Defensa de Madrid;35000
 2014;14002;121N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1781700
 2014;14002;121N;21;;;Reparaciones, mantenimiento y conservación;111010
 2014;14002;121N;213;;;Maquinaria, instalaciones y utillaje;76000
@@ -2526,8 +2526,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16004;131N;443/16004;;;Al Centro Universitario de la Defensa en la Academia General Militar de Zaragoza;1116000
 2014;16004;131N;7;;;TRANSFERENCIAS DE CAPITAL;66000
 2014;16004;131N;74;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;66000
-2014;16004;131N;742;;;Al Centro Universitario de la Guardia Civil;44000
-2014;16004;131N;743;;;Al Centro Universitario de la Defensa en la Academia General Militar de Zaragoza;22000
+2014;16004;131N;742/16004;;;Al Centro Universitario de la Guardia Civil;44000
+2014;16004;131N;743/16004;;;Al Centro Universitario de la Defensa en la Academia General Militar de Zaragoza;22000
 2014;16003;131O;1;;;GASTOS DE PERSONAL;318168160
 2014;16003;131O;12;;;Funcionarios;318168160
 2014;16003;131O;120;;;Retribuciones básicas;183611790
@@ -2714,9 +2714,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16002;132A;640;;;Gastos en inversiones de carácter inmaterial;100000
 2014;16002;132A;7;;;TRANSFERENCIAS DE CAPITAL;159770
 2014;16002;132A;79;;;Al exterior;159770
-2014;16002;132A;792;;;Contribución a Organismos Internacionales;118800
-2014;16002;132A;792;;01;Al Sistema de Información Schengen (CSIS);118800
-2014;16002;132A;794;;;Ayudas y subvenciones en el ámbito de la cooperación policial internacional;40970
+2014;16002;132A;792/16002;;;Contribución a Organismos Internacionales;118800
+2014;16002;132A;792/16002;;01;Al Sistema de Información Schengen (CSIS);118800
+2014;16002;132A;794/16002;;;Ayudas y subvenciones en el ámbito de la cooperación policial internacional;40970
 2014;16003;132A;1;;;GASTOS DE PERSONAL;2245460810
 2014;16003;132A;10;;;Altos cargos;63720
 2014;16003;132A;100;;;Retribuciones básicas y otras remuneraciones;63720
@@ -2819,7 +2819,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16003;132A;227;;06;Estudios y trabajos técnicos;14129300
 2014;16003;132A;227;;15;Trabajos realizados por otras empresas y profesionales en el exterior;99100
 2014;16003;132A;227;;99;Otros;259530
-2014;16003;132A;229;;;Obligaciones de ejercicios anteriores;40503690
+2014;16003;132A;229/16003;;;Obligaciones de ejercicios anteriores;40503690
 2014;16003;132A;23;;;Indemnizaciones por razón del servicio;60055260
 2014;16003;132A;230;;;Dietas;44419400
 2014;16003;132A;231;;;Locomoción;13635860
@@ -2962,7 +2962,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16004;132A;227;;06;Estudios y trabajos técnicos;10255000
 2014;16004;132A;227;;15;Trabajos realizados por otras empresas y profesionales en el exterior;45000
 2014;16004;132A;227;;99;Otros;100000
-2014;16004;132A;229;;;Obligaciones de ejercicios anteriores;8000000
+2014;16004;132A;229/16004;;;Obligaciones de ejercicios anteriores;8000000
 2014;16004;132A;23;;;Indemnizaciones por razón del servicio;47155000
 2014;16004;132A;230;;;Dietas;33800000
 2014;16004;132A;231;;;Locomoción;6800000
@@ -3423,7 +3423,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16005;133A;227;;01;Seguridad;390000
 2014;16005;133A;227;;06;Estudios y trabajos técnicos;7718060
 2014;16005;133A;227;;99;Otros;3603360
-2014;16005;133A;229;;;Obligaciones de ejercicios anteriores;3872650
+2014;16005;133A;229/16005;;;Obligaciones de ejercicios anteriores;3872650
 2014;16005;133A;23;;;Indemnizaciones por razón del servicio;1214680
 2014;16005;133A;230;;;Dietas;330000
 2014;16005;133A;231;;;Locomoción;455000
@@ -3440,7 +3440,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16005;133A;441/16005;;;A la Universidad Nacional de Educación a Distancia para estudios universitarios de los reclusos;350700
 2014;16005;133A;442/16005;;;A Trabajo Penitenciario y Formación para el Empleo;12243810
 2014;16005;133A;46;;;A entidades locales;620790
-2014;16005;133A;464;;;Depósitos Municipales;611000
+2014;16005;133A;464/16005;;;Depósitos Municipales;611000
 2014;16005;133A;469;;;Obligaciones de ejercicios anteriores;9790
 2014;16005;133A;48;;;A familias e instituciones sin fines de lucro;2045820
 2014;16005;133A;481/16005;;;Transferencia a la Comisión Episcopal para atención del culto en centros penitenciarios;309500
@@ -3537,17 +3537,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16001;134M;227;;04;Custodia, depósito y almacenaje;50
 2014;16001;134M;227;;06;Estudios y trabajos técnicos;34000
 2014;16001;134M;227;;99;Otros;11000
-2014;16001;134M;229;;;Obligaciones de ejercicios anteriores;16000
+2014;16001;134M;229/16001;;;Obligaciones de ejercicios anteriores;16000
 2014;16001;134M;23;;;Indemnizaciones por razón del servicio;385000
 2014;16001;134M;230;;;Dietas;75000
 2014;16001;134M;231;;;Locomoción;85000
 2014;16001;134M;233;;;Otras indemnizaciones;225000
 2014;16001;134M;4;;;TRANSFERENCIAS CORRIENTES;775900
 2014;16001;134M;46;;;A entidades locales;240400
-2014;16001;134M;461;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;240400
+2014;16001;134M;461/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;240400
 2014;16001;134M;47;;;A empresas privadas;40100
-2014;16001;134M;471;;;Por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia;20100
-2014;16001;134M;472;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;20000
+2014;16001;134M;471/16001;;;Por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia;20100
+2014;16001;134M;472/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;20000
 2014;16001;134M;48;;;A familias e instituciones sin fines de lucro;495400
 2014;16001;134M;482/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;154000
 2014;16001;134M;489/16001;;;A la Cruz Roja Española, por su participación en la Operación Paso del Estrecho y en otras actividades de protección civil;341400
@@ -3560,12 +3560,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;16001;134M;640;;;Gastos en inversiones de carácter inmaterial;287110
 2014;16001;134M;7;;;TRANSFERENCIAS DE CAPITAL;1554750
 2014;16001;134M;76;;;A entidades locales;1424600
-2014;16001;134M;761;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;60100
-2014;16001;134M;762;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear;1364500
+2014;16001;134M;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;60100
+2014;16001;134M;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear;1364500
 2014;16001;134M;77;;;A empresas privadas;40000
 2014;16001;134M;771/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia.;40000
 2014;16001;134M;78;;;A familias e instituciones sin fines de lucro;90150
-2014;16001;134M;782;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;90150
+2014;16001;134M;782/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;90150
 2014;13301;135M;1;;;GASTOS DE PERSONAL;6672660
 2014;13301;135M;10;;;Altos cargos;63720
 2014;13301;135M;100;;;Retribuciones básicas y otras remuneraciones;63720
@@ -3749,13 +3749,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12001;141M;240;;;Gastos de edición y distribución;75000
 2014;12001;141M;4;;;TRANSFERENCIAS CORRIENTES;42380
 2014;12001;141M;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;33060
-2014;12001;141M;449;;;A la Obra Pía de los Santos Lugares;33060
+2014;12001;141M;449/12001;;;A la Obra Pía de los Santos Lugares;33060
 2014;12001;141M;48;;;A familias e instituciones sin fines de lucro;6310
 2014;12001;141M;481/12001;;;A familias e instituciones sin fines de lucro;6310
 2014;12001;141M;481/12001;;10;Fundación CEI (Centro de Estudios Internacionales);6310
 2014;12001;141M;49;;;Al exterior;3010
-2014;12001;141M;491;;;A instituciones sin fines de lucro con proyección en el exterior;3010
-2014;12001;141M;491;;01;A la Basílica de Santa María la Mayor de Roma (Óbolo Regio);3010
+2014;12001;141M;491/12001;;;A instituciones sin fines de lucro con proyección en el exterior;3010
+2014;12001;141M;491/12001;;01;A la Basílica de Santa María la Mayor de Roma (Óbolo Regio);3010
 2014;12001;141M;6;;;INVERSIONES REALES;3042820
 2014;12001;141M;62;;;Inv. nueva asociada al funcionamiento operativo de los serv.;1037900
 2014;12001;141M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1037900
@@ -3848,9 +3848,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12001;142A;359;;;Otros gastos financieros;206590
 2014;12001;142A;4;;;TRANSFERENCIAS CORRIENTES;2352610
 2014;12001;142A;49;;;Al exterior;2352610
-2014;12001;142A;493;;;Protección de españoles en el extranjero: asistencia social, evacuaciones, hospitalizaciones y repatriaciones;2304720
-2014;12001;142A;494;;;Asistencia en el extranjero a beneficiarios de asilo en España;17890
-2014;12001;142A;497;;;Asistencia a ciudadanía que afronta condenas de pena de muerte;30000
+2014;12001;142A;493/12001;;;Protección de españoles en el extranjero: asistencia social, evacuaciones, hospitalizaciones y repatriaciones;2304720
+2014;12001;142A;494/12001;;;Asistencia en el extranjero a beneficiarios de asilo en España;17890
+2014;12001;142A;497/12001;;;Asistencia a ciudadanía que afronta condenas de pena de muerte;30000
 2014;12001;142A;6;;;INVERSIONES REALES;12319960
 2014;12001;142A;62;;;Inv. nueva asociada al funcionamiento operativo de los serv.;8115680
 2014;12001;142A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;8115680
@@ -3897,7 +3897,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12003;142A;48;;;A familias e instituciones sin fines de lucro;100000
 2014;12003;142A;480/12003;;;A asociaciones juveniles y entidades de ámbito nacional prestadoras de servicios de juventud que pertenezcan a organizaciones internacionales con presencia en Iberoamérica para la realización de encuentros Iberoamericanos en España.;100000
 2014;12003;142A;49;;;Al exterior;50000
-2014;12003;142A;495;;;Fundación Internacional Unión Europea-América Latina y Caribe;50000
+2014;12003;142A;495/12003;;;Fundación Internacional Unión Europea-América Latina y Caribe;50000
 2014;12004;142A;1;;;GASTOS DE PERSONAL;7025520
 2014;12004;142A;10;;;Altos cargos;235850
 2014;12004;142A;100;;;Retribuciones básicas y otras remuneraciones;235850
@@ -3940,10 +3940,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12004;142A;227;;08;Gastos corrientes misiones observación electoral en el exterior;133450
 2014;12004;142A;4;;;TRANSFERENCIAS CORRIENTES;331196090
 2014;12004;142A;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;1397760
-2014;12004;142A;440;;;Subvenciones a Organismos;1397760
-2014;12004;142A;440;;00;Casa Árabe;857760
-2014;12004;142A;440;;01;Casa África;125000
-2014;12004;142A;440;;02;Centro Sefarad-Israel;415000
+2014;12004;142A;440/12004;;;Subvenciones a Organismos;1397760
+2014;12004;142A;440/12004;;00;Casa Árabe;857760
+2014;12004;142A;440/12004;;01;Casa África;125000
+2014;12004;142A;440/12004;;02;Centro Sefarad-Israel;415000
 2014;12004;142A;48;;;A familias e instituciones sin fines de lucro;643000
 2014;12004;142A;481/12004;;;A familias e instituciones sin fines de lucro;443000
 2014;12004;142A;481/12004;;01;Fundación Real Instituto Elcano de Estudios Internacionales y Estratégicos;125000
@@ -3955,75 +3955,75 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12004;142A;481/12004;;09;Instituto Europeo del Mediterráneo;34000
 2014;12004;142A;482/12004;;;Para defensa y protección de los Derechos Humanos;200000
 2014;12004;142A;49;;;Al exterior;329155330
-2014;12004;142A;498;;;Participación en Organismos Internacionales. Contribuciones obligatorias, incluídas obligaciones de ejercicios anteriores;328755330
-2014;12004;142A;498;;00;Arreglo de Wassenaar sobre control de las exportaciones de armas convencionales y bienes y tecnología de doble uso;66160
-2014;12004;142A;498;;01;Autoridad Internacional  de Fondos Marinos;226270
-2014;12004;142A;498;;02;Centro Internacional de Altos Estudios Agronómicos Mediterráneos (CIHEAM);420000
-2014;12004;142A;498;;03;Centro Internacional de Estudios para la  Conservación y Restauración de Bienes Culturales (ICCROM);118460
-2014;12004;142A;498;;04;Comisión Internacional Humanitaria  de Encuesta;8620
-2014;12004;142A;498;;05;Comisión para la Conservación de los Recursos Vivos Marinos Antárticos;105670
-2014;12004;142A;498;;06;Comisión Ballenera Internacional;67830
-2014;12004;142A;498;;07;Comisión Internacional del Estado Civil;22000
-2014;12004;142A;498;;08;Comisiones de Oslo y París para la Protección del Medio Ambiente Marino del Atlántico Nordeste;110500
-2014;12004;142A;498;;09;Conferencia de la Haya de Derecho Internacional Privado;159070
-2014;12004;142A;498;;10;Consejo de Europa;19086790
-2014;12004;142A;498;;11;Convención de Ottawa sobre Prohibición de Minas Antipersonales;1790
-2014;12004;142A;498;;12;Convención sobre Prohibición de Ciertas Armas Convencionales;27010
-2014;12004;142A;498;;13;Convención sobre Prohibición de Armas Biológicas;22000
-2014;12004;142A;498;;14;Convención sobre Prohibición de Municiones de Racimo;11070
-2014;12004;142A;498;;15;Convención de Naciones Unidas de lucha contra la desertificación en los países afectados por sequía grave o desertificación;227720
-2014;12004;142A;498;;16;Convención Marco de Naciones Unidas para el Cambio Climático;468760
-2014;12004;142A;498;;17;Corte Penal Internacional;5231940
-2014;12004;142A;498;;18;Fondo Fiduciario del Protocolo sobre Seguridad de Biotecnología del Convenio de Diversidad Biológica;90750
-2014;12004;142A;498;;19;Fondo Fiduciario para el Convenio de Diversidad Biológica;372890
-2014;12004;142A;498;;20;Fondo Fiduciario del Convenio para la Protección del Mar Mediterráneo de la contaminación;830340
-2014;12004;142A;498;;21;Fondo Fiduciario para el Convenio de Estocolmo sobre contaminantes orgánicos persistentes;152430
-2014;12004;142A;498;;22;Fondo Fiduciario para el Convenio de Rotterdam sobre plaguicidas objeto de comercio internacional;70720
-2014;12004;142A;498;;23;Fondo Multilateral para el Protocolo de Montreal relativo a las sustancias que agotan la capa de ozono;3892400
-2014;12004;142A;498;;24;Grupo de Consultas Intergubernamentales sobre Asilo, Refugio y Migraciones;91670
-2014;12004;142A;498;;25;Instituto Internacional para la Unificación del Derecho Privado (UNIDROIT);53900
-2014;12004;142A;498;;26;Instituto Agronómico Mediterráneo de Zaragoza (IAMZ);2192510
-2014;12004;142A;498;;27;Instituto Internacional del Frío;18880
-2014;12004;142A;498;;28;Organización del Tratado de Prohibición Completa de Ensayos Nucleares;3100930
-2014;12004;142A;498;;29;Oficina Internacional de Exposiciones;14000
-2014;12004;142A;498;;30;Oficina Internacional de Pesas y Medidas;437770
-2014;12004;142A;498;;31;Organismo Internacional de Energía Atómica (OIEA);10314850
-2014;12004;142A;498;;32;Organización de las Naciones Unidas (ONU);60608100
-2014;12004;142A;498;;33;Organización de Naciones Unidas para la  Educación, la Ciencia y  la Cultura (UNESCO);8265360
-2014;12004;142A;498;;34;Organización de Naciones Unidas para la Agricultura y la Alimentación (FAO);12420530
-2014;12004;142A;498;;35;Organización de Naciones Unidas para el Desarrollo Industrial (ONUDI);3856780
-2014;12004;142A;498;;36;Organización para la Cooperación y Desarrollo Económico (OCDE);10731070
-2014;12004;142A;498;;37;Organización Europea y Mediterránea para la Protección de las Plantas (OEPP);56150
-2014;12004;142A;498;;38;Organización  Internacional de Metrología Legal;56000
-2014;12004;142A;498;;39;Organización  Internacional del Trabajo (OIT);9483160
-2014;12004;142A;498;;40;Organización  Marítima Internacional (OMI);252430
-2014;12004;142A;498;;41;Organización  Mundial de Aduanas;366980
-2014;12004;142A;498;;42;Organización Internacional de Migraciones (OIM);1172610
-2014;12004;142A;498;;43;Organización Mundial de la Propiedad Intelectual (OMPI);379830
-2014;12004;142A;498;;44;Organización Mundial de la Salud (OMS);11804440
-2014;12004;142A;498;;45;Organización Mundial del Comercio (OMC);3975770
-2014;12004;142A;498;;46;Organización Mundial del Turismo (OMT);324350
-2014;12004;142A;498;;47;Organización para la Seguridad y Cooperación en Europa (OSCE);6907520
-2014;12004;142A;498;;48;Organización del Tratado del Atlántico-Norte (OTAN);16261220
-2014;12004;142A;498;;49;Organización Iberoamericana  de Seguridad Social (OISS);695720
-2014;12004;142A;498;;50;Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura (OEI);652800
-2014;12004;142A;498;;51;Protocolo de Kioto al Convenio Marco de Naciones Unidas sobre Cambio Climático;295030
-2014;12004;142A;498;;52;Secretaría General Iberoamericana (SEGIB);4302890
-2014;12004;142A;498;;53;Tratado Antártico sobre protección del medio ambiente;36950
-2014;12004;142A;498;;54;Tratado Organización  Permanente Prohibición Armas Químicas (OPAQ);1992730
-2014;12004;142A;498;;55;Tratado de No Proliferación de Armas Nucleares;36840
-2014;12004;142A;498;;56;Tribunal Internacional del Derecho del Mar;368840
-2014;12004;142A;498;;57;Tribunal Penal Internacional de Naciones Unidas para la ex-Yugoslavia;3011760
-2014;12004;142A;498;;58;Tribunal Penal Internacional de Naciones Unidas para Ruanda;2134380
-2014;12004;142A;498;;59;Tribunales Penales Internacionales de Naciones Unidas. Mecanismo Residual;616560
-2014;12004;142A;498;;60;Tribunal Permanente de Arbitraje;26980
-2014;12004;142A;498;;61;UE.- Instituto de Estudios de Seguridad;349800
-2014;12004;142A;498;;62;Unión Europea Occidental (UEO);845840
-2014;12004;142A;498;;63;Operaciones de Mantenimiento de la Paz de la Organización de Naciones Unidas (ONU);118450210
-2014;12004;142A;499;;;Participación en Organismos Internacionales. Contribuciones voluntarias;400000
-2014;12004;142A;499;;00;Contribuciones voluntarias en el ámbito político;160000
-2014;12004;142A;499;;01;Contribuciones voluntarias en el ámbito de la seguridad y no proliferación;140000
-2014;12004;142A;499;;02;Contribuciones voluntarias en el ámbito de la promoción y defensa de los Derechos Humanos;100000
+2014;12004;142A;498/12004;;;Participación en Organismos Internacionales. Contribuciones obligatorias, incluídas obligaciones de ejercicios anteriores;328755330
+2014;12004;142A;498/12004;;00;Arreglo de Wassenaar sobre control de las exportaciones de armas convencionales y bienes y tecnología de doble uso;66160
+2014;12004;142A;498/12004;;01;Autoridad Internacional  de Fondos Marinos;226270
+2014;12004;142A;498/12004;;02;Centro Internacional de Altos Estudios Agronómicos Mediterráneos (CIHEAM);420000
+2014;12004;142A;498/12004;;03;Centro Internacional de Estudios para la  Conservación y Restauración de Bienes Culturales (ICCROM);118460
+2014;12004;142A;498/12004;;04;Comisión Internacional Humanitaria  de Encuesta;8620
+2014;12004;142A;498/12004;;05;Comisión para la Conservación de los Recursos Vivos Marinos Antárticos;105670
+2014;12004;142A;498/12004;;06;Comisión Ballenera Internacional;67830
+2014;12004;142A;498/12004;;07;Comisión Internacional del Estado Civil;22000
+2014;12004;142A;498/12004;;08;Comisiones de Oslo y París para la Protección del Medio Ambiente Marino del Atlántico Nordeste;110500
+2014;12004;142A;498/12004;;09;Conferencia de la Haya de Derecho Internacional Privado;159070
+2014;12004;142A;498/12004;;10;Consejo de Europa;19086790
+2014;12004;142A;498/12004;;11;Convención de Ottawa sobre Prohibición de Minas Antipersonales;1790
+2014;12004;142A;498/12004;;12;Convención sobre Prohibición de Ciertas Armas Convencionales;27010
+2014;12004;142A;498/12004;;13;Convención sobre Prohibición de Armas Biológicas;22000
+2014;12004;142A;498/12004;;14;Convención sobre Prohibición de Municiones de Racimo;11070
+2014;12004;142A;498/12004;;15;Convención de Naciones Unidas de lucha contra la desertificación en los países afectados por sequía grave o desertificación;227720
+2014;12004;142A;498/12004;;16;Convención Marco de Naciones Unidas para el Cambio Climático;468760
+2014;12004;142A;498/12004;;17;Corte Penal Internacional;5231940
+2014;12004;142A;498/12004;;18;Fondo Fiduciario del Protocolo sobre Seguridad de Biotecnología del Convenio de Diversidad Biológica;90750
+2014;12004;142A;498/12004;;19;Fondo Fiduciario para el Convenio de Diversidad Biológica;372890
+2014;12004;142A;498/12004;;20;Fondo Fiduciario del Convenio para la Protección del Mar Mediterráneo de la contaminación;830340
+2014;12004;142A;498/12004;;21;Fondo Fiduciario para el Convenio de Estocolmo sobre contaminantes orgánicos persistentes;152430
+2014;12004;142A;498/12004;;22;Fondo Fiduciario para el Convenio de Rotterdam sobre plaguicidas objeto de comercio internacional;70720
+2014;12004;142A;498/12004;;23;Fondo Multilateral para el Protocolo de Montreal relativo a las sustancias que agotan la capa de ozono;3892400
+2014;12004;142A;498/12004;;24;Grupo de Consultas Intergubernamentales sobre Asilo, Refugio y Migraciones;91670
+2014;12004;142A;498/12004;;25;Instituto Internacional para la Unificación del Derecho Privado (UNIDROIT);53900
+2014;12004;142A;498/12004;;26;Instituto Agronómico Mediterráneo de Zaragoza (IAMZ);2192510
+2014;12004;142A;498/12004;;27;Instituto Internacional del Frío;18880
+2014;12004;142A;498/12004;;28;Organización del Tratado de Prohibición Completa de Ensayos Nucleares;3100930
+2014;12004;142A;498/12004;;29;Oficina Internacional de Exposiciones;14000
+2014;12004;142A;498/12004;;30;Oficina Internacional de Pesas y Medidas;437770
+2014;12004;142A;498/12004;;31;Organismo Internacional de Energía Atómica (OIEA);10314850
+2014;12004;142A;498/12004;;32;Organización de las Naciones Unidas (ONU);60608100
+2014;12004;142A;498/12004;;33;Organización de Naciones Unidas para la  Educación, la Ciencia y  la Cultura (UNESCO);8265360
+2014;12004;142A;498/12004;;34;Organización de Naciones Unidas para la Agricultura y la Alimentación (FAO);12420530
+2014;12004;142A;498/12004;;35;Organización de Naciones Unidas para el Desarrollo Industrial (ONUDI);3856780
+2014;12004;142A;498/12004;;36;Organización para la Cooperación y Desarrollo Económico (OCDE);10731070
+2014;12004;142A;498/12004;;37;Organización Europea y Mediterránea para la Protección de las Plantas (OEPP);56150
+2014;12004;142A;498/12004;;38;Organización  Internacional de Metrología Legal;56000
+2014;12004;142A;498/12004;;39;Organización  Internacional del Trabajo (OIT);9483160
+2014;12004;142A;498/12004;;40;Organización  Marítima Internacional (OMI);252430
+2014;12004;142A;498/12004;;41;Organización  Mundial de Aduanas;366980
+2014;12004;142A;498/12004;;42;Organización Internacional de Migraciones (OIM);1172610
+2014;12004;142A;498/12004;;43;Organización Mundial de la Propiedad Intelectual (OMPI);379830
+2014;12004;142A;498/12004;;44;Organización Mundial de la Salud (OMS);11804440
+2014;12004;142A;498/12004;;45;Organización Mundial del Comercio (OMC);3975770
+2014;12004;142A;498/12004;;46;Organización Mundial del Turismo (OMT);324350
+2014;12004;142A;498/12004;;47;Organización para la Seguridad y Cooperación en Europa (OSCE);6907520
+2014;12004;142A;498/12004;;48;Organización del Tratado del Atlántico-Norte (OTAN);16261220
+2014;12004;142A;498/12004;;49;Organización Iberoamericana  de Seguridad Social (OISS);695720
+2014;12004;142A;498/12004;;50;Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura (OEI);652800
+2014;12004;142A;498/12004;;51;Protocolo de Kioto al Convenio Marco de Naciones Unidas sobre Cambio Climático;295030
+2014;12004;142A;498/12004;;52;Secretaría General Iberoamericana (SEGIB);4302890
+2014;12004;142A;498/12004;;53;Tratado Antártico sobre protección del medio ambiente;36950
+2014;12004;142A;498/12004;;54;Tratado Organización  Permanente Prohibición Armas Químicas (OPAQ);1992730
+2014;12004;142A;498/12004;;55;Tratado de No Proliferación de Armas Nucleares;36840
+2014;12004;142A;498/12004;;56;Tribunal Internacional del Derecho del Mar;368840
+2014;12004;142A;498/12004;;57;Tribunal Penal Internacional de Naciones Unidas para la ex-Yugoslavia;3011760
+2014;12004;142A;498/12004;;58;Tribunal Penal Internacional de Naciones Unidas para Ruanda;2134380
+2014;12004;142A;498/12004;;59;Tribunales Penales Internacionales de Naciones Unidas. Mecanismo Residual;616560
+2014;12004;142A;498/12004;;60;Tribunal Permanente de Arbitraje;26980
+2014;12004;142A;498/12004;;61;UE.- Instituto de Estudios de Seguridad;349800
+2014;12004;142A;498/12004;;62;Unión Europea Occidental (UEO);845840
+2014;12004;142A;498/12004;;63;Operaciones de Mantenimiento de la Paz de la Organización de Naciones Unidas (ONU);118450210
+2014;12004;142A;499/12004;;;Participación en Organismos Internacionales. Contribuciones voluntarias;400000
+2014;12004;142A;499/12004;;00;Contribuciones voluntarias en el ámbito político;160000
+2014;12004;142A;499/12004;;01;Contribuciones voluntarias en el ámbito de la seguridad y no proliferación;140000
+2014;12004;142A;499/12004;;02;Contribuciones voluntarias en el ámbito de la promoción y defensa de los Derechos Humanos;100000
 2014;12002;142B;1;;;GASTOS DE PERSONAL;15853140
 2014;12002;142B;10;;;Altos cargos;181200
 2014;12002;142B;100;;;Retribuciones básicas y otras remuneraciones;181200
@@ -4102,7 +4102,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12002;142B;481/12002;;;A familias e instituciones sin fines de lucro;82540
 2014;12002;142B;481/12002;;00;Al Consejo Federal Español del Movimiento Europeo;73560
 2014;12002;142B;481/12002;;04;A la Liga Europea de Cooperación Económica;8980
-2014;12002;142B;488;;;Para actividades de promoción de asuntos de la Unión Europea;281560
+2014;12002;142B;488/12002;;;Para actividades de promoción de asuntos de la Unión Europea;281560
 2014;12002;142B;6;;;INVERSIONES REALES;721520
 2014;12002;142B;62;;;Inv. nueva asociada al funcionamiento operativo de los serv.;355420
 2014;12002;142B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;355420
@@ -4146,15 +4146,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12003;143A;231;;;Locomoción;248440
 2014;12003;143A;4;;;TRANSFERENCIAS CORRIENTES;1700020
 2014;12003;143A;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;600000
-2014;12003;143A;442;;;A la Fundación Internacional y para IberoamérIca de Administración y Políticas Públicas;600000
+2014;12003;143A;442/12003;;;A la Fundación Internacional y para IberoamérIca de Administración y Políticas Públicas;600000
 2014;12003;143A;48;;;A familias e instituciones sin fines de lucro;1100020
 2014;12003;143A;484/12003;;;Ayudas en el ámbito de la cooperación internacional;150000
 2014;12003;143A;484/12003;;00;A instituciones sin fines de lucro que actúen en el campo de la cooperación al desarrollo;150000
-2014;12003;143A;486;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional;900000
+2014;12003;143A;486/12003;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional;900000
 2014;12003;143A;487/12003;;;Premio Bartolomé de las Casas;50020
 2014;12003;143A;8;;;ACTIVOS FINANCIEROS;250230000
 2014;12003;143A;87;;;Aportaciones patrimoniales;250230000
-2014;12003;143A;873;;;Fondo de Cooperación para Agua y Saneamiento;15000000
+2014;12003;143A;873/12003;;;Fondo de Cooperación para Agua y Saneamiento;15000000
 2014;12003;143A;874;;;Fondo para la Promoción del Desarrollo (FONPRODE);235230000
 2014;12401;143A;1;;;GASTOS DE PERSONAL;45561060
 2014;12401;143A;10;;;Altos cargos;98000
@@ -4249,7 +4249,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;12401;143A;3;;;GASTOS FINANCIEROS;15800
 2014;12401;143A;35;;;Intereses de demora y otros gastos financieros;15800
 2014;12401;143A;352;;;Intereses de demora;2000
-2014;12401;143A;358;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores;2000
+2014;12401;143A;358/12401;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores;2000
 2014;12401;143A;359;;;Otros gastos financieros;11800
 2014;12401;143A;4;;;TRANSFERENCIAS CORRIENTES;139898470
 2014;12401;143A;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;9820810
@@ -5594,7 +5594,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;26016;231F;453/26016;;00;Desarrollo de prestaciones básicas de servicios sociales;27413730
 2014;26016;231F;453/26016;;01;Plan de desarrollo gitano;412500
 2014;26016;231F;453/26016;;02;Programas de servicios sociales en Ceuta y Melilla;4000000
-2014;26016;231F;458;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado;75000
+2014;26016;231F;458/26016;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado;75000
 2014;26016;231F;48;;;A familias e instituciones sin fines de lucro;105832140
 2014;26016;231F;480/26016;;;A instituciones para víctimas del terrorismo;105000
 2014;26016;231F;484/26016;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio;101647730
@@ -6645,15 +6645,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17009;261N;740/17009;;02;SEPES Ciudad Autónoma de Melilla.;5000000
 2014;17009;261N;742/17009;;;Línea ICO;100000
 2014;17009;261N;75;;;A comunidades autónomas;257100000
-2014;17009;261N;750;;;A comunidades autónomas;3100000
-2014;17009;261N;750;;12;Remodelación Barrios de L'Hospitalet.;3000000
-2014;17009;261N;750;;13;Convenio Reposición Las Chumberas (La Laguna).;100000
-2014;17009;261N;753;;;Subvenciones Estatales  Planes de Vivienda.;254000000
-2014;17009;261N;753;;01;Subvenciones Planes Estatales de Vivienda.;167000000
-2014;17009;261N;753;;02;Subvenciones Ejercicios Anteriores.;87000000
+2014;17009;261N;750/17009;;;A comunidades autónomas;3100000
+2014;17009;261N;750/17009;;12;Remodelación Barrios de L'Hospitalet.;3000000
+2014;17009;261N;750/17009;;13;Convenio Reposición Las Chumberas (La Laguna).;100000
+2014;17009;261N;753/17009;;;Subvenciones Estatales  Planes de Vivienda.;254000000
+2014;17009;261N;753/17009;;01;Subvenciones Planes Estatales de Vivienda.;167000000
+2014;17009;261N;753/17009;;02;Subvenciones Ejercicios Anteriores.;87000000
 2014;17009;261N;76;;;A entidades locales;7038810
-2014;17009;261N;765;;;Intervención y mejora de espacios públicos en centros urbanos y rurales;7038810
-2014;17009;261N;765;;02;Remodelación Barriada de Amate. Sevilla;7038810
+2014;17009;261N;765/17009;;;Intervención y mejora de espacios públicos en centros urbanos y rurales;7038810
+2014;17009;261N;765/17009;;02;Remodelación Barriada de Amate. Sevilla;7038810
 2014;17009;261N;78;;;A familias e instituciones sin fines de lucro;498470000
 2014;17009;261N;782/17009;;;Ayudas para renta básica de emancipación de jóvenes, subsidiación de préstamos y otros apoyos a la vivienda;498470000
 2014;17009;261N;782/17009;;01;Subsidiacion de préstamos;271470000
@@ -6695,26 +6695,26 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17009;261O;640;;;Gastos en inversiones de carácter inmaterial;194760
 2014;17009;261O;7;;;TRANSFERENCIAS DE CAPITAL;2408450
 2014;17009;261O;74;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;306490
-2014;17009;261O;741;;;A Acción Cultural Española. Bienal de Venecia.;300000
-2014;17009;261O;748;;;Actuaciones relacionadas con el 1 % Cultural;6490
+2014;17009;261O;741/17009;;;A Acción Cultural Española. Bienal de Venecia.;300000
+2014;17009;261O;748/17009;;;Actuaciones relacionadas con el 1 % Cultural;6490
 2014;17009;261O;75;;;A comunidades autónomas;81490
-2014;17009;261O;751;;;Actuaciones relacionadas con el 1 % Cultural;6490
-2014;17009;261O;758;;;A organismos públicos de comunidades autónomas;75000
-2014;17009;261O;758;;00;Universidad Politécnica de Madrid. Edificación sostenible;75000
+2014;17009;261O;751/17009;;;Actuaciones relacionadas con el 1 % Cultural;6490
+2014;17009;261O;758/17009;;;A organismos públicos de comunidades autónomas;75000
+2014;17009;261O;758/17009;;00;Universidad Politécnica de Madrid. Edificación sostenible;75000
 2014;17009;261O;76;;;A entidades locales;6490
-2014;17009;261O;764;;;Actuaciones relacionadas con el 1 % Cultural;6490
+2014;17009;261O;764/17009;;;Actuaciones relacionadas con el 1 % Cultural;6490
 2014;17009;261O;77;;;A empresas privadas;6490
-2014;17009;261O;770;;;Actuaciones relacionadas con el 1 % Cultural;6490
+2014;17009;261O;770/17009;;;Actuaciones relacionadas con el 1 % Cultural;6490
 2014;17009;261O;78;;;A familias e instituciones sin fines de lucro;2007490
-2014;17009;261O;781;;;Al Consejo Superior de Colegios de Arquitectos de España. Bienal Iberoamericana de Arquitectura;300000
-2014;17009;261O;783;;;Al Consejo Superior de Colegios de Arquitectos de España. EUROPAN.;150000
-2014;17009;261O;784;;;Ampliación y mejora de la basílica La Macarena en Sevilla;1116000
-2014;17009;261O;786;;;A Fundación Mies Van der Rohe;60000
-2014;17009;261O;787;;;Otras transferencias a fundaciones y entidades sin fin de lucro.;375000
-2014;17009;261O;787;;02;A Green Building Council - España.;20000
-2014;17009;261O;787;;05;A la Fundación Giner de los Ríos.;250000
-2014;17009;261O;787;;06;A la fundación Caja de Arquitectos, para la elaboración de la web de promoción y difusión de la arquitectura.;105000
-2014;17009;261O;789;;;Actuaciones relacionadas con el 1 % Cultural;6490
+2014;17009;261O;781/17009;;;Al Consejo Superior de Colegios de Arquitectos de España. Bienal Iberoamericana de Arquitectura;300000
+2014;17009;261O;783/17009;;;Al Consejo Superior de Colegios de Arquitectos de España. EUROPAN.;150000
+2014;17009;261O;784/17009;;;Ampliación y mejora de la basílica La Macarena en Sevilla;1116000
+2014;17009;261O;786/17009;;;A Fundación Mies Van der Rohe;60000
+2014;17009;261O;787/17009;;;Otras transferencias a fundaciones y entidades sin fin de lucro.;375000
+2014;17009;261O;787/17009;;02;A Green Building Council - España.;20000
+2014;17009;261O;787/17009;;05;A la Fundación Giner de los Ríos.;250000
+2014;17009;261O;787/17009;;06;A la fundación Caja de Arquitectos, para la elaboración de la web de promoción y difusión de la arquitectura.;105000
+2014;17009;261O;789/17009;;;Actuaciones relacionadas con el 1 % Cultural;6490
 2014;17009;261P;1;;;GASTOS DE PERSONAL;880960
 2014;17009;261P;12;;;Funcionarios;815960
 2014;17009;261P;120;;;Retribuciones básicas;385740
@@ -6741,8 +6741,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17009;261P;640;;;Gastos en inversiones de carácter inmaterial;333840
 2014;17009;261P;7;;;TRANSFERENCIAS DE CAPITAL;40000
 2014;17009;261P;78;;;A familias e instituciones sin fines de lucro;40000
-2014;17009;261P;780;;;A fundaciones, instituciones y asociaciones sin ánimo de lucro.;40000
-2014;17009;261P;780;;01;Instituto Juan de Herrera. Observatorio vulnerabilidad urbana.;40000
+2014;17009;261P;780/17009;;;A fundaciones, instituciones y asociaciones sin ánimo de lucro.;40000
+2014;17009;261P;780/17009;;01;Instituto Juan de Herrera. Observatorio vulnerabilidad urbana.;40000
 2014;19001;291A;1;;;GASTOS DE PERSONAL;117219660
 2014;19001;291A;10;;;Altos cargos;54640
 2014;19001;291A;100;;;Retribuciones básicas y otras remuneraciones;54640
@@ -6889,7 +6889,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;19001;291M;319;;;Otros gastos financieros;8800
 2014;19001;291M;35;;;Intereses de demora y otros gastos financieros;13960
 2014;19001;291M;352;;;Intereses de demora;9320
-2014;19001;291M;358;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores;4640
+2014;19001;291M;358/19001;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores;4640
 2014;19001;291M;4;;;TRANSFERENCIAS CORRIENTES;11583550
 2014;19001;291M;48;;;A familias e instituciones sin fines de lucro;11583550
 2014;19001;291M;480/19001;;;A los participantes en órganos consultivos y consejos.;2699660
@@ -8328,7 +8328,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18004;321N;233;;;Otras indemnizaciones;79370
 2014;18004;321N;4;;;TRANSFERENCIAS CORRIENTES;999670
 2014;18004;321N;45;;;A comunidades autónomas;266710
-2014;18004;321N;453;;;A universidades y otras instituciones de carácter público para programas de formación del profesorado;266710
+2014;18004;321N;453/18004;;;A universidades y otras instituciones de carácter público para programas de formación del profesorado;266710
 2014;18004;321N;48;;;A familias e instituciones sin fines de lucro;732960
 2014;18004;321N;489/18004;;;Otras actuaciones;732960
 2014;18004;321N;489/18004;;11;Para cursos, becas y ayudas de formación del profesorado;732960
@@ -8592,7 +8592,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18007;322C;75;;;A comunidades autónomas;270000
 2014;18007;322C;755/18007;;;A la Universidad de Granada para equipamiento de los campus de Ceuta y Melilla;270000
 2014;18007;322C;78;;;A familias e instituciones sin fines de lucro;100000
-2014;18007;322C;785;;;Subsidiación de intereses de préstamos concedidos para cursar enseñanzas de másteres oficiales y doctorado;100000
+2014;18007;322C;785/18007;;;Subsidiación de intereses de préstamos concedidos para cursar enseñanzas de másteres oficiales y doctorado;100000
 2014;18007;322C;8;;;ACTIVOS FINANCIEROS;2947430
 2014;18007;322C;82;;;Concesión de préstamos al Sector Público;2947430
 2014;18007;322C;827;;;Anticipos reembolsables a la Universidad Nacional de Educación a Distancia. Fondos FEDER;2947430
@@ -9019,8 +9019,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18004;322L;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;731380
 2014;18004;322L;441/18004;;;"A la Corporación RTVE para la producción y emisión del espacio educativo ""La aventura del saber""";731380
 2014;18004;322L;45;;;A comunidades autónomas;2203280
-2014;18004;322L;452;;;Para la concesión de ayudas a federaciones y confederaciones de asociaciones de padres de alumnos en que éstas se integren;203280
-2014;18004;322L;454;;;Acciones para la mejora de la calidad educativa;2000000
+2014;18004;322L;452/18004;;;Para la concesión de ayudas a federaciones y confederaciones de asociaciones de padres de alumnos en que éstas se integren;203280
+2014;18004;322L;454/18004;;;Acciones para la mejora de la calidad educativa;2000000
 2014;18004;322L;48;;;A familias e instituciones sin fines de lucro;18885230
 2014;18004;322L;480/18004;;;Para financiar actividades de enseñanza de adultos y de carácter compensatorio;598000
 2014;18004;322L;480/18004;;05;A la Confederación Estatal de Personas Sordas para financiar actividades de educación especial;28000
@@ -9083,7 +9083,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18005;322L;233;;;Otras indemnizaciones;22190
 2014;18005;322L;4;;;TRANSFERENCIAS CORRIENTES;387250
 2014;18005;322L;46;;;A entidades locales;120440
-2014;18005;322L;463;;;Para subvencionar convenios con ayuntamientos que desarrollan el Proyecto MENTOR para la formación a distancia con nuevas tecnologías;120440
+2014;18005;322L;463/18005;;;Para subvencionar convenios con ayuntamientos que desarrollan el Proyecto MENTOR para la formación a distancia con nuevas tecnologías;120440
 2014;18005;322L;48;;;A familias e instituciones sin fines de lucro;266310
 2014;18005;322L;480/18005;;;Para financiar actividades de enseñanza de adultos y de carácter compensatorio;79520
 2014;18005;322L;480/18005;;01;"A entidades colaboradoras de E.P.A. y premios ""Miguel Hernández""";79520
@@ -9524,17 +9524,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18011;333A;440/18011;;;A la Fundación Thyssen Bornemisza, en concepto de déficit dotable;2238220
 2014;18011;333A;443/18011;;;A la Fundación Lázaro Galdiano para gastos de funcionamiento;72900
 2014;18011;333A;45;;;A comunidades autónomas;156030
-2014;18011;333A;456;;;Otras subvenciones a comunidades autónomas;156030
-2014;18011;333A;456;;02;Al Instituto Valenciano de Arte Moderno, IVAM para gastos de funcionamiento;156030
+2014;18011;333A;456/18011;;;Otras subvenciones a comunidades autónomas;156030
+2014;18011;333A;456/18011;;02;Al Instituto Valenciano de Arte Moderno, IVAM para gastos de funcionamiento;156030
 2014;18011;333A;46;;;A entidades locales;1260080
-2014;18011;333A;460;;;"Al consorcio de derecho público Museo de Arte Contemporáneo ""Esteban Vicente"" para gastos de funcionamiento";38940
+2014;18011;333A;460/18011;;;"Al consorcio de derecho público Museo de Arte Contemporáneo ""Esteban Vicente"" para gastos de funcionamiento";38940
 2014;18011;333A;461/18011;;;Transferencias a otras instituciones culturales.;121670
 2014;18011;333A;461/18011;;01;A Patio Herreriano, Museo de Arte Contemporáneo Español, para gastos de funcionamiento.;48730
 2014;18011;333A;461/18011;;02;A la Fundación Antonio Pérez de Cuenca, para gastos corrientes.;24210
 2014;18011;333A;461/18011;;03;A la Fundación Museo Marco de Vigo, para actividades.;48730
 2014;18011;333A;462/18011;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento del Museo Puget;24270
 2014;18011;333A;464/18011;;;A la Diputación de Granada para el Centro José Guerrero;24270
-2014;18011;333A;465;;;Al Consorcio del MACBA para gastos de funcionamiento;992490
+2014;18011;333A;465/18011;;;Al Consorcio del MACBA para gastos de funcionamiento;992490
 2014;18011;333A;466;;;A la Fundación Artium para gastos de funcionamiento del Centro-Museo Vasco de Arte Contemporáneo Artium;58440
 2014;18011;333A;48;;;A familias e instituciones sin fines de lucro;3201200
 2014;18011;333A;482/18011;;;Premios;11280
@@ -9877,8 +9877,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18013;334A;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;1833140
 2014;18013;334A;441/18013;;;A la Fundación Centro Nacional del Vidrio para sus gastos de funcionamiento;263400
 2014;18013;334A;445/18013;;;A la Fundación Instituto de Cultura Gitana para sus gastos de funcionamiento;264100
-2014;18013;334A;446;;;A la Fundación Residencia de Estudiantes para sus gastos de funcionamiento;105640
-2014;18013;334A;447;;;A la Fundación Donostia / San Sebastián 2016 para proyectos culturales en colaboración con la Secretaría de Estado de Cultura con motivo de la celebración de Donostia / San Sebastián 2016 Capital Europea de la Cultura;1200000
+2014;18013;334A;446/18013;;;A la Fundación Residencia de Estudiantes para sus gastos de funcionamiento;105640
+2014;18013;334A;447/18013;;;A la Fundación Donostia / San Sebastián 2016 para proyectos culturales en colaboración con la Secretaría de Estado de Cultura con motivo de la celebración de Donostia / San Sebastián 2016 Capital Europea de la Cultura;1200000
 2014;18013;334A;46;;;A entidades locales;878000
 2014;18013;334A;465/18013;;;Ayudas a corporaciones locales para actividades culturales que fomenten la comunicación cultural;878000
 2014;18013;334A;48;;;A familias e instituciones sin fines de lucro;2733190
@@ -9973,7 +9973,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18013;334B;76;;;A entidades locales;640000
 2014;18013;334B;763/18013;;;"Campaña de animación a la lectura ""María Moliner"" para proyectos de animación lectora en municipios de menos de 50.000 habitantes";640000
 2014;18013;334B;77;;;A empresas privadas;909000
-2014;18013;334B;775;;;Ayudas para el fomento de la edición de libros españoles escritos en lengua castellana y en lenguas cooficiales distintas a la castellana para bibliotecas públicas;909000
+2014;18013;334B;775/18013;;;Ayudas para el fomento de la edición de libros españoles escritos en lengua castellana y en lenguas cooficiales distintas a la castellana para bibliotecas públicas;909000
 2014;18013;334C;1;;;GASTOS DE PERSONAL;795350
 2014;18013;334C;12;;;Funcionarios;655810
 2014;18013;334C;120;;;Retribuciones básicas;316130
@@ -10639,7 +10639,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;25103;337A;15;;;Incentivos al rendimiento;1186050
 2014;25103;337A;150;;;Productividad;822370
 2014;25103;337A;151;;;Gratificaciones;61300
-2014;25103;337A;154;;;Otras gratificaciones por Actos de Estado;302380
+2014;25103;337A;154/25103;;;Otras gratificaciones por Actos de Estado;302380
 2014;25103;337A;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;10363260
 2014;25103;337A;160;;;Cuotas sociales;9987510
 2014;25103;337A;160;;00;Seguridad Social;9987510
@@ -10727,9 +10727,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;25103;337A;941;;;Devolución de fianzas;100000
 2014;15001;337B;4;;;TRANSFERENCIAS CORRIENTES;8047250
 2014;15001;337B;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;8047250
-2014;15001;337B;443;;;"Al Consorcio ""Ciudad de Santiago de Compostela""";4795150
-2014;15001;337B;444;;;Al Consorcio de la Ciudad de Toledo;1626050
-2014;15001;337B;445;;;Al Consorcio de la Ciudad de Cuenca;1626050
+2014;15001;337B;443/15001;;;"Al Consorcio ""Ciudad de Santiago de Compostela""";4795150
+2014;15001;337B;444/15001;;;Al Consorcio de la Ciudad de Toledo;1626050
+2014;15001;337B;445/15001;;;Al Consorcio de la Ciudad de Cuenca;1626050
 2014;18011;337B;1;;;GASTOS DE PERSONAL;5012950
 2014;18011;337B;12;;;Funcionarios;1230540
 2014;18011;337B;120;;;Retribuciones básicas;640740
@@ -10791,7 +10791,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18011;337B;231;;;Locomoción;74000
 2014;18011;337B;4;;;TRANSFERENCIAS CORRIENTES;92600
 2014;18011;337B;45;;;A comunidades autónomas;60000
-2014;18011;337B;457;;;A universidades para convenios de colaboración en formación e investigación;60000
+2014;18011;337B;457/18011;;;A universidades para convenios de colaboración en formación e investigación;60000
 2014;18011;337B;48;;;A familias e instituciones sin fines de lucro;32600
 2014;18011;337B;481/18011;;;Premios nacionales;30000
 2014;18011;337B;481/18011;;01;Premio nacional de Conservación y Restauración de Bienes Culturales;30000
@@ -10802,7 +10802,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18011;337B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;200000
 2014;18011;337B;63;;;Inv. de reposición asociada al func. operativo de los serv.;9789550
 2014;18011;337B;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;9759550
-2014;18011;337B;631;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales;30000
+2014;18011;337B;631/18011;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales;30000
 2014;18011;337B;64;;;Gastos de inversiones de carácter inmaterial;1040000
 2014;18011;337B;640;;;Gastos en inversiones de carácter inmaterial;1040000
 2014;18011;337B;7;;;TRANSFERENCIAS DE CAPITAL;980000
@@ -11393,7 +11393,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;23016;415B;770/23016;;;Control actividad pesquera, Cajas Azules;9000
 2014;23016;415B;771/23016;;;"Control actividad pesquera ""Diario de a bordo electrónico""";51000
 2014;23016;415B;772/23016;;;Ayudas desarrollo nueva OCM, productos pesqueros;250000
-2014;23016;415B;774;;;Ayudas a programas operativos de la Unión Europea;19643610
+2014;23016;415B;774/23016;;;Ayudas a programas operativos de la Unión Europea;19643610
 2014;23016;415B;776/23016;;;Desarrollo tecnológico pesquero y acuícola;600000
 2014;23001;416A;4;;;TRANSFERENCIAS CORRIENTES;1500
 2014;23001;416A;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;1500
@@ -11910,7 +11910,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;15014;422A;231;;;Locomoción;14790
 2014;15014;422A;7;;;TRANSFERENCIAS DE CAPITAL;79500000
 2014;15014;422A;77;;;A empresas privadas;79500000
-2014;15014;422A;771;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno;79500000
+2014;15014;422A;771/15014;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno;79500000
 2014;20016;422B;1;;;GASTOS DE PERSONAL;2120780
 2014;20016;422B;10;;;Altos cargos;54650
 2014;20016;422B;100;;;Retribuciones básicas y otras remuneraciones;54650
@@ -11976,7 +11976,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;20016;422M;7;;;TRANSFERENCIAS DE CAPITAL;127215350
 2014;20016;422M;77;;;A empresas privadas;127215350
 2014;20016;422M;775/20016;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores;78500900
-2014;20016;422M;776;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores;48714450
+2014;20016;422M;776/20016;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores;48714450
 2014;20016;422M;8;;;ACTIVOS FINANCIEROS;346548280
 2014;20016;422M;82;;;Concesión de préstamos al Sector Público;50000000
 2014;20016;422M;821;;;Préstamos a largo plazo;50000000
@@ -12578,13 +12578,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;20004;432A;786/20004;;06;A la Federación Española de Asociaciones para el Turismo Médico y Bienestar y a la Asociación Cluster Español de Turismo de Salud;50000
 2014;20004;432A;8;;;ACTIVOS FINANCIEROS;221324300
 2014;20004;432A;83;;;Concesión de préstamos fuera del Sector Público;190000000
-2014;20004;432A;833;;;Líneas de préstamos a empresas del sector turístico;190000000
-2014;20004;432A;833;;01;Líneas de financiación para jóvenes emprendedores en Turismo;30000000
-2014;20004;432A;833;;02;Líneas de financiación para empresas del sector turístico;160000000
+2014;20004;432A;833/20004;;;Líneas de préstamos a empresas del sector turístico;190000000
+2014;20004;432A;833/20004;;01;Líneas de financiación para jóvenes emprendedores en Turismo;30000000
+2014;20004;432A;833/20004;;02;Líneas de financiación para empresas del sector turístico;160000000
 2014;20004;432A;86;;;Adquisición de acciones y particip. fuera del Sector Público;31314300
 2014;20004;432A;862/20004;;;Aportación a sociedades de garantía recíproca del sector turístico;31314300
 2014;20004;432A;87;;;Aportaciones patrimoniales;10000
-2014;20004;432A;871;;;Fondo Financiero del Estado para la Modernización de las Infraestructuras Turísticas Maduras (FOMIT);10000
+2014;20004;432A;871/20004;;;Fondo Financiero del Estado para la Modernización de las Infraestructuras Turísticas Maduras (FOMIT);10000
 2014;20208;432A;1;;;GASTOS DE PERSONAL;22717220
 2014;20208;432A;10;;;Altos cargos;54650
 2014;20208;432A;100;;;Retribuciones básicas y otras remuneraciones;54650
@@ -12726,16 +12726,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;20016;433M;640;;;Gastos en inversiones de carácter inmaterial;3373860
 2014;20016;433M;7;;;TRANSFERENCIAS DE CAPITAL;50221570
 2014;20016;433M;74;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;42250000
-2014;20016;433M;747;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;42250000
-2014;20016;433M;747;;01;A la Compañía Española de Reafianzamiento, S.A. (CERSA);37000000
-2014;20016;433M;747;;03;A la Empresa Nacional de Innovación, S.A. (ENISA);2000000
-2014;20016;433M;747;;05;A la EOI para actuaciones para el fomento del emprendimiento;3250000
+2014;20016;433M;747/20016;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;42250000
+2014;20016;433M;747/20016;;01;A la Compañía Española de Reafianzamiento, S.A. (CERSA);37000000
+2014;20016;433M;747/20016;;03;A la Empresa Nacional de Innovación, S.A. (ENISA);2000000
+2014;20016;433M;747/20016;;05;A la EOI para actuaciones para el fomento del emprendimiento;3250000
 2014;20016;433M;75;;;A comunidades autónomas;225000
-2014;20016;433M;757;;;A comunidades autónomas;225000
-2014;20016;433M;757;;02;"Apoyo a redes de ""Business Angels""";225000
+2014;20016;433M;757/20016;;;A comunidades autónomas;225000
+2014;20016;433M;757/20016;;02;"Apoyo a redes de ""Business Angels""";225000
 2014;20016;433M;77;;;A empresas privadas;150000
-2014;20016;433M;777;;;A empresas privadas;150000
-2014;20016;433M;777;;02;"Apoyo a redes de ""Business Angels""";150000
+2014;20016;433M;777/20016;;;A empresas privadas;150000
+2014;20016;433M;777/20016;;02;"Apoyo a redes de ""Business Angels""";150000
 2014;20016;433M;78;;;A familias e instituciones sin fines de lucro;7596570
 2014;20016;433M;787/20016;;;A familias e instituciones sin fines de lucro;7596570
 2014;20016;433M;787/20016;;02;"Apoyo a redes de ""Business Angels""";225000
@@ -12748,23 +12748,23 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;20016;433M;821;;12;A ENISA para préstamos participativos a jovenes emprendedores;20446760
 2014;17020;441M;4;;;TRANSFERENCIAS CORRIENTES;86220000
 2014;17020;441M;45;;;A comunidades autónomas;18790000
-2014;17020;441M;451;;;Transferencias corrientes a comunidades autónomas para compensar la pérdida por la rebaja de tarifas de peaje (Real Decreto-Ley 6/99);11090000
-2014;17020;441M;455;;;Para  compensar  a  la  Generalidad  de  Cataluña por  las  reducciones  de  peaje  realizadas  según  Convenio  de  colaboración con  la  Administración  General del  Estado  de  conformidad  con  la  Disposición  Adicional  Tercera  del  Estatuto  de  Cataluña;7700000
+2014;17020;441M;451/17020;;;Transferencias corrientes a comunidades autónomas para compensar la pérdida por la rebaja de tarifas de peaje (Real Decreto-Ley 6/99);11090000
+2014;17020;441M;455/17020;;;Para  compensar  a  la  Generalidad  de  Cataluña por  las  reducciones  de  peaje  realizadas  según  Convenio  de  colaboración con  la  Administración  General del  Estado  de  conformidad  con  la  Disposición  Adicional  Tercera  del  Estatuto  de  Cataluña;7700000
 2014;17020;441M;47;;;A empresas privadas;67430000
 2014;17020;441M;470/17020;;;Para compensar a  Autopista  Vasco-Aragonesa, Concesionaria Española, S.A.;7355880
 2014;17020;441M;470/17020;;00;Por la exención del peaje de los movimientos con origen y destino en enlaces de La Rioja de la Autopista Bilbao-Zaragoza.;3422840
 2014;17020;441M;470/17020;;01;Por la gratuidad del trayecto de ida de los movimientos entre Zaragoza y Gallur, según Convenio.;2933040
 2014;17020;441M;470/17020;;03;Por las reducciones de peaje en la autopista AP-68 a su paso por La Rioja, según Convenio a desarrollar.;1000000
 2014;17020;441M;471/17020;;;Para compensar a Autopistas, Concesionaria Española, S.A., por la gratuidad del trayecto de ida de los movimientos entre Alfajarín y Fraga, según Convenio.;2933040
-2014;17020;441M;473;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99);38437660
-2014;17020;441M;473;;00;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99);5437660
-2014;17020;441M;473;;01;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99). Obligaciones de ejercicios anteriores;33000000
-2014;17020;441M;474;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A.;4850000
-2014;17020;441M;474;;00;Por la rebaja del 50 por 100 en los peajes a los vehículos ligeros, en la Autopista León-Campomanes.;1200000
-2014;17020;441M;474;;01;Por la rebaja del 30 por 100 en los peajes a los vehículos pesados, en la Autopista León-Campomanes.;3650000
-2014;17020;441M;475;;;Para compensar a las Sociedades Concesionarias de Autopistas de Peaje por la modificación temporal de las tarifas de acuerdo con lo dispuesto en el Real Decreto Ley 11/2001, de 22 de junio.;4916420
+2014;17020;441M;473/17020;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99);38437660
+2014;17020;441M;473/17020;;00;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99);5437660
+2014;17020;441M;473/17020;;01;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99). Obligaciones de ejercicios anteriores;33000000
+2014;17020;441M;474/17020;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A.;4850000
+2014;17020;441M;474/17020;;00;Por la rebaja del 50 por 100 en los peajes a los vehículos ligeros, en la Autopista León-Campomanes.;1200000
+2014;17020;441M;474/17020;;01;Por la rebaja del 30 por 100 en los peajes a los vehículos pesados, en la Autopista León-Campomanes.;3650000
+2014;17020;441M;475/17020;;;Para compensar a las Sociedades Concesionarias de Autopistas de Peaje por la modificación temporal de las tarifas de acuerdo con lo dispuesto en el Real Decreto Ley 11/2001, de 22 de junio.;4916420
 2014;17020;441M;476;;;Para compensar a Autopista Madrid-Toledo en cumplimiento de sentencia del Tribunal Supremo de 16 de Mayo de 2011.;2987000
-2014;17020;441M;477;;;Para compensar a Autopistas del Atlántico, Concesionaria Española, S.A. por la supresión del peaje de los movimientos O Morrazo - Vigo y A Coruña - A Barcala, e inversos;5850000
+2014;17020;441M;477/17020;;;Para compensar a Autopistas del Atlántico, Concesionaria Española, S.A. por la supresión del peaje de los movimientos O Morrazo - Vigo y A Coruña - A Barcala, e inversos;5850000
 2014;17020;441M;479;;;Para compensar a Autopistas, Concesionaria Española, S.A. por las reducciones de peaje en la autopista AP-7 a su paso por Girona, según Convenio a desarrollar.;100000
 2014;17039;441M;4;;;TRANSFERENCIAS CORRIENTES;806979000
 2014;17039;441M;44;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;806979000
@@ -13051,7 +13051,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17001;451N;640;;;Gastos en inversiones de carácter inmaterial;1423030
 2014;17001;451N;7;;;TRANSFERENCIAS DE CAPITAL;110000
 2014;17001;451N;79;;;Al exterior;110000
-2014;17001;451N;790;;;A Asentamientos Humanos (UN-Habitat) para América Latina y Caribe;110000
+2014;17001;451N;790/17001;;;A Asentamientos Humanos (UN-Habitat) para América Latina y Caribe;110000
 2014;17001;451N;8;;;ACTIVOS FINANCIEROS;102520
 2014;17001;451N;83;;;Concesión de préstamos fuera del Sector Público;102520
 2014;17001;451N;830;;;Préstamos a corto plazo;12520
@@ -13467,7 +13467,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;23005;452A;61;;;Inv. de reposición en infraes. y bienes dest. al uso general;176299330
 2014;23005;452A;611;;;Otras;143399830
 2014;23005;452A;615;;;Inversiones en actuaciones medioambientales. Disposición Adicional 5ª de la Ley 17/2012, de 27 de diciembre.;29750000
-2014;23005;452A;619;;;Incidencias de inversiones de ejercicios anteriores.;3149500
+2014;23005;452A;619/23005;;;Incidencias de inversiones de ejercicios anteriores.;3149500
 2014;23005;452A;62;;;Inv. nueva asociada al funcionamiento operativo de los serv.;10000
 2014;23005;452A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;10000
 2014;23005;452A;64;;;Gastos de inversiones de carácter inmaterial;1044450
@@ -14638,8 +14638,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17040;453A;640;;;Gastos en inversiones de carácter inmaterial;4671200
 2014;17040;453A;7;;;TRANSFERENCIAS DE CAPITAL;712060000
 2014;17040;453A;74;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;705000000
-2014;17040;453A;745;;;Al ADIF para mantenimiento red convencional.;585000000
-2014;17040;453A;746;;;al ADIF para inversiones red convencional.;120000000
+2014;17040;453A;745/17040;;;Al ADIF para mantenimiento red convencional.;585000000
+2014;17040;453A;746/17040;;;al ADIF para inversiones red convencional.;120000000
 2014;17040;453A;75;;;A comunidades autónomas;3940000
 2014;17040;453A;751/17040;;;Para financiar Convenio con la Comunidad Autónoma de las Illes Balears en materia de ferrocarril;3940000
 2014;17040;453A;76;;;A entidades locales;3120000
@@ -14700,22 +14700,22 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17038;453B;7;;;TRANSFERENCIAS DE CAPITAL;187360090
 2014;17038;453B;75;;;A comunidades autónomas;151121000
 2014;17038;453B;751/17038;;;Convenio para la realización de actuaciones en la Ciudad Autónoma de Melilla.;1700000
-2014;17038;453B;754;;;Compromisos derivados de Convenios en materia de carreteras con la Comunidad Autónoma de las Illes Balears.;90300000
-2014;17038;453B;755;;;Para financiar obras y expropiaciones del Convenio con la Comunidad Autónoma de Canarias.;54190000
+2014;17038;453B;754/17038;;;Compromisos derivados de Convenios en materia de carreteras con la Comunidad Autónoma de las Illes Balears.;90300000
+2014;17038;453B;755/17038;;;Para financiar obras y expropiaciones del Convenio con la Comunidad Autónoma de Canarias.;54190000
 2014;17038;453B;758/17038;;;Convenios con Comunidades Autónomas.;4931000
 2014;17038;453B;758/17038;;00;Otros convenios con Comunidades Autónomas.;4931000
 2014;17038;453B;76;;;A entidades locales;36239090
 2014;17038;453B;760/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Mallorca;1869060
 2014;17038;453B;761/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Menorca;34040
 2014;17038;453B;762/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Ibiza;212410
-2014;17038;453B;763;;;A CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas;6880630
-2014;17038;453B;763;;00;Resto de actuaciones por asunción de competencias por cambio de titularidad en tramos de carreteras estatales a vías urbanas.;6880630
+2014;17038;453B;763/17038;;;A CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas;6880630
+2014;17038;453B;763/17038;;00;Resto de actuaciones por asunción de competencias por cambio de titularidad en tramos de carreteras estatales a vías urbanas.;6880630
 2014;17038;453B;764/17038;;;Convenio con el Ayuntamiento de Pontevedra.;2314000
-2014;17038;453B;766;;;Para financiar obras en los Convenios con los Consells Insularres de Mallorca, Menorca, Ibiza y formentera (14-05-2009);24928950
-2014;17038;453B;766;;00;Para financiar obras en el Convenio con el Consell Insular de Mallorca;17527050
-2014;17038;453B;766;;01;Para financiar obras en el Convenio con el Consell Insular de Menorca;3228380
-2014;17038;453B;766;;02;Para financiar obras en el Convenio con el Consell Insular de Ibiza;2973520
-2014;17038;453B;766;;03;Para financiar obras en el Convenio con el Consell Insular de Formentera;1200000
+2014;17038;453B;766/17038;;;Para financiar obras en los Convenios con los Consells Insularres de Mallorca, Menorca, Ibiza y formentera (14-05-2009);24928950
+2014;17038;453B;766/17038;;00;Para financiar obras en el Convenio con el Consell Insular de Mallorca;17527050
+2014;17038;453B;766/17038;;01;Para financiar obras en el Convenio con el Consell Insular de Menorca;3228380
+2014;17038;453B;766/17038;;02;Para financiar obras en el Convenio con el Consell Insular de Ibiza;2973520
+2014;17038;453B;766/17038;;03;Para financiar obras en el Convenio con el Consell Insular de Formentera;1200000
 2014;17038;453C;1;;;GASTOS DE PERSONAL;24370850
 2014;17038;453C;12;;;Funcionarios;7597670
 2014;17038;453C;120;;;Retribuciones básicas;4068650
@@ -14828,7 +14828,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17039;453M;640;;;Gastos en inversiones de carácter inmaterial;249190
 2014;17039;453M;7;;;TRANSFERENCIAS DE CAPITAL;14330000
 2014;17039;453M;77;;;A empresas privadas;10038000
-2014;17039;453M;772;;;Programa de medidas para la mejora del sector del transporte por carretera.;10038000
+2014;17039;453M;772/17039;;;Programa de medidas para la mejora del sector del transporte por carretera.;10038000
 2014;17039;453M;78;;;A familias e instituciones sin fines de lucro;4292000
 2014;17039;453M;781/17039;;;Programa de apoyo a Instituciones y Entidades sin fines de lucro relacionadas con el transporte por carretera.;4292000
 2014;17032;454M;1;;;GASTOS DE PERSONAL;28686570
@@ -16139,12 +16139,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;18007;463A;488/18007;;04;Certámenes de promoción de la investigación entre los jóvenes;266000
 2014;18007;463A;7;;;TRANSFERENCIAS DE CAPITAL;85013790
 2014;18007;463A;78;;;A familias e instituciones sin fines de lucro;85013790
-2014;18007;463A;788;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores incluido pago de primas de seguros de los becarios;85013790
-2014;18007;463A;788;;01;Programa Nacional de Formación I+D+i;66237650
-2014;18007;463A;788;;02;Programa Nacional de Movilidad I+D+i;11110870
-2014;18007;463A;788;;03;Acciones de formación y movilidad en cooperación bilateral;2042040
-2014;18007;463A;788;;04;Programas de prácticas en empresas, ARGO GLOBAL y FARO GLOBAL;2814000
-2014;18007;463A;788;;06;Otras ayudas transversales, seguros, gastos de compensación y otros gastos;2809230
+2014;18007;463A;788/18007;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores incluido pago de primas de seguros de los becarios;85013790
+2014;18007;463A;788/18007;;01;Programa Nacional de Formación I+D+i;66237650
+2014;18007;463A;788/18007;;02;Programa Nacional de Movilidad I+D+i;11110870
+2014;18007;463A;788/18007;;03;Acciones de formación y movilidad en cooperación bilateral;2042040
+2014;18007;463A;788/18007;;04;Programas de prácticas en empresas, ARGO GLOBAL y FARO GLOBAL;2814000
+2014;18007;463A;788/18007;;06;Otras ayudas transversales, seguros, gastos de compensación y otros gastos;2809230
 2014;27401;463A;1;;;GASTOS DE PERSONAL;323443420
 2014;27401;463A;10;;;Altos cargos;82590
 2014;27401;463A;100;;;Retribuciones básicas y otras remuneraciones;82590
@@ -16391,9 +16391,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;27012;463B;233;;;Otras indemnizaciones;40400
 2014;27012;463B;4;;;TRANSFERENCIAS CORRIENTES;143154200
 2014;27012;463B;45;;;A comunidades autónomas;150000
-2014;27012;463B;459;;;Transferencias, ayudas nominativas y otros;150000
-2014;27012;463B;459;;02;A la Universidad de Zaragoza para el nodo CECAM;75000
-2014;27012;463B;459;;03;A la Universidad Autónoma de Barcelona para el proyecto MELISSA;75000
+2014;27012;463B;459/27012;;;Transferencias, ayudas nominativas y otros;150000
+2014;27012;463B;459/27012;;02;A la Universidad de Zaragoza para el nodo CECAM;75000
+2014;27012;463B;459/27012;;03;A la Universidad Autónoma de Barcelona para el proyecto MELISSA;75000
 2014;27012;463B;48;;;A familias e instituciones sin fines de lucro;1150000
 2014;27012;463B;489/27012;;;Transferencias, ayudas nominativas y otros;1150000
 2014;27012;463B;489/27012;;04;Al Nodo Nacional de GBIF-CSIC (Global Biodiversity Info Facility);250000
@@ -16507,9 +16507,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;27014;463B;449/27014;;04;Al Consorcio para la construcción, equipamiento y explotación del Laboratorio Sincrotón;8757480
 2014;27014;463B;449/27014;;06;Al Consorcio Barcelona Supercomputing Center para sus gastos de funcionamiento;4538320
 2014;27014;463B;45;;;A comunidades autónomas;6000000
-2014;27014;463B;459;;;Transferencias, ayudas nominativas y otros;6000000
-2014;27014;463B;459;;01;Al Consorcio Centro Nacional de Investigación sobre la Evolución Humana-Atapuerca para sus actividades;2500000
-2014;27014;463B;459;;02;A la Fundación Centro de Energías Renovables (CENER) de Serriguren, Navarra;3500000
+2014;27014;463B;459/27014;;;Transferencias, ayudas nominativas y otros;6000000
+2014;27014;463B;459/27014;;01;Al Consorcio Centro Nacional de Investigación sobre la Evolución Humana-Atapuerca para sus actividades;2500000
+2014;27014;463B;459/27014;;02;A la Fundación Centro de Energías Renovables (CENER) de Serriguren, Navarra;3500000
 2014;27014;463B;48;;;A familias e instituciones sin fines de lucro;3500000
 2014;27014;463B;481/27014;;;A Grantecan S.A. para la explotación del telescopio.;3500000
 2014;27014;463B;6;;;INVERSIONES REALES;162130
@@ -16816,7 +16816,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;14205;464A;910;;;Amortización de préstamos a corto plazo de entes del Sector Público;57000
 2014;20016;464B;8;;;ACTIVOS FINANCIEROS;343600000
 2014;20016;464B;82;;;Concesión de préstamos al Sector Público;208700000
-2014;20016;464B;823;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa;208700000
+2014;20016;464B;823/20016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa;208700000
 2014;20016;464B;83;;;Concesión de préstamos fuera del Sector Público;134900000
 2014;20016;464B;832/20016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa;134900000
 2014;27205;465A;1;;;GASTOS DE PERSONAL;36455600
@@ -16965,7 +16965,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;20015;467C;790/20015;;;Para la financiación de la participación en Programas Espaciales, incluidas obligaciones de ejercicios anteriores;152000000
 2014;20015;467C;8;;;ACTIVOS FINANCIEROS;40846760
 2014;20015;467C;83;;;Concesión de préstamos fuera del Sector Público;40846760
-2014;20015;467C;832;;;Para la financiación del Programa Nacional de Observación de la Tierra;15846760
+2014;20015;467C;832/20015;;;Para la financiación del Programa Nacional de Observación de la Tierra;15846760
 2014;20015;467C;833/20015;;;A HISDESAT para el satélite INGENIO;25000000
 2014;20016;467C;8;;;ACTIVOS FINANCIEROS;30799160
 2014;20016;467C;83;;;Concesión de préstamos fuera del Sector Público;30799160
@@ -17526,7 +17526,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;20012;467G;760/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y S.I.;1295000
 2014;20012;467G;77;;;A empresas privadas;11562470
 2014;20012;467G;770/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y S.I;8538450
-2014;20012;467G;779;;;Agenda Digital para España;3024020
+2014;20012;467G;779/20012;;;Agenda Digital para España;3024020
 2014;20012;467G;78;;;A familias e instituciones sin fines de lucro;2775000
 2014;20012;467G;780/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y S.I.;2775000
 2014;20012;467G;8;;;ACTIVOS FINANCIEROS;72596560
@@ -17716,16 +17716,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;20012;467I;74;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;10905720
 2014;20012;467I;746/20012;;;A la Entidad Pública Empresarial RED.es;5000000
 2014;20012;467I;748/20012;;;Al Instituto Nacional de las Tecnologías de las Comunicaciones, S.A. (INTECO) (Plan León);2000000
-2014;20012;467I;749;;;Agenda Digital para España;3905720
+2014;20012;467I;749/20012;;;Agenda Digital para España;3905720
 2014;20012;467I;75;;;A comunidades autónomas;3905720
-2014;20012;467I;759;;;Agenda Digital para España;3905720
+2014;20012;467I;759/20012;;;Agenda Digital para España;3905720
 2014;20012;467I;76;;;A entidades locales;3905720
 2014;20012;467I;769;;;Agenda Digital para España;3905720
 2014;20012;467I;77;;;A empresas privadas;33952530
 2014;20012;467I;772/20012;;;Agenda Digital para España - Formación Profesionales;180830
-2014;20012;467I;773;;;Agenda Digital para España - Formación Usuarios;147890
-2014;20012;467I;778;;;Agenda Digital para España - Internacionalización del sector de las Comunicaciones y de la Sociedad de la Información;500000
-2014;20012;467I;779;;;Agenda Digital para España;33123810
+2014;20012;467I;773/20012;;;Agenda Digital para España - Formación Usuarios;147890
+2014;20012;467I;778/20012;;;Agenda Digital para España - Internacionalización del sector de las Comunicaciones y de la Sociedad de la Información;500000
+2014;20012;467I;779/20012;;;Agenda Digital para España;33123810
 2014;20012;467I;78;;;A familias e instituciones sin fines de lucro;6013450
 2014;20012;467I;781/20012;;;Agenda Digital para España - Arte PYME;31130
 2014;20012;467I;783/20012;;;Agenda Digital para España - Consolidación ciudadanía;456660
@@ -18807,19 +18807,19 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;17032;497M;741/17032;;;A la Sociedad Estatal de Salvamento y Seguridad Marítima, (SASEMAR).;24800000
 2014;01001;911M;4;;;TRANSFERENCIAS CORRIENTES;7775040
 2014;01001;911M;48;;;A familias e instituciones sin fines de lucro;7775040
-2014;01001;911M;480;;;A S.M. el Rey. Para el sostenimiento de su Familia y Casa (Art. 65 de la Constitución);7775040
+2014;01001;911M;480/01001;;;A S.M. el Rey. Para el sostenimiento de su Familia y Casa (Art. 65 de la Constitución);7775040
 2014;02001;911N;1;;;GASTOS DE PERSONAL;48322640
 2014;02001;911N;12;;;Funcionarios;36082460
-2014;02001;911N;125;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes;36082460
+2014;02001;911N;125/02001;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes;36082460
 2014;02001;911N;14;;;Otro personal;200000
-2014;02001;911N;145;;;Otro personal de las Cortes Generales;200000
+2014;02001;911N;145/02001;;;Otro personal de las Cortes Generales;200000
 2014;02001;911N;15;;;Incentivos al rendimiento;60000
 2014;02001;911N;150;;;Productividad;60000
 2014;02001;911N;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;11980180
-2014;02001;911N;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;11980180
+2014;02001;911N;165/02001;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;11980180
 2014;02001;911N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;2241540
 2014;02001;911N;20;;;Arrendamientos y cánones;150
-2014;02001;911N;207;;;Alquileres;150
+2014;02001;911N;207/02001;;;Alquileres;150
 2014;02001;911N;22;;;Material, suministros y otros;1780190
 2014;02001;911N;220;;;Material de oficina;1780190
 2014;02001;911N;23;;;Indemnizaciones por razón del servicio;32000
@@ -18830,25 +18830,25 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;02001;911N;48;;;A familias e instituciones sin fines de lucro;28890
 2014;02001;911N;480/02001;;;A Familias e Instituciones sin fines de lucro;28890
 2014;02001;911N;49;;;Al exterior;650000
-2014;02001;911N;490;;;Al exterior;650000
+2014;02001;911N;490/02001;;;Al exterior;650000
 2014;02002;911N;1;;;GASTOS DE PERSONAL;35467790
 2014;02002;911N;10;;;Altos cargos;18802210
-2014;02002;911N;101;;;Asignación Constitucional Señores Diputados;18802210
+2014;02002;911N;101/02002;;;Asignación Constitucional Señores Diputados;18802210
 2014;02002;911N;11;;;Personal eventual;7485410
 2014;02002;911N;111;;;Personal eventual de las Cortes;7485410
 2014;02002;911N;12;;;Funcionarios;1700000
-2014;02002;911N;125;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes;1700000
+2014;02002;911N;125/02002;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes;1700000
 2014;02002;911N;13;;;Laborales;3755400
-2014;02002;911N;135;;;Retribuciones del personal laboral de las Cortes;3755400
+2014;02002;911N;135/02002;;;Retribuciones del personal laboral de las Cortes;3755400
 2014;02002;911N;15;;;Incentivos al rendimiento;60000
 2014;02002;911N;150;;;Productividad;60000
 2014;02002;911N;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;3664770
-2014;02002;911N;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;3664770
+2014;02002;911N;165/02002;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;3664770
 2014;02002;911N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;34920500
 2014;02002;911N;20;;;Arrendamientos y cánones;170650
-2014;02002;911N;207;;;Alquileres;170650
+2014;02002;911N;207/02002;;;Alquileres;170650
 2014;02002;911N;21;;;Reparaciones, mantenimiento y conservación;4982160
-2014;02002;911N;217;;;Gastos diversos de reparación y conservación;4982160
+2014;02002;911N;217/02002;;;Gastos diversos de reparación y conservación;4982160
 2014;02002;911N;22;;;Material, suministros y otros;19163550
 2014;02002;911N;220;;;Material de oficina;19163550
 2014;02002;911N;23;;;Indemnizaciones por razón del servicio;9487860
@@ -18857,7 +18857,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;02002;911N;240;;;Gastos de edición y distribución;1116280
 2014;02002;911N;4;;;TRANSFERENCIAS CORRIENTES;10834820
 2014;02002;911N;47;;;A empresas privadas;1155000
-2014;02002;911N;470;;;Transferencia corriente de las Cortes a Empresas privadas;1155000
+2014;02002;911N;470/02002;;;Transferencia corriente de las Cortes a Empresas privadas;1155000
 2014;02002;911N;48;;;A familias e instituciones sin fines de lucro;9679820
 2014;02002;911N;480/02002;;;A Familias e Instituciones sin fines de lucro;9679820
 2014;02002;911N;6;;;INVERSIONES REALES;2745310
@@ -18873,16 +18873,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;02003;911N;11;;;Personal eventual;1720990
 2014;02003;911N;111;;;Personal eventual de las Cortes;1720990
 2014;02003;911N;13;;;Laborales;3373680
-2014;02003;911N;135;;;Retribuciones del personal laboral de las Cortes;3373680
+2014;02003;911N;135/02003;;;Retribuciones del personal laboral de las Cortes;3373680
 2014;02003;911N;15;;;Incentivos al rendimiento;734140
 2014;02003;911N;150;;;Productividad;734140
 2014;02003;911N;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;1685600
-2014;02003;911N;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;1685600
+2014;02003;911N;165/02003;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;1685600
 2014;02003;911N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;21816870
 2014;02003;911N;20;;;Arrendamientos y cánones;403830
-2014;02003;911N;207;;;Alquileres;403830
+2014;02003;911N;207/02003;;;Alquileres;403830
 2014;02003;911N;21;;;Reparaciones, mantenimiento y conservación;1948870
-2014;02003;911N;217;;;Gastos diversos de reparación y conservación;1948870
+2014;02003;911N;217/02003;;;Gastos diversos de reparación y conservación;1948870
 2014;02003;911N;22;;;Material, suministros y otros;11315500
 2014;02003;911N;220;;;Material de oficina;11315500
 2014;02003;911N;23;;;Indemnizaciones por razón del servicio;7880670
@@ -18894,13 +18894,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;02003;911N;350;;;Intereses de demora y otros gastos financieros;2000
 2014;02003;911N;4;;;TRANSFERENCIAS CORRIENTES;7239350
 2014;02003;911N;43;;;A agencias estatales y otros organismos públicos;18000
-2014;02003;911N;430;;;A Agencias Estatales y otros Organismos Públicos;18000
+2014;02003;911N;430/02003;;;A Agencias Estatales y otros Organismos Públicos;18000
 2014;02003;911N;47;;;A empresas privadas;332750
 2014;02003;911N;470/02003;;;A empresas privadas;332750
 2014;02003;911N;48;;;A familias e instituciones sin fines de lucro;6887500
 2014;02003;911N;480/02003;;;A familias e instituciones sin fines de lucro;6887500
 2014;02003;911N;49;;;Al exterior;1100
-2014;02003;911N;490;;;Al exterior;1100
+2014;02003;911N;490/02003;;;Al exterior;1100
 2014;02003;911N;8;;;ACTIVOS FINANCIEROS;30000
 2014;02003;911N;83;;;Concesión de préstamos fuera del Sector Público;30000
 2014;02003;911N;830;;;Préstamos a corto plazo;30000
@@ -18912,7 +18912,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;02004;911N;13;;;Laborales;55570
 2014;02004;911N;135/02004;;;Retribuciones del personal laboral de la Junta Electoral Central;55570
 2014;02004;911N;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;21560
-2014;02004;911N;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;21560
+2014;02004;911N;165/02004;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;21560
 2014;02004;911N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;318320
 2014;02004;911N;22;;;Material, suministros y otros;45810
 2014;02004;911N;220;;;Material de oficina;45810
@@ -18925,7 +18925,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;02005;911N;10;;;Altos cargos;449000
 2014;02005;911N;101/02005;;;Retribuciones básicas y otras remuneraciones de Altos Cargos;449000
 2014;02005;911N;12;;;Funcionarios;8465400
-2014;02005;911N;125;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes;8465400
+2014;02005;911N;125/02005;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes;8465400
 2014;02005;911N;13;;;Laborales;7300
 2014;02005;911N;131;;;Laboral eventual;7300
 2014;02005;911N;131;;00;Contratados;7300
@@ -18934,12 +18934,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;02005;911N;15;;;Incentivos al rendimiento;5000
 2014;02005;911N;150;;;Productividad;5000
 2014;02005;911N;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;2243000
-2014;02005;911N;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;2243000
+2014;02005;911N;165/02005;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;2243000
 2014;02005;911N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;2412000
 2014;02005;911N;20;;;Arrendamientos y cánones;36200
-2014;02005;911N;207;;;Alquileres;36200
+2014;02005;911N;207/02005;;;Alquileres;36200
 2014;02005;911N;21;;;Reparaciones, mantenimiento y conservación;444600
-2014;02005;911N;217;;;Gastos diversos de reparación y conservación;444600
+2014;02005;911N;217/02005;;;Gastos diversos de reparación y conservación;444600
 2014;02005;911N;22;;;Material, suministros y otros;1655700
 2014;02005;911N;220;;;Material de oficina;1655700
 2014;02005;911N;23;;;Indemnizaciones por razón del servicio;137000
@@ -18947,7 +18947,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;02005;911N;24;;;Gastos de publicaciones;100000
 2014;02005;911N;240;;;Gastos de edición y distribución;100000
 2014;02005;911N;27;;;Compras, suministros y otros gastos relacionados con la actividad;38500
-2014;02005;911N;270;;;Compras, suministros y otros gastos;38500
+2014;02005;911N;270/02005;;;Compras, suministros y otros gastos;38500
 2014;03001;911O;1;;;GASTOS DE PERSONAL;53330180
 2014;03001;911O;10;;;Altos cargos;1448050
 2014;03001;911O;100;;;Retribuciones básicas y otras remuneraciones;1448050
@@ -19032,7 +19032,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;03001;911O;240;;;Gastos de edición y distribución;33880
 2014;03001;911O;4;;;TRANSFERENCIAS CORRIENTES;68460
 2014;03001;911O;48;;;A familias e instituciones sin fines de lucro;60460
-2014;03001;911O;481;;;"Pensiones a ex-Presidentes del Tribunal de Cuentas. (Leyes 4/74, de 13.02 ; 74/80, de 29.12 y 21/86 de 23.12)";60460
+2014;03001;911O;481/03001;;;"Pensiones a ex-Presidentes del Tribunal de Cuentas. (Leyes 4/74, de 13.02 ; 74/80, de 29.12 y 21/86 de 23.12)";60460
 2014;03001;911O;49;;;Al exterior;8000
 2014;03001;911O;490/03001;;;Cuota de España al INTOSAI y OLACEFS;8000
 2014;03001;911O;6;;;INVERSIONES REALES;965790
@@ -19130,8 +19130,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;04001;911P;48;;;A familias e instituciones sin fines de lucro;592490
 2014;04001;911P;480/04001;;;Pensiones a ex-Presidentes del Tribunal Constitucional (Ley 21/1986);124110
 2014;04001;911P;481/04001;;;Remuneraciones de transición Magistrados (art. 25.1 Ley Orgánica del Tribunal Constitucional, 2/1979, de 3 de octubre);266780
-2014;04001;911P;482;;;A la Asociación de Letrados del Tribunal Constitucional;18000
-2014;04001;911P;487;;;Becas formación;183600
+2014;04001;911P;482/04001;;;A la Asociación de Letrados del Tribunal Constitucional;18000
+2014;04001;911P;487/04001;;;Becas formación;183600
 2014;04001;911P;6;;;INVERSIONES REALES;695000
 2014;04001;911P;63;;;Inv. de reposición asociada al func. operativo de los serv.;695000
 2014;04001;911P;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;695000
@@ -20449,14 +20449,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;15004;923A;4;;;TRANSFERENCIAS CORRIENTES;8310
 2014;15004;923A;49;;;Al exterior;8310
 2014;15004;923A;494/15004;;;Cuota Organización PuRE-net  (Public Real Estate Network);2500
-2014;15004;923A;496;;;Cuota a la Asociación XBRL España;1000
+2014;15004;923A;496/15004;;;Cuota a la Asociación XBRL España;1000
 2014;15004;923A;497/15004;;;Cuota al Centro Europeo de Empresas Públicas (CEEP);4810
 2014;15004;923A;8;;;ACTIVOS FINANCIEROS;155193700
 2014;15004;923A;85;;;Adquisición de acciones y participaciones del Sector Público;140038300
 2014;15004;923A;850;;;Adquisición de acciones y participaciones del Sector Público;140038300
 2014;15004;923A;850;;10;Adquisición de acciones  y participaciones del Sector Público;140038300
 2014;15004;923A;86;;;Adquisición de acciones y particip. fuera del Sector Público;15155400
-2014;15004;923A;862;;;Pago aplazado adquisición de acciones AUDENASA (Autopista de Navarra, S.A.);15055400
+2014;15004;923A;862/15004;;;Pago aplazado adquisición de acciones AUDENASA (Autopista de Navarra, S.A.);15055400
 2014;15004;923A;863;;;Pago de otros justiprecios;100000
 2014;31003;923A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;3110750
 2014;31003;923A;21;;;Reparaciones, mantenimiento y conservación;1183120
@@ -20703,7 +20703,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;15001;923M;442/15001;;;A la Corporación R.T.V.E.;292737240
 2014;15001;923M;442/15001;;00;Para la prestación del servicio público de radio y televisión.;281414280
 2014;15001;923M;442/15001;;01;Para las actividades ordinarias de la Orquesta y Coro de R.T.V.E.;11322960
-2014;15001;923M;448;;;Al Consorcio de la Zona Especial Canaria;1086000
+2014;15001;923M;448/15001;;;Al Consorcio de la Zona Especial Canaria;1086000
 2014;15001;923M;48;;;A familias e instituciones sin fines de lucro;1148470
 2014;15001;923M;480/15001;;;A familias e instituciones sin fines de lucro;1130590
 2014;15001;923M;480/15001;;00;Para concesión de becas, asistencia a congresos, cursos, seminarios y otras subvenciones;1130590
@@ -20716,7 +20716,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;15001;923M;830;;;Préstamos a corto plazo;664120
 2014;15001;923M;830;;08;Familias e instituciones sin fines de lucro;664120
 2014;15001;923M;87;;;Aportaciones patrimoniales;83906000
-2014;15001;923M;872;;;Aportación Patrimonial a SEPI;83906000
+2014;15001;923M;872/15001;;;Aportación Patrimonial a SEPI;83906000
 2014;15002;923M;1;;;GASTOS DE PERSONAL;7741060
 2014;15002;923M;10;;;Altos cargos;54640
 2014;15002;923M;100;;;Retribuciones básicas y otras remuneraciones;54640
@@ -21356,7 +21356,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;31002;929M;121;;;Retribuciones complementarias;281372080
 2014;31002;929M;121;;08;Para todo tipo de retribuciones que pudieran reconocerse en favor de funcionarios de carrera;281372080
 2014;31002;929M;15;;;Incentivos al rendimiento;782100
-2014;31002;929M;155;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio;782100
+2014;31002;929M;155/31002;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio;782100
 2014;31002;929M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;1687236470
 2014;31002;929M;160;;;Cuotas sociales;1687236470
 2014;31002;929M;160;;01;MUFACE;1058572220
@@ -22188,8 +22188,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;15027;942A;480/15027;;;A la Federación Española de Municipios y Provincias;2000000
 2014;15027;942A;7;;;TRANSFERENCIAS DE CAPITAL;432000
 2014;15027;942A;76;;;A entidades locales;432000
-2014;15027;942A;760;;;A las Diputaciones, Cabildos, Consejos Insulares,Comunidades Autónomas Uniprovinciales y Ayuntamientos de Ceuta y Melilla, como aportación a la financiación de las inversiones de las Entidades Locales por Cooperación Económica Local del Estado.;432000
-2014;15027;942A;760;;00;Planes Provinciales e Insulares de Cooperación;432000
+2014;15027;942A;760/15027;;;A las Diputaciones, Cabildos, Consejos Insulares,Comunidades Autónomas Uniprovinciales y Ayuntamientos de Ceuta y Melilla, como aportación a la financiación de las inversiones de las Entidades Locales por Cooperación Económica Local del Estado.;432000
+2014;15027;942A;760/15027;;00;Planes Provinciales e Insulares de Cooperación;432000
 2014;36021;942M;4;;;TRANSFERENCIAS CORRIENTES;15548308210
 2014;36021;942M;46;;;A entidades locales;15548308210
 2014;36021;942M;460/36021;;;Transferencias a Ayuntamientos;10067312410
@@ -22223,7 +22223,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2014;34001;943M;499/34001;;;A la Unión Europea para el pago de Indemnizaciones derivadas de  Sentencias del TJUE;98250000
 2014;34001;943N;7;;;TRANSFERENCIAS DE CAPITAL;283400000
 2014;34001;943N;79;;;Al exterior;283400000
-2014;34001;943N;791;;;Aportación al Fondo Europeo de Desarrollo (FED);283400000
+2014;34001;943N;791/34001;;;Aportación al Fondo Europeo de Desarrollo (FED);283400000
 2014;06001;951M;3;;;GASTOS FINANCIEROS;32566092070
 2014;06001;951M;30;;;De deuda pública en moneda nacional;32566092070
 2014;06001;951M;300;;;Intereses;31959496270

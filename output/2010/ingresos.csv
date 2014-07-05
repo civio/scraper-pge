@@ -742,7 +742,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2010;98001;392;;;Diferencias de cambio;10000000
 2010;98001;393;;;Diferencias entre los valores de reembolso y emisión;400000000
 2010;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);21669520
-2010;15302;398;;;Ingresos extraordinarios;124000
+2010;15302;398/15302;;;Ingresos extraordinarios;124000
 2010;60001;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;68034000
 2010;12401;399;;;Ingresos diversos;30000
 2010;14104;399;;;Ingresos diversos;41000
@@ -1228,9 +1228,9 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2010;24301;47;;;De empresas privadas;1350000
 2010;25101;47;;;De empresas privadas;30000
 2010;60001;47;;;De empresas privadas;42000000
-2010;25101;470;;;Provenientes de empresas de propiedad privada;30000
 2010;12301;470/12301;;;De empresas privadas;1000000
 2010;24301;470/24301;;;Ingresos de empresas privadas;1350000
+2010;25101;470/25101;;;Provenientes de empresas de propiedad privada;30000
 2010;60001;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;42000000
 2010;21207;472;;;De Empresas;22528760
 2010;18101;479;;;Otras transferencias corrientes.;1241570
@@ -1238,7 +1238,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2010;24104;48;;;De familias e instituciones sin fines de lucro;850000
 2010;24301;48;;;De familias e instituciones sin fines de lucro;3066000
 2010;24301;480;;;De familias e instituciones sin fines de lucro;3066000
-2010;18101;489;;;Otras transferencias corrientes.;903780
+2010;18101;489/18101;;;Otras transferencias corrientes.;903780
 2010;24104;489/24104;;;Otras transferencias corrientes;850000
 2010;13301;49;;;Del exterior;25000
 2010;14104;49;;;Del exterior;700000
@@ -1262,7 +1262,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2010;60001;490;;;Del Fondo Social Europeo;24210000
 2010;98001;490;;;Del Fondo Social Europeo;65000000
 2010;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;620000000
-2010;14104;491;;;Del FEOGA GARANTÍA;700000
+2010;14104;491/14104;;;Del FEOGA GARANTÍA;700000
 2010;23211;491/23211;;;Del FEAGA;6081058680
 2010;23225;491/23225;;;De la Unión Europea-PAC;18000
 2010;23211;491/23211;;01;Subvenciones a la producción agraria;6049868360
@@ -2118,7 +2118,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2010;17239;701;;01;Del Ministerio de Defensa;63190
 2010;21401;701;;01;Del Ministerio de Vivienda Aplicación exigencias Código Técnico de la Edificación;100000
 2010;17239;701;;03;Del Ministerio de Vivienda;126380
-2010;23230;702;;;De la D.G. del Agua para apoyo en la ejecución de obras con financiación FEDER;13000000
+2010;23230;702/23230;;;De la D.G. del Agua para apoyo en la ejecución de obras con financiación FEDER;13000000
 2010;24103;702/24103;;;Del Departamento al que está adscrito;68567600
 2010;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;66590420
 2010;12401;706;;;Del Ministerio de Medio Ambiente, Medio Rural y Marino;96000
@@ -2130,8 +2130,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2010;25403;710;;;Transferencias de capital de organismos autónomos;500370
 2010;21206;710;;00;Del Instit para la Reestruct de la Minería del Carbón y D.A.C.M;3320000
 2010;21206;710;;01;De la Confederación Hidrográfica del Ebro;62500
-2010;98001;711;;;"Del FEGA ""Ayudas de Desarrollo Rural""";18000000
 2010;21401;711/21401;;;Del Instituto para la Reestructuración de la Minería del Carbón y D.A.C.M.;578000
+2010;98001;711/98001;;;"Del FEGA ""Ayudas de Desarrollo Rural""";18000000
 2010;60001;72;;;De la Seguridad Social;850181990
 2010;60001;720;;;Transferencias de capital de la Seguridad Social;850181990
 2010;17239;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;541860
@@ -2159,7 +2159,6 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2010;23234;75;;;De Comunidades Autónomas;4600000
 2010;25106;75;;;De Comunidades Autónomas;680000
 2010;98001;75;;;De Comunidades Autónomas;2000000
-2010;98001;750;;;Transferencias de capital de Comunidades Autónomas;2000000
 2010;21201;750/21201;;;De la Comunidad Autónoma de Canarias;397300
 2010;21401;750/21401;;;De Comunidades Autónomas para ejecución de proyectos de investigación;2404990
 2010;23211;750/23211;;;Cofinanciación teledetección Comunidades Autónomas;3500000
@@ -2172,6 +2171,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2010;23233;750/23233;;;De Comunidades Autónomas;432000
 2010;23234;750/23234;;;De Comunidades Autónomas;4600000
 2010;25106;750/25106;;;De Comunidades Autónomas;680000
+2010;98001;750/98001;;;Transferencias de capital de Comunidades Autónomas;2000000
 2010;16102;76;;;De Entidades Locales;3000000
 2010;23225;76;;;De Entidades Locales;450000
 2010;23228;76;;;De Entidades Locales;49279690

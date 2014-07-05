@@ -137,35 +137,53 @@ end
 # example, [1][2]; code 398. They are _almost_ consistent, but nope. Then I thought 
 # programme would be enough on the expense side. It's not. I thought section would be 
 # enough on both sides... It is not. We need section and department/service.
-#
-# Note: We don't need economic categories for budget items (concept length==5), they are 
-# just items belonging to a heading. At one point the obstacle to this was distinguishing 
-# heading subtotals from the items themselves in the output files, but we've sorted that 
-# out through a new 'budget item' column in the output (see below).
+# Note: I also thought that I could start tagging items once a conflict was detected,
+# leaving the previous items with the original short code. Wrong. Because which item gets 
+# the short code would depend on the particular data of each year's budget, and that
+# did mess the descriptions on the web (code 753 in year 2011 is not the same as code
+# 753 in year 2012). So, if there's a conflict _all_ items get tagged.
 #
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_105_1_2_160_1_104_1.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_104_1_2_115_1_1302_1.HTM
 #
 def get_economic_categories_from_budget_items_list(items)
-  categories = {}
-  items.each do |line|
-    concept = line[:economic_concept]
+  def count_different_descriptions(items)
+    items.map{|i| i[:description]}.uniq.count
+  end
+
+  # First, group items by economic concept
+  buckets = {}
+  items.each do |item|
+    concept = item[:economic_concept]
     next if concept.nil? or concept.empty?
     next if concept.length > 4     # Budget item
+    # Note: We don't need economic categories for budget items (concept length==5), they are 
+    # just items belonging to a heading. At one point the obstacle to this was distinguishing 
+    # heading subtotals from the items themselves in the output files, but we've sorted that 
+    # out through a new 'budget item' column in the output (see below).
 
-    if concept.length == 3  # Heading -> xxx or xxx/sssss
-      if !categories[concept].nil? and categories[concept][:description] != line[:description]
-        concept = "#{concept}/#{get_entity_id(line[:section], line[:service])}"
-        line[:economic_concept] = concept 
+    buckets[concept] = [] if buckets[concept].nil? 
+    buckets[concept].push item
+  end
+
+  # Then, for each bucket, decide whether we need to tag the economic concept
+  categories = {}
+  buckets.each do |concept, items|
+    if count_different_descriptions(items) > 1  # We need to tag the concept
+      # We expect this to happen only for headings
+      if concept.length < 3
+        puts "Warning: inconsistent descriptions for article or chapter #{concept}!"
       end
-    end
 
-    # Although we've checked that descriptions for chapters and articles are consistent, and we're
-    # working around the inconsistencies of headings, we have a check here just to be safe.
-    if !categories[concept].nil? and categories[concept][:description] != line[:description]
-      puts "Warning: different descriptions for economic concept #{concept}: had #{categories[concept][:description]}, now got #{line[:description]}"
+      # Create a category for each item, and modify the items to point to them
+      items.each do |item|
+        tagged_concept = "#{concept}/#{get_entity_id(item[:section], item[:service])}"
+        item[:economic_concept] = tagged_concept
+        categories[tagged_concept] = item[:description]
+      end
+    else
+      categories[concept] = items.first[:description]  # Pick the first, they're all the same
     end
-    categories[concept] = line
   end
   categories
 end
@@ -174,7 +192,7 @@ expense_categories = get_economic_categories_from_budget_items_list(expenses)
 income_categories = get_economic_categories_from_budget_items_list(income)
 CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
   csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
-  expense_categories.sort.each do |concept, line|
+  expense_categories.sort.each do |concept, description|
     csv << [year, 
             "G",
             concept[0], 
@@ -182,10 +200,10 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 3 ? concept : nil,
             nil,  # We don't use subheadings
             nil,  # Short description, not used
-            capitalize_description_if_needed(line[:description]) ]
+            capitalize_description_if_needed(description) ]
   end
 
-  income_categories.sort.each do |concept, line|
+  income_categories.sort.each do |concept, description|
     csv << [year, 
             "I",
             concept[0], 
@@ -193,7 +211,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 3 ? concept : nil,
             nil,  # We don't use subheadings
             nil,  # Short description, not used
-            capitalize_description_if_needed(line[:description]) ]
+            capitalize_description_if_needed(description) ]
   end
 end
 

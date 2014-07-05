@@ -741,7 +741,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2012;98001;393;;;Diferencias entre los valores de reembolso y emisión;800000000
 2012;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);21669520
 2012;15302;395;;;Rappels por compras;3050000
-2012;15302;398;;;Ingresos extraordinarios;60120
+2012;15302;398/15302;;;Ingresos extraordinarios;60120
 2012;60001;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;72185000
 2012;12401;399;;;Ingresos diversos;30000
 2012;14104;399;;;Ingresos diversos;41000
@@ -1139,8 +1139,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2012;19101;42;;;De la Seguridad Social;1208700
 2012;60001;42;;;De la Seguridad Social;4090349190
 2012;98001;42;;;De la Seguridad Social;142576820
-2012;98001;420;;;Transferencias corrientes de la Seguridad Social;142576820
 2012;19101;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad;1208700
+2012;98001;420/98001;;;Transferencias corrientes de la Seguridad Social;142576820
 2012;60001;421;;;Aportaciones para sosteni. SS.CC.;891634400
 2012;60001;422;;;Ingresos por servicios prestados entre Entidades del Sistema;2251824640
 2012;60001;423;;;Cuotas de reaseguro de Acctes. T.;878323320
@@ -1195,9 +1195,9 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2012;25101;47;;;De empresas privadas;30000
 2012;27205;47;;;De empresas privadas;46407450
 2012;60001;47;;;De empresas privadas;36500000
-2012;25101;470;;;Provenientes de empresas de propiedad privada;30000
 2012;12301;470/12301;;;De empresas privadas;1500000
 2012;18301;470/18301;;;Ingresos de empresas privadas;1204200
+2012;25101;470/25101;;;Provenientes de empresas de propiedad privada;30000
 2012;60001;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;36500000
 2012;27205;472;;;De Empresas;46407450
 2012;18101;479;;;Otras transferencias corrientes.;1241570
@@ -1205,7 +1205,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2012;18301;48;;;De familias e instituciones sin fines de lucro;3088800
 2012;18302;48;;;De familias e instituciones sin fines de lucro;765000
 2012;18301;480;;;De familias e instituciones sin fines de lucro;3088800
-2012;18101;489;;;Otras transferencias corrientes.;903780
+2012;18101;489/18101;;;Otras transferencias corrientes.;903780
 2012;18302;489/18302;;;Otras transferencias corrientes;765000
 2012;13301;49;;;Del exterior;20000
 2012;14104;49;;;Del exterior;650000
@@ -1230,7 +1230,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2012;60001;490;;;Del Fondo Social Europeo;24210000
 2012;98001;490;;;Del Fondo Social Europeo;30000000
 2012;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;650000000
-2012;14104;491;;;Del FEOGA GARANTÍA;650000
+2012;14104;491/14104;;;Del FEOGA GARANTÍA;650000
 2012;23211;491/23211;;;Del FEAGA;5994118000
 2012;23225;491/23225;;;De la Unión Europea-PAC;18000
 2012;23211;491/23211;;01;Subvenciones a la producción agraria;5993868000
@@ -1947,7 +1947,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2012;60001;701;;;De otros departamentos ministeriales;22021180
 2012;27205;701;;00;Para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias;5141030
 2012;27401;701;;00;Del Ministerio de Fomento. Estudio base herramientas Código Técnico de la Edificación;400000
-2012;18105;702;;;Del Departamento al que está adscrito;55615330
+2012;18105;702/18105;;;Del Departamento al que está adscrito;55615330
 2012;23230;702/23230;;;De la D.G. del Agua para apoyo en la ejecución de obras en humedales y restauración de  los rios;4097110
 2012;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;42170420
 2012;18401;71;;;De organismos autónomos;510310
@@ -1985,14 +1985,14 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2012;27202;75;;;De Comunidades Autónomas;400000
 2012;27206;75;;;De Comunidades Autónomas;292000
 2012;27401;75;;;De Comunidades Autónomas;11200000
-2012;18106;750;;;De Comunidades Autónomas;600000
-2012;23225;750;;;De Comunidades Autónomas;3651950
-2012;23229;750;;;De Comunidades Autónomas;11000000
-2012;23230;750;;;De Comunidades Autónomas;450000
-2012;23231;750;;;De Comunidades Autónomas;2100000
-2012;23232;750;;;De Comunidades Autónomas;1600000
-2012;23233;750;;;De Comunidades Autónomas;2100000
+2012;18106;750/18106;;;De Comunidades Autónomas;600000
 2012;23211;750/23211;;;Cofinanciación teledetección Comunidades Autónomas;2890000
+2012;23225;750/23225;;;De Comunidades Autónomas;3651950
+2012;23229;750/23229;;;De Comunidades Autónomas;11000000
+2012;23230;750/23230;;;De Comunidades Autónomas;450000
+2012;23231;750/23231;;;De Comunidades Autónomas;2100000
+2012;23232;750/23232;;;De Comunidades Autónomas;1600000
+2012;23233;750/23233;;;De Comunidades Autónomas;2100000
 2012;27202;750/27202;;;Planes regionales de I+D;400000
 2012;27206;750/27206;;;De la Comunidad Autónoma de Canarias;292000
 2012;27401;750/27401;;;De Comunidades Autónomas para ejecución de proyectos de investigación;11200000

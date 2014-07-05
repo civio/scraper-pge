@@ -1133,15 +1133,15 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2008;24101;410;;99;Otros;300000
 2008;24201;410;;99;Otros;212000
 2008;98001;410;;99;Otros;187703000
-2008;16101;411;;;Del Servicio Público de Empleo Estatal;433500
-2008;16201;411;;;Del Servicio Público de Empleo Estatal;4577870
-2008;25103;411;;;Del Servicio Público de Empleo Estatal;3329280
+2008;16101;411/16101;;;Del Servicio Público de Empleo Estatal;433500
+2008;16201;411/16201;;;Del Servicio Público de Empleo Estatal;4577870
+2008;25103;411/25103;;;Del Servicio Público de Empleo Estatal;3329280
 2008;26203;411/26203;;;Aportación del Consejo Superior de Investigaciones Científicas.;243840
-2008;16201;411;;01;Para cursos de Formación Profesional y Ocupacional;4463630
-2008;25103;411;;01;Para ayudas salariales a Escuelas Taller;1685230
-2008;16101;411;;02;Para gastos en políticas activas de empleo;433500
-2008;16201;411;;02;Para gastos en políticas activas de empleo;114240
-2008;25103;411;;02;Para subvenciones a Escuelas Taller;1644050
+2008;16201;411/16201;;01;Para cursos de Formación Profesional y Ocupacional;4463630
+2008;25103;411/25103;;01;Para ayudas salariales a Escuelas Taller;1685230
+2008;16101;411/16101;;02;Para gastos en políticas activas de empleo;433500
+2008;16201;411/16201;;02;Para gastos en políticas activas de empleo;114240
+2008;25103;411/25103;;02;Para subvenciones a Escuelas Taller;1644050
 2008;12103;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior;3746000
 2008;60001;42;;;De la Seguridad Social;3538513710
 2008;98001;42;;;De la Seguridad Social;164010080
@@ -1190,17 +1190,17 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2008;24201;47;;;De empresas privadas;60000
 2008;24301;47;;;De empresas privadas;1031680
 2008;60001;47;;;De empresas privadas;46800000
-2008;12301;470;;;De empresas privadas;1000000
+2008;12301;470/12301;;;De empresas privadas;1000000
 2008;24301;470/24301;;;Ingresos de empresas privadas;1031680
-2008;24104;471;;;De empresas privadas;800000
+2008;24104;471/24104;;;De empresas privadas;800000
 2008;60001;471/60001;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;46800000
-2008;18137;479;;;Otras transferencias corrientes.;1159270
+2008;18137;479/18137;;;Otras transferencias corrientes.;1159270
 2008;24201;479/24201;;;Otras transferencias corrientes;60000
 2008;18137;48;;;De familias e instituciones sin fines de lucro;835680
 2008;24104;48;;;De familias e instituciones sin fines de lucro;200000
 2008;24301;48;;;De familias e instituciones sin fines de lucro;2245710
 2008;24301;480;;;De familias e instituciones sin fines de lucro;2245710
-2008;18137;489;;;Otras transferencias corrientes.;835680
+2008;18137;489/18137;;;Otras transferencias corrientes.;835680
 2008;24104;489/24104;;;Otras transferencias corrientes;200000
 2008;13301;49;;;Del exterior;25000
 2008;14104;49;;;Del exterior;725000
@@ -1223,7 +1223,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2008;60001;490;;;Del Fondo Social Europeo;10000000
 2008;98001;490;;;Del Fondo Social Europeo;53000000
 2008;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;740000000
-2008;14104;491;;;Del FEOGA GARANTÍA;725000
+2008;14104;491/14104;;;Del FEOGA GARANTÍA;725000
 2008;21211;491/21211;;;Del FEAGA;6314702310
 2008;23225;491/23225;;;De la Unión Europea-PAC;12000
 2008;21211;491/21211;;01;Subvenciones a la producción agraria;6220500000
@@ -2060,8 +2060,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2008;18202;710;;;Transferencias de capital de organismos autónomos;450000
 2008;18203;710;;;Transferencias de capital de organismos autónomos;20000
 2008;18203;710;;01;Del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA);20000
-2008;98001;711;;;"Del FEGA ""Ayudas de Desarrollo Rural""";18000000
 2008;26203;711/26203;;;Aportación del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria.;40000
+2008;98001;711/98001;;;"Del FEGA ""Ayudas de Desarrollo Rural""";18000000
 2008;60001;72;;;De la Seguridad Social;708212910
 2008;60001;720;;;Transferencias de capital de la Seguridad Social;708212910
 2008;18101;74;;;De Sdades, Ent.Públ.Emp, Fundac. y resto entes Sec.Públ.;5171520
@@ -2081,7 +2081,6 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2008;23233;75;;;De Comunidades Autónomas;27075680
 2008;23234;75;;;De Comunidades Autónomas;6000000
 2008;98001;75;;;De Comunidades Autónomas;8000000
-2008;98001;750;;;Transferencias de capital de Comunidades Autónomas;8000000
 2008;18201;750/18201;;;De la Comunidad Autónoma de Canarias;525930
 2008;21211;750/21211;;;Cofinanciación teledetección Comunidades Autónomas;2524000
 2008;23225;750/23225;;;De Comunidades Autónomas;900000
@@ -2090,6 +2089,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2008;23232;750/23232;;;De Comunidades Autónomas;3044770
 2008;23233;750/23233;;;De Comunidades Autónomas;27075680
 2008;23234;750/23234;;;De Comunidades Autónomas;6000000
+2008;98001;750/98001;;;Transferencias de capital de Comunidades Autónomas;8000000
 2008;16102;76;;;De Corporaciones Locales;3000000
 2008;18101;76;;;De Corporaciones Locales;1463270
 2008;23228;76;;;De Corporaciones Locales;49563140

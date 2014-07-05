@@ -750,7 +750,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2009;98001;392;;;Diferencias de cambio;200000000
 2009;98001;393;;;Diferencias entre los valores de reembolso y emisión;200000000
 2009;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);21669520
-2009;15302;398;;;Ingresos extraordinarios;55000
+2009;15302;398/15302;;;Ingresos extraordinarios;55000
 2009;60001;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;66901000
 2009;12401;399;;;Ingresos diversos;30000
 2009;14104;399;;;Ingresos diversos;38000
@@ -1140,8 +1140,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2009;60001;401;;;De otros departamentos ministeriales;1480149530
 2009;15302;401;;00;Del Ministerio del Interior por los gastos comunes del edificio de la calle del Plomo, de Madrid;65790
 2009;23237;401;;00;Aportación del Mº de Fomento.;13540
-2009;24103;402;;;Del Departamento al que está adscrito.;7012350
 2009;20301;402/20301;;;Compensación de los gastos derivados de la 41 Asamblea Anual de Gobernadores del Banco Asiático de Desarrollo;3000000
+2009;24103;402/24103;;;Del Departamento al que está adscrito.;7012350
 2009;12401;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;821660000
 2009;12401;405;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2. del Real Decreto 825/1988, de  15 de julio);25971970
 2009;12401;41;;;De organismos autónomos;5320920
@@ -1238,17 +1238,17 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2009;24201;47;;;De empresas privadas;60000
 2009;24301;47;;;De empresas privadas;1253730
 2009;60001;47;;;De empresas privadas;42000000
-2009;12301;470;;;De empresas privadas;1000000
+2009;12301;470/12301;;;De empresas privadas;1000000
 2009;24301;470/24301;;;Ingresos de empresas privadas;1253730
-2009;24104;471;;;De empresas privadas;850000
+2009;24104;471/24104;;;De empresas privadas;850000
 2009;60001;471/60001;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;42000000
-2009;21137;479;;;Otras transferencias corrientes.;1217230
+2009;21137;479/21137;;;Otras transferencias corrientes.;1217230
 2009;24201;479/24201;;;Otras transferencias corrientes;60000
 2009;21137;48;;;De familias e instituciones sin fines de lucro;877460
 2009;24104;48;;;De familias e instituciones sin fines de lucro;200000
 2009;24301;48;;;De familias e instituciones sin fines de lucro;2729050
 2009;24301;480;;;De familias e instituciones sin fines de lucro;2729050
-2009;21137;489;;;Otras transferencias corrientes.;877460
+2009;21137;489/21137;;;Otras transferencias corrientes.;877460
 2009;24104;489/24104;;;Otras transferencias corrientes;200000
 2009;13301;49;;;Del exterior;25000
 2009;14104;49;;;Del exterior;715000
@@ -1271,7 +1271,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2009;60001;490;;;Del Fondo Social Europeo;10000000
 2009;98001;490;;;Del Fondo Social Europeo;60000000
 2009;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;500000000
-2009;14104;491;;;Del FEOGA GARANTÍA;715000
+2009;14104;491/14104;;;Del FEOGA GARANTÍA;715000
 2009;23211;491/23211;;;Del FEAGA;6110478760
 2009;23225;491/23225;;;De la Unión Europea-PAC;12000
 2009;23211;491/23211;;01;Subvenciones a la producción agraria;6055090760
@@ -2119,7 +2119,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2009;17239;701;;01;Del Ministerio de Defensa;63190
 2009;17239;701;;02;Del Ministerio de Economía y Hacienda;63190
 2009;17239;701;;03;Del Ministerio de Vivienda;296260
-2009;23230;702;;;De la D.G. del Agua para apoyo en la ejecución de obras con financiación FEDER;15000000
+2009;23230;702/23230;;;De la D.G. del Agua para apoyo en la ejecución de obras con financiación FEDER;15000000
 2009;24103;702/24103;;;Del Departamento al que está adscrito;109469940
 2009;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;74740420
 2009;12401;706;;;Del Ministerio de Medio Ambiente, Medio Rural y Marino;96000
@@ -2134,9 +2134,9 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2009;21206;710;;;Transferencias de capital de organismos autónomos;3320000
 2009;21401;710;;;Transferencias de capital de organismos autónomos;476500
 2009;21203;710;;01;Del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA);45000
-2009;98001;711;;;"Del FEGA ""Ayudas de Desarrollo Rural""";18000000
 2009;21207;711/21207;;;Aportación del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria.;65000
 2009;21401;711/21401;;;Del Instituto para la Reestructuración de la Minería del Carbón y D.A.C.M.;725000
+2009;98001;711/98001;;;"Del FEGA ""Ayudas de Desarrollo Rural""";18000000
 2009;60001;72;;;De la Seguridad Social;1083767530
 2009;60001;720;;;Transferencias de capital de la Seguridad Social;1083767530
 2009;18101;74;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.;5471520
@@ -2161,7 +2161,6 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2009;23233;75;;;De Comunidades Autónomas;9116980
 2009;23234;75;;;De Comunidades Autónomas;6000000
 2009;98001;75;;;De Comunidades Autónomas;8000000
-2009;98001;750;;;Transferencias de capital de Comunidades Autónomas;8000000
 2009;18101;750/18101;;;De Comunidades Autónomas;1480000
 2009;21201;750/21201;;;De la Comunidad Autónoma de Canarias;525930
 2009;21401;750/21401;;;De Comunidades Autónomas para ejecución de proyectos de investigación;2404990
@@ -2173,6 +2172,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2009;23232;750/23232;;;De Comunidades Autónomas;1622000
 2009;23233;750/23233;;;De Comunidades Autónomas;9116980
 2009;23234;750/23234;;;De Comunidades Autónomas;6000000
+2009;98001;750/98001;;;Transferencias de capital de Comunidades Autónomas;8000000
 2009;16102;76;;;De Entidades Locales;3000000
 2009;18101;76;;;De Entidades Locales;250000
 2009;23225;76;;;De Entidades Locales;787500

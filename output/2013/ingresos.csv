@@ -749,7 +749,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2013;98001;393;;;Diferencias entre los valores de reembolso y emisión;807000000
 2013;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);21672520
 2013;15302;395;;;Rappels por compras;2777500
-2013;15302;398;;;Ingresos extraordinarios;74000
+2013;15302;398/15302;;;Ingresos extraordinarios;74000
 2013;60004;398/60004;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;72582000
 2013;12401;399;;;Ingresos diversos;30000
 2013;14104;399;;;Ingresos diversos;33000
@@ -1156,8 +1156,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2013;19101;42;;;De la Seguridad Social;1205600
 2013;60004;42;;;De la Seguridad Social;3210444190
 2013;98001;42;;;De la Seguridad Social;153017670
-2013;98001;420;;;Transferencias corrientes de la Seguridad Social;153017670
 2013;19101;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad;1205600
+2013;98001;420/98001;;;Transferencias corrientes de la Seguridad Social;153017670
 2013;60004;421;;;Aportaciones para sosteni. SS.CC.;922132540
 2013;60004;422;;;Ingresos por servicios prestados entre Entidades del Sistema;1306276000
 2013;60004;423;;;Cuotas de reaseguro de Acctes. T.;913691050
@@ -1213,12 +1213,12 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2013;25101;47;;;De empresas privadas;80000
 2013;27205;47;;;De empresas privadas;50374210
 2013;60004;47;;;De empresas privadas;35300000
-2013;25101;470;;;Provenientes de empresas de propiedad privada;80000
 2013;12301;470/12301;;;De empresas privadas;800000
 2013;18301;470/18301;;;Ingresos de empresas privadas;1200000
+2013;25101;470/25101;;;Provenientes de empresas de propiedad privada;80000
 2013;60004;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;35300000
 2013;27205;472;;;De empresas;50374210
-2013;18101;479;;;Otras transferencias corrientes;540000
+2013;18101;479/18101;;;Otras transferencias corrientes;540000
 2013;18201;479/18201;;;De empresas privadas.;20000
 2013;18101;48;;;De familias e instituciones sin fines de lucro;900780
 2013;18301;48;;;De familias e instituciones sin fines de lucro;2580000
@@ -1961,7 +1961,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2013;60004;701;;;De otros departamentos ministeriales;18816430
 2013;27205;701;;00;Para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias;4149510
 2013;27401;701;;00;Del Ministerio de Fomento. Estudio base herramientas Código Técnico de la Edificación;200000
-2013;18105;702;;;Del departamento al que está adscrito;28928170
+2013;18105;702/18105;;;Del departamento al que está adscrito;28928170
 2013;23230;702/23230;;;De la D.G. del Agua para apoyo en la ejecución de obras en humedales y restauración de  los rios;2889270
 2013;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;11070250
 2013;27205;71;;;De organismos autónomos;25200
@@ -1988,17 +1988,17 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2013;27206;75;;;De Comunidades Autónomas;292000
 2013;27401;75;;;De Comunidades Autónomas;16400000
 2013;98001;75;;;De Comunidades Autónomas;2000000
-2013;23225;750;;;De Comunidades Autónomas;500000
-2013;23229;750;;;De Comunidades Autónomas;11000000
-2013;23230;750;;;De Comunidades Autónomas;450000
-2013;23231;750;;;De Comunidades Autónomas;2300000
-2013;23232;750;;;De Comunidades Autónomas;1600000
-2013;23233;750;;;De Comunidades Autónomas;4697240
-2013;98001;750;;;De Comunidades Autónomas;2000000
 2013;23211;750/23211;;;Cofinanciación teledetección Comunidades Autónomas;2890000
+2013;23225;750/23225;;;De Comunidades Autónomas;500000
+2013;23229;750/23229;;;De Comunidades Autónomas;11000000
+2013;23230;750/23230;;;De Comunidades Autónomas;450000
+2013;23231;750/23231;;;De Comunidades Autónomas;2300000
+2013;23232;750/23232;;;De Comunidades Autónomas;1600000
+2013;23233;750/23233;;;De Comunidades Autónomas;4697240
 2013;27202;750/27202;;;Planes regionales de I+D;400000
 2013;27206;750/27206;;;De la Comunidad Autónoma de Canarias;292000
 2013;27401;750/27401;;;De CCAA para ejecución de proyectos de investigación;16400000
+2013;98001;750/98001;;;De Comunidades Autónomas;2000000
 2013;27401;750/27401;;01;Transferencias de capital de CCAA para ejecución proyectos I+D+I;14200000
 2013;27401;750/27401;;02;Transferencias de capital de CCAA para ayudas contratación;2200000
 2013;16102;76;;;De Entidades Locales;2000000

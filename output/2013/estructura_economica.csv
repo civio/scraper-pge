@@ -2,7 +2,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;1;;;;;Gastos de personal
 2013;G;1;10;;;;Altos cargos
 2013;G;1;10;100;;;Retribuciones básicas y otras remuneraciones
-2013;G;1;10;101;;;Asignación Constitucional Señores Diputados
+2013;G;1;10;101/02002;;;Asignación Constitucional Señores Diputados
 2013;G;1;10;101/02003;;;Asignación Constitucional Señores Senadores
 2013;G;1;10;101/02005;;;Retribuciones básicas y otras remuneraciones de Altos Cargos
 2013;G;1;11;;;;Personal eventual
@@ -14,7 +14,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;1;12;122;;;Retribuciones en especie
 2013;G;1;12;123;;;Indemnizaciones percibidas por destino en el extranjero
 2013;G;1;12;124;;;Retribuciones de funcionarios en prácticas
-2013;G;1;12;125;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2013;G;1;12;125/02001;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2013;G;1;12;125/02002;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2013;G;1;12;125/02005;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
 2013;G;1;12;125/13002;;;Para retribuir al personal sustituto de la Administración de Justicia
 2013;G;1;12;125/13003;;;Para retribuir al personal sustituto de la Administración de Justicia
 2013;G;1;12;125/13006;;;Para retribuir al personal sustituto de la Administración de Justicia
@@ -25,29 +27,34 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;1;13;130;;;Laboral fijo
 2013;G;1;13;131;;;Laboral eventual
 2013;G;1;13;133;;;Laboral en el extranjero
-2013;G;1;13;135;;;Retribuciones del personal laboral de las Cortes
+2013;G;1;13;135/02002;;;Retribuciones del personal laboral de las Cortes
+2013;G;1;13;135/02003;;;Retribuciones del personal laboral de las Cortes
 2013;G;1;13;135/02004;;;Retribuciones del personal laboral de la Junta Electoral Central
 2013;G;1;13;137;;;Contribuciones a planes de pensiones
 2013;G;1;14;;;;Otro personal
 2013;G;1;14;143;;;Otro personal
-2013;G;1;14;145;;;Otro personal de las Cortes Generales
+2013;G;1;14;145/02001;;;Otro personal de las Cortes Generales
 2013;G;1;14;145/02005;;;Otro Personal del Defensor del Pueblo
 2013;G;1;15;;;;Incentivos al rendimiento
 2013;G;1;15;150;;;Productividad
 2013;G;1;15;151;;;Gratificaciones
-2013;G;1;15;152;;;Productividad del Personal Estatutario
 2013;G;1;15;152/13102;;;Otros incentivos al rendimiento
+2013;G;1;15;152/14001;;;Productividad del Personal Estatutario
 2013;G;1;15;153;;;Complemento de dedicación especial
-2013;G;1;15;154;;;Otras gratificaciones por Actos de Estado
+2013;G;1;15;154/25103;;;Otras gratificaciones por Actos de Estado
 2013;G;1;15;154/26105;;;Productividad personal estatutario factor fijo
-2013;G;1;15;155;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio
 2013;G;1;15;155/26105;;;Productividad personal estatutario factor variable.
+2013;G;1;15;155/31002;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio
 2013;G;1;16;;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
 2013;G;1;16;160;;;Cuotas sociales
 2013;G;1;16;161;;;Prestaciones sociales
 2013;G;1;16;162;;;Gastos sociales del personal
 2013;G;1;16;164;;;Protección familiar
-2013;G;1;16;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2013;G;1;16;165/02001;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2013;G;1;16;165/02002;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2013;G;1;16;165/02003;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2013;G;1;16;165/02004;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2013;G;1;16;165/02005;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
 2013;G;1;16;165/23211;;;Pensiones de jubilación especial por convenio colectivo.
 2013;G;1;16;169;;;Obligaciones de ejercicios anteriores
 2013;G;2;;;;;Gastos corrientes en bienes y servicios
@@ -58,7 +65,10 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;2;20;204;;;Arrendamientos de material de transporte
 2013;G;2;20;205;;;Arrendamientos de mobiliario y enseres
 2013;G;2;20;206;;;Arrendamientos de equipos para procesos de información
-2013;G;2;20;207;;;Alquileres
+2013;G;2;20;207/02001;;;Alquileres
+2013;G;2;20;207/02002;;;Alquileres
+2013;G;2;20;207/02003;;;Alquileres
+2013;G;2;20;207/02005;;;Alquileres
 2013;G;2;20;207/16004;;;Obligaciones de ejercicios anteriores
 2013;G;2;20;207/17001;;;Arrendamientos de edificios y otras construcciones. Obligaciones de ejercicios anteriores.
 2013;G;2;20;208;;;Arrendamientos de otro inmovilizado material
@@ -70,7 +80,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;2;21;214;;;Elementos de transporte
 2013;G;2;21;215;;;Mobiliario y enseres
 2013;G;2;21;216;;;Equipos para procesos de la información
-2013;G;2;21;217;;;Gastos diversos de reparación y conservación
+2013;G;2;21;217/02002;;;Gastos diversos de reparación y conservación
+2013;G;2;21;217/02003;;;Gastos diversos de reparación y conservación
+2013;G;2;21;217/02005;;;Gastos diversos de reparación y conservación
 2013;G;2;21;217/16004;;;Obligaciones de ejercicios anteriores
 2013;G;2;21;217/16005;;;Obligaciones de ejercicios anteriores
 2013;G;2;21;218;;;Bienes situados en el exterior
@@ -85,7 +97,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;2;22;226;;;Gastos diversos
 2013;G;2;22;227;;;Trabajos realizados por otras empresas y profesionales
 2013;G;2;22;228;;;Gastos originados por participación de las Fuerzas Armadas en operaciones de mantenimiento de la paz
-2013;G;2;22;229;;;Otros gastos de vida y funcionamiento
+2013;G;2;22;229/14001;;;Otros gastos de vida y funcionamiento
+2013;G;2;22;229/14002;;;Otros gastos de vida y funcionamiento
+2013;G;2;22;229/14003;;;Otros gastos de vida y funcionamiento
+2013;G;2;22;229/14012;;;Otros gastos de vida y funcionamiento
+2013;G;2;22;229/14017;;;Otros gastos de vida y funcionamiento
+2013;G;2;22;229/14022;;;Otros gastos de vida y funcionamiento
 2013;G;2;22;229/16003;;;Obligaciones de ejercicios anteriores
 2013;G;2;22;229/16004;;;Obligaciones de ejercicios anteriores
 2013;G;2;22;229/16005;;;Obligaciones de ejercicios anteriores
@@ -109,7 +126,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;2;25;259;;;Otros conciertos de asistencia sanitaria
 2013;G;2;26;;;;Servicios sociales con medios ajenos
 2013;G;2;27;;;;Compras, suministros y otros gastos relacionados con la actividad
-2013;G;2;27;270;;;Compras, suministros y otros gastos
+2013;G;2;27;270/02005;;;Compras, suministros y otros gastos
 2013;G;2;27;270/25401;;;Suministros de materias primas y otros suministros
 2013;G;2;27;271;;;Servicios prestados por empresas
 2013;G;2;27;272;;;Otros gastos directamente relacionados con la actividad de la Agencia
@@ -141,24 +158,26 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;3;35;353;;;Intereses de demora por Sentencias, Recursos y Reclamaciones, incluidas obligaciones de ejercicios anteriores.
 2013;G;3;35;355;;;Compensaciones derivadas de la ejecución de avales frente al Tesoro Público
 2013;G;3;35;357;;;Gastos derivados de la acuñación y de la puesta en circulación de las monedas euros
-2013;G;3;35;358;;;Obligaciones de ejercicios anteriores, por intereses de demora
 2013;G;3;35;358/12401;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
+2013;G;3;35;358/17020;;;Obligaciones de ejercicios anteriores, por intereses de demora
 2013;G;3;35;358/19001;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
 2013;G;3;35;358/23018;;;Intereses de demora correspondientes a liquidaciones de ejercicios anteriores.
 2013;G;3;35;359;;;Otros gastos financieros
 2013;G;4;;;;;Transferencias corrientes
 2013;G;4;40;;;;A la Administración del Estado
-2013;G;4;40;400;;;A la Administración del Estado
+2013;G;4;40;400/15104;;;A la Administración del Estado
 2013;G;4;40;400/16101;;;Al Estado, para generar crédito en el Ministerio del Interior, según la DIsposición adicional segunda de la Ley Orgánica 6/2011
 2013;G;4;40;400/19101;;;Reserva de gestión directa del SPEE. Gestión de acciones y medidas de políticas activas de empleo en colaboración con órganos de la Administración General del Estado
 2013;G;4;40;400/25401;;;Al Estado
-2013;G;4;40;401;;;Al Estado
+2013;G;4;40;400/60002;;;A la Administración del Estado
+2013;G;4;40;401/16101;;;Al Estado
 2013;G;4;40;401/19101;;;"Reserva gestión directa del SPEE ""Cuotas de seguros de accidentes de alumnos, becas y/o ayudas a alumnos y subvenciones a centros y entidades de formación profesional para el empleo a parados, a órganos de la Administración General del Estado"""
 2013;G;4;40;401/20102;;;A la Administración del Estado.
 2013;G;4;40;402;;;Reserva gestión directa del SPEE. Gestión de acciones y medidas de políticas activas de empleo en colaboración con órganos de la Administración General del Estado
 2013;G;4;40;409;;;Por las transferencias a las Comunidades Autónomas en políticas activas de empleo
 2013;G;4;41;;;;A organismos autónomos
-2013;G;4;41;410;;;A organismos autónomos del Departamento
+2013;G;4;41;410/14001;;;A organismos autónomos del Departamento
+2013;G;4;41;410/14003;;;A organismos autónomos del Departamento
 2013;G;4;41;410/15005;;;Al Instituto de Estudios Fiscales
 2013;G;4;41;410/16002;;;A la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado
 2013;G;4;41;410/17020;;;Al Centro de Estudios y Experimentación de Obras Públicas. (C.E.D.E.X)
@@ -174,7 +193,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;41;410/26015;;;Al Instituto de la Juventud para el cumplimiento de sus fines
 2013;G;4;41;410/27011;;;Al Instituto Geológico y Minero de España (IGME)
 2013;G;4;41;410/31004;;;Al Parque Móvil del Estado
-2013;G;4;41;411;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
+2013;G;4;41;411/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
 2013;G;4;41;411/16005;;;A Trabajo Penitenciario y Formación para el Empleo
 2013;G;4;41;411/18001;;;Al Consejo Superior de Deportes para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado
 2013;G;4;41;411/19101;;;Reserva gestión directa SPEE. Acciones y medidas de políticas activas de empleo. Oportunidades de empleo y formación. Consejo de Administración del Patrimonio Nacional (Ministerio de Presidencia)
@@ -184,7 +203,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;41;411/26015;;;Al Consejo de la Juventud de España para el cumplimiento de sus fines
 2013;G;4;41;411/27011;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
 2013;G;4;41;411/31002;;;"Aportación del Estado  a la Mutualidad General  de Funcionarios Civiles del Estado,  al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, al amparo de las siguientes Disposiciones: artículo 30.3 del Real Decreto Legislativo 1/2000,  de 9 de junio;  artículo 24 y Disposición Adicional 3ª.3 del Real Decreto Legislativo 3/2000, de 23 de junio y  artículo 35.3 del Real Decreto Legislativo  4/2000, de 23 de junio, incluidas obligaciones de ejercicios anteriores"
-2013;G;4;41;412;;;Al Centro Nacional de Información Geográfica (CNIG)
+2013;G;4;41;412/17018;;;Al Centro Nacional de Información Geográfica (CNIG)
 2013;G;4;41;412/18007;;;A la Universidad Internacional Menéndez Pelayo para el Proyecto Aula de Verano
 2013;G;4;41;412/18009;;;A la Biblioteca Nacional
 2013;G;4;41;412/19003;;;Para financiar el presupuesto del Servicio Público de Empleo Estatal
@@ -194,76 +213,76 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;41;412/26004;;;Al Instituto Nacional del Consumo
 2013;G;4;41;412/27011;;;Al Instituto Español de Oceanografía (IEO)
 2013;G;4;41;412/27401;;;A la Universidad Internacional Menéndez Pelayo para el desarrollo de programas de postgrado
-2013;G;4;41;413;;;Al Fondo Español de Garantía Agraria (FEGA) para gastos de funcionamiento.
+2013;G;4;41;413/23011;;;Al Fondo Español de Garantía Agraria (FEGA) para gastos de funcionamiento.
 2013;G;4;41;413/26004;;;Al Instituto Nacional del Consumo, para compensar al I.C.O. los gastos derivados de los costes del margen de intermediación de las entidades de crédito y el quebranto en la cesión de fondos, derivados de la línea de mediación de anticipos a cuenta a los afectados de FORUM FILATÉLICO-AFINSA
 2013;G;4;41;413/27011;;;Al Instituto Geológico y Minero de España (IGME) para los gastos de la participación española en el Comité Polar
 2013;G;4;41;413/27401;;;Al Instituto Nacional de Técnicas Aeroespaciales Esteban Terradas (INTA)
-2013;G;4;41;414;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales
+2013;G;4;41;414/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales
 2013;G;4;41;414/23001;;;Subvención a la Entidad Estatal de Seguros Agrarios (ENESA) para gastos corrientes
 2013;G;4;41;414/26009;;;A la Organización Nacional de Trasplantes
 2013;G;4;41;414/27011;;;Al Instituto de Astrofísica de Canarias (IAC)
-2013;G;4;41;415;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales. Dotación del Fondo de Protección a la Cinematografía
+2013;G;4;41;415/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales. Dotación del Fondo de Protección a la Cinematografía
 2013;G;4;41;415/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo para el cumplimiento de sus fines.
 2013;G;4;41;415/19101;;;Al Instituto Nacional de Administración Pública, para la formación del personal al servicio de las Administraciones Públicas
 2013;G;4;41;415/26004;;;A la Agencia Española de Seguridad Alimentaria y Nutrición
 2013;G;4;41;415/27003;;;Al Instituto Nacional de Estadística (INE)
 2013;G;4;41;415/27011;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
-2013;G;4;41;416;;;Al Instituto Nacional de las Artes Escénicas y de la Música
+2013;G;4;41;416/18009;;;Al Instituto Nacional de las Artes Escénicas y de la Música
 2013;G;4;41;416/20015;;;Al Centro Español de Metrología
 2013;G;4;41;416/26021;;;Al Instituto de la Mujer para el cumplimiento de sus fines
 2013;G;4;41;416/27011;;;Al Instituto de Salud Carlos III (ISCIII)
-2013;G;4;41;417;;;Al Organismo Autónomo Programas Educativos Europeos
+2013;G;4;41;417/18006;;;Al Organismo Autónomo Programas Educativos Europeos
 2013;G;4;41;417/18009;;;A la Gerencia de Infraestructuras y Equipamientos de Cultura
 2013;G;4;41;417/25002;;;Al Consejo de Administración del Patrimonio Nacional
-2013;G;4;41;418;;;Al Instituto Nacional de Administración Pública (INAP)
+2013;G;4;41;418/15026;;;Al Instituto Nacional de Administración Pública (INAP)
 2013;G;4;41;418/27011;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) para el Fusion for Energy
-2013;G;4;41;419;;;Al Real Patronato sobre Discapacidad para el cumplimiento de sus fines
+2013;G;4;41;419/26015;;;Al Real Patronato sobre Discapacidad para el cumplimiento de sus fines
 2013;G;4;41;419/60001;;;Otras transferencias
 2013;G;4;42;;;;A la Seguridad Social
 2013;G;4;42;420;;;Prestaciones socio-económicas de carácter no contributivo.
-2013;G;4;42;421;;;Al Instituto Nacional de Gestión Sanitaria para el desarrollo del Plan de Calidad del Sistema Nacional de Salud, en las ciudades de Ceuta y Melilla (por incremento de la población protegida)
+2013;G;4;42;421/26007;;;Al Instituto Nacional de Gestión Sanitaria para el desarrollo del Plan de Calidad del Sistema Nacional de Salud, en las ciudades de Ceuta y Melilla (por incremento de la población protegida)
 2013;G;4;42;421/26009;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones corrientes del Instituto Nacional de Gestión Sanitaria
 2013;G;4;42;421/60001;;;Aportaciones para el sostenimiento de servicios comunes
-2013;G;4;42;422;;;Ayudas previas a la jubilación ordinaria a trabajadores mayores de 60 años en el sistema de la Seguridad Social.
+2013;G;4;42;422/19003;;;Ayudas previas a la jubilación ordinaria a trabajadores mayores de 60 años en el sistema de la Seguridad Social.
 2013;G;4;42;422/60001;;;Capitales renta
-2013;G;4;42;423;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.
+2013;G;4;42;423/19002;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.
 2013;G;4;42;423/60001;;;Cuotas de reaseguro de accidentes de trabajo
 2013;G;4;42;424;;;Al IMSERSO, para el cumplimiento de sus fines
-2013;G;4;42;425;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago
+2013;G;4;42;425/26009;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago
 2013;G;4;42;425/26015;;;Al IMSERSO para la cobertura de obligaciones de ejercicios anteriores por cuotas sociales de cuidadores no profesionales en dependencia (SAAD)
 2013;G;4;42;426;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM
-2013;G;4;42;427;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina (ISM)
+2013;G;4;42;427/26004;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina (ISM)
 2013;G;4;42;427/26015;;;Al IMSERSO para mínimo garantizado en dependencia.
 2013;G;4;42;428;;;Aplicaciones del Fondo de Prevención y Rehabilitación
-2013;G;4;42;429;;;Otras aportaciones a la Seguridad Social.
+2013;G;4;42;429/19002;;;Otras aportaciones a la Seguridad Social.
 2013;G;4;42;429/26015;;;Al IMSERSO para otros gastos en dependencia.
 2013;G;4;42;429/60001;;;Otras transferencias a entidades del sistema
 2013;G;4;42;429/60002;;;Otras transferencias a entidades del sistema
 2013;G;4;42;429/60003;;;Otras transferencias a entidades del sistema
 2013;G;4;43;;;;A agencias estatales y otros organismos públicos
-2013;G;4;43;430;;;A Agencias Estatales y otros Organismos Públicos
+2013;G;4;43;430/02003;;;A Agencias Estatales y otros Organismos Públicos
 2013;G;4;43;430/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrrollo.
 2013;G;4;43;430/15026;;;A la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios (AEVAL)
 2013;G;4;43;430/18001;;;A la Agencia Estatal Antidopaje
 2013;G;4;43;430/19101;;;Acciones y medidas de políticas activas de empleo a desarrollar en el exterior. Oportunidades de empleo y formación. A la Agencia Española de Cooperación Internacional para el Desarrollo (AECID)
 2013;G;4;43;430/23004;;;A la Agencia Estatal de Meteorología
 2013;G;4;43;430/27011;;;Al Consejo Superior de Investigaciones Científicas (CSIC)
-2013;G;4;43;431;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para los fines sociales que se realicen en el campo de la cooperación internacional (art. 2 del Real Decreto 825/1988, de 15 de julio). Porcentaje IRPF.
+2013;G;4;43;431/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para los fines sociales que se realicen en el campo de la cooperación internacional (art. 2 del Real Decreto 825/1988, de 15 de julio). Porcentaje IRPF.
 2013;G;4;43;431/19101;;;Reserva de gestión directa del SPEE. Oportunidades de empleo y fomento de la contratación de desempleados en obras y servicios de interés general y social por organismos autónomos de la A.G.E. Consejo Superior de Investigaciones Científicas
 2013;G;4;43;431/26004;;;A la Agencia Española de Medicamentos y Productos Sanitarios
 2013;G;4;43;431/27011;;;Al CSIC, líneas e instalaciones
 2013;G;4;43;432;;;Al CSIC para gastos de funcionamiento operativo de la flota oceanográfica española y las bases antárticas
-2013;G;4;43;435;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
+2013;G;4;43;435/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
 2013;G;4;43;435/16001;;;A la Agencia Estatal de Administración Tributaria, por los gastos comunes del edificio de la calle del Plomo en Madrid
 2013;G;4;43;435/19001;;;Al Consejo Económico y Social para el cumplimiento de sus fines
-2013;G;4;43;436;;;Al Consejo de Seguridad Nuclear
+2013;G;4;43;436/20018;;;Al Consejo de Seguridad Nuclear
 2013;G;4;43;436/27003;;;A la Comisión Nacional de la Competencia (CNC)
-2013;G;4;43;437;;;Al Instituto Cervantes
+2013;G;4;43;437/12003;;;Al Instituto Cervantes
 2013;G;4;43;437/18009;;;Al Museo Nacional del Prado
 2013;G;4;43;437/25002;;;Al Centro Nacional de Inteligencia
 2013;G;4;43;438;;;Al Museo Nacional Centro de Arte Reina Sofía
 2013;G;4;44;;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.
-2013;G;4;44;440;;;Subvenciones a Organismos
+2013;G;4;44;440/12004;;;Subvenciones a Organismos
 2013;G;4;44;440/12401;;;Instituciones adheridas en España
 2013;G;4;44;440/14001;;;Centros Universitarios de la Defensa
 2013;G;4;44;440/15001;;;Aportación del Estado al Consorcio para la conmemoración del primer Milenio de la Fundación Reino de Granada, correspondiente al ejercicio 2011, según convenio de colaboración
@@ -279,7 +298,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;44;440/23012;;;A la Asociación Española de Sociedades Españolas organizadoras de carreras de caballos y actividades hípicas, para subvencionar carreras nacionales de caballos españoles, premios y otras actividades relacionadas con las carreras
 2013;G;4;44;440/26102;;;Al Instituto de Crédito Oficial, para atender los gastos derivados de los costes del margen de intermediación de las entidades de crédito y el quebranto en la cesión de fondos derivados de la línea de mediación de anticipos a cuenta a los afectados de FORUM FILATÉLICO-AFINSA.
 2013;G;4;44;440/27202;;;Transferencias para actividades complementarias
-2013;G;4;44;441;;;A la Fundación Pluralismo y Convivencia
+2013;G;4;44;441/13001;;;A la Fundación Pluralismo y Convivencia
 2013;G;4;44;441/15001;;;Al Ente Público Radio Televisión Española (en liquidación)
 2013;G;4;44;441/16004;;;Colaboración con Universidades
 2013;G;4;44;441/16005;;;A la Universidad Nacional de Educación a Distancia para estudios universitarios de los reclusos
@@ -300,7 +319,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;44;441/23101;;;Subvención a la Fundación Biodiversidad para acciones de conservación en Proyecto LIFE-Urogallo Cantábrico
 2013;G;4;44;441/23207;;;Al Centro de Estudios e Investigación para la gestión de riesgos agrarios y medioambientales (CEIGRAM), para atender gastos que aseguren y den continuidad a su funcionamiento.
 2013;G;4;44;441/27205;;;A la Fundación Centro Nacional de Investigaciones Oncológicas Carlos III. Operaciones corrientes
-2013;G;4;44;442;;;A la Fundación Internacional y para IberoamérIca de Administración y Políticas Públicas
+2013;G;4;44;442/12003;;;A la Fundación Internacional y para IberoamérIca de Administración y Políticas Públicas
 2013;G;4;44;442/12401;;;Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas, para funcionamiento y actividades
 2013;G;4;44;442/15001;;;Al Grupo de la Corporación R.T.V.E.
 2013;G;4;44;442/16004;;;Centro Universitario Guardia Civil
@@ -314,33 +333,33 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;44;442/27101;;;Al Centro de Educación a Distancia para el Desarrollo Económico y Tecnológico
 2013;G;4;44;442/27205;;;A la Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III. Operaciones corrientes
 2013;G;4;44;442/27401;;;Aportación patronal y complementaria a la Fundación Residencia de Estudiantes
-2013;G;4;44;443;;;"Al Consorcio ""Ciudad de Santiago de Compostela"""
 2013;G;4;44;443/12401;;;Fundación Colegios Mayores MAEC-AECI
+2013;G;4;44;443/15001;;;"Al Consorcio ""Ciudad de Santiago de Compostela"""
 2013;G;4;44;443/16004;;;Al Centro Universitario Academia General Militar
 2013;G;4;44;443/18011;;;A la Fundación Lázaro Galdiano para gastos de funcionamiento
 2013;G;4;44;443/19101;;;A la Fundación Tripartita para la Formación en el Empleo, para gastos corrientes
 2013;G;4;44;443/26002;;;"A la ""Fundación Española para la Cooperación Internacional, Salud y Política Social"""
-2013;G;4;44;444;;;Al Consorcio de la Ciudad de Toledo
+2013;G;4;44;444/15001;;;Al Consorcio de la Ciudad de Toledo
 2013;G;4;44;444/27009;;;Para cobertura de las diferencias producidas por operaciones autorizadas al amparo de la Ley 11/1983, de subvención al crédito a la exportación a librar a través del Instituto de Crédito Oficial (ICO)
-2013;G;4;44;445;;;Al Consorcio de la Ciudad de Cuenca
+2013;G;4;44;445/15001;;;Al Consorcio de la Ciudad de Cuenca
 2013;G;4;44;445/18006;;;A la Fundación para la Proyección Internacional de las Universidades Españolas
 2013;G;4;44;445/18013;;;A la Fundación Instituto de Cultura Gitana para sus gastos de funcionamiento
 2013;G;4;44;445/27205;;;A la Fundación Centro de Investigación de Enfermedades Neurológicas. Operaciones corrientes
-2013;G;4;44;446;;;A la Fundación Residencia de Estudiantes para sus gastos de funcionamiento
+2013;G;4;44;446/18013;;;A la Fundación Residencia de Estudiantes para sus gastos de funcionamiento
 2013;G;4;44;446/20012;;;A la Entidad Pública Empresarial RED.es
 2013;G;4;44;446/27205;;;A Centros de Investigación Biomédica en Red (CIBER)
 2013;G;4;44;447;;;Transferencias a Entes Públicos Empresariales
-2013;G;4;44;448;;;Al Consorcio de la Zona Especial Canaria
+2013;G;4;44;448/15001;;;Al Consorcio de la Zona Especial Canaria
 2013;G;4;44;448/20012;;;Al Instituto Nacional de las Tecnologías de las Comunicaciones, S.A. (INTECO) (Plan León)
-2013;G;4;44;449;;;Al Patronato de la Obra Pía de los Santos Lugares de Jerusalén
+2013;G;4;44;449/12001;;;Al Patronato de la Obra Pía de los Santos Lugares de Jerusalén
 2013;G;4;44;449/27011;;;Transferencias, ayudas nominativas y otros
 2013;G;4;44;449/27012;;;Transferencias, ayudas nominativas y otros
 2013;G;4;44;449/27013;;;Transferencias, ayudas nominativas y otros
 2013;G;4;44;449/27014;;;Transferencias, ayudas nominativas y otros
 2013;G;4;44;449/60003;;;Otras transferencias
 2013;G;4;45;;;;A comunidades autónomas
-2013;G;4;45;450;;;Transferencias a CCAA.Formación Escuelas de Suboficiales
 2013;G;4;45;450/12401;;;Universidad Complutense de Madrid
+2013;G;4;45;450/14001;;;Transferencias a CCAA.Formación Escuelas de Suboficiales
 2013;G;4;45;450/15102;;;Formación para el Empleo en las Administraciones Públicas
 2013;G;4;45;450/16101;;;Gestión de cobro de tasas por las estaciones ITV
 2013;G;4;45;450/18004;;;Actuaciones en primer ciclo de educación infantil
@@ -357,7 +376,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;45;450/27202;;;Transferencias para actividades complementarias
 2013;G;4;45;450/27205;;;A CCAA para la investigación en terapia celular y medicina regenerativa. Operaciones corrientes
 2013;G;4;45;450/32001;;;Compensación financiera al País Vasco derivada del Impuesto Especial sobre las labores de tabaco,  incluso liquidación definitiva del ejercicio anterior
-2013;G;4;45;451;;;Transferencias corrientes a comunidades autónomas para compensar la pérdida por la rebaja de tarifas de peaje (Real Decreto-Ley 6/99)
+2013;G;4;45;451/17020;;;Transferencias corrientes a comunidades autónomas para compensar la pérdida por la rebaja de tarifas de peaje (Real Decreto-Ley 6/99)
 2013;G;4;45;451/18003;;;A universidades y otros organismos públicos para desarrollar cursos para profesores
 2013;G;4;45;451/18004;;;Para actividades de educación compensatoria
 2013;G;4;45;451/18201;;;Transferencias para actividades musicales de ámbito nacional e internacional
@@ -385,7 +404,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;45;451/36018;;;Fondo de Suficiencia Global
 2013;G;4;45;451/36019;;;Fondo de Suficiencia Global
 2013;G;4;45;451/60002;;;Para atención a personas en situación de dependencia
-2013;G;4;45;452;;;Para la concesión de ayudas a federaciones y confederaciones de asociaciones de padres de alumnos en que éstas se integren
+2013;G;4;45;452/18004;;;Para la concesión de ayudas a federaciones y confederaciones de asociaciones de padres de alumnos en que éstas se integren
 2013;G;4;45;452/18011;;;Para la actualización del Censo Guía de los Archivos Españoles
 2013;G;4;45;452/19101;;;Gestión por las Comunidades Autónomas de acciones y medidas del subsistema de formación profesional para el empleo , financiadas con la cuota de formación profesional
 2013;G;4;45;452/20102;;;Subvención a la Fundación de la Universidad Autónoma de Madrid para el estudio y difusión de los fondos históricos de la OEPM
@@ -393,7 +412,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;45;452/26021;;;Programas de Formacion y Fomento del Empleo Femenino
 2013;G;4;45;452/27205;;;A CCAA para el Programa de Estabilización e Intensificación de la Investigación
 2013;G;4;45;452/36020;;;Liquidación definitiva de la financiación de las Comunidades Autónomas y ciudades con Estatuto de Autonomía de ejercicios anteriores
-2013;G;4;45;453;;;A universidades y otras instituciones de carácter público para programas de formación del profesorado
+2013;G;4;45;453/18004;;;A universidades y otras instituciones de carácter público para programas de formación del profesorado
 2013;G;4;45;453/18005;;;Convenios con comunidades autónomas para el desarrollo de programas de acciones de compensación educativa e inserción laboral
 2013;G;4;45;453/20102;;;Fundación Bosch i Gimpera para la formación y la divulgación de la Propiedad Industrial
 2013;G;4;45;453/26009;;;Fondo de cohesión sanitaria.
@@ -402,7 +421,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;45;453/27401;;;Al consorcio CSIC-IRTA
 2013;G;4;45;453/32001;;;A la Comunidad Autónoma de Canarias para la financiación de las necesidades correspondientes al transporte regular de viajeros de las distintas Islas Canarias, según Convenio suscrito con el Estado.
 2013;G;4;45;453/36020;;;Aportación del Estado al Fondo de Garantía 2013
-2013;G;4;45;454;;;A comunidades autónomas para el impulso de la formación profesional
+2013;G;4;45;454/18005;;;A comunidades autónomas para el impulso de la formación profesional
 2013;G;4;45;454/18011;;;A comunidades autónomas para Patrimonio Bibliográfico Español y Patrimonio Digital
 2013;G;4;45;454/18201;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las CCAA
 2013;G;4;45;454/19101;;;Gestión por Comunidades Autónomas de acciones y medidas de políticas activas de empleo: empleo y formación
@@ -410,28 +429,29 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;45;454/26018;;;Para toda clase de gastos derivados del desarrollo del Observatorio Español sobre Drogas
 2013;G;4;45;454/27401;;;Al Parque Científico Aula Dei
 2013;G;4;45;454/32001;;;Al Consorcio Regional de Transportes de Madrid, para la financiación del transporte regular de viajeros, a cuenta del Contrato-Programa a suscribir con el Estado.
-2013;G;4;45;455;;;Para  compensar  a  la  Generalidad  de  Cataluña por  las  reducciones  de  peaje  realizadas  según  Convenio  de  colaboración con  la  Administración  General del  Estado  de  conformidad  con  la  Disposición  Adicional  Tercera  del  Estatuto  de  Cataluña
+2013;G;4;45;455/17020;;;Para  compensar  a  la  Generalidad  de  Cataluña por  las  reducciones  de  peaje  realizadas  según  Convenio  de  colaboración con  la  Administración  General del  Estado  de  conformidad  con  la  Disposición  Adicional  Tercera  del  Estatuto  de  Cataluña
 2013;G;4;45;455/18007;;;A la Universidad de Granada para atender la financiación que corresponda a los centros y enseñanzas universitarias en Ceuta y Melilla
 2013;G;4;45;455/19007;;;Acciones de integración en favor de los inmigrantes
 2013;G;4;45;455/19101;;;Planes Integrales de Empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con Comunidades Autónomas
 2013;G;4;45;455/32001;;;Financiación del Estado del coste de la jubilación anticipada de la policía autónoma vasca.
-2013;G;4;45;456;;;Aportación a las universidades como contribución por los costes derivados de su participación en el Programa Español de Ayudas para la Movilidad de Estudiantes Séneca
+2013;G;4;45;456/18007;;;Aportación a las universidades como contribución por los costes derivados de su participación en el Programa Español de Ayudas para la Movilidad de Estudiantes Séneca
 2013;G;4;45;456/18011;;;Otras subvenciones a comunidades autónomas
 2013;G;4;45;456/18106;;;A comunidades autónomas para gastos de funcionamiento de centros de alto rendimiento y tecnificación
 2013;G;4;45;456/19101;;;Gestión por CC.AA. de acciones y medidas establecidas por el R.D. 1224/2009 y desarrollo reglamentario del contrato para la formación y el aprendizaje
 2013;G;4;45;456/26018;;;Para toda clase de gastos derivados de programas de rehabilitación-reinserción de toxicómanos con problemas juridicopenales
-2013;G;4;45;457;;;A universidades para convenios de colaboración en formación e investigación
+2013;G;4;45;457/18011;;;A universidades para convenios de colaboración en formación e investigación
 2013;G;4;45;457/19101;;;A Comunidades Autónomas. Para actuaciones en centros nacionales de formación de desempleados y centros de referencia nacional
-2013;G;4;45;458;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado
 2013;G;4;45;458/19101;;;Para la modernización de los servicios públicos de empleo, según la ley 45/2002, de 12 de diciembre. Adaptación de los sistemas de información para el seguimiento de los perceptores de prestaciones por desempleo
+2013;G;4;45;458/26016;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado
 2013;G;4;45;458/26018;;;Para actividades de las Comunidades y Ciudades Autónomas en aplicación de la Ley 17/2003
-2013;G;4;45;459;;;Transferencias, ayudas nominativas y otros
 2013;G;4;45;459/19101;;;Formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad
+2013;G;4;45;459/27012;;;Transferencias, ayudas nominativas y otros
+2013;G;4;45;459/27014;;;Transferencias, ayudas nominativas y otros
 2013;G;4;45;459/60001;;;Otras transferencias corrientes
 2013;G;4;45;459/60002;;;Otras transferencias corrientes
 2013;G;4;46;;;;A entidades locales
-2013;G;4;46;460;;;"Al consorcio de derecho público Museo de Arte Contemporáneo ""Esteban Vicente"" para gastos de funcionamiento"
 2013;G;4;46;460/15102;;;Formación para el Empleo en las Administraciones Públicas
+2013;G;4;46;460/18011;;;"Al consorcio de derecho público Museo de Arte Contemporáneo ""Esteban Vicente"" para gastos de funcionamiento"
 2013;G;4;46;460/18103;;;Ayudas a la cinematografía a través de corporaciones locales
 2013;G;4;46;460/18106;;;A diputaciones provinciales a través de sus respectivas comunidades autónomas en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
 2013;G;4;46;460/18201;;;Para apoyo a la proyección exterior de entidades y formaciones musicales y teatrales de titularidad pública dependientes de CCLL
@@ -443,8 +463,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;46;460/26106;;;Para experiencias innovadoras
 2013;G;4;46;460/26201;;;"A Entidades de la Administración Local para proyectos del programa ""Juventud en acción"" de la Unión Europea."
 2013;G;4;46;460/36021;;;Transferencias a Ayuntamientos
-2013;G;4;46;461;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2013;G;4;46;461/15102;;;"Aportación al Ayuntamiento de Valdeavellano de Tera: Centro de formación ""ESPACIO VALDEAVELLANO"" (Plan Soria)"
+2013;G;4;46;461/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2013;G;4;46;461/16201;;;Convenios en materia de formación, orientación y acompañamiento para la reinserción laboral
 2013;G;4;46;461/18201;;;A festivales y otras actividades musicales de ámbito nacional
 2013;G;4;46;461/19007;;;Acciones en favor de la integración de los inmigrantes
@@ -453,19 +473,19 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;46;461/26102;;;Ayuda a la gestión de las Juntas Arbitrales adscritas a administraciones locales
 2013;G;4;46;461/32002;;;Transferencias a Ayuntamientos
 2013;G;4;46;461/36021;;;Transferencias a las Diputaciones y Cabildos Insulares
-2013;G;4;46;462;;;Subvención por gastos Juzgados de Paz (art. 52 Ley de Demarcación y de Planta Judicial)
+2013;G;4;46;462/13002;;;Subvención por gastos Juzgados de Paz (art. 52 Ley de Demarcación y de Planta Judicial)
 2013;G;4;46;462/18011;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento del Museo Puget
 2013;G;4;46;462/18103;;;A la empresa pública municipal Festival de Cine de Málaga e Iniciativas Audiovisuales, S.A. para la celebración del Festival de Cine de Málaga
 2013;G;4;46;462/19101;;;Formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad: Territorio no transferido: Ceuta y Melilla
 2013;G;4;46;462/23101;;;Corporaciones Locales del Área de Influencia Socioeconómica de los Parques Nacionales para indemnizaciones por pérdida de renta, amparadas en la disposición adicional quinta de la Ley 5/2007, de 3 de abril.
 2013;G;4;46;462/26018;;;A CC.LL en aplicación de la Ley 17/2003
 2013;G;4;46;462/32002;;;A Corporaciones Locales para cofinanciar los servicios de transporte colectivo urbano
-2013;G;4;46;463;;;Para subvencionar convenios con ayuntamientos que desarrollan el Proyecto MENTOR para la formación a distancia con nuevas tecnologías
+2013;G;4;46;463/18005;;;Para subvencionar convenios con ayuntamientos que desarrollan el Proyecto MENTOR para la formación a distancia con nuevas tecnologías
 2013;G;4;46;463/18011;;;A entidades locales para preservación del Patrimonio Digital
 2013;G;4;46;463/18103;;;Al Festival Internacional de Cine de San Sebastián, S.A.
 2013;G;4;46;463/23101;;;Convenios de Colaboración con el Ayto. La Granja de San Ildefonso para el apoyo mutuo en materia de desarrollo sostenible y en el ámbito de sus respectivas actividades.
 2013;G;4;46;463/32002;;;A los Ayuntamientos de Ceuta y Melilla para financiar los costes de funcionamiento de las plantas desalinizadoras
-2013;G;4;46;464;;;Depósitos Municipales
+2013;G;4;46;464/16005;;;Depósitos Municipales
 2013;G;4;46;464/18011;;;A la Diputación de Granada para el Centro José Guerrero
 2013;G;4;46;464/18103;;;Al Festival Internacional de Cine de Huelva
 2013;G;4;46;464/18201;;;Programa de apoyo a festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales
@@ -474,7 +494,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;46;466;;;A la Fundación Artium para gastos de funcionamiento del Centro-Museo Vasco de Arte Contemporáneo Artium
 2013;G;4;46;468;;;Liquidación definitiva de la participación en los ingresos del Estado de las Corporaciones Locales, correspondiente a ejercicios anteriores y compensaciones derivadas del Nuevo Modelo de Financiación Local
 2013;G;4;47;;;;A empresas privadas
-2013;G;4;47;470;;;Transferencia corriente de las Cortes a Empresas privadas
+2013;G;4;47;470/02002;;;Transferencia corriente de las Cortes a Empresas privadas
 2013;G;4;47;470/02003;;;A empresas privadas
 2013;G;4;47;470/15401;;;Cuotas Nacionales
 2013;G;4;47;470/17020;;;Para compensar a  Autopista  Vasco-Aragonesa, Concesionaria Española, S.A.
@@ -487,7 +507,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;47;470/23211;;;Subvenciones a la producción agraria con aportación financiera del FEAGA.
 2013;G;4;47;470/26021;;;Programas de incentivación de planes de igualdad para pyme
 2013;G;4;47;470/27010;;;Premios al pequeño comerciante para el desarrollo comercial y la modernización empresarial
-2013;G;4;47;471;;;Por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia
+2013;G;4;47;471/16001;;;Por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia
 2013;G;4;47;471/17001;;;Abono de indemnizaciones por Sentencias de Tribunales
 2013;G;4;47;471/17020;;;Para compensar a Autopistas, Concesionaria Española, S.A., por la gratuidad del trayecto de ida de los movimientos entre Alfajarín y Fraga, según Convenio.
 2013;G;4;47;471/17034;;;Contrato de Servicio de Transporte aéreo para satisfacer obligaciones de servicio público en Menorca
@@ -502,7 +522,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;47;471/23001;;;Para cumplimiento de sentencias de los Tribunales de Justicia.
 2013;G;4;47;471/23207;;;Plan Anual de Seguros Agrarios y liquidación de Planes anteriores.
 2013;G;4;47;471/60001;;;Entregas de botiquines
-2013;G;4;47;472;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2013;G;4;47;472/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2013;G;4;47;472/17020;;;Subvención al funcionamiento de las Autopistas del Mar entre España y Francia.
 2013;G;4;47;472/18103;;;Subvenciones a festivales nacionales e internacionales
 2013;G;4;47;472/19101;;;Gestión de acciones y medidas de políticas activas de empleo en territorio no transferido
@@ -510,23 +530,23 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;47;472/23014;;;"Convenio de colaboración con la Fundación Dieta Mediterránea, para promocionar las características de la ""dieta mediterránea"" y los productos que la componen"
 2013;G;4;47;472/23211;;;Importes inherentes a actuaciones, no asumidos por la U.E.
 2013;G;4;47;472/60001;;;Ayudas para balsas de salvamento
-2013;G;4;47;473;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99)
+2013;G;4;47;473/17020;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje (R.D.L. 6/99)
 2013;G;4;47;473/18011;;;Ayudas a proyectos de conservación, protección y difusión de bienes declarados patrimonio cultural
 2013;G;4;47;473/18201;;;Giras y producciones de personas y conjuntos musicales y coreográficos
 2013;G;4;47;473/23211;;;Subvenciones nacionales para la cofinanciación de ayudas con Fondos Europeos Agrícolas
 2013;G;4;47;473/60001;;;Para incentivos a la reducción de la siniestralidad laboral y a actuaciones de prevención de riesgos profesionales
 2013;G;4;47;473/60003;;;Para incentivos a la reducción de la siniestralidad laboral y a actuaciones de prevención de riesgos profesionales
-2013;G;4;47;474;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A.
+2013;G;4;47;474/17020;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A.
 2013;G;4;47;474/20101;;;Para cubrir costes sociales y técnicos, así como obligaciones contractuales, derivadas de la reordenación del sector del carbón
-2013;G;4;47;475;;;Para compensar a las Sociedades Concesionarias de Autopistas de Peaje por la modificación temporal de las tarifas de acuerdo con lo dispuesto en el Real Decreto Ley 11/2001, de 22 de junio.
+2013;G;4;47;475/17020;;;Para compensar a las Sociedades Concesionarias de Autopistas de Peaje por la modificación temporal de las tarifas de acuerdo con lo dispuesto en el Real Decreto Ley 11/2001, de 22 de junio.
 2013;G;4;47;475/18201;;;A programas de difusión nacional de la dramaturgia actual y de preservación y difusión del teatro clásico y desarrollo de la actividad circense a través de planes de comunicación y difusión en España
 2013;G;4;47;476;;;Para compensar a Autopista Madrid-Toledo en cumplimiento de sentencia del Tribunal Supremo de 16 de Mayo de 2011.
-2013;G;4;47;477;;;Para compensar a Autopistas del Atlántico, Concesionaria Española, S.A. por la supresión del peaje de los movimientos O Morrazo - Vigo y A Coruña - A Barcala, e inversos
+2013;G;4;47;477/17020;;;Para compensar a Autopistas del Atlántico, Concesionaria Española, S.A. por la supresión del peaje de los movimientos O Morrazo - Vigo y A Coruña - A Barcala, e inversos
 2013;G;4;47;477/18013;;;Ayudas para empresas editoras de revistas de cultura en castellano y otras lenguas cooficiales distintas del castellano
 2013;G;4;47;478;;;Subvención al transporte marítimo y aéreo de mercancías entre la Península y las Islas o entre éstas y la Península, así como entre las Islas y el de exportación de las mismas a países extranjeros de acuerdo con la legislación vigente.
 2013;G;4;47;479;;;Para compensar a Autopistas, Concesionaria Española, S.A. por las reducciones de peaje en la autopista AP-7 a su paso por Girona, según Convenio a desarrollar.
 2013;G;4;48;;;;A familias e instituciones sin fines de lucro
-2013;G;4;48;480;;;A S.M. el Rey. Para el sostenimiento de su Familia y Casa (Art. 65 de la Constitución)
+2013;G;4;48;480/01001;;;A S.M. el Rey. Para el sostenimiento de su Familia y Casa (Art. 65 de la Constitución)
 2013;G;4;48;480/02001;;;A Familias e Instituciones sin fines de lucro
 2013;G;4;48;480/02002;;;A Familias e Instituciones sin fines de lucro
 2013;G;4;48;480/02003;;;A familias e instituciones sin fines de lucro
@@ -585,7 +605,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;480/27301;;;Becas de postgrado en asuntos de defensa de la competencia
 2013;G;4;48;480/60002;;;A Familias e instituciones sin fines de lucro
 2013;G;4;48;480/60003;;;A Familias e instituciones sin fines de lucro
-2013;G;4;48;481;;;"Pensiones a ex-Presidentes del Tribunal de Cuentas. (Leyes 4/74, de 13.02 ; 74/80, de 29.12 y 21/86 de 23.12)"
+2013;G;4;48;481/03001;;;"Pensiones a ex-Presidentes del Tribunal de Cuentas. (Leyes 4/74, de 13.02 ; 74/80, de 29.12 y 21/86 de 23.12)"
 2013;G;4;48;481/04001;;;Remuneraciones de transición Magistrados (art. 25.1 Ley Orgánica del Tribunal Constitucional, 2/1979, de 3 de octubre)
 2013;G;4;48;481/07003;;;Pensiones e indemnizaciones de guerra
 2013;G;4;48;481/08001;;;Pensiones e indemnizaciones a favor del Presidente del Consejo (art. 10.5 Ley 74/1980)
@@ -647,7 +667,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;481/27401;;;A la Fundación CESGA, aportación patronal a los gastos de funcionamiento
 2013;G;4;48;481/60001;;;Pensiones
 2013;G;4;48;481/60002;;;Pensiones
-2013;G;4;48;482;;;Remuneraciones de transición a ex- Consejeros de Cuentas (Ley 4/90 de 29.6)
+2013;G;4;48;482/03001;;;Remuneraciones de transición a ex- Consejeros de Cuentas (Ley 4/90 de 29.6)
 2013;G;4;48;482/04001;;;A la Asociación de Letrados del Tribunal Constitucional
 2013;G;4;48;482/05001;;;Indemnizaciones
 2013;G;4;48;482/08001;;;Remuneraciones de transición a Vocales de Consejo (Art. 121 Ley Organica 6/85)
@@ -702,7 +722,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;482/27201;;;Cuotas asociaciones
 2013;G;4;48;482/27301;;;Indemnización a expresidentes y exconsejeros de la CNC
 2013;G;4;48;482/60001;;;Incapacidad temporal y riesgo durante el embarazo
-2013;G;4;48;483;;;A Asociaciones Judiciales
+2013;G;4;48;483/08001;;;A Asociaciones Judiciales
 2013;G;4;48;483/13002;;;Al Consejo General de la Abogacía Española como aportación del Estado para indemnizar a los abogados en los asuntos de asistencia jurídica gratuita
 2013;G;4;48;483/13102;;;Asistencia Social
 2013;G;4;48;483/14113;;;Asistencia Social
@@ -748,7 +768,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;483/27205;;;Programa de Recursos Humanos y Difusión de la Investigación Biomédica del Fondo de Investigación Sanitaria e Investigación Intramural
 2013;G;4;48;483/27401;;;Otras transferencias
 2013;G;4;48;483/60001;;;Recargos por faltas de medidas de seguridad e higiene en el trabajo
-2013;G;4;48;484;;;Ayudas a la formación
+2013;G;4;48;484/08001;;;Ayudas a la formación
 2013;G;4;48;484/12003;;;Ayudas en el ámbito de la cooperación internacional
 2013;G;4;48;484/12401;;;Para los fines sociales que se realicen en el campo de la cooperación internacional (art.2.del Real Decreto 825/1988 de 15 de julio). Porcentaje IRPF
 2013;G;4;48;484/13002;;;Al Consejo General de los Procuradores de España como aportación del Estado para indemnizar a los procuradores en los asuntos de asistencia jurídica gratuita
@@ -791,8 +811,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;484/27205;;;Convenios con entidades sin fines de lucro
 2013;G;4;48;484/27401;;;Cuotas y subvenciones a instituciones y sociedades españolas sin fines de lucro para el fomento de la investigación
 2013;G;4;48;484/60001;;;Prestacion por maternidad
-2013;G;4;48;485;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
 2013;G;4;48;485/13102;;;Prótesis y otras prestaciones
+2013;G;4;48;485/14001;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
+2013;G;4;48;485/14012;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
 2013;G;4;48;485/14111;;;A organismos específicos, servicios, etc.
 2013;G;4;48;485/14113;;;Prótesis y otras prestaciones
 2013;G;4;48;485/15106;;;Prótesis y otras prestaciones
@@ -828,7 +849,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;485/27101;;;Premio INE a la Estadística Pública
 2013;G;4;48;485/27205;;;RE-LAB A la Universidad Complutense de Madrid. Facultad de Veterinaria
 2013;G;4;48;485/60001;;;Proteccion a la familia
-2013;G;4;48;486;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional
+2013;G;4;48;486/12003;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional
 2013;G;4;48;486/12401;;;Para Ayuda Oficial al Desarrollo
 2013;G;4;48;486/13102;;;Prestaciones económicas Mutualidades Integradas
 2013;G;4;48;486/14001;;;Fondo de reconocimiento de servicios prestados en el territorio de Ifni-Sahara
@@ -855,7 +876,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;486/26201;;;Convocatoria de premios Injuve
 2013;G;4;48;486/27004;;;Indemnizaciones a los afectados por el síndrome tóxico, según Sentencia de la Sala Segunda del Tribunal Supremo de 26 de septiembre de 1997
 2013;G;4;48;486/60001;;;Indemnizaciones y entregas unicas reglamentarias
-2013;G;4;48;487;;;Becas formación
+2013;G;4;48;487/04001;;;Becas formación
 2013;G;4;48;487/12003;;;Premio Bartolomé de las Casas
 2013;G;4;48;487/14001;;;Becas de estudios para personal de las Fuerzas Armadas
 2013;G;4;48;487/16001;;;"Indemnizaciones artículos 139 al 144 de la L.R.J.A.P. y del P.A.C.; y Ley 52/84"
@@ -883,7 +904,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;487/27205;;;A la Asociación para el Registro y Estudio de Malformaciones Congénitas
 2013;G;4;48;487/60001;;;Prestaciones sociales
 2013;G;4;48;487/60002;;;Prestaciones sociales
-2013;G;4;48;488;;;Para actividades de promoción de asuntos de la Unión Europea
+2013;G;4;48;488/12002;;;Para actividades de promoción de asuntos de la Unión Europea
 2013;G;4;48;488/13002;;;Al Consejo General de Colegios Oficiales de Psicólogos para asistencia psicólogica a las victimas
 2013;G;4;48;488/14001;;;Ayudas a alumnos extranjeros en centros docentes de las Fuerzas Armadas
 2013;G;4;48;488/14012;;;Ayudas a alumnos extranjeros en centros docentes de las FAS
@@ -903,8 +924,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;488/26021;;;A la Confederación Española de Organizaciones Empresariales (CEOE) para realizar el Programa de desarrollo de liderazgo y promoción de mujeres directivas
 2013;G;4;48;488/60001;;;Otras prestaciones e indemnizaciones
 2013;G;4;48;488/60002;;;Otras prestaciones e indemnizaciones
-2013;G;4;48;489;;;Indemnizaciones derivadas de la aplicación del Real Decreto Ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad
 2013;G;4;48;489/12401;;;Instituciones sin fines de lucro
+2013;G;4;48;489/14001;;;Indemnizaciones derivadas de la aplicación del Real Decreto Ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad
 2013;G;4;48;489/15102;;;A la FEMP. Comisión de Formación para el Empleo de la Administración Local
 2013;G;4;48;489/16001;;;A la Cruz Roja Española, por su participación en la Operación Paso del Estrecho y en otras actividades de protección civil
 2013;G;4;48;489/16005;;;A Cáritas Española para facilitar la aplicación de los programas con personas sentenciadas a penas no privativas de libertad
@@ -928,7 +949,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;48;489/60001;;;Farmacia (Recetas Medicas)
 2013;G;4;48;489/60002;;;Farmacia (Recetas Medicas)
 2013;G;4;49;;;;Al exterior
-2013;G;4;49;490;;;Al exterior
+2013;G;4;49;490/02001;;;Al exterior
+2013;G;4;49;490/02003;;;Al exterior
 2013;G;4;49;490/03001;;;Cuota de España al INTOSAI y OLACEFS
 2013;G;4;49;490/08001;;;Cuotas a Organismos Internacionales
 2013;G;4;49;490/14001;;;A organismos internacionales
@@ -968,7 +990,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;49;490/27204;;;Cuotas y contribuciones a organismos internacionales
 2013;G;4;49;490/27205;;;Cuotas y convenios internacionales
 2013;G;4;49;490/60001;;;Al Exterior
-2013;G;4;49;491;;;A instituciones sin fines de lucro con proyección en el exterior
+2013;G;4;49;491/12001;;;A instituciones sin fines de lucro con proyección en el exterior
 2013;G;4;49;491/13001;;;Conferencia de Ministros de Justicia de Países Iberoamericanos
 2013;G;4;49;491/13101;;;Cuotas y aportaciones Organismos Internacionales
 2013;G;4;49;491/15005;;;Aportación a la  O.C.D.E. para la financiación del Forum Global sobre Transparencia e Intercambio de Información tributaria
@@ -1004,7 +1026,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;49;491/27202;;;Cuotas y gastos derivados de la participación española en otros organismos internacionales
 2013;G;4;49;491/27203;;;Pago de cuotas a organismos internacionales
 2013;G;4;49;491/34001;;;Aportación a la Unión Europea por recurso propio procedente del IVA
-2013;G;4;49;492;;;Participación en Organismos Internacionales, incluidas obligaciones de ejercicios anteriores
+2013;G;4;49;492/12003;;;Participación en Organismos Internacionales, incluidas obligaciones de ejercicios anteriores
 2013;G;4;49;492/12004;;;Participación en Organismos Internacionales, incluídas obligaciones de ejercicios anteriores
 2013;G;4;49;492/12401;;;Entidades culturales en el exterior
 2013;G;4;49;492/13001;;;Cuota al Instituto de las Naciones Unidas para la prevención del delito y tratamiento del delincuente
@@ -1029,7 +1051,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;49;492/26401;;;Pharmaceutical Inspection Convention
 2013;G;4;49;492/27201;;;Contribución voluntaria a la Organización Internacional de la Energía Atómica (OIEA)
 2013;G;4;49;492/34001;;;Aportación a la Unión Europea por recurso propio basado en la Renta Nacional Bruta (RNB)
-2013;G;4;49;493;;;Protección de españoles en el extranjero: asistencia social, evacuaciones, hospitalizaciones y repatriaciones
+2013;G;4;49;493/12001;;;Protección de españoles en el extranjero: asistencia social, evacuaciones, hospitalizaciones y repatriaciones
 2013;G;4;49;493/12401;;;Participación en Organismos Internacionales
 2013;G;4;49;493/13001;;;GRECO - Grupo de Estados contra la Corrupción
 2013;G;4;49;493/15008;;;Cuota a EUROGEOGRAPHICS
@@ -1044,7 +1066,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;49;493/26401;;;Acuerdo Parcial de la Farmacopea Europea
 2013;G;4;49;493/27201;;;Cuotas a asociaciones internacionales relacionadas con la energía y el medio ambiente
 2013;G;4;49;493/34001;;;Aportación a la Unión Europea por la recaudación líquida en España de los recursos propios tradicionales
-2013;G;4;49;494;;;Asistencia en el extranjero a beneficiarios de asilo en España
+2013;G;4;49;494/12001;;;Asistencia en el extranjero a beneficiarios de asilo en España
 2013;G;4;49;494/12401;;;Acuerdo Sede SEGIB
 2013;G;4;49;494/15004;;;Cuota Organización PuRE-net  (Public Real Estate Network)
 2013;G;4;49;494/15102;;;Al Instituto Internacional de Ciencias Administrativas
@@ -1057,21 +1079,21 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;4;49;494/27009;;;Cuotas participación en organismos de comercio internacional
 2013;G;4;49;494/27202;;;Cuotas y gastos derivados de la representación española ante la OCDE
 2013;G;4;49;494/34001;;;Aportación a la Unión Europea por prestación de servicios
-2013;G;4;49;495;;;"Cuota participación en ""Asociación Iberoamericana de Tribunales de Justicia Fiscal o Administrativa"""
+2013;G;4;49;495/15009;;;"Cuota participación en ""Asociación Iberoamericana de Tribunales de Justicia Fiscal o Administrativa"""
 2013;G;4;49;495/16003;;;Cooperación Internacional con otros países: Ayudas directas
 2013;G;4;49;495/20012;;;Para satisfacer las obligaciones que se deriven para España del cumplimiento del Convenio Internacional de Telecomunicaciones (Nairobi 1982) y con la Secretaría General de la Unión Internacional de las Telecomunicaciones
 2013;G;4;49;495/26401;;;Contribución para el mantenimiento de la aplicación CESP (Common Electronic Submission Portal) para el procedimiento de reconocimiento mutuo de medicamentos autorizados
-2013;G;4;49;496;;;Cuota a la Asociación XBRL España
 2013;G;4;49;496/12401;;;Para Ayuda Oficial al Desarrollo
+2013;G;4;49;496/15004;;;Cuota a la Asociación XBRL España
 2013;G;4;49;496/16003;;;Cooperación Internacional con otros países: Formación
 2013;G;4;49;496/16004;;;Cooperación Internacional: Formación
 2013;G;4;49;496/20012;;;Cuota a la Asociación para el Cumplimiento de los Equipos Radio y Terminales de Telecomunicación (R&TTE CA)
 2013;G;4;49;496/27007;;;Cuotas a Organizaciones Internacionales de Seguros
 2013;G;4;49;496/27202;;;Transferencias derivadas de las actividades de cooperación con el CGIAR
-2013;G;4;49;497;;;Asistencia a ciudadanía que afronta condenas de pena de muerte
+2013;G;4;49;497/12001;;;Asistencia a ciudadanía que afronta condenas de pena de muerte
 2013;G;4;49;497/15004;;;Cuota al Centro Europeo de Empresas Públicas (CEEP)
 2013;G;4;49;498;;;Contribución del Gobierno Español al Programa Comunitario INTERACT
-2013;G;4;49;499;;;A la Iniciativa Ambient Asistent Living Association (AAL)
+2013;G;4;49;499/20012;;;A la Iniciativa Ambient Asistent Living Association (AAL)
 2013;G;4;49;499/23002;;;Deuda Histórica por cuotas obligatorias a Organismos Internacionales pendientes de años anteriores
 2013;G;4;49;499/27012;;;Transferencias, ayudas nominativas y otros
 2013;G;5;;;;;Fondo de contingencia y otros imprevistos
@@ -1082,7 +1104,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;6;60;600;;;Inversiones en terrenos
 2013;G;6;60;601;;;Otras
 2013;G;6;60;602;;;Actuaciones de restauración forestal y medioambiental RDL 25/2012
-2013;G;6;60;609;;;Incidencias de inversiones de ejercicios anteriores.
+2013;G;6;60;609/17009;;;Incidencias de inversiones de ejercicios anteriores.
 2013;G;6;60;609/17038;;;Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
 2013;G;6;60;609/17040;;;Expropiaciones, Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
 2013;G;6;60;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
@@ -1091,7 +1113,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;6;61;610;;;Inversiones en terrenos
 2013;G;6;61;611;;;Otras
 2013;G;6;61;612;;;Otras inversiones del medio natural y política forestal
-2013;G;6;61;619;;;Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2013;G;6;61;619/17038;;;Modificados, Adicionales y otras incidencias de inversiones de ejercicios anteriores.
 2013;G;6;61;619/23005;;;Incidencias de inversiones de ejercicios anteriores.
 2013;G;6;61;619/23018;;;Incidencias de inversiones de ejercicios anteriores
 2013;G;6;62;;;;Inv. nueva asociada al funcionamiento operativo de los serv.
@@ -1101,7 +1123,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;6;62;628;;;Patrimonio Sindical Acumulado
 2013;G;6;63;;;;Inv. de reposición asociada al func. operativo de los serv.
 2013;G;6;63;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios
-2013;G;6;63;631;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales
+2013;G;6;63;631/18011;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales
 2013;G;6;63;631/25301;;;Inversión de cualquier naturaleza del CNI
 2013;G;6;63;638;;;Patrimonio Sindical Acumulado
 2013;G;6;64;;;;Gastos de inversiones de carácter inmaterial
@@ -1120,7 +1142,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;70;;;;A la Administración del Estado
 2013;G;7;70;700;;;Al Estado. Ayudas Desarrollo Rural.FEGA Organismo pagador
 2013;G;7;71;;;;A organismos autónomos
-2013;G;7;71;710;;;A organismos autónomos del Departamento
+2013;G;7;71;710/14001;;;A organismos autónomos del Departamento
+2013;G;7;71;710/14003;;;A organismos autónomos del Departamento
 2013;G;7;71;710/15005;;;Al Instituto de Estudios Fiscales
 2013;G;7;71;710/16005;;;A Trabajo Penitenciario y Formación para el Empleo
 2013;G;7;71;710/17020;;;Al Centro de Estudios y Experimentación de Obras Públicas. (C.E.D.E.X)
@@ -1133,51 +1156,51 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;71;710/27011;;;Al Instituto Geológico y Minero de España (IGME)
 2013;G;7;71;710/27202;;;Al Instituto de Salud Carlos III (ISCIII)
 2013;G;7;71;710/31004;;;Al Parque Móvil del Estado
-2013;G;7;71;711;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
+2013;G;7;71;711/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
 2013;G;7;71;711/18001;;;Al Consejo Superior de Deportes para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado
 2013;G;7;71;711/23005;;;A la Confederación Hidrográfica del Guadiana para el Plan Especial Alto Guadiana y Llanura Manchega
 2013;G;7;71;711/25002;;;Al Centro de Investigaciones Sociológicas.
 2013;G;7;71;711/26007;;;Al Instituto de Salud Carlos III para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias
 2013;G;7;71;711/26015;;;Al Consejo de la Juventud de España
 2013;G;7;71;711/27011;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
-2013;G;7;71;712;;;Al Centro Nacional de Información Geográfica (CNIG).
+2013;G;7;71;712/17018;;;Al Centro Nacional de Información Geográfica (CNIG).
 2013;G;7;71;712/18009;;;A la Biblioteca Nacional
 2013;G;7;71;712/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo
 2013;G;7;71;712/20018;;;Al Instituto para la Reestructuración de la Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras
 2013;G;7;71;712/23001;;;Subvención a la Agencia para el Aceite de Oliva (AAO), para gastos de capital
 2013;G;7;71;712/26004;;;Al Instituto Nacional del Consumo
 2013;G;7;71;712/27011;;;Al Instituto Español de Oceanografía (IEO)
-2013;G;7;71;713;;;Para financiar el presupuesto del SPEE
+2013;G;7;71;713/19003;;;Para financiar el presupuesto del SPEE
 2013;G;7;71;713/20004;;;Al Instituto de Turismo de España
 2013;G;7;71;713/23005;;;A la C. H. del Júcar para apoyo en la ejecución de obras con financiación FEDER
 2013;G;7;71;713/23011;;;Al Fondo Español de Garantía Agraria (FEGA) para gastos de capital.
-2013;G;7;71;714;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales
+2013;G;7;71;714/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales
 2013;G;7;71;714/23001;;;Subvención a la Entidad Estatal de Seguros Agrarios (ENESA) para gastos de capital
 2013;G;7;71;714/26009;;;A la Organización Nacional de Trasplantes
 2013;G;7;71;714/27003;;;Al Instituto Nacional de Estadística (INE)
 2013;G;7;71;714/27011;;;Al Instituto de Astrofísica de Canarias (IAC)
-2013;G;7;71;715;;;A la Agencia Española de Seguridad Alimentaria y Nutrición
+2013;G;7;71;715/26004;;;A la Agencia Española de Seguridad Alimentaria y Nutrición
 2013;G;7;71;715/27011;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
-2013;G;7;71;716;;;Al Instituto Nacional de las Artes Escénicas y de la Música
+2013;G;7;71;716/18009;;;Al Instituto Nacional de las Artes Escénicas y de la Música
 2013;G;7;71;716/20015;;;Al Centro Español de Metrología
 2013;G;7;71;716/26021;;;Al Instituto de la Mujer
 2013;G;7;71;716/27011;;;Al Instituto de Salud Carlos III (ISCIII)
-2013;G;7;71;717;;;Al Organismo Autónomo Programas Educativos Europeos
+2013;G;7;71;717/18006;;;Al Organismo Autónomo Programas Educativos Europeos
 2013;G;7;71;717/18009;;;A la Gerencia de Infraestructuras y Equipamientos de Cultura
 2013;G;7;71;717/25002;;;Al Consejo de Administración del Patrimonio Nacional
-2013;G;7;71;718;;;Al Instituto Nacional de Administración Pública (INAP)
+2013;G;7;71;718/15026;;;Al Instituto Nacional de Administración Pública (INAP)
 2013;G;7;71;718/23014;;;Al Fondo Español de Garantia Agraria (FEGA) para cofinanciación Programas de Desarrollo Rural
 2013;G;7;71;718/23018;;;Al Fondo Español de Garantía Agraria (FEGA) para cofinanciación Programas de Desarrollo Rural
 2013;G;7;71;719;;;Al Real Patronato sobre Discapacidad
 2013;G;7;72;;;;A la Seguridad Social
-2013;G;7;72;720;;;Al IMSERSO, para el cumplimiento de sus fines
+2013;G;7;72;720/26015;;;Al IMSERSO, para el cumplimiento de sus fines
 2013;G;7;72;720/60001;;;A la Seguridad Social
 2013;G;7;72;720/60003;;;A la Seguridad Social
 2013;G;7;72;721;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones de capital del Instituto Nacional de Gestión Sanitaria
 2013;G;7;72;726;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del Instituto Social de la Marina
 2013;G;7;72;729;;;Al IMSERSO para otros gastos en dependencia.
 2013;G;7;73;;;;A agencias estatales y otros organismos públicos
-2013;G;7;73;730;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamnetales, con destino a países en vías desarrollo.
+2013;G;7;73;730/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamnetales, con destino a países en vías desarrollo.
 2013;G;7;73;730/15026;;;A la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios (AEVAL)
 2013;G;7;73;730/17009;;;Al Consejo Superior de Investigaciones Científicas
 2013;G;7;73;730/18001;;;A la Agencia Estatal Antidopaje
@@ -1185,15 +1208,15 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;73;730/27011;;;Al Consejo Superior de Investigaciones Científicas (CSIC)
 2013;G;7;73;730/27202;;;Al Consejo Superior de Investigaciones Científicas (CSIC)
 2013;G;7;73;731;;;Al Consejo Superior de Investigaciones Científicas (CSIC) para remodelación de la Base Antártica Juan Carlos I
-2013;G;7;73;735;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
+2013;G;7;73;735/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
 2013;G;7;73;735/19001;;;Al Consejo Económico y Social
 2013;G;7;73;736;;;A la Comisión Nacional de la Competencia (CNC)
-2013;G;7;73;737;;;Al Instituto Cervantes
+2013;G;7;73;737/12003;;;Al Instituto Cervantes
 2013;G;7;73;737/18009;;;Al Museo Nacional del Prado
 2013;G;7;73;737/25002;;;Al Centro Nacional de Inteligencia
 2013;G;7;73;738;;;Al Museo Nacional Centro de Arte Reina Sofía
 2013;G;7;74;;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.
-2013;G;7;74;740;;;Centros Universitarios de la Defensa
+2013;G;7;74;740/14001;;;Centros Universitarios de la Defensa
 2013;G;7;74;740/17034;;;Al ICO para dar cumplimiento al convenio de colaboración de este Organismo con el Ministerio de Fomento sobre cobertura parcial de riesgo de las líneas de crédito a las Compañías Aéreas, incluidos los gastos de gestión y posibles quebrantos financieros.
 2013;G;7;74;740/18006;;;A la Fundación Agencia Nacional de Evaluación de la Calidad y Acreditación para inversiones
 2013;G;7;74;740/18007;;;A la Universidad Nacional de Educación a Distancia
@@ -1206,14 +1229,14 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;74;740/25103;;;"A la Sociedad ""Hipódromo de la  Zarzuela S.A."", para financiar la ejecución de obras en el Hipódromo de la Zarzuela"
 2013;G;7;74;740/27013;;;Fondo Nacional para la Investigación Cientifica y Técnica
 2013;G;7;74;740/27204;;;Constitución de sociedades
-2013;G;7;74;741;;;A Red.es, para la financiación del Convenio de Colaboración con la Entidad Pública Empresarial RED.ES.
+2013;G;7;74;741/16004;;;A Red.es, para la financiación del Convenio de Colaboración con la Entidad Pública Empresarial RED.ES.
 2013;G;7;74;741/17032;;;A la Sociedad Estatal de Salvamento y Seguridad Marítima, (SASEMAR).
 2013;G;7;74;741/18006;;;A la Fundación para la Proyección Internacional de las Universidades Españolas
 2013;G;7;74;741/20019;;;Exploración, Ordenación y Seguridad Minera
 2013;G;7;74;741/23018;;;Al Fondo de Compensación de Incendios para la cobertura del riesgo de accidentes a las personas que intervienen en la extinción de incendios.
 2013;G;7;74;741/27013;;;Fondo Internacional para la Investigación Científica y Técnica
 2013;G;7;74;741/27205;;;A la Fundación Centro Nacional de Investigaciones Oncológicas Carlos III. Operaciones de capital
-2013;G;7;74;742;;;Centro Universitario Guardia Civil
+2013;G;7;74;742/16004;;;Centro Universitario Guardia Civil
 2013;G;7;74;742/17009;;;Línea ICO
 2013;G;7;74;742/17020;;;Convenio con la Autoridad Portuaria de Pasajes para la construcción de la nueva lonja pesquera, polígono industrial-portuario de la Herrera-Sur, ampliación del silo de coches y conexión del puerto con Errentería-Kaputxinos.
 2013;G;7;74;742/18201;;;Al Consorcio de Rehabilitación de Teatros de Barcelona para ayudas a la rehabilitación de teatros privados de Barcelona
@@ -1222,8 +1245,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;74;742/23101;;;Programa de investigación de Parques Nacionales
 2013;G;7;74;742/27205;;;A la Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III. Operaciones de capital
 2013;G;7;74;742/27401;;;A la Fundación Residencia de Estudiantes para financiar gastos de inversión
-2013;G;7;74;743;;;Al Centro Universitario Academia General Militar
 2013;G;7;74;743/12401;;;Fundación Colegios Mayores MAEC-AECID
+2013;G;7;74;743/16004;;;Al Centro Universitario Academia General Militar
 2013;G;7;74;743/19101;;;A la Fundación Tripartita para la Formación en el Empleo, para gastos de capital
 2013;G;7;74;743/20004;;;Al ICO para tipos de interés de préstamos concedidos al amparo del Plan FuturE
 2013;G;7;74;743/20016;;;Al ICEX para Plan de Internacionalización Empresarial
@@ -1231,25 +1254,25 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;74;743/23228;;;A la Sociedad Estatal Aguas de las Cuencas del Sur, S.A., por Convenio de Gestión Directa 30/03/2007, Presas Arenoso y La Breña II.
 2013;G;7;74;743/26002;;;"A la ""Fundación Española para la Cooperación Internacional,  Salud y Política Social"""
 2013;G;7;74;744;;;Subvenciones de intereses por préstamos de líneas de mediación instrumentados por el ICO
-2013;G;7;74;745;;;Al ADIF para financiación de la estación de La Sagrera
+2013;G;7;74;745/17020;;;Al ADIF para financiación de la estación de La Sagrera
 2013;G;7;74;745/17040;;;Al ADIF para mantenimiento red convencional.
 2013;G;7;74;745/27014;;;Apoyo a la investigación, desarrollo tecnológico e innovación en el sistema CTE (Ciencia-Tecnología-Empresa) 
 2013;G;7;74;745/27205;;;A la Fundación Centro de Investigación de Enfermedades Neurológicas. Operaciones de capital
-2013;G;7;74;746;;;al ADIF para inversiones red convencional.
+2013;G;7;74;746/17040;;;al ADIF para inversiones red convencional.
 2013;G;7;74;746/20012;;;A la Entidad Pública Empresarial RED.es
 2013;G;7;74;746/27205;;;A Centros de Investigación Biomédica en Red (CIBER)
-2013;G;7;74;747;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.
+2013;G;7;74;747/20016;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.
 2013;G;7;74;747/27008;;;Transferencias a Entes Públicos Empresariales
-2013;G;7;74;748;;;Actuaciones relacionadas con el 1 % Cultural
+2013;G;7;74;748/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2013;G;7;74;748/20012;;;Al Instituto Nacional de las Tecnologías de las Comunicaciones, S.A. (INTECO) (Plan León)
 2013;G;7;74;748/20018;;;A la Comisión Nacional de la Energía para financiar costes del sistema eléctrico previstos en el artículo 16 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico
-2013;G;7;74;749;;;Agenda Digital para España
+2013;G;7;74;749/20012;;;Agenda Digital para España
 2013;G;7;74;749/27011;;;Transferencias, ayudas nominativas y otros
 2013;G;7;74;749/27012;;;Transferencias, ayudas nominativas y otros
 2013;G;7;74;749/27014;;;Transferencias, ayudas nominativas y otros
 2013;G;7;74;749/27401;;;A Diseño y Tecnologia Microelectrónica AIE para financiar gastos de inversión
 2013;G;7;75;;;;A comunidades autónomas
-2013;G;7;75;750;;;A comunidades autónomas
+2013;G;7;75;750/17009;;;A comunidades autónomas
 2013;G;7;75;750/18013;;;Al Consorcio del Centro Cultural Federico Garcia Lorca de Granada para la construcción del Centro Lorca de Granada
 2013;G;7;75;750/18201;;;Apoyo a la construcción, rehabilitación, reforma y equipamiento de infraestructuras musicales, teatrales, circenses y de danza en el ámbito de las CCAA
 2013;G;7;75;750/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y S.I.
@@ -1263,7 +1286,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;75;750/23233;;;A Comunidades Autónomas. Canon de vertidos.
 2013;G;7;75;750/27013;;;Fondo Nacional para la Investigación Cientifica y Técnica
 2013;G;7;75;750/27205;;;A CCAA para la investigación en terapia celular y medicina regenerativa. Operaciones de capital
-2013;G;7;75;751;;;Actuaciones relacionadas con el 1 % Cultural
+2013;G;7;75;751/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2013;G;7;75;751/17040;;;Para financiar Convenio con la Comunidad Autónoma de las Illes Balears en materia de ferrocarril
 2013;G;7;75;751/18106;;;A comunidades autónomas para construcción y adaptación de centros de alto rendimiento y tecnificación
 2013;G;7;75;751/20019;;;Al Laboratorio Oficial Madariaga para actuaciones en calidad y seguridad
@@ -1279,7 +1302,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;75;751/27202;;;Para actividades de investigación
 2013;G;7;75;751/27401;;;A universidades públicas
 2013;G;7;75;751/32001;;;A la Comunidad Autónoma de Andalucía
-2013;G;7;75;752;;;A CC.AA. según Acuerdos de traspasos de funciones y servicios
+2013;G;7;75;752/13002;;;A CC.AA. según Acuerdos de traspasos de funciones y servicios
 2013;G;7;75;752/17009;;;Subvenciones para adquisición y rehabilitación de viviendas
 2013;G;7;75;752/17018;;;Aportación a proyectos  en materia de información geográfica CCAA
 2013;G;7;75;752/20019;;;Al Instituto Nacional de Silicosis para actuaciones en salud y seguridad
@@ -1290,7 +1313,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;75;752/23226;;;A la Universidad de Zaragoza, para Análisis de la Calidad de las Aguas.
 2013;G;7;75;752/23232;;;C.A. de Madrid, trasvase Tajo-Segura.
 2013;G;7;75;752/26007;;;A CC.AA. Plan de inversiones para el desarrollo de Sistemas de Información Sanitaria
-2013;G;7;75;753;;;Ayudas y subvenciones a entidades dependientes de comunidades autónomas para financiar excavaciones arqueológicas en el exterior dentro del plan establecido por el Instituto del Patrimonio Cultural de España
+2013;G;7;75;753/18011;;;Ayudas y subvenciones a entidades dependientes de comunidades autónomas para financiar excavaciones arqueológicas en el exterior dentro del plan establecido por el Instituto del Patrimonio Cultural de España
 2013;G;7;75;753/20019;;;Exploración, Ordenación y Seguridad Minera
 2013;G;7;75;753/23014;;;Fomento del consumo de fruta en las escuelas
 2013;G;7;75;753/23211;;;Actuaciones cofinanciadas con la Unión Europea - Planes de desarrollo rural
@@ -1299,12 +1322,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;75;753/26007;;;Plan de inversión para el fomento de la investigación y la calidad
 2013;G;7;75;753/27013;;;Programa Eurociencia
 2013;G;7;75;753/32001;;;Para financiar proyectos de inversión en la provincia de Teruel
-2013;G;7;75;754;;;Plan Nacional de calidad de las aguas y del ciclo hídrico en Aragón.
 2013;G;7;75;754/18106;;;A comunidades autónomas para la actualización del Censo Nacional de Instalaciones Deportivas
+2013;G;7;75;754/23005;;;Plan Nacional de calidad de las aguas y del ciclo hídrico en Aragón.
 2013;G;7;75;754/23008;;;A la Universidad Politécnica de Madrid para apoyo al desarrollo de la estrategia de movilidad sostenible
 2013;G;7;75;754/27013;;;Ayudas a la formación y movilidad del personal investigador en situación jurídica de contrato
 2013;G;7;75;754/32001;;;Para financiar proyectos de inversión en la Comunidad Autónoma de Extremadura
-2013;G;7;75;755;;;Para financiar obras y expropiaciones del Convenio con la Comunidad Autónoma de Canarias.
+2013;G;7;75;755/17038;;;Para financiar obras y expropiaciones del Convenio con la Comunidad Autónoma de Canarias.
 2013;G;7;75;755/23005;;;Convenio con la Diputación General de Aragón para la ordenación y protección de los recursos subterráneos de la Balsa de Bailín
 2013;G;7;75;755/23012;;;Para la mejora de la organización de la producción y reordenación de los sectores productivos.
 2013;G;7;75;755/23016;;;Cofinanciación del Programa Operativo FEP (Fondo Europeo de Pesca) a CC.AA.
@@ -1323,7 +1346,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;75;755/33017;;;Fondo de Compensación
 2013;G;7;75;755/33018;;;Fondo de Compensación
 2013;G;7;75;755/33019;;;Fondo de Compensación
-2013;G;7;75;756;;;A la Universidad de Málaga para apoyar las tareas como líder del ETC-LUSI de la AEMA
+2013;G;7;75;756/23008;;;A la Universidad de Málaga para apoyar las tareas como líder del ETC-LUSI de la AEMA
 2013;G;7;75;756/33003;;;Fondo Complementario
 2013;G;7;75;756/33004;;;Fondo Complementario
 2013;G;7;75;756/33005;;;Fondo Complementario
@@ -1336,17 +1359,17 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;75;756/33017;;;Fondo Complementario
 2013;G;7;75;756/33018;;;Fondo Complementario
 2013;G;7;75;756/33019;;;Fondo Complementario
-2013;G;7;75;757;;;A comunidades autónomas
+2013;G;7;75;757/20016;;;A comunidades autónomas
 2013;G;7;75;757/23008;;;Para actuaciones del Fondo del Patrimonio Natural y la Biodiversidad
-2013;G;7;75;758;;;A organismos públicos de comunidades autónomas
+2013;G;7;75;758/17009;;;A organismos públicos de comunidades autónomas
 2013;G;7;75;758/17038;;;Convenios con Comunidades Autónomas.
 2013;G;7;75;758/23005;;;Convenio con la C.A. Baleares para actuaciones en materia de agua
-2013;G;7;75;759;;;Agenda Digital para España
+2013;G;7;75;759/20012;;;Agenda Digital para España
 2013;G;7;75;759/20016;;;Plan de Promoción de la Innovación en Calidad y Seguridad Industrial
 2013;G;7;75;759/27014;;;Transferencias, ayudas nominativas y otros
 2013;G;7;75;759/33020;;;Para financiar la incorporación de remanentes de crédito de los Fondos de Compensación Interterritorial
 2013;G;7;76;;;;A entidades locales
-2013;G;7;76;760;;;A las Diputaciones, Cabildos, Consejos Insulares,Comunidades Autónomas Uniprovinciales y Ayuntamientos de Ceuta y Melilla, como aportación a la financiación de las inversiones de las Entidades Locales por Cooperación Económica Local del Estado.
+2013;G;7;76;760/15027;;;A las Diputaciones, Cabildos, Consejos Insulares,Comunidades Autónomas Uniprovinciales y Ayuntamientos de Ceuta y Melilla, como aportación a la financiación de las inversiones de las Entidades Locales por Cooperación Económica Local del Estado.
 2013;G;7;76;760/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Mallorca
 2013;G;7;76;760/18011;;;A ayuntamientos, diputaciones y otros entes locales
 2013;G;7;76;760/19007;;;Plazas de alojamiento para trabajadores migrantes
@@ -1358,7 +1381,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;76;760/27202;;;Transferencias para el desarrollo de proyectos de investigación
 2013;G;7;76;760/32002;;;Al Cabildo Insular de Tenerife, para la financiación del Tranvía/Metro Ligero Santa Cruz de Tenerife-La Laguna, según Convenio suscrito con el Estado
 2013;G;7;76;760/60002;;;A Corporaciones Locales
-2013;G;7;76;761;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2013;G;7;76;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2013;G;7;76;761/16102;;;Para financiar obligaciones derivadas de convenios y acuerdos con otras administraciones
 2013;G;7;76;761/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Menorca
 2013;G;7;76;761/18011;;;Ayudas a proyectos de conservación, protección y difusión de bienes declarados Patrimonio Mundial
@@ -1368,29 +1391,29 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;76;761/23018;;;Ayudas reparación daños catastróficos
 2013;G;7;76;761/27013;;;Fondo Internacional para la Investigación Científica y Técnica
 2013;G;7;76;761/32002;;;Al Ayuntamiento de Córdoba para financiar inversiones
-2013;G;7;76;762;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
+2013;G;7;76;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
 2013;G;7;76;762/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Ibiza
 2013;G;7;76;762/17040;;;Para financiar Convenio con el Cabildo Insular de Tenerife en materia de ferrocarril
 2013;G;7;76;762/20001;;;Al Ayuntamiento de Córdoba para las obras de remodelación del nuevo Centro de Exposiciones y Convenciones de la Ciudad
 2013;G;7;76;762/20019;;;Exploración, Ordenación y Seguridad Minera
 2013;G;7;76;762/20208;;;Planes de Recualificación integral de destinos turísticos. Eje Sostenibilidad
 2013;G;7;76;762/23008;;;A la Agencia de Ecología Urbana de Barcelona para el apoyo al desarrollo de las actuaciones de la estrategia de Medio Ambiente Urbano
-2013;G;7;76;763;;;A CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
+2013;G;7;76;763/17038;;;A CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
 2013;G;7;76;763/17040;;;Convenio con el Cabildo Insular de Gran Canaria en materia de ferrocarril
 2013;G;7;76;763/18011;;;Aportación institucional al Consorcio de la Ciudad Romana de Mérida
 2013;G;7;76;763/18013;;;"Campaña de animación a la lectura ""María Moliner"" para proyectos de animación lectora en municipios de menos de 50.000 habitantes"
 2013;G;7;76;763/20208;;;Planes de municipios turísticos sostenibles
-2013;G;7;76;764;;;Actuaciones relacionadas con el 1 % Cultural
+2013;G;7;76;764/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2013;G;7;76;764/17038;;;Convenio con el Ayuntamiento de Pontevedra.
-2013;G;7;76;765;;;Intervención y mejora de espacios públicos en centros urbanos y rurales
+2013;G;7;76;765/17009;;;Intervención y mejora de espacios públicos en centros urbanos y rurales
 2013;G;7;76;765/27014;;;Apoyo a la investigación, desarrollo tecnológico e innovación en el sistema CTE (Ciencia-Tecnología-Empresa) 
-2013;G;7;76;766;;;Al Cabildo Insular de Gran Canaria para infraestructuras deportivas del Mundobasket 2014
+2013;G;7;76;766/15027;;;Al Cabildo Insular de Gran Canaria para infraestructuras deportivas del Mundobasket 2014
 2013;G;7;76;766/17009;;;Consorcio de la Ciudad de Santiago de Compostela
 2013;G;7;76;766/17038;;;Para financiar obras en los Convenios con los Consells Insularres de Mallorca, Menorca, Ibiza y formentera (14-05-2009)
-2013;G;7;76;769;;;Agenda Digital para España
+2013;G;7;76;769/20012;;;Agenda Digital para España
 2013;G;7;76;769/23018;;;Convenios con entidades locales
 2013;G;7;77;;;;A empresas privadas
-2013;G;7;77;770;;;Actuaciones relacionadas con el 1 % Cultural
+2013;G;7;77;770/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2013;G;7;77;770/19007;;;Plazas de alojamiento para trabajadores migrantes
 2013;G;7;77;770/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y S.I
 2013;G;7;77;770/23001;;;Apoyo financiero por daños ocasionados por la sequía y otras causas extraordinarias.
@@ -1399,7 +1422,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;77;770/23018;;;Fomento de la innovación tecnológica.
 2013;G;7;77;770/27013;;;Fondo Nacional para la Investigación Cientifica y Técnica
 2013;G;7;77;770/27202;;;Transferencias para el desarrollo de proyectos de investigación
-2013;G;7;77;771;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
+2013;G;7;77;771/15014;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
 2013;G;7;77;771/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia.
 2013;G;7;77;771/18103;;;Ayudas a la cinematografía a través de empresas privadas
 2013;G;7;77;771/18201;;;Transferencias a empresas privadas para infraestructuras de circo itinerante
@@ -1409,30 +1432,30 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;77;771/23016;;;"Control actividad pesquera ""Diario de a bordo electrónico"""
 2013;G;7;77;771/23018;;;Fomento del asociacionismo.
 2013;G;7;77;771/27013;;;Fondo Internacional para la Investigación Científica y Técnica
-2013;G;7;77;772;;;Programa de medidas para la mejora del sector del transporte por carretera.
+2013;G;7;77;772/17039;;;Programa de medidas para la mejora del sector del transporte por carretera.
 2013;G;7;77;772/18013;;;Ayudas a la inversión en capital para incrementar la oferta legal de contenidos digitales culturales en Internet y para promover la modernización, innovación y adaptación tecnológica de las industrias culturales y creativas
 2013;G;7;77;772/20012;;;Agenda Digital para España - Formación Profesionales
 2013;G;7;77;772/20101;;;Ayudas a Pequeños Proyectos Empresariales
 2013;G;7;77;772/23002;;;Análisis e información nacional de las magnitudes de los sectores
-2013;G;7;77;773;;;Agenda Digital para España - Formación Usuarios
+2013;G;7;77;773/20012;;;Agenda Digital para España - Formación Usuarios
 2013;G;7;77;773/23015;;;Apoyo financiero debido a causas de carácter extraordinario.
 2013;G;7;77;773/23018;;;Promoción y diversificación de la economía rural
-2013;G;7;77;774;;;Programa de Fomento de la Demanda de Vehículos Eléctricos
+2013;G;7;77;774/20016;;;Programa de Fomento de la Demanda de Vehículos Eléctricos
 2013;G;7;77;774/23016;;;Ayudas a programas operativos de la Unión Europea
 2013;G;7;77;774/23211;;;Medidas de Desarrollo Rural
-2013;G;7;77;775;;;Ayudas para el fomento de la edición de libros españoles escritos en lengua castellana y en lenguas cooficiales distintas a la castellana para bibliotecas públicas
+2013;G;7;77;775/18013;;;Ayudas para el fomento de la edición de libros españoles escritos en lengua castellana y en lenguas cooficiales distintas a la castellana para bibliotecas públicas
 2013;G;7;77;775/20016;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores
 2013;G;7;77;775/27014;;;Apoyo a la investigación, desarrollo tecnológico e innovación en el sistema CTE (Ciencia-Tecnología-Empresa)
-2013;G;7;77;776;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores
+2013;G;7;77;776/20016;;;Primas a la construcción naval, incluidas obligaciones de ejercicios anteriores
 2013;G;7;77;776/23014;;;Fomento de la industrialización agroalimentaria
 2013;G;7;77;776/23016;;;Desarrollo tecnológico pesquero y acuícola
-2013;G;7;77;777;;;A empresas privadas
+2013;G;7;77;777/20016;;;A empresas privadas
 2013;G;7;77;777/20019;;;Exploración, Ordenación y Seguridad Minera
 2013;G;7;77;777/23018;;;Modernización de explotaciones.
 2013;G;7;77;778;;;Agenda Digital para España - Internacionalización del sector de las Comunicaciones y de la Sociedad de la Información
 2013;G;7;77;779;;;Agenda Digital para España
 2013;G;7;78;;;;A familias e instituciones sin fines de lucro
-2013;G;7;78;780;;;A fundaciones, instituciones y asociaciones sin ánimo de lucro.
+2013;G;7;78;780/17009;;;A fundaciones, instituciones y asociaciones sin ánimo de lucro.
 2013;G;7;78;780/18011;;;Ayudas a entidades privadas sin ánimo de lucro para la mejora de las instalaciones y el equipamiento de sus archivos
 2013;G;7;78;780/18302;;;A la Fundación Museo Nacional Centro de Arte Reina Sofía para su constitución
 2013;G;7;78;780/19007;;;Transferencias a familias e instituciones sin fines de lucro
@@ -1447,7 +1470,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;78;780/27203;;;Becas de formación
 2013;G;7;78;780/27401;;;Formación de personal investigador
 2013;G;7;78;780/60003;;;Ayudas genéricas a Familias e Instituciones sin fines de lucro
-2013;G;7;78;781;;;Al Consejo Superior de Colegios de Arquitectos de España. Bienal Iberoamericana de Arquitectura
+2013;G;7;78;781/17009;;;Al Consejo Superior de Colegios de Arquitectos de España. Bienal Iberoamericana de Arquitectura
 2013;G;7;78;781/17039;;;Programa de apoyo a Instituciones y Entidades sin fines de lucro relacionadas con el transporte por carretera.
 2013;G;7;78;781/18011;;;Pago de indemnizaciones a que se refiere la Disposición Adicional Novena de la Ley 16/1985, del Patrimonio Histórico Español
 2013;G;7;78;781/18106;;;A federaciones deportivas españolas y de discapacitados y otras entidades y asociaciones para instalaciones deportivas y equipamiento
@@ -1464,19 +1487,19 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;78;781/27013;;;Fondo Internacional para la Investigación Científica y Técnica
 2013;G;7;78;781/27201;;;Aportación a la Asociación EURATOM-CIEMAT (fusión termonuclear controlada)
 2013;G;7;78;781/27205;;;Fondo de Investigación Sanitaria. Programa de Fomento de la Investigación. Concesión de ayudas de investigación e infraestructuras
-2013;G;7;78;782;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2013;G;7;78;782/14107;;;Ayuda al acceso a la propiedad de vivienda
+2013;G;7;78;782/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2013;G;7;78;782/17009;;;Ayudas para renta básica de emancipación de jóvenes, subsidiación de préstamos y otros apoyos a la vivienda
 2013;G;7;78;782/18201;;;Para la financiación del Gran Teatre del Liceu
 2013;G;7;78;782/20016;;;A la Fundación Instituto Tecnológico para la Seguridad del Automóvil (FITSA)
 2013;G;7;78;782/23018;;;Proyecto LIFE Natura 2000. Conecting people with biodiversity. SEO/Bird life.
 2013;G;7;78;782/27205;;;Estructuras estables de investigación cooperativa
-2013;G;7;78;783;;;Al Colegio de España en París para inversiones
+2013;G;7;78;783/18006;;;Al Colegio de España en París para inversiones
 2013;G;7;78;783/20012;;;Agenda Digital para España - Consolidación ciudadanía
 2013;G;7;78;783/20016;;;A la Fundación Instituto Tecnológico para el Desarrollo de las Industrias Marítimas (INNOVAMAR)
 2013;G;7;78;783/23018;;;Becas de formación en  materia de Desarrollo Rural
 2013;G;7;78;783/27201;;;Aportación al Convenio Hispano Alemán (Plataforma Solar de Almería)
-2013;G;7;78;784;;;Aportaciones institucionales
+2013;G;7;78;784/18011;;;Aportaciones institucionales
 2013;G;7;78;784/18106;;;A la Real Federación Española de Fútbol para obras y equipamiento del  fútbol no profesional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011 de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
 2013;G;7;78;784/20012;;;Agenda Digital para España - Formación Profesionales
 2013;G;7;78;784/23014;;;Para actuaciones en agricultura ecológica
@@ -1484,28 +1507,28 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;78;784/27201;;;Aportación a la Fundación Parque Científico de Madrid
 2013;G;7;78;784/27205;;;Fondo de Investigación Sanitaria. Programa de Fomento de la Investigación. Ayudas para la investigación clínica no comercial con medicamentos de uso humano
 2013;G;7;78;784/27401;;;A fundaciones para gastos derivados de convenios de colaboración
-2013;G;7;78;785;;;Al Consejo Superior de Colegios de Arquitectos de España. Bienal Española de Arquitectura
+2013;G;7;78;785/17009;;;Al Consejo Superior de Colegios de Arquitectos de España. Bienal Española de Arquitectura
 2013;G;7;78;785/20012;;;Agenda Digital para España - Formación Usuarios
 2013;G;7;78;785/20016;;;Programa de fomento de la demanda de vehículos eléctricos
 2013;G;7;78;785/23014;;;Para Convenios de colaboración con Entidades sin ánimo de lucro.
 2013;G;7;78;785/27014;;;Apoyo a la investigación, desarrollo tecnológico e innovación en el sistema CTE (Ciencia-Tecnología-Empresa) 
 2013;G;7;78;785/27201;;;Aportación a la Fundación Energía sin Fronteras
 2013;G;7;78;785/27205;;;Fondo de Investigación Sanitaria. Investigación evaluativa de tecnologías sanitarias e investigación en servicios de salud
-2013;G;7;78;786;;;A Fundación Mies Van der Rohe
+2013;G;7;78;786/17009;;;A Fundación Mies Van der Rohe
 2013;G;7;78;786/20208;;;Programas de Colaboración con actores sociales del turismo
 2013;G;7;78;787;;;A familias e instituciones sin fines de lucro
-2013;G;7;78;788;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores incluido pago de primas de seguros de los becarios
+2013;G;7;78;788/18007;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores incluido pago de primas de seguros de los becarios
 2013;G;7;78;788/18011;;;Ayudas y subvenciones para financiar excavaciones arqueológicas en el exterior dentro del plan establecido por el Instituto del Patrimonio Cultural de España
 2013;G;7;78;788/20012;;;A familias e instituciones sin fines de lucro
 2013;G;7;78;788/23014;;;Becas de formación.
-2013;G;7;78;789;;;Actuaciones relacionadas con el 1 % Cultural
+2013;G;7;78;789/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2013;G;7;78;789/18007;;;A la Fundación César Carlos para mantenimiento y reforma de su sede
 2013;G;7;78;789/20012;;;Agenda Digital para España
 2013;G;7;78;789/20016;;;Plan de Promoción de la Innovación en Calidad y Seguridad Industrial
 2013;G;7;78;789/27011;;;Transferencias, ayudas nominativas y otros
 2013;G;7;78;789/27014;;;Transferencias, ayudas nominativas y otros
 2013;G;7;79;;;;Al exterior
-2013;G;7;79;790;;;A Asentamientos Humanos (UN-Habitat) para América Latina y Caribe
+2013;G;7;79;790/17001;;;A Asentamientos Humanos (UN-Habitat) para América Latina y Caribe
 2013;G;7;79;790/19007;;;Para centros e instituciones asociativas de carácter social, benéfico, cultural y educativo
 2013;G;7;79;790/20015;;;Para la financiación de la participación en Programas Espaciales, incluidas obligaciones de ejercicios anteriores
 2013;G;7;79;790/20302;;;Al exterior
@@ -1513,13 +1536,13 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;7;79;790/23401;;;A EUMETSAT, contribución española a los programas METEOSAT (MSG), Sistema Polar Europeo (EPS) Y METEORTAT de Transición (MTP)
 2013;G;7;79;790/25301;;;Transferencias al exterior
 2013;G;7;79;791;;;Aportación al Fondo Europeo de Desarrollo (FED)
-2013;G;7;79;792;;;Sistema de Información Schengen
 2013;G;7;79;792/12401;;;Entidades culturales en el exterior
+2013;G;7;79;792/16002;;;Sistema de Información Schengen
 2013;G;7;79;793;;;Aportación española al programa JET
-2013;G;7;79;794;;;Ayudas y subvenciones en el ámbito de la cooperación policial internacional
+2013;G;7;79;794/16002;;;Ayudas y subvenciones en el ámbito de la cooperación policial internacional
 2013;G;7;79;794/27201;;;Participación en el fondo general y común de los experimentos L32, CMS y AMS del CERN
 2013;G;7;79;796;;;Para Ayuda Oficial al Desarrollo
-2013;G;7;79;799;;;Transferencias, ayudas nominativas y otros
+2013;G;7;79;799/27012;;;Transferencias, ayudas nominativas y otros
 2013;G;7;79;799/27201;;;Colaboración en la integración, probado y operación del experimento AMS (Alpha Magnetic Spectrometer)
 2013;G;8;;;;;Activos financieros
 2013;G;8;80;;;;Adquisición de deuda del Sector Público
@@ -1528,19 +1551,19 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;8;82;;;;Concesión de préstamos al Sector Público
 2013;G;8;82;820;;;Préstamos a corto plazo
 2013;G;8;82;821;;;Préstamos a largo plazo
-2013;G;8;82;823;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
+2013;G;8;82;823/20016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
 2013;G;8;82;823/27013;;;Anticipos reembolsables para el desarrollo de la investigación científica y técnica
 2013;G;8;82;823/27014;;;Anticipos reembolsables para el desarrollo de la investigación científica y técnica
 2013;G;8;82;827;;;Anticipos reembolsables a la Universidad Nacional de Educación a Distancia. Fondos FEDER
 2013;G;8;83;;;;Concesión de préstamos fuera del Sector Público
 2013;G;8;83;830;;;Préstamos a corto plazo
 2013;G;8;83;831;;;Préstamos a largo plazo
-2013;G;8;83;832;;;Para la financiación del Programa Nacional de Observación de la Tierra
+2013;G;8;83;832/20015;;;Para la financiación del Programa Nacional de Observación de la Tierra
 2013;G;8;83;832/20016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
 2013;G;8;83;832/27010;;;Préstamos para apoyo al comercio minorista
-2013;G;8;83;833;;;Líneas de préstamos a empresas del sector turístico
+2013;G;8;83;833/20004;;;Líneas de préstamos a empresas del sector turístico
 2013;G;8;83;833/27013;;;Anticipos reembolsables para el desarrollo de la investigación científica y técnica
-2013;G;8;83;834;;;Préstamos participativos a sociedades concesionarias de autopistas de peaje por sobrecostes de las expropiaciones.
+2013;G;8;83;834/17020;;;Préstamos participativos a sociedades concesionarias de autopistas de peaje por sobrecostes de las expropiaciones.
 2013;G;8;83;834/20016;;;Para la financiación de proyectos estratégicos de desarrollo en el sector aeronáutico
 2013;G;8;83;837;;;Programa de apoyo a la competitividad industrial
 2013;G;8;84;;;;Constitución de depósitos y fianzas
@@ -1556,17 +1579,17 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;G;8;86;869;;;De Organismos Financieros Multilaterales
 2013;G;8;87;;;;Aportaciones patrimoniales
 2013;G;8;87;870;;;Aportaciones patrimoniales
-2013;G;8;87;871;;;Al  Administrador de Infraestructuras Ferroviarias  (ADIF).
+2013;G;8;87;871/17020;;;Al  Administrador de Infraestructuras Ferroviarias  (ADIF).
 2013;G;8;87;871/20004;;;Fondo Financiero del Estado para la Modernización de las Infraestructuras Turísticas Maduras (FOMIT). Eje Sostenibilidad
 2013;G;8;87;871/20018;;;Aportación a la Fundación Pública Ciudad de la Energía
 2013;G;8;87;871/23004;;;Fundación Ciudad de la Energía para infraestructuras y proyectos
 2013;G;8;87;871/26015;;;Fondo de apoyo para la promoción y desarrollo de infraestructuras y servicios del Sistema de Autonomía y Atención a la Dependencia
 2013;G;8;87;871/27003;;;Aportación patrimonial al ICO
 2013;G;8;87;871/27009;;;Al Fondo para la Internacionalización de la Empresa (FIEM)
-2013;G;8;87;872;;;Aportación Patrimonial a SEPI
+2013;G;8;87;872/15001;;;Aportación Patrimonial a SEPI
 2013;G;8;87;872/27003;;;Aportación al Mecanismo Europeo de Estabilidad (MEDE)
 2013;G;8;87;872/27009;;;Al Fondo para Inversiones en el Exterior (FIEX)
-2013;G;8;87;873;;;Fondo de Cooperación para Agua y Saneamiento
+2013;G;8;87;873/12003;;;Fondo de Cooperación para Agua y Saneamiento
 2013;G;8;87;873/27003;;;Aportación al Fondo de Reestructuración Ordenada Bancaria (FROB)
 2013;G;8;87;873/27009;;;Al Fondo de Operaciones de Inversión en el Exterior de la Pequeña y Mediana Empresa
 2013;G;8;87;874;;;Fondo para la Promoción del Desarrollo (FONPRODE)
@@ -1674,7 +1697,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;I;3;39;393;;;Diferencias entre los valores de reembolso y emisión
 2013;I;3;39;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial)
 2013;I;3;39;395;;;Rappels por compras
-2013;I;3;39;398;;;Ingresos extraordinarios
+2013;I;3;39;398/15302;;;Ingresos extraordinarios
 2013;I;3;39;398/60004;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene
 2013;I;3;39;399;;;Ingresos diversos
 2013;I;4;;;;;Transferencias corrientes
@@ -1689,8 +1712,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;I;4;41;411;;;Del Servicio Público de Empleo Estatal
 2013;I;4;41;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior
 2013;I;4;42;;;;De la Seguridad Social
-2013;I;4;42;420;;;Transferencias corrientes de la Seguridad Social
 2013;I;4;42;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad
+2013;I;4;42;420/98001;;;Transferencias corrientes de la Seguridad Social
 2013;I;4;42;421;;;Aportaciones para sosteni. SS.CC.
 2013;I;4;42;422;;;Ingresos por servicios prestados entre Entidades del Sistema
 2013;I;4;42;423;;;Cuotas de reaseguro de Acctes. T.
@@ -1712,12 +1735,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;I;4;46;;;;De Entidades Locales
 2013;I;4;46;460;;;De Ayuntamientos
 2013;I;4;47;;;;De empresas privadas
-2013;I;4;47;470;;;Provenientes de empresas de propiedad privada
 2013;I;4;47;470/12301;;;De empresas privadas
 2013;I;4;47;470/18301;;;Ingresos de empresas privadas
+2013;I;4;47;470/25101;;;Provenientes de empresas de propiedad privada
 2013;I;4;47;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes
 2013;I;4;47;472;;;De empresas
-2013;I;4;47;479;;;Otras transferencias corrientes
+2013;I;4;47;479/18101;;;Otras transferencias corrientes
 2013;I;4;47;479/18201;;;De empresas privadas.
 2013;I;4;48;;;;De familias e instituciones sin fines de lucro
 2013;I;4;48;480;;;De familias e instituciones sin fines de lucro
@@ -1775,7 +1798,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;I;7;70;;;;De la Administración del Estado
 2013;I;7;70;700;;;Del departamento al que está adscrito
 2013;I;7;70;701;;;De otros departamentos ministeriales
-2013;I;7;70;702;;;Del departamento al que está adscrito
+2013;I;7;70;702/18105;;;Del departamento al que está adscrito
 2013;I;7;70;702/23230;;;De la D.G. del Agua para apoyo en la ejecución de obras en humedales y restauración de  los rios
 2013;I;7;70;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
 2013;I;7;71;;;;De organismos autónomos
@@ -1786,11 +1809,17 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2013;I;7;74;;;;De sdades, ent.públ.emp, fundac. y resto entes Sec.Públ.
 2013;I;7;74;740;;;De sociedades mercantiles estatales
 2013;I;7;75;;;;De Comunidades Autónomas
-2013;I;7;75;750;;;De Comunidades Autónomas
 2013;I;7;75;750/23211;;;Cofinanciación teledetección Comunidades Autónomas
+2013;I;7;75;750/23225;;;De Comunidades Autónomas
+2013;I;7;75;750/23229;;;De Comunidades Autónomas
+2013;I;7;75;750/23230;;;De Comunidades Autónomas
+2013;I;7;75;750/23231;;;De Comunidades Autónomas
+2013;I;7;75;750/23232;;;De Comunidades Autónomas
+2013;I;7;75;750/23233;;;De Comunidades Autónomas
 2013;I;7;75;750/27202;;;Planes regionales de I+D
 2013;I;7;75;750/27206;;;De la Comunidad Autónoma de Canarias
 2013;I;7;75;750/27401;;;De CCAA para ejecución de proyectos de investigación
+2013;I;7;75;750/98001;;;De Comunidades Autónomas
 2013;I;7;76;;;;De Entidades Locales
 2013;I;7;76;760;;;De Ayuntamientos
 2013;I;7;76;761;;;De Diputaciones y Cabildos Insulares
