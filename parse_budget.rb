@@ -128,7 +128,6 @@ def capitalize_description_if_needed(description)
   description
 end
 
-
 # Collect categories first, then output, to avoid duplicated chapters and articles.
 # Important note: descriptions are consistent across the PGE budgets for chapters (x)
 # and articles (xx), but not headings (xxx), which vary _a lot_ across different programmes.
@@ -147,16 +146,15 @@ end
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_105_1_2_160_1_104_1.HTM
 # [2]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_2_104_1_2_115_1_1302_1.HTM
 #
-expense_categories = {}
-income_categories = {}
-CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
-  expenses.each do |line|
+def get_economic_categories_from_budget_items_list(items)
+  categories = {}
+  items.each do |line|
     concept = line[:economic_concept]
     next if concept.nil? or concept.empty?
     next if concept.length > 4     # Budget item
 
     if concept.length == 3  # Heading -> xxx or xxx/sssss
-      if !expense_categories[concept].nil? and expense_categories[concept][:description] != line[:description]
+      if !categories[concept].nil? and categories[concept][:description] != line[:description]
         concept = "#{concept}/#{get_entity_id(line[:section], line[:service])}"
         line[:economic_concept] = concept 
       end
@@ -164,12 +162,17 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
 
     # Although we've checked that descriptions for chapters and articles are consistent, and we're
     # working around the inconsistencies of headings, we have a check here just to be safe.
-    if !expense_categories[concept].nil? and expense_categories[concept][:description] != line[:description]
-      puts "Warning: different descriptions for expense economic concept #{concept}: had #{expense_categories[concept][:description]}, now got #{line[:description]}"
+    if !categories[concept].nil? and categories[concept][:description] != line[:description]
+      puts "Warning: different descriptions for economic concept #{concept}: had #{categories[concept][:description]}, now got #{line[:description]}"
     end
-    expense_categories[concept] = line
+    categories[concept] = line
   end
+  categories
+end
 
+expense_categories = get_economic_categories_from_budget_items_list(expenses)
+income_categories = get_economic_categories_from_budget_items_list(income)
+CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
   csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
   expense_categories.sort.each do |concept, line|
     csv << [year, 
@@ -180,27 +183,6 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             nil,  # We don't use subheadings
             nil,  # Short description, not used
             capitalize_description_if_needed(line[:description]) ]
-  end
-
-  income.each do |line|
-    concept = line[:economic_concept]
-    next if concept.nil? or concept.empty?
-    next if concept.length > 4     # Budget item
-
-    if concept.length == 3  # Heading -> xxx or xxx/sssss
-      if !income_categories[concept].nil? and income_categories[concept][:description] != line[:description]
-        concept = "#{concept}/#{get_entity_id(line[:section], line[:service])}"
-        line[:economic_concept] = concept
-      end
-    end
-
-    # Although we've checked that descriptions for chapters and articles are consistent, and we're
-    # working around the inconsistencies of headings, we have a check here just to be safe.
-    if !income_categories[concept].nil? and income_categories[concept][:description] != line[:description]
-      puts "Warning: different descriptions for income economic concept #{concept}: had #{income_categories[concept][:description]}, now got #{line[:description]}"
-    end
-    income_categories[concept] = line
-
   end
 
   income_categories.sort.each do |concept, line|
