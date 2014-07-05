@@ -1,5 +1,5 @@
 EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA;DESCRIPCION LARGA
-2007;G;1;;;;;GASTOS DE PERSONAL
+2007;G;1;;;;;Gastos de personal
 2007;G;1;10;;;;Altos cargos
 2007;G;1;10;100;;;Retribuciones básicas y otras remuneraciones de altos cargos
 2007;G;1;10;101;;;Asignación Parlamentarios Europeos
@@ -49,7 +49,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;1;16;164;;;Complemento familiar
 2007;G;1;16;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
 2007;G;1;16;165/21211;;;Pensiones de jubilación especial por convenio colectivo.
-2007;G;2;;;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS
+2007;G;2;;;;;Gastos corrientes en bienes y servicios
 2007;G;2;20;;;;Arrendamientos y cánones
 2007;G;2;20;200;;;Arrendamientos terrenos y bienes naturales
 2007;G;2;20;201;;;Arrendamientos de edificios y otras construcciones.Obligaciones de ejercicios anteriores
@@ -111,7 +111,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;2;25;258;;;Obligaciones de ejercicios anteriores
 2007;G;2;25;259;;;Otros conciertos de asistencia sanitaria
 2007;G;2;26;;;;Servicios sociales con medios ajenos
-2007;G;3;;;;;GASTOS FINANCIEROS
+2007;G;3;;;;;Gastos financieros
 2007;G;3;30;;;;De deuda pública en moneda nacional
 2007;G;3;30;300;;;Intereses
 2007;G;3;30;301;;;Gastos de emisión, modificación y cancelación
@@ -147,7 +147,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;3;35;358/19001;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
 2007;G;3;35;358/23009;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
 2007;G;3;35;359;;;Otros gastos financieros
-2007;G;4;;;;;TRANSFERENCIAS CORRIENTES
+2007;G;4;;;;;Transferencias corrientes
 2007;G;4;40;;;;A la Administración del Estado
 2007;G;4;40;400;;;Al Estado, para generar crédito en el Ministerio de Defensa
 2007;G;4;40;400/16101;;;Al Estado, para generar crédito en el Ministerio del Interior por acuerdo del Ministro de Economía y Hacienda
@@ -530,7 +530,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;4;46;464;;;Depósitos Municipales
 2007;G;4;46;464/24003;;;Al Ayuntamiento de Monesterio, para financiar la construcción Museo Etnográfico e Histórico de la Comarca de la Tentundia
 2007;G;4;46;464/24201;;;Programa de apoyo a Festivales, Muestras, Ferias y otras actividades Teatrales y Circenses organizadas por Corporaciones Locales.
-2007;G;4;46;465;;;PROGRAMA DE APOYO A FESTIVALES, MUESTRAS, FERIAS Y OTRAS ACT IVIDADES MUSICALES ORGANIZADAS POR CORPORACIONES LOCALES.
+2007;G;4;46;465;;;Programa de apoyo a festivales, muestras, ferias y otras act ividades musicales organizadas por corporaciones locales.
 2007;G;4;46;466;;;Al Ayuntamiento de Sevilla para la Bienal de Arte Flamenco.
 2007;G;4;46;468;;;Liquidación definitiva  de la participación  en los ingresos del Estado  de las Corporaciones Locales,  correspondiente a ejercicios  anteriores y compensaciones derivadas del  Nuevo Modelo de Financiación Local
 2007;G;4;46;468/24201;;;Al Instituto Municipal de Artes Escénicas Gran Teatro de Córdoba para el festival de guitarra
@@ -1111,7 +1111,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;4;49;491/17001;;;Obligaciones de la Administración Española con Organismos In ternacionales, relacionados con su función reguladora de la prestación de servicios postales y telegráficos.
 2007;G;4;49;491/17018;;;Colaboración con organizaciones geográficas internacionales
 2007;G;4;49;491/17034;;;Cuotas a Organismos Internacionales
-2007;G;4;49;491/17039;;;A EURO CONTROL ROUTE.
+2007;G;4;49;491/17039;;;A euro control route.
 2007;G;4;49;491/17238;;;Cuotas a Organismos Internacionales.
 2007;G;4;49;491/18001;;;Cuotas por participación en Organismos y Programas Internacionales
 2007;G;4;49;491/18002;;;Cuotas por participación en organismos y programas internacionales
@@ -1220,12 +1220,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;4;49;499;;;Ayudas para el programa iberescena
 2007;G;4;49;499/12103;;;Instituto Nicaragüense de Cultura Hispánica
 2007;G;4;49;499/60001;;;Otras Tansferencias al Exterior
-2007;G;5;;;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS
+2007;G;5;;;;;Fondo de contingencia y otros imprevistos
 2007;G;5;50;;;;Dotación al Fondo de Contingencia
 2007;G;5;50;500;;;Fondo de Contingencia de ejecución presupuestaria.  Artículo 15 de la Ley 18/2001
 2007;G;5;51;;;;Otros Imprevistos
 2007;G;5;51;510;;;Para atender necesidades que puedan presentarse en los Departamentos Ministeriales
-2007;G;6;;;;;INVERSIONES REALES
+2007;G;6;;;;;Inversiones reales
 2007;G;6;60;;;;Inv. nueva en infraestr. y bienes destinados al uso general
 2007;G;6;60;600;;;Inversiones en terrenos
 2007;G;6;60;601;;;Otras
@@ -1272,7 +1272,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;6;66;660;;;Inversiones militares asociadas al funcionamiento operativo de los servicios
 2007;G;6;67;;;;Gastos militares de inversiones de carácter inmaterial
 2007;G;6;67;670;;;Gastos militares en inversiones de carácter inmaterial
-2007;G;7;;;;;TRANSFERENCIAS DE CAPITAL
+2007;G;7;;;;;Transferencias de capital
 2007;G;7;71;;;;A Organismos Autónomos
 2007;G;7;71;710;;;A organismos autónomos del Departamento
 2007;G;7;71;710/15005;;;Al Instituto de Estudios Fiscales
@@ -1893,7 +1893,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;7;79;796/18203;;;Participación del CIEMAT en el experimento CDF-II
 2007;G;7;79;797;;;Participación en la construcción del imán superconductor del experimento AMS (Alpha Magnetic Spectrometer)
 2007;G;7;79;798;;;Aportación al Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED)
-2007;G;8;;;;;ACTIVOS FINANCIEROS
+2007;G;8;;;;;Activos financieros
 2007;G;8;80;;;;Adquisición de deuda del Sector Público
 2007;G;8;80;800;;;Adquisición de deuda del Sector Público a corto plazo
 2007;G;8;80;801;;;Adquisición de deuda del Sector Público a largo plazo
@@ -1947,7 +1947,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;8;88;;;;Dotaciones
 2007;G;8;88;880;;;Dotación al Fondo de Reserva (Art. 91.1 de la Ley General de la Seguridad Social)
 2007;G;8;88;881;;;Afectos al Fondo de Prevención y Rehabilitación
-2007;G;9;;;;;PASIVOS FINANCIEROS
+2007;G;9;;;;;Pasivos financieros
 2007;G;9;90;;;;Amortización de deuda pública en moneda nacional
 2007;G;9;90;900;;;Amortización  de deuda  pública en  moneda nacional  a corto plazo
 2007;G;9;90;901;;;Amortización de deuda pública en moneda nacional a largo plazo
@@ -1962,7 +1962,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;G;9;94;;;;Devolución de depósitos y fianzas
 2007;G;9;94;940;;;Devolución de depósitos
 2007;G;9;94;941;;;Devolución de fianzas
-2007;I;1;;;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES
+2007;I;1;;;;;Impuestos directos y cotizaciones sociales
 2007;I;1;10;;;;Sobre la renta
 2007;I;1;10;100;;;De las personas físicas
 2007;I;1;10;101;;;De sociedades
@@ -1980,7 +1980,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;1;12;127;;;Cotizaciones de acctes. trabajo y e. p.
 2007;I;1;12;128;;;Cotizaciones de desempleados
 2007;I;1;12;129;;;Otras cotizaciones
-2007;I;2;;;;;IMPUESTOS INDIRECTOS
+2007;I;2;;;;;Impuestos indirectos
 2007;I;2;21;;;;Sobre el Valor Añadido
 2007;I;2;21;210;;;Impuesto sobre el Valor Añadido
 2007;I;2;22;;;;Sobre consumos específicos
@@ -1994,7 +1994,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;2;28;282;;;Sobre transmisiones patrimoniales intervivos
 2007;I;2;28;283;;;Sobre Actos Jurídicos Documentados
 2007;I;2;28;289;;;Otros impuestos indirectos
-2007;I;3;;;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS
+2007;I;3;;;;;Tasas, precios publicos y otros ingresos
 2007;I;3;30;;;;Tasas
 2007;I;3;30;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros
 2007;I;3;30;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre
@@ -2028,7 +2028,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;3;33;335;;;Venta de material de desecho
 2007;I;3;33;337;;;Venta de impresos oficiales
 2007;I;3;33;339;;;Venta de otros bienes
-2007;I;3;36;;;;INGRESOS POR COMPENSACIÓN DE COSTES DE LAS ACTIVIDADES DE PREVENCIÓN
+2007;I;3;36;;;;Ingresos por compensación de costes de las actividades de prevención
 2007;I;3;36;360;;;Ingresos por compensación de costes de las actividades de prevención
 2007;I;3;37;;;;Cotizaciones de asociados
 2007;I;3;37;370;;;Cotizaciones de asociados
@@ -2042,7 +2042,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;3;39;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial)
 2007;I;3;39;398;;;Ingresos extraordinarios
 2007;I;3;39;399;;;Ingresos diversos
-2007;I;4;;;;;TRANSFERENCIAS CORRIENTES
+2007;I;4;;;;;Transferencias corrientes
 2007;I;4;40;;;;De la Administración del Estado
 2007;I;4;40;400;;;Del departamento al que está adscrito
 2007;I;4;40;401;;;De otros departamentos ministeriales
@@ -2091,7 +2091,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;4;49;492;;;Otras transferencias de la Unión Europea
 2007;I;4;49;493;;;Aportaciones derivadas de convenios internacionales de cooperación
 2007;I;4;49;499;;;Otras transferencias corrientes
-2007;I;5;;;;;INGRESOS PATRIMONIALES
+2007;I;5;;;;;Ingresos patrimoniales
 2007;I;5;50;;;;Intereses de títulos y valores
 2007;I;5;50;500;;;Del Estado
 2007;I;5;50;501;;;De organismos autónomos
@@ -2126,7 +2126,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;5;59;;;;Otros ingresos patrimoniales
 2007;I;5;59;592;;;Otros
 2007;I;5;59;599;;;Otros
-2007;I;6;;;;;ENAJENACION DE INVERSIONES REALES
+2007;I;6;;;;;Enajenacion de inversiones reales
 2007;I;6;60;;;;De terrenos
 2007;I;6;60;600;;;Venta de solares
 2007;I;6;60;601;;;Venta de fincas rústicas
@@ -2136,7 +2136,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;6;68;;;;Reintegros por operaciones de capital
 2007;I;6;68;680;;;De ejercicios cerrados
 2007;I;6;68;681;;;Del presupuesto corriente
-2007;I;7;;;;;TRANSFERENCIAS DE CAPITAL
+2007;I;7;;;;;Transferencias de capital
 2007;I;7;70;;;;De la Administración del Estado
 2007;I;7;70;700;;;Del departamento al que está adscrito
 2007;I;7;70;701;;;De otros departamentos ministeriales
@@ -2172,10 +2172,10 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;7;79;790;;;Fondo Europeo de Desarrollo Regional
 2007;I;7;79;791;;;Fondo de Cohesión
 2007;I;7;79;792;;;FEOGA-Orientación, Instrumento Financiero de Ordenación pesquera, Fondo Europeo de la Pesca y otros recursos agrarios y pesqueros
-2007;I;7;79;793;;;FEADER
+2007;I;7;79;793;;;Feader
 2007;I;7;79;794;;;Fondo Social Europeo
 2007;I;7;79;795;;;Otras transferencias de la Unión Europea
-2007;I;8;;;;;ACTIVOS FINANCIEROS
+2007;I;8;;;;;Activos financieros
 2007;I;8;80;;;;Enajenación de deuda del Sector Público
 2007;I;8;80;800;;;Enajenación de deuda del Sector Público a corto plazo
 2007;I;8;80;801;;;Enajenación de deuda del Sector Público a largo plazo
@@ -2196,7 +2196,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2007;I;8;87;;;;Remanente de tesorería
 2007;I;8;87;870;;;Remanente de tesorería
 2007;I;8;87;872;;;Remanente para la cobertura de prestaciones sociales de Accidentes de Trabajo
-2007;I;9;;;;;PASIVOS FINANCIEROS
+2007;I;9;;;;;Pasivos financieros
 2007;I;9;91;;;;Préstamos recibidos en moneda nacional
 2007;I;9;91;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.
 2007;I;9;91;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público

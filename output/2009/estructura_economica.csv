@@ -1,5 +1,5 @@
 EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA;DESCRIPCION LARGA
-2009;G;1;;;;;GASTOS DE PERSONAL
+2009;G;1;;;;;Gastos de personal
 2009;G;1;10;;;;Altos cargos
 2009;G;1;10;100;;;Retribuciones básicas y otras remuneraciones
 2009;G;1;10;101;;;Asignación Parlamentarios Europeos
@@ -52,7 +52,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;1;16;165/23211;;;Pensiones de jubilación especial por convenio colectivo.
 2009;G;1;16;169;;;Cuotas de Seguridad Social. Obligaciones de ejercicios anteriores.
 2009;G;1;19;;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2009;G;2;;;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS
+2009;G;2;;;;;Gastos corrientes en bienes y servicios
 2009;G;2;20;;;;Arrendamientos y cánones
 2009;G;2;20;200;;;Arrendamientos de terrenos y bienes naturales
 2009;G;2;20;201;;;Arrendamientos de edificios y otras construcciones.Obligaciones de ejercicios anteriores
@@ -121,7 +121,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;2;27;271;;;Servicios prestados por empresas
 2009;G;2;27;272;;;Otros gastos directamente relacionados con la actividad de la Agencia
 2009;G;2;29;;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2009;G;3;;;;;GASTOS FINANCIEROS
+2009;G;3;;;;;Gastos financieros
 2009;G;3;30;;;;De deuda pública en moneda nacional
 2009;G;3;30;300;;;Intereses
 2009;G;3;30;301;;;Gastos de emisión, modificación y cancelación
@@ -158,7 +158,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;3;35;359;;;Otros gastos financieros
 2009;G;3;39;;;;Obligaciones de ejercicios anteriores pendientes de imputar
 2009;G;3;39;399;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2009;G;4;;;;;TRANSFERENCIAS CORRIENTES
+2009;G;4;;;;;Transferencias corrientes
 2009;G;4;40;;;;A la Administración del Estado
 2009;G;4;40;400;;;Al Estado, para generar crédito en el Ministerio de Defensa
 2009;G;4;40;400/16101;;;Al Estado, para generar crédito en el Ministerio del Interior por acuerdo del Ministro de Economía y Hacienda
@@ -1307,12 +1307,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;4;49;499/23002;;;Pago deuda histórica cuotas OCDE
 2009;G;4;49;499/24006;;;A la OEI para la ejecución del programa iberescena
 2009;G;4;49;499/60001;;;Otras Tansferencias al Exterior
-2009;G;5;;;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS
+2009;G;5;;;;;Fondo de contingencia y otros imprevistos
 2009;G;5;50;;;;Dotación al Fondo de Contingencia
 2009;G;5;50;500;;;Fondo de Contingencia de Ejecución Presupuestaria.  Artículo 15 texto refundido de la Ley General de Estabilidad Presupuestaria (R. D. Legislativo 2/2007)
 2009;G;5;51;;;;Otros Imprevistos
 2009;G;5;51;510;;;Para atender necesidades que puedan presentarse en los Departamentos Ministeriales
-2009;G;6;;;;;INVERSIONES REALES
+2009;G;6;;;;;Inversiones reales
 2009;G;6;60;;;;Inv. nueva en infraestr. y bienes destinados al uso general
 2009;G;6;60;600;;;Inversiones en terrenos
 2009;G;6;60;601;;;Otras
@@ -1358,7 +1358,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;6;66;660;;;Inversiones militares asociadas al funcionamiento operativo de los servicios
 2009;G;6;67;;;;Gastos militares de inversiones de carácter inmaterial
 2009;G;6;67;670;;;Gastos militares en inversiones de carácter inmaterial
-2009;G;7;;;;;TRANSFERENCIAS DE CAPITAL
+2009;G;7;;;;;Transferencias de capital
 2009;G;7;70;;;;A la Administración del Estado
 2009;G;7;70;700;;;Ai Estado. Ayudas Desarrollo Rural.FEGA Organismo pagador
 2009;G;7;71;;;;A organismos autónomos
@@ -1873,7 +1873,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;78;781/18008;;;Para actuaciones de acción social
 2009;G;7;78;781/18101;;;A Federaciones Deportivas Españolas y de Discapacitados y otras entidades y asociaciones, para instalaciones deportivas y equipamientos
 2009;G;7;78;781/19007;;;Subvención a CRE para atender a inmigrantes llegados a las costas españolas
-2009;G;7;78;781/20014;;;AVANZA PYME
+2009;G;7;78;781/20014;;;Avanza pyme
 2009;G;7;78;781/20017;;;A Agrupaciones Empresariales Innovadoras (AEI)
 2009;G;7;78;781/20019;;;Actuaciones de Seguridad Minera
 2009;G;7;78;781/20101;;;Reactivación económica de las comarcas mineras del carbón
@@ -2012,7 +2012,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;7;79;797;;;Participación en la construcción del imán superconductor del experimento AMS (Alpha Magnetic Spectrometer)
 2009;G;7;79;798;;;Aportación al Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED)
 2009;G;7;79;799;;;Colaboración en la integración, probado y operación del experimento AMS (Alpha Magnetic Spectrometer)
-2009;G;8;;;;;ACTIVOS FINANCIEROS
+2009;G;8;;;;;Activos financieros
 2009;G;8;80;;;;Adquisición de deuda del Sector Público
 2009;G;8;80;800;;;Adquisición de deuda del Sector Público a corto plazo
 2009;G;8;80;801;;;Adquisición de deuda del Sector Público a largo plazo
@@ -2083,7 +2083,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;8;88;881;;;Afectos al Fondo de Prevención y Rehabilitación
 2009;G;8;89;;;;Obligaciones de ejercicios anteriores pendientes de imputar
 2009;G;8;89;899;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2009;G;9;;;;;PASIVOS FINANCIEROS
+2009;G;9;;;;;Pasivos financieros
 2009;G;9;90;;;;Amortización de deuda pública en moneda nacional
 2009;G;9;90;900;;;Amortización  de deuda  pública en  moneda nacional  a corto plazo
 2009;G;9;90;901;;;Amortización de deuda pública en moneda nacional a largo plazo
@@ -2098,7 +2098,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;G;9;94;;;;Devolución de depósitos y fianzas
 2009;G;9;94;940;;;Devolución de depósitos
 2009;G;9;94;941;;;Devolución de fianzas
-2009;I;1;;;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES
+2009;I;1;;;;;Impuestos directos y cotizaciones sociales
 2009;I;1;10;;;;Sobre la renta
 2009;I;1;10;100;;;De las personas físicas
 2009;I;1;10;101;;;De sociedades
@@ -2116,7 +2116,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;1;12;127;;;Cotizaciones de acctes. trabajo y e. p.
 2009;I;1;12;128;;;Cotizaciones de desempleados
 2009;I;1;12;129;;;Otras cotizaciones
-2009;I;2;;;;;IMPUESTOS INDIRECTOS
+2009;I;2;;;;;Impuestos indirectos
 2009;I;2;21;;;;Sobre el Valor Añadido
 2009;I;2;21;210;;;Impuesto sobre el Valor Añadido
 2009;I;2;22;;;;Sobre consumos específicos
@@ -2129,7 +2129,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;2;28;281;;;Impuesto sobre las Primas de Seguros
 2009;I;2;28;282;;;Sobre transmisiones patrimoniales intervivos
 2009;I;2;28;283;;;Sobre Actos Jurídicos Documentados
-2009;I;3;;;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS
+2009;I;3;;;;;Tasas, precios publicos y otros ingresos
 2009;I;3;30;;;;Tasas
 2009;I;3;30;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros
 2009;I;3;30;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre
@@ -2178,7 +2178,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;3;39;398;;;Ingresos extraordinarios
 2009;I;3;39;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene
 2009;I;3;39;399;;;Ingresos diversos
-2009;I;4;;;;;TRANSFERENCIAS CORRIENTES
+2009;I;4;;;;;Transferencias corrientes
 2009;I;4;40;;;;De la Administración del Estado
 2009;I;4;40;400;;;Del departamento al que está adscrito
 2009;I;4;40;401;;;De otros departamentos ministeriales
@@ -2229,7 +2229,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;4;49;492;;;Otras transferencias de la Unión Europea
 2009;I;4;49;493;;;Aportaciones derivadas de convenios internacionales de cooperación
 2009;I;4;49;499;;;Otras transferencias corrientes
-2009;I;5;;;;;INGRESOS PATRIMONIALES
+2009;I;5;;;;;Ingresos patrimoniales
 2009;I;5;50;;;;Intereses de títulos y valores
 2009;I;5;50;500;;;Del Estado
 2009;I;5;50;501;;;De organismos autónomos
@@ -2263,7 +2263,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;5;58;580;;;Variación del fondo de maniobra
 2009;I;5;59;;;;Otros ingresos patrimoniales
 2009;I;5;59;599;;;Otros
-2009;I;6;;;;;ENAJENACION DE INVERSIONES REALES
+2009;I;6;;;;;Enajenacion de inversiones reales
 2009;I;6;60;;;;De terrenos
 2009;I;6;60;600;;;Venta de solares
 2009;I;6;60;601;;;Venta de fincas rústicas
@@ -2273,7 +2273,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;6;68;;;;Reintegros por operaciones de capital
 2009;I;6;68;680;;;De ejercicios cerrados
 2009;I;6;68;681;;;Del presupuesto corriente
-2009;I;7;;;;;TRANSFERENCIAS DE CAPITAL
+2009;I;7;;;;;Transferencias de capital
 2009;I;7;70;;;;De la Administración del Estado
 2009;I;7;70;700;;;Del departamento al que está adscrito
 2009;I;7;70;701;;;De otros departamentos ministeriales
@@ -2317,10 +2317,10 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;7;79;790;;;Fondo Europeo de Desarrollo Regional
 2009;I;7;79;791;;;Fondo de Cohesión
 2009;I;7;79;792;;;FEOGA-ORIENTACIÓN, Instrumento Financiero de Ordenación Pesquera, Fondo Europeo de la Pesca y otros recursos agrarios y pesqueros
-2009;I;7;79;793;;;FEADER
+2009;I;7;79;793;;;Feader
 2009;I;7;79;794;;;Fondo Social Europeo
 2009;I;7;79;795;;;Otras transferencias de la Unión Europea
-2009;I;8;;;;;ACTIVOS FINANCIEROS
+2009;I;8;;;;;Activos financieros
 2009;I;8;80;;;;Enajenación de deuda del Sector Público
 2009;I;8;80;800;;;Enajenación de deuda del Sector Público a corto plazo
 2009;I;8;80;801;;;Enajenación de deuda del Sector Público a largo plazo
@@ -2341,7 +2341,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2009;I;8;87;;;;Remanente de tesorería
 2009;I;8;87;870;;;Remanente de tesorería
 2009;I;8;87;872;;;Remanente para la cobertura de prestaciones sociales de Accidentes de Trabajo
-2009;I;9;;;;;PASIVOS FINANCIEROS
+2009;I;9;;;;;Pasivos financieros
 2009;I;9;91;;;;Préstamos recibidos en moneda nacional
 2009;I;9;91;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.
 2009;I;9;91;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público

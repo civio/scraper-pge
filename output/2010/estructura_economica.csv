@@ -1,5 +1,5 @@
 EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA;DESCRIPCION LARGA
-2010;G;1;;;;;GASTOS DE PERSONAL
+2010;G;1;;;;;Gastos de personal
 2010;G;1;10;;;;Altos cargos
 2010;G;1;10;100;;;Retribuciones básicas y otras remuneraciones
 2010;G;1;10;101;;;Asignación Constitucional Señores Diputados
@@ -54,7 +54,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;1;16;165/23211;;;Pensiones de jubilación especial por convenio colectivo.
 2010;G;1;16;169;;;Transporte de personal. Obligaciones de ejercicios anteriores
 2010;G;1;19;;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2010;G;2;;;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS
+2010;G;2;;;;;Gastos corrientes en bienes y servicios
 2010;G;2;20;;;;Arrendamientos y cánones
 2010;G;2;20;200;;;Arrendamientos de terrenos y bienes naturales
 2010;G;2;20;201;;;Arrendamientos de edificios y otras construcciones.Obligaciones de ejercicios anteriores
@@ -124,7 +124,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;2;27;271;;;Servicios prestados por empresas
 2010;G;2;27;272;;;Otros gastos directamente relacionados con la actividad de la Agencia
 2010;G;2;29;;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2010;G;3;;;;;GASTOS FINANCIEROS
+2010;G;3;;;;;Gastos financieros
 2010;G;3;30;;;;De deuda pública en moneda nacional
 2010;G;3;30;300;;;Intereses
 2010;G;3;30;301;;;Gastos de emisión, modificación y cancelación
@@ -165,7 +165,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;3;35;359;;;Otros gastos financieros
 2010;G;3;39;;;;Obligaciones de ejercicios anteriores pendientes de imputar
 2010;G;3;39;399;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2010;G;4;;;;;TRANSFERENCIAS CORRIENTES
+2010;G;4;;;;;Transferencias corrientes
 2010;G;4;40;;;;A la Administración del Estado
 2010;G;4;40;400;;;Al Estado, para generar crédito en el Ministerio del Interior por acuerdo del Ministro de Economía y Hacienda
 2010;G;4;40;400/19101;;;Planes de reinserción y de mejora de la capacidad de ocupación de demandantes de empleo
@@ -344,7 +344,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;4;44;441/24006;;;A la Fundación Centro Nacional del Vidrio para sus gastos de funcionamiento
 2010;G;4;44;441/24201;;;Transferencias para actividades musicales y coreográficas de ámbito nacional.
 2010;G;4;44;442;;;A la Fundación Internacional y para Iberoamércia de Administración y Políticas Públicas
-2010;G;4;44;442/12004;;;FIIAPP
+2010;G;4;44;442/12004;;;Fiiapp
 2010;G;4;44;442/12401;;;Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas, para funcionamiento y actividades
 2010;G;4;44;442/15001;;;Al Grupo de la Corporación R.T.V.E.
 2010;G;4;44;442/16004;;;Centro Universitario Guardia Civil
@@ -1341,12 +1341,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;4;49;499/23002;;;Pago deuda histórica cuotas OCDE
 2010;G;4;49;499/24006;;;A la OEI para la ejecución del programa iberescena
 2010;G;4;49;499/60001;;;Otras Tansferencias al Exterior
-2010;G;5;;;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS
+2010;G;5;;;;;Fondo de contingencia y otros imprevistos
 2010;G;5;50;;;;Dotación al Fondo de Contingencia
 2010;G;5;50;500;;;Fondo de Contingencia de Ejecución Presupuestaria.  Artículo 15 texto refundido de la Ley General de Estabilidad Presupuestaria (R. D. Legislativo 2/2007)
 2010;G;5;51;;;;Otros Imprevistos
 2010;G;5;51;510;;;Para atender necesidades que puedan presentarse en los Departamentos Ministeriales
-2010;G;6;;;;;INVERSIONES REALES
+2010;G;6;;;;;Inversiones reales
 2010;G;6;60;;;;Inv. nueva en infraestr. y bienes destinados al uso general
 2010;G;6;60;600;;;Inversiones en terrenos
 2010;G;6;60;601;;;Otras
@@ -1398,7 +1398,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;6;66;660;;;Inversiones militares asociadas al funcionamiento operativo de los servicios
 2010;G;6;67;;;;Gastos militares de inversiones de carácter inmaterial
 2010;G;6;67;670;;;Gastos militares en inversiones de carácter inmaterial
-2010;G;7;;;;;TRANSFERENCIAS DE CAPITAL
+2010;G;7;;;;;Transferencias de capital
 2010;G;7;70;;;;A la Administración del Estado
 2010;G;7;70;700;;;Ai Estado. Ayudas Desarrollo Rural.FEGA Organismo pagador
 2010;G;7;71;;;;A organismos autónomos
@@ -1944,7 +1944,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;7;78;781/18001;;;Ayudas para inversiones en el Instituto de España y Academias de ámbito estatal.
 2010;G;7;78;781/18007;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores, incluido pago de primas de seguros de los becarios
 2010;G;7;78;781/19007;;;Subvención a Cruz Roja Española para la atención en asentamientos y de inmigrantes llegados a las costas españolas
-2010;G;7;78;781/20014;;;AVANZA PYME
+2010;G;7;78;781/20014;;;Avanza pyme
 2010;G;7;78;781/20016;;;Subvenciones para la adquisición de vehículos Plan 2000 E incluidas, si las hubiera, las obligaciones de ejercicios anteriores, de apoyo a la renovación del parque de vehículos
 2010;G;7;78;781/20017;;;A Agrupaciones Empresariales Innovadoras (AEI)
 2010;G;7;78;781/20019;;;Actuaciones de Seguridad Minera
@@ -2072,7 +2072,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;7;79;798;;;Aportación al Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED)
 2010;G;7;79;799;;;Transferencias, ayudas nominativas y otros
 2010;G;7;79;799/21203;;;Colaboración en la integración, probado y operación del experimento AMS (Alpha Magnetic Spectrometer)
-2010;G;8;;;;;ACTIVOS FINANCIEROS
+2010;G;8;;;;;Activos financieros
 2010;G;8;80;;;;Adquisición de deuda del Sector Público
 2010;G;8;80;800;;;Adquisición de deuda del Sector Público a corto plazo
 2010;G;8;80;801;;;Adquisición de deuda del Sector Público a largo plazo
@@ -2141,7 +2141,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;8;88;881;;;Afectos al Fondo de Prevención y Rehabilitación
 2010;G;8;89;;;;Obligaciones de ejercicios anteriores pendientes de imputar
 2010;G;8;89;899;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2010;G;9;;;;;PASIVOS FINANCIEROS
+2010;G;9;;;;;Pasivos financieros
 2010;G;9;90;;;;Amortización de deuda pública en moneda nacional
 2010;G;9;90;900;;;Amortización  de deuda  pública en  moneda nacional  a corto plazo
 2010;G;9;90;901;;;Amortización de deuda pública en moneda nacional a largo plazo
@@ -2156,7 +2156,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;G;9;94;;;;Devolución de depósitos y fianzas
 2010;G;9;94;940;;;Devolución de depósitos
 2010;G;9;94;941;;;Devolución de fianzas
-2010;I;1;;;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES
+2010;I;1;;;;;Impuestos directos y cotizaciones sociales
 2010;I;1;10;;;;Sobre la renta
 2010;I;1;10;100;;;De las personas físicas
 2010;I;1;10;101;;;De sociedades
@@ -2174,7 +2174,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;I;1;12;127;;;Cotizaciones de acctes. trabajo y e. p.
 2010;I;1;12;128;;;Cotizaciones de desempleados
 2010;I;1;12;129;;;Otras cotizaciones
-2010;I;2;;;;;IMPUESTOS INDIRECTOS
+2010;I;2;;;;;Impuestos indirectos
 2010;I;2;21;;;;Sobre el Valor Añadido
 2010;I;2;21;210;;;Impuesto sobre el Valor Añadido
 2010;I;2;22;;;;Sobre consumos específicos
@@ -2187,7 +2187,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;I;2;28;281;;;Impuesto sobre las Primas de Seguros
 2010;I;2;28;282;;;Sobre transmisiones patrimoniales intervivos
 2010;I;2;28;283;;;Sobre Actos Jurídicos Documentados
-2010;I;3;;;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS
+2010;I;3;;;;;Tasas, precios publicos y otros ingresos
 2010;I;3;30;;;;Tasas
 2010;I;3;30;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros
 2010;I;3;30;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre
@@ -2235,7 +2235,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;I;3;39;398;;;Ingresos extraordinarios
 2010;I;3;39;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene
 2010;I;3;39;399;;;Ingresos diversos
-2010;I;4;;;;;TRANSFERENCIAS CORRIENTES
+2010;I;4;;;;;Transferencias corrientes
 2010;I;4;40;;;;De la Administración del Estado
 2010;I;4;40;400;;;Del departamento al que está adscrito
 2010;I;4;40;401;;;De otros departamentos ministeriales
@@ -2286,7 +2286,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;I;4;49;492;;;Otras transferencias de la Unión Europea
 2010;I;4;49;493;;;Aportaciones derivadas de convenios internacionales de cooperación
 2010;I;4;49;499;;;Otras transferencias corrientes
-2010;I;5;;;;;INGRESOS PATRIMONIALES
+2010;I;5;;;;;Ingresos patrimoniales
 2010;I;5;50;;;;Intereses de títulos y valores
 2010;I;5;50;500;;;Del Estado
 2010;I;5;50;501;;;De organismos autónomos
@@ -2319,7 +2319,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;I;5;58;580;;;Variación del fondo de maniobra
 2010;I;5;59;;;;Otros ingresos patrimoniales
 2010;I;5;59;599;;;Otros
-2010;I;6;;;;;ENAJENACION DE INVERSIONES REALES
+2010;I;6;;;;;Enajenacion de inversiones reales
 2010;I;6;60;;;;De terrenos
 2010;I;6;60;600;;;Venta de solares
 2010;I;6;60;601;;;Venta de fincas rústicas
@@ -2329,7 +2329,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;I;6;68;;;;Reintegros por operaciones de capital
 2010;I;6;68;680;;;De ejercicios cerrados
 2010;I;6;68;681;;;Del presupuesto corriente
-2010;I;7;;;;;TRANSFERENCIAS DE CAPITAL
+2010;I;7;;;;;Transferencias de capital
 2010;I;7;70;;;;De la Administración del Estado
 2010;I;7;70;700;;;Del departamento al que está adscrito
 2010;I;7;70;701;;;De otros departamentos ministeriales
@@ -2377,7 +2377,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;I;7;79;793;;;Fondo Europeo Agrícola de Garantía (FEAGA)
 2010;I;7;79;794;;;Fondo Social Europeo
 2010;I;7;79;795;;;Otras transferencias de la Unión Europea
-2010;I;8;;;;;ACTIVOS FINANCIEROS
+2010;I;8;;;;;Activos financieros
 2010;I;8;80;;;;Enajenación de deuda del Sector Público
 2010;I;8;80;800;;;Enajenación de deuda del Sector Público a corto plazo
 2010;I;8;80;801;;;Enajenación de deuda del Sector Público a largo plazo
@@ -2398,7 +2398,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2010;I;8;87;;;;Remanente de tesorería
 2010;I;8;87;870;;;Remanente de tesorería
 2010;I;8;87;872;;;Remanente para la cobertura de prestaciones sociales de Accidentes de Trabajo
-2010;I;9;;;;;PASIVOS FINANCIEROS
+2010;I;9;;;;;Pasivos financieros
 2010;I;9;91;;;;Préstamos recibidos en moneda nacional
 2010;I;9;91;910;;;Préstamos recibidos a corto plazo de entes del Sector Público
 2010;I;9;91;911;;;Préstamos recibidos a largo plazo de Entes del Sector Público

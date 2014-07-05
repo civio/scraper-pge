@@ -1,5 +1,5 @@
 EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA;DESCRIPCION LARGA
-2012;G;1;;;;;GASTOS DE PERSONAL
+2012;G;1;;;;;Gastos de personal
 2012;G;1;10;;;;Altos cargos
 2012;G;1;10;100;;;Retribuciones básicas y otras remuneraciones
 2012;G;1;10;101;;;Asignación Constitucional Señores Diputados
@@ -51,7 +51,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;1;16;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
 2012;G;1;16;165/23211;;;Pensiones de jubilación especial por convenio colectivo.
 2012;G;1;16;169;;;Obligaciones de ejercicios anteriores
-2012;G;2;;;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS
+2012;G;2;;;;;Gastos corrientes en bienes y servicios
 2012;G;2;20;;;;Arrendamientos y cánones
 2012;G;2;20;200;;;Arrendamientos de terrenos y bienes naturales
 2012;G;2;20;202;;;Arrendamientos de edificios y otras construcciones
@@ -117,7 +117,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;2;27;271;;;Servicios prestados por empresas
 2012;G;2;27;272;;;Otros gastos directamente relacionados con la actividad de la Agencia
 2012;G;2;29;;;;Obligaciones de ejercicios anteriores pendientes de imputar
-2012;G;3;;;;;GASTOS FINANCIEROS
+2012;G;3;;;;;Gastos financieros
 2012;G;3;30;;;;De deuda pública en moneda nacional
 2012;G;3;30;300;;;Intereses
 2012;G;3;30;301;;;Gastos de emisión, modificación y cancelación
@@ -152,7 +152,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;3;35;358/19001;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
 2012;G;3;35;358/23018;;;Intereses de demora correspondientes a liquidaciones de ejercicios anteriores.
 2012;G;3;35;359;;;Otros gastos financieros
-2012;G;4;;;;;TRANSFERENCIAS CORRIENTES
+2012;G;4;;;;;Transferencias corrientes
 2012;G;4;40;;;;A la Administración del Estado
 2012;G;4;40;400;;;A la Administración del Estado
 2012;G;4;40;400/16101;;;Al Estado, para generar crédito en el Ministerio del Interior, según la DIsposición adicional segunda de la Ley Orgánica 6/2011
@@ -1165,12 +1165,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;4;49;499/20012;;;A la Iniciativa Ambient Asistent Living Association (AAL)
 2012;G;4;49;499/23002;;;Deuda Histórica por cuotas obligatorias a Organismos Internacionales pendientes de años anteriores
 2012;G;4;49;499/27012;;;Transferencias, ayudas nominativas y otros
-2012;G;5;;;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS
+2012;G;5;;;;;Fondo de contingencia y otros imprevistos
 2012;G;5;50;;;;Dotación al Fondo de Contingencia
 2012;G;5;50;500;;;Fondo de Contingencia de Ejecución Presupuestaria, Artículo 50 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria
 2012;G;5;51;;;;Otros Imprevistos
 2012;G;5;51;510;;;Para atender necesidades que puedan presentarse en los Departamentos Ministeriales
-2012;G;6;;;;;INVERSIONES REALES
+2012;G;6;;;;;Inversiones reales
 2012;G;6;60;;;;Inv. nueva en infraestr. y bienes destinados al uso general
 2012;G;6;60;600;;;Inversiones en terrenos
 2012;G;6;60;601;;;Otras
@@ -1211,7 +1211,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;6;66;668;;;Gastos originados por participación de las Fuerzas Armadas en operaciones de mantenimiento de la paz
 2012;G;6;67;;;;Gastos militares de inversiones de carácter inmaterial
 2012;G;6;67;670;;;Gastos militares en inversiones de carácter inmaterial
-2012;G;7;;;;;TRANSFERENCIAS DE CAPITAL
+2012;G;7;;;;;Transferencias de capital
 2012;G;7;70;;;;A la Administración del Estado
 2012;G;7;70;700;;;Al Estado. Ayudas Desarrollo Rural.FEGA Organismo pagador
 2012;G;7;71;;;;A organismos autónomos
@@ -1595,7 +1595,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;7;78;781/18105;;;A la Fundación Francisco Giner de los Ríos para la rehabilitación integral de su patrimonio histórico-arquitectónico
 2012;G;7;78;781/18106;;;A Federaciones Deportivas Españolas y de Discapacitados y otras entidades y asociaciones, para instalaciones deportivas y equipamientos
 2012;G;7;78;781/19007;;;Subvención a Cruz Roja Española para inversiones destinadas a la atención en asentamientos y de inmigrantes llegados a las costas españolas
-2012;G;7;78;781/20012;;;AVANZA PYME
+2012;G;7;78;781/20012;;;Avanza pyme
 2012;G;7;78;781/20019;;;Actuaciones de Seguridad Minera
 2012;G;7;78;781/20101;;;Reactivación económica de las comarcas mineras del carbón
 2012;G;7;78;781/23008;;;Programa para la UICN (Unión Internacional para la Conservación de la Naturaleza)
@@ -1679,7 +1679,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;7;79;796/12401;;;Para Ayuda Oficial al Desarrollo
 2012;G;7;79;799;;;Transferencias, ayudas nominativas y otros
 2012;G;7;79;799/27201;;;Colaboración en la integración, probado y operación del experimento AMS (Alpha Magnetic Spectrometer)
-2012;G;8;;;;;ACTIVOS FINANCIEROS
+2012;G;8;;;;;Activos financieros
 2012;G;8;80;;;;Adquisición de deuda del Sector Público
 2012;G;8;80;800;;;Adquisición de deuda del Sector Público a corto plazo
 2012;G;8;80;801;;;Adquisición de deuda del Sector Público a largo plazo
@@ -1737,7 +1737,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;8;88;;;;Dotaciones
 2012;G;8;88;880;;;Dotación al Fondo de Reserva (Art. 91.1 de la Ley General de la Seguridad Social)
 2012;G;8;88;881;;;Afectos al Fondo de Prevención y Rehabilitación
-2012;G;9;;;;;PASIVOS FINANCIEROS
+2012;G;9;;;;;Pasivos financieros
 2012;G;9;90;;;;Amortización de deuda pública en moneda nacional
 2012;G;9;90;900;;;Amortización  de deuda  pública en  moneda nacional  a corto plazo
 2012;G;9;90;901;;;Amortización de deuda pública en moneda nacional a largo plazo
@@ -1753,7 +1753,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;G;9;94;;;;Devolución de depósitos y fianzas
 2012;G;9;94;940;;;Devolución de depósitos
 2012;G;9;94;941;;;Devolución de fianzas
-2012;I;1;;;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES
+2012;I;1;;;;;Impuestos directos y cotizaciones sociales
 2012;I;1;10;;;;Sobre la renta
 2012;I;1;10;100;;;De las personas físicas
 2012;I;1;10;101;;;De sociedades
@@ -1772,7 +1772,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;I;1;12;127;;;Cotizaciones de acctes. trabajo y e. p.
 2012;I;1;12;128;;;Cotizaciones de desempleados, cese de actividad de trabajadores autónomos y bonificaciones para el fomento del empleo
 2012;I;1;12;129;;;Otras cotizaciones
-2012;I;2;;;;;IMPUESTOS INDIRECTOS
+2012;I;2;;;;;Impuestos indirectos
 2012;I;2;21;;;;Sobre el Valor Añadido
 2012;I;2;21;210;;;Impuesto sobre el Valor Añadido
 2012;I;2;22;;;;Sobre consumos específicos
@@ -1786,7 +1786,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;I;2;28;282;;;Sobre transmisiones patrimoniales intervivos
 2012;I;2;28;283;;;Impuesto sobre actividades del juego
 2012;I;2;28;289;;;Otros impuestos indirectos
-2012;I;3;;;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS
+2012;I;3;;;;;Tasas, precios publicos y otros ingresos
 2012;I;3;30;;;;Tasas
 2012;I;3;30;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros
 2012;I;3;30;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre
@@ -1834,7 +1834,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;I;3;39;398;;;Ingresos extraordinarios
 2012;I;3;39;398/60001;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene
 2012;I;3;39;399;;;Ingresos diversos
-2012;I;4;;;;;TRANSFERENCIAS CORRIENTES
+2012;I;4;;;;;Transferencias corrientes
 2012;I;4;40;;;;De la Administración del Estado
 2012;I;4;40;400;;;Del departamento al que está adscrito
 2012;I;4;40;401;;;De otros departamentos ministeriales
@@ -1887,7 +1887,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;I;4;49;492;;;Otras transferencias de la Unión Europea
 2012;I;4;49;493;;;Aportaciones derivadas de convenios internacionales de cooperación
 2012;I;4;49;499;;;Otras transferencias corrientes
-2012;I;5;;;;;INGRESOS PATRIMONIALES
+2012;I;5;;;;;Ingresos patrimoniales
 2012;I;5;50;;;;Intereses de títulos y valores
 2012;I;5;50;500;;;Del Estado
 2012;I;5;50;501;;;De organismos autónomos
@@ -1919,7 +1919,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;I;5;57;570;;;Resultados de operaciones comerciales
 2012;I;5;59;;;;Otros ingresos patrimoniales
 2012;I;5;59;599;;;Otros
-2012;I;6;;;;;ENAJENACION DE INVERSIONES REALES
+2012;I;6;;;;;Enajenacion de inversiones reales
 2012;I;6;60;;;;De terrenos
 2012;I;6;60;600;;;Venta de solares
 2012;I;6;60;601;;;Venta de fincas rústicas
@@ -1929,7 +1929,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;I;6;68;;;;Reintegros por operaciones de capital
 2012;I;6;68;680;;;De ejercicios cerrados
 2012;I;6;68;681;;;Del presupuesto corriente
-2012;I;7;;;;;TRANSFERENCIAS DE CAPITAL
+2012;I;7;;;;;Transferencias de capital
 2012;I;7;70;;;;De la Administración del Estado
 2012;I;7;70;700;;;Del departamento al que está adscrito
 2012;I;7;70;701;;;De otros departamentos ministeriales
@@ -1967,7 +1967,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;I;7;79;793;;;Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
 2012;I;7;79;794;;;Fondo Social Europeo
 2012;I;7;79;795;;;Otras transferencias de la Unión Europea
-2012;I;8;;;;;ACTIVOS FINANCIEROS
+2012;I;8;;;;;Activos financieros
 2012;I;8;80;;;;Enajenación de deuda del Sector Público
 2012;I;8;80;800;;;Enajenación de deuda del Sector Público a corto plazo
 2012;I;8;80;801;;;Enajenación de deuda del Sector Público a largo plazo
@@ -1985,7 +1985,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2012;I;8;84;841;;;Devolución de fianzas
 2012;I;8;87;;;;Remanente de tesorería
 2012;I;8;87;870;;;Remanente de tesorería
-2012;I;9;;;;;PASIVOS FINANCIEROS
+2012;I;9;;;;;Pasivos financieros
 2012;I;9;91;;;;Préstamos recibidos en moneda nacional
 2012;I;9;91;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.
 2012;I;9;91;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público
