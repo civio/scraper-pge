@@ -167,7 +167,7 @@ class BudgetSummaryView < Mustache
     # adding up gross figures for the different chapters? Or does it add net figures, and 
     # add the transfers at the end to get the overall gross figure. Well, it depends on the 
     # year of the budget! Oh yeah!
-    add_gross_figures = ['2014'].include? @year
+    add_gross_figures = ['2014', '2015'].include? @year
     if add_gross_figures
       gross_total_name = "TOTAL PRESUPUESTO"
     else
@@ -191,7 +191,7 @@ class BudgetSummaryView < Mustache
                           beautify(sum(@expenses[entity_id], 9)),
                           url )
 
-    if transfers != 0 or ['2014'].include? @year # snif
+    if transfers != 0 or ['2014', '2015'].include? @year # snif
       checks << check_equal("Gastos #{entity_description} - presupuesto consolidado", 
                             get_official_value(expenses, "TOTAL CONSOLIDADO"),
                             beautify(sum(@expenses[entity_id], 9)+transfers),
