@@ -107,7 +107,7 @@ class EntityBreakdown < BaseBreakdown
     data_grid = []
     get_data_rows.each do |row|
       columns = row.css('td').map{|td| td.text.strip}
-      columns.shift if year == '2012' or year == '2013' or year == '2014' or year == '2015'
+      columns.shift if ['2012', '2013', '2014', '2015', '2016'].include? year
       columns.insert(0,'') unless is_state_entity? # They lack the first column, 'service'
       item = {
         :service => columns[0], 
@@ -143,7 +143,7 @@ class EntityBreakdown < BaseBreakdown
   end
   
   def self.get_expense_breakdown_filename_regex(year, is_state_entity)
-    if year == '2012' || year == '2013' || year == '2014' || year == '2015'
+    if ['2012', '2013', '2014', '2015', '2016'].include? year
       is_state_entity ? 
         /N_(\d\d)_[AE]_V_1_10([1234])_1_1_2_2_[1234](\d\d)_1_2.HTM/ :
         /N_(\d\d)_[AE]_V_1_10([1234])_2_1_[1234](\d\d)_1_1(\d\d\d)_2_2_1.HTM/;
