@@ -1,0 +1,2586 @@
+EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
+2016;13102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;96175910
+2016;14113;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;726778770
+2016;15106;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;1586862260
+2016;19101;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;20331005030
+2016;19102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;493500000
+2016;60004;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;117242577410
+2016;98001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;69404000000
+2016;98001;10;;;Sobre la renta;66466000000
+2016;98001;100;;;De las personas físicas;39610000000
+2016;98001;100;;00;Impuesto sobre la Renta de las Personas Físicas;39854000000
+2016;98001;100;;99;Asignacion tributaria a la Iglesia Catolica;-244000000
+2016;98001;101;;;De sociedades;24868000000
+2016;98001;101;;00;Impuesto sobre Sociedades;24868000000
+2016;98001;102;;;De no residentes;1988000000
+2016;98001;102;;00;Impuesto sobre la Renta de no Residentes;1988000000
+2016;98001;11;;;Sobre el capital;151000000
+2016;98001;119;;;Otros impuestos sobre el capital;151000000
+2016;98001;119;;00;Impuesto General sobre Sucesiones y Donaciones.;113000000
+2016;98001;119;;01;Impuesto sobre el Patrimonio;38000000
+2016;13102;12;;;Cotizaciones sociales;96175910
+2016;14113;12;;;Cotizaciones sociales;726778770
+2016;15106;12;;;Cotizaciones sociales;1586862260
+2016;19101;12;;;Cotizaciones sociales;20331005030
+2016;19102;12;;;Cotizaciones sociales;493500000
+2016;60004;12;;;Cotizaciones sociales;117242577410
+2016;98001;12;;;Cotizaciones sociales;923000000
+2016;13102;120;;;Cotizaciones de los regímenes especiales de funcionarios;96175910
+2016;14113;120;;;Cotizaciones de los regímenes especiales de funcionarios;726778770
+2016;15106;120;;;Cotizaciones de los regímenes especiales de funcionarios;1586862260
+2016;98001;120;;;Cotizaciones de los regímenes especiales de funcionarios;923000000
+2016;98001;120;;00;Cuotas de Derechos Pasivos;923000000
+2016;13102;120;;01;Cuotas de funcionarios a Mutualidades;24251510
+2016;14113;120;;01;Cuotas de funcionarios a Mutualidades;102658290
+2016;15106;120;;01;Cuotas de funcionarios a Mutualidades;333767240
+2016;13102;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;71883400
+2016;14113;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;624120480
+2016;15106;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;1253095020
+2016;13102;120;;03;Cuotas sociales Mutualidad Benéfica de Funcionarios de la Justicia Municipal;13000
+2016;13102;120;;04;Cuotas sociales de Previsión de Funcionarios de la Administración de Justicia;14000
+2016;13102;120;;05;Cuotas sociales Mutualidad Benéfica de Funcionarios del Cuerpo Auxiliar de la Administración de Justicia;14000
+2016;60004;121;;;Cotizaciones del Regimen General;89624870000
+2016;60004;122;;;Cotizaciones del R.E.T. Autonomos;12358480000
+2016;60004;124;;;Cotizaciones R.E. Trabajadores del Mar;312570000
+2016;60004;125;;;Cotizaciones R.E. Mineria del Carbon;162230000
+2016;60004;127;;;Cotizaciones de acctes. trabajo y e. p.;7858950000
+2016;60004;128;;;Cotizaciones de desempleados, cese de actividad de trabajadores autónomos y bonificaciones para el fomento del empleo;6770547410
+2016;19101;129;;;Otras cotizaciones;20331005030
+2016;19102;129;;;Otras cotizaciones;493500000
+2016;60004;129;;;Otras cotizaciones;154930000
+2016;19101;129;;00;Cuota de desempleo;18410542370
+2016;19101;129;;01;Cuota de formación profesional;1904641010
+2016;19102;129;;02;Cuotas empresariales al Fondo de Garantía Salarial;493500000
+2016;19101;129;;03;Cuota de protección por cese de actividad;15821650
+2016;98001;13;;;Impuestos sobre la producción y almacenamiento de energía eléctrica y combustible;1864000000
+2016;98001;130;;;Sobre el valor de la producción de la energía eléctrica;1627000000
+2016;98001;131;;;Sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica;230000000
+2016;98001;132;;;Sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas;7000000
+2016;98001;2;;;IMPUESTOS INDIRECTOS;43476000000
+2016;98001;21;;;Sobre el Valor Añadido;31334000000
+2016;98001;210;;;Impuesto sobre el Valor Añadido;31334000000
+2016;98001;210;;00;IVA sobre importaciones;5965000000
+2016;98001;210;;01;IVA sobre operaciones interiores;25369000000
+2016;98001;22;;;Sobre consumos específicos;7923000000
+2016;98001;220;;;Impuestos especiales;7923000000
+2016;98001;220;;00;Sobre el alcohol y bebidas derivadas;361000000
+2016;98001;220;;01;Sobre cerveza;126000000
+2016;98001;220;;03;Sobre labores de tabaco;3236000000
+2016;98001;220;;04;Sobre hidrocarburos;3605000000
+2016;98001;220;;06;Sobre productos intermedios;8000000
+2016;98001;220;;07;Sobre la electricidad;297000000
+2016;98001;220;;08;Sobre carbón;290000000
+2016;98001;23;;;Sobre tráfico exterior;1907000000
+2016;98001;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías;1878000000
+2016;98001;231;;;Exacciones reguladoras y otros gravámenes agrícolas;29000000
+2016;98001;28;;;Otros impuestos indirectos;2312000000
+2016;98001;280;;;Cotización, producción y almacenamiento de azúcar e isoglucosa;1000000
+2016;98001;281;;;Impuesto sobre las Primas de Seguros;1457000000
+2016;98001;282;;;Sobre transmisiones patrimoniales intervivos;5000000
+2016;98001;283;;;Impuesto sobre actividades del juego;75000000
+2016;98001;283;;00;De apuestas mutuas deportivas;75000000
+2016;98001;285;;;Impuesto sobre los Gases Fluorados de Efecto Invernadero;175000000
+2016;98001;289;;;Otros impuestos indirectos;599000000
+2016;12301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;46200000
+2016;12401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15160450
+2016;13101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;13000
+2016;13102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;54680
+2016;13301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9000000
+2016;14101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;44500000
+2016;14107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7020000
+2016;14113;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2634000
+2016;15101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;110180
+2016;15102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;523000
+2016;15104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;28761000
+2016;15106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1065700
+2016;15107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1332890
+2016;15301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3800000
+2016;15302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;44865000
+2016;15401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;78920
+2016;16101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;890396370
+2016;17101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;12604000
+2016;17102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1700000
+2016;17401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;66045000
+2016;18101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5012820
+2016;18102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1648650
+2016;18103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;519000
+2016;18104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;482000
+2016;18105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15000
+2016;18106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;403850
+2016;18107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9214000
+2016;18108;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;267000
+2016;18301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;16499000
+2016;18302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5451000
+2016;18401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;322180
+2016;19101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;218310000
+2016;19102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;115137610
+2016;19104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1981000
+2016;19301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;28000
+2016;20102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;45506300
+2016;20103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2143000
+2016;20104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4400000
+2016;20302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;45812130
+2016;23101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;88000
+2016;23102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9300750
+2016;23103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;35685000
+2016;23104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;69229170
+2016;23105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;85309000
+2016;23106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;33512000
+2016;23107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;20279000
+2016;23108;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7855410
+2016;23109;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8346810
+2016;23110;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;57681200
+2016;23111;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;131553000
+2016;23113;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15140
+2016;23114;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3940900
+2016;23401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;37328260
+2016;25101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;310000
+2016;25102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;573670
+2016;25103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;16940000
+2016;25301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;138400
+2016;25401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;42636500
+2016;26101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;897450
+2016;26106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;20000
+2016;26107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;548200
+2016;26108;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;87660
+2016;26109;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;300000
+2016;26401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;42023260
+2016;27101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3900350
+2016;27102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8369550
+2016;27103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1285460
+2016;27104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3367000
+2016;27105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4039000
+2016;27106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1839000
+2016;27107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3063000
+2016;27401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;31652000
+2016;60004;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;989160560
+2016;98001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;6857871000
+2016;14107;30;;;Tasas;6500000
+2016;15104;30;;;Tasas;23261000
+2016;15301;30;;;Tasas;3800000
+2016;15302;30;;;Tasas;155000
+2016;16101;30;;;Tasas;534470710
+2016;17401;30;;;Tasas;63745000
+2016;18103;30;;;Tasas;150000
+2016;18104;30;;;Tasas;25000
+2016;18107;30;;;Tasas;1106000
+2016;18301;30;;;Tasas;400000
+2016;18302;30;;;Tasas;700000
+2016;20102;30;;;Tasas;45325000
+2016;20103;30;;;Tasas;3300
+2016;20302;30;;;Tasas;44889870
+2016;23102;30;;;Tasas;6566900
+2016;23103;30;;;Tasas;29560000
+2016;23104;30;;;Tasas;66570650
+2016;23105;30;;;Tasas;78461850
+2016;23106;30;;;Tasas;30186000
+2016;23107;30;;;Tasas;19395000
+2016;23108;30;;;Tasas;6747000
+2016;23109;30;;;Tasas;6013730
+2016;23110;30;;;Tasas;54550000
+2016;23111;30;;;Tasas;1645000
+2016;23114;30;;;Tasas;20000
+2016;23401;30;;;Tasas;131550
+2016;25401;30;;;Tasas;38320700
+2016;26109;30;;;Tasas;300000
+2016;26401;30;;;Tasas;42023260
+2016;27102;30;;;Tasas;8149550
+2016;98001;30;;;Tasas;980000000
+2016;98001;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros;7000000
+2016;98001;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre;36000000
+2016;23102;302;;;Tasa por dirección e inspección de obras;184880
+2016;23103;302;;;Tasa por dirección e inspección de obras;1600000
+2016;23104;302;;;Tasa por dirección e inspección de obras;3150000
+2016;23105;302;;;Tasa por dirección e inspección de obras;2335690
+2016;23106;302;;;Tasa por dirección e inspección de obras;1700000
+2016;23107;302;;;Tasa por dirección e inspección de obras;800000
+2016;23108;302;;;Tasa por dirección e inspección de obras;200000
+2016;23109;302;;;Tasa por dirección e inspección de obras;1193870
+2016;23110;302;;;Tasa por dirección e inspección de obras;1000000
+2016;23111;302;;;Tasa por dirección e inspección de obras;1640000
+2016;23114;302;;;Tasa por dirección e inspección de obras;20000
+2016;98001;302;;;Tasa por dirección e inspección de obras;57000000
+2016;23102;302;;00;Dirección e inspección de obras;184880
+2016;23103;302;;00;Dirección e inspección de obras;1600000
+2016;23104;302;;00;Dirección e inspección de obras;3150000
+2016;23106;302;;00;Dirección e inspección de obras;1700000
+2016;23107;302;;00;Dirección e inspección de obras;800000
+2016;23109;302;;00;Dirección e inspección de obras;1193870
+2016;23111;302;;00;Dirección e inspección de obras;1640000
+2016;98001;303;;;Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social;263000000
+2016;98001;304;;;Tasas de expedición de D.N.I. y Pasaportes;114000000
+2016;98001;304;;01;D.N.I.;64000000
+2016;98001;304;;02;Pasaportes;50000000
+2016;98001;305;;;Tasas consulares;114000000
+2016;23102;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;200000
+2016;23103;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;1500000
+2016;23104;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;1000000
+2016;23105;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;48310
+2016;23106;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;30000
+2016;23107;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;120000
+2016;23110;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;3150000
+2016;98001;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;209000000
+2016;14107;309;;;Otras tasas;6500000
+2016;15104;309;;;Otras tasas;23261000
+2016;15301;309;;;Otras tasas;3800000
+2016;15302;309;;;Otras tasas;155000
+2016;16101;309;;;Otras tasas;534470710
+2016;17401;309;;;Otras tasas;63745000
+2016;18103;309;;;Otras tasas;150000
+2016;18104;309;;;Otras tasas;25000
+2016;18107;309;;;Otras tasas;1106000
+2016;18301;309;;;Otras tasas;400000
+2016;18302;309;;;Otras tasas;700000
+2016;20102;309;;;Otras tasas;45325000
+2016;20103;309;;;Otras tasas;3300
+2016;20302;309;;;Otras tasas;44889870
+2016;23102;309;;;Otras tasas;6182020
+2016;23103;309;;;Otras tasas;26460000
+2016;23104;309;;;Otras tasas;62420650
+2016;23105;309;;;Otras tasas;76077850
+2016;23106;309;;;Otras tasas;28456000
+2016;23107;309;;;Otras tasas;18475000
+2016;23108;309;;;Otras tasas;6547000
+2016;23109;309;;;Otras tasas;4819860
+2016;23110;309;;;Otras tasas;50400000
+2016;23111;309;;;Otras tasas;5000
+2016;23401;309;;;Otras tasas;131550
+2016;25401;309;;;Otras tasas;38320700
+2016;26109;309;;;Otras tasas;300000
+2016;26401;309;;;Otras tasas;42023260
+2016;27102;309;;;Otras tasas;8149550
+2016;98001;309;;;Otras tasas;180000000
+2016;98001;309;;00;Tasa por acreditación catastral;1000000
+2016;98001;309;;01;Tasa del juego;7000000
+2016;98001;309;;02;Tasa por reconocimientos, autorizaciones y concursos;43000000
+2016;98001;309;;05;Tasas de Telecomunicaciones;14000000
+2016;98001;309;;07;Tasas por controles de sanidad exterior realizadas a carnes y productos de origen animal de países no comunitarios;7000000
+2016;98001;309;;08;Derechos de examen;11000000
+2016;20102;309;;10;Tasas por determinadas actividades del Organismo (20.101);44000000
+2016;20302;309;;10;Servicios generales. Desclasificación de materiales;13170
+2016;23103;309;;10;Canon utilización dominio público hidráulico;150000
+2016;23107;309;;10;Canon de control de vertidos;8000000
+2016;23110;309;;10;Canon de utilización de bienes de D.P.H.;850000
+2016;98001;309;;11;Tasa por la gestión administrativa del juego (artículo 49 Ley 13/2011);11000000
+2016;15104;309;;12;Canon concesional de las Expendedurías de Tabaco y Timbre;10100000
+2016;20102;309;;12;Tasas derivadas del Arreglo de Madrid aportadas por la Organización Mundial de la Propiedad Intelectual (OMPI);1300000
+2016;20302;309;;12;Inspección y control de instalaciones nucleares en funcionamiento;37446110
+2016;23102;309;;12;Tasa utilización bienes de dominio público;200000
+2016;23103;309;;12;Tasa utilización bienes de dominio público;50000
+2016;23107;309;;12;Informes;189000
+2016;23109;309;;12;Navegación en embalses;2250
+2016;15104;309;;13;Tasa para el otorgamiento de concesiones de expendedurías de tabaco y timbre;1000
+2016;20102;309;;13;Búsqueda de marcas a petición de la Oficina de Armonización del Mercado Interior (OAMI);5000
+2016;20302;309;;13;Inspección y control del desmantelamiento de instalaciones nucleares;734990
+2016;23109;309;;13;Confrontación de proyectos;3340
+2016;15104;309;;14;Tasa por concesión y renovación de autorizaciones de punto de venta con recargo de labores del tabaco;13000000
+2016;20302;309;;14;Inspección y control de instalaciones radiactivas en funcionamiento;3556160
+2016;23102;309;;14;Canon control de vertidos;5108780
+2016;23103;309;;14;Canon de control de vertidos;6600000
+2016;23104;309;;14;Canon de vertidos;9750000
+2016;23107;309;;14;Aprovechamientos agrícolas y forestales;460000
+2016;23109;309;;14;Canon de oupación o utilización y canon de vertidos en aplicación de los art. 104 y 105 Ley de aguas;2183600
+2016;23110;309;;14;Canon de vertidos;12050000
+2016;15104;309;;15;Tasa por traslados, transmisiones, modificaciones, reconocimientos, revisiones y autorizaciones de o en expendedurías.;160000
+2016;20102;309;;15;Tasas derivadas del arreglo de La Haya aportadas por la OMPI;20000
+2016;20302;309;;15;Inspección y control del desmantelamiento de instalaciones radiactivas del ciclo del combustible;34770
+2016;23104;309;;15;Canon de ocupación;8500000
+2016;23106;309;;15;Canon de ocupacion;200000
+2016;20302;309;;16;Inspección, control y homologación de cursos;52680
+2016;23107;309;;16;Canón por aprovechamientos hidroeléctricos;160000
+2016;20302;309;;17;Inspección y control de transporte;54000
+2016;23103;309;;17;Tasa por explotación de obras;700000
+2016;23106;309;;17;Canon de control de vertido;2400000
+2016;23107;309;;17;Tarifa de utilización del agua;5264900
+2016;23109;309;;17;Tasa explotación de obras y servicios;67010
+2016;23103;309;;18;Tasa por confrontación y proyectos;10000
+2016;23104;309;;18;Confrontación de proyectos;50000
+2016;23106;309;;18;Tasa de informes y otras actuaciones;500000
+2016;23107;309;;18;Canón de regulación;3435100
+2016;23109;309;;18;Canon de aprovechamiento de materiales;44600
+2016;20302;309;;19;Inpección y control de empresas de ámbito de Protec. Radiológicas;120280
+2016;23103;309;;19;Tasa por informes y estudios;450000
+2016;23104;309;;19;Informes y otras actuaciones;200000
+2016;23109;309;;19;Tasas por informes y visitas;33430
+2016;23110;309;;19;Tasa por informe y otras actuaciones;500000
+2016;16101;309;;20;Tasas de la Jefatura de Tráfico;534470710
+2016;20302;309;;20;Inspección y control de registro de empresas externas;310
+2016;23102;309;;20;Canon de regulacion;542520
+2016;23103;309;;20;Canon de regulacion aguasi;7100000
+2016;23104;309;;20;Canon de regulación;14312190
+2016;23106;309;;20;Canon de regulación;13800000
+2016;23109;309;;20;Canon de regulación;1903160
+2016;23110;309;;20;Canon de regulacion;37000000
+2016;23103;309;;21;Tarifa de utilización de agua;7200000
+2016;23104;309;;21;Tarifa utilización del Agua;24608460
+2016;23105;309;;21;Tarifa utilización del agua;6328620
+2016;23106;309;;21;Tarifa de utilización del agua;10056000
+2016;20302;309;;22;Serv. Grales. seguimiento gestión residuos;692880
+2016;23103;309;;22;Canon de produccion industrial;4200000
+2016;23104;309;;22;Canon de produccion industrial;5000000
+2016;23106;309;;22;Canón de aprovechamiento hidroeléctrico;1500000
+2016;23109;309;;22;Canon de produccion industrial;582470
+2016;23102;309;;23;Salto pie de presa;325000
+2016;20302;309;;24;Serv. Grales. de instalaciones radiactivas;881800
+2016;20302;309;;25;Serv. Grales. desmantelamiento de instal. radiactivas;40610
+2016;20302;309;;26;Serv. Grales. de licencias;976330
+2016;20302;309;;27;Serv. Grales. de homologación de cursos;35120
+2016;20302;309;;28;Serv. Grales. de transporte;24140
+2016;23102;309;;28;Confrontación de obras y proyectos;4300
+2016;20302;309;;29;Serv. Grales. de fabricación o exención de equipos;164620
+2016;23102;309;;29;Infracciones y otras actuaciones;1420
+2016;20302;309;;31;Serv. Grales. de empresas del ámbito de la protección radiológica;61900
+2016;15301;309;;32;Tasa de supervisión, análisis, asesoramiento y seguimiento de la política fiscal;3800000
+2016;23105;309;;60;Canon de regulación industrial;36210320
+2016;23105;309;;61;Canon de regulación: usos industriales;2229570
+2016;23105;309;;63;Canon de regulación: aprovechamientos hidroeléctricos a pie de presa;4454820
+2016;23105;309;;64;Canon de regulación: aprovechamientos hidroeléctricos aguas fluyentes;363290
+2016;23105;309;;66;Abastecimiento zona Jaen;1923330
+2016;23105;309;;67;Otros abastecimientos;13780270
+2016;23105;309;;70;Tasa de explotación de obras y servicios;2553440
+2016;23105;309;;71;Canon de ocupación o utilizacion;118840
+2016;23105;309;;72;Tasa redacción de proyectos y confrontación;25840
+2016;23105;309;;73;Tasas de informes y estudios;455070
+2016;23105;309;;74;Canon de control de vertidos;7634440
+2016;14107;309;;99;Otras;6500000
+2016;18103;309;;99;Otras;150000
+2016;18104;309;;99;Otras;25000
+2016;18107;309;;99;Otras;1106000
+2016;18301;309;;99;Otras;400000
+2016;18302;309;;99;Otras;700000
+2016;20103;309;;99;Otras;3300
+2016;23107;309;;99;Otras;966000
+2016;23111;309;;99;Otras;5000
+2016;25401;309;;99;Otras;38320700
+2016;26109;309;;99;Otras;300000
+2016;26401;309;;99;Otras;42023260
+2016;27102;309;;99;Otras;8149550
+2016;98001;309;;99;Otras;86000000
+2016;14101;31;;;Precios Públicos;32925000
+2016;15101;31;;;Precios Públicos;40000
+2016;15102;31;;;Precios Públicos;130000
+2016;15401;31;;;Precios Públicos;64210
+2016;17101;31;;;Precios Públicos;300000
+2016;18101;31;;;Precios Públicos;5012820
+2016;18102;31;;;Precios Públicos;1532650
+2016;18103;31;;;Precios Públicos;353000
+2016;18104;31;;;Precios Públicos;394000
+2016;18106;31;;;Precios Públicos;40000
+2016;18107;31;;;Precios Públicos;6012000
+2016;18301;31;;;Precios Públicos;15930000
+2016;18302;31;;;Precios Públicos;3600000
+2016;20103;31;;;Precios Públicos;2119000
+2016;20104;31;;;Precios Públicos;300000
+2016;20302;31;;;Precios Públicos;760850
+2016;23101;31;;;Precios Públicos;10000
+2016;23111;31;;;Precios Públicos;127743000
+2016;23114;31;;;Precios Públicos;25000
+2016;23401;31;;;Precios Públicos;1666340
+2016;25102;31;;;Precios Públicos;32000
+2016;26101;31;;;Precios Públicos;497840
+2016;27104;31;;;Precios Públicos;270000
+2016;27107;31;;;Precios Públicos;1100000
+2016;27401;31;;;Precios Públicos;1770000
+2016;60004;31;;;Precios Públicos;4580
+2016;98001;31;;;Precios Públicos;2000000
+2016;15102;310;;;Derechos de matrícula en cursos y seminarios;100000
+2016;15401;310;;;Derechos de matrícula en cursos y seminarios;4210
+2016;18101;310;;;Derechos de matrícula en cursos y seminarios;3145720
+2016;18107;310;;;Derechos de matrícula en cursos y seminarios;12000
+2016;18301;310;;;Derechos de matrícula en cursos y seminarios;225000
+2016;23101;310;;;Derechos de matrícula en cursos y seminarios;5000
+2016;25102;310;;;Derechos de matrícula en cursos y seminarios;32000
+2016;27104;310;;;Derechos de matrícula en cursos y seminarios;20000
+2016;27401;310;;;Derechos de matrícula en cursos y seminarios;217000
+2016;98001;310;;;Derechos de matrícula en cursos y seminarios;1000000
+2016;18103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;234000
+2016;18107;311;;;Entradas a museos, exposiciones, espectáculos, etc.;5840000
+2016;18301;311;;;Entradas a museos, exposiciones, espectáculos, etc.;15700000
+2016;18302;311;;;Entradas a museos, exposiciones, espectáculos, etc.;3600000
+2016;23114;311;;;Entradas a museos, exposiciones, espectáculos, etc.;25000
+2016;27401;311;;;Entradas a museos, exposiciones, espectáculos, etc.;1553000
+2016;15102;317;;;Cursos impartidos para otros Entes Públicos.;30000
+2016;14101;319;;;Otros precios públicos;32925000
+2016;15101;319;;;Otros precios públicos;40000
+2016;15401;319;;;Otros precios públicos;60000
+2016;17101;319;;;Otros precios públicos;300000
+2016;18101;319;;;Otros precios públicos;1867100
+2016;18102;319;;;Otros precios públicos;1532650
+2016;18103;319;;;Otros precios públicos;119000
+2016;18104;319;;;Otros precios públicos;394000
+2016;18106;319;;;Otros precios públicos;40000
+2016;18107;319;;;Otros precios públicos;160000
+2016;18301;319;;;Otros precios públicos;5000
+2016;20103;319;;;Otros precios públicos;2119000
+2016;20104;319;;;Otros precios públicos;300000
+2016;20302;319;;;Otros precios públicos;760850
+2016;23101;319;;;Otros precios públicos;5000
+2016;23111;319;;;Otros precios públicos;127743000
+2016;23401;319;;;Otros precios públicos;1666340
+2016;26101;319;;;Otros precios públicos;497840
+2016;27104;319;;;Otros precios públicos;250000
+2016;27107;319;;;Otros precios públicos;1100000
+2016;60004;319;;;Otros precios públicos;4580
+2016;98001;319;;;Otros precios públicos;1000000
+2016;12301;32;;;Otros ingresos procedentes de prestación de servicios;45900000
+2016;14101;32;;;Otros ingresos procedentes de prestación de servicios;11575000
+2016;14113;32;;;Otros ingresos procedentes de prestación de servicios;1700000
+2016;15107;32;;;Otros ingresos procedentes de prestación de servicios;1257000
+2016;15302;32;;;Otros ingresos procedentes de prestación de servicios;38670000
+2016;15401;32;;;Otros ingresos procedentes de prestación de servicios;14710
+2016;17101;32;;;Otros ingresos procedentes de prestación de servicios;11890000
+2016;17102;32;;;Otros ingresos procedentes de prestación de servicios;1200000
+2016;17401;32;;;Otros ingresos procedentes de prestación de servicios;300000
+2016;18102;32;;;Otros ingresos procedentes de prestación de servicios;116000
+2016;18107;32;;;Otros ingresos procedentes de prestación de servicios;2048000
+2016;18108;32;;;Otros ingresos procedentes de prestación de servicios;267000
+2016;18301;32;;;Otros ingresos procedentes de prestación de servicios;3000
+2016;18401;32;;;Otros ingresos procedentes de prestación de servicios;322180
+2016;19101;32;;;Otros ingresos procedentes de prestación de servicios;300000
+2016;19104;32;;;Otros ingresos procedentes de prestación de servicios;1600000
+2016;20103;32;;;Otros ingresos procedentes de prestación de servicios;16700
+2016;20104;32;;;Otros ingresos procedentes de prestación de servicios;2415000
+2016;20302;32;;;Otros ingresos procedentes de prestación de servicios;56910
+2016;23111;32;;;Otros ingresos procedentes de prestación de servicios;1400000
+2016;23113;32;;;Otros ingresos procedentes de prestación de servicios;6010
+2016;23114;32;;;Otros ingresos procedentes de prestación de servicios;2925900
+2016;23401;32;;;Otros ingresos procedentes de prestación de servicios;35528870
+2016;25102;32;;;Otros ingresos procedentes de prestación de servicios;486670
+2016;25103;32;;;Otros ingresos procedentes de prestación de servicios;16500000
+2016;25401;32;;;Otros ingresos procedentes de prestación de servicios;300000
+2016;27103;32;;;Otros ingresos procedentes de prestación de servicios;1285460
+2016;27104;32;;;Otros ingresos procedentes de prestación de servicios;3000000
+2016;27105;32;;;Otros ingresos procedentes de prestación de servicios;4000000
+2016;27106;32;;;Otros ingresos procedentes de prestación de servicios;1700000
+2016;27107;32;;;Otros ingresos procedentes de prestación de servicios;1693000
+2016;27401;32;;;Otros ingresos procedentes de prestación de servicios;28300000
+2016;60004;32;;;Otros ingresos procedentes de prestación de servicios;69061470
+2016;98001;32;;;Otros ingresos procedentes de prestación de servicios;396069000
+2016;98001;320;;;Comisiones por avales y seguros de operaciones financieras;360000
+2016;15302;321;;;Renta de aduanas. Derechos menores;150000
+2016;15302;322;;;De la Administración financiera;38408000
+2016;25102;322;;;De la Administración financiera;486670
+2016;98001;322;;;De la Administración financiera;377000000
+2016;15302;322;;01;Administración y cobranza;28869000
+2016;98001;322;;02;Compensación por gastos de percepción de recursos propios tradicionales de la Unión Europea;371000000
+2016;15302;322;;03;Derivados de costas de procedimientos de apremio;3927000
+2016;15302;322;;04;Derivados de la repercusión del coste de fabricación de efectos timbrados;4379000
+2016;15302;322;;05;Derivados de la gestión de las notificaciones y comunicaciones postales;1233000
+2016;25102;322;;99;Otros;486670
+2016;98001;322;;99;Otros;6000000
+2016;60004;327;;;De asistencia sanitaria;59867100
+2016;98001;327;;;De asistencia sanitaria;18709000
+2016;98001;327;;00;Asistencia sanitaria gestionada I. N. de Gestión Sanitaria;16709000
+2016;98001;327;;02;Otros conciertos de asistencia sanitaria;2000000
+2016;60004;328;;;De servicios sociales;3587850
+2016;12301;329;;;Otros ingresos procedentes de prestación de servicios;45900000
+2016;14101;329;;;Otros ingresos procedentes de prestación de servicios;11575000
+2016;14113;329;;;Otros ingresos procedentes de prestación de servicios;1700000
+2016;15107;329;;;Otros ingresos procedentes de prestación de servicios;1257000
+2016;15302;329;;;Otros ingresos procedentes de prestación de servicios;112000
+2016;15401;329;;;Otros ingresos procedentes de prestación de servicios;14710
+2016;17101;329;;;Otros ingresos procedentes de prestación de servicios;11890000
+2016;17102;329;;;Otros ingresos procedentes de prestación de servicios;1200000
+2016;17401;329;;;Otros ingresos procedentes de prestación de servicios;300000
+2016;18102;329;;;Otros ingresos procedentes de prestación de servicios;116000
+2016;18107;329;;;Otros ingresos procedentes de prestación de servicios;2048000
+2016;18108;329;;;Otros ingresos procedentes de prestación de servicios;267000
+2016;18301;329;;;Otros ingresos procedentes de prestación de servicios;3000
+2016;18401;329;;;Otros ingresos procedentes de prestación de servicios;322180
+2016;19101;329;;;Otros ingresos procedentes de prestación de servicios;300000
+2016;19104;329;;;Otros ingresos procedentes de prestación de servicios;1600000
+2016;20103;329;;;Otros ingresos procedentes de prestación de servicios;16700
+2016;20104;329;;;Otros ingresos procedentes de prestación de servicios;2415000
+2016;20302;329;;;Otros ingresos procedentes de prestación de servicios;56910
+2016;23111;329;;;Otros ingresos procedentes de prestación de servicios;1400000
+2016;23113;329;;;Otros ingresos procedentes de prestación de servicios;6010
+2016;23114;329;;;Otros ingresos procedentes de prestación de servicios;2925900
+2016;23401;329;;;Otros ingresos procedentes de prestación de servicios;35528870
+2016;25103;329;;;Otros ingresos procedentes de prestación de servicios;16500000
+2016;25401;329;;;Otros ingresos procedentes de prestación de servicios;300000
+2016;27103;329;;;Otros ingresos procedentes de prestación de servicios;1285460
+2016;27104;329;;;Otros ingresos procedentes de prestación de servicios;3000000
+2016;27105;329;;;Otros ingresos procedentes de prestación de servicios;4000000
+2016;27106;329;;;Otros ingresos procedentes de prestación de servicios;1700000
+2016;27107;329;;;Otros ingresos procedentes de prestación de servicios;1693000
+2016;27401;329;;;Otros ingresos procedentes de prestación de servicios;28300000
+2016;60004;329;;;Otros ingresos procedentes de prestación de servicios;5606520
+2016;15302;329;;00;Servicios ajenos;96000
+2016;23114;329;;00;Transferencias de Comunidades Autónomas por la Cofinanciación de la Teledetección;1820700
+2016;15302;329;;01;Prestación de otros servicios;16000
+2016;18102;329;;01;Cuotas por asistencia a ferias;115000
+2016;23114;329;;01;Transferencias de Comunidades Autónomas para la Cofinanciación de la PAC 2014-2020;1105200
+2016;27401;329;;01;De investigación contratada;24625000
+2016;18102;329;;02;Ingresos relacionados con la actividad de los programas de movilidad internacional;1000
+2016;27401;329;;02;De otras prestaciones de servicios;3675000
+2016;12301;33;;;Venta de bienes;300000
+2016;12401;33;;;Venta de bienes;130450
+2016;15101;33;;;Venta de bienes;70180
+2016;15102;33;;;Venta de bienes;82000
+2016;15107;33;;;Venta de bienes;500
+2016;15302;33;;;Venta de bienes;159000
+2016;16101;33;;;Venta de bienes;9020
+2016;17101;33;;;Venta de bienes;54000
+2016;17102;33;;;Venta de bienes;500000
+2016;18103;33;;;Venta de bienes;8000
+2016;18104;33;;;Venta de bienes;41500
+2016;18301;33;;;Venta de bienes;1000
+2016;18302;33;;;Venta de bienes;151000
+2016;19101;33;;;Venta de bienes;10000
+2016;19104;33;;;Venta de bienes;11000
+2016;19301;33;;;Venta de bienes;8000
+2016;20102;33;;;Venta de bienes;181300
+2016;20103;33;;;Venta de bienes;3000
+2016;23101;33;;;Venta de bienes;34000
+2016;23103;33;;;Venta de bienes;5000000
+2016;23104;33;;;Venta de bienes;800000
+2016;23105;33;;;Venta de bienes;3500
+2016;23106;33;;;Venta de bienes;800000
+2016;23110;33;;;Venta de bienes;1200
+2016;23401;33;;;Venta de bienes;1500
+2016;25101;33;;;Venta de bienes;310000
+2016;25102;33;;;Venta de bienes;55000
+2016;25103;33;;;Venta de bienes;220000
+2016;25301;33;;;Venta de bienes;138400
+2016;25401;33;;;Venta de bienes;4000000
+2016;26101;33;;;Venta de bienes;12240
+2016;26107;33;;;Venta de bienes;200
+2016;27101;33;;;Venta de bienes;170000
+2016;27102;33;;;Venta de bienes;220000
+2016;27104;33;;;Venta de bienes;2000
+2016;27105;33;;;Venta de bienes;10000
+2016;27106;33;;;Venta de bienes;52000
+2016;27401;33;;;Venta de bienes;707000
+2016;98001;33;;;Venta de bienes;9000000
+2016;12401;330;;;Venta de publicaciones propias;117220
+2016;15101;330;;;Venta de publicaciones propias;70180
+2016;15102;330;;;Venta de publicaciones propias;80000
+2016;15302;330;;;Venta de publicaciones propias;116000
+2016;16101;330;;;Venta de publicaciones propias;9020
+2016;17101;330;;;Venta de publicaciones propias;50000
+2016;17102;330;;;Venta de publicaciones propias;16000
+2016;18103;330;;;Venta de publicaciones propias;8000
+2016;18104;330;;;Venta de publicaciones propias;40000
+2016;18302;330;;;Venta de publicaciones propias;151000
+2016;19104;330;;;Venta de publicaciones propias;10000
+2016;19301;330;;;Venta de publicaciones propias;8000
+2016;20102;330;;;Venta de publicaciones propias;300
+2016;20103;330;;;Venta de publicaciones propias;2000
+2016;23101;330;;;Venta de publicaciones propias;30000
+2016;23401;330;;;Venta de publicaciones propias;1500
+2016;25101;330;;;Venta de publicaciones propias;310000
+2016;25102;330;;;Venta de publicaciones propias;55000
+2016;25103;330;;;Venta de publicaciones propias;35000
+2016;26101;330;;;Venta de publicaciones propias;12240
+2016;26107;330;;;Venta de publicaciones propias;200
+2016;27101;330;;;Venta de publicaciones propias;170000
+2016;27102;330;;;Venta de publicaciones propias;220000
+2016;27104;330;;;Venta de publicaciones propias;2000
+2016;27105;330;;;Venta de publicaciones propias;3000
+2016;27106;330;;;Venta de publicaciones propias;35000
+2016;27401;330;;;Venta de publicaciones propias;357000
+2016;98001;330;;;Venta de publicaciones propias;2000000
+2016;17102;331;;;Venta en comisión de publicaciones;475000
+2016;18104;331;;;Venta en comisión de publicaciones;1500
+2016;12401;332;;;Venta de fotocopias y otros productos de reprografía;13230
+2016;15102;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2016;17101;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2016;18301;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2016;19104;332;;;Venta de fotocopias y otros productos de reprografía;500
+2016;20102;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2016;25103;332;;;Venta de fotocopias y otros productos de reprografía;80000
+2016;27105;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2016;27106;332;;;Venta de fotocopias y otros productos de reprografía;15000
+2016;27401;332;;;Venta de fotocopias y otros productos de reprografía;40000
+2016;98001;333;;;Venta de medicamentos;1000000
+2016;23104;334;;;Venta de productos agropecuarios;800000
+2016;23105;334;;;Venta de productos agropecuarios;3500
+2016;27401;334;;;Venta de productos agropecuarios;225000
+2016;15107;335;;;Venta de material de desecho;500
+2016;17101;335;;;Venta de material de desecho;3000
+2016;20103;335;;;Venta de material de desecho;1000
+2016;23101;335;;;Venta de material de desecho;4000
+2016;25103;335;;;Venta de material de desecho;5000
+2016;27106;335;;;Venta de material de desecho;2000
+2016;98001;338;;;Venta de monedas de colección;1000000
+2016;12301;339;;;Venta de otros bienes;300000
+2016;15302;339;;;Venta de otros bienes;43000
+2016;17102;339;;;Venta de otros bienes;9000
+2016;19101;339;;;Venta de otros bienes;10000
+2016;19104;339;;;Venta de otros bienes;500
+2016;20102;339;;;Venta de otros bienes;180000
+2016;23103;339;;;Venta de otros bienes;5000000
+2016;23106;339;;;Venta de otros bienes;800000
+2016;23110;339;;;Venta de otros bienes;1200
+2016;25103;339;;;Venta de otros bienes;100000
+2016;25301;339;;;Venta de otros bienes;138400
+2016;25401;339;;;Venta de otros bienes;4000000
+2016;27105;339;;;Venta de otros bienes;5000
+2016;27401;339;;;Venta de otros bienes;85000
+2016;98001;339;;;Venta de otros bienes;5000000
+2016;23106;339;;01;Venta de otros bienes;800000
+2016;27105;339;;99;Venta de productos acuícolas;5000
+2016;60004;37;;;Cotizaciones de asociados;430000
+2016;60004;370;;;Cotizaciones de asociados;430000
+2016;12401;38;;;Reintegros de operaciones corrientes;15000000
+2016;13101;38;;;Reintegros de operaciones corrientes;10000
+2016;13102;38;;;Reintegros de operaciones corrientes;54680
+2016;14107;38;;;Reintegros de operaciones corrientes;100000
+2016;14113;38;;;Reintegros de operaciones corrientes;800000
+2016;15102;38;;;Reintegros de operaciones corrientes;300000
+2016;15106;38;;;Reintegros de operaciones corrientes;992280
+2016;15107;38;;;Reintegros de operaciones corrientes;50000
+2016;15302;38;;;Reintegros de operaciones corrientes;513000
+2016;16101;38;;;Reintegros de operaciones corrientes;6010
+2016;17101;38;;;Reintegros de operaciones corrientes;10000
+2016;18105;38;;;Reintegros de operaciones corrientes;15000
+2016;18106;38;;;Reintegros de operaciones corrientes;333850
+2016;18301;38;;;Reintegros de operaciones corrientes;5000
+2016;19101;38;;;Reintegros de operaciones corrientes;210000000
+2016;19102;38;;;Reintegros de operaciones corrientes;122610
+2016;19104;38;;;Reintegros de operaciones corrientes;150000
+2016;19301;38;;;Reintegros de operaciones corrientes;15000
+2016;20103;38;;;Reintegros de operaciones corrientes;1000
+2016;20104;38;;;Reintegros de operaciones corrientes;1500000
+2016;23101;38;;;Reintegros de operaciones corrientes;10000
+2016;23103;38;;;Reintegros de operaciones corrientes;15000
+2016;23105;38;;;Reintegros de operaciones corrientes;452300
+2016;23106;38;;;Reintegros de operaciones corrientes;26000
+2016;23109;38;;;Reintegros de operaciones corrientes;9270
+2016;23111;38;;;Reintegros de operaciones corrientes;3000
+2016;23113;38;;;Reintegros de operaciones corrientes;3120
+2016;23114;38;;;Reintegros de operaciones corrientes;100000
+2016;25401;38;;;Reintegros de operaciones corrientes;5000
+2016;26101;38;;;Reintegros de operaciones corrientes;362050
+2016;26106;38;;;Reintegros de operaciones corrientes;20000
+2016;26107;38;;;Reintegros de operaciones corrientes;500000
+2016;27104;38;;;Reintegros de operaciones corrientes;40000
+2016;27105;38;;;Reintegros de operaciones corrientes;20000
+2016;27106;38;;;Reintegros de operaciones corrientes;2000
+2016;27401;38;;;Reintegros de operaciones corrientes;375000
+2016;60004;38;;;Reintegros de operaciones corrientes;163265570
+2016;98001;38;;;Reintegros de operaciones corrientes;402800000
+2016;12401;380;;;De ejercicios cerrados;15000000
+2016;13101;380;;;De ejercicios cerrados;10000
+2016;13102;380;;;De ejercicios cerrados;54680
+2016;14107;380;;;De ejercicios cerrados;100000
+2016;14113;380;;;De ejercicios cerrados;800000
+2016;15102;380;;;De ejercicios cerrados;300000
+2016;15106;380;;;De ejercicios cerrados;992280
+2016;15107;380;;;De ejercicios cerrados;50000
+2016;15302;380;;;De ejercicios cerrados;513000
+2016;16101;380;;;De ejercicios cerrados;6010
+2016;17101;380;;;De ejercicios cerrados;10000
+2016;18105;380;;;De ejercicios cerrados;15000
+2016;18106;380;;;De ejercicios cerrados;333850
+2016;18301;380;;;De ejercicios cerrados;5000
+2016;19101;380;;;De ejercicios cerrados;210000000
+2016;19102;380;;;De ejercicios cerrados;122610
+2016;19104;380;;;De ejercicios cerrados;150000
+2016;19301;380;;;De ejercicios cerrados;15000
+2016;20103;380;;;De ejercicios cerrados;1000
+2016;20104;380;;;De ejercicios cerrados;1500000
+2016;23101;380;;;De ejercicios cerrados;10000
+2016;23103;380;;;De ejercicios cerrados;15000
+2016;23105;380;;;De ejercicios cerrados;452300
+2016;23106;380;;;De ejercicios cerrados;26000
+2016;23109;380;;;De ejercicios cerrados;9270
+2016;23111;380;;;De ejercicios cerrados;3000
+2016;23113;380;;;De ejercicios cerrados;3120
+2016;23114;380;;;De ejercicios cerrados;100000
+2016;25401;380;;;De ejercicios cerrados;5000
+2016;26101;380;;;De ejercicios cerrados;362050
+2016;26106;380;;;De ejercicios cerrados;20000
+2016;26107;380;;;De ejercicios cerrados;500000
+2016;27104;380;;;De ejercicios cerrados;40000
+2016;27105;380;;;De ejercicios cerrados;20000
+2016;27106;380;;;De ejercicios cerrados;2000
+2016;27401;380;;;De ejercicios cerrados;375000
+2016;60004;380;;;De ejercicios cerrados;118532770
+2016;98001;380;;;De ejercicios cerrados;302800000
+2016;60004;381;;;Del presupuesto corriente;44732800
+2016;98001;381;;;Del presupuesto corriente;100000000
+2016;12401;39;;;Otros ingresos;30000
+2016;13101;39;;;Otros ingresos;3000
+2016;13301;39;;;Otros ingresos;9000000
+2016;14107;39;;;Otros ingresos;420000
+2016;14113;39;;;Otros ingresos;134000
+2016;15102;39;;;Otros ingresos;11000
+2016;15104;39;;;Otros ingresos;5500000
+2016;15106;39;;;Otros ingresos;73420
+2016;15107;39;;;Otros ingresos;25390
+2016;15302;39;;;Otros ingresos;5368000
+2016;16101;39;;;Otros ingresos;355910630
+2016;17101;39;;;Otros ingresos;350000
+2016;17401;39;;;Otros ingresos;2000000
+2016;18103;39;;;Otros ingresos;8000
+2016;18104;39;;;Otros ingresos;21500
+2016;18106;39;;;Otros ingresos;30000
+2016;18107;39;;;Otros ingresos;48000
+2016;18301;39;;;Otros ingresos;160000
+2016;18302;39;;;Otros ingresos;1000000
+2016;19101;39;;;Otros ingresos;8000000
+2016;19102;39;;;Otros ingresos;115015000
+2016;19104;39;;;Otros ingresos;220000
+2016;19301;39;;;Otros ingresos;5000
+2016;20104;39;;;Otros ingresos;185000
+2016;20302;39;;;Otros ingresos;104500
+2016;23101;39;;;Otros ingresos;34000
+2016;23102;39;;;Otros ingresos;2733850
+2016;23103;39;;;Otros ingresos;1110000
+2016;23104;39;;;Otros ingresos;1858520
+2016;23105;39;;;Otros ingresos;6391350
+2016;23106;39;;;Otros ingresos;2500000
+2016;23107;39;;;Otros ingresos;884000
+2016;23108;39;;;Otros ingresos;1108410
+2016;23109;39;;;Otros ingresos;2323810
+2016;23110;39;;;Otros ingresos;3130000
+2016;23111;39;;;Otros ingresos;762000
+2016;23113;39;;;Otros ingresos;6010
+2016;23114;39;;;Otros ingresos;870000
+2016;25103;39;;;Otros ingresos;220000
+2016;25401;39;;;Otros ingresos;10800
+2016;26101;39;;;Otros ingresos;25320
+2016;26107;39;;;Otros ingresos;48000
+2016;26108;39;;;Otros ingresos;87660
+2016;27101;39;;;Otros ingresos;3730350
+2016;27104;39;;;Otros ingresos;55000
+2016;27105;39;;;Otros ingresos;9000
+2016;27106;39;;;Otros ingresos;85000
+2016;27107;39;;;Otros ingresos;270000
+2016;27401;39;;;Otros ingresos;500000
+2016;60004;39;;;Otros ingresos;756398940
+2016;98001;39;;;Otros ingresos;5068002000
+2016;13101;391;;;Recargos y multas;3000
+2016;13301;391;;;Recargos y multas;9000000
+2016;14107;391;;;Recargos y multas;220000
+2016;14113;391;;;Recargos y multas;34000
+2016;15102;391;;;Recargos y multas;1000
+2016;15104;391;;;Recargos y multas;5500000
+2016;15106;391;;;Recargos y multas;31900
+2016;16101;391;;;Recargos y multas;355910630
+2016;17401;391;;;Recargos y multas;2000000
+2016;19101;391;;;Recargos y multas;7000000
+2016;20104;391;;;Recargos y multas;5000
+2016;20302;391;;;Recargos y multas;88500
+2016;23101;391;;;Recargos y multas;9000
+2016;23102;391;;;Recargos y multas;2728950
+2016;23103;391;;;Recargos y multas;1110000
+2016;23104;391;;;Recargos y multas;500000
+2016;23105;391;;;Recargos y multas;6391350
+2016;23106;391;;;Recargos y multas;2000000
+2016;23107;391;;;Recargos y multas;350000
+2016;23108;391;;;Recargos y multas;30000
+2016;23109;391;;;Recargos y multas;2296000
+2016;23110;391;;;Recargos y multas;3060000
+2016;23111;391;;;Recargos y multas;730000
+2016;23114;391;;;Recargos y multas;150000
+2016;26101;391;;;Recargos y multas;16320
+2016;26107;391;;;Recargos y multas;48000
+2016;27101;391;;;Recargos y multas;2700000
+2016;27104;391;;;Recargos y multas;35000
+2016;27106;391;;;Recargos y multas;15000
+2016;60004;391;;;Recargos y multas;662220200
+2016;98001;391;;;Recargos y multas;1403000000
+2016;15106;391;;00;Recargo del periodo ejecutivo;6900
+2016;20302;391;;00;Recargo del periodo ejecutivo;70000
+2016;98001;391;;00;Recargo del periodo ejecutivo;777000000
+2016;13101;391;;01;Intereses de demora;3000
+2016;14107;391;;01;Intereses de demora;20000
+2016;14113;391;;01;Intereses de demora;12000
+2016;15102;391;;01;Intereses de demora;1000
+2016;15106;391;;01;Intereses de demora;25000
+2016;19101;391;;01;Intereses de demora;7000000
+2016;20104;391;;01;Intereses de demora;5000
+2016;20302;391;;01;Intereses de demora;10000
+2016;23101;391;;01;Intereses de demora;3000
+2016;23102;391;;01;Intereses de demora;340000
+2016;23103;391;;01;Intereses de demora;60000
+2016;23104;391;;01;Intereses de demora;200000
+2016;23105;391;;01;Intereses de demora;815500
+2016;23106;391;;01;Intereses de demora;400000
+2016;23107;391;;01;Intereses de demora;150000
+2016;23109;391;;01;Intereses de demora;412000
+2016;23110;391;;01;Intereses de demora;660000
+2016;23111;391;;01;Intereses de demora;700000
+2016;23114;391;;01;Intereses de demora;50000
+2016;26101;391;;01;Intereses de demora;16320
+2016;26107;391;;01;Intereses de demora;48000
+2016;27104;391;;01;Intereses de demora;35000
+2016;27106;391;;01;Intereses de demora;15000
+2016;98001;391;;01;Intereses de demora;312000000
+2016;13301;391;;02;Multas y sanciones;9000000
+2016;14113;391;;02;Multas y sanciones;10000
+2016;15104;391;;02;Multas y sanciones;5500000
+2016;16101;391;;02;Multas y sanciones;355910630
+2016;17401;391;;02;Multas y sanciones;2000000
+2016;20302;391;;02;Multas y sanciones;2000
+2016;23101;391;;02;Multas y sanciones;6000
+2016;23102;391;;02;Multas y sanciones;2388950
+2016;23103;391;;02;Multas y sanciones;900000
+2016;23104;391;;02;Multas y sanciones;300000
+2016;23105;391;;02;Multas y sanciones;5575850
+2016;23106;391;;02;Multas y sanciones;1600000
+2016;23107;391;;02;Multas y sanciones;200000
+2016;23109;391;;02;Multas y sanciones;1884000
+2016;23110;391;;02;Multas y sanciones;2400000
+2016;23111;391;;02;Multas y sanciones;30000
+2016;23114;391;;02;Multas y sanciones;100000
+2016;27101;391;;02;Multas y sanciones;2700000
+2016;98001;391;;02;Multas y sanciones;314000000
+2016;20302;391;;03;Recargo sobre autoliquidaciones;6500
+2016;14107;391;;99;Otros;200000
+2016;14113;391;;99;Otros;12000
+2016;23103;391;;99;Otros;150000
+2016;98001;393;;;Diferencias entre los valores de reembolso y emisión;3300000000
+2016;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);115000000
+2016;15302;395;;;Rappels por compras;3209000
+2016;15302;398/15302;;;Ingresos extraordinarios;35000
+2016;60004;398/60004;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;78815000
+2016;98001;398/98001;;;Ingresos procedentes de herencias abintestato. Artículo 956 del Código Civil;2000
+2016;98001;398/98001;;00;Destinados a fines de interés social;1000
+2016;98001;398/98001;;01;Otros;1000
+2016;12401;399;;;Ingresos diversos;30000
+2016;14107;399;;;Ingresos diversos;200000
+2016;14113;399;;;Ingresos diversos;100000
+2016;15102;399;;;Ingresos diversos;10000
+2016;15106;399;;;Ingresos diversos;41520
+2016;15107;399;;;Ingresos diversos;25390
+2016;15302;399;;;Ingresos diversos;2124000
+2016;17101;399;;;Ingresos diversos;350000
+2016;18103;399;;;Ingresos diversos;8000
+2016;18104;399;;;Ingresos diversos;21500
+2016;18106;399;;;Ingresos diversos;30000
+2016;18107;399;;;Ingresos diversos;48000
+2016;18301;399;;;Ingresos diversos;160000
+2016;18302;399;;;Ingresos diversos;1000000
+2016;19101;399;;;Ingresos diversos;1000000
+2016;19102;399;;;Ingresos diversos;15000
+2016;19104;399;;;Ingresos diversos;220000
+2016;19301;399;;;Ingresos diversos;5000
+2016;20104;399;;;Ingresos diversos;180000
+2016;20302;399;;;Ingresos diversos;16000
+2016;23101;399;;;Ingresos diversos;25000
+2016;23102;399;;;Ingresos diversos;4900
+2016;23104;399;;;Ingresos diversos;1358520
+2016;23106;399;;;Ingresos diversos;500000
+2016;23107;399;;;Ingresos diversos;534000
+2016;23108;399;;;Ingresos diversos;1078410
+2016;23109;399;;;Ingresos diversos;27810
+2016;23110;399;;;Ingresos diversos;70000
+2016;23111;399;;;Ingresos diversos;32000
+2016;23113;399;;;Ingresos diversos;6010
+2016;23114;399;;;Ingresos diversos;720000
+2016;25103;399;;;Ingresos diversos;220000
+2016;25401;399;;;Ingresos diversos;10800
+2016;26101;399;;;Ingresos diversos;9000
+2016;26108;399;;;Ingresos diversos;87660
+2016;27101;399;;;Ingresos diversos;1030350
+2016;27104;399;;;Ingresos diversos;20000
+2016;27105;399;;;Ingresos diversos;9000
+2016;27106;399;;;Ingresos diversos;70000
+2016;27107;399;;;Ingresos diversos;270000
+2016;27401;399;;;Ingresos diversos;500000
+2016;60004;399;;;Ingresos diversos;15363740
+2016;98001;399;;;Ingresos diversos;365000000
+2016;98001;399;;00;Compensaciones de servicios prestados por funcionarios públicos;10000000
+2016;15106;399;;01;Recursos eventuales;30020
+2016;20302;399;;01;Recursos eventuales;6000
+2016;23101;399;;01;Recursos eventuales;25000
+2016;23104;399;;01;Recursos eventuales;250000
+2016;23107;399;;01;Recursos eventuales;530000
+2016;23114;399;;01;Recursos eventuales;720000
+2016;98001;399;;01;Recursos eventuales;255000000
+2016;23108;399;;02;Ingresos procedentes de organismos autónomos suprimidos;1074410
+2016;15302;399;;04;Sanciones indemnizatorias;240000
+2016;23113;399;;04;Ingresos por estudios, informes, análisis y trabajos análogos.;6010
+2016;27101;399;;05;Convenios estadísticos;940190
+2016;12401;399;;99;Otros ingresos diversos;30000
+2016;14107;399;;99;Otros ingresos diversos;200000
+2016;14113;399;;99;Otros ingresos diversos;100000
+2016;15102;399;;99;Otros ingresos diversos;10000
+2016;15106;399;;99;Otros ingresos diversos;11500
+2016;15107;399;;99;Otros ingresos diversos;25390
+2016;15302;399;;99;Otros ingresos diversos;1884000
+2016;18104;399;;99;Otros ingresos diversos;21500
+2016;18106;399;;99;Otros ingresos diversos;30000
+2016;18107;399;;99;Otros ingresos diversos;48000
+2016;18302;399;;99;Otros ingresos diversos;1000000
+2016;19101;399;;99;Otros ingresos diversos;1000000
+2016;19102;399;;99;Otros ingresos diversos;15000
+2016;19104;399;;99;Otros ingresos diversos;220000
+2016;19301;399;;99;Otros ingresos diversos;5000
+2016;20104;399;;99;Otros ingresos diversos;180000
+2016;20302;399;;99;Otros ingresos diversos;10000
+2016;23102;399;;99;Otros ingresos diversos;4900
+2016;23104;399;;99;Otros ingresos diversos;1108520
+2016;23106;399;;99;Otros ingresos diversos;500000
+2016;23107;399;;99;Otros ingresos diversos;4000
+2016;23108;399;;99;Otros ingresos diversos;4000
+2016;23109;399;;99;Otros ingresos diversos;27810
+2016;23110;399;;99;Otros ingresos diversos;70000
+2016;23111;399;;99;Otros ingresos diversos;32000
+2016;25103;399;;99;Otros ingresos diversos;220000
+2016;25401;399;;99;Otros ingresos diversos;10800
+2016;26101;399;;99;Otros ingresos diversos;9000
+2016;26108;399;;99;Otros ingresos diversos;87660
+2016;27101;399;;99;Otros ingresos diversos;90160
+2016;27104;399;;99;Otros ingresos diversos;20000
+2016;27105;399;;99;Otros ingresos diversos;9000
+2016;27106;399;;99;Otros ingresos diversos;70000
+2016;27401;399;;99;Otros ingresos diversos;500000
+2016;98001;399;;99;Otros ingresos diversos;100000000
+2016;12301;4;;;TRANSFERENCIAS CORRIENTES;63197000
+2016;12401;4;;;TRANSFERENCIAS CORRIENTES;213628970
+2016;13101;4;;;TRANSFERENCIAS CORRIENTES;8569190
+2016;13102;4;;;TRANSFERENCIAS CORRIENTES;4931830
+2016;13301;4;;;TRANSFERENCIAS CORRIENTES;20000
+2016;14101;4;;;TRANSFERENCIAS CORRIENTES;48074730
+2016;14107;4;;;TRANSFERENCIAS CORRIENTES;43400000
+2016;14113;4;;;TRANSFERENCIAS CORRIENTES;24800000
+2016;15101;4;;;TRANSFERENCIAS CORRIENTES;10539370
+2016;15102;4;;;TRANSFERENCIAS CORRIENTES;68444670
+2016;15106;4;;;TRANSFERENCIAS CORRIENTES;82039680
+2016;15107;4;;;TRANSFERENCIAS CORRIENTES;32934090
+2016;15302;4;;;TRANSFERENCIAS CORRIENTES;913939860
+2016;15304;4;;;TRANSFERENCIAS CORRIENTES;2381540
+2016;15401;4;;;TRANSFERENCIAS CORRIENTES;3243060
+2016;16101;4;;;TRANSFERENCIAS CORRIENTES;216480
+2016;16102;4;;;TRANSFERENCIAS CORRIENTES;1891190
+2016;17101;4;;;TRANSFERENCIAS CORRIENTES;16968200
+2016;17102;4;;;TRANSFERENCIAS CORRIENTES;3121910
+2016;17402;4;;;TRANSFERENCIAS CORRIENTES;8224520
+2016;18101;4;;;TRANSFERENCIAS CORRIENTES;6476320
+2016;18102;4;;;TRANSFERENCIAS CORRIENTES;5871900
+2016;18103;4;;;TRANSFERENCIAS CORRIENTES;67443650
+2016;18104;4;;;TRANSFERENCIAS CORRIENTES;21802300
+2016;18105;4;;;TRANSFERENCIAS CORRIENTES;7728570
+2016;18106;4;;;TRANSFERENCIAS CORRIENTES;145776640
+2016;18107;4;;;TRANSFERENCIAS CORRIENTES;118039580
+2016;18108;4;;;TRANSFERENCIAS CORRIENTES;9635490
+2016;18301;4;;;TRANSFERENCIAS CORRIENTES;12950920
+2016;18302;4;;;TRANSFERENCIAS CORRIENTES;26948000
+2016;18401;4;;;TRANSFERENCIAS CORRIENTES;7897040
+2016;19101;4;;;TRANSFERENCIAS CORRIENTES;4406162470
+2016;19102;4;;;TRANSFERENCIAS CORRIENTES;382225570
+2016;19104;4;;;TRANSFERENCIAS CORRIENTES;20303050
+2016;19301;4;;;TRANSFERENCIAS CORRIENTES;7300170
+2016;20101;4;;;TRANSFERENCIAS CORRIENTES;249932230
+2016;20103;4;;;TRANSFERENCIAS CORRIENTES;3386190
+2016;20104;4;;;TRANSFERENCIAS CORRIENTES;33253090
+2016;20302;4;;;TRANSFERENCIAS CORRIENTES;400000
+2016;23101;4;;;TRANSFERENCIAS CORRIENTES;9423430
+2016;23102;4;;;TRANSFERENCIAS CORRIENTES;3484000
+2016;23103;4;;;TRANSFERENCIAS CORRIENTES;20000
+2016;23106;4;;;TRANSFERENCIAS CORRIENTES;8156000
+2016;23107;4;;;TRANSFERENCIAS CORRIENTES;3500000
+2016;23108;4;;;TRANSFERENCIAS CORRIENTES;3156000
+2016;23109;4;;;TRANSFERENCIAS CORRIENTES;4957480
+2016;23110;4;;;TRANSFERENCIAS CORRIENTES;3452880
+2016;23112;4;;;TRANSFERENCIAS CORRIENTES;4107520
+2016;23113;4;;;TRANSFERENCIAS CORRIENTES;215648450
+2016;23114;4;;;TRANSFERENCIAS CORRIENTES;5869037280
+2016;23401;4;;;TRANSFERENCIAS CORRIENTES;28413770
+2016;25101;4;;;TRANSFERENCIAS CORRIENTES;3089150
+2016;25102;4;;;TRANSFERENCIAS CORRIENTES;5423260
+2016;25103;4;;;TRANSFERENCIAS CORRIENTES;59786160
+2016;25301;4;;;TRANSFERENCIAS CORRIENTES;224256770
+2016;26101;4;;;TRANSFERENCIAS CORRIENTES;24786300
+2016;26105;4;;;TRANSFERENCIAS CORRIENTES;3648970
+2016;26106;4;;;TRANSFERENCIAS CORRIENTES;2105890
+2016;26107;4;;;TRANSFERENCIAS CORRIENTES;18272940
+2016;26108;4;;;TRANSFERENCIAS CORRIENTES;1000000
+2016;26109;4;;;TRANSFERENCIAS CORRIENTES;24821850
+2016;26401;4;;;TRANSFERENCIAS CORRIENTES;8800
+2016;27101;4;;;TRANSFERENCIAS CORRIENTES;136679640
+2016;27103;4;;;TRANSFERENCIAS CORRIENTES;45540230
+2016;27104;4;;;TRANSFERENCIAS CORRIENTES;29017680
+2016;27105;4;;;TRANSFERENCIAS CORRIENTES;24158630
+2016;27106;4;;;TRANSFERENCIAS CORRIENTES;17886030
+2016;27107;4;;;TRANSFERENCIAS CORRIENTES;124633870
+2016;27302;4;;;TRANSFERENCIAS CORRIENTES;52707150
+2016;27401;4;;;TRANSFERENCIAS CORRIENTES;370957800
+2016;60004;4;;;TRANSFERENCIAS CORRIENTES;16731714500
+2016;98001;4;;;TRANSFERENCIAS CORRIENTES;8267478280
+2016;12301;40;;;De la Administración del Estado;62197000
+2016;12401;40;;;De la Administración del Estado;203179750
+2016;13101;40;;;De la Administración del Estado;8569190
+2016;13102;40;;;De la Administración del Estado;4931830
+2016;14101;40;;;De la Administración del Estado;47357590
+2016;14107;40;;;De la Administración del Estado;43400000
+2016;14113;40;;;De la Administración del Estado;24800000
+2016;15101;40;;;De la Administración del Estado;10539370
+2016;15102;40;;;De la Administración del Estado;13397650
+2016;15106;40;;;De la Administración del Estado;82039680
+2016;15107;40;;;De la Administración del Estado;32934090
+2016;15302;40;;;De la Administración del Estado;913322860
+2016;15304;40;;;De la Administración del Estado;2381540
+2016;15401;40;;;De la Administración del Estado;3243060
+2016;16102;40;;;De la Administración del Estado;1891190
+2016;17101;40;;;De la Administración del Estado;16968200
+2016;17102;40;;;De la Administración del Estado;1993910
+2016;17402;40;;;De la Administración del Estado;8224520
+2016;18101;40;;;De la Administración del Estado;2943090
+2016;18102;40;;;De la Administración del Estado;2521900
+2016;18103;40;;;De la Administración del Estado;67293830
+2016;18104;40;;;De la Administración del Estado;21802300
+2016;18105;40;;;De la Administración del Estado;7728570
+2016;18106;40;;;De la Administración del Estado;145776640
+2016;18107;40;;;De la Administración del Estado;117841710
+2016;18108;40;;;De la Administración del Estado;9635490
+2016;18301;40;;;De la Administración del Estado;8240420
+2016;18302;40;;;De la Administración del Estado;24250000
+2016;18401;40;;;De la Administración del Estado;7897040
+2016;19101;40;;;De la Administración del Estado;3921568930
+2016;19102;40;;;De la Administración del Estado;382225570
+2016;19104;40;;;De la Administración del Estado;20271150
+2016;19301;40;;;De la Administración del Estado;7300170
+2016;20101;40;;;De la Administración del Estado;249932230
+2016;20103;40;;;De la Administración del Estado;3386190
+2016;20104;40;;;De la Administración del Estado;33253090
+2016;20302;40;;;De la Administración del Estado;400000
+2016;23101;40;;;De la Administración del Estado;9423430
+2016;23102;40;;;De la Administración del Estado;3484000
+2016;23106;40;;;De la Administración del Estado;8156000
+2016;23107;40;;;De la Administración del Estado;3500000
+2016;23108;40;;;De la Administración del Estado;3156000
+2016;23109;40;;;De la Administración del Estado;4957480
+2016;23112;40;;;De la Administración del Estado;4107520
+2016;23113;40;;;De la Administración del Estado;215648450
+2016;23114;40;;;De la Administración del Estado;14652720
+2016;23401;40;;;De la Administración del Estado;24157270
+2016;25101;40;;;De la Administración del Estado;3004150
+2016;25102;40;;;De la Administración del Estado;5423260
+2016;25103;40;;;De la Administración del Estado;54794160
+2016;25301;40;;;De la Administración del Estado;224256770
+2016;26101;40;;;De la Administración del Estado;10716290
+2016;26105;40;;;De la Administración del Estado;3648970
+2016;26106;40;;;De la Administración del Estado;2105890
+2016;26107;40;;;De la Administración del Estado;13072940
+2016;26108;40;;;De la Administración del Estado;1000000
+2016;26109;40;;;De la Administración del Estado;24821850
+2016;26401;40;;;De la Administración del Estado;8800
+2016;27101;40;;;De la Administración del Estado;136679640
+2016;27103;40;;;De la Administración del Estado;45540230
+2016;27104;40;;;De la Administración del Estado;29017680
+2016;27105;40;;;De la Administración del Estado;24158630
+2016;27106;40;;;De la Administración del Estado;17886030
+2016;27107;40;;;De la Administración del Estado;124369870
+2016;27302;40;;;De la Administración del Estado;52707150
+2016;27401;40;;;De la Administración del Estado;370675710
+2016;60004;40;;;De la Administración del Estado;13142735670
+2016;12301;400;;;Del departamento al que está adscrito;62197000
+2016;13101;400;;;Del departamento al que está adscrito;8569190
+2016;14101;400;;;Del departamento al que está adscrito;47357590
+2016;14107;400;;;Del departamento al que está adscrito;43400000
+2016;15101;400;;;Del departamento al que está adscrito;10539370
+2016;15102;400;;;Del departamento al que está adscrito;13397650
+2016;15302;400;;;Del departamento al que está adscrito;913215260
+2016;15304;400;;;Del departamento al que está adscrito;2381540
+2016;15401;400;;;Del departamento al que está adscrito;3243060
+2016;16102;400;;;Del departamento al que está adscrito;1891190
+2016;17101;400;;;Del departamento al que está adscrito;13968200
+2016;17102;400;;;Del departamento al que está adscrito;1993910
+2016;17402;400;;;Del departamento al que está adscrito;8224520
+2016;18101;400;;;Del departamento al que está adscrito;2943090
+2016;18102;400;;;Del departamento al que está adscrito;2521900
+2016;18103;400;;;Del departamento al que está adscrito;67293830
+2016;18104;400;;;Del departamento al que está adscrito;21802300
+2016;18106;400;;;Del departamento al que está adscrito;145776640
+2016;18107;400;;;Del departamento al que está adscrito;117841710
+2016;18108;400;;;Del departamento al que está adscrito;9635490
+2016;18301;400;;;Del departamento al que está adscrito;8240420
+2016;18302;400;;;Del departamento al que está adscrito;24250000
+2016;18401;400;;;Del departamento al que está adscrito;7897040
+2016;19101;400;;;Del departamento al que está adscrito;3921568930
+2016;19102;400;;;Del departamento al que está adscrito;382225570
+2016;19104;400;;;Del departamento al que está adscrito;20271150
+2016;19301;400;;;Del departamento al que está adscrito;7300170
+2016;20101;400;;;Del departamento al que está adscrito;249932230
+2016;20103;400;;;Del departamento al que está adscrito;3386190
+2016;20104;400;;;Del departamento al que está adscrito;33253090
+2016;20302;400;;;Del departamento al que está adscrito;400000
+2016;23101;400;;;Del departamento al que está adscrito;9423430
+2016;23102;400;;;Del departamento al que está adscrito;3484000
+2016;23106;400;;;Del departamento al que está adscrito;8156000
+2016;23107;400;;;Del departamento al que está adscrito;3500000
+2016;23108;400;;;Del departamento al que está adscrito;3156000
+2016;23109;400;;;Del departamento al que está adscrito;4957480
+2016;23112;400;;;Del departamento al que está adscrito;4107520
+2016;23113;400;;;Del departamento al que está adscrito;215648450
+2016;23114;400;;;Del departamento al que está adscrito;14652720
+2016;23401;400;;;Del departamento al que está adscrito;24157270
+2016;25101;400;;;Del departamento al que está adscrito;3004150
+2016;25102;400;;;Del departamento al que está adscrito;5368260
+2016;25103;400;;;Del departamento al que está adscrito;54794160
+2016;25301;400;;;Del departamento al que está adscrito;224256770
+2016;26101;400;;;Del departamento al que está adscrito;10716290
+2016;26105;400;;;Del departamento al que está adscrito;3648970
+2016;26106;400;;;Del departamento al que está adscrito;2105890
+2016;26107;400;;;Del departamento al que está adscrito;13072940
+2016;26108;400;;;Del departamento al que está adscrito;1000000
+2016;26109;400;;;Del departamento al que está adscrito;24821850
+2016;26401;400;;;Del departamento al que está adscrito;8800
+2016;27101;400;;;Del departamento al que está adscrito;136679640
+2016;27103;400;;;Del departamento al que está adscrito;45440230
+2016;27104;400;;;Del departamento al que está adscrito;29017680
+2016;27105;400;;;Del departamento al que está adscrito;24158630
+2016;27106;400;;;Del departamento al que está adscrito;17886030
+2016;27107;400;;;Del departamento al que está adscrito;123795360
+2016;27302;400;;;Del departamento al que está adscrito;52707150
+2016;27401;400;;;Del departamento al que está adscrito;370675710
+2016;60004;400;;;Del departamento al que está adscrito;11543260010
+2016;15302;400;;00;Para gastos de funcionamiento;842513080
+2016;18101;400;;00;Para gastos de funcionamiento;2756090
+2016;18102;400;;00;Para gastos de funcionamiento;1975950
+2016;18103;400;;00;Para gastos de funcionamiento;7293830
+2016;18106;400;;00;Para gastos de funcionamiento;74189140
+2016;19101;400;;00;Para financiar el presupuesto del Servicio Público de Empleo Estatal. Exenciones de cuotas por riesgos catastróficos (incluye Prestige);19762860
+2016;20104;400;;00;Del departamento al que está adscrito;33253090
+2016;23102;400;;00;Para el desarrollo de sus actividades;3400000
+2016;23106;400;;00;Para el desarrollo de sus actividades;1500000
+2016;23107;400;;00;Para el desarrollo de sus actividades;1500000
+2016;23108;400;;00;Para el desarrollo de sus actividades;3000000
+2016;23109;400;;00;Para el desarrollo de sus actividades;4307480
+2016;23112;400;;00;Para gastos de funcionamiento.;4107520
+2016;23113;400;;00;Para gastos de funcionamiento;4380890
+2016;23114;400;;00;Para gastos de funcionamiento.;14652720
+2016;26109;400;;00;Para atenciones generales;24821850
+2016;27103;400;;00;Para gastos corrientes;41535730
+2016;27105;400;;00;Para gastos corrientes;22983780
+2016;27106;400;;00;Para gastos corrientes;17496030
+2016;27107;400;;00;Para gastos corrientes;121636360
+2016;27401;400;;00;Para gastos corrientes;363639660
+2016;14101;400;;01;Para gastos de funcionamiento;47357590
+2016;18102;400;;01;Para potenciar la proyección internacional del Sistema Universitario Español y su oferta, así como la movilidad interuniversitaria;395950
+2016;18103;400;;01;Fondo de Protección a la Cinematografía;60000000
+2016;18106;400;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;71587500
+2016;19101;400;;01;Para financiar el presupuesto del Servicio Público de Empleo Estatal. Regularización financiación Marcos Comunitarios 1994-1999 y 2000-2006;176672000
+2016;23102;400;;01;Para el pago de IBI de bienes de titularidad estatal;84000
+2016;23106;400;;01;Para el pago del IBI de bienes de titularidad estatal;6656000
+2016;23107;400;;01;Para el pago del IBI de bienes de titularidad estatal;2000000
+2016;23108;400;;01;Para el pago del IBI de bienes de titularidad estatal;156000
+2016;23109;400;;01;Para el pago de Ibi de bienes de titularidad estatal;650000
+2016;23113;400;;01;Para el Plan Anual de Seguros Agrarios y liquidación de planes anteriores;211267560
+2016;27103;400;;01;Para el Fusión for Energy;3405000
+2016;27105;400;;01;Para el funcionamiento operativo de buques y bases y de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;1164350
+2016;27106;400;;01;Para los gastos de la participación española en el Comité Polar y para el Banco Nacional de Datos Polares;390000
+2016;27107;400;;01;Para la aportación a EATRIS, ECRIN y ELIXIR;600600
+2016;14107;400;;02;Para compensación económica por carencia de vivienda;43400000
+2016;15302;400;;02;Por compensación gastos de otros servicios;2931450
+2016;18101;400;;02;Para Aula de Verano;112000
+2016;18102;400;;02;Para la financiación del Plan ejecutivo de cooperación e intercambio con la República Popular de China;150000
+2016;19101;400;;02;Para financiar el presupuesto del Servicio Público de Empleo Estatal;3725134070
+2016;27103;400;;02;Para actividades sobre tecnologías estratégicas y formativas con el CERN;499500
+2016;27107;400;;02;Para la aportación al proyecto EuroBiolmaging;29000
+2016;27401;400;;02;Para líneas e instalaciones;934270
+2016;15302;400;;03;Por premio de cobranza recursos propios de la Unión Europea;67770730
+2016;18101;400;;03;Para Cursos Institucionales de Verano;75000
+2016;27105;400;;03;Por la participación en Euro-Argo ERIC;10500
+2016;27107;400;;03;Para la aportación al proyecto EU Open Screen;29400
+2016;27107;400;;04;Para la Fundación Centre de Regulació Genómica (CRG) para los estudios de genómica del Centro Nacional de Análisis Genómico (CNAG);1500000
+2016;27401;400;;05;Para gastos de funcionamiento operativo de buques y bases y de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;5561780
+2016;27401;400;;07;Para gastos corrientes del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);90000
+2016;27401;400;;08;Para la aportación a INSTRUCT;200000
+2016;27401;400;;09;Para la aportación a SKA;250000
+2016;13102;401;;;De otros departamentos ministeriales;4931830
+2016;14113;401;;;De otros departamentos ministeriales;24800000
+2016;15106;401;;;De otros departamentos ministeriales;82039680
+2016;15107;401;;;De otros departamentos ministeriales;32934090
+2016;15302;401;;;De otros departamentos ministeriales;107600
+2016;17101;401;;;De otros departamentos ministeriales;3000000
+2016;25102;401;;;De otros departamentos ministeriales;55000
+2016;27103;401;;;De otros departamentos ministeriales;100000
+2016;27107;401;;;De otros departamentos ministeriales;574510
+2016;60004;401;;;De otros departamentos ministeriales;1599475660
+2016;15302;401;;00;Del Ministerio del Interior por los gastos comunes del edificio de la calle del Plomo, de Madrid;107600
+2016;27107;401;;00;Para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias;574510
+2016;18105;402;;;Del departamento al que está adscrito;7728570
+2016;12401;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;178223780
+2016;12401;405;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto Ley 7/2013, de 28 de junio;24955970
+2016;12401;41;;;De organismos autónomos;1155600
+2016;15102;41;;;De organismos autónomos;55047020
+2016;16101;41;;;De organismos autónomos;216480
+2016;17102;41;;;De organismos autónomos;50000
+2016;18103;41;;;De organismos autónomos;149820
+2016;18107;41;;;De organismos autónomos;105870
+2016;23110;41;;;De organismos autónomos;3452880
+2016;25103;41;;;De organismos autónomos;4992000
+2016;26101;41;;;De organismos autónomos;1000000
+2016;27401;41;;;De organismos autónomos;282090
+2016;98001;41;;;De organismos autónomos;261656100
+2016;15102;410;;;Transferencias corrientes de organismos autónomos;55047020
+2016;17102;410;;;Transferencias corrientes de organismos autónomos;50000
+2016;18103;410;;;Transferencias corrientes de organismos autónomos;149820
+2016;18107;410;;;Transferencias corrientes de organismos autónomos;105870
+2016;23110;410;;;Transferencias corrientes de organismos autónomos;3452880
+2016;27401;410;;;Transferencias corrientes de organismos autónomos;282090
+2016;98001;410;;;Transferencias corrientes de organismos autónomos;261656100
+2016;15102;410;;01;Del Servicio Público de Empleo Estatal para Formación para el Empleo;55047020
+2016;18103;410;;01;Del Servicio Público de Empleo Estatal (SPEE);149820
+2016;18107;410;;01;Del Servicio Público de Empleo Estatal (SPEE);105870
+2016;98001;410;;01;Jefatura de Tráfico;138745600
+2016;98001;410;;02;Servicio Público de Empleo Estatal;95094310
+2016;27401;410;;99;Del Servicio Público de Empleo Estatal (SPEE);282090
+2016;98001;410;;99;Otros;27816190
+2016;16101;411;;;Del Servicio Público de Empleo Estatal;216480
+2016;25103;411;;;Del Servicio Público de Empleo Estatal;4992000
+2016;26101;411;;;Del Servicio Público de Empleo Estatal;1000000
+2016;25103;411;;01;Para ayudas salariales a Escuelas Taller;2205040
+2016;16101;411;;02;Para gastos en políticas activas de empleo;216480
+2016;25103;411;;02;Para subvenciones a Escuelas Taller;2786960
+2016;12401;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior;1155600
+2016;19101;42;;;De la Seguridad Social;1593540
+2016;60004;42;;;De la Seguridad Social;3532711900
+2016;98001;42;;;De la Seguridad Social;163719450
+2016;19101;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad. Ejercicio corriente;1549300
+2016;98001;420/98001;;;Transferencias corrientes de la Seguridad Social;163719450
+2016;19101;421/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad. Ejercicios anteriores;44240
+2016;60004;421/60004;;;Aportaciones para sosteni. SS.CC.;1043623410
+2016;60004;422;;;Ingresos por servicios prestados entre Entidades del Sistema;1300507290
+2016;60004;423;;;Cuotas de reaseguro de Acctes. T.;1083676030
+2016;60004;428;;;Aplicaciones del Fondo de Contingencias Profesionales;67464880
+2016;60004;429;;;Otras transferencias recibidas de entidades del sistema;37440290
+2016;14101;43;;;De agencias estatales y otros organismos públicos;717140
+2016;18101;43;;;De agencias estatales y otros organismos públicos;450000
+2016;98001;43;;;De agencias estatales y otros organismos públicos;92859640
+2016;14101;430;;;De agencias estatales;717140
+2016;18101;430;;;De agencias estatales;450000
+2016;98001;430;;;De agencias estatales;92591700
+2016;18101;430;;00;Del CSIC para el desarrollo de programas de postgrado;450000
+2016;14101;430;;01;Del Consejo Superior de Investigaciones Científicas;717140
+2016;98001;430;;01;Agencia Estatal del B.O.E.;31085760
+2016;98001;430;;02;Agencia Española de Medicamentos y Productos Sanitarios;60929240
+2016;98001;430;;99;Otros;576700
+2016;98001;436;;;De otros organismos públicos;267940
+2016;18101;44;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;150250
+2016;18107;44;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;12000
+2016;27107;44;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;88000
+2016;98001;44;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;21000000
+2016;18101;441;;;De entidades públicas empresariales;150250
+2016;98001;441;;;De entidades públicas empresariales;21000000
+2016;98001;441;;09;De otras entidades públicas empresariales;21000000
+2016;27107;442;;;De fundaciones públicas;44000
+2016;18107;449;;;Del resto del Sector Público;12000
+2016;27107;449;;;Del resto del Sector Público;44000
+2016;18101;45;;;De Comunidades Autónomas;569300
+2016;18107;45;;;De Comunidades Autónomas;60000
+2016;18301;45;;;De Comunidades Autónomas;150000
+2016;27107;45;;;De Comunidades Autónomas;176000
+2016;60004;45;;;De Comunidades Autónomas;656930
+2016;98001;45;;;De Comunidades Autónomas;7239253090
+2016;98001;450;;;Contribuciones Concertadas;2141000000
+2016;98001;450;;00;Cupo del País Vasco;1525000000
+2016;98001;450;;01;De Navarra;616000000
+2016;98001;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.;192982460
+2016;98001;456;;;Compensaciones financieras del País Vasco;52633000
+2016;98001;456;;00;Impuestos especiales sobre el alcohol y bebidas derivadas y productos intermedios;6531000
+2016;98001;456;;01;Impuesto especial sobre la Cerveza;2782000
+2016;98001;456;;02;Impuesto especial sobre Hidrocarburos;38000000
+2016;98001;456;;03;Impuesto sobre producción y almacenamiento energía eléctrica;5320000
+2016;98001;457;;;Compensación a Navarra. Impuesto almacenamiento energía;16000000
+2016;98001;458;;;Por Fondo de Suficiencia y otros;4836637630
+2016;18101;459;;;Otras transferencias corrientes;569300
+2016;18107;459;;;Otras transferencias corrientes;60000
+2016;18301;459;;;Otras transferencias corrientes;150000
+2016;27107;459;;;Otras transferencias corrientes;176000
+2016;60004;459;;;Otras transferencias corrientes;656930
+2016;18101;46;;;De Entidades Locales;323340
+2016;98001;46;;;De Entidades Locales;426990000
+2016;18101;460;;;De Ayuntamientos;323340
+2016;98001;460;;;De Ayuntamientos;426990000
+2016;12301;47;;;De empresas privadas;1000000
+2016;18101;47;;;De empresas privadas;1230360
+2016;18107;47;;;De empresas privadas;20000
+2016;18301;47;;;De empresas privadas;1655000
+2016;18302;47;;;De empresas privadas;1500000
+2016;19104;47;;;De empresas privadas;900
+2016;25101;47;;;De empresas privadas;85000
+2016;60004;47;;;De empresas privadas;31400000
+2016;12301;470/12301;;;De empresas privadas;1000000
+2016;18301;470/18301;;;Ingresos de empresas privadas;1655000
+2016;18302;470/18302;;;Ingresos de empresas privadas;1500000
+2016;19104;470/19104;;;Transferencias de empresas privadas;900
+2016;25101;470/25101;;;Provenientes de empresas de propiedad privada;85000
+2016;60004;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;31400000
+2016;18101;479/18101;;;Otras transferencias corrientes;1230360
+2016;18107;479/18107;;;De empresas privadas;20000
+2016;18101;48;;;De familias e instituciones sin fines de lucro;795730
+2016;18301;48;;;De familias e instituciones sin fines de lucro;2830000
+2016;18302;48;;;De familias e instituciones sin fines de lucro;1150000
+2016;18301;480;;;De familias e instituciones sin fines de lucro;2830000
+2016;18101;489;;;Otras transferencias corrientes;795730
+2016;18302;489;;;Otras transferencias corrientes;1150000
+2016;12401;49;;;Del exterior;9293620
+2016;13301;49;;;Del exterior;20000
+2016;15302;49;;;Del exterior;617000
+2016;17102;49;;;Del exterior;1078000
+2016;18101;49;;;Del exterior;14250
+2016;18102;49;;;Del exterior;3350000
+2016;18301;49;;;Del exterior;75500
+2016;18302;49;;;Del exterior;48000
+2016;19101;49;;;Del exterior;483000000
+2016;19104;49;;;Del exterior;31000
+2016;23103;49;;;Del exterior;20000
+2016;23114;49;;;Del exterior;5854384560
+2016;23401;49;;;Del exterior;4256500
+2016;26101;49;;;Del exterior;13070010
+2016;26107;49;;;Del exterior;5200000
+2016;60004;49;;;Del exterior;24210000
+2016;98001;49;;;Del exterior;62000000
+2016;19101;490;;;Del Fondo Social Europeo;483000000
+2016;26107;490;;;Del Fondo Social Europeo;4850000
+2016;60004;490;;;Del Fondo Social Europeo;24210000
+2016;98001;490;;;Del Fondo Social Europeo;50000000
+2016;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;483000000
+2016;23114;491;;;Del Fondo Europeo Agrícola de Garantía (FEAGA);5747384560
+2016;23114;491;;01;Subvenciones a la producción agraria;5747384560
+2016;13301;492;;;Otras transferencias de la Unión Europea;20000
+2016;15302;492;;;Otras transferencias de la Unión Europea;617000
+2016;17102;492;;;Otras transferencias de la Unión Europea;1078000
+2016;18102;492;;;Otras transferencias de la Unión Europea;3350000
+2016;19104;492;;;Otras transferencias de la Unión Europea;31000
+2016;23114;492;;;Otras transferencias de la Unión Europea;107000000
+2016;26107;492;;;Otras transferencias de la Unión Europea;150000
+2016;98001;492;;;Otras transferencias de la Unión Europea;2000000
+2016;23401;493;;;Aportaciones derivadas de convenios internacionales de cooperación;4256500
+2016;26101;493;;;Aportaciones derivadas de convenios internacionales de cooperación;13070010
+2016;23103;494/23103;;;De la Unión Europea-PAC;20000
+2016;26107;494/26107;;;Del Espacio Económico Europeo;200000
+2016;12401;499;;;Otras transferencias corrientes;9293620
+2016;18101;499;;;Otras transferencias corrientes;14250
+2016;18301;499;;;Otras transferencias corrientes;75500
+2016;18302;499;;;Otras transferencias corrientes;48000
+2016;98001;499;;;Otras transferencias corrientes;10000000
+2016;12401;499;;10;Transferencias UE para Proyectos de Cooperación Delegada en Nicaragua;2952930
+2016;12401;499;;13;Transferencias UE para Proyectos de Cooperación Delegada en Honduras;268200
+2016;12401;499;;14;Transferencias UE para Proyectos de Cooperación Delegada en República Dominicana;1140150
+2016;12401;499;;15;Transferencias UE para Proyectos de Cooperación Delegada en Cuba;70340
+2016;12401;499;;16;Transferencias UE para Proyectos de Cooperación Delegada en LAIF Regional;4562000
+2016;12401;499;;17;Transferencias UE para Proyectos de Cooperación Delegada Región SICA;300000
+2016;12301;5;;;INGRESOS PATRIMONIALES;810000
+2016;13102;5;;;INGRESOS PATRIMONIALES;240500
+2016;13301;5;;;INGRESOS PATRIMONIALES;800000
+2016;14101;5;;;INGRESOS PATRIMONIALES;2200000
+2016;14107;5;;;INGRESOS PATRIMONIALES;23251000
+2016;14113;5;;;INGRESOS PATRIMONIALES;90000
+2016;15101;5;;;INGRESOS PATRIMONIALES;107310
+2016;15102;5;;;INGRESOS PATRIMONIALES;23000
+2016;15106;5;;;INGRESOS PATRIMONIALES;1912780
+2016;15107;5;;;INGRESOS PATRIMONIALES;290170
+2016;15302;5;;;INGRESOS PATRIMONIALES;120000
+2016;16101;5;;;INGRESOS PATRIMONIALES;1298270
+2016;17101;5;;;INGRESOS PATRIMONIALES;1550
+2016;18101;5;;;INGRESOS PATRIMONIALES;1000
+2016;18102;5;;;INGRESOS PATRIMONIALES;1000
+2016;18103;5;;;INGRESOS PATRIMONIALES;8000
+2016;18104;5;;;INGRESOS PATRIMONIALES;17000
+2016;18106;5;;;INGRESOS PATRIMONIALES;598350
+2016;18107;5;;;INGRESOS PATRIMONIALES;44000
+2016;18301;5;;;INGRESOS PATRIMONIALES;2699360
+2016;18302;5;;;INGRESOS PATRIMONIALES;850000
+2016;19101;5;;;INGRESOS PATRIMONIALES;98080
+2016;19102;5;;;INGRESOS PATRIMONIALES;155000
+2016;19104;5;;;INGRESOS PATRIMONIALES;500
+2016;20102;5;;;INGRESOS PATRIMONIALES;1000
+2016;20103;5;;;INGRESOS PATRIMONIALES;620
+2016;20104;5;;;INGRESOS PATRIMONIALES;3008950
+2016;20302;5;;;INGRESOS PATRIMONIALES;230000
+2016;23101;5;;;INGRESOS PATRIMONIALES;3401300
+2016;23103;5;;;INGRESOS PATRIMONIALES;2522000
+2016;23104;5;;;INGRESOS PATRIMONIALES;3101000
+2016;23105;5;;;INGRESOS PATRIMONIALES;1106140
+2016;23106;5;;;INGRESOS PATRIMONIALES;83000
+2016;23107;5;;;INGRESOS PATRIMONIALES;150000
+2016;23108;5;;;INGRESOS PATRIMONIALES;5700
+2016;23109;5;;;INGRESOS PATRIMONIALES;64552440
+2016;23110;5;;;INGRESOS PATRIMONIALES;26000
+2016;23111;5;;;INGRESOS PATRIMONIALES;200000
+2016;23114;5;;;INGRESOS PATRIMONIALES;3828610
+2016;23401;5;;;INGRESOS PATRIMONIALES;1500
+2016;25103;5;;;INGRESOS PATRIMONIALES;7730000
+2016;25301;5;;;INGRESOS PATRIMONIALES;99750
+2016;25401;5;;;INGRESOS PATRIMONIALES;700
+2016;26101;5;;;INGRESOS PATRIMONIALES;6000
+2016;26106;5;;;INGRESOS PATRIMONIALES;1980
+2016;27101;5;;;INGRESOS PATRIMONIALES;25410
+2016;27104;5;;;INGRESOS PATRIMONIALES;221000
+2016;27105;5;;;INGRESOS PATRIMONIALES;2500
+2016;27106;5;;;INGRESOS PATRIMONIALES;2000
+2016;27302;5;;;INGRESOS PATRIMONIALES;55000
+2016;27401;5;;;INGRESOS PATRIMONIALES;1972000
+2016;60004;5;;;INGRESOS PATRIMONIALES;1633504140
+2016;98001;5;;;INGRESOS PATRIMONIALES;5179636000
+2016;15106;50;;;Intereses de títulos y valores;1530
+2016;60004;50;;;Intereses de títulos y valores;1616444630
+2016;15106;500;;;Del Estado;880
+2016;60004;500;;;Del Estado;1597961980
+2016;15106;504;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;650
+2016;60004;504;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;5654870
+2016;60004;505;;;De Comunidades Autónomas;12790680
+2016;60004;506;;;De Entidades Locales;8000
+2016;60004;507;;;De empresas privadas;29100
+2016;18106;51;;;Intereses de anticipos y préstamos concedidos;378350
+2016;23107;51;;;Intereses de anticipos y préstamos concedidos;80940
+2016;23111;51;;;Intereses de anticipos y préstamos concedidos;2000
+2016;60004;51;;;Intereses de anticipos y préstamos concedidos;265200
+2016;98001;51;;;Intereses de anticipos y préstamos concedidos;360798000
+2016;23107;514;;;A sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;80940
+2016;23107;514;;99;Otros;80940
+2016;98001;515;;;A Comunidades Autónomas;334920000
+2016;18106;518;;;A familias e instituciones sin fines de lucro;378350
+2016;23111;518;;;A familias e instituciones sin fines de lucro;2000
+2016;60004;518;;;A familias e instituciones sin fines de lucro;265200
+2016;98001;519;;;Al exterior;25878000
+2016;12301;52;;;Intereses de depósitos;10000
+2016;13102;52;;;Intereses de depósitos;105000
+2016;13301;52;;;Intereses de depósitos;800000
+2016;14107;52;;;Intereses de depósitos;1000
+2016;14113;52;;;Intereses de depósitos;10000
+2016;15102;52;;;Intereses de depósitos;3000
+2016;15106;52;;;Intereses de depósitos;806840
+2016;15302;52;;;Intereses de depósitos;120000
+2016;16101;52;;;Intereses de depósitos;1268220
+2016;17101;52;;;Intereses de depósitos;1550
+2016;18101;52;;;Intereses de depósitos;1000
+2016;18102;52;;;Intereses de depósitos;1000
+2016;18104;52;;;Intereses de depósitos;4000
+2016;18107;52;;;Intereses de depósitos;7000
+2016;18301;52;;;Intereses de depósitos;1000
+2016;19101;52;;;Intereses de depósitos;48080
+2016;19102;52;;;Intereses de depósitos;30000
+2016;19104;52;;;Intereses de depósitos;500
+2016;20102;52;;;Intereses de depósitos;1000
+2016;20103;52;;;Intereses de depósitos;620
+2016;20104;52;;;Intereses de depósitos;1000
+2016;20302;52;;;Intereses de depósitos;230000
+2016;23101;52;;;Intereses de depósitos;1300
+2016;23103;52;;;Intereses de depósitos;10000
+2016;23104;52;;;Intereses de depósitos;1000
+2016;23106;52;;;Intereses de depósitos;3000
+2016;23107;52;;;Intereses de depósitos;50000
+2016;23108;52;;;Intereses de depósitos;1000
+2016;23109;52;;;Intereses de depósitos;309000
+2016;23110;52;;;Intereses de depósitos;1000
+2016;23111;52;;;Intereses de depósitos;83000
+2016;23401;52;;;Intereses de depósitos;1500
+2016;25103;52;;;Intereses de depósitos;20000
+2016;25301;52;;;Intereses de depósitos;99750
+2016;25401;52;;;Intereses de depósitos;700
+2016;26101;52;;;Intereses de depósitos;6000
+2016;26106;52;;;Intereses de depósitos;1980
+2016;27104;52;;;Intereses de depósitos;1000
+2016;27105;52;;;Intereses de depósitos;2500
+2016;27106;52;;;Intereses de depósitos;2000
+2016;27302;52;;;Intereses de depósitos;50000
+2016;27401;52;;;Intereses de depósitos;20000
+2016;60004;52;;;Intereses de depósitos;9483290
+2016;98001;52;;;Intereses de depósitos;122500000
+2016;12301;520;;;Intereses de cuentas bancarias;10000
+2016;13102;520;;;Intereses de cuentas bancarias;105000
+2016;13301;520;;;Intereses de cuentas bancarias;800000
+2016;14107;520;;;Intereses de cuentas bancarias;1000
+2016;14113;520;;;Intereses de cuentas bancarias;10000
+2016;15102;520;;;Intereses de cuentas bancarias;3000
+2016;15106;520;;;Intereses de cuentas bancarias;806840
+2016;15302;520;;;Intereses de cuentas bancarias;120000
+2016;16101;520;;;Intereses de cuentas bancarias;1268220
+2016;17101;520;;;Intereses de cuentas bancarias;1550
+2016;18101;520;;;Intereses de cuentas bancarias;1000
+2016;18102;520;;;Intereses de cuentas bancarias;1000
+2016;18104;520;;;Intereses de cuentas bancarias;4000
+2016;18107;520;;;Intereses de cuentas bancarias;7000
+2016;18301;520;;;Intereses de cuentas bancarias;1000
+2016;19101;520;;;Intereses de cuentas bancarias;48080
+2016;19102;520;;;Intereses de cuentas bancarias;30000
+2016;19104;520;;;Intereses de cuentas bancarias;500
+2016;20102;520;;;Intereses de cuentas bancarias;1000
+2016;20103;520;;;Intereses de cuentas bancarias;620
+2016;20104;520;;;Intereses de cuentas bancarias;1000
+2016;20302;520;;;Intereses de cuentas bancarias;230000
+2016;23101;520;;;Intereses de cuentas bancarias;1300
+2016;23103;520;;;Intereses de cuentas bancarias;10000
+2016;23104;520;;;Intereses de cuentas bancarias;1000
+2016;23106;520;;;Intereses de cuentas bancarias;3000
+2016;23107;520;;;Intereses de cuentas bancarias;50000
+2016;23108;520;;;Intereses de cuentas bancarias;1000
+2016;23109;520;;;Intereses de cuentas bancarias;309000
+2016;23110;520;;;Intereses de cuentas bancarias;1000
+2016;23111;520;;;Intereses de cuentas bancarias;83000
+2016;23401;520;;;Intereses de cuentas bancarias;1500
+2016;25103;520;;;Intereses de cuentas bancarias;20000
+2016;25301;520;;;Intereses de cuentas bancarias;99750
+2016;25401;520;;;Intereses de cuentas bancarias;700
+2016;26101;520;;;Intereses de cuentas bancarias;6000
+2016;26106;520;;;Intereses de cuentas bancarias;1980
+2016;27104;520;;;Intereses de cuentas bancarias;1000
+2016;27105;520;;;Intereses de cuentas bancarias;2500
+2016;27106;520;;;Intereses de cuentas bancarias;2000
+2016;27302;520;;;Intereses de cuentas bancarias;50000
+2016;27401;520;;;Intereses de cuentas bancarias;20000
+2016;60004;520;;;Intereses de cuentas bancarias;5899050
+2016;98001;520;;;Intereses de cuentas bancarias;122500000
+2016;23107;520;;00;Intereses de las consignaciones judiciales;50000
+2016;23109;520;;00;Intereses de las consignaciones judiciales;309000
+2016;98001;520;;00;Intereses de las consignaciones judiciales;99000000
+2016;98001;520;;09;Intereses de la cuenta del Tesoro en el Banco de España;20000000
+2016;12301;520;;99;Otros intereses de cuentas bancarias;10000
+2016;13301;520;;99;Otros intereses de cuentas bancarias;800000
+2016;14107;520;;99;Otros intereses de cuentas bancarias;1000
+2016;14113;520;;99;Otros intereses de cuentas bancarias;10000
+2016;15102;520;;99;Otros intereses de cuentas bancarias;3000
+2016;15106;520;;99;Otros intereses de cuentas bancarias;806840
+2016;16101;520;;99;Otros intereses de cuentas bancarias;1268220
+2016;18102;520;;99;Otros intereses de cuentas bancarias;1000
+2016;18107;520;;99;Otros intereses de cuentas bancarias;7000
+2016;18301;520;;99;Otros intereses de cuentas bancarias;1000
+2016;19101;520;;99;Otros intereses de cuentas bancarias;48080
+2016;19102;520;;99;Otros intereses de cuentas bancarias;30000
+2016;19104;520;;99;Otros intereses de cuentas bancarias;500
+2016;20102;520;;99;Otros intereses de cuentas bancarias;1000
+2016;20103;520;;99;Otros intereses de cuentas bancarias;620
+2016;20104;520;;99;Otros intereses de cuentas bancarias;1000
+2016;20302;520;;99;Otros intereses de cuentas bancarias;230000
+2016;23101;520;;99;Otros intereses de cuentas bancarias;1300
+2016;23103;520;;99;Otros intereses de cuentas bancarias;10000
+2016;23104;520;;99;Otros intereses de cuentas bancarias;1000
+2016;23106;520;;99;Otros intereses de cuentas bancarias;3000
+2016;23108;520;;99;Otros intereses de cuentas bancarias;1000
+2016;23110;520;;99;Otros intereses de cuentas bancarias;1000
+2016;23111;520;;99;Otros intereses de cuentas bancarias;83000
+2016;25301;520;;99;Otros intereses de cuentas bancarias;99750
+2016;26101;520;;99;Otros intereses de cuentas bancarias;6000
+2016;26106;520;;99;Otros intereses de cuentas bancarias;1980
+2016;27104;520;;99;Otros intereses de cuentas bancarias;1000
+2016;27105;520;;99;Otros intereses de cuentas bancarias;2500
+2016;27401;520;;99;Otros intereses de cuentas bancarias;20000
+2016;98001;520;;99;Otros intereses de cuentas bancarias;3500000
+2016;60004;529;;;Intereses de otros depósitos;3584240
+2016;14101;53;;;Dividendos y participaciones en beneficios;2000000
+2016;15102;53;;;Dividendos y participaciones en beneficios;10000
+2016;15106;53;;;Dividendos y participaciones en beneficios;426800
+2016;23114;53;;;Dividendos y participaciones en beneficios;3818610
+2016;60004;53;;;Dividendos y participaciones en beneficios;25760
+2016;98001;53;;;Dividendos y participaciones en beneficios;4191838000
+2016;14101;534;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;2000000
+2016;23114;534;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;3818610
+2016;98001;534;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;4191838000
+2016;98001;534;;03;Banco de España;2067000000
+2016;98001;534;;06;Real Casa de la Moneda. Fabrica Nacional de Moneda y Timbre;12922000
+2016;98001;534;;09;Entidad Pública Empresarial ENAIRE;465166000
+2016;98001;534;;11;Sociedad Estatal Loterías y Apuestas del Estado (SELAE);1625000000
+2016;98001;534;;12;Otras Sociedades Estatales del Grupo Patrimonio;21750000
+2016;14101;534;;99;Otras participaciones en beneficios;2000000
+2016;23114;534;;99;Otras participaciones en beneficios;3818610
+2016;15102;537;;;De empresas privadas;10000
+2016;15106;537;;;De empresas privadas;426800
+2016;60004;537;;;De empresas privadas;25760
+2016;12301;54;;;Rentas de bienes inmuebles;800000
+2016;13102;54;;;Rentas de bienes inmuebles;135500
+2016;14101;54;;;Rentas de bienes inmuebles;200000
+2016;14107;54;;;Rentas de bienes inmuebles;21450000
+2016;14113;54;;;Rentas de bienes inmuebles;80000
+2016;15101;54;;;Rentas de bienes inmuebles;107310
+2016;15102;54;;;Rentas de bienes inmuebles;10000
+2016;15106;54;;;Rentas de bienes inmuebles;677610
+2016;15107;54;;;Rentas de bienes inmuebles;220170
+2016;18106;54;;;Rentas de bienes inmuebles;220000
+2016;19102;54;;;Rentas de bienes inmuebles;125000
+2016;23103;54;;;Rentas de bienes inmuebles;12000
+2016;23107;54;;;Rentas de bienes inmuebles;19060
+2016;23114;54;;;Rentas de bienes inmuebles;10000
+2016;25103;54;;;Rentas de bienes inmuebles;7000000
+2016;27101;54;;;Rentas de bienes inmuebles;25410
+2016;27104;54;;;Rentas de bienes inmuebles;20000
+2016;27302;54;;;Rentas de bienes inmuebles;5000
+2016;27401;54;;;Rentas de bienes inmuebles;360000
+2016;60004;54;;;Rentas de bienes inmuebles;7192210
+2016;98001;54;;;Rentas de bienes inmuebles;3500000
+2016;13102;540;;;Alquiler y productos de inmuebles;135500
+2016;14101;540;;;Alquiler y productos de inmuebles;200000
+2016;14107;540;;;Alquiler y productos de inmuebles;20250000
+2016;14113;540;;;Alquiler y productos de inmuebles;80000
+2016;15101;540;;;Alquiler y productos de inmuebles;107310
+2016;15106;540;;;Alquiler y productos de inmuebles;677610
+2016;15107;540;;;Alquiler y productos de inmuebles;220170
+2016;18106;540;;;Alquiler y productos de inmuebles;220000
+2016;19102;540;;;Alquiler y productos de inmuebles;125000
+2016;23103;540;;;Alquiler y productos de inmuebles;12000
+2016;23107;540;;;Alquiler y productos de inmuebles;19060
+2016;23114;540;;;Alquiler y productos de inmuebles;10000
+2016;25103;540;;;Alquiler y productos de inmuebles;7000000
+2016;27101;540;;;Alquiler y productos de inmuebles;25410
+2016;27104;540;;;Alquiler y productos de inmuebles;20000
+2016;27302;540;;;Alquiler y productos de inmuebles;5000
+2016;27401;540;;;Alquiler y productos de inmuebles;360000
+2016;60004;540;;;Alquiler y productos de inmuebles;7164600
+2016;98001;540;;;Alquiler y productos de inmuebles;3500000
+2016;14101;540;;00;Alquiler de viviendas;200000
+2016;14107;540;;00;Alquiler de viviendas;18000000
+2016;15106;540;;00;Alquiler de viviendas;121360
+2016;18106;540;;00;Alquiler de viviendas;220000
+2016;23103;540;;00;Alquiler de viviendas;12000
+2016;23107;540;;00;Alquiler de viviendas;19060
+2016;27101;540;;00;Alquiler de viviendas;25410
+2016;27401;540;;09;Otros alquileres de viviendas (alojamiento en residencias y buques);85000
+2016;13102;540;;10;Alquiler de locales;135500
+2016;14107;540;;10;Alquiler de locales;1850000
+2016;14113;540;;10;Alquiler de locales;80000
+2016;15106;540;;10;Alquiler de locales;428210
+2016;19102;540;;10;Alquiler de locales;125000
+2016;27401;540;;10;Alquiler de locales;275000
+2016;14107;540;;99;Otros productos de inmuebles;400000
+2016;15101;540;;99;Otros productos de inmuebles;107310
+2016;15106;540;;99;Otros productos de inmuebles;128040
+2016;23114;540;;99;Otros productos de inmuebles;10000
+2016;25103;540;;99;Otros productos de inmuebles;7000000
+2016;27104;540;;99;Otros productos de inmuebles;20000
+2016;98001;540;;99;Otros productos de inmuebles;3500000
+2016;15102;542;;;Alquiler de aulas y otras instalaciones formativas.;10000
+2016;12301;549;;;Otras rentas;800000
+2016;14107;549;;;Otras rentas;1200000
+2016;60004;549;;;Otras rentas;27610
+2016;18103;55;;;Productos de concesiones y aprovechamientos especiales;8000
+2016;18104;55;;;Productos de concesiones y aprovechamientos especiales;13000
+2016;18107;55;;;Productos de concesiones y aprovechamientos especiales;37000
+2016;18301;55;;;Productos de concesiones y aprovechamientos especiales;2698360
+2016;18302;55;;;Productos de concesiones y aprovechamientos especiales;850000
+2016;20104;55;;;Productos de concesiones y aprovechamientos especiales;3007950
+2016;23101;55;;;Productos de concesiones y aprovechamientos especiales;3400000
+2016;23103;55;;;Productos de concesiones y aprovechamientos especiales;2500000
+2016;23104;55;;;Productos de concesiones y aprovechamientos especiales;1100000
+2016;23105;55;;;Productos de concesiones y aprovechamientos especiales;1078670
+2016;23106;55;;;Productos de concesiones y aprovechamientos especiales;80000
+2016;23108;55;;;Productos de concesiones y aprovechamientos especiales;4700
+2016;23109;55;;;Productos de concesiones y aprovechamientos especiales;154500
+2016;23110;55;;;Productos de concesiones y aprovechamientos especiales;25000
+2016;25103;55;;;Productos de concesiones y aprovechamientos especiales;600000
+2016;27104;55;;;Productos de concesiones y aprovechamientos especiales;200000
+2016;27401;55;;;Productos de concesiones y aprovechamientos especiales;1592000
+2016;60004;55;;;Productos de concesiones y aprovechamientos especiales;93050
+2016;98001;55;;;Productos de concesiones y aprovechamientos especiales;501000000
+2016;18103;550;;;De concesiones administrativas;8000
+2016;18104;550;;;De concesiones administrativas;13000
+2016;18302;550;;;De concesiones administrativas;850000
+2016;20104;550;;;De concesiones administrativas;3007950
+2016;23101;550;;;De concesiones administrativas;200000
+2016;23106;550;;;De concesiones administrativas;80000
+2016;23108;550;;;De concesiones administrativas;4700
+2016;23110;550;;;De concesiones administrativas;22000
+2016;60004;550;;;De concesiones administrativas;93050
+2016;98001;550;;;De concesiones administrativas;1000000
+2016;23101;551;;;Aprovechamientos agrícolas y forestales;3000000
+2016;23103;551;;;Aprovechamientos agrícolas y forestales;2500000
+2016;23105;551;;;Aprovechamientos agrícolas y forestales;1078670
+2016;23110;551;;;Aprovechamientos agrícolas y forestales;3000
+2016;23104;555;;;Aprovechamientos agrícolas y forestales;100000
+2016;98001;557;;;Subastas de derechos de emisión de gases de efecto invernadero;500000000
+2016;18107;559;;;Otras concesiones y aprovechamientos;37000
+2016;18301;559;;;Otras concesiones y aprovechamientos;2698360
+2016;23101;559;;;Otras concesiones y aprovechamientos;200000
+2016;23104;559;;;Otras concesiones y aprovechamientos;1000000
+2016;23109;559;;;Otras concesiones y aprovechamientos;154500
+2016;25103;559;;;Otras concesiones y aprovechamientos;600000
+2016;27104;559;;;Otras concesiones y aprovechamientos;200000
+2016;27401;559;;;Otras concesiones y aprovechamientos;1592000
+2016;14107;59;;;Otros ingresos patrimoniales;1800000
+2016;15107;59;;;Otros ingresos patrimoniales;70000
+2016;16101;59;;;Otros ingresos patrimoniales;30050
+2016;19101;59;;;Otros ingresos patrimoniales;50000
+2016;23104;59;;;Otros ingresos patrimoniales;2000000
+2016;23105;59;;;Otros ingresos patrimoniales;27470
+2016;23109;59;;;Otros ingresos patrimoniales;64088940
+2016;23111;59;;;Otros ingresos patrimoniales;115000
+2016;25103;59;;;Otros ingresos patrimoniales;110000
+2016;14107;599;;;Otros;1800000
+2016;15107;599;;;Otros;70000
+2016;16101;599;;;Otros;30050
+2016;19101;599;;;Otros;50000
+2016;23104;599;;;Otros;2000000
+2016;23105;599;;;Otros;27470
+2016;23109;599;;;Otros;64088940
+2016;23111;599;;;Otros;115000
+2016;25103;599;;;Otros;110000
+2016;12301;6;;;ENAJENACION DE INVERSIONES REALES;80000
+2016;14107;6;;;ENAJENACION DE INVERSIONES REALES;139299980
+2016;15107;6;;;ENAJENACION DE INVERSIONES REALES;14400
+2016;16101;6;;;ENAJENACION DE INVERSIONES REALES;330560
+2016;16102;6;;;ENAJENACION DE INVERSIONES REALES;16855500
+2016;18106;6;;;ENAJENACION DE INVERSIONES REALES;536890
+2016;19101;6;;;ENAJENACION DE INVERSIONES REALES;3001810
+2016;19102;6;;;ENAJENACION DE INVERSIONES REALES;2000000
+2016;20104;6;;;ENAJENACION DE INVERSIONES REALES;650000
+2016;23101;6;;;ENAJENACION DE INVERSIONES REALES;1000000
+2016;23106;6;;;ENAJENACION DE INVERSIONES REALES;1000
+2016;23107;6;;;ENAJENACION DE INVERSIONES REALES;230000
+2016;23114;6;;;ENAJENACION DE INVERSIONES REALES;100000
+2016;27104;6;;;ENAJENACION DE INVERSIONES REALES;450000
+2016;27106;6;;;ENAJENACION DE INVERSIONES REALES;3000
+2016;60004;6;;;ENAJENACION DE INVERSIONES REALES;311150
+2016;98001;6;;;ENAJENACION DE INVERSIONES REALES;198710000
+2016;14107;60;;;De terrenos;110000000
+2016;60004;60;;;De terrenos;3000
+2016;98001;60;;;De terrenos;105000000
+2016;14107;600;;;Venta de solares;110000000
+2016;98001;600;;;Venta de solares;100000000
+2016;60004;601;;;Venta de fincas rústicas;3000
+2016;98001;601;;;Venta de fincas rústicas;5000000
+2016;12301;61;;;De las demás inversiones reales;80000
+2016;14107;61;;;De las demás inversiones reales;29299980
+2016;15107;61;;;De las demás inversiones reales;14400
+2016;16101;61;;;De las demás inversiones reales;330560
+2016;16102;61;;;De las demás inversiones reales;16855500
+2016;19101;61;;;De las demás inversiones reales;1810
+2016;19102;61;;;De las demás inversiones reales;2000000
+2016;23106;61;;;De las demás inversiones reales;1000
+2016;23114;61;;;De las demás inversiones reales;100000
+2016;27106;61;;;De las demás inversiones reales;2000
+2016;60004;61;;;De las demás inversiones reales;308150
+2016;98001;61;;;De las demás inversiones reales;1000000
+2016;27106;616;;;Enajenación de bienes destinados a uso general;2000
+2016;14107;618;;;Ingresos por encomiendas de gestión;3765000
+2016;12301;619;;;Venta de otras inversiones reales;80000
+2016;14107;619;;;Venta de otras inversiones reales;25534980
+2016;15107;619;;;Venta de otras inversiones reales;14400
+2016;16101;619;;;Venta de otras inversiones reales;330560
+2016;16102;619;;;Venta de otras inversiones reales;16855500
+2016;19101;619;;;Venta de otras inversiones reales;1810
+2016;19102;619;;;Venta de otras inversiones reales;2000000
+2016;23106;619;;;Venta de otras inversiones reales;1000
+2016;23114;619;;;Venta de otras inversiones reales;100000
+2016;60004;619;;;Venta de otras inversiones reales;308150
+2016;98001;619;;;Venta de otras inversiones reales;1000000
+2016;18106;68;;;Reintegros por operaciones de capital;536890
+2016;19101;68;;;Reintegros por operaciones de capital;3000000
+2016;20104;68;;;Reintegros por operaciones de capital;650000
+2016;23101;68;;;Reintegros por operaciones de capital;1000000
+2016;23107;68;;;Reintegros por operaciones de capital;230000
+2016;27104;68;;;Reintegros por operaciones de capital;450000
+2016;27106;68;;;Reintegros por operaciones de capital;1000
+2016;98001;68;;;Reintegros por operaciones de capital;92710000
+2016;18106;680;;;De ejercicios cerrados;536890
+2016;19101;680;;;De ejercicios cerrados;3000000
+2016;20104;680;;;De ejercicios cerrados;650000
+2016;23101;680;;;De ejercicios cerrados;1000000
+2016;23107;680;;;De ejercicios cerrados;230000
+2016;27104;680;;;De ejercicios cerrados;450000
+2016;27106;680;;;De ejercicios cerrados;1000
+2016;98001;680;;;De ejercicios cerrados;87710000
+2016;98001;681;;;Del presupuesto corriente;5000000
+2016;12301;7;;;TRANSFERENCIAS DE CAPITAL;3013000
+2016;12401;7;;;TRANSFERENCIAS DE CAPITAL;23950150
+2016;13101;7;;;TRANSFERENCIAS DE CAPITAL;512300
+2016;14101;7;;;TRANSFERENCIAS DE CAPITAL;24846680
+2016;14107;7;;;TRANSFERENCIAS DE CAPITAL;300000
+2016;15101;7;;;TRANSFERENCIAS DE CAPITAL;834080
+2016;15102;7;;;TRANSFERENCIAS DE CAPITAL;641260
+2016;15107;7;;;TRANSFERENCIAS DE CAPITAL;1125140
+2016;15302;7;;;TRANSFERENCIAS DE CAPITAL;31963320
+2016;15304;7;;;TRANSFERENCIAS DE CAPITAL;590000
+2016;15401;7;;;TRANSFERENCIAS DE CAPITAL;152710
+2016;16102;7;;;TRANSFERENCIAS DE CAPITAL;2000000
+2016;17101;7;;;TRANSFERENCIAS DE CAPITAL;990000
+2016;17102;7;;;TRANSFERENCIAS DE CAPITAL;2520000
+2016;17402;7;;;TRANSFERENCIAS DE CAPITAL;8080000
+2016;18101;7;;;TRANSFERENCIAS DE CAPITAL;368820
+2016;18102;7;;;TRANSFERENCIAS DE CAPITAL;615370
+2016;18103;7;;;TRANSFERENCIAS DE CAPITAL;585000
+2016;18104;7;;;TRANSFERENCIAS DE CAPITAL;5000000
+2016;18105;7;;;TRANSFERENCIAS DE CAPITAL;25530000
+2016;18106;7;;;TRANSFERENCIAS DE CAPITAL;7331920
+2016;18107;7;;;TRANSFERENCIAS DE CAPITAL;7209000
+2016;18108;7;;;TRANSFERENCIAS DE CAPITAL;30000
+2016;18301;7;;;TRANSFERENCIAS DE CAPITAL;6100000
+2016;18302;7;;;TRANSFERENCIAS DE CAPITAL;2627210
+2016;18401;7;;;TRANSFERENCIAS DE CAPITAL;424570
+2016;19101;7;;;TRANSFERENCIAS DE CAPITAL;15901770
+2016;19104;7;;;TRANSFERENCIAS DE CAPITAL;925000
+2016;19301;7;;;TRANSFERENCIAS DE CAPITAL;41940
+2016;20101;7;;;TRANSFERENCIAS DE CAPITAL;51230000
+2016;20103;7;;;TRANSFERENCIAS DE CAPITAL;2691360
+2016;20104;7;;;TRANSFERENCIAS DE CAPITAL;42946980
+2016;23101;7;;;TRANSFERENCIAS DE CAPITAL;19011080
+2016;23102;7;;;TRANSFERENCIAS DE CAPITAL;23791430
+2016;23103;7;;;TRANSFERENCIAS DE CAPITAL;23500000
+2016;23104;7;;;TRANSFERENCIAS DE CAPITAL;200000
+2016;23105;7;;;TRANSFERENCIAS DE CAPITAL;88048250
+2016;23106;7;;;TRANSFERENCIAS DE CAPITAL;26500000
+2016;23107;7;;;TRANSFERENCIAS DE CAPITAL;15070000
+2016;23108;7;;;TRANSFERENCIAS DE CAPITAL;24000450
+2016;23109;7;;;TRANSFERENCIAS DE CAPITAL;11228850
+2016;23110;7;;;TRANSFERENCIAS DE CAPITAL;12900000
+2016;23111;7;;;TRANSFERENCIAS DE CAPITAL;43515000
+2016;23112;7;;;TRANSFERENCIAS DE CAPITAL;574800
+2016;23113;7;;;TRANSFERENCIAS DE CAPITAL;748810
+2016;23114;7;;;TRANSFERENCIAS DE CAPITAL;901768990
+2016;23401;7;;;TRANSFERENCIAS DE CAPITAL;37659000
+2016;25101;7;;;TRANSFERENCIAS DE CAPITAL;13640
+2016;25102;7;;;TRANSFERENCIAS DE CAPITAL;50980
+2016;25103;7;;;TRANSFERENCIAS DE CAPITAL;22707420
+2016;25301;7;;;TRANSFERENCIAS DE CAPITAL;16200250
+2016;26101;7;;;TRANSFERENCIAS DE CAPITAL;207220
+2016;26105;7;;;TRANSFERENCIAS DE CAPITAL;247550
+2016;26106;7;;;TRANSFERENCIAS DE CAPITAL;12000
+2016;26107;7;;;TRANSFERENCIAS DE CAPITAL;365000
+2016;26108;7;;;TRANSFERENCIAS DE CAPITAL;80270
+2016;26109;7;;;TRANSFERENCIAS DE CAPITAL;387810
+2016;27101;7;;;TRANSFERENCIAS DE CAPITAL;25353120
+2016;27103;7;;;TRANSFERENCIAS DE CAPITAL;25139270
+2016;27104;7;;;TRANSFERENCIAS DE CAPITAL;17697000
+2016;27105;7;;;TRANSFERENCIAS DE CAPITAL;24256500
+2016;27106;7;;;TRANSFERENCIAS DE CAPITAL;2660000
+2016;27107;7;;;TRANSFERENCIAS DE CAPITAL;144206030
+2016;27302;7;;;TRANSFERENCIAS DE CAPITAL;3899055960
+2016;27401;7;;;TRANSFERENCIAS DE CAPITAL;157370760
+2016;60004;7;;;TRANSFERENCIAS DE CAPITAL;924237440
+2016;98001;7;;;TRANSFERENCIAS DE CAPITAL;1389304720
+2016;12301;70;;;De la Administración del Estado;3013000
+2016;12401;70;;;De la Administración del Estado;11070250
+2016;13101;70;;;De la Administración del Estado;512300
+2016;14101;70;;;De la Administración del Estado;24846680
+2016;15101;70;;;De la Administración del Estado;834080
+2016;15102;70;;;De la Administración del Estado;641260
+2016;15107;70;;;De la Administración del Estado;1125140
+2016;15302;70;;;De la Administración del Estado;31963320
+2016;15304;70;;;De la Administración del Estado;590000
+2016;15401;70;;;De la Administración del Estado;152710
+2016;17101;70;;;De la Administración del Estado;990000
+2016;17102;70;;;De la Administración del Estado;2520000
+2016;17402;70;;;De la Administración del Estado;8080000
+2016;18101;70;;;De la Administración del Estado;368820
+2016;18102;70;;;De la Administración del Estado;615370
+2016;18103;70;;;De la Administración del Estado;585000
+2016;18104;70;;;De la Administración del Estado;5000000
+2016;18105;70;;;De la Administración del Estado;25530000
+2016;18106;70;;;De la Administración del Estado;7331920
+2016;18107;70;;;De la Administración del Estado;7209000
+2016;18108;70;;;De la Administración del Estado;30000
+2016;18301;70;;;De la Administración del Estado;6100000
+2016;18302;70;;;De la Administración del Estado;2627210
+2016;18401;70;;;De la Administración del Estado;424570
+2016;19101;70;;;De la Administración del Estado;15901770
+2016;19104;70;;;De la Administración del Estado;925000
+2016;19301;70;;;De la Administración del Estado;41940
+2016;20101;70;;;De la Administración del Estado;51230000
+2016;20103;70;;;De la Administración del Estado;2441360
+2016;20104;70;;;De la Administración del Estado;38846980
+2016;23101;70;;;De la Administración del Estado;18511080
+2016;23102;70;;;De la Administración del Estado;11000000
+2016;23103;70;;;De la Administración del Estado;11500000
+2016;23104;70;;;De la Administración del Estado;200000
+2016;23105;70;;;De la Administración del Estado;8142440
+2016;23106;70;;;De la Administración del Estado;22000000
+2016;23107;70;;;De la Administración del Estado;14770000
+2016;23108;70;;;De la Administración del Estado;12000000
+2016;23109;70;;;De la Administración del Estado;7000000
+2016;23112;70;;;De la Administración del Estado;574800
+2016;23113;70;;;De la Administración del Estado;748810
+2016;23114;70;;;De la Administración del Estado;30509660
+2016;23401;70;;;De la Administración del Estado;37659000
+2016;25101;70;;;De la Administración del Estado;13640
+2016;25102;70;;;De la Administración del Estado;50980
+2016;25103;70;;;De la Administración del Estado;22707420
+2016;25301;70;;;De la Administración del Estado;16200250
+2016;26101;70;;;De la Administración del Estado;207220
+2016;26105;70;;;De la Administración del Estado;247550
+2016;26106;70;;;De la Administración del Estado;12000
+2016;26107;70;;;De la Administración del Estado;365000
+2016;26108;70;;;De la Administración del Estado;80270
+2016;26109;70;;;De la Administración del Estado;387810
+2016;27101;70;;;De la Administración del Estado;25353120
+2016;27103;70;;;De la Administración del Estado;25139270
+2016;27104;70;;;De la Administración del Estado;14697000
+2016;27105;70;;;De la Administración del Estado;18144500
+2016;27106;70;;;De la Administración del Estado;1633000
+2016;27107;70;;;De la Administración del Estado;39896840
+2016;27302;70;;;De la Administración del Estado;3899055960
+2016;27401;70;;;De la Administración del Estado;96362120
+2016;60004;70;;;De la Administración del Estado;17386180
+2016;12301;700;;;Del departamento al que está adscrito;3013000
+2016;13101;700;;;Del departamento al que está adscrito;512300
+2016;14101;700;;;Del departamento al que está adscrito;24846680
+2016;15101;700;;;Del departamento al que está adscrito;834080
+2016;15102;700;;;Del departamento al que está adscrito;641260
+2016;15302;700;;;Del departamento al que está adscrito;31963320
+2016;15304;700;;;Del departamento al que está adscrito;590000
+2016;15401;700;;;Del departamento al que está adscrito;152710
+2016;17101;700;;;Del departamento al que está adscrito;990000
+2016;17102;700;;;Del departamento al que está adscrito;2520000
+2016;17402;700;;;Del departamento al que está adscrito;8080000
+2016;18101;700;;;Del departamento al que está adscrito;368820
+2016;18102;700;;;Del departamento al que está adscrito;615370
+2016;18103;700;;;Del departamento al que está adscrito;585000
+2016;18104;700;;;Del departamento al que está adscrito;5000000
+2016;18106;700;;;Del departamento al que está adscrito;7331920
+2016;18107;700;;;Del departamento al que está adscrito;7209000
+2016;18108;700;;;Del departamento al que está adscrito;30000
+2016;18301;700;;;Del departamento al que está adscrito;6100000
+2016;18302;700;;;Del departamento al que está adscrito;2627210
+2016;18401;700;;;Del departamento al que está adscrito;424570
+2016;19101;700;;;Del departamento al que está adscrito;15901770
+2016;19104;700;;;Del departamento al que está adscrito;925000
+2016;19301;700;;;Del departamento al que está adscrito;41940
+2016;20101;700;;;Del departamento al que está adscrito;51230000
+2016;20103;700;;;Del departamento al que está adscrito;2441360
+2016;20104;700;;;Del departamento al que está adscrito;38846980
+2016;23101;700;;;Del departamento al que está adscrito;18511080
+2016;23102;700;;;Del departamento al que está adscrito;11000000
+2016;23103;700;;;Del departamento al que está adscrito;11500000
+2016;23104;700;;;Del departamento al que está adscrito;200000
+2016;23105;700;;;Del departamento al que está adscrito;8142440
+2016;23106;700;;;Del departamento al que está adscrito;22000000
+2016;23107;700;;;Del departamento al que está adscrito;14770000
+2016;23108;700;;;Del departamento al que está adscrito;12000000
+2016;23109;700;;;Del departamento al que está adscrito;7000000
+2016;23112;700;;;Del departamento al que está adscrito;574800
+2016;23113;700;;;Del departamento al que está adscrito;748810
+2016;23114;700;;;Del departamento al que está adscrito;30509660
+2016;23401;700;;;Del departamento al que está adscrito;37659000
+2016;25101;700;;;Del departamento al que está adscrito;13640
+2016;25102;700;;;Del departamento al que está adscrito;50980
+2016;25103;700;;;Del departamento al que está adscrito;22707420
+2016;25301;700;;;Del departamento al que está adscrito;16200250
+2016;26101;700;;;Del departamento al que está adscrito;207220
+2016;26105;700;;;Del departamento al que está adscrito;247550
+2016;26106;700;;;Del departamento al que está adscrito;12000
+2016;26107;700;;;Del departamento al que está adscrito;365000
+2016;26108;700;;;Del departamento al que está adscrito;80270
+2016;26109;700;;;Del departamento al que está adscrito;387810
+2016;27101;700;;;Del departamento al que está adscrito;25353120
+2016;27103;700;;;Del departamento al que está adscrito;25139270
+2016;27104;700;;;Del departamento al que está adscrito;14697000
+2016;27105;700;;;Del departamento al que está adscrito;18144500
+2016;27106;700;;;Del departamento al que está adscrito;1633000
+2016;27107;700;;;Del departamento al que está adscrito;39896840
+2016;27302;700;;;Del departamento al que está adscrito;3913710
+2016;27401;700;;;Del departamento al que está adscrito;95462120
+2016;60004;700;;;Del departamento al que está adscrito;1100000
+2016;15302;700;;00;Para gastos de inversiones;31963320
+2016;18102;700;;00;Para gastos de capital;570000
+2016;18106;700;;00;Para gastos de capital;3919420
+2016;23102;700;;00;Transferencia de la Dirección General del Agua;11000000
+2016;23106;700;;00;Transferencias de la Dirección General del Agua;12000000
+2016;23107;700;;00;Dirección General del Agua;9770000
+2016;23108;700;;00;Del Departamento al que esta adscrito;12000000
+2016;23109;700;;00;Transferencias de la Dirección General del Agua;7000000
+2016;23112;700;;00;Para gastos de capital.;574800
+2016;23114;700;;00;Para gastos de capital;18148230
+2016;27103;700;;00;Para gastos de capital;23514870
+2016;27105;700;;00;Para gastos de capital;17160000
+2016;27107;700;;00;Para gastos de capital;39896840
+2016;27401;700;;00;Para gastos de capital;94259620
+2016;18102;700;;01;Para potenciar la proyección internacional del Sistema Universitario Español y su oferta, así como la movilidad interuniversitaria;45370
+2016;18106;700;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;3412500
+2016;23107;700;;01;Dirección General del Agua, para atender deudas de ejercicios anteriores;5000000
+2016;27103;700;;01;Para el Broader Approach para Fusión;1624400
+2016;27105;700;;01;Para inversiones de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;984500
+2016;23106;700;;02;Dirección General del Agua, Plan Especial Alto Guadiana;10000000
+2016;23114;700;;03;Para el programa nacional de desarrollo rural;12361430
+2016;27401;700;;04;Para inversiones de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;1042500
+2016;14101;700;;05;Para investigación científica e información de base;20030270
+2016;27401;700;;05;Para gastos de inversión del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);160000
+2016;14101;700;;06;Para el proyecto Galileo;4816410
+2016;15107;701;;;De otros departamentos ministeriales;1125140
+2016;27401;701;;;De otros departamentos ministeriales;900000
+2016;60004;701;;;De otros departamentos ministeriales;16286180
+2016;27401;701;;00;Del Ministerio de Fomento. Estudio base herramientas Código Técnico de la Edificación;900000
+2016;18105;702/18105;;;Del departamento al que está adscrito;25530000
+2016;27302;702/27302;;;Para la compensación del sistema eléctrico;3895142250
+2016;27302;702/27302;;00;Para financiar costes del sector eléctrico de acuerdo con el apartado b) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;450000000
+2016;27302;702/27302;;01;Para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;2704510250
+2016;27302;702/27302;;02;Para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico;740632000
+2016;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;11070250
+2016;27106;71;;;De organismos autónomos;50000
+2016;27107;71;;;De organismos autónomos;25190
+2016;27401;71;;;De organismos autónomos;425900
+2016;98001;71;;;De organismos autónomos;16684720
+2016;27106;710;;;Transferencias de capital de organismos autónomos;50000
+2016;27107;710;;;Transferencias de capital de organismos autónomos;25190
+2016;27401;710;;;Transferencias de capital de organismos autónomos;425900
+2016;27107;710;;00;Del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA) para proyectos de investigación;25190
+2016;27401;710;;00;Del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA) para proyectos de investigación;232400
+2016;27401;710;;01;Del Instituto Nacional de Investigación y Tecnología Agraria (INIA) para proyectos de investigación. Cofinanciación FEDER;164850
+2016;27401;710;;03;Del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) para realización de trabajos relativos a los efectos de la contaminación atmosférica sobre la vegetación.;28650
+2016;98001;711;;;"Del FEGA ""Ayudas de Desarrollo Rural""";16684720
+2016;60004;72;;;De la Seguridad Social;906851260
+2016;60004;720;;;Transferencias de capital de la Seguridad Social;906851260
+2016;98001;73;;;De Agencias Estatales y otros Organismos Públicos;50000
+2016;98001;736;;;De otros organismos públicos;50000
+2016;27106;74;;;De sociedades, entidades públicas empresariales, fundaciones y resto de entes del Sector Público;500000
+2016;27106;740;;;De sociedades mercantiles estatales;500000
+2016;23102;75;;;De Comunidades Autónomas;2440000
+2016;23108;75;;;De Comunidades Autónomas;238400
+2016;23109;75;;;De Comunidades Autónomas;1600000
+2016;27105;75;;;De Comunidades Autónomas;1000000
+2016;27106;75;;;De Comunidades Autónomas;150000
+2016;27401;75;;;De Comunidades Autónomas;10727690
+2016;23102;750/23102;;;De Comunidades Autónomas;2440000
+2016;23108;750/23108;;;De Comunidades Autónomas;238400
+2016;23109;750/23109;;;De Comunidades Autónomas;1600000
+2016;27105;750/27105;;;De Comunidades Autónomas;1000000
+2016;27106;750/27106;;;De comunidades autónomas;150000
+2016;27401;750/27401;;;Para ejecución de proyectos de investigación;10727690
+2016;27401;750/27401;;01;Para ejecución proyectos I+D+I;8864580
+2016;27401;750/27401;;02;Para ayudas contratación;1863110
+2016;16102;76;;;De Entidades Locales;2000000
+2016;23105;76;;;De Entidades Locales;21871740
+2016;23108;76;;;De Entidades Locales;276550
+2016;23109;76;;;De Entidades Locales;30000
+2016;23110;76;;;De Entidades Locales;2000000
+2016;27106;76;;;De Entidades Locales;200000
+2016;16102;760;;;De Ayuntamientos;2000000
+2016;23108;760;;;De Ayuntamientos;132020
+2016;23109;760;;;De Ayuntamientos;30000
+2016;23108;761;;;De Diputaciones y Cabildos Insulares;144530
+2016;23110;761;;;De Diputaciones y Cabildos Insulares;2000000
+2016;27106;761;;;De Diputaciones y Cabildos Insulares;200000
+2016;23105;769;;;Otras transferencias de capital;21871740
+2016;27107;77;;;De empresas privadas;75000000
+2016;27401;77;;;De empresas privadas;6016650
+2016;27107;772;;;De empresas;75000000
+2016;27401;779;;;De empresas privadas;6016650
+2016;27107;78;;;De familias e instituciones sin fines de lucro;6784000
+2016;27401;78;;;De familias e instituciones sin fines de lucro;4109680
+2016;27401;780;;;De familias e instituciones sin fines de lucro;4109680
+2016;27107;782;;;Ayudas a la investigación;6784000
+2016;12401;79;;;Del exterior;12879900
+2016;14107;79;;;Del exterior;300000
+2016;20103;79;;;Del exterior;250000
+2016;20104;79;;;Del exterior;4100000
+2016;23101;79;;;Del exterior;500000
+2016;23102;79;;;Del exterior;10351430
+2016;23103;79;;;Del exterior;12000000
+2016;23105;79;;;Del exterior;58034070
+2016;23106;79;;;Del exterior;4500000
+2016;23107;79;;;Del exterior;300000
+2016;23108;79;;;Del exterior;11485500
+2016;23109;79;;;Del exterior;2598850
+2016;23110;79;;;Del exterior;10900000
+2016;23111;79;;;Del exterior;43515000
+2016;23114;79;;;Del exterior;871259330
+2016;27104;79;;;Del exterior;3000000
+2016;27105;79;;;Del exterior;5112000
+2016;27106;79;;;Del exterior;127000
+2016;27107;79;;;Del exterior;22500000
+2016;27401;79;;;Del exterior;39728720
+2016;98001;79;;;Del exterior;1372570000
+2016;14107;790;;;Fondo Europeo de Desarrollo Regional;300000
+2016;20104;790;;;Fondo Europeo de Desarrollo Regional;4100000
+2016;23101;790;;;Fondo Europeo de Desarrollo Regional;500000
+2016;23102;790;;;Fondo Europeo de Desarrollo Regional;2891490
+2016;23103;790;;;Fondo Europeo de Desarrollo Regional;2500000
+2016;23105;790;;;Fondo Europeo de Desarrollo Regional;58034070
+2016;23106;790;;;Fondo Europeo de Desarrollo Regional;4500000
+2016;23107;790;;;Fondo Europeo de Desarrollo Regional;300000
+2016;23108;790;;;Fondo Europeo de Desarrollo Regional;10432500
+2016;23109;790;;;Fondo Europeo de Desarrollo Regional;2325850
+2016;23110;790;;;Fondo Europeo de Desarrollo Regional;2500000
+2016;23111;790;;;Fondo Europeo de Desarrollo Regional;23676000
+2016;27104;790;;;Fondo Europeo de Desarrollo Regional;2000000
+2016;27105;790;;;Fondo Europeo de Desarrollo Regional;112000
+2016;27107;790;;;Fondo Europeo de Desarrollo Regional;22500000
+2016;27401;790;;;Fondo Europeo de Desarrollo Regional;3600000
+2016;98001;790;;;Fondo Europeo de Desarrollo Regional;1349430000
+2016;23102;791;;;Fondo de Cohesión;7459940
+2016;23103;791;;;Fondo de Cohesión;9500000
+2016;23108;791;;;Fondo de Cohesión;831000
+2016;23110;791;;;Fondo de Cohesión;8400000
+2016;23111;791;;;Fondo de Cohesión;19839000
+2016;98001;791;;;Fondo de Cohesión;3200000
+2016;98001;792;;;Fondo Europeo Pesca y otros recursos agrícolas y pesqueros;19940000
+2016;23114;793;;;Fondo Europeo Agrícola de Desarrollo Rural (FEADER);871259330
+2016;27104;794;;;Fondo Social Europeo;500000
+2016;27401;794;;;Fondo Social Europeo;2000000
+2016;20103;795;;;Otras transferencias de la Unión Europea;250000
+2016;23108;795;;;Otras transferencias de la Unión Europea;222000
+2016;23109;795;;;Otras transferencias de la Unión Europea;273000
+2016;27104;795;;;Otras transferencias de la Unión Europea;500000
+2016;27105;795;;;Otras transferencias de la Unión Europea;5000000
+2016;27106;795;;;Otras transferencias de la Unión Europea;127000
+2016;27401;795;;;Otras transferencias de la Unión Europea;34128720
+2016;12401;799;;;Otras transferencias;12879900
+2016;12401;799;;10;Transferencias UE para Proyectos de Cooperación Delegada en Nicaragua;11077070
+2016;12401;799;;13;Transferencias UE para Proyectos de Cooperación Delegada en Honduras;1544560
+2016;12401;799;;15;Transferencias UE para Proyectos de Cooperación Delegada en Cuba;58270
+2016;12401;799;;17;Transferencias UE para Proyectos de Cooperación Delegada Región SICA;200000
+2016;12301;8;;;ACTIVOS FINANCIEROS;2065560
+2016;12401;8;;;ACTIVOS FINANCIEROS;12020
+2016;13101;8;;;ACTIVOS FINANCIEROS;3253660
+2016;13102;8;;;ACTIVOS FINANCIEROS;720
+2016;13301;8;;;ACTIVOS FINANCIEROS;4281070
+2016;14101;8;;;ACTIVOS FINANCIEROS;17788190
+2016;14107;8;;;ACTIVOS FINANCIEROS;6120000
+2016;14113;8;;;ACTIVOS FINANCIEROS;160000
+2016;15101;8;;;ACTIVOS FINANCIEROS;6588300
+2016;15102;8;;;ACTIVOS FINANCIEROS;4687530
+2016;15106;8;;;ACTIVOS FINANCIEROS;180300
+2016;15107;8;;;ACTIVOS FINANCIEROS;2101520
+2016;15301;8;;;ACTIVOS FINANCIEROS;684420
+2016;15302;8;;;ACTIVOS FINANCIEROS;8590000
+2016;15304;8;;;ACTIVOS FINANCIEROS;3000
+2016;15401;8;;;ACTIVOS FINANCIEROS;230660
+2016;16101;8;;;ACTIVOS FINANCIEROS;1021720
+2016;16102;8;;;ACTIVOS FINANCIEROS;10000
+2016;17101;8;;;ACTIVOS FINANCIEROS;198110
+2016;17102;8;;;ACTIVOS FINANCIEROS;1477120
+2016;17401;8;;;ACTIVOS FINANCIEROS;20000
+2016;18101;8;;;ACTIVOS FINANCIEROS;3917920
+2016;18102;8;;;ACTIVOS FINANCIEROS;933450
+2016;18103;8;;;ACTIVOS FINANCIEROS;8354000
+2016;18104;8;;;ACTIVOS FINANCIEROS;2563000
+2016;18105;8;;;ACTIVOS FINANCIEROS;17643000
+2016;18106;8;;;ACTIVOS FINANCIEROS;9666170
+2016;18107;8;;;ACTIVOS FINANCIEROS;15431720
+2016;18301;8;;;ACTIVOS FINANCIEROS;7148720
+2016;18302;8;;;ACTIVOS FINANCIEROS;751490
+2016;18401;8;;;ACTIVOS FINANCIEROS;12490
+2016;19101;8;;;ACTIVOS FINANCIEROS;794000
+2016;19102;8;;;ACTIVOS FINANCIEROS;94100290
+2016;19104;8;;;ACTIVOS FINANCIEROS;1686710
+2016;19301;8;;;ACTIVOS FINANCIEROS;495890
+2016;20101;8;;;ACTIVOS FINANCIEROS;105982030
+2016;20102;8;;;ACTIVOS FINANCIEROS;8635560
+2016;20103;8;;;ACTIVOS FINANCIEROS;4200
+2016;20104;8;;;ACTIVOS FINANCIEROS;7015000
+2016;20302;8;;;ACTIVOS FINANCIEROS;65000
+2016;23101;8;;;ACTIVOS FINANCIEROS;10007000
+2016;23102;8;;;ACTIVOS FINANCIEROS;50000
+2016;23103;8;;;ACTIVOS FINANCIEROS;31156000
+2016;23104;8;;;ACTIVOS FINANCIEROS;18491680
+2016;23105;8;;;ACTIVOS FINANCIEROS;8867470
+2016;23106;8;;;ACTIVOS FINANCIEROS;-9961600
+2016;23107;8;;;ACTIVOS FINANCIEROS;9556210
+2016;23108;8;;;ACTIVOS FINANCIEROS;451930
+2016;23109;8;;;ACTIVOS FINANCIEROS;27007990
+2016;23110;8;;;ACTIVOS FINANCIEROS;11615180
+2016;23111;8;;;ACTIVOS FINANCIEROS;16706930
+2016;23112;8;;;ACTIVOS FINANCIEROS;1111020
+2016;23113;8;;;ACTIVOS FINANCIEROS;18160
+2016;23114;8;;;ACTIVOS FINANCIEROS;15590750
+2016;23401;8;;;ACTIVOS FINANCIEROS;18593270
+2016;25101;8;;;ACTIVOS FINANCIEROS;838690
+2016;25102;8;;;ACTIVOS FINANCIEROS;2313600
+2016;25103;8;;;ACTIVOS FINANCIEROS;18940000
+2016;25301;8;;;ACTIVOS FINANCIEROS;282000
+2016;25401;8;;;ACTIVOS FINANCIEROS;19334160
+2016;26101;8;;;ACTIVOS FINANCIEROS;1170310
+2016;26105;8;;;ACTIVOS FINANCIEROS;168890
+2016;26106;8;;;ACTIVOS FINANCIEROS;557440
+2016;26107;8;;;ACTIVOS FINANCIEROS;555700
+2016;26108;8;;;ACTIVOS FINANCIEROS;717950
+2016;26109;8;;;ACTIVOS FINANCIEROS;3343100
+2016;26401;8;;;ACTIVOS FINANCIEROS;65080000
+2016;27101;8;;;ACTIVOS FINANCIEROS;11624450
+2016;27102;8;;;ACTIVOS FINANCIEROS;20000
+2016;27103;8;;;ACTIVOS FINANCIEROS;17823230
+2016;27104;8;;;ACTIVOS FINANCIEROS;29537270
+2016;27105;8;;;ACTIVOS FINANCIEROS;12564710
+2016;27106;8;;;ACTIVOS FINANCIEROS;2227140
+2016;27107;8;;;ACTIVOS FINANCIEROS;226000
+2016;27302;8;;;ACTIVOS FINANCIEROS;3343750
+2016;27401;8;;;ACTIVOS FINANCIEROS;68107390
+2016;60004;8;;;ACTIVOS FINANCIEROS;7863453090
+2016;98001;8;;;ACTIVOS FINANCIEROS;2773731000
+2016;60004;80;;;Enajenación de deuda del Sector Público;530191670
+2016;60004;800;;;Enajenación de deuda del Sector Público a corto plazo;267617570
+2016;60004;801;;;Enajenación de deuda del Sector Público a largo plazo;262574100
+2016;60004;81;;;Enajenación de obligaciones y bonos de fuera del Sector Público;19400000
+2016;60004;810;;;Enajenación de obligaciones y bonos de fuera del Sector Público a corto plazo;16700000
+2016;60004;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo;2700000
+2016;23103;82;;;Reintegros de préstamos concedidos al Sector Público;30000
+2016;98001;82;;;Reintegros de préstamos concedidos al Sector Público;1226946000
+2016;23103;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo;30000
+2016;98001;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo;1226946000
+2016;98001;821;;04;A las  sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;1226946000
+2016;12301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;40000
+2016;12401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2016;13102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;720
+2016;13301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;22800
+2016;14101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;500000
+2016;14107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;106000
+2016;14113;83;;;Reintegros de préstamos concedidos fuera del Sector Público;110000
+2016;15101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71480
+2016;15102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2016;15106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;180300
+2016;15107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;101520
+2016;15302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;590000
+2016;15304;83;;;Reintegros de préstamos concedidos fuera del Sector Público;3000
+2016;16101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1021720
+2016;16102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10000
+2016;17101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;38320
+2016;17401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2016;18101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15130
+2016;18102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6000
+2016;18103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;54000
+2016;18104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;63000
+2016;18105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;27000
+2016;18106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;3166170
+2016;18107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;431720
+2016;18301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2016;18302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;51490
+2016;18401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12490
+2016;19101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;794000
+2016;19102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;147120
+2016;19104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;86710
+2016;19301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;26550
+2016;20102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60000
+2016;20103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;4200
+2016;20104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2016;20302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;65000
+2016;23101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;7000
+2016;23102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2016;23103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2016;23104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;45000
+2016;23105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;162040
+2016;23106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;38400
+2016;23107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;16660
+2016;23108;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2016;23109;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71050
+2016;23110;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2016;23111;83;;;Reintegros de préstamos concedidos fuera del Sector Público;80000
+2016;23112;83;;;Reintegros de préstamos concedidos fuera del Sector Público;17330
+2016;23113;83;;;Reintegros de préstamos concedidos fuera del Sector Público;18160
+2016;23114;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2016;23401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;104420
+2016;25101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10030
+2016;25102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2016;25103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;440000
+2016;25301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;282000
+2016;25401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;105000
+2016;26101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;29950
+2016;26105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;25000
+2016;26106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6510
+2016;26107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;23710
+2016;26108;83;;;Reintegros de préstamos concedidos fuera del Sector Público;5470
+2016;26109;83;;;Reintegros de préstamos concedidos fuera del Sector Público;55000
+2016;26401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;80000
+2016;27101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;247620
+2016;27102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2016;27103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;241080
+2016;27104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;87270
+2016;27105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;26000
+2016;27106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;70000
+2016;27107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;226000
+2016;27302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60400
+2016;27401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;150000
+2016;60004;83;;;Reintegros de préstamos concedidos fuera del Sector Público;19445220
+2016;98001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1546785000
+2016;12301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;40000
+2016;12401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3010
+2016;13301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;22800
+2016;14107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;106000
+2016;14113;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2016;15101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;71480
+2016;15102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;50000
+2016;15106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;80300
+2016;15302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;590000
+2016;15304;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3000
+2016;16101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;120200
+2016;17101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;38320
+2016;18101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15130
+2016;18102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;6000
+2016;18103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2016;18105;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27000
+2016;18106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;25000
+2016;18107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;431720
+2016;18301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2016;19102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;117070
+2016;19301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13280
+2016;20102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;60000
+2016;20302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;65000
+2016;23101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;7000
+2016;23102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;24000
+2016;23103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2016;23106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;5000
+2016;23107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;16660
+2016;23108;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2016;23109;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27330
+2016;23110;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2016;23112;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;17330
+2016;23113;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;18160
+2016;23114;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2016;25101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10030
+2016;25102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2016;25301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;282000
+2016;25401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2016;26401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;80000
+2016;27102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2016;27103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;121540
+2016;27104;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27270
+2016;27105;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;6000
+2016;27106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;35000
+2016;27107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;26000
+2016;27302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10400
+2016;27401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;150000
+2016;60004;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;16190350
+2016;23107;830;;00;Reintegros de anticipos al personal.;16660
+2016;12301;830;;08;A familias e instituciones sin fines de lucro;40000
+2016;13301;830;;08;A familias e instituciones sin fines de lucro;22800
+2016;14107;830;;08;A familias e instituciones sin fines de lucro;106000
+2016;15101;830;;08;A familias e instituciones sin fines de lucro;71480
+2016;15102;830;;08;A familias e instituciones sin fines de lucro;50000
+2016;15302;830;;08;A familias e instituciones sin fines de lucro;590000
+2016;15304;830;;08;A familias e instituciones sin fines de lucro;3000
+2016;17101;830;;08;A familias e instituciones sin fines de lucro;38320
+2016;18101;830;;08;A familias e instituciones sin fines de lucro;15130
+2016;18102;830;;08;A familias e instituciones sin fines de lucro;6000
+2016;18103;830;;08;A familias e instituciones sin fines de lucro;10000
+2016;18105;830;;08;A familias e instituciones sin fines de lucro;27000
+2016;18106;830;;08;A familias e instituciones sin fines de lucro;25000
+2016;18107;830;;08;A familias e instituciones sin fines de lucro;431720
+2016;18301;830;;08;A familias e instituciones sin fines de lucro;100000
+2016;19102;830;;08;A familias e instituciones sin fines de lucro;117070
+2016;19301;830;;08;A familias e instituciones sin fines de lucro;13280
+2016;20102;830;;08;A familias e instituciones sin fines de lucro;60000
+2016;20302;830;;08;A familias e instituciones sin fines de lucro;65000
+2016;23108;830;;08;A familias e instituciones sin fines de lucro;10000
+2016;23113;830;;08;A familias e instituciones sin fines de lucro;18160
+2016;25301;830;;08;A familias e instituciones sin fines de lucro;282000
+2016;26401;830;;08;A familias e instituciones sin fines de lucro;80000
+2016;27102;830;;08;A familias e instituciones sin fines de lucro;20000
+2016;27103;830;;08;A familias e instituciones sin fines de lucro;121540
+2016;27104;830;;08;A familias e instituciones sin fines de lucro;27270
+2016;27302;830;;08;A familias e instituciones sin fines de lucro;10400
+2016;27401;830;;08;A familias e instituciones sin fines de lucro;150000
+2016;12401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;9010
+2016;13102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;720
+2016;14101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;500000
+2016;14113;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2016;15106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;100000
+2016;15107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;101520
+2016;16101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;901520
+2016;16102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2016;17401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;20000
+2016;18103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;44000
+2016;18104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;63000
+2016;18106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;3141170
+2016;18302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;51490
+2016;18401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;12490
+2016;19101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;794000
+2016;19102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30050
+2016;19104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;86710
+2016;19301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;13270
+2016;20103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4200
+2016;20104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;15000
+2016;23102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;26000
+2016;23103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2016;23104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;45000
+2016;23105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;162040
+2016;23106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;33400
+2016;23108;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;5000
+2016;23109;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;43720
+2016;23110;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;70000
+2016;23111;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;80000
+2016;23401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;104420
+2016;25103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;440000
+2016;25401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;85000
+2016;26101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;29950
+2016;26105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25000
+2016;26106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6510
+2016;26107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;23710
+2016;26108;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;5470
+2016;26109;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;55000
+2016;27101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;247620
+2016;27103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;119540
+2016;27104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2016;27105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;20000
+2016;27106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;35000
+2016;27107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;200000
+2016;27302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;50000
+2016;60004;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;3254870
+2016;98001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;1546785000
+2016;98001;831;;07;A las empresas privadas;1471785000
+2016;13102;831;;08;A familias e Instituciones sin fines de lucro;720
+2016;14101;831;;08;A familias e Instituciones sin fines de lucro;500000
+2016;15107;831;;08;A familias e Instituciones sin fines de lucro;101520
+2016;16101;831;;08;A familias e Instituciones sin fines de lucro;901520
+2016;16102;831;;08;A familias e Instituciones sin fines de lucro;10000
+2016;17401;831;;08;A familias e Instituciones sin fines de lucro;20000
+2016;18103;831;;08;A familias e Instituciones sin fines de lucro;44000
+2016;18104;831;;08;A familias e Instituciones sin fines de lucro;63000
+2016;18302;831;;08;A familias e Instituciones sin fines de lucro;51490
+2016;18401;831;;08;A familias e Instituciones sin fines de lucro;12490
+2016;19101;831;;08;A familias e Instituciones sin fines de lucro;794000
+2016;19102;831;;08;A familias e Instituciones sin fines de lucro;30050
+2016;19104;831;;08;A familias e Instituciones sin fines de lucro;86710
+2016;19301;831;;08;A familias e Instituciones sin fines de lucro;13270
+2016;20103;831;;08;A familias e Instituciones sin fines de lucro;4200
+2016;20104;831;;08;A familias e Instituciones sin fines de lucro;15000
+2016;23102;831;;08;A familias e Instituciones sin fines de lucro;26000
+2016;23103;831;;08;A familias e Instituciones sin fines de lucro;60000
+2016;23104;831;;08;A familias e Instituciones sin fines de lucro;45000
+2016;23105;831;;08;A familias e Instituciones sin fines de lucro;162040
+2016;23106;831;;08;A familias e Instituciones sin fines de lucro;33400
+2016;23108;831;;08;A familias e Instituciones sin fines de lucro;5000
+2016;23109;831;;08;A familias e Instituciones sin fines de lucro;43720
+2016;23110;831;;08;A familias e Instituciones sin fines de lucro;70000
+2016;23111;831;;08;A familias e Instituciones sin fines de lucro;80000
+2016;25103;831;;08;A familias e Instituciones sin fines de lucro;440000
+2016;25401;831;;08;A familias e Instituciones sin fines de lucro;85000
+2016;26101;831;;08;A familias e Instituciones sin fines de lucro;29950
+2016;26105;831;;08;A familias e Instituciones sin fines de lucro;25000
+2016;26106;831;;08;A familias e Instituciones sin fines de lucro;6510
+2016;26107;831;;08;A familias e Instituciones sin fines de lucro;23710
+2016;26108;831;;08;A familias e Instituciones sin fines de lucro;5470
+2016;26109;831;;08;A familias e Instituciones sin fines de lucro;55000
+2016;27101;831;;08;A familias e Instituciones sin fines de lucro;247620
+2016;27103;831;;08;A familias e Instituciones sin fines de lucro;119540
+2016;27104;831;;08;A familias e Instituciones sin fines de lucro;60000
+2016;27105;831;;08;A familias e Instituciones sin fines de lucro;20000
+2016;27106;831;;08;A familias e Instituciones sin fines de lucro;35000
+2016;27302;831;;08;A familias e Instituciones sin fines de lucro;50000
+2016;98001;831;;08;A familias e Instituciones sin fines de lucro;75000000
+2016;14113;84;;;Devolución de depósitos y fianzas;50000
+2016;60004;84;;;Devolución de depósitos y fianzas;6208450
+2016;60004;840;;;Devolución de depósitos;1345000
+2016;14113;841;;;Devolución de fianzas;50000
+2016;60004;841;;;Devolución de fianzas;4863450
+2016;60004;85;;;Enajenación de acciones y participaciones y devolución de aportaciones del Sector Público;613150
+2016;60004;850;;;Enajenación de acciones y participaciones del Sector Público Nacional;613150
+2016;12301;87;;;Remanente de tesorería;2025560
+2016;13101;87;;;Remanente de tesorería;3253660
+2016;13301;87;;;Remanente de tesorería;4258270
+2016;14101;87;;;Remanente de tesorería;17288190
+2016;14107;87;;;Remanente de tesorería;6014000
+2016;15101;87;;;Remanente de tesorería;6516820
+2016;15102;87;;;Remanente de tesorería;4637530
+2016;15107;87;;;Remanente de tesorería;2000000
+2016;15301;87;;;Remanente de tesorería;684420
+2016;15302;87;;;Remanente de tesorería;8000000
+2016;15401;87;;;Remanente de tesorería;230660
+2016;17101;87;;;Remanente de tesorería;159790
+2016;17102;87;;;Remanente de tesorería;1477120
+2016;18101;87;;;Remanente de tesorería;3902790
+2016;18102;87;;;Remanente de tesorería;927450
+2016;18103;87;;;Remanente de tesorería;8300000
+2016;18104;87;;;Remanente de tesorería;2500000
+2016;18105;87;;;Remanente de tesorería;17616000
+2016;18106;87;;;Remanente de tesorería;6500000
+2016;18107;87;;;Remanente de tesorería;15000000
+2016;18301;87;;;Remanente de tesorería;7048720
+2016;18302;87;;;Remanente de tesorería;700000
+2016;19102;87;;;Remanente de tesorería;93953170
+2016;19104;87;;;Remanente de tesorería;1600000
+2016;19301;87;;;Remanente de tesorería;469340
+2016;20101;87;;;Remanente de tesorería;105982030
+2016;20102;87;;;Remanente de tesorería;8575560
+2016;20104;87;;;Remanente de tesorería;7000000
+2016;23101;87;;;Remanente de tesorería;10000000
+2016;23103;87;;;Remanente de tesorería;31036000
+2016;23104;87;;;Remanente de tesorería;18446680
+2016;23105;87;;;Remanente de tesorería;8705430
+2016;23106;87;;;Remanente de tesorería;-10000000
+2016;23107;87;;;Remanente de tesorería;9539550
+2016;23108;87;;;Remanente de tesorería;436930
+2016;23109;87;;;Remanente de tesorería;26936940
+2016;23110;87;;;Remanente de tesorería;11515180
+2016;23111;87;;;Remanente de tesorería;16626930
+2016;23112;87;;;Remanente de tesorería;1093690
+2016;23114;87;;;Remanente de tesorería;15490750
+2016;23401;87;;;Remanente de tesorería;18488850
+2016;25101;87;;;Remanente de tesorería;828660
+2016;25102;87;;;Remanente de tesorería;2301580
+2016;25103;87;;;Remanente de tesorería;18500000
+2016;25401;87;;;Remanente de tesorería;19229160
+2016;26101;87;;;Remanente de tesorería;1140360
+2016;26105;87;;;Remanente de tesorería;143890
+2016;26106;87;;;Remanente de tesorería;550930
+2016;26107;87;;;Remanente de tesorería;531990
+2016;26108;87;;;Remanente de tesorería;712480
+2016;26109;87;;;Remanente de tesorería;3288100
+2016;26401;87;;;Remanente de tesorería;65000000
+2016;27101;87;;;Remanente de tesorería;11376830
+2016;27103;87;;;Remanente de tesorería;17582150
+2016;27104;87;;;Remanente de tesorería;29450000
+2016;27105;87;;;Remanente de tesorería;12538710
+2016;27106;87;;;Remanente de tesorería;2157140
+2016;27302;87;;;Remanente de tesorería;3283350
+2016;27401;87;;;Remanente de tesorería;67957390
+2016;60004;87;;;Remanente de tesorería;1004259890
+2016;12301;870;;;Remanente de tesorería;2025560
+2016;13101;870;;;Remanente de tesorería;3253660
+2016;13301;870;;;Remanente de tesorería;4258270
+2016;14101;870;;;Remanente de tesorería;17288190
+2016;14107;870;;;Remanente de tesorería;6014000
+2016;15101;870;;;Remanente de tesorería;6516820
+2016;15102;870;;;Remanente de tesorería;4637530
+2016;15107;870;;;Remanente de tesorería;2000000
+2016;15301;870;;;Remanente de tesorería;684420
+2016;15302;870;;;Remanente de tesorería;8000000
+2016;15401;870;;;Remanente de tesorería;230660
+2016;17101;870;;;Remanente de tesorería;159790
+2016;17102;870;;;Remanente de tesorería;1477120
+2016;18101;870;;;Remanente de tesorería;3902790
+2016;18102;870;;;Remanente de tesorería;927450
+2016;18103;870;;;Remanente de tesorería;8300000
+2016;18104;870;;;Remanente de tesorería;2500000
+2016;18105;870;;;Remanente de tesorería;17616000
+2016;18106;870;;;Remanente de tesorería;6500000
+2016;18107;870;;;Remanente de tesorería;15000000
+2016;18301;870;;;Remanente de tesorería;7048720
+2016;18302;870;;;Remanente de tesorería;700000
+2016;19102;870;;;Remanente de tesorería;93953170
+2016;19104;870;;;Remanente de tesorería;1600000
+2016;19301;870;;;Remanente de tesorería;469340
+2016;20101;870;;;Remanente de tesorería;105982030
+2016;20102;870;;;Remanente de tesorería;8575560
+2016;20104;870;;;Remanente de tesorería;7000000
+2016;23101;870;;;Remanente de tesorería;10000000
+2016;23103;870;;;Remanente de tesorería;31036000
+2016;23104;870;;;Remanente de tesorería;18446680
+2016;23105;870;;;Remanente de tesorería;8705430
+2016;23106;870;;;Remanente de tesorería;-10000000
+2016;23107;870;;;Remanente de tesorería;9539550
+2016;23108;870;;;Remanente de tesorería;436930
+2016;23109;870;;;Remanente de tesorería;26936940
+2016;23110;870;;;Remanente de tesorería;11515180
+2016;23111;870;;;Remanente de tesorería;16626930
+2016;23112;870;;;Remanente de tesorería;1093690
+2016;23114;870;;;Remanente de tesorería;15490750
+2016;23401;870;;;Remanente de tesorería;18488850
+2016;25101;870;;;Remanente de tesorería;828660
+2016;25102;870;;;Remanente de tesorería;2301580
+2016;25103;870;;;Remanente de tesorería;18500000
+2016;25401;870;;;Remanente de tesorería;19229160
+2016;26101;870;;;Remanente de tesorería;1140360
+2016;26105;870;;;Remanente de tesorería;143890
+2016;26106;870;;;Remanente de tesorería;550930
+2016;26107;870;;;Remanente de tesorería;531990
+2016;26108;870;;;Remanente de tesorería;712480
+2016;26109;870;;;Remanente de tesorería;3288100
+2016;26401;870;;;Remanente de tesorería;65000000
+2016;27101;870;;;Remanente de tesorería;11376830
+2016;27103;870;;;Remanente de tesorería;17582150
+2016;27104;870;;;Remanente de tesorería;29450000
+2016;27105;870;;;Remanente de tesorería;12538710
+2016;27106;870;;;Remanente de tesorería;2157140
+2016;27302;870;;;Remanente de tesorería;3283350
+2016;27401;870;;;Remanente de tesorería;67957390
+2016;60004;870;;;Remanente de tesorería;1004259890
+2016;60004;89;;;Utilización de activos financieros afectos al Fondo de Reserva de la Seguridad Social y a otros Fondos del Sistema;6283334710
+2016;60004;890;;;Al Fondo de Reserva de la Seguridad Social;6283334710
+2016;14113;9;;;PASIVOS FINANCIEROS;70000
+2016;23102;9;;;PASIVOS FINANCIEROS;11500000
+2016;23105;9;;;PASIVOS FINANCIEROS;118792000
+2016;23107;9;;;PASIVOS FINANCIEROS;10000000
+2016;23108;9;;;PASIVOS FINANCIEROS;3103090
+2016;23110;9;;;PASIVOS FINANCIEROS;8000000
+2016;25103;9;;;PASIVOS FINANCIEROS;100000
+2016;60004;9;;;PASIVOS FINANCIEROS;1000000
+2016;23102;91;;;Préstamos recibidos en euros;11500000
+2016;23105;91;;;Préstamos recibidos en euros;118792000
+2016;23107;91;;;Préstamos recibidos en euros;10000000
+2016;23108;91;;;Préstamos recibidos en euros;3103090
+2016;23110;91;;;Préstamos recibidos en euros;8000000
+2016;60004;91;;;Préstamos recibidos en euros;1000000
+2016;23105;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;118792000
+2016;23107;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;10000000
+2016;23110;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;8000000
+2016;23102;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;11500000
+2016;23108;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;3103090
+2016;60004;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;1000000
+2016;14113;94;;;Depósitos y fianzas recibidos;70000
+2016;25103;94;;;Depósitos y fianzas recibidos;100000
+2016;14113;940;;;Depósitos;20000
+2016;14113;941;;;Fianzas;50000
+2016;25103;941;;;Fianzas;100000
