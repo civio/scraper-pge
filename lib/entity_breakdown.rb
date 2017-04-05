@@ -107,13 +107,22 @@ class EntityBreakdown < BaseBreakdown
     data_grid = []
     get_data_rows.each do |row|
       columns = row.css('td').map{|td| td.text.strip}
-      columns.shift if ['2012', '2013', '2014', '2015', '2016'].include? year
+      columns.shift if ['2012', '2013', '2014', '2015', '2016', '2017'].include? year
       columns.insert(0,'') unless is_state_entity? # They lack the first column, 'service'
+
+      # There's a typo in 2017P that threatens to screw up our unfolding of conflicting ids
+      # later on, so we make sure the description is correct. If more typos were found in the
+      # future, we'd need to have a more general typo-fixing mechanism, but for now will do.
+      description = columns[3]
+      if description == 'Inversión nueva en infraestruras y bienes destinados al uso general'
+        description = 'Inversión nueva en infraestructuras y bienes destinados al uso general'
+      end
+
       item = {
         :service => columns[0], 
         :programme => columns[1], 
         :expense_concept => columns[2], 
-        :description => columns[3],
+        :description => description,
         :amount => (columns[4] != '') ? columns[4] : columns[5] 
       }
       next if item[:description].empty?  # Skip empty lines (no description)
@@ -143,7 +152,15 @@ class EntityBreakdown < BaseBreakdown
   end
   
   def self.get_expense_breakdown_filename_regex(year, is_state_entity)
-    if ['2012', '2013', '2014', '2015', '2016'].include? year
+    if year == '2017'
+      # 2017P grouped the agencies and other bodies kind of a 'level down' in the hierarchy,
+      # so the filenames are affected. Since the regex catches all those from 2012-2016
+      # we could replace the old one, but didn't have to test the change when parsing
+      # the new data, so this was safer.
+      is_state_entity ?
+        /N_(\d\d)_[AE]_V_1_10([1234])_1_1_2_2_[1234](\d\d)_1_2.HTM/ :
+        /N_(\d\d)_[AE]_V_1_(?:2_)?10([1234])_2_1_[1234](\d\d)_1_1(\d\d\d)_2_2_1.HTM/;
+    elsif ['2012', '2013', '2014', '2015', '2016'].include? year
       is_state_entity ? 
         /N_(\d\d)_[AE]_V_1_10([1234])_1_1_2_2_[1234](\d\d)_1_2.HTM/ :
         /N_(\d\d)_[AE]_V_1_10([1234])_2_1_[1234](\d\d)_1_1(\d\d\d)_2_2_1.HTM/;
