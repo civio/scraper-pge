@@ -1,0 +1,2646 @@
+EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
+2017;13102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;96731010
+2017;14113;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;727110020
+2017;15106;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;1626940190
+2017;19101;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;21440106040
+2017;19102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;508311000
+2017;60004;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;110560320000
+2017;98001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;67763061530
+2017;98001;10;;;Sobre la renta;64876000000
+2017;98001;100;;;De las personas físicas;38264000000
+2017;98001;100;;00;Impuesto sobre la Renta de las Personas Físicas;38528000000
+2017;98001;100;;99;Asignacion tributaria a la Iglesia Catolica;-264000000
+2017;98001;101;;;De sociedades;24399000000
+2017;98001;101;;00;Impuesto sobre Sociedades;24399000000
+2017;98001;102;;;De no residentes;2213000000
+2017;98001;102;;00;Impuesto sobre la Renta de no Residentes;2213000000
+2017;98001;11;;;Sobre el capital;206000000
+2017;98001;119;;;Otros impuestos sobre el capital;206000000
+2017;98001;119;;00;Impuesto General sobre Sucesiones y Donaciones;165000000
+2017;98001;119;;01;Impuesto sobre el Patrimonio;41000000
+2017;13102;12;;;Cotizaciones sociales;96731010
+2017;14113;12;;;Cotizaciones sociales;727110020
+2017;15106;12;;;Cotizaciones sociales;1626940190
+2017;19101;12;;;Cotizaciones sociales;21440106040
+2017;19102;12;;;Cotizaciones sociales;508311000
+2017;60004;12;;;Cotizaciones sociales;110560320000
+2017;98001;12;;;Cotizaciones sociales;909061530
+2017;13102;120;;;Cotizaciones de los regímenes especiales de funcionarios;96731010
+2017;14113;120;;;Cotizaciones de los regímenes especiales de funcionarios;727110020
+2017;15106;120;;;Cotizaciones de los regímenes especiales de funcionarios;1626940190
+2017;98001;120;;;Cotizaciones de los regímenes especiales de funcionarios;909061530
+2017;98001;120;;00;Cuotas de Derechos Pasivos;909061530
+2017;13102;120;;01;Cuotas de funcionarios a Mutualidades;24311610
+2017;14113;120;;01;Cuotas de funcionarios a Mutualidades;102658290
+2017;15106;120;;01;Cuotas de funcionarios a Mutualidades;322759040
+2017;13102;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;72383400
+2017;14113;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;624451730
+2017;15106;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;1304181150
+2017;13102;120;;03;Cuotas sociales Mutualidad Benéfica de Funcionarios de la Justicia Municipal;10000
+2017;13102;120;;04;Cuotas sociales de Previsión de Funcionarios de la Administración de Justicia;14000
+2017;13102;120;;05;Cuotas sociales Mutualidad Benéfica de Funcionarios del Cuerpo Auxiliar de la Administración de Justicia;12000
+2017;60004;121;;;Cotizaciones del Regimen General;84474717750
+2017;60004;122;;;Cotizaciones del R.E.T. Autonomos;11558370000
+2017;60004;124;;;Cotizaciones R.E. Trabajadores del Mar;351160000
+2017;60004;125;;;Cotizaciones R.E. Mineria del Carbon;119540000
+2017;60004;127;;;Cotizaciones de acctes. trabajo y e. p.;7331170000
+2017;60004;128;;;Cotizaciones de desempleados, cese de actividad de trabajadores autónomos y bonificaciones para el fomento del empleo;6592702250
+2017;19101;129;;;Otras cotizaciones;21440106040
+2017;19102;129;;;Otras cotizaciones;508311000
+2017;60004;129;;;Otras cotizaciones;132660000
+2017;19101;129;;00;Cuota de desempleo;19414508510
+2017;19101;129;;01;Cuota de formación profesional;2011422410
+2017;19102;129;;02;Cuotas empresariales al Fondo de Garantía Salarial;508311000
+2017;19101;129;;03;Cuota de protección por cese de actividad;14175120
+2017;98001;13;;;Sobre la producción y almacenamiento de energía eléctrica y combustible;1772000000
+2017;98001;130;;;Sobre el valor de la producción de la energía eléctrica;1497000000
+2017;98001;131;;;Sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica en impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radioactivos en instalaciones centralizadas;275000000
+2017;98001;2;;;IMPUESTOS INDIRECTOS;44532000000
+2017;98001;21;;;Sobre el Valor Añadido;33052000000
+2017;98001;210;;;Impuesto sobre el Valor Añadido;33052000000
+2017;98001;210;;00;IVA sobre importaciones;14952500000
+2017;98001;210;;01;IVA sobre operaciones interiores;18099500000
+2017;98001;22;;;Sobre consumos específicos;7811000000
+2017;98001;220;;;Impuestos especiales;7811000000
+2017;98001;220;;00;Sobre el alcohol y bebidas derivadas;373000000
+2017;98001;220;;01;Sobre cerveza;127000000
+2017;98001;220;;03;Sobre labores de tabaco;2726500000
+2017;98001;220;;04;Sobre hidrocarburos;4234500000
+2017;98001;220;;06;Sobre productos intermedios;10000000
+2017;98001;220;;07;Sobre la electricidad;73000000
+2017;98001;220;;08;Sobre carbón;267000000
+2017;98001;23;;;Sobre tráfico exterior;1986500000
+2017;98001;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías;1984500000
+2017;98001;231;;;Exacciones reguladoras y otros gravámenes agrícolas;2000000
+2017;98001;28;;;Otros impuestos indirectos;1682500000
+2017;98001;280;;;Cotización, producción y almacenamiento de azúcar e isoglucosa;7000000
+2017;98001;281;;;Impuesto sobre las Primas de Seguros;1493500000
+2017;98001;282;;;Sobre transmisiones patrimoniales intervivos;7000000
+2017;98001;283;;;Impuesto sobre actividades del juego;75000000
+2017;98001;283;;00;De apuestas mutuas deportivas;75000000
+2017;98001;285;;;Impuesto sobre los Gases Fluorados de Efecto Invernadero;100000000
+2017;12301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;52445550
+2017;12401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15160450
+2017;13101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;13000
+2017;13102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;81300
+2017;13301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9000000
+2017;14101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;42003000
+2017;14107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7020000
+2017;14113;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2634000
+2017;15101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;123470
+2017;15102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;373000
+2017;15104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;29761000
+2017;15106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1065700
+2017;15107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1283000
+2017;15301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3800000
+2017;15302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;45739800
+2017;15401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;78920
+2017;16101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;904062710
+2017;17101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;13073390
+2017;17102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3100000
+2017;17401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;66050000
+2017;17402;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1760960
+2017;18101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5012820
+2017;18102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;471000
+2017;18103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;519000
+2017;18104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;482000
+2017;18105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15000
+2017;18106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;530950
+2017;18107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10640000
+2017;18108;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;200000
+2017;18301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;18071420
+2017;18302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5851000
+2017;18401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;325000
+2017;19101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;438896110
+2017;19102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;115137610
+2017;19104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;381000
+2017;19301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;28000
+2017;20102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;45506300
+2017;20104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4600000
+2017;20302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;46042130
+2017;23101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;300000
+2017;23102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9049410
+2017;23103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;28485000
+2017;23104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;72035290
+2017;23105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;88705330
+2017;23106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;33512000
+2017;23107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;20100000
+2017;23108;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7276270
+2017;23109;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8346810
+2017;23110;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;48871200
+2017;23111;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;133674500
+2017;23113;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15140
+2017;23114;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3439350
+2017;23401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;33406570
+2017;25101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;336990
+2017;25102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;609710
+2017;25103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;17780000
+2017;25301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;138400
+2017;25401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;43073000
+2017;26101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;897450
+2017;26106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;30000
+2017;26107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;548200
+2017;26108;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;44460
+2017;26109;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;300000
+2017;26401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;42628780
+2017;27101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3625700
+2017;27102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8369550
+2017;27103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1541540
+2017;27104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3352000
+2017;27105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2215000
+2017;27106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1839000
+2017;27107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3289210
+2017;27109;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2396290
+2017;27401;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;31540000
+2017;27402;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1200000
+2017;60004;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1210743250
+2017;98001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8167598570
+2017;14107;30;;;Tasas;6500000
+2017;15104;30;;;Tasas;24081000
+2017;15301;30;;;Tasas;3800000
+2017;15302;30;;;Tasas;225000
+2017;16101;30;;;Tasas;548137050
+2017;17401;30;;;Tasas;63943000
+2017;17402;30;;;Tasas;1685660
+2017;18103;30;;;Tasas;150000
+2017;18104;30;;;Tasas;25000
+2017;18107;30;;;Tasas;1750000
+2017;18301;30;;;Tasas;500000
+2017;18302;30;;;Tasas;700000
+2017;20102;30;;;Tasas;45325000
+2017;20302;30;;;Tasas;45049260
+2017;23102;30;;;Tasas;6566900
+2017;23103;30;;;Tasas;24160000
+2017;23104;30;;;Tasas;69095230
+2017;23105;30;;;Tasas;80553230
+2017;23106;30;;;Tasas;30186000
+2017;23107;30;;;Tasas;19216000
+2017;23108;30;;;Tasas;6201860
+2017;23109;30;;;Tasas;6013730
+2017;23110;30;;;Tasas;45500000
+2017;23111;30;;;Tasas;1005000
+2017;23401;30;;;Tasas;135000
+2017;25401;30;;;Tasas;39300000
+2017;26109;30;;;Tasas;300000
+2017;26401;30;;;Tasas;42628780
+2017;27102;30;;;Tasas;8219550
+2017;27109;30;;;Tasas;3300
+2017;98001;30;;;Tasas;898000000
+2017;98001;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros;7000000
+2017;98001;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre;43000000
+2017;23102;302;;;Tasa por dirección e inspección de obras;184880
+2017;23103;302;;;Tasa por dirección e inspección de obras;1400000
+2017;23104;302;;;Tasa por dirección e inspección de obras;3450000
+2017;23105;302;;;Tasa por dirección e inspección de obras;2070200
+2017;23106;302;;;Tasa por dirección e inspección de obras;1700000
+2017;23107;302;;;Tasa por dirección e inspección de obras;800000
+2017;23108;302;;;Tasa por dirección e inspección de obras;180000
+2017;23109;302;;;Tasa por dirección e inspección de obras;1193870
+2017;23110;302;;;Tasa por dirección e inspección de obras;1000000
+2017;23111;302;;;Tasa por dirección e inspección de obras;1000000
+2017;98001;302;;;Tasa por dirección e inspección de obras;33000000
+2017;23102;302;;00;Dirección e inspección de obras;184880
+2017;23103;302;;00;Dirección e inspección de obras;1400000
+2017;23104;302;;00;Dirección e inspección de obras;3450000
+2017;23106;302;;00;Dirección e inspección de obras;1700000
+2017;23107;302;;00;Dirección e inspección de obras;800000
+2017;23109;302;;00;Dirección e inspección de obras;1193870
+2017;23111;302;;00;Dirección e inspección de obras;1000000
+2017;98001;303;;;Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social;134000000
+2017;98001;304;;;Tasas de expedición de D.N.I. y Pasaportes;107000000
+2017;98001;304;;01;D.N.I.;62000000
+2017;98001;304;;02;Pasaportes;45000000
+2017;98001;305;;;Tasas consulares;107000000
+2017;23102;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;200000
+2017;23103;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;1600000
+2017;23104;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;1000000
+2017;23105;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;39420
+2017;23106;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;30000
+2017;23107;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;120000
+2017;23110;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;3150000
+2017;98001;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;220000000
+2017;14107;309;;;Otras tasas;6500000
+2017;15104;309;;;Otras tasas;24081000
+2017;15301;309;;;Otras tasas;3800000
+2017;15302;309;;;Otras tasas;225000
+2017;16101;309;;;Otras tasas;548137050
+2017;17401;309;;;Otras tasas;63943000
+2017;17402;309;;;Otras tasas;1685660
+2017;18103;309;;;Otras tasas;150000
+2017;18104;309;;;Otras tasas;25000
+2017;18107;309;;;Otras tasas;1750000
+2017;18301;309;;;Otras tasas;500000
+2017;18302;309;;;Otras tasas;700000
+2017;20102;309;;;Otras tasas;45325000
+2017;20302;309;;;Otras tasas;45049260
+2017;23102;309;;;Otras tasas;6182020
+2017;23103;309;;;Otras tasas;21160000
+2017;23104;309;;;Otras tasas;64645230
+2017;23105;309;;;Otras tasas;78443610
+2017;23106;309;;;Otras tasas;28456000
+2017;23107;309;;;Otras tasas;18296000
+2017;23108;309;;;Otras tasas;6021860
+2017;23109;309;;;Otras tasas;4819860
+2017;23110;309;;;Otras tasas;41350000
+2017;23111;309;;;Otras tasas;5000
+2017;23401;309;;;Otras tasas;135000
+2017;25401;309;;;Otras tasas;39300000
+2017;26109;309;;;Otras tasas;300000
+2017;26401;309;;;Otras tasas;42628780
+2017;27102;309;;;Otras tasas;8219550
+2017;27109;309;;;Otras tasas;3300
+2017;98001;309;;;Otras tasas;247000000
+2017;98001;309;;01;Tasa del juego;7000000
+2017;98001;309;;02;Tasa por reconocimientos, autorizaciones y concursos;53000000
+2017;98001;309;;05;Tasa General de Telecomunicaciones;23000000
+2017;98001;309;;07;Tasas por controles de sanidad exterior realizadas a carnes y productos de origen animal de países no comunitarios;10000000
+2017;20102;309;;10;Tasas por determinadas actividades del organismo (20.101);44000000
+2017;20302;309;;10;Servicios generales. Desclasificación de materiales;13170
+2017;23103;309;;10;Canon utilización dominio público hidráulico;150000
+2017;23107;309;;10;Canon de control de vertidos;8000000
+2017;23110;309;;10;Canon de utilización de bienes de D.P.H.;850000
+2017;98001;309;;11;Tasa por la gestión administrativa del juego (artículo 49 Ley 13/2011);13000000
+2017;15104;309;;12;Canon concesional de las Expendedurías de Tabaco y Timbre;11200000
+2017;20102;309;;12;Tasas derivadas del arreglo de Madrid aportadas por la Organización Mundial de la Propiedad Intelectual (OMPI);1300000
+2017;20302;309;;12;Inspección y control de instalaciones nucleares en funcionamiento;37446110
+2017;23102;309;;12;Tasa utilización bienes de dominio público;200000
+2017;23103;309;;12;Tasa utilización bienes de dominio público;50000
+2017;23107;309;;12;Informes;189000
+2017;23109;309;;12;Navegación en embalses;2250
+2017;98001;309;;12;Comisión Nacional Mercados y Competencia;47000000
+2017;15104;309;;13;Tasa para el otorgamiento de concesiones de expendedurías de tabaco y timbre;1000
+2017;20102;309;;13;Búsqueda de marcas a petición de la Oficina de Armonización del Mercado Interior (OAMI);5000
+2017;20302;309;;13;Inspección y control del desmantelamiento de instalaciones nucleares;734990
+2017;23109;309;;13;Confrontación de proyectos;3340
+2017;98001;309;;13;Reserva del dominio radioeléctrico;10000000
+2017;15104;309;;14;Tasa por concesión y renovación de autorizaciones de punto de venta con recargo de labores del tabaco;12700000
+2017;20302;309;;14;Inspección y control de instalaciones radiactivas en funcionamiento;3539640
+2017;23102;309;;14;Canon control de vertidos;5108780
+2017;23103;309;;14;Canon de control de vertidos;7000000
+2017;23104;309;;14;Canon de vertidos;11500000
+2017;23107;309;;14;Aprovechamientos agrícolas y forestales;460000
+2017;23109;309;;14;Canon de oupación o utilización y canon de vertidos en aplicación de los art. 104 y 105 Ley de aguas;2183600
+2017;23110;309;;14;Canon de vertidos;13000000
+2017;15104;309;;15;Tasa por traslados, transmisiones, modificaciones, reconocimientos, revisiones y autorizaciones de o en expendedurías.;180000
+2017;20102;309;;15;Tasas derivadas del arreglo de La Haya aportadas por la  Organización Mundial de la Propiedad Intelectual (OMPI);20000
+2017;20302;309;;15;Inspección y control del desmantelamiento de instalaciones radiactivas del ciclo del combustible;34770
+2017;23104;309;;15;Canon de ocupación;9000000
+2017;23106;309;;15;Canon de ocupacion;200000
+2017;20302;309;;16;Inspección y control de cursos homologados;55970
+2017;23107;309;;16;Canón por aprovechamientos hidroeléctricos;160000
+2017;20302;309;;17;Inspección y control de transportes de sustancias nucleares y radiactivos;54000
+2017;23103;309;;17;Tasa por explotación de obras;500000
+2017;23106;309;;17;Canon de control de vertido;2400000
+2017;23107;309;;17;Tarifa de utilización del agua;5164900
+2017;23109;309;;17;Tasa explotación de obras y servicios;67010
+2017;20302;309;;18;Inspección y control de fabricación y equipos exentos;1320
+2017;23103;309;;18;Tasa por confrontación y proyectos;10000
+2017;23104;309;;18;Confrontación de proyectos;50000
+2017;23106;309;;18;Tasa de informes y otras actuaciones;500000
+2017;23107;309;;18;Canón de regulación;3356100
+2017;23109;309;;18;Canon de aprovechamiento de materiales;44600
+2017;20302;309;;19;Inpección y control de empresas de ámbito de la protección radiológica;120720
+2017;23103;309;;19;Tasa por informes y estudios;450000
+2017;23104;309;;19;Informes y otras actuaciones;200000
+2017;23109;309;;19;Tasas por informes y visitas;33430
+2017;23110;309;;19;Tasa por informe y otras actuaciones;500000
+2017;16101;309;;20;Tasas de la Jefatura de Tráfico;548137050
+2017;20302;309;;20;Inspección y control de empresas externas;310
+2017;23102;309;;20;Canon de regulacion;542520
+2017;23103;309;;20;Canon de regulacion aguasi;6000000
+2017;23104;309;;20;Canon de regulación;13576160
+2017;23106;309;;20;Canon de regulación;13800000
+2017;23109;309;;20;Canon de regulación;1903160
+2017;23110;309;;20;Canon de regulacion;27000000
+2017;23103;309;;21;Tarifa de utilización de agua;2000000
+2017;23104;309;;21;Tarifa utilización del Agua;24519070
+2017;23106;309;;21;Tarifa de utilización del agua;10056000
+2017;20302;309;;22;Evaluación e informes de seguimiento de residuos;692890
+2017;23103;309;;22;Canon de produccion industrial;5000000
+2017;23104;309;;22;Canon de produccion industrial;5800000
+2017;23106;309;;22;Canón de aprovechamiento hidroeléctrico;1500000
+2017;23109;309;;22;Canon de produccion industrial;582470
+2017;23102;309;;23;Salto pie de presa;325000
+2017;20302;309;;24;Servicios Generales de instalaciones radiactivas;914490
+2017;20302;309;;25;Servicios Generales desmantelamiento de instalaciones radiactivas;45000
+2017;20302;309;;26;Servicios Generales de licencias;1105700
+2017;20302;309;;27;Servicios Generales de homologación de programas académicos;35120
+2017;20302;309;;28;Servicios Generales de transportes;30730
+2017;23102;309;;28;Confrontación de obras y proyectos;4300
+2017;20302;309;;29;Servicios Generales de fabricación o exención de equipos;162430
+2017;23102;309;;29;Infracciones y otras actuaciones;1420
+2017;20302;309;;31;Servicios Generales de empresas del ámbito de la protección radiológica;61900
+2017;15301;309;;32;Tasa de supervisión, análisis, asesoramiento y seguimiento de la política fiscal;3800000
+2017;23105;309;;60;Canon de regulación industrial;41134410
+2017;23105;309;;61;Canon de regulación: usos industriales;2406560
+2017;23105;309;;62;Aprovechamientos Hidroeléctricos Centrales Propias;245570
+2017;23105;309;;63;Canon de regulación: aprovechamientos hidroeléctricos a pie de presa;7258760
+2017;23105;309;;64;Canon de regulación: aprovechamientos hidroeléctricos aguas fluyentes;376110
+2017;23105;309;;66;Abastecimiento zona Jaen;1912850
+2017;23105;309;;67;Otros abastecimientos;14431570
+2017;23105;309;;70;Tasa de explotación de obras y servicios;2502880
+2017;23105;309;;71;Canon de ocupación o utilizacion;115080
+2017;23105;309;;72;Tasa redacción de proyectos y confrontación;21700
+2017;23105;309;;73;Tasas de informes y estudios;492700
+2017;23105;309;;74;Canon de control de vertidos;7545420
+2017;27102;309;;91;Tasas Roac;70000
+2017;14107;309;;99;Otras;6500000
+2017;17402;309;;99;Otras;1685660
+2017;18103;309;;99;Otras;150000
+2017;18104;309;;99;Otras;25000
+2017;18107;309;;99;Otras;1750000
+2017;18301;309;;99;Otras;500000
+2017;18302;309;;99;Otras;700000
+2017;23107;309;;99;Otras;966000
+2017;23111;309;;99;Otras;5000
+2017;25401;309;;99;Otras;39300000
+2017;26109;309;;99;Otras;300000
+2017;26401;309;;99;Otras;42628780
+2017;27102;309;;99;Otras;8149550
+2017;27109;309;;99;Otras;3300
+2017;98001;309;;99;Otras;84000000
+2017;14101;31;;;Precios Públicos;31080000
+2017;15101;31;;;Precios Públicos;60000
+2017;15102;31;;;Precios Públicos;230000
+2017;15401;31;;;Precios Públicos;64210
+2017;17101;31;;;Precios Públicos;300000
+2017;17401;31;;;Precios Públicos;7000
+2017;18101;31;;;Precios Públicos;5012820
+2017;18102;31;;;Precios Públicos;356000
+2017;18103;31;;;Precios Públicos;353000
+2017;18104;31;;;Precios Públicos;394000
+2017;18106;31;;;Precios Públicos;67100
+2017;18107;31;;;Precios Públicos;7360000
+2017;18301;31;;;Precios Públicos;17407000
+2017;18302;31;;;Precios Públicos;4000000
+2017;20104;31;;;Precios Públicos;400000
+2017;20302;31;;;Precios Públicos;760850
+2017;23101;31;;;Precios Públicos;16000
+2017;23111;31;;;Precios Públicos;130504500
+2017;23114;31;;;Precios Públicos;25000
+2017;23401;31;;;Precios Públicos;1377000
+2017;25101;31;;;Precios Públicos;20000
+2017;25102;31;;;Precios Públicos;37500
+2017;25103;31;;;Precios Públicos;17500000
+2017;26101;31;;;Precios Públicos;497840
+2017;26106;31;;;Precios Públicos;10000
+2017;27104;31;;;Precios Públicos;265000
+2017;27107;31;;;Precios Públicos;1300000
+2017;27109;31;;;Precios Públicos;2372290
+2017;27401;31;;;Precios Públicos;2285000
+2017;27402;31;;;Precios Públicos;900000
+2017;60004;31;;;Precios Públicos;5580
+2017;98001;31;;;Precios Públicos;4000000
+2017;15101;310;;;Derechos de matrícula en cursos y seminarios;20000
+2017;15102;310;;;Derechos de matrícula en cursos y seminarios;200000
+2017;15401;310;;;Derechos de matrícula en cursos y seminarios;4210
+2017;18101;310;;;Derechos de matrícula en cursos y seminarios;3145720
+2017;18106;310;;;Derechos de matrícula en cursos y seminarios;27100
+2017;18107;310;;;Derechos de matrícula en cursos y seminarios;40000
+2017;18301;310;;;Derechos de matrícula en cursos y seminarios;230000
+2017;23101;310;;;Derechos de matrícula en cursos y seminarios;8000
+2017;25101;310;;;Derechos de matrícula en cursos y seminarios;20000
+2017;25102;310;;;Derechos de matrícula en cursos y seminarios;37500
+2017;27104;310;;;Derechos de matrícula en cursos y seminarios;15000
+2017;27401;310;;;Derechos de matrícula en cursos y seminarios;235000
+2017;98001;310;;;Derechos de matrícula en cursos y seminarios;1000000
+2017;18103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;234000
+2017;18107;311;;;Entradas a museos, exposiciones, espectáculos, etc.;7200000
+2017;18301;311;;;Entradas a museos, exposiciones, espectáculos, etc.;17172000
+2017;18302;311;;;Entradas a museos, exposiciones, espectáculos, etc.;4000000
+2017;23114;311;;;Entradas a museos, exposiciones, espectáculos, etc.;25000
+2017;25103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;17500000
+2017;27401;311;;;Entradas a museos, exposiciones, espectáculos, etc.;2050000
+2017;98001;311;;;Entradas a museos, exposiciones, espectáculos, etc.;2000000
+2017;15102;317;;;Cursos impartidos para otros Entes Públicos.;30000
+2017;14101;319;;;Otros precios públicos;31080000
+2017;15101;319;;;Otros precios públicos;40000
+2017;15401;319;;;Otros precios públicos;60000
+2017;17101;319;;;Otros precios públicos;300000
+2017;17401;319;;;Otros precios públicos;7000
+2017;18101;319;;;Otros precios públicos;1867100
+2017;18102;319;;;Otros precios públicos;356000
+2017;18103;319;;;Otros precios públicos;119000
+2017;18104;319;;;Otros precios públicos;394000
+2017;18106;319;;;Otros precios públicos;40000
+2017;18107;319;;;Otros precios públicos;120000
+2017;18301;319;;;Otros precios públicos;5000
+2017;20104;319;;;Otros precios públicos;400000
+2017;20302;319;;;Otros precios públicos;760850
+2017;23101;319;;;Otros precios públicos;8000
+2017;23111;319;;;Otros precios públicos;130504500
+2017;23401;319;;;Otros precios públicos;1377000
+2017;26101;319;;;Otros precios públicos;497840
+2017;26106;319;;;Otros precios públicos;10000
+2017;27104;319;;;Otros precios públicos;250000
+2017;27107;319;;;Otros precios públicos;1300000
+2017;27109;319;;;Otros precios públicos;2372290
+2017;27402;319;;;Otros precios públicos;900000
+2017;60004;319;;;Otros precios públicos;5580
+2017;98001;319;;;Otros precios públicos;1000000
+2017;12301;32;;;Otros ingresos procedentes de prestación de servicios;52145550
+2017;14101;32;;;Otros ingresos procedentes de prestación de servicios;10920000
+2017;14113;32;;;Otros ingresos procedentes de prestación de servicios;1700000
+2017;15107;32;;;Otros ingresos procedentes de prestación de servicios;1255000
+2017;15302;32;;;Otros ingresos procedentes de prestación de servicios;40808000
+2017;15401;32;;;Otros ingresos procedentes de prestación de servicios;14710
+2017;17101;32;;;Otros ingresos procedentes de prestación de servicios;12359390
+2017;17102;32;;;Otros ingresos procedentes de prestación de servicios;2600000
+2017;17401;32;;;Otros ingresos procedentes de prestación de servicios;100000
+2017;18102;32;;;Otros ingresos procedentes de prestación de servicios;115000
+2017;18107;32;;;Otros ingresos procedentes de prestación de servicios;1400000
+2017;18108;32;;;Otros ingresos procedentes de prestación de servicios;200000
+2017;18301;32;;;Otros ingresos procedentes de prestación de servicios;1000
+2017;18401;32;;;Otros ingresos procedentes de prestación de servicios;325000
+2017;19101;32;;;Otros ingresos procedentes de prestación de servicios;300000
+2017;20104;32;;;Otros ingresos procedentes de prestación de servicios;2415000
+2017;20302;32;;;Otros ingresos procedentes de prestación de servicios;133020
+2017;23111;32;;;Otros ingresos procedentes de prestación de servicios;1400000
+2017;23114;32;;;Otros ingresos procedentes de prestación de servicios;2544350
+2017;23401;32;;;Otros ingresos procedentes de prestación de servicios;31893570
+2017;25102;32;;;Otros ingresos procedentes de prestación de servicios;515870
+2017;25401;32;;;Otros ingresos procedentes de prestación de servicios;225000
+2017;27103;32;;;Otros ingresos procedentes de prestación de servicios;1541540
+2017;27104;32;;;Otros ingresos procedentes de prestación de servicios;3000000
+2017;27105;32;;;Otros ingresos procedentes de prestación de servicios;2000000
+2017;27106;32;;;Otros ingresos procedentes de prestación de servicios;1700000
+2017;27107;32;;;Otros ingresos procedentes de prestación de servicios;1930000
+2017;27109;32;;;Otros ingresos procedentes de prestación de servicios;16700
+2017;27401;32;;;Otros ingresos procedentes de prestación de servicios;27650000
+2017;27402;32;;;Otros ingresos procedentes de prestación de servicios;300000
+2017;60004;32;;;Otros ingresos procedentes de prestación de servicios;76612980
+2017;98001;32;;;Otros ingresos procedentes de prestación de servicios;425388120
+2017;98001;320;;;Comisiones por avales y seguros de operaciones financieras;303020
+2017;15302;321;;;Renta de aduanas. Derechos menores;106000
+2017;15302;322;;;De la Administración financiera;40579000
+2017;25102;322;;;De la Administración financiera;515870
+2017;98001;322;;;De la Administración financiera;416000000
+2017;15302;322;;01;Administración y cobranza;30025000
+2017;98001;322;;02;Compensación por gastos de percepción de recursos propios tradicionales de la Unión Europea;410000000
+2017;15302;322;;03;Derivados de costas de procedimientos de apremio;4550000
+2017;15302;322;;04;Derivados de la repercusión del coste de fabricación de efectos timbrados;4742000
+2017;15302;322;;06;Cobranza IVA comercio electrónico;1262000
+2017;25102;322;;99;Otros;515870
+2017;98001;322;;99;Otros;6000000
+2017;60004;327;;;De asistencia sanitaria;65425890
+2017;98001;327;;;De asistencia sanitaria;9085100
+2017;98001;327;;00;Asistencia sanitaria gestionada I. N. de Gestión Sanitaria;6010
+2017;98001;327;;02;Otros conciertos de asistencia sanitaria;9079090
+2017;60004;328;;;De servicios sociales;5807150
+2017;12301;329;;;Otros ingresos procedentes de prestación de servicios;52145550
+2017;14101;329;;;Otros ingresos procedentes de prestación de servicios;10920000
+2017;14113;329;;;Otros ingresos procedentes de prestación de servicios;1700000
+2017;15107;329;;;Otros ingresos procedentes de prestación de servicios;1255000
+2017;15302;329;;;Otros ingresos procedentes de prestación de servicios;123000
+2017;15401;329;;;Otros ingresos procedentes de prestación de servicios;14710
+2017;17101;329;;;Otros ingresos procedentes de prestación de servicios;12359390
+2017;17102;329;;;Otros ingresos procedentes de prestación de servicios;2600000
+2017;17401;329;;;Otros ingresos procedentes de prestación de servicios;100000
+2017;18102;329;;;Otros ingresos procedentes de prestación de servicios;115000
+2017;18107;329;;;Otros ingresos procedentes de prestación de servicios;1400000
+2017;18108;329;;;Otros ingresos procedentes de prestación de servicios;200000
+2017;18301;329;;;Otros ingresos procedentes de prestación de servicios;1000
+2017;18401;329;;;Otros ingresos procedentes de prestación de servicios;325000
+2017;19101;329;;;Otros ingresos procedentes de prestación de servicios;300000
+2017;20104;329;;;Otros ingresos procedentes de prestación de servicios;2415000
+2017;20302;329;;;Otros ingresos procedentes de prestación de servicios;133020
+2017;23111;329;;;Otros ingresos procedentes de prestación de servicios;1400000
+2017;23114;329;;;Otros ingresos procedentes de prestación de servicios;2544350
+2017;23401;329;;;Otros ingresos procedentes de prestación de servicios;31893570
+2017;25401;329;;;Otros ingresos procedentes de prestación de servicios;225000
+2017;27103;329;;;Otros ingresos procedentes de prestación de servicios;1541540
+2017;27104;329;;;Otros ingresos procedentes de prestación de servicios;3000000
+2017;27105;329;;;Otros ingresos procedentes de prestación de servicios;2000000
+2017;27106;329;;;Otros ingresos procedentes de prestación de servicios;1700000
+2017;27107;329;;;Otros ingresos procedentes de prestación de servicios;1930000
+2017;27109;329;;;Otros ingresos procedentes de prestación de servicios;16700
+2017;27401;329;;;Otros ingresos procedentes de prestación de servicios;27650000
+2017;27402;329;;;Otros ingresos procedentes de prestación de servicios;300000
+2017;60004;329;;;Otros ingresos procedentes de prestación de servicios;5379940
+2017;15302;329;;00;Servicios ajenos;110000
+2017;23114;329;;00;Transferencias de Comunidades Autónomas por la Cofinanciación de la Teledetección;1985410
+2017;15302;329;;01;Prestación de otros servicios;13000
+2017;18102;329;;01;Cuotas por asistencia a ferias;114000
+2017;23114;329;;01;Transferencias de Comunidades Autónomas para la Cofinanciación de la PAC 2014-2020;558940
+2017;27401;329;;01;De investigación contratada;24000000
+2017;18102;329;;02;Ingresos relacionados con la actividad de los programas de movilidad internacional;1000
+2017;27401;329;;02;De otras prestaciones de servicios;3650000
+2017;12301;33;;;Venta de bienes;300000
+2017;12401;33;;;Venta de bienes;130450
+2017;14101;33;;;Venta de bienes;3000
+2017;15101;33;;;Venta de bienes;63470
+2017;15102;33;;;Venta de bienes;32000
+2017;15107;33;;;Venta de bienes;1000
+2017;15302;33;;;Venta de bienes;160800
+2017;16101;33;;;Venta de bienes;9020
+2017;17101;33;;;Venta de bienes;54000
+2017;17102;33;;;Venta de bienes;500000
+2017;18103;33;;;Venta de bienes;8000
+2017;18104;33;;;Venta de bienes;41500
+2017;18301;33;;;Venta de bienes;1000
+2017;18302;33;;;Venta de bienes;151000
+2017;19101;33;;;Venta de bienes;10000
+2017;19104;33;;;Venta de bienes;11000
+2017;19301;33;;;Venta de bienes;8000
+2017;20102;33;;;Venta de bienes;181300
+2017;23101;33;;;Venta de bienes;25000
+2017;23103;33;;;Venta de bienes;3500000
+2017;23104;33;;;Venta de bienes;800000
+2017;23105;33;;;Venta de bienes;4580
+2017;23106;33;;;Venta de bienes;800000
+2017;23110;33;;;Venta de bienes;1200
+2017;23401;33;;;Venta de bienes;1000
+2017;25101;33;;;Venta de bienes;293230
+2017;25102;33;;;Venta de bienes;56340
+2017;25103;33;;;Venta de bienes;160000
+2017;25301;33;;;Venta de bienes;138400
+2017;25401;33;;;Venta de bienes;3400000
+2017;26101;33;;;Venta de bienes;12240
+2017;26107;33;;;Venta de bienes;200
+2017;27101;33;;;Venta de bienes;157630
+2017;27102;33;;;Venta de bienes;150000
+2017;27104;33;;;Venta de bienes;2000
+2017;27105;33;;;Venta de bienes;5000
+2017;27106;33;;;Venta de bienes;52000
+2017;27109;33;;;Venta de bienes;3000
+2017;27401;33;;;Venta de bienes;780000
+2017;98001;33;;;Venta de bienes;28000000
+2017;12401;330;;;Venta de publicaciones propias;117220
+2017;14101;330;;;Venta de publicaciones propias;3000
+2017;15101;330;;;Venta de publicaciones propias;63470
+2017;15102;330;;;Venta de publicaciones propias;30000
+2017;15302;330;;;Venta de publicaciones propias;123200
+2017;16101;330;;;Venta de publicaciones propias;9020
+2017;17101;330;;;Venta de publicaciones propias;50000
+2017;17102;330;;;Venta de publicaciones propias;20000
+2017;18103;330;;;Venta de publicaciones propias;8000
+2017;18104;330;;;Venta de publicaciones propias;40000
+2017;18302;330;;;Venta de publicaciones propias;151000
+2017;19104;330;;;Venta de publicaciones propias;10000
+2017;19301;330;;;Venta de publicaciones propias;8000
+2017;20102;330;;;Venta de publicaciones propias;300
+2017;23101;330;;;Venta de publicaciones propias;15200
+2017;23401;330;;;Venta de publicaciones propias;1000
+2017;25101;330;;;Venta de publicaciones propias;290000
+2017;25102;330;;;Venta de publicaciones propias;56340
+2017;25103;330;;;Venta de publicaciones propias;50000
+2017;26101;330;;;Venta de publicaciones propias;12240
+2017;26107;330;;;Venta de publicaciones propias;200
+2017;27101;330;;;Venta de publicaciones propias;157630
+2017;27102;330;;;Venta de publicaciones propias;150000
+2017;27104;330;;;Venta de publicaciones propias;2000
+2017;27105;330;;;Venta de publicaciones propias;2000
+2017;27106;330;;;Venta de publicaciones propias;35000
+2017;27109;330;;;Venta de publicaciones propias;2000
+2017;27401;330;;;Venta de publicaciones propias;400000
+2017;98001;330;;;Venta de publicaciones propias;2000000
+2017;17102;331;;;Venta en comisión de publicaciones;470000
+2017;18104;331;;;Venta en comisión de publicaciones;1500
+2017;12401;332;;;Venta de fotocopias y otros productos de reprografía;13230
+2017;15102;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2017;17101;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2017;18301;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2017;19104;332;;;Venta de fotocopias y otros productos de reprografía;500
+2017;20102;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2017;25101;332;;;Venta de fotocopias y otros productos de reprografía;3230
+2017;25103;332;;;Venta de fotocopias y otros productos de reprografía;55000
+2017;27105;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2017;27106;332;;;Venta de fotocopias y otros productos de reprografía;15000
+2017;27401;332;;;Venta de fotocopias y otros productos de reprografía;40000
+2017;98001;333;;;Venta de medicamentos;1000000
+2017;23104;334;;;Venta de productos agropecuarios;800000
+2017;23105;334;;;Venta de productos agropecuarios;4580
+2017;27401;334;;;Venta de productos agropecuarios;270000
+2017;15107;335;;;Venta de material de desecho;1000
+2017;17101;335;;;Venta de material de desecho;3000
+2017;23101;335;;;Venta de material de desecho;9800
+2017;25103;335;;;Venta de material de desecho;5000
+2017;27106;335;;;Venta de material de desecho;2000
+2017;27109;335;;;Venta de material de desecho;1000
+2017;98001;338;;;Venta de monedas de colección;1000000
+2017;12301;339;;;Venta de otros bienes;300000
+2017;15302;339;;;Venta de otros bienes;37600
+2017;17102;339;;;Venta de otros bienes;10000
+2017;19101;339;;;Venta de otros bienes;10000
+2017;19104;339;;;Venta de otros bienes;500
+2017;20102;339;;;Venta de otros bienes;180000
+2017;23103;339;;;Venta de otros bienes;3500000
+2017;23106;339;;;Venta de otros bienes;800000
+2017;23110;339;;;Venta de otros bienes;1200
+2017;25103;339;;;Venta de otros bienes;50000
+2017;25301;339;;;Venta de otros bienes;138400
+2017;25401;339;;;Venta de otros bienes;3400000
+2017;27105;339;;;Venta de otros bienes;2000
+2017;27401;339;;;Venta de otros bienes;70000
+2017;98001;339;;;Venta de otros bienes;24000000
+2017;23106;339;;01;Venta de otros bienes;800000
+2017;27105;339;;99;Venta de productos acuícolas;2000
+2017;60004;37;;;Cotizaciones de asociados;340000
+2017;60004;370;;;Cotizaciones de asociados;340000
+2017;12401;38;;;Reintegros de operaciones corrientes;15000000
+2017;13101;38;;;Reintegros de operaciones corrientes;10000
+2017;13102;38;;;Reintegros de operaciones corrientes;81300
+2017;14107;38;;;Reintegros de operaciones corrientes;100000
+2017;14113;38;;;Reintegros de operaciones corrientes;800000
+2017;15102;38;;;Reintegros de operaciones corrientes;100000
+2017;15106;38;;;Reintegros de operaciones corrientes;992280
+2017;15107;38;;;Reintegros de operaciones corrientes;4000
+2017;15302;38;;;Reintegros de operaciones corrientes;110000
+2017;16101;38;;;Reintegros de operaciones corrientes;6010
+2017;17101;38;;;Reintegros de operaciones corrientes;10000
+2017;18105;38;;;Reintegros de operaciones corrientes;15000
+2017;18106;38;;;Reintegros de operaciones corrientes;333850
+2017;18301;38;;;Reintegros de operaciones corrientes;6000
+2017;19101;38;;;Reintegros de operaciones corrientes;430586110
+2017;19102;38;;;Reintegros de operaciones corrientes;122610
+2017;19104;38;;;Reintegros de operaciones corrientes;150000
+2017;19301;38;;;Reintegros de operaciones corrientes;15000
+2017;20104;38;;;Reintegros de operaciones corrientes;1500000
+2017;23101;38;;;Reintegros de operaciones corrientes;10000
+2017;23103;38;;;Reintegros de operaciones corrientes;15000
+2017;23105;38;;;Reintegros de operaciones corrientes;481700
+2017;23106;38;;;Reintegros de operaciones corrientes;26000
+2017;23109;38;;;Reintegros de operaciones corrientes;9270
+2017;23111;38;;;Reintegros de operaciones corrientes;3000
+2017;23113;38;;;Reintegros de operaciones corrientes;9130
+2017;23114;38;;;Reintegros de operaciones corrientes;100000
+2017;25101;38;;;Reintegros de operaciones corrientes;18760
+2017;25401;38;;;Reintegros de operaciones corrientes;141000
+2017;26101;38;;;Reintegros de operaciones corrientes;362050
+2017;26106;38;;;Reintegros de operaciones corrientes;20000
+2017;26107;38;;;Reintegros de operaciones corrientes;500000
+2017;27104;38;;;Reintegros de operaciones corrientes;30000
+2017;27105;38;;;Reintegros de operaciones corrientes;20000
+2017;27106;38;;;Reintegros de operaciones corrientes;2000
+2017;27109;38;;;Reintegros de operaciones corrientes;1000
+2017;27401;38;;;Reintegros de operaciones corrientes;475000
+2017;60004;38;;;Reintegros de operaciones corrientes;157950140
+2017;98001;38;;;Reintegros de operaciones corrientes;1211207450
+2017;12401;380;;;De ejercicios cerrados;15000000
+2017;13101;380;;;De ejercicios cerrados;10000
+2017;13102;380;;;De ejercicios cerrados;81300
+2017;14107;380;;;De ejercicios cerrados;100000
+2017;14113;380;;;De ejercicios cerrados;800000
+2017;15102;380;;;De ejercicios cerrados;100000
+2017;15106;380;;;De ejercicios cerrados;992280
+2017;15107;380;;;De ejercicios cerrados;4000
+2017;15302;380;;;De ejercicios cerrados;110000
+2017;16101;380;;;De ejercicios cerrados;6010
+2017;17101;380;;;De ejercicios cerrados;10000
+2017;18105;380;;;De ejercicios cerrados;15000
+2017;18106;380;;;De ejercicios cerrados;333850
+2017;18301;380;;;De ejercicios cerrados;6000
+2017;19101;380;;;De ejercicios cerrados;430586110
+2017;19102;380;;;De ejercicios cerrados;122610
+2017;19104;380;;;De ejercicios cerrados;150000
+2017;19301;380;;;De ejercicios cerrados;15000
+2017;20104;380;;;De ejercicios cerrados;1500000
+2017;23101;380;;;De ejercicios cerrados;10000
+2017;23103;380;;;De ejercicios cerrados;15000
+2017;23105;380;;;De ejercicios cerrados;481700
+2017;23106;380;;;De ejercicios cerrados;26000
+2017;23109;380;;;De ejercicios cerrados;9270
+2017;23111;380;;;De ejercicios cerrados;3000
+2017;23113;380;;;De ejercicios cerrados;9130
+2017;23114;380;;;De ejercicios cerrados;100000
+2017;25101;380;;;De ejercicios cerrados;18760
+2017;25401;380;;;De ejercicios cerrados;141000
+2017;26101;380;;;De ejercicios cerrados;362050
+2017;26106;380;;;De ejercicios cerrados;20000
+2017;26107;380;;;De ejercicios cerrados;500000
+2017;27104;380;;;De ejercicios cerrados;30000
+2017;27105;380;;;De ejercicios cerrados;20000
+2017;27106;380;;;De ejercicios cerrados;2000
+2017;27109;380;;;De ejercicios cerrados;1000
+2017;27401;380;;;De ejercicios cerrados;475000
+2017;60004;380;;;De ejercicios cerrados;120716800
+2017;98001;380;;;De ejercicios cerrados;961207450
+2017;23105;380;;00;Reintegro de presupuestos;76030
+2017;23105;380;;01;Reintegros de Corporaciones Locales;405670
+2017;60004;381;;;Del presupuesto corriente;37233340
+2017;98001;381;;;Del presupuesto corriente;250000000
+2017;12401;39;;;Otros ingresos;30000
+2017;13101;39;;;Otros ingresos;3000
+2017;13301;39;;;Otros ingresos;9000000
+2017;14107;39;;;Otros ingresos;420000
+2017;14113;39;;;Otros ingresos;134000
+2017;15102;39;;;Otros ingresos;11000
+2017;15104;39;;;Otros ingresos;5680000
+2017;15106;39;;;Otros ingresos;73420
+2017;15107;39;;;Otros ingresos;23000
+2017;15302;39;;;Otros ingresos;4436000
+2017;16101;39;;;Otros ingresos;355910630
+2017;17101;39;;;Otros ingresos;350000
+2017;17401;39;;;Otros ingresos;2000000
+2017;17402;39;;;Otros ingresos;75300
+2017;18103;39;;;Otros ingresos;8000
+2017;18104;39;;;Otros ingresos;21500
+2017;18106;39;;;Otros ingresos;130000
+2017;18107;39;;;Otros ingresos;130000
+2017;18301;39;;;Otros ingresos;156420
+2017;18302;39;;;Otros ingresos;1000000
+2017;19101;39;;;Otros ingresos;8000000
+2017;19102;39;;;Otros ingresos;115015000
+2017;19104;39;;;Otros ingresos;220000
+2017;19301;39;;;Otros ingresos;5000
+2017;20104;39;;;Otros ingresos;285000
+2017;20302;39;;;Otros ingresos;99000
+2017;23101;39;;;Otros ingresos;249000
+2017;23102;39;;;Otros ingresos;2482510
+2017;23103;39;;;Otros ingresos;810000
+2017;23104;39;;;Otros ingresos;2140060
+2017;23105;39;;;Otros ingresos;7665820
+2017;23106;39;;;Otros ingresos;2500000
+2017;23107;39;;;Otros ingresos;884000
+2017;23108;39;;;Otros ingresos;1074410
+2017;23109;39;;;Otros ingresos;2323810
+2017;23110;39;;;Otros ingresos;3370000
+2017;23111;39;;;Otros ingresos;762000
+2017;23113;39;;;Otros ingresos;6010
+2017;23114;39;;;Otros ingresos;770000
+2017;25101;39;;;Otros ingresos;5000
+2017;25103;39;;;Otros ingresos;120000
+2017;25401;39;;;Otros ingresos;7000
+2017;26101;39;;;Otros ingresos;25320
+2017;26107;39;;;Otros ingresos;48000
+2017;26108;39;;;Otros ingresos;44460
+2017;27101;39;;;Otros ingresos;3468070
+2017;27104;39;;;Otros ingresos;55000
+2017;27105;39;;;Otros ingresos;190000
+2017;27106;39;;;Otros ingresos;85000
+2017;27107;39;;;Otros ingresos;59210
+2017;27401;39;;;Otros ingresos;350000
+2017;60004;39;;;Otros ingresos;975834550
+2017;98001;39;;;Otros ingresos;5601003000
+2017;13101;391;;;Recargos y multas;3000
+2017;13301;391;;;Recargos y multas;9000000
+2017;14107;391;;;Recargos y multas;220000
+2017;14113;391;;;Recargos y multas;34000
+2017;15102;391;;;Recargos y multas;1000
+2017;15104;391;;;Recargos y multas;5680000
+2017;15106;391;;;Recargos y multas;31900
+2017;16101;391;;;Recargos y multas;355910630
+2017;17401;391;;;Recargos y multas;2000000
+2017;17402;391;;;Recargos y multas;45000
+2017;18106;391;;;Recargos y multas;100000
+2017;19101;391;;;Recargos y multas;7000000
+2017;20104;391;;;Recargos y multas;5000
+2017;20302;391;;;Recargos y multas;79000
+2017;23101;391;;;Recargos y multas;234000
+2017;23102;391;;;Recargos y multas;2477610
+2017;23103;391;;;Recargos y multas;810000
+2017;23104;391;;;Recargos y multas;750000
+2017;23105;391;;;Recargos y multas;7665820
+2017;23106;391;;;Recargos y multas;2000000
+2017;23107;391;;;Recargos y multas;350000
+2017;23108;391;;;Recargos y multas;1070410
+2017;23109;391;;;Recargos y multas;2296000
+2017;23110;391;;;Recargos y multas;3300000
+2017;23111;391;;;Recargos y multas;730000
+2017;23114;391;;;Recargos y multas;170000
+2017;26101;391;;;Recargos y multas;16320
+2017;26107;391;;;Recargos y multas;48000
+2017;27101;391;;;Recargos y multas;2400000
+2017;27104;391;;;Recargos y multas;35000
+2017;27106;391;;;Recargos y multas;15000
+2017;60004;391;;;Recargos y multas;866470720
+2017;98001;391;;;Recargos y multas;1756000000
+2017;15106;391;;00;Recargo del periodo ejecutivo;6900
+2017;20302;391;;00;Recargo del periodo ejecutivo;70000
+2017;98001;391;;00;Recargo del periodo ejecutivo;839000000
+2017;13101;391;;01;Intereses de demora;3000
+2017;14107;391;;01;Intereses de demora;20000
+2017;14113;391;;01;Intereses de demora;12000
+2017;15102;391;;01;Intereses de demora;1000
+2017;15104;391;;01;Intereses de demora;80000
+2017;15106;391;;01;Intereses de demora;25000
+2017;18106;391;;01;Intereses de demora;100000
+2017;19101;391;;01;Intereses de demora;7000000
+2017;20104;391;;01;Intereses de demora;5000
+2017;20302;391;;01;Intereses de demora;5000
+2017;23101;391;;01;Intereses de demora;4000
+2017;23102;391;;01;Intereses de demora;340000
+2017;23103;391;;01;Intereses de demora;60000
+2017;23104;391;;01;Intereses de demora;100000
+2017;23105;391;;01;Intereses de demora;1619130
+2017;23106;391;;01;Intereses de demora;400000
+2017;23107;391;;01;Intereses de demora;150000
+2017;23109;391;;01;Intereses de demora;412000
+2017;23110;391;;01;Intereses de demora;800000
+2017;23111;391;;01;Intereses de demora;700000
+2017;23114;391;;01;Intereses de demora;70000
+2017;26101;391;;01;Intereses de demora;16320
+2017;26107;391;;01;Intereses de demora;48000
+2017;27104;391;;01;Intereses de demora;35000
+2017;27106;391;;01;Intereses de demora;15000
+2017;98001;391;;01;Intereses de demora;522000000
+2017;13301;391;;02;Multas y sanciones;9000000
+2017;14113;391;;02;Multas y sanciones;10000
+2017;15104;391;;02;Multas y sanciones;5600000
+2017;16101;391;;02;Multas y sanciones;355910630
+2017;17401;391;;02;Multas y sanciones;2000000
+2017;17402;391;;02;Multas y sanciones;45000
+2017;20302;391;;02;Multas y sanciones;2000
+2017;23101;391;;02;Multas y sanciones;230000
+2017;23102;391;;02;Multas y sanciones;2137610
+2017;23103;391;;02;Multas y sanciones;600000
+2017;23104;391;;02;Multas y sanciones;650000
+2017;23105;391;;02;Multas y sanciones;1616170
+2017;23106;391;;02;Multas y sanciones;1600000
+2017;23107;391;;02;Multas y sanciones;200000
+2017;23109;391;;02;Multas y sanciones;1884000
+2017;23110;391;;02;Multas y sanciones;2500000
+2017;23111;391;;02;Multas y sanciones;30000
+2017;23114;391;;02;Multas y sanciones;100000
+2017;27101;391;;02;Multas y sanciones;2400000
+2017;98001;391;;02;Multas y sanciones;395000000
+2017;20302;391;;03;Recargo sobre autoliquidaciones;2000
+2017;23105;391;;03;Recargo sobre autoliquidaciones;4430520
+2017;14107;391;;99;Otros;200000
+2017;14113;391;;99;Otros;12000
+2017;23103;391;;99;Otros;150000
+2017;98001;393;;;Diferencias entre los valores de reembolso y emisión;3300000000
+2017;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);115000000
+2017;15302;395;;;Rappels por compras;3119000
+2017;15302;398/15302;;;Ingresos extraordinarios;37000
+2017;60004;398/60004;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene;81096000
+2017;98001;398/98001;;;Ingresos procedentes de herencias abintestato. Artículo 956 del Código Civil;2000
+2017;98001;398/98001;;00;Destinados a fines de interés social;1000
+2017;98001;398/98001;;01;Otros;1000
+2017;12401;399;;;Ingresos diversos;30000
+2017;14107;399;;;Ingresos diversos;200000
+2017;14113;399;;;Ingresos diversos;100000
+2017;15102;399;;;Ingresos diversos;10000
+2017;15106;399;;;Ingresos diversos;41520
+2017;15107;399;;;Ingresos diversos;23000
+2017;15302;399;;;Ingresos diversos;1280000
+2017;17101;399;;;Ingresos diversos;350000
+2017;17402;399;;;Ingresos diversos;30300
+2017;18103;399;;;Ingresos diversos;8000
+2017;18104;399;;;Ingresos diversos;21500
+2017;18106;399;;;Ingresos diversos;30000
+2017;18107;399;;;Ingresos diversos;130000
+2017;18301;399;;;Ingresos diversos;156420
+2017;18302;399;;;Ingresos diversos;1000000
+2017;19101;399;;;Ingresos diversos;1000000
+2017;19102;399;;;Ingresos diversos;15000
+2017;19104;399;;;Ingresos diversos;220000
+2017;19301;399;;;Ingresos diversos;5000
+2017;20104;399;;;Ingresos diversos;280000
+2017;20302;399;;;Ingresos diversos;20000
+2017;23101;399;;;Ingresos diversos;15000
+2017;23102;399;;;Ingresos diversos;4900
+2017;23104;399;;;Ingresos diversos;1390060
+2017;23106;399;;;Ingresos diversos;500000
+2017;23107;399;;;Ingresos diversos;534000
+2017;23108;399;;;Ingresos diversos;4000
+2017;23109;399;;;Ingresos diversos;27810
+2017;23110;399;;;Ingresos diversos;70000
+2017;23111;399;;;Ingresos diversos;32000
+2017;23113;399;;;Ingresos diversos;6010
+2017;23114;399;;;Ingresos diversos;600000
+2017;25101;399;;;Ingresos diversos;5000
+2017;25103;399;;;Ingresos diversos;120000
+2017;25401;399;;;Ingresos diversos;7000
+2017;26101;399;;;Ingresos diversos;9000
+2017;26108;399;;;Ingresos diversos;44460
+2017;27101;399;;;Ingresos diversos;1068070
+2017;27104;399;;;Ingresos diversos;20000
+2017;27105;399;;;Ingresos diversos;190000
+2017;27106;399;;;Ingresos diversos;70000
+2017;27107;399;;;Ingresos diversos;59210
+2017;27401;399;;;Ingresos diversos;350000
+2017;60004;399;;;Ingresos diversos;28267830
+2017;98001;399;;;Ingresos diversos;545001000
+2017;15302;399;;00;Compensaciones de servicios prestados por funcionarios públicos;800000
+2017;98001;399;;00;Compensaciones de servicios prestados por funcionarios públicos;10000000
+2017;15106;399;;01;Recursos eventuales;30020
+2017;20302;399;;01;Recursos eventuales;10000
+2017;23101;399;;01;Recursos eventuales;15000
+2017;23104;399;;01;Recursos eventuales;350000
+2017;23107;399;;01;Recursos eventuales;530000
+2017;23114;399;;01;Recursos eventuales;600000
+2017;98001;399;;01;Recursos eventuales;255000000
+2017;15302;399;;04;Sanciones indemnizatorias;340000
+2017;23113;399;;04;Ingresos por estudios, informes, análisis y trabajos análogos.;6010
+2017;98001;399;;04;Ingresos de efectivo y saldos de cuentas y libretas abandonadas. Artículo 18.2 de la Ley 33/2003;1000
+2017;27101;399;;05;Convenios estadísticos;982090
+2017;12401;399;;99;Otros ingresos diversos;30000
+2017;14107;399;;99;Otros ingresos diversos;200000
+2017;14113;399;;99;Otros ingresos diversos;100000
+2017;15102;399;;99;Otros ingresos diversos;10000
+2017;15106;399;;99;Otros ingresos diversos;11500
+2017;15107;399;;99;Otros ingresos diversos;23000
+2017;15302;399;;99;Otros ingresos diversos;140000
+2017;17402;399;;99;Otros ingresos diversos;30300
+2017;18104;399;;99;Otros ingresos diversos;21500
+2017;18106;399;;99;Otros ingresos diversos;30000
+2017;18107;399;;99;Otros ingresos diversos;130000
+2017;18302;399;;99;Otros ingresos diversos;1000000
+2017;19101;399;;99;Otros ingresos diversos;1000000
+2017;19102;399;;99;Otros ingresos diversos;15000
+2017;19104;399;;99;Otros ingresos diversos;220000
+2017;19301;399;;99;Otros ingresos diversos;5000
+2017;20104;399;;99;Otros ingresos diversos;280000
+2017;20302;399;;99;Otros ingresos diversos;10000
+2017;23102;399;;99;Otros ingresos diversos;4900
+2017;23104;399;;99;Otros ingresos diversos;1040060
+2017;23106;399;;99;Otros ingresos diversos;500000
+2017;23107;399;;99;Otros ingresos diversos;4000
+2017;23108;399;;99;Otros ingresos diversos;4000
+2017;23109;399;;99;Otros ingresos diversos;27810
+2017;23110;399;;99;Otros ingresos diversos;70000
+2017;23111;399;;99;Otros ingresos diversos;32000
+2017;25103;399;;99;Otros ingresos diversos;120000
+2017;25401;399;;99;Otros ingresos diversos;7000
+2017;26101;399;;99;Otros ingresos diversos;9000
+2017;26108;399;;99;Otros ingresos diversos;44460
+2017;27101;399;;99;Otros ingresos diversos;85980
+2017;27104;399;;99;Otros ingresos diversos;20000
+2017;27105;399;;99;Otros ingresos diversos;190000
+2017;27106;399;;99;Otros ingresos diversos;70000
+2017;27401;399;;99;Otros ingresos diversos;350000
+2017;98001;399;;99;Otros ingresos diversos;280000000
+2017;12301;4;;;TRANSFERENCIAS CORRIENTES;60696010
+2017;12401;4;;;TRANSFERENCIAS CORRIENTES;230144880
+2017;13101;4;;;TRANSFERENCIAS CORRIENTES;7069190
+2017;13102;4;;;TRANSFERENCIAS CORRIENTES;4931830
+2017;13301;4;;;TRANSFERENCIAS CORRIENTES;20000
+2017;14101;4;;;TRANSFERENCIAS CORRIENTES;48193750
+2017;14107;4;;;TRANSFERENCIAS CORRIENTES;20650000
+2017;14113;4;;;TRANSFERENCIAS CORRIENTES;24800000
+2017;15101;4;;;TRANSFERENCIAS CORRIENTES;10393820
+2017;15102;4;;;TRANSFERENCIAS CORRIENTES;71375110
+2017;15106;4;;;TRANSFERENCIAS CORRIENTES;73617170
+2017;15107;4;;;TRANSFERENCIAS CORRIENTES;32508240
+2017;15302;4;;;TRANSFERENCIAS CORRIENTES;966596440
+2017;15304;4;;;TRANSFERENCIAS CORRIENTES;2705520
+2017;15401;4;;;TRANSFERENCIAS CORRIENTES;3188150
+2017;16101;4;;;TRANSFERENCIAS CORRIENTES;216480
+2017;16102;4;;;TRANSFERENCIAS CORRIENTES;1891190
+2017;17101;4;;;TRANSFERENCIAS CORRIENTES;14968200
+2017;17102;4;;;TRANSFERENCIAS CORRIENTES;2793910
+2017;17402;4;;;TRANSFERENCIAS CORRIENTES;7224520
+2017;18101;4;;;TRANSFERENCIAS CORRIENTES;6484720
+2017;18102;4;;;TRANSFERENCIAS CORRIENTES;37109230
+2017;18103;4;;;TRANSFERENCIAS CORRIENTES;72440630
+2017;18104;4;;;TRANSFERENCIAS CORRIENTES;22008020
+2017;18105;4;;;TRANSFERENCIAS CORRIENTES;7728570
+2017;18106;4;;;TRANSFERENCIAS CORRIENTES;146076640
+2017;18107;4;;;TRANSFERENCIAS CORRIENTES;118739490
+2017;18108;4;;;TRANSFERENCIAS CORRIENTES;9922510
+2017;18301;4;;;TRANSFERENCIAS CORRIENTES;12889580
+2017;18302;4;;;TRANSFERENCIAS CORRIENTES;26498000
+2017;18401;4;;;TRANSFERENCIAS CORRIENTES;7597040
+2017;19101;4;;;TRANSFERENCIAS CORRIENTES;2099443680
+2017;19102;4;;;TRANSFERENCIAS CORRIENTES;367225570
+2017;19104;4;;;TRANSFERENCIAS CORRIENTES;34824470
+2017;19301;4;;;TRANSFERENCIAS CORRIENTES;7000170
+2017;20101;4;;;TRANSFERENCIAS CORRIENTES;238471220
+2017;20104;4;;;TRANSFERENCIAS CORRIENTES;31768990
+2017;20302;4;;;TRANSFERENCIAS CORRIENTES;400000
+2017;23101;4;;;TRANSFERENCIAS CORRIENTES;9423430
+2017;23102;4;;;TRANSFERENCIAS CORRIENTES;3465000
+2017;23103;4;;;TRANSFERENCIAS CORRIENTES;20000
+2017;23106;4;;;TRANSFERENCIAS CORRIENTES;11000000
+2017;23107;4;;;TRANSFERENCIAS CORRIENTES;5000000
+2017;23108;4;;;TRANSFERENCIAS CORRIENTES;3115000
+2017;23109;4;;;TRANSFERENCIAS CORRIENTES;4953370
+2017;23110;4;;;TRANSFERENCIAS CORRIENTES;4461070
+2017;23112;4;;;TRANSFERENCIAS CORRIENTES;4107520
+2017;23113;4;;;TRANSFERENCIAS CORRIENTES;215648450
+2017;23114;4;;;TRANSFERENCIAS CORRIENTES;5750069350
+2017;23401;4;;;TRANSFERENCIAS CORRIENTES;25570270
+2017;25101;4;;;TRANSFERENCIAS CORRIENTES;2754240
+2017;25102;4;;;TRANSFERENCIAS CORRIENTES;5220840
+2017;25103;4;;;TRANSFERENCIAS CORRIENTES;60066210
+2017;25301;4;;;TRANSFERENCIAS CORRIENTES;229239750
+2017;26101;4;;;TRANSFERENCIAS CORRIENTES;27213470
+2017;26105;4;;;TRANSFERENCIAS CORRIENTES;3648970
+2017;26106;4;;;TRANSFERENCIAS CORRIENTES;2516820
+2017;26107;4;;;TRANSFERENCIAS CORRIENTES;17972940
+2017;26108;4;;;TRANSFERENCIAS CORRIENTES;900000
+2017;26109;4;;;TRANSFERENCIAS CORRIENTES;23821850
+2017;26401;4;;;TRANSFERENCIAS CORRIENTES;8800
+2017;27101;4;;;TRANSFERENCIAS CORRIENTES;134515210
+2017;27103;4;;;TRANSFERENCIAS CORRIENTES;43974020
+2017;27104;4;;;TRANSFERENCIAS CORRIENTES;17419840
+2017;27105;4;;;TRANSFERENCIAS CORRIENTES;22294310
+2017;27106;4;;;TRANSFERENCIAS CORRIENTES;16931030
+2017;27107;4;;;TRANSFERENCIAS CORRIENTES;124178280
+2017;27109;4;;;TRANSFERENCIAS CORRIENTES;3429810
+2017;27302;4;;;TRANSFERENCIAS CORRIENTES;51102360
+2017;27401;4;;;TRANSFERENCIAS CORRIENTES;370485800
+2017;27402;4;;;TRANSFERENCIAS CORRIENTES;17735320
+2017;60004;4;;;TRANSFERENCIAS CORRIENTES;16475311080
+2017;98001;4;;;TRANSFERENCIAS CORRIENTES;5962005980
+2017;12301;40;;;De la Administración del Estado;59696010
+2017;12401;40;;;De la Administración del Estado;198951300
+2017;13101;40;;;De la Administración del Estado;7069190
+2017;13102;40;;;De la Administración del Estado;4931830
+2017;14101;40;;;De la Administración del Estado;47356610
+2017;14107;40;;;De la Administración del Estado;20650000
+2017;14113;40;;;De la Administración del Estado;24800000
+2017;15101;40;;;De la Administración del Estado;10393820
+2017;15102;40;;;De la Administración del Estado;13241940
+2017;15106;40;;;De la Administración del Estado;73617170
+2017;15107;40;;;De la Administración del Estado;32508240
+2017;15302;40;;;De la Administración del Estado;964696440
+2017;15304;40;;;De la Administración del Estado;2705520
+2017;15401;40;;;De la Administración del Estado;3188150
+2017;16102;40;;;De la Administración del Estado;1891190
+2017;17101;40;;;De la Administración del Estado;14968200
+2017;17102;40;;;De la Administración del Estado;1993910
+2017;17402;40;;;De la Administración del Estado;7224520
+2017;18101;40;;;De la Administración del Estado;2943090
+2017;18102;40;;;De la Administración del Estado;32592270
+2017;18103;40;;;De la Administración del Estado;72290810
+2017;18104;40;;;De la Administración del Estado;22008020
+2017;18105;40;;;De la Administración del Estado;7728570
+2017;18106;40;;;De la Administración del Estado;146076640
+2017;18107;40;;;De la Administración del Estado;118589620
+2017;18108;40;;;De la Administración del Estado;9922510
+2017;18301;40;;;De la Administración del Estado;7835940
+2017;18302;40;;;De la Administración del Estado;23800000
+2017;18401;40;;;De la Administración del Estado;7597040
+2017;19101;40;;;De la Administración del Estado;1623117080
+2017;19102;40;;;De la Administración del Estado;367225570
+2017;19104;40;;;De la Administración del Estado;19792570
+2017;19301;40;;;De la Administración del Estado;7000170
+2017;20101;40;;;De la Administración del Estado;238471220
+2017;20104;40;;;De la Administración del Estado;31768990
+2017;20302;40;;;De la Administración del Estado;400000
+2017;23101;40;;;De la Administración del Estado;9423430
+2017;23102;40;;;De la Administración del Estado;3465000
+2017;23106;40;;;De la Administración del Estado;11000000
+2017;23107;40;;;De la Administración del Estado;5000000
+2017;23108;40;;;De la Administración del Estado;3115000
+2017;23109;40;;;De la Administración del Estado;4953370
+2017;23110;40;;;De la Administración del Estado;1677070
+2017;23112;40;;;De la Administración del Estado;4107520
+2017;23113;40;;;De la Administración del Estado;215648450
+2017;23114;40;;;De la Administración del Estado;14652720
+2017;23401;40;;;De la Administración del Estado;24157270
+2017;25101;40;;;De la Administración del Estado;2701240
+2017;25102;40;;;De la Administración del Estado;5220840
+2017;25103;40;;;De la Administración del Estado;54794160
+2017;25301;40;;;De la Administración del Estado;229239750
+2017;26101;40;;;De la Administración del Estado;10711460
+2017;26105;40;;;De la Administración del Estado;3648970
+2017;26106;40;;;De la Administración del Estado;2516820
+2017;26107;40;;;De la Administración del Estado;12972940
+2017;26108;40;;;De la Administración del Estado;900000
+2017;26109;40;;;De la Administración del Estado;23821850
+2017;26401;40;;;De la Administración del Estado;8800
+2017;27101;40;;;De la Administración del Estado;134515210
+2017;27103;40;;;De la Administración del Estado;43974020
+2017;27104;40;;;De la Administración del Estado;17419840
+2017;27105;40;;;De la Administración del Estado;22294310
+2017;27106;40;;;De la Administración del Estado;16931030
+2017;27107;40;;;De la Administración del Estado;123914280
+2017;27109;40;;;De la Administración del Estado;3386190
+2017;27302;40;;;De la Administración del Estado;51102360
+2017;27401;40;;;De la Administración del Estado;369853710
+2017;27402;40;;;De la Administración del Estado;17735320
+2017;60004;40;;;De la Administración del Estado;13066812590
+2017;12301;400;;;Del departamento al que está adscrito;59696010
+2017;13101;400;;;Del departamento al que está adscrito;7069190
+2017;14101;400;;;Del departamento al que está adscrito;47356610
+2017;14107;400;;;Del departamento al que está adscrito;20650000
+2017;15101;400;;;Del departamento al que está adscrito;10393820
+2017;15102;400;;;Del departamento al que está adscrito;13241940
+2017;15302;400;;;Del departamento al que está adscrito;964588840
+2017;15304;400;;;Del departamento al que está adscrito;2705520
+2017;15401;400;;;Del departamento al que está adscrito;3188150
+2017;16102;400;;;Del departamento al que está adscrito;1891190
+2017;17101;400;;;Del departamento al que está adscrito;11968200
+2017;17102;400;;;Del departamento al que está adscrito;1993910
+2017;17402;400;;;Del departamento al que está adscrito;7224520
+2017;18101;400;;;Del departamento al que está adscrito;2943090
+2017;18102;400;;;Del departamento al que está adscrito;32592270
+2017;18103;400;;;Del departamento al que está adscrito;72290810
+2017;18104;400;;;Del departamento al que está adscrito;22008020
+2017;18106;400;;;Del departamento al que está adscrito;146076640
+2017;18107;400;;;Del departamento al que está adscrito;118589620
+2017;18108;400;;;Del departamento al que está adscrito;9922510
+2017;18301;400;;;Del departamento al que está adscrito;7835940
+2017;18302;400;;;Del departamento al que está adscrito;23800000
+2017;18401;400;;;Del departamento al que está adscrito;7597040
+2017;19101;400;;;Del departamento al que está adscrito;1623117080
+2017;19102;400;;;Del departamento al que está adscrito;367225570
+2017;19104;400;;;Del departamento al que está adscrito;19792570
+2017;19301;400;;;Del departamento al que está adscrito;7000170
+2017;20101;400;;;Del departamento al que está adscrito;238471220
+2017;20104;400;;;Del departamento al que está adscrito;31768990
+2017;20302;400;;;Del departamento al que está adscrito;400000
+2017;23101;400;;;Del departamento al que está adscrito;9423430
+2017;23102;400;;;Del departamento al que está adscrito;3465000
+2017;23106;400;;;Del departamento al que está adscrito;11000000
+2017;23107;400;;;Del departamento al que está adscrito;5000000
+2017;23108;400;;;Del departamento al que está adscrito;3115000
+2017;23109;400;;;Del departamento al que está adscrito;4953370
+2017;23110;400;;;Del departamento al que está adscrito;1677070
+2017;23112;400;;;Del departamento al que está adscrito;4107520
+2017;23113;400;;;Del departamento al que está adscrito;215648450
+2017;23114;400;;;Del departamento al que está adscrito;14652720
+2017;23401;400;;;Del departamento al que está adscrito;24157270
+2017;25101;400;;;Del departamento al que está adscrito;2701240
+2017;25102;400;;;Del departamento al que está adscrito;5220840
+2017;25103;400;;;Del departamento al que está adscrito;54794160
+2017;25301;400;;;Del departamento al que está adscrito;229239750
+2017;26101;400;;;Del departamento al que está adscrito;10711460
+2017;26105;400;;;Del departamento al que está adscrito;3648970
+2017;26106;400;;;Del departamento al que está adscrito;2516820
+2017;26107;400;;;Del departamento al que está adscrito;12972940
+2017;26108;400;;;Del departamento al que está adscrito;900000
+2017;26109;400;;;Del departamento al que está adscrito;23821850
+2017;26401;400;;;Del departamento al que está adscrito;8800
+2017;27101;400;;;Del departamento al que está adscrito;134515210
+2017;27103;400;;;Del departamento al que está adscrito;43874020
+2017;27104;400;;;Del departamento al que está adscrito;17419840
+2017;27105;400;;;Del departamento al que está adscrito;22294310
+2017;27106;400;;;Del departamento al que está adscrito;16931030
+2017;27107;400;;;Del departamento al que está adscrito;123339770
+2017;27109;400;;;Del departamento al que está adscrito;3386190
+2017;27302;400;;;Del departamento al que está adscrito;51102360
+2017;27401;400;;;Del departamento al que está adscrito;369853710
+2017;27402;400;;;Del departamento al que está adscrito;17735320
+2017;60004;400;;;Del departamento al que está adscrito;11337943540
+2017;15302;400;;00;Para gastos de funcionamiento;893886660
+2017;18101;400;;00;Para gastos de funcionamiento;2756090
+2017;18102;400;;00;Para gastos de funcionamiento del Programa de Enseñanzas Universitarias;2096320
+2017;18103;400;;00;Para gastos de funcionamiento;7290810
+2017;18106;400;;00;Para gastos de funcionamiento;74489140
+2017;20104;400;;00;Del departamento al que está adscrito;31768990
+2017;23102;400;;00;Para el desarrollo de sus actividades;3400000
+2017;23106;400;;00;Para el desarrollo de sus actividades;5500000
+2017;23107;400;;00;Para el desarrollo de sus actividades;3000000
+2017;23108;400;;00;Para el desarrollo de sus actividades;3000000
+2017;23109;400;;00;Para el desarrollo de sus actividades;4303370
+2017;23110;400;;00;Para el desarrollo de sus actividades;1677070
+2017;23112;400;;00;Para gastos de funcionamiento.;4107520
+2017;23113;400;;00;Para gastos de funcionamiento;4380890
+2017;23114;400;;00;Para gastos de funcionamiento.;14652720
+2017;26109;400;;00;Para atenciones generales;23821850
+2017;27103;400;;00;Para gastos corrientes;43874020
+2017;27105;400;;00;Para gastos corrientes;21900000
+2017;27106;400;;00;Para gastos corrientes;16696030
+2017;27107;400;;00;Para gastos corrientes;121839770
+2017;27401;400;;00;Para gastos corrientes;362532620
+2017;27402;400;;00;Del departamento al que está adscrito;17735320
+2017;14101;400;;01;Para gastos de funcionamiento;47356610
+2017;18102;400;;01;Para gastos de funcionamiento del Programa de Cooperación, promoción y difusión educativa en el exterior;1345950
+2017;18103;400;;01;Fondo de Protección a la Cinematografía;65000000
+2017;18106;400;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;71587500
+2017;23102;400;;01;Para el pago de IBI de bienes de titularidad estatal;65000
+2017;23106;400;;01;Para el pago del IBI de bienes de titularidad estatal;5500000
+2017;23107;400;;01;Para el pago del IBI de bienes de titularidad estatal;2000000
+2017;23108;400;;01;Para el pago del IBI de bienes de titularidad estatal;115000
+2017;23109;400;;01;Para el pago de Ibi de bienes de titularidad estatal;650000
+2017;23113;400;;01;Para el Plan Anual de Seguros Agrarios y liquidación de planes anteriores;211267560
+2017;27105;400;;01;Para el funcionamiento operativo de buques y bases y de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;394310
+2017;27106;400;;01;Para los gastos de la participación española en el Comité Polar y para el Banco Nacional de Datos Polares;235000
+2017;14107;400;;02;Para compensación económica por carencia de vivienda;20650000
+2017;15302;400;;02;Por compensación gastos de otros servicios;2931450
+2017;18101;400;;02;Para Aula de Verano;112000
+2017;18102;400;;02;Para la financiación del Plan Ejecutivo de Cooperación e Intercambio con la República Popular China;150000
+2017;19101;400;;02;Para financiar el presupuesto del Servicio Público de Empleo Estatal;1623117080
+2017;27401;400;;02;Para líneas e instalaciones;934270
+2017;15302;400;;03;Por premio de cobranza recursos propios de la Unión Europea;67770730
+2017;18101;400;;03;Para Cursos Institucionales de Verano;75000
+2017;18102;400;;03;Al Servicio Español para la Internacionalización de la Educación para la cofinanciación del Programa Erasmus+;29000000
+2017;27107;400;;04;Para la Fundación Centre de Regulació Genómica (CRG) para los estudios de genómica del Centro Nacional de Análisis Genómico (CNAG);1500000
+2017;27401;400;;05;Para gastos de funcionamiento operativo de buques y bases y de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;6221820
+2017;27401;400;;07;Para gastos corrientes del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);90000
+2017;27401;400;;10;Para la aportación a la European Grid Initiative (EGI);75000
+2017;13102;401;;;De otros departamentos ministeriales;4931830
+2017;14113;401;;;De otros departamentos ministeriales;24800000
+2017;15106;401;;;De otros departamentos ministeriales;73617170
+2017;15107;401;;;De otros departamentos ministeriales;32508240
+2017;15302;401;;;De otros departamentos ministeriales;107600
+2017;17101;401;;;De otros departamentos ministeriales;3000000
+2017;27103;401;;;De otros departamentos ministeriales;100000
+2017;27107;401;;;De otros departamentos ministeriales;574510
+2017;60004;401;;;De otros departamentos ministeriales;1728869050
+2017;15302;401;;00;Del Ministerio del Interior por los gastos comunes del edificio de la calle del Plomo, de Madrid;107600
+2017;27107;401;;00;Para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias;574510
+2017;18105;402;;;Del departamento al que está adscrito;7728570
+2017;12401;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;173995330
+2017;12401;405;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto Ley 7/2013, de 28 de junio;24955970
+2017;12401;41;;;De Organismos Autónomos;1155600
+2017;15102;41;;;De Organismos Autónomos;58133170
+2017;16101;41;;;De Organismos Autónomos;216480
+2017;17102;41;;;De Organismos Autónomos;50000
+2017;18103;41;;;De Organismos Autónomos;149820
+2017;18107;41;;;De Organismos Autónomos;105870
+2017;23110;41;;;De Organismos Autónomos;2784000
+2017;25103;41;;;De Organismos Autónomos;5272050
+2017;26101;41;;;De Organismos Autónomos;1000000
+2017;27401;41;;;De Organismos Autónomos;282090
+2017;98001;41;;;De Organismos Autónomos;305594500
+2017;15102;410;;;Transferencias corrientes de Organismos Autónomos;58133170
+2017;17102;410;;;Transferencias corrientes de Organismos Autónomos;50000
+2017;18103;410;;;Transferencias corrientes de Organismos Autónomos;149820
+2017;18107;410;;;Transferencias corrientes de Organismos Autónomos;105870
+2017;23110;410;;;Transferencias corrientes de Organismos Autónomos;2784000
+2017;27401;410;;;Transferencias corrientes de Organismos Autónomos;282090
+2017;98001;410;;;Transferencias corrientes de Organismos Autónomos;305594500
+2017;98001;410;;00;Jefatura de Tráfico;153180420
+2017;15102;410;;01;Del Servicio Público de Empleo Estatal para Formación para el Empleo;58133170
+2017;18103;410;;01;Del Servicio Público de Empleo Estatal (SPEE);149820
+2017;18107;410;;01;Del Servicio Público de Empleo Estatal (SPEE);105870
+2017;98001;410;;01;Jefatura de Tráfico. Disposición Adicional Segunda de la Ley Orgánica 6/2011;1270000
+2017;98001;410;;02;Servicio Público de Empleo Estatal;105818440
+2017;98001;410;;03;Oficina Española de Patentes y Marcas;6000000
+2017;98001;410;;04;Comisionado del Mercado de Tabacos;24612800
+2017;98001;410;;10;Compensación de gastos de gestión centralizada;14712840
+2017;27401;410;;99;Del Servicio Público de Empleo Estatal (SPEE);282090
+2017;16101;411;;;Del Servicio Público de Empleo Estatal;216480
+2017;25103;411;;;Del Servicio Público de Empleo Estatal;5272050
+2017;26101;411;;;Del Servicio Público de Empleo Estatal;1000000
+2017;25103;411;;01;Para ayudas salariales a Escuelas Taller;2958170
+2017;16101;411;;02;Para gastos en políticas activas de empleo;216480
+2017;25103;411;;02;Para subvenciones a Escuelas Taller;2313880
+2017;12401;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior;1155600
+2017;19101;42;;;De la Seguridad Social;1326600
+2017;19104;42;;;De la Seguridad Social;15000000
+2017;60004;42;;;De la Seguridad Social;3368433540
+2017;98001;42;;;De la Seguridad Social;168619530
+2017;19101;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad. Ejercicio corriente;1326600
+2017;19104;420/19104;;;De la Seguridad Social;15000000
+2017;98001;420/98001;;;Transferencias corrientes de la Seguridad Social;168619530
+2017;98001;420/98001;;01;Transferencia para compensar la gestión de pensiones no contributivas por el País Vasco y Navarra;165819530
+2017;98001;420/98001;;02;Colaboración recíproca entre la Tesorería General de la Seguridad Social y la Inspección de Trabajo y Seguridad Social;2300000
+2017;98001;420/98001;;03;Convenio de colaboración con el Ministerio del Interior para la persecución del fraude y la delincuencia;500000
+2017;60004;421;;;Aportaciones para sosteni. SS.CC.;978030100
+2017;60004;422;;;Ingresos por servicios prestados entre Entidades del Sistema;1313862480
+2017;60004;423;;;Cuotas de reaseguro de Acctes. T.;972614050
+2017;60004;428;;;Aplicaciones del Fondo de Contingencias Profesionales;67464880
+2017;60004;429;;;Otras transferencias recibidas de entidades del sistema;36462030
+2017;14101;43;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;717140
+2017;18101;43;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;450000
+2017;98001;43;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;93375540
+2017;14101;430/14101;;;Del Consejo Superior de Investigaciones Científicas;717140
+2017;18101;430/18101;;;De la Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC);450000
+2017;98001;430/98001;;;Agencia Estatal Boletín Oficial del Estado;30366000
+2017;98001;431;;;Agencia Española de Medicamentos y Productos Sanitarios;60000000
+2017;98001;435;;;Compensación de gastos de gestión centralizada;3009540
+2017;18101;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;150250
+2017;18107;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;12000
+2017;18301;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;54500
+2017;25101;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;8000
+2017;27107;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;88000
+2017;98001;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;18676200
+2017;18101;441;;;De entidades públicas empresariales;150250
+2017;98001;441;;;De entidades públicas empresariales;18676200
+2017;98001;441;;09;De otras entidades públicas empresariales;18676200
+2017;27107;442;;;De fundaciones públicas;44000
+2017;18107;449;;;Del resto del Sector Público Estatal;12000
+2017;18301;449;;;Del resto del Sector Público Estatal;54500
+2017;25101;449;;;Del resto del Sector Público Estatal;8000
+2017;27107;449;;;Del resto del Sector Público Estatal;44000
+2017;14101;45;;;De Comunidades Autónomas;120000
+2017;18101;45;;;De Comunidades Autónomas;577700
+2017;18107;45;;;De Comunidades Autónomas;12000
+2017;18301;45;;;De Comunidades Autónomas;150000
+2017;27107;45;;;De Comunidades Autónomas;176000
+2017;27401;45;;;De Comunidades Autónomas;350000
+2017;60004;45;;;De Comunidades Autónomas;574000
+2017;98001;45;;;De Comunidades Autónomas;5006560210
+2017;98001;450;;;Contribuciones Concertadas;1828490900
+2017;98001;450;;00;Cupo del País Vasco;1201872950
+2017;98001;450;;01;De Navarra;626617950
+2017;98001;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.;36255920
+2017;98001;456;;;Compensaciones financieras del País Vasco;63100430
+2017;98001;456;;00;Impuestos especiales sobre el alcohol y bebidas derivadas y productos intermedios;8278500
+2017;98001;456;;01;Impuesto especial sobre la Cerveza;2814860
+2017;98001;456;;02;Impuesto especial sobre Hidrocarburos;38587540
+2017;98001;456;;03;Impuesto sobre producción y almacenamiento energía eléctrica;13419530
+2017;98001;457;;;Compensación a Navarra. Impuesto almacenamiento energía;13302280
+2017;98001;458;;;Por Fondo de Suficiencia y otros;3065410680
+2017;14101;459;;;Otras transferencias corrientes;120000
+2017;18101;459;;;Otras transferencias corrientes;577700
+2017;18107;459;;;Otras transferencias corrientes;12000
+2017;18301;459;;;Otras transferencias corrientes;150000
+2017;27107;459;;;Otras transferencias corrientes;176000
+2017;27401;459;;;Otras transferencias corrientes;350000
+2017;60004;459;;;Otras transferencias corrientes;574000
+2017;27401;459;;00;Otras transferencias corrientes de CCAA;350000
+2017;14101;459;;01;Del Instituto Gallego de Promoción Económica;120000
+2017;18101;46;;;De Entidades Locales;323340
+2017;98001;46;;;De Entidades Locales;247180000
+2017;18101;460;;;De Ayuntamientos;323340
+2017;98001;460;;;De Ayuntamientos;247180000
+2017;12301;47;;;De empresas privadas;1000000
+2017;18101;47;;;De empresas privadas;1230360
+2017;18107;47;;;De empresas privadas;20000
+2017;18301;47;;;De empresas privadas;885000
+2017;18302;47;;;De empresas privadas;1500000
+2017;19104;47;;;De empresas privadas;900
+2017;25101;47;;;De empresas privadas;15000
+2017;60004;47;;;De empresas privadas;33900000
+2017;98001;47;;;De empresas privadas;50000000
+2017;12301;470/12301;;;De empresas privadas;1000000
+2017;18301;470/18301;;;Ingresos de empresas privadas;885000
+2017;18302;470/18302;;;Ingresos de empresas privadas;1500000
+2017;19104;470/19104;;;Transferencias de empresas privadas;900
+2017;25101;470/25101;;;Provenientes de empresas de propiedad privada;15000
+2017;98001;470/98001;;;De empresas privadas;50000000
+2017;60004;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;33900000
+2017;18101;479/18101;;;Otras transferencias corrientes;1230360
+2017;18107;479/18107;;;De empresas privadas;20000
+2017;18101;48;;;De familias e instituciones sin fines de lucro;795730
+2017;18301;48;;;De familias e instituciones sin fines de lucro;3815430
+2017;18302;48;;;De familias e instituciones sin fines de lucro;1150000
+2017;25101;48;;;De familias e instituciones sin fines de lucro;30000
+2017;18301;480;;;De familias e instituciones sin fines de lucro;3815430
+2017;25101;480;;;De familias e instituciones sin fines de lucro;30000
+2017;18101;489;;;Otras transferencias corrientes;795730
+2017;18302;489;;;Otras transferencias corrientes;1150000
+2017;12401;49;;;Del exterior;30037980
+2017;13301;49;;;Del exterior;20000
+2017;15302;49;;;Del exterior;1900000
+2017;17102;49;;;Del exterior;750000
+2017;18101;49;;;Del exterior;14250
+2017;18102;49;;;Del exterior;4516960
+2017;18301;49;;;Del exterior;148710
+2017;18302;49;;;Del exterior;48000
+2017;19101;49;;;Del exterior;475000000
+2017;19104;49;;;Del exterior;31000
+2017;23103;49;;;Del exterior;20000
+2017;23114;49;;;Del exterior;5735416630
+2017;23401;49;;;Del exterior;1413000
+2017;26101;49;;;Del exterior;15502010
+2017;26107;49;;;Del exterior;5000000
+2017;27109;49;;;Del exterior;43620
+2017;60004;49;;;Del exterior;5590950
+2017;98001;49;;;Del exterior;72000000
+2017;19101;490;;;Del Fondo Social Europeo;475000000
+2017;26107;490;;;Del Fondo Social Europeo;4850000
+2017;60004;490;;;Del Fondo Social Europeo;5590950
+2017;98001;490;;;Del Fondo Social Europeo;50000000
+2017;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;475000000
+2017;23114;491;;;Del Fondo Europeo Agrícola de Garantía (FEAGA);5633416630
+2017;23114;491;;01;Subvenciones a la producción agraria;5633307680
+2017;23114;491;;04;Gastos financieros Fondo Europeo de Garantía Agraria. Ingresos;108950
+2017;13301;492;;;Otras transferencias de la Unión Europea;20000
+2017;15302;492;;;Otras transferencias de la Unión Europea;1900000
+2017;17102;492;;;Otras transferencias de la Unión Europea;750000
+2017;18102;492;;;Otras transferencias de la Unión Europea;4516960
+2017;19104;492;;;Otras transferencias de la Unión Europea;31000
+2017;23114;492;;;Otras transferencias de la Unión Europea;102000000
+2017;26107;492;;;Otras transferencias de la Unión Europea;150000
+2017;27109;492;;;Otras transferencias de la Unión Europea;43620
+2017;98001;492;;;Otras transferencias de la Unión Europea;2000000
+2017;23401;493;;;Aportaciones derivadas de convenios internacionales de cooperación;1413000
+2017;26101;493;;;Aportaciones derivadas de convenios internacionales de cooperación;15502010
+2017;23103;494;;;De la Unión Europea-PAC;20000
+2017;12401;499;;;Otras transferencias corrientes;30037980
+2017;18101;499;;;Otras transferencias corrientes;14250
+2017;18301;499;;;Otras transferencias corrientes;148710
+2017;18302;499;;;Otras transferencias corrientes;48000
+2017;98001;499;;;Otras transferencias corrientes;20000000
+2017;12401;499;;09;Transferencias UE para Proyectos de Cooperación Delegada en Bolivia;861160
+2017;12401;499;;10;Transferencias UE para Proyectos de Cooperación Delegada en Nicaragua;8288210
+2017;12401;499;;13;Transferencias UE para Proyectos de Cooperación Delegada en Honduras;542070
+2017;12401;499;;15;Transferencias UE para Proyectos de Cooperación Delegada en Cuba;70380
+2017;12401;499;;16;Transferencias UE para Proyectos de Cooperación Delegada en LAIF Regional;4623340
+2017;12401;499;;17;Transferencias UE para Proyectos de Cooperación Delegada Región SICA;2640000
+2017;12401;499;;18;Transferencias UE para proyectos de Cooperación Delegada CEDEAO;1507500
+2017;12401;499;;19;Transferencia UE para Proyectos de Cooperación Delegada en Siria;844490
+2017;12401;499;;20;Transferencias UE para Proyectos de Cooperación Delegada en Filipinas;1514500
+2017;12401;499;;21;Transferencias UE para Proyectos de Cooperación Delegada en Senegal;4649210
+2017;12401;499;;23;Transferencias UE para Proyectos de Cooperación Delegada en Mali;2416220
+2017;12401;499;;24;Transferencias UE para Proyectos de Cooperación Delegada en Jordania;305920
+2017;12401;499;;25;Transferencias UE para Proyectos de Cooperación Delegada en Mauritania;575000
+2017;12401;499;;26;Transferencias UE para Proyectos de Cooperación Delegada en El Salvador;141600
+2017;12401;499;;27;Transferencias UE para Proyectos de Cooperación Delegada en Ecuador;1058380
+2017;12301;5;;;INGRESOS PATRIMONIALES;815000
+2017;13102;5;;;INGRESOS PATRIMONIALES;155500
+2017;13301;5;;;INGRESOS PATRIMONIALES;7000
+2017;14101;5;;;INGRESOS PATRIMONIALES;2200000
+2017;14107;5;;;INGRESOS PATRIMONIALES;25196000
+2017;14113;5;;;INGRESOS PATRIMONIALES;90000
+2017;15101;5;;;INGRESOS PATRIMONIALES;120570
+2017;15102;5;;;INGRESOS PATRIMONIALES;23000
+2017;15106;5;;;INGRESOS PATRIMONIALES;1912780
+2017;15107;5;;;INGRESOS PATRIMONIALES;276170
+2017;15302;5;;;INGRESOS PATRIMONIALES;66000
+2017;16101;5;;;INGRESOS PATRIMONIALES;1298270
+2017;17101;5;;;INGRESOS PATRIMONIALES;1550
+2017;18101;5;;;INGRESOS PATRIMONIALES;1000
+2017;18102;5;;;INGRESOS PATRIMONIALES;1000
+2017;18103;5;;;INGRESOS PATRIMONIALES;8000
+2017;18104;5;;;INGRESOS PATRIMONIALES;17000
+2017;18106;5;;;INGRESOS PATRIMONIALES;577640
+2017;18107;5;;;INGRESOS PATRIMONIALES;52000
+2017;18301;5;;;INGRESOS PATRIMONIALES;4133000
+2017;18302;5;;;INGRESOS PATRIMONIALES;1050000
+2017;19101;5;;;INGRESOS PATRIMONIALES;98080
+2017;19102;5;;;INGRESOS PATRIMONIALES;155000
+2017;19104;5;;;INGRESOS PATRIMONIALES;500
+2017;20102;5;;;INGRESOS PATRIMONIALES;1000
+2017;20104;5;;;INGRESOS PATRIMONIALES;3208950
+2017;23101;5;;;INGRESOS PATRIMONIALES;1650100
+2017;23103;5;;;INGRESOS PATRIMONIALES;2522000
+2017;23104;5;;;INGRESOS PATRIMONIALES;3101000
+2017;23105;5;;;INGRESOS PATRIMONIALES;830630
+2017;23106;5;;;INGRESOS PATRIMONIALES;82000
+2017;23107;5;;;INGRESOS PATRIMONIALES;90000
+2017;23108;5;;;INGRESOS PATRIMONIALES;5700
+2017;23109;5;;;INGRESOS PATRIMONIALES;67211970
+2017;23110;5;;;INGRESOS PATRIMONIALES;29000
+2017;23111;5;;;INGRESOS PATRIMONIALES;200000
+2017;23114;5;;;INGRESOS PATRIMONIALES;2010000
+2017;23401;5;;;INGRESOS PATRIMONIALES;1500
+2017;25103;5;;;INGRESOS PATRIMONIALES;7453000
+2017;25301;5;;;INGRESOS PATRIMONIALES;99750
+2017;26101;5;;;INGRESOS PATRIMONIALES;6000
+2017;26106;5;;;INGRESOS PATRIMONIALES;1980
+2017;27101;5;;;INGRESOS PATRIMONIALES;23570
+2017;27104;5;;;INGRESOS PATRIMONIALES;221000
+2017;27105;5;;;INGRESOS PATRIMONIALES;500
+2017;27106;5;;;INGRESOS PATRIMONIALES;2000
+2017;27109;5;;;INGRESOS PATRIMONIALES;500
+2017;27302;5;;;INGRESOS PATRIMONIALES;55000
+2017;27401;5;;;INGRESOS PATRIMONIALES;2515000
+2017;60004;5;;;INGRESOS PATRIMONIALES;1080383770
+2017;98001;5;;;INGRESOS PATRIMONIALES;5062549720
+2017;15106;50;;;Intereses de títulos y valores;1530
+2017;60004;50;;;Intereses de títulos y valores;1069106760
+2017;15106;500;;;Del Estado;880
+2017;60004;500;;;Del Estado;1057303840
+2017;15106;504;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;650
+2017;60004;504;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;3764690
+2017;60004;505;;;De Comunidades Autónomas;7921120
+2017;60004;506;;;De Entidades Locales;50000
+2017;60004;507;;;De empresas privadas;67110
+2017;18106;51;;;Intereses de anticipos y préstamos concedidos;321990
+2017;23107;51;;;Intereses de anticipos y préstamos concedidos;50940
+2017;23111;51;;;Intereses de anticipos y préstamos concedidos;2000
+2017;60004;51;;;Intereses de anticipos y préstamos concedidos;199960
+2017;98001;51;;;Intereses de anticipos y préstamos concedidos;1037308000
+2017;23107;514;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;50940
+2017;23107;514;;99;Otros;50940
+2017;98001;515;;;A Comunidades Autónomas;901189000
+2017;98001;516;;;A Entidades Locales;70241000
+2017;98001;517;;;A empresas privadas;40000000
+2017;18106;518;;;A familias e instituciones sin fines de lucro;321990
+2017;23111;518;;;A familias e instituciones sin fines de lucro;2000
+2017;60004;518;;;A familias e instituciones sin fines de lucro;199960
+2017;98001;519;;;Al exterior;25878000
+2017;12301;52;;;Intereses de depósitos;15000
+2017;13102;52;;;Intereses de depósitos;20000
+2017;13301;52;;;Intereses de depósitos;7000
+2017;14107;52;;;Intereses de depósitos;1000
+2017;14113;52;;;Intereses de depósitos;10000
+2017;15102;52;;;Intereses de depósitos;3000
+2017;15106;52;;;Intereses de depósitos;806840
+2017;15302;52;;;Intereses de depósitos;15000
+2017;16101;52;;;Intereses de depósitos;1268220
+2017;17101;52;;;Intereses de depósitos;1550
+2017;18101;52;;;Intereses de depósitos;1000
+2017;18102;52;;;Intereses de depósitos;1000
+2017;18104;52;;;Intereses de depósitos;4000
+2017;18107;52;;;Intereses de depósitos;2000
+2017;18301;52;;;Intereses de depósitos;1000
+2017;19101;52;;;Intereses de depósitos;48080
+2017;19102;52;;;Intereses de depósitos;30000
+2017;19104;52;;;Intereses de depósitos;500
+2017;20102;52;;;Intereses de depósitos;1000
+2017;20104;52;;;Intereses de depósitos;1000
+2017;23101;52;;;Intereses de depósitos;100
+2017;23103;52;;;Intereses de depósitos;10000
+2017;23104;52;;;Intereses de depósitos;1000
+2017;23106;52;;;Intereses de depósitos;2000
+2017;23107;52;;;Intereses de depósitos;25000
+2017;23108;52;;;Intereses de depósitos;1000
+2017;23109;52;;;Intereses de depósitos;309000
+2017;23110;52;;;Intereses de depósitos;1000
+2017;23111;52;;;Intereses de depósitos;83000
+2017;23401;52;;;Intereses de depósitos;1500
+2017;25103;52;;;Intereses de depósitos;8000
+2017;25301;52;;;Intereses de depósitos;99750
+2017;26101;52;;;Intereses de depósitos;6000
+2017;26106;52;;;Intereses de depósitos;1980
+2017;27104;52;;;Intereses de depósitos;1000
+2017;27105;52;;;Intereses de depósitos;500
+2017;27106;52;;;Intereses de depósitos;2000
+2017;27109;52;;;Intereses de depósitos;500
+2017;27302;52;;;Intereses de depósitos;50000
+2017;27401;52;;;Intereses de depósitos;300000
+2017;60004;52;;;Intereses de depósitos;4516560
+2017;98001;52;;;Intereses de depósitos;49393600
+2017;12301;520;;;Intereses de cuentas bancarias;15000
+2017;13102;520;;;Intereses de cuentas bancarias;20000
+2017;13301;520;;;Intereses de cuentas bancarias;7000
+2017;14107;520;;;Intereses de cuentas bancarias;1000
+2017;14113;520;;;Intereses de cuentas bancarias;10000
+2017;15102;520;;;Intereses de cuentas bancarias;3000
+2017;15106;520;;;Intereses de cuentas bancarias;806840
+2017;15302;520;;;Intereses de cuentas bancarias;15000
+2017;16101;520;;;Intereses de cuentas bancarias;1268220
+2017;17101;520;;;Intereses de cuentas bancarias;1550
+2017;18101;520;;;Intereses de cuentas bancarias;1000
+2017;18102;520;;;Intereses de cuentas bancarias;1000
+2017;18104;520;;;Intereses de cuentas bancarias;4000
+2017;18107;520;;;Intereses de cuentas bancarias;2000
+2017;18301;520;;;Intereses de cuentas bancarias;1000
+2017;19101;520;;;Intereses de cuentas bancarias;48080
+2017;19102;520;;;Intereses de cuentas bancarias;30000
+2017;19104;520;;;Intereses de cuentas bancarias;500
+2017;20102;520;;;Intereses de cuentas bancarias;1000
+2017;20104;520;;;Intereses de cuentas bancarias;1000
+2017;23101;520;;;Intereses de cuentas bancarias;100
+2017;23103;520;;;Intereses de cuentas bancarias;10000
+2017;23104;520;;;Intereses de cuentas bancarias;1000
+2017;23106;520;;;Intereses de cuentas bancarias;2000
+2017;23107;520;;;Intereses de cuentas bancarias;25000
+2017;23108;520;;;Intereses de cuentas bancarias;1000
+2017;23109;520;;;Intereses de cuentas bancarias;309000
+2017;23110;520;;;Intereses de cuentas bancarias;1000
+2017;23111;520;;;Intereses de cuentas bancarias;83000
+2017;23401;520;;;Intereses de cuentas bancarias;1500
+2017;25103;520;;;Intereses de cuentas bancarias;8000
+2017;25301;520;;;Intereses de cuentas bancarias;99750
+2017;26101;520;;;Intereses de cuentas bancarias;6000
+2017;26106;520;;;Intereses de cuentas bancarias;1980
+2017;27104;520;;;Intereses de cuentas bancarias;1000
+2017;27105;520;;;Intereses de cuentas bancarias;500
+2017;27106;520;;;Intereses de cuentas bancarias;2000
+2017;27109;520;;;Intereses de cuentas bancarias;500
+2017;27302;520;;;Intereses de cuentas bancarias;50000
+2017;27401;520;;;Intereses de cuentas bancarias;300000
+2017;60004;520;;;Intereses de cuentas bancarias;3099430
+2017;98001;520;;;Intereses de cuentas bancarias;49393600
+2017;23107;520;;00;Intereses de las consignaciones judiciales;25000
+2017;23109;520;;00;Intereses de las consignaciones judiciales;309000
+2017;98001;520;;00;Intereses de las consignaciones judiciales;46193600
+2017;12301;520;;99;Otros intereses de cuentas bancarias;15000
+2017;13301;520;;99;Otros intereses de cuentas bancarias;7000
+2017;14107;520;;99;Otros intereses de cuentas bancarias;1000
+2017;14113;520;;99;Otros intereses de cuentas bancarias;10000
+2017;15102;520;;99;Otros intereses de cuentas bancarias;3000
+2017;15106;520;;99;Otros intereses de cuentas bancarias;806840
+2017;16101;520;;99;Otros intereses de cuentas bancarias;1268220
+2017;18102;520;;99;Otros intereses de cuentas bancarias;1000
+2017;18107;520;;99;Otros intereses de cuentas bancarias;2000
+2017;18301;520;;99;Otros intereses de cuentas bancarias;1000
+2017;19101;520;;99;Otros intereses de cuentas bancarias;48080
+2017;19102;520;;99;Otros intereses de cuentas bancarias;30000
+2017;19104;520;;99;Otros intereses de cuentas bancarias;500
+2017;20102;520;;99;Otros intereses de cuentas bancarias;1000
+2017;20104;520;;99;Otros intereses de cuentas bancarias;1000
+2017;23101;520;;99;Otros intereses de cuentas bancarias;100
+2017;23103;520;;99;Otros intereses de cuentas bancarias;10000
+2017;23104;520;;99;Otros intereses de cuentas bancarias;1000
+2017;23106;520;;99;Otros intereses de cuentas bancarias;2000
+2017;23108;520;;99;Otros intereses de cuentas bancarias;1000
+2017;23110;520;;99;Otros intereses de cuentas bancarias;1000
+2017;23111;520;;99;Otros intereses de cuentas bancarias;83000
+2017;25301;520;;99;Otros intereses de cuentas bancarias;99750
+2017;26101;520;;99;Otros intereses de cuentas bancarias;6000
+2017;26106;520;;99;Otros intereses de cuentas bancarias;1980
+2017;27104;520;;99;Otros intereses de cuentas bancarias;1000
+2017;27105;520;;99;Otros intereses de cuentas bancarias;500
+2017;27109;520;;99;Otros intereses de cuentas bancarias;500
+2017;27401;520;;99;Otros intereses de cuentas bancarias;300000
+2017;98001;520;;99;Otros intereses de cuentas bancarias;3200000
+2017;60004;529;;;Intereses de otros depósitos;1417130
+2017;14101;53;;;Dividendos y participaciones en beneficios;2000000
+2017;15102;53;;;Dividendos y participaciones en beneficios;10000
+2017;15106;53;;;Dividendos y participaciones en beneficios;426800
+2017;23114;53;;;Dividendos y participaciones en beneficios;2000000
+2017;60004;53;;;Dividendos y participaciones en beneficios;1800
+2017;98001;53;;;Dividendos y participaciones en beneficios;3573348120
+2017;14101;534;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;2000000
+2017;23114;534;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;2000000
+2017;98001;534;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;3573348120
+2017;98001;534;;03;Banco de España;1566000000
+2017;98001;534;;04;Instituto de Crédito Oficial;25000000
+2017;98001;534;;06;Real Casa de la Moneda. Fabrica Nacional de Moneda y Timbre;24594000
+2017;98001;534;;09;Entidad Pública Empresarial ENAIRE;292756000
+2017;98001;534;;11;Sociedad Estatal Loterías y Apuestas del Estado (SELAE);1655508020
+2017;98001;534;;12;Otras Sociedades Estatales del Grupo Patrimonio;9490100
+2017;14101;534;;99;Otras participaciones en beneficios;2000000
+2017;23114;534;;99;Otras participaciones en beneficios;2000000
+2017;15102;537;;;De empresas privadas;10000
+2017;15106;537;;;De empresas privadas;426800
+2017;60004;537;;;De empresas privadas;1800
+2017;12301;54;;;Rentas de bienes inmuebles;800000
+2017;13102;54;;;Rentas de bienes inmuebles;135500
+2017;14101;54;;;Rentas de bienes inmuebles;200000
+2017;14107;54;;;Rentas de bienes inmuebles;23395000
+2017;14113;54;;;Rentas de bienes inmuebles;80000
+2017;15101;54;;;Rentas de bienes inmuebles;120570
+2017;15102;54;;;Rentas de bienes inmuebles;10000
+2017;15106;54;;;Rentas de bienes inmuebles;677610
+2017;15107;54;;;Rentas de bienes inmuebles;220170
+2017;15302;54;;;Rentas de bienes inmuebles;51000
+2017;18106;54;;;Rentas de bienes inmuebles;237410
+2017;19102;54;;;Rentas de bienes inmuebles;125000
+2017;23103;54;;;Rentas de bienes inmuebles;12000
+2017;23107;54;;;Rentas de bienes inmuebles;14060
+2017;23114;54;;;Rentas de bienes inmuebles;10000
+2017;25103;54;;;Rentas de bienes inmuebles;6700000
+2017;27101;54;;;Rentas de bienes inmuebles;23570
+2017;27104;54;;;Rentas de bienes inmuebles;20000
+2017;27302;54;;;Rentas de bienes inmuebles;5000
+2017;27401;54;;;Rentas de bienes inmuebles;515000
+2017;60004;54;;;Rentas de bienes inmuebles;6468690
+2017;98001;54;;;Rentas de bienes inmuebles;2500000
+2017;13102;540;;;Alquiler y productos de inmuebles;135500
+2017;14107;540;;;Alquiler y productos de inmuebles;22195000
+2017;14113;540;;;Alquiler y productos de inmuebles;80000
+2017;15101;540;;;Alquiler y productos de inmuebles;120570
+2017;15106;540;;;Alquiler y productos de inmuebles;677610
+2017;15107;540;;;Alquiler y productos de inmuebles;220170
+2017;15302;540;;;Alquiler y productos de inmuebles;51000
+2017;18106;540;;;Alquiler y productos de inmuebles;237410
+2017;19102;540;;;Alquiler y productos de inmuebles;125000
+2017;23103;540;;;Alquiler y productos de inmuebles;12000
+2017;23107;540;;;Alquiler y productos de inmuebles;14060
+2017;23114;540;;;Alquiler y productos de inmuebles;10000
+2017;25103;540;;;Alquiler y productos de inmuebles;6700000
+2017;27101;540;;;Alquiler y productos de inmuebles;23570
+2017;27104;540;;;Alquiler y productos de inmuebles;20000
+2017;27302;540;;;Alquiler y productos de inmuebles;5000
+2017;27401;540;;;Alquiler y productos de inmuebles;515000
+2017;60004;540;;;Alquiler y productos de inmuebles;6468690
+2017;98001;540;;;Alquiler y productos de inmuebles;2500000
+2017;14107;540;;00;Alquiler de viviendas;20000000
+2017;15106;540;;00;Alquiler de viviendas;121360
+2017;18106;540;;00;Alquiler de viviendas;237410
+2017;23103;540;;00;Alquiler de viviendas;12000
+2017;23107;540;;00;Alquiler de viviendas;14060
+2017;27101;540;;00;Alquiler de viviendas;23570
+2017;27401;540;;09;Otros alquileres de viviendas (alojamiento en residencias y buques);115000
+2017;13102;540;;10;Alquiler de locales;135500
+2017;14107;540;;10;Alquiler de locales;1800000
+2017;14113;540;;10;Alquiler de locales;80000
+2017;15106;540;;10;Alquiler de locales;428210
+2017;19102;540;;10;Alquiler de locales;125000
+2017;27401;540;;10;Alquiler de locales;400000
+2017;14107;540;;99;Otros productos de inmuebles;395000
+2017;15101;540;;99;Otros productos de inmuebles;120570
+2017;15106;540;;99;Otros productos de inmuebles;128040
+2017;15302;540;;99;Otros productos de inmuebles;51000
+2017;23114;540;;99;Otros productos de inmuebles;10000
+2017;25103;540;;99;Otros productos de inmuebles;6700000
+2017;27104;540;;99;Otros productos de inmuebles;20000
+2017;98001;540;;99;Otros productos de inmuebles;2500000
+2017;15102;542;;;Alquiler de aulas y otras instalaciones formativas.;10000
+2017;12301;549;;;Otras rentas;800000
+2017;14101;549;;;Otras rentas;200000
+2017;14107;549;;;Otras rentas;1200000
+2017;18103;55;;;Productos de concesiones y aprovechamientos especiales;8000
+2017;18104;55;;;Productos de concesiones y aprovechamientos especiales;13000
+2017;18106;55;;;Productos de concesiones y aprovechamientos especiales;18240
+2017;18107;55;;;Productos de concesiones y aprovechamientos especiales;50000
+2017;18301;55;;;Productos de concesiones y aprovechamientos especiales;4132000
+2017;18302;55;;;Productos de concesiones y aprovechamientos especiales;1050000
+2017;20104;55;;;Productos de concesiones y aprovechamientos especiales;3207950
+2017;23101;55;;;Productos de concesiones y aprovechamientos especiales;1650000
+2017;23103;55;;;Productos de concesiones y aprovechamientos especiales;2500000
+2017;23104;55;;;Productos de concesiones y aprovechamientos especiales;1100000
+2017;23105;55;;;Productos de concesiones y aprovechamientos especiales;816750
+2017;23106;55;;;Productos de concesiones y aprovechamientos especiales;80000
+2017;23108;55;;;Productos de concesiones y aprovechamientos especiales;4700
+2017;23109;55;;;Productos de concesiones y aprovechamientos especiales;154500
+2017;23110;55;;;Productos de concesiones y aprovechamientos especiales;28000
+2017;25103;55;;;Productos de concesiones y aprovechamientos especiales;625000
+2017;27104;55;;;Productos de concesiones y aprovechamientos especiales;200000
+2017;27401;55;;;Productos de concesiones y aprovechamientos especiales;1700000
+2017;60004;55;;;Productos de concesiones y aprovechamientos especiales;90000
+2017;98001;55;;;Productos de concesiones y aprovechamientos especiales;400000000
+2017;18103;550;;;De concesiones administrativas;8000
+2017;18104;550;;;De concesiones administrativas;13000
+2017;18106;550;;;De concesiones administrativas;18240
+2017;18302;550;;;De concesiones administrativas;1050000
+2017;20104;550;;;De concesiones administrativas;3207950
+2017;23101;550;;;De concesiones administrativas;100000
+2017;23106;550;;;De concesiones administrativas;80000
+2017;23108;550;;;De concesiones administrativas;4700
+2017;23110;550;;;De concesiones administrativas;25000
+2017;60004;550;;;De concesiones administrativas;90000
+2017;23101;551;;;Aprovechamientos agrícolas y forestales;1500000
+2017;23103;551;;;Aprovechamientos agrícolas y forestales;2500000
+2017;23105;551;;;Aprovechamientos agrícolas y forestales;816750
+2017;23110;551;;;Aprovechamientos agrícolas y forestales;3000
+2017;23104;555;;;Aprovechamientos agrícolas y forestales;100000
+2017;98001;557;;;Subastas de derechos de emisión de gases de efecto invernadero;400000000
+2017;18107;559;;;Otras concesiones y aprovechamientos;50000
+2017;18301;559;;;Otras concesiones y aprovechamientos;4132000
+2017;23101;559;;;Otras concesiones y aprovechamientos;50000
+2017;23104;559;;;Otras concesiones y aprovechamientos;1000000
+2017;23109;559;;;Otras concesiones y aprovechamientos;154500
+2017;25103;559;;;Otras concesiones y aprovechamientos;625000
+2017;27104;559;;;Otras concesiones y aprovechamientos;200000
+2017;27401;559;;;Otras concesiones y aprovechamientos;1700000
+2017;14107;59;;;Otros ingresos patrimoniales;1800000
+2017;15107;59;;;Otros ingresos patrimoniales;56000
+2017;16101;59;;;Otros ingresos patrimoniales;30050
+2017;19101;59;;;Otros ingresos patrimoniales;50000
+2017;23104;59;;;Otros ingresos patrimoniales;2000000
+2017;23105;59;;;Otros ingresos patrimoniales;13880
+2017;23109;59;;;Otros ingresos patrimoniales;66748470
+2017;23111;59;;;Otros ingresos patrimoniales;115000
+2017;25103;59;;;Otros ingresos patrimoniales;120000
+2017;14107;599;;;Otros;1800000
+2017;15107;599;;;Otros;56000
+2017;16101;599;;;Otros;30050
+2017;19101;599;;;Otros;50000
+2017;23104;599;;;Otros;2000000
+2017;23105;599;;;Otros;13880
+2017;23109;599;;;Otros;66748470
+2017;23111;599;;;Otros;115000
+2017;25103;599;;;Otros;120000
+2017;14107;6;;;ENAJENACION DE INVERSIONES REALES;106075000
+2017;15107;6;;;ENAJENACION DE INVERSIONES REALES;15000
+2017;16101;6;;;ENAJENACION DE INVERSIONES REALES;330560
+2017;16102;6;;;ENAJENACION DE INVERSIONES REALES;8109140
+2017;18106;6;;;ENAJENACION DE INVERSIONES REALES;1627580
+2017;19101;6;;;ENAJENACION DE INVERSIONES REALES;3001810
+2017;19102;6;;;ENAJENACION DE INVERSIONES REALES;2000000
+2017;20104;6;;;ENAJENACION DE INVERSIONES REALES;850000
+2017;23101;6;;;ENAJENACION DE INVERSIONES REALES;500000
+2017;23106;6;;;ENAJENACION DE INVERSIONES REALES;1000
+2017;23107;6;;;ENAJENACION DE INVERSIONES REALES;230000
+2017;23114;6;;;ENAJENACION DE INVERSIONES REALES;434410
+2017;27104;6;;;ENAJENACION DE INVERSIONES REALES;200000
+2017;27106;6;;;ENAJENACION DE INVERSIONES REALES;3000
+2017;60004;6;;;ENAJENACION DE INVERSIONES REALES;954150
+2017;98001;6;;;ENAJENACION DE INVERSIONES REALES;213300000
+2017;14107;60;;;De terrenos;80000000
+2017;60004;60;;;De terrenos;151500
+2017;98001;60;;;De terrenos;13000000
+2017;14107;600;;;Venta de solares;80000000
+2017;60004;600;;;Venta de solares;150000
+2017;98001;600;;;Venta de solares;10000000
+2017;60004;601;;;Venta de fincas rústicas;1500
+2017;98001;601;;;Venta de fincas rústicas;3000000
+2017;14107;61;;;De las demás inversiones reales;26075000
+2017;15107;61;;;De las demás inversiones reales;15000
+2017;16101;61;;;De las demás inversiones reales;330560
+2017;16102;61;;;De las demás inversiones reales;8109140
+2017;19101;61;;;De las demás inversiones reales;1810
+2017;19102;61;;;De las demás inversiones reales;2000000
+2017;23106;61;;;De las demás inversiones reales;1000
+2017;23114;61;;;De las demás inversiones reales;434410
+2017;27106;61;;;De las demás inversiones reales;2000
+2017;60004;61;;;De las demás inversiones reales;802650
+2017;98001;61;;;De las demás inversiones reales;300000
+2017;27106;616;;;Enajenación de bienes destinados a uso general;2000
+2017;14107;619;;;Venta de otras inversiones reales;26075000
+2017;15107;619;;;Venta de otras inversiones reales;15000
+2017;16101;619;;;Venta de otras inversiones reales;330560
+2017;16102;619;;;Venta de otras inversiones reales;8109140
+2017;19101;619;;;Venta de otras inversiones reales;1810
+2017;19102;619;;;Venta de otras inversiones reales;2000000
+2017;23106;619;;;Venta de otras inversiones reales;1000
+2017;23114;619;;;Venta de otras inversiones reales;434410
+2017;60004;619;;;Venta de otras inversiones reales;802650
+2017;98001;619;;;Venta de otras inversiones reales;300000
+2017;18106;68;;;Reintegros por operaciones de capital;1627580
+2017;19101;68;;;Reintegros por operaciones de capital;3000000
+2017;20104;68;;;Reintegros por operaciones de capital;850000
+2017;23101;68;;;Reintegros por operaciones de capital;500000
+2017;23107;68;;;Reintegros por operaciones de capital;230000
+2017;27104;68;;;Reintegros por operaciones de capital;200000
+2017;27106;68;;;Reintegros por operaciones de capital;1000
+2017;98001;68;;;Reintegros por operaciones de capital;200000000
+2017;18106;680;;;De ejercicios cerrados;1627580
+2017;19101;680;;;De ejercicios cerrados;3000000
+2017;20104;680;;;De ejercicios cerrados;850000
+2017;23101;680;;;De ejercicios cerrados;500000
+2017;23107;680;;;De ejercicios cerrados;230000
+2017;27104;680;;;De ejercicios cerrados;200000
+2017;27106;680;;;De ejercicios cerrados;1000
+2017;98001;680;;;De ejercicios cerrados;175000000
+2017;98001;681;;;Del presupuesto corriente;25000000
+2017;12301;7;;;TRANSFERENCIAS DE CAPITAL;4512740
+2017;12401;7;;;TRANSFERENCIAS DE CAPITAL;39111590
+2017;13101;7;;;TRANSFERENCIAS DE CAPITAL;512300
+2017;14101;7;;;TRANSFERENCIAS DE CAPITAL;24946680
+2017;15101;7;;;TRANSFERENCIAS DE CAPITAL;771480
+2017;15102;7;;;TRANSFERENCIAS DE CAPITAL;609200
+2017;15107;7;;;TRANSFERENCIAS DE CAPITAL;1124560
+2017;15302;7;;;TRANSFERENCIAS DE CAPITAL;31963320
+2017;15304;7;;;TRANSFERENCIAS DE CAPITAL;210500
+2017;15401;7;;;TRANSFERENCIAS DE CAPITAL;120110
+2017;16102;7;;;TRANSFERENCIAS DE CAPITAL;2000000
+2017;17101;7;;;TRANSFERENCIAS DE CAPITAL;490000
+2017;17102;7;;;TRANSFERENCIAS DE CAPITAL;2020000
+2017;17402;7;;;TRANSFERENCIAS DE CAPITAL;5080000
+2017;18101;7;;;TRANSFERENCIAS DE CAPITAL;368820
+2017;18102;7;;;TRANSFERENCIAS DE CAPITAL;495000
+2017;18103;7;;;TRANSFERENCIAS DE CAPITAL;585000
+2017;18104;7;;;TRANSFERENCIAS DE CAPITAL;4894280
+2017;18105;7;;;TRANSFERENCIAS DE CAPITAL;25072430
+2017;18106;7;;;TRANSFERENCIAS DE CAPITAL;7331920
+2017;18107;7;;;TRANSFERENCIAS DE CAPITAL;6935040
+2017;18108;7;;;TRANSFERENCIAS DE CAPITAL;30000
+2017;18301;7;;;TRANSFERENCIAS DE CAPITAL;6100000
+2017;18302;7;;;TRANSFERENCIAS DE CAPITAL;3039620
+2017;18401;7;;;TRANSFERENCIAS DE CAPITAL;424570
+2017;19101;7;;;TRANSFERENCIAS DE CAPITAL;11491770
+2017;19104;7;;;TRANSFERENCIAS DE CAPITAL;925000
+2017;19301;7;;;TRANSFERENCIAS DE CAPITAL;41940
+2017;20101;7;;;TRANSFERENCIAS DE CAPITAL;34977490
+2017;20104;7;;;TRANSFERENCIAS DE CAPITAL;34049870
+2017;23101;7;;;TRANSFERENCIAS DE CAPITAL;23011080
+2017;23102;7;;;TRANSFERENCIAS DE CAPITAL;15271580
+2017;23103;7;;;TRANSFERENCIAS DE CAPITAL;22500000
+2017;23105;7;;;TRANSFERENCIAS DE CAPITAL;15132870
+2017;23106;7;;;TRANSFERENCIAS DE CAPITAL;17000000
+2017;23107;7;;;TRANSFERENCIAS DE CAPITAL;10070000
+2017;23108;7;;;TRANSFERENCIAS DE CAPITAL;13600570
+2017;23109;7;;;TRANSFERENCIAS DE CAPITAL;8630000
+2017;23110;7;;;TRANSFERENCIAS DE CAPITAL;7742630
+2017;23111;7;;;TRANSFERENCIAS DE CAPITAL;33455000
+2017;23112;7;;;TRANSFERENCIAS DE CAPITAL;574800
+2017;23113;7;;;TRANSFERENCIAS DE CAPITAL;748810
+2017;23114;7;;;TRANSFERENCIAS DE CAPITAL;1103030160
+2017;23401;7;;;TRANSFERENCIAS DE CAPITAL;34658660
+2017;25101;7;;;TRANSFERENCIAS DE CAPITAL;8100
+2017;25102;7;;;TRANSFERENCIAS DE CAPITAL;50980
+2017;25103;7;;;TRANSFERENCIAS DE CAPITAL;13155270
+2017;25301;7;;;TRANSFERENCIAS DE CAPITAL;31200250
+2017;26101;7;;;TRANSFERENCIAS DE CAPITAL;207220
+2017;26105;7;;;TRANSFERENCIAS DE CAPITAL;247550
+2017;26106;7;;;TRANSFERENCIAS DE CAPITAL;12000
+2017;26107;7;;;TRANSFERENCIAS DE CAPITAL;365000
+2017;26108;7;;;TRANSFERENCIAS DE CAPITAL;80270
+2017;26109;7;;;TRANSFERENCIAS DE CAPITAL;387810
+2017;27101;7;;;TRANSFERENCIAS DE CAPITAL;24053120
+2017;27103;7;;;TRANSFERENCIAS DE CAPITAL;24139270
+2017;27104;7;;;TRANSFERENCIAS DE CAPITAL;4000000
+2017;27105;7;;;TRANSFERENCIAS DE CAPITAL;23425540
+2017;27106;7;;;TRANSFERENCIAS DE CAPITAL;2590000
+2017;27107;7;;;TRANSFERENCIAS DE CAPITAL;142263890
+2017;27109;7;;;TRANSFERENCIAS DE CAPITAL;2441360
+2017;27302;7;;;TRANSFERENCIAS DE CAPITAL;3749913710
+2017;27401;7;;;TRANSFERENCIAS DE CAPITAL;160839580
+2017;27402;7;;;TRANSFERENCIAS DE CAPITAL;591009820
+2017;60004;7;;;TRANSFERENCIAS DE CAPITAL;737407690
+2017;98001;7;;;TRANSFERENCIAS DE CAPITAL;1354498140
+2017;12301;70;;;De la Administración del Estado;4512740
+2017;12401;70;;;De la Administración del Estado;11070250
+2017;13101;70;;;De la Administración del Estado;512300
+2017;14101;70;;;De la Administración del Estado;24846680
+2017;15101;70;;;De la Administración del Estado;771480
+2017;15102;70;;;De la Administración del Estado;609200
+2017;15107;70;;;De la Administración del Estado;1124560
+2017;15302;70;;;De la Administración del Estado;31963320
+2017;15304;70;;;De la Administración del Estado;210500
+2017;15401;70;;;De la Administración del Estado;120110
+2017;17101;70;;;De la Administración del Estado;490000
+2017;17102;70;;;De la Administración del Estado;2020000
+2017;17402;70;;;De la Administración del Estado;5080000
+2017;18101;70;;;De la Administración del Estado;368820
+2017;18102;70;;;De la Administración del Estado;495000
+2017;18103;70;;;De la Administración del Estado;585000
+2017;18104;70;;;De la Administración del Estado;4894280
+2017;18105;70;;;De la Administración del Estado;25072430
+2017;18106;70;;;De la Administración del Estado;7331920
+2017;18107;70;;;De la Administración del Estado;6935040
+2017;18108;70;;;De la Administración del Estado;30000
+2017;18301;70;;;De la Administración del Estado;6100000
+2017;18302;70;;;De la Administración del Estado;3039620
+2017;18401;70;;;De la Administración del Estado;424570
+2017;19101;70;;;De la Administración del Estado;11491770
+2017;19104;70;;;De la Administración del Estado;925000
+2017;19301;70;;;De la Administración del Estado;41940
+2017;20101;70;;;De la Administración del Estado;34977490
+2017;20104;70;;;De la Administración del Estado;29949870
+2017;23101;70;;;De la Administración del Estado;23011080
+2017;23102;70;;;De la Administración del Estado;11000000
+2017;23103;70;;;De la Administración del Estado;11500000
+2017;23105;70;;;De la Administración del Estado;8142440
+2017;23106;70;;;De la Administración del Estado;12000000
+2017;23107;70;;;De la Administración del Estado;9770000
+2017;23108;70;;;De la Administración del Estado;12000000
+2017;23109;70;;;De la Administración del Estado;7000000
+2017;23112;70;;;De la Administración del Estado;574800
+2017;23113;70;;;De la Administración del Estado;748810
+2017;23114;70;;;De la Administración del Estado;29809660
+2017;23401;70;;;De la Administración del Estado;34658660
+2017;25101;70;;;De la Administración del Estado;8100
+2017;25102;70;;;De la Administración del Estado;50980
+2017;25103;70;;;De la Administración del Estado;13155270
+2017;25301;70;;;De la Administración del Estado;31200250
+2017;26101;70;;;De la Administración del Estado;207220
+2017;26105;70;;;De la Administración del Estado;247550
+2017;26106;70;;;De la Administración del Estado;12000
+2017;26107;70;;;De la Administración del Estado;365000
+2017;26108;70;;;De la Administración del Estado;80270
+2017;26109;70;;;De la Administración del Estado;387810
+2017;27101;70;;;De la Administración del Estado;24053120
+2017;27103;70;;;De la Administración del Estado;24139270
+2017;27104;70;;;De la Administración del Estado;3500000
+2017;27105;70;;;De la Administración del Estado;14210000
+2017;27106;70;;;De la Administración del Estado;1538000
+2017;27107;70;;;De la Administración del Estado;38054700
+2017;27109;70;;;De la Administración del Estado;2441360
+2017;27302;70;;;De la Administración del Estado;3749913710
+2017;27401;70;;;De la Administración del Estado;91282280
+2017;27402;70;;;De la Administración del Estado;590759820
+2017;60004;70;;;De la Administración del Estado;17826180
+2017;12301;700;;;Del departamento al que está adscrito;4512740
+2017;13101;700;;;Del departamento al que está adscrito;512300
+2017;14101;700;;;Del departamento al que está adscrito;24846680
+2017;15101;700;;;Del departamento al que está adscrito;771480
+2017;15102;700;;;Del departamento al que está adscrito;609200
+2017;15302;700;;;Del departamento al que está adscrito;31963320
+2017;15304;700;;;Del departamento al que está adscrito;210500
+2017;15401;700;;;Del departamento al que está adscrito;120110
+2017;17101;700;;;Del departamento al que está adscrito;490000
+2017;17102;700;;;Del departamento al que está adscrito;2020000
+2017;17402;700;;;Del departamento al que está adscrito;5080000
+2017;18101;700;;;Del departamento al que está adscrito;368820
+2017;18102;700;;;Del departamento al que está adscrito;495000
+2017;18103;700;;;Del departamento al que está adscrito;585000
+2017;18104;700;;;Del departamento al que está adscrito;4894280
+2017;18106;700;;;Del departamento al que está adscrito;7331920
+2017;18107;700;;;Del departamento al que está adscrito;6935040
+2017;18108;700;;;Del departamento al que está adscrito;30000
+2017;18301;700;;;Del departamento al que está adscrito;6100000
+2017;18302;700;;;Del departamento al que está adscrito;2600000
+2017;18401;700;;;Del departamento al que está adscrito;424570
+2017;19101;700;;;Del departamento al que está adscrito;11491770
+2017;19104;700;;;Del departamento al que está adscrito;925000
+2017;19301;700;;;Del departamento al que está adscrito;41940
+2017;20101;700;;;Del departamento al que está adscrito;34977490
+2017;20104;700;;;Del departamento al que está adscrito;29949870
+2017;23101;700;;;Del departamento al que está adscrito;23011080
+2017;23102;700;;;Del departamento al que está adscrito;11000000
+2017;23103;700;;;Del departamento al que está adscrito;11500000
+2017;23105;700;;;Del departamento al que está adscrito;8142440
+2017;23106;700;;;Del departamento al que está adscrito;12000000
+2017;23107;700;;;Del departamento al que está adscrito;9770000
+2017;23108;700;;;Del departamento al que está adscrito;12000000
+2017;23109;700;;;Del departamento al que está adscrito;7000000
+2017;23112;700;;;Del departamento al que está adscrito;574800
+2017;23113;700;;;Del departamento al que está adscrito;748810
+2017;23114;700;;;Del departamento al que está adscrito;29809660
+2017;23401;700;;;Del departamento al que está adscrito;34658660
+2017;25101;700;;;Del departamento al que está adscrito;8100
+2017;25102;700;;;Del departamento al que está adscrito;50980
+2017;25103;700;;;Del departamento al que está adscrito;13155270
+2017;25301;700;;;Del departamento al que está adscrito;31200250
+2017;26101;700;;;Del departamento al que está adscrito;207220
+2017;26105;700;;;Del departamento al que está adscrito;247550
+2017;26106;700;;;Del departamento al que está adscrito;12000
+2017;26107;700;;;Del departamento al que está adscrito;365000
+2017;26108;700;;;Del departamento al que está adscrito;80270
+2017;26109;700;;;Del departamento al que está adscrito;387810
+2017;27101;700;;;Del departamento al que está adscrito;24053120
+2017;27103;700;;;Del departamento al que está adscrito;24139270
+2017;27104;700;;;Del departamento al que está adscrito;3500000
+2017;27105;700;;;Del departamento al que está adscrito;14210000
+2017;27106;700;;;Del departamento al que está adscrito;1538000
+2017;27107;700;;;Del departamento al que está adscrito;38054700
+2017;27109;700;;;Del departamento al que está adscrito;2441360
+2017;27302;700;;;Del departamento al que está adscrito;3913710
+2017;27401;700;;;Del departamento al que está adscrito;90371840
+2017;27402;700;;;Del departamento al que está adscrito;590759820
+2017;60004;700;;;Del departamento al que está adscrito;1540000
+2017;15302;700;;00;Para gastos de inversiones;31963320
+2017;18102;700;;00;Para gastos de Capital del Programa de Enseñanzas Universitarias;470000
+2017;18106;700;;00;Para gastos de capital;3919420
+2017;23101;700;;00;De la Secretaria de Estado de Medio Ambiente para el desarrollo de sus actividades;21511080
+2017;23102;700;;00;Transferencia de la Dirección General del Agua;11000000
+2017;23106;700;;00;Transferencias de la Dirección General del Agua;12000000
+2017;23107;700;;00;Dirección General del Agua;9770000
+2017;23108;700;;00;Del Departamento al que esta adscrito;12000000
+2017;23109;700;;00;Transferencias de la Dirección General del Agua;7000000
+2017;23112;700;;00;Para gastos de capital.;574800
+2017;23114;700;;00;Para gastos de capital;18148230
+2017;27103;700;;00;Para gastos de capital;24139270
+2017;27105;700;;00;Para gastos de capital;14160000
+2017;27106;700;;00;Del Departamento a que está adscrito;1383000
+2017;27107;700;;00;Para gastos de capital;38054700
+2017;27401;700;;00;Para gastos de capital;90072840
+2017;27402;700;;00;Del departamento al que está adscrito;590759820
+2017;18102;700;;01;Para gastos de Capital del Programa de Cooperación, promoción y difusión educativa en el exterior;25000
+2017;18106;700;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;3412500
+2017;23101;700;;01;De la Secretaria de Estado de Medio Ambiente para Plan PIMA ADAPTA. Ingresos procedentes de subastas de derechos de emisión;1500000
+2017;27105;700;;01;Para inversiones de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;50000
+2017;27106;700;;01;Para los gastos de la partitipación española en el Comité Polar y para el Banco Nacional de Datos Polares;155000
+2017;23114;700;;03;Para el programa nacional de desarrollo rural;11661430
+2017;27401;700;;04;Para inversiones de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;139000
+2017;14101;700;;05;Para investigación científica e información de base;20030270
+2017;27401;700;;05;Para gastos de inversión del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);160000
+2017;14101;700;;06;Para el proyecto Galileo;4816410
+2017;15107;701;;;De otros departamentos ministeriales;1124560
+2017;18302;701;;;De otros departamentos ministeriales;439620
+2017;27401;701;;;De otros departamentos ministeriales;910440
+2017;60004;701;;;De otros departamentos ministeriales;16286180
+2017;27401;701;;00;Del Ministerio de Fomento. Estudio base herramientas Código Técnico de la Edificación;900000
+2017;27401;701;;01;Del Ministerio de Educación, Cultura y Deporte para el Centro Nacional de Investigaciones Metalúrgicas;10440
+2017;18105;702/18105;;;Del departamento al que está adscrito;25072430
+2017;27302;702/27302;;;Para la compensación del sistema eléctrico;3746000000
+2017;27302;702/27302;;00;Para financiar costes del sector eléctrico de acuerdo con el apartado b) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;360000000
+2017;27302;702/27302;;01;Para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;2650000000
+2017;27302;702/27302;;02;Para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico;736000000
+2017;12401;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;11070250
+2017;27106;71;;;De Organismos Autónomos;75000
+2017;27401;71;;;De Organismos Autónomos;57300
+2017;98001;71;;;De Organismos Autónomos;11220500
+2017;27106;710;;;Transferencias de capital de organismos autónomos;75000
+2017;27401;710;;;Transferencias de capital de organismos autónomos;57300
+2017;27401;710;;03;Del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) para realización de trabajos relativos a los efectos de la contaminación atmosférica sobre la vegetación.;28650
+2017;27401;710;;04;Del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) para realización de trabajos relativos a los efectos de la contaminación atmosférica sobre la vegetación (para anualidad 2016);28650
+2017;98001;711;;;"Del FEGA ""Ayudas de Desarrollo Rural""";11220500
+2017;60004;72;;;De la Seguridad Social;719313970
+2017;60004;720;;;Transferencias de capital de la Seguridad Social;719313970
+2017;98001;73;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;60000
+2017;98001;736;;;De otros organismos públicos;60000
+2017;27106;74;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;500000
+2017;27106;740;;;Sociedades mercantiles estatales;500000
+2017;14101;75;;;De Comunidades Autónomas;100000
+2017;23102;75;;;De Comunidades Autónomas;692060
+2017;23109;75;;;De Comunidades Autónomas;1600000
+2017;27105;75;;;De Comunidades Autónomas;1000000
+2017;27106;75;;;De Comunidades Autónomas;150000
+2017;27401;75;;;De Comunidades Autónomas;13000000
+2017;23102;750/23102;;;De Comunidades Autónomas;692060
+2017;23109;750/23109;;;De Comunidades Autónomas;1600000
+2017;27105;750/27105;;;De Comunidades Autónomas;1000000
+2017;27106;750/27106;;;De comunidades autónomas;150000
+2017;27401;750/27401;;;Para ejecución de proyectos de investigación;13000000
+2017;27401;750/27401;;01;Para ejecución proyectos I+D+I;10500000
+2017;27401;750/27401;;02;Para ayudas contratación;2500000
+2017;14101;759;;;Otras transferencias de capital;100000
+2017;14101;759;;01;De la Agencia Gallega de Innovación;100000
+2017;16102;76;;;De Entidades Locales;2000000
+2017;23102;76;;;De Entidades Locales;3579520
+2017;23105;76;;;De Entidades Locales;6990430
+2017;23108;76;;;De Entidades Locales;949000
+2017;23109;76;;;De Entidades Locales;30000
+2017;23110;76;;;De Entidades Locales;1000000
+2017;27106;76;;;De Entidades Locales;200000
+2017;16102;760;;;De Ayuntamientos;2000000
+2017;23102;760;;;De Ayuntamientos;3579520
+2017;23108;760;;;De Ayuntamientos;350000
+2017;23109;760;;;De Ayuntamientos;30000
+2017;23108;761;;;De Diputaciones y Cabildos Insulares;599000
+2017;23110;761;;;De Diputaciones y Cabildos Insulares;1000000
+2017;27106;761;;;De Diputaciones y Cabildos Insulares;200000
+2017;23105;769;;;Otras transferencias de capital;6990430
+2017;27107;77;;;De empresas privadas;75000000
+2017;27401;77;;;De empresas privadas;3500000
+2017;27107;772;;;De empresas;75000000
+2017;27401;779;;;De empresas privadas;3500000
+2017;27107;78;;;De familias e instituciones sin fines de lucro;6809190
+2017;27401;78;;;De familias e instituciones sin fines de lucro;5000000
+2017;27401;780;;;De familias e instituciones sin fines de lucro;5000000
+2017;27107;782;;;Ayudas a la investigación;6809190
+2017;12401;79;;;Del exterior;28041340
+2017;20104;79;;;Del exterior;4100000
+2017;23103;79;;;Del exterior;11000000
+2017;23106;79;;;Del exterior;5000000
+2017;23107;79;;;Del exterior;300000
+2017;23108;79;;;Del exterior;651570
+2017;23110;79;;;Del exterior;6742630
+2017;23111;79;;;Del exterior;33455000
+2017;23114;79;;;Del exterior;1073220500
+2017;27104;79;;;Del exterior;500000
+2017;27105;79;;;Del exterior;8215540
+2017;27106;79;;;Del exterior;127000
+2017;27107;79;;;Del exterior;22400000
+2017;27401;79;;;Del exterior;48000000
+2017;27402;79;;;Del exterior;250000
+2017;60004;79;;;Del exterior;267540
+2017;98001;79;;;Del exterior;1343217640
+2017;20104;790;;;Fondo Europeo de Desarrollo Regional;4100000
+2017;23106;790;;;Fondo Europeo de Desarrollo Regional;5000000
+2017;23107;790;;;Fondo Europeo de Desarrollo Regional;300000
+2017;23108;790;;;Fondo Europeo de Desarrollo Regional;350000
+2017;23110;790;;;Fondo Europeo de Desarrollo Regional;2742630
+2017;23111;790;;;Fondo Europeo de Desarrollo Regional;19532000
+2017;27105;790;;;Fondo Europeo de Desarrollo Regional;4000000
+2017;27107;790;;;Fondo Europeo de Desarrollo Regional;19400000
+2017;27401;790;;;Fondo Europeo de Desarrollo Regional;10000000
+2017;27402;790;;;Fondo Europeo de Desarrollo Regional;200000
+2017;60004;790;;;Fondo Europeo de Desarrollo Regional;267540
+2017;98001;790;;;Fondo Europeo de Desarrollo Regional;1316745610
+2017;23103;791;;;Fondo de Cohesión;11000000
+2017;23108;791;;;Fondo de Cohesión;240000
+2017;23110;791;;;Fondo de Cohesión;4000000
+2017;23111;791;;;Fondo de Cohesión;13923000
+2017;98001;791;;;Fondo de Cohesión;6532030
+2017;27105;792;;;Fondo Europeo de la Pesca y otros recursos agrícolas y pesqueros;2715540
+2017;98001;792;;;Fondo Europeo de la Pesca y otros recursos agrícolas y pesqueros;19940000
+2017;23114;793;;;Fondo Europeo Agrícola de Desarrollo Rural (FEADER);1073220500
+2017;27402;794;;;Fondo Social Europeo;50000
+2017;23108;795;;;Otras transferencias de la Unión Europea;61570
+2017;27104;795;;;Otras transferencias de la Unión Europea;500000
+2017;27105;795;;;Otras transferencias de la Unión Europea;1500000
+2017;27106;795;;;Otras transferencias de la Unión Europea;127000
+2017;27401;795;;;Otras transferencias de la Unión Europea;38000000
+2017;27107;796;;;Fondo Social Europeo;3000000
+2017;12401;799;;;Otras transferencias;28041340
+2017;12401;799;;10;Transferencias UE para Proyectos de Cooperación Delegada en Nicaragua;20262790
+2017;12401;799;;13;Transferencias UE para Proyectos de Cooperación Delegada en Honduras;2392730
+2017;12401;799;;15;Transferencias UE para Proyectos de Cooperación Delegada en Cuba;528130
+2017;12401;799;;16;Transferencias UE para Proyectos de Cooperación Delegada en LAIF Regional;750000
+2017;12401;799;;17;Transferencias UE para Proyectos de Cooperación Delegada Región SICA;900000
+2017;12401;799;;20;Transferencias UE para Proyectos de Cooperación Delegada en Filipinas;281430
+2017;12401;799;;21;Transferencias UE para Proyectos de Cooperación Delegada en Senegal;1183500
+2017;12401;799;;23;Transferencias UE para Proyectos de Cooperación Delegada en Mali;284000
+2017;12401;799;;24;Transferencias UE para Proyectos de Cooperación Delegada en Jordania;938130
+2017;12401;799;;26;Transferencias UE para Proyectos de Cooperación Delegada en El Salvador;98400
+2017;12401;799;;27;Transferencias UE para Proyectos de Cooperación Delegada en Ecuador;422230
+2017;12301;8;;;ACTIVOS FINANCIEROS;2065560
+2017;12401;8;;;ACTIVOS FINANCIEROS;12010
+2017;13101;8;;;ACTIVOS FINANCIEROS;3660190
+2017;13102;8;;;ACTIVOS FINANCIEROS;4000
+2017;13301;8;;;ACTIVOS FINANCIEROS;5074070
+2017;14101;8;;;ACTIVOS FINANCIEROS;20066170
+2017;14107;8;;;ACTIVOS FINANCIEROS;26704630
+2017;14113;8;;;ACTIVOS FINANCIEROS;160000
+2017;15101;8;;;ACTIVOS FINANCIEROS;7972520
+2017;15102;8;;;ACTIVOS FINANCIEROS;7035450
+2017;15104;8;;;ACTIVOS FINANCIEROS;3990120
+2017;15106;8;;;ACTIVOS FINANCIEROS;180300
+2017;15107;8;;;ACTIVOS FINANCIEROS;2102100
+2017;15301;8;;;ACTIVOS FINANCIEROS;875000
+2017;15302;8;;;ACTIVOS FINANCIEROS;15620000
+2017;15304;8;;;ACTIVOS FINANCIEROS;3000
+2017;15401;8;;;ACTIVOS FINANCIEROS;230660
+2017;16101;8;;;ACTIVOS FINANCIEROS;1021720
+2017;16102;8;;;ACTIVOS FINANCIEROS;6050580
+2017;17101;8;;;ACTIVOS FINANCIEROS;198110
+2017;17102;8;;;ACTIVOS FINANCIEROS;799890
+2017;17401;8;;;ACTIVOS FINANCIEROS;15000
+2017;18101;8;;;ACTIVOS FINANCIEROS;4646520
+2017;18102;8;;;ACTIVOS FINANCIEROS;814320
+2017;18103;8;;;ACTIVOS FINANCIEROS;13354000
+2017;18104;8;;;ACTIVOS FINANCIEROS;2563000
+2017;18105;8;;;ACTIVOS FINANCIEROS;18085420
+2017;18106;8;;;ACTIVOS FINANCIEROS;9219090
+2017;18107;8;;;ACTIVOS FINANCIEROS;16045720
+2017;18108;8;;;ACTIVOS FINANCIEROS;1796600
+2017;18301;8;;;ACTIVOS FINANCIEROS;5016580
+2017;18302;8;;;ACTIVOS FINANCIEROS;1551490
+2017;18401;8;;;ACTIVOS FINANCIEROS;12490
+2017;19101;8;;;ACTIVOS FINANCIEROS;794000
+2017;19102;8;;;ACTIVOS FINANCIEROS;79289290
+2017;19104;8;;;ACTIVOS FINANCIEROS;2078710
+2017;19301;8;;;ACTIVOS FINANCIEROS;495890
+2017;20101;8;;;ACTIVOS FINANCIEROS;105982030
+2017;20102;8;;;ACTIVOS FINANCIEROS;8635560
+2017;20104;8;;;ACTIVOS FINANCIEROS;7015000
+2017;20302;8;;;ACTIVOS FINANCIEROS;65000
+2017;23101;8;;;ACTIVOS FINANCIEROS;1194570
+2017;23102;8;;;ACTIVOS FINANCIEROS;50000
+2017;23103;8;;;ACTIVOS FINANCIEROS;13606580
+2017;23104;8;;;ACTIVOS FINANCIEROS;15913350
+2017;23105;8;;;ACTIVOS FINANCIEROS;6232240
+2017;23106;8;;;ACTIVOS FINANCIEROS;-192410
+2017;23107;8;;;ACTIVOS FINANCIEROS;3522570
+2017;23108;8;;;ACTIVOS FINANCIEROS;10529640
+2017;23109;8;;;ACTIVOS FINANCIEROS;71050
+2017;23110;8;;;ACTIVOS FINANCIEROS;15494000
+2017;23111;8;;;ACTIVOS FINANCIEROS;22828620
+2017;23112;8;;;ACTIVOS FINANCIEROS;1492300
+2017;23113;8;;;ACTIVOS FINANCIEROS;18160
+2017;23114;8;;;ACTIVOS FINANCIEROS;13648500
+2017;23401;8;;;ACTIVOS FINANCIEROS;32656150
+2017;25101;8;;;ACTIVOS FINANCIEROS;838690
+2017;25102;8;;;ACTIVOS FINANCIEROS;2166090
+2017;25103;8;;;ACTIVOS FINANCIEROS;10392220
+2017;25301;8;;;ACTIVOS FINANCIEROS;282000
+2017;25401;8;;;ACTIVOS FINANCIEROS;18836500
+2017;26101;8;;;ACTIVOS FINANCIEROS;870310
+2017;26105;8;;;ACTIVOS FINANCIEROS;168890
+2017;26106;8;;;ACTIVOS FINANCIEROS;36510
+2017;26107;8;;;ACTIVOS FINANCIEROS;855700
+2017;26108;8;;;ACTIVOS FINANCIEROS;717950
+2017;26109;8;;;ACTIVOS FINANCIEROS;8043100
+2017;26401;8;;;ACTIVOS FINANCIEROS;65080000
+2017;27101;8;;;ACTIVOS FINANCIEROS;11900940
+2017;27102;8;;;ACTIVOS FINANCIEROS;20000
+2017;27103;8;;;ACTIVOS FINANCIEROS;17707150
+2017;27104;8;;;ACTIVOS FINANCIEROS;28802270
+2017;27105;8;;;ACTIVOS FINANCIEROS;12554710
+2017;27106;8;;;ACTIVOS FINANCIEROS;2227140
+2017;27107;8;;;ACTIVOS FINANCIEROS;226000
+2017;27109;8;;;ACTIVOS FINANCIEROS;4200
+2017;27302;8;;;ACTIVOS FINANCIEROS;3343750
+2017;27401;8;;;ACTIVOS FINANCIEROS;58713750
+2017;60004;8;;;ACTIVOS FINANCIEROS;8748309850
+2017;98001;8;;;ACTIVOS FINANCIEROS;2368625810
+2017;60004;80;;;Enajenación de deuda del Sector Público;597731540
+2017;60004;800;;;Enajenación de deuda del Sector Público a corto plazo;224508250
+2017;60004;801;;;Enajenación de deuda del Sector Público a largo plazo;373223290
+2017;60004;81;;;Enajenación de obligaciones y bonos de fuera del Sector Público;6551360
+2017;60004;810;;;Enajenación de obligaciones y bonos de fuera del Sector Público a corto plazo;4551360
+2017;60004;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo;2000000
+2017;23103;82;;;Reintegros de préstamos concedidos al Sector Público;30000
+2017;98001;82;;;Reintegros de préstamos concedidos al Sector Público;813858350
+2017;23103;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo;30000
+2017;98001;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo;813858350
+2017;98001;821;;04;A las  sociedades mercantiles estatales, entidades empresariales y otros organismos públicos;813858350
+2017;12301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;40000
+2017;12401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12010
+2017;13102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;4000
+2017;13301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;22800
+2017;14101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;400000
+2017;14107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;106000
+2017;14113;83;;;Reintegros de préstamos concedidos fuera del Sector Público;110000
+2017;15101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71480
+2017;15102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2017;15106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;180300
+2017;15107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;102100
+2017;15302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;620000
+2017;15304;83;;;Reintegros de préstamos concedidos fuera del Sector Público;3000
+2017;16101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1021720
+2017;16102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10000
+2017;17101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;38320
+2017;17401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2017;18101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15130
+2017;18102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;22000
+2017;18103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;54000
+2017;18104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;63000
+2017;18105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;27000
+2017;18106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1969090
+2017;18107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;280000
+2017;18301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2017;18302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;51490
+2017;18401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12490
+2017;19101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;794000
+2017;19102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;147120
+2017;19104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;86710
+2017;19301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;26550
+2017;20102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60000
+2017;20104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2017;20302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;65000
+2017;23101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10000
+2017;23102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2017;23103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2017;23104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;45000
+2017;23105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;125200
+2017;23106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;35000
+2017;23107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;16660
+2017;23108;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2017;23109;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71050
+2017;23110;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2017;23111;83;;;Reintegros de préstamos concedidos fuera del Sector Público;80000
+2017;23112;83;;;Reintegros de préstamos concedidos fuera del Sector Público;17330
+2017;23113;83;;;Reintegros de préstamos concedidos fuera del Sector Público;18160
+2017;23114;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2017;23401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;104420
+2017;25101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10030
+2017;25102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2017;25103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;440000
+2017;25301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;282000
+2017;25401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;105000
+2017;26101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;29950
+2017;26105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;25000
+2017;26106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6510
+2017;26107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;23710
+2017;26108;83;;;Reintegros de préstamos concedidos fuera del Sector Público;5470
+2017;26109;83;;;Reintegros de préstamos concedidos fuera del Sector Público;55000
+2017;26401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;80000
+2017;27101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;247620
+2017;27102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2017;27103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;125000
+2017;27104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;87270
+2017;27105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;16000
+2017;27106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;70000
+2017;27107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;201000
+2017;27109;83;;;Reintegros de préstamos concedidos fuera del Sector Público;4200
+2017;27302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60400
+2017;27401;83;;;Reintegros de préstamos concedidos fuera del Sector Público;120000
+2017;60004;83;;;Reintegros de préstamos concedidos fuera del Sector Público;17701400
+2017;98001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1554767460
+2017;12301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;40000
+2017;12401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3010
+2017;13301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;22800
+2017;14107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;106000
+2017;14113;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2017;15101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;71480
+2017;15102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;50000
+2017;15106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;80300
+2017;15302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;620000
+2017;15304;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3000
+2017;16101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;120200
+2017;17101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;38320
+2017;18101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15130
+2017;18102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12000
+2017;18103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2017;18105;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27000
+2017;18106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;11530
+2017;18107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;280000
+2017;18301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2017;19102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;117070
+2017;19301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13280
+2017;20102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;60000
+2017;20302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;65000
+2017;23101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2017;23102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;24000
+2017;23103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2017;23106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;5000
+2017;23107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;16660
+2017;23108;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2017;23109;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27330
+2017;23110;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2017;23112;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;17330
+2017;23113;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;18160
+2017;23114;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2017;25101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10030
+2017;25102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2017;25103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;40000
+2017;25301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;282000
+2017;25401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2017;26401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;80000
+2017;27102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2017;27103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;75000
+2017;27104;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27270
+2017;27105;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;1000
+2017;27106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;35000
+2017;27107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;26000
+2017;27302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10400
+2017;27401;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;120000
+2017;60004;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15203790
+2017;23107;830;;00;Reintegros de anticipos al personal.;16660
+2017;12301;830;;08;A familias e instituciones sin fines de lucro;40000
+2017;13301;830;;08;A familias e instituciones sin fines de lucro;22800
+2017;14107;830;;08;A familias e instituciones sin fines de lucro;106000
+2017;15101;830;;08;A familias e instituciones sin fines de lucro;71480
+2017;15102;830;;08;A familias e instituciones sin fines de lucro;50000
+2017;15302;830;;08;A familias e instituciones sin fines de lucro;620000
+2017;15304;830;;08;A familias e instituciones sin fines de lucro;3000
+2017;17101;830;;08;A familias e instituciones sin fines de lucro;38320
+2017;18101;830;;08;A familias e instituciones sin fines de lucro;15130
+2017;18102;830;;08;A familias e instituciones sin fines de lucro;12000
+2017;18103;830;;08;A familias e instituciones sin fines de lucro;10000
+2017;18105;830;;08;A familias e instituciones sin fines de lucro;27000
+2017;18106;830;;08;A familias e instituciones sin fines de lucro;11530
+2017;18107;830;;08;A familias e instituciones sin fines de lucro;280000
+2017;18301;830;;08;A familias e instituciones sin fines de lucro;100000
+2017;19102;830;;08;A familias e instituciones sin fines de lucro;117070
+2017;19301;830;;08;A familias e instituciones sin fines de lucro;13280
+2017;20102;830;;08;A familias e instituciones sin fines de lucro;60000
+2017;20302;830;;08;A familias e instituciones sin fines de lucro;65000
+2017;23108;830;;08;A familias e instituciones sin fines de lucro;10000
+2017;23113;830;;08;A familias e instituciones sin fines de lucro;18160
+2017;25103;830;;08;A familias e instituciones sin fines de lucro;40000
+2017;25301;830;;08;A familias e instituciones sin fines de lucro;282000
+2017;26401;830;;08;A familias e instituciones sin fines de lucro;80000
+2017;27102;830;;08;A familias e instituciones sin fines de lucro;20000
+2017;27103;830;;08;A familias e instituciones sin fines de lucro;75000
+2017;27104;830;;08;A familias e instituciones sin fines de lucro;27270
+2017;27302;830;;08;A familias e instituciones sin fines de lucro;10400
+2017;27401;830;;08;A familias e instituciones sin fines de lucro;120000
+2017;12401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;9000
+2017;13102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4000
+2017;14101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;400000
+2017;14113;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2017;15106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;100000
+2017;15107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;102100
+2017;16101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;901520
+2017;16102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2017;17401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;15000
+2017;18102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2017;18103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;44000
+2017;18104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;63000
+2017;18106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;1957560
+2017;18302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;51490
+2017;18401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;12490
+2017;19101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;794000
+2017;19102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30050
+2017;19104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;86710
+2017;19301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;13270
+2017;20104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;15000
+2017;23102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;26000
+2017;23103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2017;23104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;45000
+2017;23105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;125200
+2017;23106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30000
+2017;23108;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;5000
+2017;23109;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;43720
+2017;23110;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;70000
+2017;23111;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;80000
+2017;23401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;104420
+2017;25103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;400000
+2017;25401;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;85000
+2017;26101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;29950
+2017;26105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25000
+2017;26106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6510
+2017;26107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;23710
+2017;26108;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;5470
+2017;26109;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;55000
+2017;27101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;247620
+2017;27103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;50000
+2017;27104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2017;27105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;15000
+2017;27106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;35000
+2017;27107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;175000
+2017;27109;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4200
+2017;27302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;50000
+2017;60004;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;2497610
+2017;98001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;1554767460
+2017;98001;831;;07;A las empresas privadas;1479767460
+2017;13102;831;;08;A familias e Instituciones sin fines de lucro;4000
+2017;14101;831;;08;A familias e Instituciones sin fines de lucro;400000
+2017;15107;831;;08;A familias e Instituciones sin fines de lucro;102100
+2017;16101;831;;08;A familias e Instituciones sin fines de lucro;901520
+2017;16102;831;;08;A familias e Instituciones sin fines de lucro;10000
+2017;17401;831;;08;A familias e Instituciones sin fines de lucro;15000
+2017;18102;831;;08;A familias e Instituciones sin fines de lucro;10000
+2017;18103;831;;08;A familias e Instituciones sin fines de lucro;44000
+2017;18104;831;;08;A familias e Instituciones sin fines de lucro;63000
+2017;18302;831;;08;A familias e Instituciones sin fines de lucro;51490
+2017;18401;831;;08;A familias e Instituciones sin fines de lucro;12490
+2017;19101;831;;08;A familias e Instituciones sin fines de lucro;794000
+2017;19102;831;;08;A familias e Instituciones sin fines de lucro;30050
+2017;19104;831;;08;A familias e Instituciones sin fines de lucro;86710
+2017;19301;831;;08;A familias e Instituciones sin fines de lucro;13270
+2017;20104;831;;08;A familias e Instituciones sin fines de lucro;15000
+2017;23102;831;;08;A familias e Instituciones sin fines de lucro;26000
+2017;23103;831;;08;A familias e Instituciones sin fines de lucro;60000
+2017;23104;831;;08;A familias e Instituciones sin fines de lucro;45000
+2017;23105;831;;08;A familias e Instituciones sin fines de lucro;125200
+2017;23106;831;;08;A familias e Instituciones sin fines de lucro;30000
+2017;23108;831;;08;A familias e Instituciones sin fines de lucro;5000
+2017;23109;831;;08;A familias e Instituciones sin fines de lucro;43720
+2017;23110;831;;08;A familias e Instituciones sin fines de lucro;70000
+2017;23111;831;;08;A familias e Instituciones sin fines de lucro;80000
+2017;25103;831;;08;A familias e Instituciones sin fines de lucro;400000
+2017;25401;831;;08;A familias e Instituciones sin fines de lucro;85000
+2017;26101;831;;08;A familias e Instituciones sin fines de lucro;29950
+2017;26105;831;;08;A familias e Instituciones sin fines de lucro;25000
+2017;26106;831;;08;A familias e Instituciones sin fines de lucro;6510
+2017;26107;831;;08;A familias e Instituciones sin fines de lucro;23710
+2017;26108;831;;08;A familias e Instituciones sin fines de lucro;5470
+2017;26109;831;;08;A familias e Instituciones sin fines de lucro;55000
+2017;27101;831;;08;A familias e Instituciones sin fines de lucro;247620
+2017;27103;831;;08;A familias e Instituciones sin fines de lucro;50000
+2017;27104;831;;08;A familias e Instituciones sin fines de lucro;60000
+2017;27105;831;;08;A familias e Instituciones sin fines de lucro;15000
+2017;27106;831;;08;A familias e Instituciones sin fines de lucro;35000
+2017;27109;831;;08;A familias e Instituciones sin fines de lucro;4200
+2017;27302;831;;08;A familias e Instituciones sin fines de lucro;50000
+2017;98001;831;;08;A familias e Instituciones sin fines de lucro;75000000
+2017;14113;84;;;Devolución de depósitos y fianzas;50000
+2017;27107;84;;;Devolución de depósitos y fianzas;25000
+2017;60004;84;;;Devolución de depósitos y fianzas;5559630
+2017;27107;840;;;Devolución de depósitos;25000
+2017;60004;840;;;Devolución de depósitos;1632940
+2017;14113;841;;;Devolución de fianzas;50000
+2017;60004;841;;;Devolución de fianzas;3926690
+2017;12301;87;;;Remanente de tesorería;2025560
+2017;13101;87;;;Remanente de tesorería;3660190
+2017;13301;87;;;Remanente de tesorería;5051270
+2017;14101;87;;;Remanente de tesorería;19666170
+2017;14107;87;;;Remanente de tesorería;26598630
+2017;15101;87;;;Remanente de tesorería;7901040
+2017;15102;87;;;Remanente de tesorería;6985450
+2017;15104;87;;;Remanente de tesorería;3990120
+2017;15107;87;;;Remanente de tesorería;2000000
+2017;15301;87;;;Remanente de tesorería;875000
+2017;15302;87;;;Remanente de tesorería;15000000
+2017;15401;87;;;Remanente de tesorería;230660
+2017;16102;87;;;Remanente de tesorería;6040580
+2017;17101;87;;;Remanente de tesorería;159790
+2017;17102;87;;;Remanente de tesorería;799890
+2017;18101;87;;;Remanente de tesorería;4631390
+2017;18102;87;;;Remanente de tesorería;792320
+2017;18103;87;;;Remanente de tesorería;13300000
+2017;18104;87;;;Remanente de tesorería;2500000
+2017;18105;87;;;Remanente de tesorería;18058420
+2017;18106;87;;;Remanente de tesorería;7250000
+2017;18107;87;;;Remanente de tesorería;15765720
+2017;18108;87;;;Remanente de tesorería;1796600
+2017;18301;87;;;Remanente de tesorería;4916580
+2017;18302;87;;;Remanente de tesorería;1500000
+2017;19102;87;;;Remanente de tesorería;79142170
+2017;19104;87;;;Remanente de tesorería;1992000
+2017;19301;87;;;Remanente de tesorería;469340
+2017;20101;87;;;Remanente de tesorería;105982030
+2017;20102;87;;;Remanente de tesorería;8575560
+2017;20104;87;;;Remanente de tesorería;7000000
+2017;23101;87;;;Remanente de tesorería;1184570
+2017;23103;87;;;Remanente de tesorería;13486580
+2017;23104;87;;;Remanente de tesorería;15868350
+2017;23105;87;;;Remanente de tesorería;6107040
+2017;23106;87;;;Remanente de tesorería;-227410
+2017;23107;87;;;Remanente de tesorería;3505910
+2017;23108;87;;;Remanente de tesorería;10514640
+2017;23110;87;;;Remanente de tesorería;15394000
+2017;23111;87;;;Remanente de tesorería;22748620
+2017;23112;87;;;Remanente de tesorería;1474970
+2017;23114;87;;;Remanente de tesorería;13548500
+2017;23401;87;;;Remanente de tesorería;32551730
+2017;25101;87;;;Remanente de tesorería;828660
+2017;25102;87;;;Remanente de tesorería;2154070
+2017;25103;87;;;Remanente de tesorería;9952220
+2017;25401;87;;;Remanente de tesorería;18731500
+2017;26101;87;;;Remanente de tesorería;840360
+2017;26105;87;;;Remanente de tesorería;143890
+2017;26106;87;;;Remanente de tesorería;30000
+2017;26107;87;;;Remanente de tesorería;831990
+2017;26108;87;;;Remanente de tesorería;712480
+2017;26109;87;;;Remanente de tesorería;7988100
+2017;26401;87;;;Remanente de tesorería;65000000
+2017;27101;87;;;Remanente de tesorería;11653320
+2017;27103;87;;;Remanente de tesorería;17582150
+2017;27104;87;;;Remanente de tesorería;28715000
+2017;27105;87;;;Remanente de tesorería;12538710
+2017;27106;87;;;Remanente de tesorería;2157140
+2017;27302;87;;;Remanente de tesorería;3283350
+2017;27401;87;;;Remanente de tesorería;58593750
+2017;60004;87;;;Remanente de tesorería;820622600
+2017;12301;870;;;Remanente de tesorería;2025560
+2017;13101;870;;;Remanente de tesorería;3660190
+2017;13301;870;;;Remanente de tesorería;5051270
+2017;14101;870;;;Remanente de tesorería;19666170
+2017;14107;870;;;Remanente de tesorería;26598630
+2017;15101;870;;;Remanente de tesorería;7901040
+2017;15102;870;;;Remanente de tesorería;6985450
+2017;15104;870;;;Remanente de tesorería;3990120
+2017;15107;870;;;Remanente de tesorería;2000000
+2017;15301;870;;;Remanente de tesorería;875000
+2017;15302;870;;;Remanente de tesorería;15000000
+2017;15401;870;;;Remanente de tesorería;230660
+2017;16102;870;;;Remanente de tesorería;6040580
+2017;17101;870;;;Remanente de tesorería;159790
+2017;17102;870;;;Remanente de tesorería;799890
+2017;18101;870;;;Remanente de tesorería;4631390
+2017;18102;870;;;Remanente de tesorería;792320
+2017;18103;870;;;Remanente de tesorería;13300000
+2017;18104;870;;;Remanente de tesorería;2500000
+2017;18105;870;;;Remanente de tesorería;18058420
+2017;18106;870;;;Remanente de tesorería;7250000
+2017;18107;870;;;Remanente de tesorería;15765720
+2017;18108;870;;;Remanente de tesorería;1796600
+2017;18301;870;;;Remanente de tesorería;4916580
+2017;18302;870;;;Remanente de tesorería;1500000
+2017;19102;870;;;Remanente de tesorería;79142170
+2017;19104;870;;;Remanente de tesorería;1992000
+2017;19301;870;;;Remanente de tesorería;469340
+2017;20101;870;;;Remanente de tesorería;105982030
+2017;20102;870;;;Remanente de tesorería;8575560
+2017;20104;870;;;Remanente de tesorería;7000000
+2017;23101;870;;;Remanente de tesorería;1184570
+2017;23103;870;;;Remanente de tesorería;13486580
+2017;23104;870;;;Remanente de tesorería;15868350
+2017;23105;870;;;Remanente de tesorería;6107040
+2017;23106;870;;;Remanente de tesorería;-227410
+2017;23107;870;;;Remanente de tesorería;3505910
+2017;23108;870;;;Remanente de tesorería;10514640
+2017;23110;870;;;Remanente de tesorería;15394000
+2017;23111;870;;;Remanente de tesorería;22748620
+2017;23112;870;;;Remanente de tesorería;1474970
+2017;23114;870;;;Remanente de tesorería;13548500
+2017;23401;870;;;Remanente de tesorería;32551730
+2017;25101;870;;;Remanente de tesorería;828660
+2017;25102;870;;;Remanente de tesorería;2154070
+2017;25103;870;;;Remanente de tesorería;9952220
+2017;25401;870;;;Remanente de tesorería;18731500
+2017;26101;870;;;Remanente de tesorería;840360
+2017;26105;870;;;Remanente de tesorería;143890
+2017;26106;870;;;Remanente de tesorería;30000
+2017;26107;870;;;Remanente de tesorería;831990
+2017;26108;870;;;Remanente de tesorería;712480
+2017;26109;870;;;Remanente de tesorería;7988100
+2017;26401;870;;;Remanente de tesorería;65000000
+2017;27101;870;;;Remanente de tesorería;11653320
+2017;27103;870;;;Remanente de tesorería;17582150
+2017;27104;870;;;Remanente de tesorería;28715000
+2017;27105;870;;;Remanente de tesorería;12538710
+2017;27106;870;;;Remanente de tesorería;2157140
+2017;27302;870;;;Remanente de tesorería;3283350
+2017;27401;870;;;Remanente de tesorería;58593750
+2017;60004;870;;;Remanente de tesorería;820622600
+2017;60004;89;;;Utilización de activos financieros afectos al Fondo de Reserva de la Seguridad Social y a otros Fondos del Sistema;7300143320
+2017;60004;890;;;Al Fondo de Reserva de la Seguridad Social;7300143320
+2017;14113;9;;;PASIVOS FINANCIEROS;70000
+2017;23102;9;;;PASIVOS FINANCIEROS;14500000
+2017;23103;9;;;PASIVOS FINANCIEROS;15000000
+2017;23105;9;;;PASIVOS FINANCIEROS;73182980
+2017;23109;9;;;PASIVOS FINANCIEROS;10000000
+2017;23110;9;;;PASIVOS FINANCIEROS;8000000
+2017;25103;9;;;PASIVOS FINANCIEROS;100000
+2017;60004;9;;;PASIVOS FINANCIEROS;10193000000
+2017;23102;91;;;Préstamos recibidos en euros;14500000
+2017;23103;91;;;Préstamos recibidos en euros;15000000
+2017;23105;91;;;Préstamos recibidos en euros;73182980
+2017;23109;91;;;Préstamos recibidos en euros;10000000
+2017;23110;91;;;Préstamos recibidos en euros;8000000
+2017;60004;91;;;Préstamos recibidos en euros;10193000000
+2017;60004;911;;;Préstamos recibidos a largo plazo de entes del Sector Público;10192000000
+2017;23105;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;73182980
+2017;23110;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;8000000
+2017;23102;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;14500000
+2017;23103;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;15000000
+2017;23109;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;10000000
+2017;60004;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;1000000
+2017;14113;94;;;Depósitos y fianzas recibidos;70000
+2017;25103;94;;;Depósitos y fianzas recibidos;100000
+2017;14113;940;;;Depósitos recibidos;20000
+2017;14113;941;;;Fianzas recibidas;50000
+2017;25103;941;;;Fianzas recibidas;100000

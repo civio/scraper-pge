@@ -1,0 +1,1977 @@
+EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA;DESCRIPCION LARGA
+2017;G;1;;;;;Gastos de personal
+2017;G;1;10;;;;Altos cargos
+2017;G;1;10;100;;;Retribuciones básicas y otras remuneraciones
+2017;G;1;10;101/02002;;;Asignación Constitucional Señores Diputados
+2017;G;1;10;101/02003;;;Asignación Constitucional Señores Senadores
+2017;G;1;10;101/02005;;;Retribuciones básicas y otras remuneraciones de Altos Cargos
+2017;G;1;11;;;;Personal eventual
+2017;G;1;11;110;;;Retribuciones básicas y otras remuneraciones
+2017;G;1;11;111;;;Personal eventual de las Cortes
+2017;G;1;12;;;;Funcionarios
+2017;G;1;12;120;;;Retribuciones básicas
+2017;G;1;12;121;;;Retribuciones complementarias
+2017;G;1;12;122;;;Retribuciones en especie
+2017;G;1;12;123;;;Indemnizaciones percibidas por destino en el extranjero
+2017;G;1;12;124;;;Retribuciones de funcionarios en prácticas
+2017;G;1;12;125/02001;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2017;G;1;12;125/02002;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2017;G;1;12;125/02005;;;Retribuciones básicas y complementarias de Funcionarios de las Cortes
+2017;G;1;12;125/13002;;;Para retribuir al personal sustituto de la Administración de Justicia
+2017;G;1;12;125/13003;;;Para retribuir al personal sustituto de la Administración de Justicia
+2017;G;1;12;125/13006;;;Para retribuir al personal sustituto de la Administración de Justicia
+2017;G;1;12;126;;;Retribuciones básicas y complementarias del CNI
+2017;G;1;12;127;;;Contribuciones a planes de pensiones
+2017;G;1;12;128;;;Gastos originados por participación de las Fuerzas Armadas en operaciones de mantenimiento de la paz
+2017;G;1;13;;;;Laborales
+2017;G;1;13;130;;;Laboral fijo
+2017;G;1;13;131;;;Laboral eventual
+2017;G;1;13;132;;;Retribuciones en especie
+2017;G;1;13;133;;;Laboral en el extranjero
+2017;G;1;13;135/02002;;;Retribuciones del personal laboral de las Cortes
+2017;G;1;13;135/02003;;;Retribuciones del personal laboral de las Cortes
+2017;G;1;13;135/02004;;;Retribuciones del personal laboral de la Junta Electoral Central
+2017;G;1;13;137;;;Contribuciones a planes de pensiones
+2017;G;1;14;;;;Otro personal
+2017;G;1;14;143;;;Otro personal
+2017;G;1;14;145;;;Otro Personal del Defensor del Pueblo
+2017;G;1;15;;;;Incentivos al rendimiento
+2017;G;1;15;150;;;Productividad
+2017;G;1;15;151;;;Gratificaciones
+2017;G;1;15;152/13102;;;Otros incentivos al rendimiento
+2017;G;1;15;152/14001;;;Productividad del Personal Estatutario
+2017;G;1;15;153;;;Complemento de dedicación especial
+2017;G;1;15;154/25103;;;Otras gratificaciones por Actos de Estado
+2017;G;1;15;154/26105;;;Productividad personal estatutario factor fijo
+2017;G;1;15;155/26105;;;Productividad personal estatutario factor variable.
+2017;G;1;15;155/31002;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio
+2017;G;1;16;;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2017;G;1;16;160;;;Cuotas sociales
+2017;G;1;16;162;;;Gastos sociales del personal
+2017;G;1;16;165;;;Cuotas, prestaciones y gastos sociales a cargo del empleador
+2017;G;2;;;;;Gastos corrientes en bienes y servicios
+2017;G;2;20;;;;Arrendamientos y cánones
+2017;G;2;20;200;;;Arrendamientos de terrenos y bienes naturales
+2017;G;2;20;201;;;Arrendamientos para almacenamiento de productos de intervención
+2017;G;2;20;202;;;Arrendamientos de edificios y otras construcciones
+2017;G;2;20;203;;;Arrendamientos de maquinaria, instalaciones y utillaje
+2017;G;2;20;204;;;Arrendamientos de medios de transporte
+2017;G;2;20;205;;;Arrendamientos de mobiliario y enseres
+2017;G;2;20;206;;;Arrendamientos de equipos para procesos de información
+2017;G;2;20;207;;;Alquileres
+2017;G;2;20;208;;;Arrendamientos de otro inmovilizado material
+2017;G;2;20;209;;;Cánones
+2017;G;2;21;;;;Reparaciones, mantenimiento y conservación
+2017;G;2;21;210;;;Infraestructura y bienes naturales
+2017;G;2;21;212;;;Edificios y otras construcciones
+2017;G;2;21;213;;;Maquinaria, instalaciones y utillaje
+2017;G;2;21;214;;;Elementos de transporte
+2017;G;2;21;215;;;Mobiliario y enseres
+2017;G;2;21;216;;;Equipos para procesos de la información
+2017;G;2;21;217;;;Gastos diversos de reparación y conservación
+2017;G;2;21;218;;;Bienes situados en el exterior
+2017;G;2;21;219;;;Otro inmovilizado material
+2017;G;2;22;;;;Material, suministros y otros
+2017;G;2;22;220;;;Material de oficina
+2017;G;2;22;221;;;Suministros
+2017;G;2;22;222;;;Comunicaciones
+2017;G;2;22;223;;;Transportes
+2017;G;2;22;224;;;Primas de seguros
+2017;G;2;22;225;;;Tributos
+2017;G;2;22;226;;;Gastos diversos
+2017;G;2;22;227;;;Trabajos realizados por otras empresas y profesionales
+2017;G;2;22;228/14003;;;Gastos originados por participación de las Fuerzas Armadas en operaciones de mantenimiento de la paz
+2017;G;2;22;228/16001;;;Fondo de prevención de emergencias derivado del artículo 11 de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil
+2017;G;2;22;229/12001;;;Obligaciones de ejercicios anteriores
+2017;G;2;22;229/16101;;;Labores Fábrica Nacional Moneda y Timbre. Obligaciones de ejercicios anteriores
+2017;G;2;22;229/18004;;;Gastos de funcionamiento de los centros docentes no universitarios
+2017;G;2;22;229/18005;;;Gastos de funcionamiento de los centros docentes no universitarios
+2017;G;2;22;229/18008;;;Gastos de funcionamiento de los centros docentes no universitarios
+2017;G;2;22;229/25001;;;Para los gastos del Centro Internacional de Prensa
+2017;G;2;23;;;;Indemnizaciones por razón del servicio
+2017;G;2;23;230;;;Dietas
+2017;G;2;23;231;;;Locomoción
+2017;G;2;23;232;;;Traslado
+2017;G;2;23;233;;;Otras indemnizaciones
+2017;G;2;23;234;;;Dietas, locomoción y otras indemnizaciones
+2017;G;2;24;;;;Gastos de publicaciones
+2017;G;2;24;240;;;Gastos de edición y distribución
+2017;G;2;25;;;;Conciertos de asistencia sanitaria
+2017;G;2;25;250;;;Con la Seguridad Social
+2017;G;2;25;251;;;Con entidades de seguro libre
+2017;G;2;25;259;;;Otros conciertos de asistencia sanitaria
+2017;G;2;26;;;;Servicios sociales con medios ajenos
+2017;G;2;27;;;;Compras, suministros y otros gastos relacionados con la actividad
+2017;G;2;27;270;;;Suministros de materias primas y otros suministros
+2017;G;2;27;271;;;Servicios prestados por empresas
+2017;G;2;27;272;;;Otros gastos directamente relacionados con la actividad de la Agencia
+2017;G;2;28;;;;Gastos relacionados con la actividad comercial
+2017;G;2;28;280;;;Gastos relacionados con la actividad comercial
+2017;G;3;;;;;Gastos financieros
+2017;G;3;30;;;;De deuda pública en euros
+2017;G;3;30;300;;;Intereses
+2017;G;3;30;301;;;Gastos de emisión, modificación y cancelación
+2017;G;3;30;303;;;Rendimientos implícitos
+2017;G;3;31;;;;De préstamos en euros
+2017;G;3;31;310;;;Intereses
+2017;G;3;31;311;;;Gastos de emisión, modificación y cancelación
+2017;G;3;31;319;;;Otros gastos financieros
+2017;G;3;32;;;;De deuda pública en moneda extranjera
+2017;G;3;32;320;;;Intereses
+2017;G;3;32;321;;;Gastos de emisión, modificación y cancelación
+2017;G;3;32;322;;;Diferencias de cambio
+2017;G;3;32;323;;;Rendimientos implícitos
+2017;G;3;33;;;;De préstamos en moneda extranjera
+2017;G;3;33;330;;;Intereses
+2017;G;3;33;331;;;Gastos de emision, modificacion y cancelacion
+2017;G;3;33;339;;;Otros gastos financieros
+2017;G;3;34;;;;De depósitos y fianzas
+2017;G;3;34;340;;;Intereses de depósitos
+2017;G;3;34;341;;;Intereses de fianzas
+2017;G;3;35;;;;Intereses de demora y otros gastos financieros
+2017;G;3;35;350;;;Intereses de demora y otros gastos financieros
+2017;G;3;35;351;;;Cobertura de riesgos en avales prestados por el Tesoro, incluidos los riesgos de ejercicios anteriores
+2017;G;3;35;352;;;Intereses de demora
+2017;G;3;35;353;;;Intereses de demora por Sentencias, Recursos y Reclamaciones, incluidas obligaciones de ejercicios anteriores
+2017;G;3;35;354;;;Liquidación de intereses de demora correspondientes al reconocimiento de diferencias salariales por sentencias y autos
+2017;G;3;35;355;;;Compensaciones derivadas de la ejecución de avales frente al Tesoro Público
+2017;G;3;35;358/12401;;;Intereses  de  demora  correspondientes  a liquidaciones  de ejercicios anteriores
+2017;G;3;35;358/23018;;;Intereses de demora correspondientes a liquidaciones de ejercicios anteriores.
+2017;G;3;35;358/27004;;;Remuneración negativa de fondos del Tesoro Público
+2017;G;3;35;358/34001;;;Intereses de demora a la Unión Europea, incluso obligaciones de ejercicios anteriores
+2017;G;3;35;359;;;Otros gastos financieros
+2017;G;4;;;;;Transferencias corrientes
+2017;G;4;40;;;;A la Administración del Estado
+2017;G;4;40;400/15104;;;A la Administración del Estado
+2017;G;4;40;400/16101;;;Al Estado, para generar crédito en el Ministerio del Interior, según la DIsposición adicional segunda de la Ley Orgánica 6/2011
+2017;G;4;40;400/19101;;;Reserva gestión directa Servicio Público de Empleo Estatal. Gestión de servicios y programas de políticas activas de empleo en colaboración con órganos de la Administración General del Estado
+2017;G;4;40;400/25401;;;Al Estado
+2017;G;4;40;400/26401;;;A la Administración del Estado
+2017;G;4;40;400/60002;;;A la Administración del Estado
+2017;G;4;40;401/16101;;;Al Estado
+2017;G;4;40;401/19101;;;Reserva gestión directa Servicio Público de Empleo Estatal. Cuotas de seguros de accidentes de alumnos, becas y/o ayudas a alumnos y subvenciones a centros y entidades de formación profesional para el empleo a parados, a órganos de la Administración General del Estado (EJE 2)
+2017;G;4;40;401/20102;;;A la Administración del Estado
+2017;G;4;40;401/60003;;;Colaboración recíproca entre la Tesorería General de la Seguridad Social y la Inspección de Trabajo y Seguridad Social
+2017;G;4;40;402;;;Al Estado, para compensar gastos de gestión centralizada
+2017;G;4;40;403/19101;;;Reserva gestión directa Servicio Público de Empleo Estatal. Gestión de servicios y programas de políticas activas de empleo en colaboración con órganos de la Administración General del Estado (EJE 3)
+2017;G;4;40;403/60003;;;Convenio de colaboración con el Ministerio del Interior para la persecución del fraude y la delincuencia
+2017;G;4;40;409;;;Por las transferencias a las Comunidades Autónomas en políticas activas de empleo
+2017;G;4;41;;;;A Organismos Autónomos
+2017;G;4;41;410/14003;;;A organismos autónomos del Departamento
+2017;G;4;41;410/15005;;;Al Instituto de Estudios Fiscales
+2017;G;4;41;410/16002;;;A la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado
+2017;G;4;41;410/17020;;;Centro de Estudios y Experimentación de Obras Públicas (CEDEX)
+2017;G;4;41;410/18001;;;Al Consejo Superior de Deportes
+2017;G;4;41;410/18006;;;A la Universidad Internacional Menéndez Pelayo
+2017;G;4;41;410/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Oportunidades de empleo y fomento de la contratación de desempleados en obras y servicios de interés general y social por organismos autónomos de la Administración General del Estado (EJE 3)
+2017;G;4;41;410/20018;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas
+2017;G;4;41;410/23004;;;Parques Nacionales
+2017;G;4;41;410/23005;;;Confederaciones Hidrográficas
+2017;G;4;41;410/23109;;;Confederación Hidrográfica del Tajo, gastos de explotación del trasvase Tajo-Segura.
+2017;G;4;41;410/25002;;;Al Centro de Estudios Políticos y Constitucionales
+2017;G;4;41;410/26015;;;Al Instituto de la Juventud para el cumplimiento de sus fines
+2017;G;4;41;410/27011;;;Al Instituto Geológico y Minero de España (IGME)
+2017;G;4;41;410/31004;;;Al Parque Móvil del Estado
+2017;G;4;41;411/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
+2017;G;4;41;411/18001;;;Al Consejo Superior de Deportes para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado
+2017;G;4;41;411/19101;;;Reserva gestión directa Servicio Público de Empleo Estatal. Servicios y programas de políticas activas de empleo. Oportunidades de empleo y formación. Consejo de Administración del Patrimonio Nacional (Ministerio de la Presidencia y para las Administraciones Territoriales) (EJE 2)
+2017;G;4;41;411/20004;;;Al Instituto de Turismo de España
+2017;G;4;41;411/23005;;;Confederaciones Hidrográficas  para el pago del IBI de bienes de titularidad estatal
+2017;G;4;41;411/23109;;;Centro Nacional de Información Geográfica
+2017;G;4;41;411/25002;;;Al Centro de Investigaciones Sociológicas.
+2017;G;4;41;411/26007;;;Al Instituto de Salud Carlos III para el desarrollo de las actividades de la Agencia de Evaluación de Tecnologías Sanitarias
+2017;G;4;41;411/26015;;;Al Consejo de la Juventud de España para el cumplimiento de sus fines
+2017;G;4;41;411/27011;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+2017;G;4;41;411/31002;;;"Aportación del Estado  a la Mutualidad General  de Funcionarios Civiles del Estado,  al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, al amparo de las siguientes Disposiciones: artículo 30.3 del Real Decreto Legislativo 1/2000,  de 9 de junio;  artículo 24 y Disposición Adicional 3ª.3 del Real Decreto Legislativo 3/2000, de 23 de junio y  artículo 35.3 del Real Decreto Legislativo  4/2000, de 23 de junio, incluidas obligaciones de ejercicios anteriores"
+2017;G;4;41;411/60003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo
+2017;G;4;41;412/17018;;;Centro Nacional de Información Geográfica (CNIG)
+2017;G;4;41;412/18006;;;A la Universidad Internacional Menéndez Pelayo para el Proyecto Aula de Verano
+2017;G;4;41;412/18009;;;A la Biblioteca Nacional
+2017;G;4;41;412/19003;;;Para financiar el presupuesto del Servicio Público de Empleo Estatal
+2017;G;4;41;412/20018;;;Al Instituto para la Reestructuración de la Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras
+2017;G;4;41;412/23011;;;Agencia de Información y Control Alimentario (AICA)
+2017;G;4;41;412/26004;;;A la Agencia Española de Consumo, Seguridad Alimentaria y Nutrición
+2017;G;4;41;412/27011;;;Al Instituto Español de Oceanografía (IEO)
+2017;G;4;41;412/27401;;;A la Universidad Internacional Menéndez Pelayo (UIMP) para el desarrollo de programas de postgrado
+2017;G;4;41;413/18006;;;A la Universidad Internacional Menéndez Pelayo para Cursos Institucionales de Verano
+2017;G;4;41;413/23011;;;Fondo Español de Garantía Agraria (FEGA)
+2017;G;4;41;413/27011;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
+2017;G;4;41;413/27401;;;Al Instituto Nacional de Técnicas Aeroespaciales Esteban Terradas (INTA)
+2017;G;4;41;414/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales
+2017;G;4;41;414/23001;;;Entidad Estatal de Seguros Agrarios (ENESA)
+2017;G;4;41;414/26009;;;A la Organización Nacional de Trasplantes
+2017;G;4;41;414/27011;;;Al Instituto de Salud Carlos III (ISCIII)
+2017;G;4;41;415/18006;;;Al Servicio Español para la Internacionalización de la Educación para la cofinanciación del Programa Erasmus+
+2017;G;4;41;415/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales. Dotación del Fondo de Protección a la Cinematografía
+2017;G;4;41;415/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo para el cumplimiento de sus fines.
+2017;G;4;41;415/19101;;;Al Instituto Nacional de Administración Pública, para la formación del personal al servicio de las Administraciones Públicas (EJE 2)
+2017;G;4;41;415/27003;;;Al Instituto Nacional de Estadística (INE)
+2017;G;4;41;416/18006;;;Al Servicio Español para la Internacionalización de la Educación
+2017;G;4;41;416/18009;;;Al Instituto Nacional de las Artes Escénicas y de la Música
+2017;G;4;41;416/19003;;;Para financiar el presupuesto de FOGASA
+2017;G;4;41;416/26015;;;Al Instituto de la Mujer y para la Igualdad de Oportunidades, para el cumplimiento de sus fines
+2017;G;4;41;416/27015;;;Al Centro Español de Metrología
+2017;G;4;41;417/18006;;;Al Servicio Español para la Internacionalización de la Educación, para la financiación del Plan Ejecutivo de Cooperación e Intercambio con la República Popular China
+2017;G;4;41;417/18009;;;A la Gerencia de Infraestructuras y Equipamientos
+2017;G;4;41;417/23005;;;Al CEDEX para I+D en recursos e infraestructuras hidráulicas
+2017;G;4;41;417/25002;;;Al Consejo de Administración del Patrimonio Nacional
+2017;G;4;41;418/15026;;;Al Instituto Nacional de Administración Pública (INAP)
+2017;G;4;41;418/18006;;;Al Servicio Español para la Internacionalización de la Educación, para potenciar la proyección internacional del sistema universitario español y su oferta, así como la movilidad interuniversitaria
+2017;G;4;41;419/18006;;;A la Agencia Nacional de Evaluación de la Calidad y Acreditación
+2017;G;4;41;419/26015;;;Al Real Patronato sobre Discapacidad para el cumplimiento de sus fines
+2017;G;4;41;419/60001;;;Otras transferencias
+2017;G;4;42;;;;A la Seguridad Social
+2017;G;4;42;420/07001;;;Aportación del Estado al Presupuesto de la Seguridad Social para dar cumplimiento a lo dispuesto en la disposición adicional tercera del Real Decreto Legislativo 8/2015, de 30 de octubre (Pensiones extraordinarias del personal de las Fuerzas Armadas y Fuerzas y Cuerpos de Seguridad del Estado)
+2017;G;4;42;420/19002;;;Prestaciones socio-económicas de carácter no contributivo.
+2017;G;4;42;421/26009;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones corrientes del Instituto Nacional de Gestión Sanitaria
+2017;G;4;42;421/60001;;;Aportaciones para el sostenimiento de servicios comunes
+2017;G;4;42;422/19003;;;Ayudas previas a la jubilación ordinaria a trabajadores mayores de 60 años en el sistema de la Seguridad Social.
+2017;G;4;42;422/26009;;;Aportación al Instituto Nacional de Gestión Sanitaria para compensación de saldos y gastos por la atención a pacientes derivados a otras comunidades autonomas para asegurar la cohesión del SNS
+2017;G;4;42;422/60001;;;Capitales renta
+2017;G;4;42;423/19002;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.
+2017;G;4;42;423/26009;;;Aportación al Instituto Nacional de Gestión Sanitaria para el desarrollo del PLAN DE CALIDAD DEL SISTEMA NACIONAL DE SALUD, en las Ciudades de CEUTA y MELILLA (por incremento de la población protegida)
+2017;G;4;42;423/60001;;;Cuotas de reaseguro de accidentes de trabajo
+2017;G;4;42;424;;;Al IMSERSO, para el cumplimiento de sus fines
+2017;G;4;42;425/26009;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago
+2017;G;4;42;425/26015;;;Al IMSERSO, para la cobertura de obligaciones de ejercicios anteriores por cuota sociales de cuidadores no profesionales en dependencia (SAAD) 
+2017;G;4;42;426;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM
+2017;G;4;42;427/26004;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina
+2017;G;4;42;427/26015;;;Al IMSERSO para mínimo garantizado en dependencia
+2017;G;4;42;428;;;Aplicaciones del Fondo de Prevención y Rehabilitación
+2017;G;4;42;429/19002;;;Otras aportaciones a la Seguridad Social.
+2017;G;4;42;429/26015;;;Al IMSERSO para otros gastos en dependencia
+2017;G;4;42;429/60001;;;Otras transferencias a entidades del sistema
+2017;G;4;42;429/60002;;;Otras transferencias corrientes
+2017;G;4;42;429/60003;;;Otras transferencias corrientes
+2017;G;4;43;;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo
+2017;G;4;43;430/02003;;;A Agencias Estatales y otros Organismos Públicos
+2017;G;4;43;430/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrrollo.
+2017;G;4;43;430/15026;;;A la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios (AEVAL)
+2017;G;4;43;430/18001;;;A la Agencia Española de Protección de la Salud en el Deporte
+2017;G;4;43;430/19101;;;Servicios y programas de políticas activas de empleo a desarrollar en el exterior. Oportunidades de empleo y formación. A la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) (EJE 2)
+2017;G;4;43;430/23004;;;Agencia Estatal de Meteorología
+2017;G;4;43;430/27011;;;Al Consejo Superior de Investigaciones Científicas (CSIC)
+2017;G;4;43;431/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio
+2017;G;4;43;431/17020;;;Agencia Estatal de Seguridad Ferroviaria
+2017;G;4;43;431/19101;;;Reserva gestión directa Servicio Público de Empleo Estatal. Consejo Superior de Investigaciones Científicas (Ministerio de Economía, Industria y Competitividad) Oportunidades de empleo para desempleados en obras y servicios de interés general y social (EJE 3)
+2017;G;4;43;431/26004;;;A la Agencia Española de Medicamentos y Productos Sanitarios
+2017;G;4;43;431/27011;;;A la Agencia Estatal de Investigación
+2017;G;4;43;435/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
+2017;G;4;43;435/16001;;;A la Agencia Estatal de Administración Tributaria, por los gastos comunes del edificio de la calle del Plomo en Madrid
+2017;G;4;43;435/19001;;;Al Consejo Económico y Social para el cumplimiento de sus fines
+2017;G;4;43;436;;;Al Consejo de Seguridad Nuclear
+2017;G;4;43;437/12003;;;Al Instituto Cervantes
+2017;G;4;43;437/15026;;;Al Consejo de Transparencia y Buen Gobierno
+2017;G;4;43;437/18009;;;Al Museo Nacional del Prado
+2017;G;4;43;437/25002;;;Al Centro Nacional de Inteligencia
+2017;G;4;43;437/27003;;;A la Comisión Nacional de los Mercados y la Competencia (CNMC)
+2017;G;4;43;438;;;Al Museo Nacional Centro de Arte Reina Sofía
+2017;G;4;44;;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal
+2017;G;4;44;440/02005;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de Entes del Sector Público
+2017;G;4;44;440/12004;;;Subvenciones a Organismos
+2017;G;4;44;440/12401;;;Instituciones adheridas en España
+2017;G;4;44;440/14001;;;Centros Universitarios de la Defensa
+2017;G;4;44;440/16001;;;A la Fundación Víctimas del Terrorismo para el desarrollo de sus actividades
+2017;G;4;44;440/17003;;;Sociedad Estatal Correos y Telégrafos S.A. para la prestación del Servicio Postal Universal. Pendiente de liquidación
+2017;G;4;44;440/17401;;;SENASA. Financiación déficit por acuerdo económico
+2017;G;4;44;440/18003;;;A la Fundación Residencia de Estudiantes para sus gastos de funcionamiento
+2017;G;4;44;440/18011;;;A la Fundación Thyssen Bornemisza en concepto de déficit dotable y para gastos de funcionamiento
+2017;G;4;44;440/18107;;;A la Fundación Teatro Real
+2017;G;4;44;440/19003;;;A la Fundación del Servicio Interconfederal de Mediación y Arbitraje (SIMA)
+2017;G;4;44;440/19007;;;Acciones en el ámbito migratorio. Ayudas a la UNED
+2017;G;4;44;440/20004;;;A la Sociedad Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A. (SEGITTUR)
+2017;G;4;44;440/20102;;;Subvención a la Fundación Escuela de Organización Industrial (EOI)
+2017;G;4;44;440/23001;;;Consorcio de Compensación de Seguros. Cobertura de pérdidas del Seguro Agrario Combinado.
+2017;G;4;44;440/23004;;;Convenio con la Fundación Biodiversidad para gastos corrientes de funcionamiento
+2017;G;4;44;440/23005;;;A la sociedad estatal Acuamed para el apoyo a la producción de agua desalada
+2017;G;4;44;440/23010;;;Convenio con la Fundación Biodiversidad para promover y facilitar la participación española en el Grupo Intergubernamental de Expertos sobre Cambio Climático (IPCC) y aumentar la sensibilización de la sociedad a través de acciones de divulgación de sus productos
+2017;G;4;44;440/23017;;;Ayudas a la fundación Biodiversidad para el mantenimiento de las actividades del Observatorio Español de Acuicultura (OESA)
+2017;G;4;44;440/23401;;;ENAIRE,  para compensar los costes de los vuelos exonerados
+2017;G;4;44;440/26107;;;A la Compañía Española de Reafianzamiento S.A. CERSA para realizar actuaciones de apoyo a mujeres emprendedoras
+2017;G;4;44;440/26109;;;Al Instituto de Crédito Oficial, para atender los gastos derivados de los costes del margen de intermediación de las entidades de crédito y el quebranto en la cesión de fondos derivados de la línea de mediación de anticipos a cuenta a los afectados de FORUM FILATÉLICO-AFINSA
+2017;G;4;44;440/27001;;;A la Fundación Escuela de Organización Industrial (EOI)
+2017;G;4;44;441/13001;;;A la Fundación Pluralismo y Convivencia
+2017;G;4;44;441/15001;;;Al Ente Público Radio Televisión Española (en liquidación)
+2017;G;4;44;441/16001;;;A la Fundación Centro para la Memoria de las Víctimas del Terrorismo
+2017;G;4;44;441/16005;;;A la Universidad Nacional de Educación a Distancia para estudios universitarios de los reclusos
+2017;G;4;44;441/17020;;;"A la sociedad ""Línea Figueras-Perpignan S.A."" para la explotación y mantenimiento de la sección internacional de la línea ferroviaria entre España y Francia."
+2017;G;4;44;441/17032;;;Sociedad Estatal de Salvamento y Seguridad Marítima (SASEMAR)
+2017;G;4;44;441/17401;;;ENAIRE. Financiación de vuelos exonerados
+2017;G;4;44;441/18004;;;"A la Corporación RTVE para la producción y emisión del espacio educativo ""La aventura del saber"""
+2017;G;4;44;441/18006;;;A la Universidad Nacional de Educación a Distancia (UNED)
+2017;G;4;44;441/18013;;;A la Fundación Centro Nacional del Vidrio para sus gastos de funcionamiento
+2017;G;4;44;441/18107;;;Ayudas para actividades musicales y coreográficas de ámbito nacional
+2017;G;4;44;441/19003;;;Subvenciones a universidades y otras instituciones de carácter público para acciones de formación, difusión y fomento del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas, de ámbito estatal
+2017;G;4;44;441/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Trabajo Penitenciario y Formación para el Empleo. Oportunidades de empleo para desempleados en obras y servicios de interés general y social (EJE 3)
+2017;G;4;44;441/20001;;;A la Fundación Escuela de Organización Industrial para actuaciones financiadas con fondos comunitarios
+2017;G;4;44;441/20012;;;A la Fundación Residencia de Estudiantes para gastos de  funcionamiento y desarrollo de la Sociedad de la Información
+2017;G;4;44;441/20101;;;Ayudas a los costes de explotación para empresas mineras productoras de carbón
+2017;G;4;44;441/27001;;;A la Fundación Escuela de Organización Industrial para actuaciones financiadas con fondos comunitarios
+2017;G;4;44;441/27107;;;A la Fundación Centro Nacional de Investigaciones Oncológicas Carlos III. Operaciones corrientes
+2017;G;4;44;442/12003;;;A la Fundación Internacional y para IberoamérIca de Administración y Políticas Públicas
+2017;G;4;44;442/12401;;;Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas, para funcionamiento y actividades
+2017;G;4;44;442/15001;;;A la Corporación R.T.V.E.
+2017;G;4;44;442/16004;;;Al Centro Universitario de la Guardia Civil
+2017;G;4;44;442/16005;;;A Trabajo Penitenciario y Formación para el Empleo
+2017;G;4;44;442/17032;;;Compensación económica a Empresas Públicas o privadas de transporte marítimo por la prestación del servicio de navegaciones de interés público
+2017;G;4;44;442/17039;;;Renfe Viajeros, S.A, para la compensación de las Obligaciones de Servicio Público, pendiente de liquidación
+2017;G;4;44;442/18107;;;A la Fundación del Gran Teatre del Liceu
+2017;G;4;44;442/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Trabajo Penitenciario y Formación para el Empleo. Para cuotas de seguros de accidentes de alumnos, becas y/o ayudas a alumnos y subvenciones a centros y entidades de formación profesional para el empleo a parados (EJE 2)
+2017;G;4;44;442/20012;;;A Red.es para Plan Extremadura
+2017;G;4;44;442/20018;;;Al IDAE. Gastos de estructura
+2017;G;4;44;442/27001;;;A la Fundación Escuela de Organización Industrial para promoción de los sectores creativos
+2017;G;4;44;442/27107;;;A la Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III. Operaciones corrientes
+2017;G;4;44;442/27401;;;Aportación patronal y complementaria a la Fundación Residencia de Estudiantes
+2017;G;4;44;443/15001;;;"Al Consorcio ""Ciudad de Santiago de Compostela"""
+2017;G;4;44;443/16004;;;Al Centro Universitario de la Defensa en la Academia General Militar de Zaragoza
+2017;G;4;44;443/18011;;;A la Fundación Lázaro Galdiano para gastos de funcionamiento
+2017;G;4;44;443/18107;;;A la Fundación Festival Internacional de Teatro Clásico de Almagro
+2017;G;4;44;443/19101;;;A la Fundación Estatal para la Formación en el Empleo, para gastos corrientes
+2017;G;4;44;443/20001;;;A la Fundación Centro Nacional del Vidrio. Real Fábrica de Cristales de La Granja
+2017;G;4;44;443/20012;;;A Red.es para la Oficina Técnica de apoyo a la Red Española de Ciudades Inteligentes (RECI)
+2017;G;4;44;443/20018;;;Al IDAE. Para financiar las actuaciones de asistencia técnica y económica al Ministerio de Energía, Turismo y Agenda Digital, en procedimientos administrativos, judiciales o arbitrales (DA duodécima del Real Decreto-ley 20/2012)
+2017;G;4;44;443/26002;;;"A la ""Fundación Española para la Cooperación Internacional, Salud y Política Social"""
+2017;G;4;44;444/15001;;;Al Consorcio de la Ciudad de Toledo
+2017;G;4;44;444/18107;;;A la Fundación del Gran Teatre del Liceu. Aportación adicional para necesidades de tesorería
+2017;G;4;44;444/20012;;;A Red.es para soporte a FEMP en el ámbito de Ciudades y Territorios Inteligentes
+2017;G;4;44;444/20101;;;Costes sociales y técnicos y obligaciones por reordenación
+2017;G;4;44;444/27009;;;Para cobertura de las diferencias producidas por operaciones autorizadas al amparo de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, a librar a través del Instituto de Crédito Oficial (ICO)
+2017;G;4;44;445/15001;;;Al Consorcio de la Ciudad de Cuenca
+2017;G;4;44;445/18013;;;A la Fundación Instituto de Cultura Gitana para sus gastos de funcionamiento
+2017;G;4;44;445/18107;;;A la Fundación del Teatro Real. Aportación adicional para la programación del 200 aniversario.
+2017;G;4;44;445/27107;;;A la Fundación Centro de Investigación de Enfermedades Neurológicas. Operaciones corrientes
+2017;G;4;44;446/15301;;;Subvenciones a universidades públicas para la realización de prácticas en la Autoridad Independiente de Responsabilidad Fiscal
+2017;G;4;44;446/18013;;;A la Fundación Residencia de Estudiantes para sus gastos de funcionamiento
+2017;G;4;44;446/20012;;;A Red.es
+2017;G;4;44;446/27107;;;A Centros de Investigación Biomédica en Red (CIBER)
+2017;G;4;44;447/17039;;;Renfe Viajeros, S.A. para compensar los servicios de transporte de cercanías y regionales traspasados a Cataluña, correspondientes al ejercicio 2016, pendientes de liquidación
+2017;G;4;44;447/27008;;;Transferencias a entes públicos empresariales
+2017;G;4;44;447/27107;;;Para el fomento de la investigación en salud
+2017;G;4;44;448/15001;;;Al Consorcio de la Zona Especial Canaria
+2017;G;4;44;448/20012;;;Al Instituto Nacional de Ciberseguridad (INCIBE). Plan León
+2017;G;4;44;449/12001;;;A la Obra Pía de los Santos Lugares
+2017;G;4;44;449/19003;;;A la Cámara Oficial de Comercio, Industria, Servicios y Navegación de España. Programa de Fomento e Impulso de la Economía Social 2015-2016, cofinanciable por el FSE
+2017;G;4;44;449/27011;;;Transferencias, ayudas nominativas y otros
+2017;G;4;44;449/27012;;;Transferencias, ayudas nominativas y otros
+2017;G;4;44;449/60003;;;Otras transferencias
+2017;G;4;45;;;;A Comunidades Autónomas
+2017;G;4;45;450/12401;;;Universidad Complutense de Madrid
+2017;G;4;45;450/13002;;;Comunidades Autónomas. Programa de Reforma de la Administración de Justicia
+2017;G;4;45;450/14001;;;Transferencias a CCAA.Formación Escuelas de Suboficiales
+2017;G;4;45;450/15102;;;Formación para el Empleo en las Administraciones Públicas
+2017;G;4;45;450/18004;;;Actuaciones en primer ciclo de educación infantil
+2017;G;4;45;450/18006;;;A la Oficina VIII Centenario de la Universidad de Salamanca 2018
+2017;G;4;45;450/18011;;;A la Fundación Real Fábrica de Tapices para el desarrollo de sus actividades
+2017;G;4;45;450/18102;;;Ayudas para la organización de las visitas de estudio ARION en España
+2017;G;4;45;450/18107;;;Para apoyo a la proyección exterior de entidades y formaciones musicales y teatrales de titularidad pública dependientes de CCAA
+2017;G;4;45;450/19003;;;Transferencias a CC.AA. para ayudas previas a la jubilación ordinaria
+2017;G;4;45;450/20302;;;Universidades públicas para financiar las Cátedras de Seguridad Nuclear y Protección Radiológica
+2017;G;4;45;450/23103;;;Universidades públicas de la cuenca. Convenios sobre restauración de ríos y otras acciones formativas en colaboración.
+2017;G;4;45;450/23108;;;Xunta de Galicia para Institutos de Formación Profesional para prácticas en laboratorios de la Confederación Hidrográfica
+2017;G;4;45;450/23113;;;Centro de Estudios e Investigación para la gestión de riesgos agrarios y medioambientales (CEIGRAM), para atender gastos que aseguren y den continuidad a su funcionamiento.
+2017;G;4;45;450/23114;;;País Vasco y Navarra por costes de traspaso fuera de cupo
+2017;G;4;45;450/26009;;;Programa de reasentamiento y reubicación de refugiados. Consejo de Justicia y Asuntos de Interior de la U.E.(J.A.I.)
+2017;G;4;45;450/26022;;;Programas de asistencia social para mujeres víctimas de violencia de género y otras formas de violencia contra las mujeres
+2017;G;4;45;450/26106;;;A la Universidad Carlos III de Madrid para el Centro Español de Subtitulado y Audiodescripción
+2017;G;4;45;450/27009;;;Convenio para la internacionalización de la economía de Canarias
+2017;G;4;45;450/27011;;;A la Universidad de Las Palmas de Gran Canaria para mejorar las capacidades de investigación y los servicios de apoyo a la i+d+i en las áreas de investigación prioritaria en la Estrategia de Especialización Inteligente de Canarias
+2017;G;4;45;450/32001;;;Compensación financiera al País Vasco derivada del Impuesto Especial sobre las Labores de Tabaco,  incluso liquidación definitiva del ejercicio anterior
+2017;G;4;45;451/15102;;;Formación para el Empleo en las Admisitraciones Públicas de las entidades locales
+2017;G;4;45;451/18004;;;Para actividades de educación compensatoria
+2017;G;4;45;451/18011;;;Ayudas a la confección del Catálogo Colectivo del Patrimonio Bibliográfico Español
+2017;G;4;45;451/18102;;;Ayudas a Universidades para participación en ferias y otras acciones de internacionalización
+2017;G;4;45;451/18103;;;Ayudas y premios a la Cinematografía a través de las CCAA
+2017;G;4;45;451/18107;;;Ayudas para actividades musicales de ámbito nacional e internacional
+2017;G;4;45;451/18401;;;A universidades y entidades públicas para programas de apoyo científico para el deporte y actividades afines
+2017;G;4;45;451/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias
+2017;G;4;45;451/20102;;;Subvenciones a universidades
+2017;G;4;45;451/23018;;;A la Universidad de Alcalá de Henares para funciones de Secretariado del Programa Operativo ESPON
+2017;G;4;45;451/23101;;;Fondo de mejora de montes de la Junta de Castilla y León en Segovia según Ley 3/2009, de 6 de abril, de Montes de Castilla y León.
+2017;G;4;45;451/23104;;;Universidad de Zaragoza, para financiar Jornadas de Derecho sobre Agua.
+2017;G;4;45;451/23108;;;Universidad de Vigo para edición electrónica de revista sobre Derecho, Agua y sostenibilidad
+2017;G;4;45;451/23109;;;Instituto Euromediterraneo del Agua
+2017;G;4;45;451/26018;;;Para toda clase de gastos que origine el desarrollo de la Estrategia Nacional sobre Drogas en los programas autonómicos derivados del Plan Nacional sobre Drogas
+2017;G;4;45;451/26022;;;Programas para la implementación de planes personalizados de atención y desarrollo de actuaciones en relación a otras formas de violencia contra las mujeres
+2017;G;4;45;451/26109;;;Ayuda a la gestión de las Juntas Arbitrales adscritas a administraciones autonómicas
+2017;G;4;45;451/27401;;;A universidades públicas para gastos derivados de convenios de colaboración
+2017;G;4;45;451/32001;;;A la Autoridad del Transporte Metropolitano de Barcelona, para la financiación del transporte regular de viajeros
+2017;G;4;45;451/36002;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36003;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36004;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36005;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36006;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36007;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36010;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36011;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36012;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36014;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36017;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36018;;;Fondo de Suficiencia Global
+2017;G;4;45;451/36019;;;Fondo de Suficiencia Global
+2017;G;4;45;451/60002;;;Para atención a personas en situación de dependencia
+2017;G;4;45;452/18004;;;Para la concesión de ayudas a federaciones y confederaciones de asociaciones de padres de alumnos en que éstas se integren
+2017;G;4;45;452/18011;;;Para la actualización del Censo Guía de los Archivos Españoles
+2017;G;4;45;452/19101;;;Gestión por las Comunidades Autónomas de iniciativas del sistema de formación profesional para el empleo, financiadas con la cuota de formación profesional (EJE 2)
+2017;G;4;45;452/20102;;;Subvención a la Fundación de la Universidad Autónoma de Madrid para el estudio y difusión de los fondos históricos de la Oficina Española de Patentes y Marcas (OEPM)
+2017;G;4;45;452/23101;;;Creación de la Cátedra de Parques Nacionales
+2017;G;4;45;452/23109;;;Instituto Murciano de Investigacion y Desarrollo Agrario y Alimentario
+2017;G;4;45;452/26018;;;Para toda clase de gastos que originen los programas de prevención de drogodependencias desarrollados en el marco de la Estrategia Nacional sobre Drogas
+2017;G;4;45;452/26022;;;A la Comunidad Autónoma de Canarias para el desarrollo de un Plan contra la violencia de género
+2017;G;4;45;452/27104;;;A la Universidad de Córdoba para la realización de un máster en olivicultura
+2017;G;4;45;452/27401;;;A la Fundación Centro Tecnolóxico de Supercomputación de Galicia (CESGA), aportación patronal a los gastos de funcionamiento
+2017;G;4;45;452/36020;;;Liquidación definitiva de la financiación de las Comunidades Autónomas y ciudades con Estatuto de Autonomía de ejercicios anteriores
+2017;G;4;45;452/60002;;;A CC.AA. por la asistencia sanitaria de pacientes derivados
+2017;G;4;45;453/18005;;;Convenios con comunidades autónomas para el desarrollo de programas de acciones de compensación educativa e inserción laboral
+2017;G;4;45;453/18106;;;A Universidades  y entidades públicas para programas de apoyo científico al deporte y actividades afines
+2017;G;4;45;453/26007;;;Al Instituto Universitario de Enfermedades Tropicales y Salud Pública de Canarias para la investigación, desarrollo e innovación en los campos de las enfermedades tropicales y salud pública
+2017;G;4;45;453/26009;;;Fondo de Equidad - Fondo de Cohesión Sanitaria
+2017;G;4;45;453/26016;;;Programas de servicios sociales
+2017;G;4;45;453/26107;;;A Ceuta para la promoción de igualdad de oportunidades y la inserción sociolaboral de mujeres residentes en la referida ciudad.
+2017;G;4;45;453/27107;;;A la Fundación Centre de Regulació Genómica  (CRG)
+2017;G;4;45;453/27401;;;Al Consorcio CSIC-IRTA
+2017;G;4;45;453/32001;;;A la Comunidad Autónoma de Canarias para la financiación de las necesidades correspondientes al transporte regular de viajeros de las distintas Islas Canarias
+2017;G;4;45;453/36020;;;Aportación del Estado al Fondo de Garantía 2017
+2017;G;4;45;454/18004;;;Programa de cobertura de libros de texto y material didáctico
+2017;G;4;45;454/18005;;;Ayudas para el impulso de la formación profesional
+2017;G;4;45;454/18011;;;Ayudas para el Patrimonio Bibliográfico Español y Patrimonio Digital
+2017;G;4;45;454/18106;;;A las CCAA para actividad deportiva estatal en edad escolar, incluidas Ceuta y Melilla
+2017;G;4;45;454/18107;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las CCAA
+2017;G;4;45;454/19101;;;Gestión por Comunidades Autónomas de servicios y programas de políticas activas de empleo: empleo y formación
+2017;G;4;45;454/26007;;;A CC.AA. Estrategias frente a enfermedades raras y vigilancia en salud
+2017;G;4;45;454/26018;;;Para toda clase de gastos derivados del desarrollo del Observatorio Español sobre Drogas
+2017;G;4;45;454/26107;;;A Melilla para la promoción de igualdad de oportunidades y la inserción sociolaboral de mujeres residentes en la referida ciudad.
+2017;G;4;45;454/27401;;;Al Parque Científico Aula Dei
+2017;G;4;45;454/32001;;;Al Consorcio Regional de Transportes de Madrid, para la financiación del transporte regular de viajeros
+2017;G;4;45;455/18004;;;Para la implantación de nuevos itinerarios en ESO (LOMCE-FSE)
+2017;G;4;45;455/18006;;;A la Universidad de Granada para compensar sus gastos en los centros de enseñanza universitaria de Ceuta y Melilla
+2017;G;4;45;455/18011;;;Al Museo Nacional de Arte de Cataluña (MNAC) para gastos de funcionamiento
+2017;G;4;45;455/18106;;;A las CCAA de Baleares y Canarias y a las Ciudades Autónomas de Ceuta y Melilla para desplazamiento de deportistas
+2017;G;4;45;455/19007;;;Acciones de integración en favor de los inmigrantes
+2017;G;4;45;455/19101;;;Planes integrales de empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con Comunidades Autónomas
+2017;G;4;45;455/26016;;;A la Comunidad Autónoma de Canarias. Programa para la lucha contra la pobreza
+2017;G;4;45;455/26022;;;Programa para el apoyo a víctimas de agresiones y/o abusos sexuales
+2017;G;4;45;455/26101;;;A Comunidades Autónomas Programa Erasmus+/Juventud
+2017;G;4;45;455/32001;;;Financiación del Estado del coste de la jubilación anticipada de la policía autónoma vasca
+2017;G;4;45;456/18006;;;Programa Campus Inclusivos, Campus sin Límites
+2017;G;4;45;456/18011;;;A la Fundación Cristóbal Balenciaga para gastos de funcionamiento
+2017;G;4;45;456/18106;;;Para gastos de funcionamiento de centros de alto rendimiento y tecnificación
+2017;G;4;45;456/19101;;;Gestión por Comunidades Autónomas de servicios y programas establecidos por el R.D. 1224/2009 y desarrollo reglamentario del contrato para la formación y el aprendizaje
+2017;G;4;45;456/26018;;;Para toda clase de gastos derivados de programas de rehabilitación-reinserción de toxicómanos con problemas juridicopenales
+2017;G;4;45;456/27107;;;Para el fomento de la investigación en salud
+2017;G;4;45;456/32001;;;Compensaciones a comunidades autónomas. Artículo 6.2 de la Ley Orgánica de Financiación de las Comunidades Autónomas
+2017;G;4;45;457/18004;;;Formación, perfeccionamiento y movilidad del profesorado para refuerzo educativo
+2017;G;4;45;457/19101;;;A Comunidades Autónomas. Para actuaciones en centros nacionales de formación de desempleados y centros de referencia nacional (EJE 2)
+2017;G;4;45;457/26007;;;A las CC.AA. para el desarrollo del plan anual de trabajo de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud
+2017;G;4;45;457/26016;;;A la Comunidad Autónoma de Canarias. Prestaciones básicas de Servicios Sociales
+2017;G;4;45;458/18011;;;Al Instituto Valenciano de Arte Moderno (IVAM) para gastos de funcionamiento
+2017;G;4;45;458/19101;;;Para la modernización de los servicios públicos de empleo, según la Ley 45/2002, de 12 de diciembre, y mejora del marco institucional del sistema nacional de empleo (EJE 6)
+2017;G;4;45;458/26007;;;A las CCAA para la mejora del sistema de información sanitaria del SNS
+2017;G;4;45;458/26016;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado
+2017;G;4;45;458/26018;;;Para actividades de las Comunidades y Ciudades Autónomas en aplicación de la Ley 17/2003
+2017;G;4;45;459/19101;;;Formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad
+2017;G;4;45;459/27012;;;Transferencias, ayudas nominativas y otros
+2017;G;4;45;459/27014;;;Transferencias, ayudas nominativas y otros
+2017;G;4;45;459/27401;;;A otros organismos y entidades dependientes de comunidades autónomas
+2017;G;4;45;459/60001;;;Otras transferencias corrientes
+2017;G;4;45;459/60002;;;Otras transferencias corrientes
+2017;G;4;46;;;;A Entidades Locales
+2017;G;4;46;460/18103;;;Ayudas a la Cinematografía a través de corporaciones locales
+2017;G;4;46;460/18106;;;A diputaciones provinciales a través de sus respectivas comunidades autónomas en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
+2017;G;4;46;460/18107;;;Para apoyo a la proyección exterior de entidades y formaciones musicales y teatrales de titularidad pública dependientes de CCLL
+2017;G;4;46;460/19007;;;Actuaciones para la ordenación de los flujos migratorios laborales cofinanciadas o no cofinanciadas por el FSE
+2017;G;4;46;460/19101;;;Gestión de servicios y programas de políticas activas de empleo en territorio no transferido
+2017;G;4;46;460/23005;;;Diputación Provincial de Cuenca para el pago del IBI del Embalse de Alarcón
+2017;G;4;46;460/23010;;;Convenio con la FEMP para promover y facilitar el desarrollo de iniciativas locales en materia de cambio climático
+2017;G;4;46;460/26016;;;Para Medidas de Acompañamiento del Programa Operativo del Fondo de ayuda Europea para las Personas mas Desfavorecidas (FEAD)
+2017;G;4;46;460/26106;;;Para experiencias innovadoras
+2017;G;4;46;460/27011;;;Al Cabildo de Gran Canaria para el desarrollo de un programa experimental e integral de actividades de investigación y económicas ligadas a la explotación de los recursos marinos insulares
+2017;G;4;46;460/36021;;;Transferencias a Ayuntamientos
+2017;G;4;46;461/12401;;;Instituto Ferial de Madrid (IFEMA)
+2017;G;4;46;461/15102;;;"Aportación al Ayuntamiento de Valdeavellano de Tera: Centro de formación ""ESPACIO VALDEAVELLANO"" (Plan Soria)"
+2017;G;4;46;461/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2017;G;4;46;461/17038;;;Convenio con la Comarca del Alto Gállego
+2017;G;4;46;461/18011;;;Transferencias a instituciones culturales
+2017;G;4;46;461/18013;;;Al Ayuntamiento de Granada para el desarrollo de actividades culturales del Centro Federico García Lorca
+2017;G;4;46;461/18101;;;Al Consorcio Universidad Internacional Menéndez Pelayo Barcelona
+2017;G;4;46;461/18103;;;A la Fundación Centro Buñuel de Calanda para sus actividades
+2017;G;4;46;461/18106;;;Al Ayuntamiento de Tarragona para los Juegos del Mediterráneo, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo de regulación del juego en relación con el Real Decreto 419/1991
+2017;G;4;46;461/18107;;;A festivales y otras actividades musicales de ámbito nacional
+2017;G;4;46;461/19101;;;Programa de fomento de empleo agrario (EJE 3)
+2017;G;4;46;461/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias
+2017;G;4;46;461/20012;;;Al Cabildo de Gran Canaria para el desarrollo de un programa integral para convertir a Gran Canaria en una referencia piloto para el desarrollo de la Agenda Digital Española y de las directrices de la Unión Europea sobre islas inteligentes
+2017;G;4;46;461/26109;;;Ayuda a la gestión de las Juntas Arbitrales adscritas a administraciones locales
+2017;G;4;46;461/32002;;;Transferencias a ayuntamientos
+2017;G;4;46;461/36021;;;Transferencias a las Diputaciones y Cabildos Insulares
+2017;G;4;46;462/12401;;;Fundación Municipal de Cultura (Ayuntamiento de Cadiz)
+2017;G;4;46;462/13002;;;Subvención por gastos Juzgados de Paz (art. 52 Ley de Demarcación y de Planta Judicial)
+2017;G;4;46;462/18011;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento del Museo Puget
+2017;G;4;46;462/18101;;;Al Consorcio Universidad Internacional Menéndez Pelayo Cartagena
+2017;G;4;46;462/18103;;;A la Empresa pública municipal Festival de Cine de Málaga e Iniciativas Audiovisuales, S.A. para la celebración del Festival de Cine de Málaga
+2017;G;4;46;462/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias y extracción de agua de pozos para el riego agrícola
+2017;G;4;46;462/23101;;;Área de Influencia Socioeconómica de los Parques Nacionales para indemnizaciones por pérdida de renta, amparadas en la disposición adicional quinta de la Ley 5/2007, de 3 de abril.
+2017;G;4;46;462/26016;;;Nuevo Plan Integral de Jinámar (Telde). Asuntos sociales
+2017;G;4;46;462/26018;;;A CC.LL. en aplicación de la Ley 17/2003
+2017;G;4;46;462/32002;;;A corporaciones locales para cofinanciar los servicios de transporte colectivo urbano
+2017;G;4;46;463/18005;;;Para subvencionar convenios con ayuntamientos que desarrollan el Proyecto MENTOR para la formación a distancia con nuevas tecnologías
+2017;G;4;46;463/18011;;;Ayudas para la preservación del Patrimonio Digital
+2017;G;4;46;463/18103;;;Al Festival Internacional de Cine de San Sebastián, S.A.
+2017;G;4;46;463/23101;;;Convenios de Colaboración con el Ayto. La Granja de San Ildefonso para el apoyo mutuo en materia de desarrollo sostenible y en el ámbito de sus respectivas actividades.
+2017;G;4;46;464/16005;;;Depósitos Municipales
+2017;G;4;46;464/18011;;;A la Diputación de Granada para el Centro José Guerrero
+2017;G;4;46;464/18103;;;Al Festival Internacional de Cine de Huelva
+2017;G;4;46;464/18107;;;Programa de apoyo a festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales
+2017;G;4;46;464/23101;;;Convenio de colaboracion con la Asociación de Municipios con territorio en Parques Nacionales ( AMUPARNA) para apoyar la difusión de la red de Parques Nacionales en el ámbito local.
+2017;G;4;46;464/32002;;;Compensaciones y ayudas a favor de las Ciudades de Ceuta y Melilla
+2017;G;4;46;465/19101;;;Planes integrales de empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con entidades locales
+2017;G;4;46;465/23101;;;Convenio de colaboración con el Consell Insular de Menorca para actuaciones en la finca Alfurí de Dalt
+2017;G;4;46;465/26101;;;A Entidades de la Administración Local Programa Erasmus+/Juventud
+2017;G;4;46;465/32002;;;Para financiar actuaciones en Melilla
+2017;G;4;46;468;;;Liquidación definitiva de la participación en los ingresos del Estado de las Corporaciones Locales, correspondiente a ejercicios anteriores y compensaciones derivadas del Nuevo Modelo de Financiación Local
+2017;G;4;47;;;;A empresas privadas
+2017;G;4;47;470/02002;;;Transferencia corriente de las Cortes a Empresas privadas
+2017;G;4;47;470/15401;;;Cuotas Nacionales
+2017;G;4;47;470/17020;;;Para compensar a  Autopista  Vasco-Aragonesa, Concesionaria Española, S.A.
+2017;G;4;47;470/17034;;;Contrato de Servicio de Transporte aéreo para satisfacer obligaciones de servicio público en Canarias
+2017;G;4;47;470/18013;;;Ayudas a empresas editoras radicadas en España para fomento de la traducción de libros a lenguas extranjeras
+2017;G;4;47;470/18102;;;Ayudas a Universidades Privadas para participación en ferias y otras acciones de internacionalización
+2017;G;4;47;470/18103;;;Fondo de Protección a la Cinematografía
+2017;G;4;47;470/19003;;;Subvenciones a universidades privadas para acciones de formación, difusión y fomento del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas, de ámbito estatal
+2017;G;4;47;470/23012;;;Asociación Española de Sociedades Españolas organizadoras de carreras de caballos y actividades hípicas, para subvencionar carreras nacionales de caballos españoles, premios y otras actividades relacionadas con las carreras
+2017;G;4;47;470/23018;;;Actuaciones para jóvenes del medio rural
+2017;G;4;47;470/23101;;;Indemnización a particulares por pérdida de renta en Parques Nacionales.
+2017;G;4;47;470/23114;;;Producción agraria con aportación financiera del FEAGA.
+2017;G;4;47;470/26107;;;Programas de incentivación de planes de igualdad para pyme
+2017;G;4;47;470/27010;;;Premios al pequeño comerciante para el desarrollo comercial y la modernización empresarial
+2017;G;4;47;471/15301;;;Subvenciones a entidades privadas para la realización de prácticas en la Autoridad Independiente de Responsabilidad Fiscal
+2017;G;4;47;471/16001;;;Por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia
+2017;G;4;47;471/17001;;;Abono de indemnizaciones por Sentencias de Tribunales
+2017;G;4;47;471/17020;;;Para compensar a Autopistas, Concesionaria Española, S.A., por  bonificaciones en el peaje de los recorridos  entre Alfajarín y Fraga, según Convenio
+2017;G;4;47;471/17034;;;Contrato de Servicio de Transporte aéreo para satisfacer obligaciones de servicio público en Menorca
+2017;G;4;47;471/17039;;;Garantía de intereses para ferrocarriles secundarios
+2017;G;4;47;471/18011;;;Ayudas para la promoción del arte contemporáneo español
+2017;G;4;47;471/18013;;;A la Sociedad de Garantía Recíproca Audiovisual Finanzas SGR para la subvención del coste de los avales de los préstamos a empresas e industrias culturales
+2017;G;4;47;471/18107;;;A orquestas, grupos de cámara, compañías de teatro, circenses y de danza para giras por el extranjero
+2017;G;4;47;471/19007;;;Ayudas para proyectos, iniciativas y acciones dirigidas a españoles en el exterior y retornados
+2017;G;4;47;471/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias
+2017;G;4;47;471/20019;;;Para compensación por costes adicionales derivados de la financiación del apoyo a la energía eléctrica procedente de fuentes renovables
+2017;G;4;47;471/20101;;;Ayudas a los costes de explotación para empresas mineras productoras de carbón
+2017;G;4;47;471/20102;;;Programa de fomento de las solicitudes de patentes y modelos de utilidad en el exterior a empresa privada y persona física titular del derecho
+2017;G;4;47;471/23001;;;Cumplimiento de sentencias de los Tribunales de Justicia.
+2017;G;4;47;471/23113;;;Plan Anual de Seguros Agrarios y liquidación de Planes anteriores.
+2017;G;4;47;471/60001;;;Entregas de botiquines
+2017;G;4;47;472/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2017;G;4;47;472/17020;;;Subvención al funcionamiento de las Autopistas del Mar entre España y Francia
+2017;G;4;47;472/18103;;;Ayudas a la organización de festivales nacionales e internacionales
+2017;G;4;47;472/19101;;;Gestión de servicios y programas  de políticas activas de empleo en territorio no transferido
+2017;G;4;47;472/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias y a comunidades de pozos para el riego agrícola
+2017;G;4;47;472/20102;;;Programa de fomento de las solicitudes de patentes y modelos de utilidad en España para PYMES y persona física titular del derecho
+2017;G;4;47;472/23014;;;"Convenio de colaboración con la Fundación Dieta Mediterránea, para promocionar las características de la ""dieta mediterránea"" y los productos que la componen"
+2017;G;4;47;472/23114;;;Ayudas a la explotación de vacuno de leche
+2017;G;4;47;472/60001;;;Ayudas para balsas de salvamento
+2017;G;4;47;473/17020;;;Para compensar la pérdida de ingresos por la rebaja de las tarifas de peaje
+2017;G;4;47;473/18107;;;Giras y producciones de personas y conjuntos musicales y coreográficos
+2017;G;4;47;473/23114;;;Subvenciones nacionales para la cofinanciación de ayudas con Fondos Europeos Agrícolas
+2017;G;4;47;473/60001;;;Para incentivos a la reducción de la siniestralidad laboral y a actuaciones de prevención de riesgos profesionales
+2017;G;4;47;473/60003;;;Para incentivos a la reducción de la siniestralidad laboral y a actuaciones de prevención de riesgos profesionales
+2017;G;4;47;474/17020;;;Para compensar a Autopista Concesionaria Astur Leonesa S.A.
+2017;G;4;47;474/19101;;;Formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad. Territorio no transferido: Ceuta y Melilla
+2017;G;4;47;474/20101;;;Costes sociales y técnicos y obligaciones por reordenación
+2017;G;4;47;474/23114;;;Subvenciones nacionales para la cofinanciación de ayudas a la apicultura con Fondos Europeos Agrícolas
+2017;G;4;47;475/17020;;;Para compensar a las sociedades concesionarias de autopistas de peaje por la modificación temporal de las tarifas de acuerdo con lo dispuesto en el Real Decreto Ley 11/2001, de 22 de junio
+2017;G;4;47;475/18107;;;A programas de difusión nacional de la dramaturgia actual y de preservación y difusión del teatro clásico y desarrollo de la actividad circense a través de planes de comunicación y difusión en España
+2017;G;4;47;475/26101;;;A empresas privadas Progama Erasmus+/Juventud
+2017;G;4;47;476/17020;;;Para compensar a Autopista Madrid-Toledo en cumplimiento de sentencia del Tribunal Supremo de 16 de Mayo de 2011
+2017;G;4;47;476/26101;;;Ayudas a Emprendimiento Joven.
+2017;G;4;47;477/17020;;;Para compensar a Autopistas del Atlántico, Concesionaria Española, S.A. por la supresión del peaje de los movimientos O Morrazo - Vigo y A Coruña - A Barcala, e inversos
+2017;G;4;47;477/18013;;;Ayudas para empresas editoras de revistas culturales
+2017;G;4;47;478/17020;;;Subvención al transporte marítimo y aéreo de mercancías entre la Península y las Islas o entre éstas y la Península, así como entre las Islas y el de exportación de las mismas a países extranjeros de acuerdo con la legislación vigente
+2017;G;4;47;478/18106;;;A Universidades y entidades privadas para programas de apoyo científico al deporte y actividades afines
+2017;G;4;47;479;;;Para compensar a Autopistas, Concesionaria Española, S.A. por las reducciones de peaje en la autopista AP-7 a su paso por Girona, según Convenio
+2017;G;4;48;;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;480/01001;;;A S.M. el Rey. Para el sostenimiento de su Familia y Casa (Art. 65 de la Constitución)
+2017;G;4;48;480/02001;;;A Familias e Instituciones sin fines de lucro
+2017;G;4;48;480/02002;;;A Familias e Instituciones sin fines de lucro
+2017;G;4;48;480/02003;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;480/02004;;;A Familias e Instituciones sin fines de lucro
+2017;G;4;48;480/02005;;;A Familias e Instituciones sin fines de lucro
+2017;G;4;48;480/04001;;;Pensión exPresidentes del Tribunal Constitucional (Ley 21/86)
+2017;G;4;48;480/07001;;;Otras pensiones y prestaciones
+2017;G;4;48;480/08001;;;A Asociaciones y Fundaciones sin ánimo de lucro relacionadas con la Administración de Justicia
+2017;G;4;48;480/13102;;;Subsidios e Indemnizaciones
+2017;G;4;48;480/14101;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;480/14113;;;Subsidios e indemnizaciones
+2017;G;4;48;480/15001;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;480/15101;;;Becas
+2017;G;4;48;480/15102;;;Becas, ayudas y premios de estudios e investigación
+2017;G;4;48;480/15106;;;Subsidios e Indemnizaciones
+2017;G;4;48;480/15302;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;480/15304;;;Becas, ayudas y premios de estudios e investigación
+2017;G;4;48;480/16001;;;Subvenciones según el artículo 65 de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral  a las Víctimas del Terrorismo, a asociaciones, fundaciones y entidades sin ánimo de lucro cuyo objetivo sea la representación y defensa de los intereses de las víctimas del terrorismo
+2017;G;4;48;480/17001;;;Cuotas y contribuciones a Organismos e Instituciones Nacionales
+2017;G;4;48;480/17018;;;Cuotas y contribuciones a Organismos e Instituciones Nacionales
+2017;G;4;48;480/17039;;;Comité Nacional del transporte por carretera (Actividades relacionadas con la Ley de Ordenacion de los Transportes Terrestres)
+2017;G;4;48;480/18004;;;Para financiar actividades de enseñanza de adultos y de carácter compensatorio
+2017;G;4;48;480/18005;;;Para financiar actividades de enseñanza de adultos y de carácter compensatorio
+2017;G;4;48;480/18008;;;Actividades de formación, intercambio y aprendizaje
+2017;G;4;48;480/18009;;;Pensiones complementarias del personal de MECSE
+2017;G;4;48;480/18011;;;Ayudas a entidades privadas sin fines de lucro y reales academias para la preservación del Patrimonio Digital
+2017;G;4;48;480/18013;;;A fundaciones para actividades culturales y gastos de funcionamiento
+2017;G;4;48;480/18101;;;Aportación a la Fundación UIMP/Campo de Gibraltar
+2017;G;4;48;480/18104;;;Premio de bibliografía española
+2017;G;4;48;480/18106;;;Comité Paralímpico Español
+2017;G;4;48;480/18107;;;A programas de actividades musicales de entidades sin fines de lucro
+2017;G;4;48;480/18301;;;Becas y ayudas para formación y perfeccionamiento en materias museísticas
+2017;G;4;48;480/18302;;;Becas y ayudas para formación y perfeccionamiento en materias museísticas
+2017;G;4;48;480/19001;;;A los participantes en órganos consultivos y consejos.
+2017;G;4;48;480/19101;;;Prestaciones por desempleo
+2017;G;4;48;480/20001;;;Para concesión de becas, asistencia a congresos, cursos, seminarios y otras subvenciones
+2017;G;4;48;480/23001;;;Órganos Colegiados de la Administración de carácter agrario.
+2017;G;4;48;480/23012;;;Programa técnico formativo en producciones y mercados agrarios
+2017;G;4;48;480/23014;;;Becas de formación
+2017;G;4;48;480/23018;;;Becas de formación en materia de desarrollo rural
+2017;G;4;48;480/23019;;;Becas de formación en general
+2017;G;4;48;480/23104;;;Instituciones sin fines de lucro
+2017;G;4;48;480/23109;;;Ayudas y becas aplicación Directiva Marco del Agua
+2017;G;4;48;480/23114;;;Pensiones a familias de carácter civil
+2017;G;4;48;480/23401;;;Becas de estudios
+2017;G;4;48;480/25001;;;Dotación ex-Presidentes del Gobierno (R.D. 405/92)
+2017;G;4;48;480/25004;;;A la Federación Española de Municipios y Provincias
+2017;G;4;48;480/25401;;;Becas de postgrado
+2017;G;4;48;480/26016;;;A la Fundación Víctimas del Terrorismo
+2017;G;4;48;480/26022;;;Ayudas sociales para mujeres (art 27 de la L.O.1/2004, de 28 de diciembre)
+2017;G;4;48;480/26105;;;A familias e instituciones sin fines de lucro. Becas
+2017;G;4;48;480/26106;;;A la Fundación Eguía-Careaga para el Centro Español de Documentación sobre Discapacidad
+2017;G;4;48;480/27008;;;Becas Fulbright de comercio
+2017;G;4;48;480/27011;;;Transferencias, ayudas nominativas y otros
+2017;G;4;48;480/27012;;;A la Secretaría de la Asociación Red INNPULSO para gastos de funcionamiento
+2017;G;4;48;480/27101;;;A la Sociedad Española de Estadística e Investigación Operativa (AECA)
+2017;G;4;48;480/27102;;;A la Asociación Española de Administración y Contabilidad de Empresas
+2017;G;4;48;480/27105;;;Pago de cuotas a organismos nacionales
+2017;G;4;48;480/27106;;;Cuotas y ayudas a organismos y entidades en las que colabore o participe el IGME
+2017;G;4;48;480/27402;;;Para actividades complementarias
+2017;G;4;48;480/60002;;;A Familias e instituciones sin fines de lucro
+2017;G;4;48;480/60003;;;A Familias e instituciones sin fines de lucro
+2017;G;4;48;481/04001;;;Remuneraciones de transición Magistrados (art. 25.1 Ley Orgánica del Tribunal Constitucional, 2/1979, de 3 de octubre)
+2017;G;4;48;481/07001;;;Pensiones e indemnizaciones de guerra
+2017;G;4;48;481/12001;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;481/12002;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;481/12004;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;481/12301;;;Becas Instituto Cervantes
+2017;G;4;48;481/12401;;;Ayudas y convenios básicos de cooperación
+2017;G;4;48;481/13102;;;Protección a la familia
+2017;G;4;48;481/14001;;;Fondo de reconocimiento de servicios prestados en el territorio de Ifni-Sahara
+2017;G;4;48;481/14107;;;Indemnización por desalojo de vivienda
+2017;G;4;48;481/14113;;;Protección a la familia
+2017;G;4;48;481/15001;;;A la Hermandad de Jubilados del Ministerio de Economía y Hacienda
+2017;G;4;48;481/15102;;;Formación para el Empleo en las Administraciones Públicas
+2017;G;4;48;481/15106;;;Protección a la familia
+2017;G;4;48;481/16002;;;Para todo tipo de atenciones derivadas de la inmigración
+2017;G;4;48;481/16003;;;A la Fundación de Huérfanos de la Dirección General de la Policía para apoyar la formación educativa de los huérfanos de funcionarios del CNP
+2017;G;4;48;481/16005;;;Transferencia a la Comisión Episcopal para atención del culto en centros penitenciarios
+2017;G;4;48;481/17001;;;Subvenciones a la realización de actividades relacionadas con los programas del Departamento, referidas a las obras públicas, los transportes y las comunicaciones postales y telegráficas, a distribuir por Orden Ministerial
+2017;G;4;48;481/17032;;;Para satisfacer la bonificación a residentes no peninsulares por traslado a la Península y regreso por vía marítima, así como por los traslados interinsulares
+2017;G;4;48;481/17039;;;I T S. España (Sistemas Inteligentes de Transporte)
+2017;G;4;48;481/17101;;;Becas del CEDEX
+2017;G;4;48;481/17401;;;Premios de Jubilación
+2017;G;4;48;481/18001;;;Ayudas al Instituto de España, reales academias y otras instituciones adscritas al programa para desarrollo de actividades y gastos de funcionamiento
+2017;G;4;48;481/18004;;;Para hacer efectiva la gratuidad de la enseñanza en centros educativos
+2017;G;4;48;481/18006;;;A la Fundación César Carlos para sus actividades
+2017;G;4;48;481/18011;;;Premios nacionales
+2017;G;4;48;481/18013;;;Ayudas para la acción y la promoción cultural
+2017;G;4;48;481/18101;;;Al Centro Iberoamericano de Gobernabilidad, Administración y Políticas Públicas Locales
+2017;G;4;48;481/18102;;;Para actuaciones relacionadas con programas educativos europeos
+2017;G;4;48;481/18103;;;Ayudas a la organización de festivales y mercados cinematográficos nacionales e internacionales
+2017;G;4;48;481/18104;;;Becas para la formación y  especialización
+2017;G;4;48;481/18107;;;Programa de actividades musicales de ámbito nacional e internacional
+2017;G;4;48;481/19002;;;Prestaciones asistenciales
+2017;G;4;48;481/19101;;;A familias e instituciones sin fines de lucro
+2017;G;4;48;481/19102;;;Pago prestaciones acordadas a trabajadores segun la legislación vigente, incluidas obligaciones de ejercicios anteriores
+2017;G;4;48;481/19104;;;Para la concesión de becas de formación e investigación
+2017;G;4;48;481/20001;;;Para premios a la innovación
+2017;G;4;48;481/20102;;;A los funcionarios de las oficinas iberoamericanas de la Propiedad Industrial designados por las mismas y de conformidad con el acuerdo suscrito por la Oficina Española de Patentes y Marcas (OEPM) con cada una de ellas (Programa CIBIT)
+2017;G;4;48;481/20302;;;A Familias e instituciones sin fines de lucro
+2017;G;4;48;481/23018;;;Fomento de asociacionismo
+2017;G;4;48;481/23101;;;Pensiones a familias de carácter civil
+2017;G;4;48;481/23103;;;Comité de Grandes Presas
+2017;G;4;48;481/23107;;;Comité Español de Grandes Presas.
+2017;G;4;48;481/23109;;;Pensiones a funcionarios de carácter civil
+2017;G;4;48;481/23113;;;Organizaciones Agrarias. Modulación
+2017;G;4;48;481/23114;;;Becas de formación
+2017;G;4;48;481/25004;;;"Pensión vitalicia como consecuencia de la Sentencia de 20 de abril de 1994 de la Sección Sexta de la Audiencia Provincial de Madrid (Asunto ""Alcalá 20"")"
+2017;G;4;48;481/25101;;;A familias e Instituciones sin fines de lucro.
+2017;G;4;48;481/25102;;;Becas a postgraduados
+2017;G;4;48;481/25103;;;Subvención a los Reales Patronatos y Fundaciones (Párrafo 2 del Art. 2 de la Ley 23/82 del Patrimonio Nacional)
+2017;G;4;48;481/26004;;;Para subvencionar a instituciones y entidades de cualquier titularidad sin ánimo de lucro, para el fomento de la donación y el trasplante de órganos y tejidos
+2017;G;4;48;481/26017;;;A la Confederación Estatal de Personas Sordas para la atención a personas sordas en el ejercicio de sus derechos básicos
+2017;G;4;48;481/26018;;;A ONGs sin ánimo de lucro, de ámbito estatal, para el desarrollo de programas supracomunitarios en el marco de prioridades del Plan Nacional sobre Drogas
+2017;G;4;48;481/26022;;;Becas de formación Observatorio Estatal de violencia sobre la mujer
+2017;G;4;48;481/26101;;;A Asociaciones juveniles y entidades de ámbito nacional prestadoras de servicios a la juventud
+2017;G;4;48;481/26105;;;Prestaciones sociales
+2017;G;4;48;481/26106;;;A la Fundación CENTAC para el Centro Nacional de Tecnologías de la Accesibilidad
+2017;G;4;48;481/26107;;;Transferencias a entidades y personas físicas para realizar actividades que fomenten la no discriminación de la mujer y su participación en la sociedad
+2017;G;4;48;481/26401;;;Para atender becas de formación de postgrado en evaluación y control de medicamentos, mediante convocatoria y adjudicación por la Agencia Española de Medicamentos y Productos Sanitarios
+2017;G;4;48;481/27010;;;Premios a asociaciones de comerciantes sin fines de lucro para creación y desarrollo de centros comerciales abiertos
+2017;G;4;48;481/27012;;;Premios Nacionales de Investigación
+2017;G;4;48;481/27101;;;Al Centro de Educación a Distancia para el Desarrollo Económico y Tecnológico (CEDDET)
+2017;G;4;48;481/27109;;;Becas a estudiantes en prácticas
+2017;G;4;48;481/27302;;;Becas de la CNMC
+2017;G;4;48;481/60001;;;Pensiones
+2017;G;4;48;481/60002;;;Pensiones
+2017;G;4;48;482/04001;;;A la Asociación de Letrados del Tribunal Constitucional
+2017;G;4;48;482/05001;;;Indemnizaciones
+2017;G;4;48;482/07001;;;Prestaciones sociales
+2017;G;4;48;482/12004;;;Para defensa y protección de los Derechos Humanos
+2017;G;4;48;482/12401;;;Instituciones adheridas en España
+2017;G;4;48;482/13102;;;Servicios Sociales
+2017;G;4;48;482/14017;;;Indemnización vitalicia como consecuencia de la Sentencia de 10 de Mayo de 2000, de la Sección Cuarta de ContenciosoAdministrativo de la Audiencia Nacional (Recurso número 0497/1999)
+2017;G;4;48;482/14107;;;Compensación económica por carencia de vivienda
+2017;G;4;48;482/14113;;;Servicios Sociales
+2017;G;4;48;482/15026;;;Apoyo instrumental a la negociación colectiva Ley 7/2007, del Estatuto Básico del Empleado Público
+2017;G;4;48;482/15106;;;Servicios Sociales
+2017;G;4;48;482/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2017;G;4;48;482/16002;;;A la Cruz Roja Española para programas asistenciales en CIES
+2017;G;4;48;482/16004;;;Al Colegio de Huérfanos de la Guardia Civil para apoyar la formación educativa y protección social de los huérfanos de los socios fallecidos
+2017;G;4;48;482/16005;;;Para atenciones de los internos, liberados y familiares
+2017;G;4;48;482/17001;;;Asociación Recreativo Cultural del Ministerio de Fomento
+2017;G;4;48;482/17018;;;Subvención a la Real Sociedad Geográfica
+2017;G;4;48;482/17101;;;Cuotas a asociaciones técnicas nacionales
+2017;G;4;48;482/18003;;;A la Fundación Francisco Giner de los Ríos (Institución Libre de Enseñanza) para apoyo de sus actividades
+2017;G;4;48;482/18004;;;Becas de formación de especialistas en investigación, innovación, documentación e informática en materia educativa
+2017;G;4;48;482/18008;;;Becas y ayudas al estudio de carácter general
+2017;G;4;48;482/18102;;;Para actividades relacionadas con la proyección internacional de la educación
+2017;G;4;48;482/18103;;;Ayudas a la cinematografía a través de familias e instituciones sin fines de lucro
+2017;G;4;48;482/18107;;;Becas y ayudas a personas o asociaciones para actividades musicales, líricas, teatrales, circenses y coreográficas en el exterior
+2017;G;4;48;482/19003;;;Subvenciones y aportaciones para fomento del empleo, protección del desempleo y ayudas a la jubilación
+2017;G;4;48;482/19101;;;Reserva de gestión directa del Servicio Público de Empleo Estatal de créditos destinados a programas de fomento de empleo
+2017;G;4;48;482/19104;;;Prestaciones sociales
+2017;G;4;48;482/20102;;;Para formación de funcionarios y colaboración con oficinas iberoamericanas de la Propiedad Industrial
+2017;G;4;48;482/23001;;;Organizaciones Profesionales Agrarias y otras Entidades Asociativas.
+2017;G;4;48;482/23014;;;Subvenciones al sector comercial pesquero para ampliación de mercados.
+2017;G;4;48;482/23017;;;Ayudas a la acuicultura
+2017;G;4;48;482/23101;;;Sociedad Española de Ornitología/BirdLIFE, para fomentar su participación en el Consejo de la Red de Parques Nacionales.
+2017;G;4;48;482/23103;;;Sociedad Española de Presas y Embalses SEPREM
+2017;G;4;48;482/23107;;;Becas a estudiantes de ingeniería en prácticas
+2017;G;4;48;482/23108;;;Comité Español de Grandes Presas
+2017;G;4;48;482/23113;;;Organizaciones Profesionales Agrarias y otras Entidades Asociativas.
+2017;G;4;48;482/25002;;;Indemnizaciones
+2017;G;4;48;482/25004;;;A la Fundación Manuel Giménez Abad
+2017;G;4;48;482/25103;;;Becas
+2017;G;4;48;482/26017;;;Para programas de personas con discapacidad
+2017;G;4;48;482/26018;;;Programas desarrollados por ONGs de ámbito estatal, financiados a través del Fondo creado por la Ley 17/2003
+2017;G;4;48;482/26022;;;Convenio con la Federación Española de Municipios y Provincias
+2017;G;4;48;482/26101;;;Convenio con la Federación Española de Municipios y Provincias
+2017;G;4;48;482/26106;;;A la Fundación (CNSE) para el Centro de Normalización Lingüística de la Lengua de Signos Española
+2017;G;4;48;482/26107;;;Programa de emprendimiento y fomento del liderazgo de las mujeres en los órganos de decisión de las sociedades del sector agroalimentario e intercambio de buenas prácticas
+2017;G;4;48;482/26109;;;Ayudas y subvenciones para impulsar, orientar y desarrollar, etc, colaborando con las asociaciones de consumidores, cooperativas de consumo, instituciones públicas y privadas y personas físicas de ámbito nacional sobre asuntos de política de consumo y de los consumidores, educación para el consumo y didáctica sobre la educación para el consumo
+2017;G;4;48;482/26401;;;A la Fundación Casa del Corazón para la gestión y mantenimiento de los Registros Nacionales de Marcapasos y Desfribriladores Implantables
+2017;G;4;48;482/27009;;;Acuerdos sectoriales a la exportación
+2017;G;4;48;482/27103;;;Cuotas asociaciones
+2017;G;4;48;482/27104;;;Cuotas organismos nacionales
+2017;G;4;48;482/27109;;;Gastos derivados de la formación de becarios
+2017;G;4;48;482/27302;;;Indemnización a expresidentes y exconsejeros
+2017;G;4;48;482/60001;;;Incapacidad temporal
+2017;G;4;48;483/08001;;;A Asociaciones Judiciales
+2017;G;4;48;483/12001;;;Becas Escuela Diplomática
+2017;G;4;48;483/13002;;;Al Consejo General de la Abogacía Española como aportación del Estado para indemnizar a los abogados en los asuntos de asistencia jurídica gratuita
+2017;G;4;48;483/13102;;;Asistencia Social
+2017;G;4;48;483/14012;;;Alumnos de academias
+2017;G;4;48;483/14113;;;Asistencia Social
+2017;G;4;48;483/15102;;;Becas Fulbright.
+2017;G;4;48;483/15106;;;Asistencia Social
+2017;G;4;48;483/16001;;;Indemnizaciones, ayudas y subvenciones derivadas de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo y artículo 11 del Real Decreto 671/2013, de 6 de septiembre, por el que se aprueba el Reglamento de la Ley 29/2011
+2017;G;4;48;483/16002;;;"A ""Ayuda a Niños y Adolescentes en Riesgo"" (Fundación ANAR)"
+2017;G;4;48;483/16003;;;A Organizaciones Sindicales del Cuerpo Nacional de Policía, en proporción a su representatividad
+2017;G;4;48;483/16004;;;A asociaciones profesionales de la Guardia Civil
+2017;G;4;48;483/16005;;;Cofinanciación de redes de recursos para atención de personas sometidas a medidas de seguridad, suspensión de la pena y reglas de conducta del Código Penal, así como a enfermos de SIDA e integración social de niños en Unidades de Madres y programa de violencia de género
+2017;G;4;48;483/17018;;;Subvención al Observatorio del Ebro
+2017;G;4;48;483/17032;;;ANAVE por los costes de formación a alumnos embarcados en prácticas
+2017;G;4;48;483/18001;;;Comisión Permanente de la Asociación de Academias de la Lengua Española
+2017;G;4;48;483/18005;;;Para diversas actuaciones
+2017;G;4;48;483/18006;;;Para financiar medidas de apoyo institucional a los sindicatos del sector
+2017;G;4;48;483/18102;;;Para financiar el Plan Ejecutivo de cooperación e intercambio con la República Popular China
+2017;G;4;48;483/18106;;;A federaciones deportivas españolas y Comité Olímpico Español
+2017;G;4;48;483/18107;;;Apoyo a la actividad teatral y circense de ámbito nacional de entidades sin fines de lucro
+2017;G;4;48;483/19007;;;Acciones en el ámbito migratorio
+2017;G;4;48;483/19101;;;A centros y entidades de formación y otros
+2017;G;4;48;483/20019;;;A las Cámaras Oficiales mineras por participación en la recaudación de la tasa 072, concepto 132.002. Ejercicio corriente.
+2017;G;4;48;483/20102;;;Subvención al Club de Inventores Españoles
+2017;G;4;48;483/23001;;;Organizaciones Profesionales Agrarias y otras Entidades Asociativas para su participación y presencia internacional.
+2017;G;4;48;483/23016;;;Ayudas al fomento y apoyo del asociacionismo pesquero.
+2017;G;4;48;483/23101;;;Becas
+2017;G;4;48;483/23107;;;Comité Español de Riegos y Drenajes.
+2017;G;4;48;483/23108;;;Comité Español de Riegos y Drenajes
+2017;G;4;48;483/23113;;;Familias e instituciones sin fines de lucro.
+2017;G;4;48;483/23114;;;Programa FEAD, para ayuda alimentaria a los desfavorecidos y lucha contra la pobreza infantil
+2017;G;4;48;483/25103;;;Convenio Monasterio de Yuste
+2017;G;4;48;483/26015;;;Fundació Miquel Valls
+2017;G;4;48;483/26016;;;Para programas de infancia y familias
+2017;G;4;48;483/26018;;;A la Federación Española de Municipios y Provincias para el desarrollo de programas sobre drogodependencias financiados a través del Fondo creado por la Ley 17/2003
+2017;G;4;48;483/26022;;;Convenio con la Federación  Española de Municipios y Provincias, para  la teleasistencia móvil  a víctimas de violencia de género
+2017;G;4;48;483/26106;;;Para premios y experiencias innovadoras
+2017;G;4;48;483/26107;;;Convenio con la Federación Española de Municipios y Provincias para actuaciones en materia de igualdad.
+2017;G;4;48;483/26109;;;Ayudas y subvenciones para la formación de postgraduados especialistas en consumo, mediante la colaboración en la actividad del Consejo de Consumidores
+2017;G;4;48;483/26401;;;Premios Plan Nacional de Resistencia a los Antibióticos
+2017;G;4;48;483/27003;;;Becas Fullbright de la Secretaría de Estado de Economía
+2017;G;4;48;483/27009;;;Becas Analíticas CATICES
+2017;G;4;48;483/27101;;;Becas de postgrado para formación de estadísticos
+2017;G;4;48;483/27103;;;Becas de formación de personal investigador
+2017;G;4;48;483/27104;;;Al IAMZ para actividades de formación y especialización
+2017;G;4;48;483/27107;;;Para el Programa de Recursos Humanos y Difusión de la Investigación Biomédica del Fondo de Investigación Sanitaria e Investigación Intramural
+2017;G;4;48;483/27401;;;Aportaciones para el fomento de la investigación
+2017;G;4;48;483/60001;;;Recargos por faltas de medidas de seguridad e higiene en el trabajo
+2017;G;4;48;484/08001;;;Ayudas a la formación
+2017;G;4;48;484/12003;;;Ayudas en el ámbito de la cooperación internacional
+2017;G;4;48;484/12401;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto Ley 7/2013, de 28 de junio
+2017;G;4;48;484/13002;;;Al Consejo General de los Procuradores de España como aportación del Estado para indemnizar a los procuradores en los asuntos de asistencia jurídica gratuita
+2017;G;4;48;484/13102;;;Farmacia
+2017;G;4;48;484/13301;;;Premios
+2017;G;4;48;484/14113;;;Farmacia
+2017;G;4;48;484/15106;;;Farmacia
+2017;G;4;48;484/16001;;;Asignación anual a partidos políticos para sufragar gastos de seguridad
+2017;G;4;48;484/16003;;;Compensación económica por participación de Centrales Sindicales en el Consejo de la Policía, comisiones de trabajo y órganos consultivos
+2017;G;4;48;484/16005;;;A la Federación Española de Municipios y Provincias, para trabajo en favor de la comunidad y arresto de fin de semana
+2017;G;4;48;484/17001;;;Asociación de Padres de la Guardería Jardín de Infancia del MOPU, para las actividades propias del Centro
+2017;G;4;48;484/17018;;;Becas y ayudas en áreas de astronomía, geofísica, geodesia, teledetección y documentación geográfica
+2017;G;4;48;484/17032;;;Para satisfacer bonificaciones en billetes de transporte marítimo expedidos a familias numerosas
+2017;G;4;48;484/17034;;;Subvención al tráfico aéreo regular entre la Península y el Archipiélago Canario, así como entre las Islas Canarias
+2017;G;4;48;484/18002;;;Becas para formación de especialistas en documentación e informática en materia educativa
+2017;G;4;48;484/18004;;;Otras becas y ayudas
+2017;G;4;48;484/18006;;;A la Conferencia de Rectores de las Universidades Españolas (CRUE) para sus gastos de funcionamiento
+2017;G;4;48;484/18008;;;Otras becas y ayudas
+2017;G;4;48;484/18011;;;Ayudas a instituciones y asociaciones profesionales para el desarrollo de sus actividades
+2017;G;4;48;484/18101;;;Premio Internacional Menéndez Pelayo
+2017;G;4;48;484/18102;;;Cofinanciación nacional Programa Erasmus +
+2017;G;4;48;484/18106;;;A federaciones deportivas españolas
+2017;G;4;48;484/19003;;;Subvenciones para el desarrollo de acciones de formación, difusión y fomento del trabajo autónomo, de la economia social y de la responsabilidad social de las empresas, de ámbito estatal
+2017;G;4;48;484/19007;;;Ayudas y subvenciones en favor de inmigrantes y refugiados
+2017;G;4;48;484/19301;;;Compensación económica por participación en órganos consultivos.
+2017;G;4;48;484/20019;;;A las Cámaras Oficiales mineras por participación en la recaudación de la tasa 072, concepto 132.002. Compromisos ejercicios anteriores.
+2017;G;4;48;484/20101;;;Costes sociales y técnicos y obligaciones por reordenación
+2017;G;4;48;484/20102;;;Programa de fomento de las solicitudes de patentes y modelos de utilidad en el exterior a instituciones sin fines de lucro
+2017;G;4;48;484/20104;;;Becas para alumnos de turismo. Eje Nueva Economía Turística
+2017;G;4;48;484/23001;;;Sindicatos de Trabajadores de los sectores agroalimentario y medioambiental para la realización de actividades y proyectos de especial interés para el desarrollo de dichos sectores
+2017;G;4;48;484/23012;;;Federación Española de Asociaciones de Ganado Selecto (FEAGAS), para el funcionamiento de esta entidad, y actividades de promoción, conservación y mejora de las razas puras
+2017;G;4;48;484/23018;;;Federación Nacional de Comunidades de Regantes de España (FENACORE) para gastos de formación, asesoramiento y apoyo a las Comunidades de Regantes de España
+2017;G;4;48;484/23101;;;Programa para el desarrollo de voluntariado
+2017;G;4;48;484/23108;;;Asociación para la defensa ecológica de Galicia para promoción y divulgación sostenible de los rios
+2017;G;4;48;484/25002;;;A la Fundación Príncesa de Asturias
+2017;G;4;48;484/25103;;;Pensiones a personal laboral
+2017;G;4;48;484/26016;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio
+2017;G;4;48;484/26022;;;Atención a mujeres víctimas de trata con fines de explotación sexual
+2017;G;4;48;484/26106;;;Al Comité Paralímpico Español para el Plan de Apoyo al Deporte Paralímpico (Plan ADOP).
+2017;G;4;48;484/26107;;;Convenio con la Cruz Roja, CEPAIM, FSG y FEUP para el desarrollo del programa Sara
+2017;G;4;48;484/26109;;;Ayudas para la formación de postgraduados especialistas en consumo mediante colaboración en la actividad del CICC
+2017;G;4;48;484/26401;;;A la Fundación ONCE
+2017;G;4;48;484/27101;;;A la Asociación XBRL España para la difusión de estándares de tecnología
+2017;G;4;48;484/27107;;;Para el fomento de la investigación en salud
+2017;G;4;48;484/27401;;;Cuotas y subvenciones a instituciones y sociedades españolas sin fines de lucro para el fomento de la investigación
+2017;G;4;48;484/60001;;;Prestacion por maternidad, paternidad, riesgos durante el embarazo y la lactancia natural  y subsidio por cuidado de menores afectados por  cáncer u otra enfermedad grave
+2017;G;4;48;485/13102;;;Prótesis y otras prestaciones
+2017;G;4;48;485/14001;;;A organismos específicos, servicios, asociaciones, instituciones, entidades de fomento y otros
+2017;G;4;48;485/14101;;;A organismos específicos, servicios, etc
+2017;G;4;48;485/14113;;;Prótesis y otras prestaciones
+2017;G;4;48;485/15106;;;Prótesis y otras prestaciones
+2017;G;4;48;485/16001;;;Financiación a partidos políticos
+2017;G;4;48;485/16003;;;A la Agrupación Deportiva de la Policía para actividades y equipamiento deportivos
+2017;G;4;48;485/16004;;;A la Fundación Guardia Civil para refuerzo de la imagen institucional y sensibilización social
+2017;G;4;48;485/16005;;;Premios de investigación en materia penitenciaria
+2017;G;4;48;485/17001;;;Premio Nacional de Ingeniería Civil
+2017;G;4;48;485/17034;;;Subvención al tráfico aéreo regular entre la Península y el Archipiélago Balear, así como entre las Islas Baleares
+2017;G;4;48;485/18001;;;Fomento de la participación de los representantes de los empleados públicos en los órganos de negociación colectiva de los centros docentes públicos no universitarios
+2017;G;4;48;485/18004;;;Becas de formación en evaluación y estadística educativa
+2017;G;4;48;485/18005;;;Ayudas y subvenciones para financiar actuaciones en materia de nuevas tecnologías aplicadas a la educación
+2017;G;4;48;485/18011;;;Otras transferencias
+2017;G;4;48;485/18013;;;A familias e instituciones sin fines de lucro para cooperación cultural y becas
+2017;G;4;48;485/18101;;;Cuota de asociado Conferencia Rectores Universidades Españolas
+2017;G;4;48;485/18107;;;Apoyo a programas líricos y de danza
+2017;G;4;48;485/19003;;;Subvenciones para sufragar los gastos de funcionamiento de las asociaciones de trabajadores autónomos, de cooperativas, de sociedades laborales, de empresas de inserción y de otros entes representativos de la economía social, de ámbito estatal
+2017;G;4;48;485/19101;;;Gestión de servicios y programas de políticas activas de empleo en territorio no transferido
+2017;G;4;48;485/19301;;;Compensaciones económicas por actividades del Consejo realizadas por las organizaciones y expertos en él representadas en proporción al número de miembros que componen los grupos del Consejo, según se establece en el artículo 2 de la Ley 21/1991, de 17 de junio
+2017;G;4;48;485/20012;;;A AENOR (Cuota participación en comités de Smart Cities y factura electrónica)
+2017;G;4;48;485/20102;;;Premio Mejor Patente del Año
+2017;G;4;48;485/23001;;;Actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio
+2017;G;4;48;485/23012;;;Federación Española de Razas Autóctonas en peligro de extinción (FEDERAPES), para el funcionamiento de esa entidad, y actividades de promoción, conservación y mejora de las razas puras
+2017;G;4;48;485/23017;;;Becas de formación técnica y práctica en el área de pesca marítima.
+2017;G;4;48;485/23018;;;Promoción de actuaciones de la mujer rural
+2017;G;4;48;485/23101;;;Ecologistas en Acción  para fomentar su participación en el Consejo de la Red de PPNN
+2017;G;4;48;485/23106;;;Becas según Reglamento del Organismo
+2017;G;4;48;485/23108;;;Fundación Aquis Querquennis para realización  campaña excavación 2017
+2017;G;4;48;485/23110;;;Convenio de cooperación formativo con el Instituto de Enseñanza Secundaria San Fernando en materia de análisis de calidad de las aguas de la cuenca española del río Tajo.
+2017;G;4;48;485/25002;;;Compensación estatal de gastos por Iniciativa Legislativa Popular
+2017;G;4;48;485/26016;;;A la Federación Española de Municipios y Provincias para medidas de apoyo a la parentalidad positiva
+2017;G;4;48;485/26022;;;Premio mejor tesis doctoral de investigación en materia de violencia contra la mujer
+2017;G;4;48;485/26101;;;A entidades, asociaciones y jovenes participantes Programa Erasmus+/Juventud
+2017;G;4;48;485/26106;;;Al Comité Español de Representantes de Personas con Discapacidad (CERMI) para el Observatorio Estatal de la Discapacidad
+2017;G;4;48;485/26107;;;Para la integración laboral de mujeres víctimas de violencia de género
+2017;G;4;48;485/26401;;;A la Sociedad Española de Cirugía Plástica, Reparadora y Estética para el mantenimiento del Registro Nacional de Prótesis Mamarias
+2017;G;4;48;485/27009;;;Aportación a la Fundación Real Instituto Elcano de Estudios Internacionales Estratégicos
+2017;G;4;48;485/27012;;;Premios Nacionales de Innovación y de Diseño
+2017;G;4;48;485/60001;;;Proteccion a la familia
+2017;G;4;48;486/12003;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional
+2017;G;4;48;486/12401;;;Para Ayuda Oficial al Desarrollo
+2017;G;4;48;486/13102;;;Prestaciones económicas Mutualidades Integradas
+2017;G;4;48;486/14001;;;Pensiones a funcionarios, de carácter militar
+2017;G;4;48;486/14101;;;Pensiones a funcionarios, de carácter militar
+2017;G;4;48;486/14107;;;Pensiones a funcionarios, de carácter militar
+2017;G;4;48;486/14113;;;Prestaciones económicas de las Mutualidades integradas
+2017;G;4;48;486/15026;;;Pensiones a funcionarios y protección familiar
+2017;G;4;48;486/15106;;;Prestaciones económicas Mutualidades integradas
+2017;G;4;48;486/15302;;;Pensiones a funcionarios y protección familiar
+2017;G;4;48;486/16003;;;Ayudas derivadas de la inmigración
+2017;G;4;48;486/16004;;;Ayudas para el pago de prótesis del personal del extinto Cuerpo de Mutilados de Guerra procedente de la Guardia Civil
+2017;G;4;48;486/16005;;;A los condenados a la pena de trabajos en beneficio de la comunidad
+2017;G;4;48;486/17001;;;Premios por jubilación al personal del Departamento
+2017;G;4;48;486/17034;;;Subvención al tráfico aéreo regular entre Ceuta, Melilla y el resto del territorio nacional
+2017;G;4;48;486/17101;;;Ayudas por jubilación al personal del CEDEX
+2017;G;4;48;486/17102;;;Premios por jubilación al personal del Organismo
+2017;G;4;48;486/17402;;;Premios de Jubilación al Personal de la AESF
+2017;G;4;48;486/18004;;;A las federaciones y confederaciones de asociaciones de padres de alumnos en que éstas se integren
+2017;G;4;48;486/18011;;;Cuota a la Asociación Española de Museólogos
+2017;G;4;48;486/18013;;;Para desplazamientos culturales a/y desde la península
+2017;G;4;48;486/18106;;;Otras ayudas y subvenciones
+2017;G;4;48;486/18107;;;Cuotas asociativas de las unidades del INAEM
+2017;G;4;48;486/18401;;;Becas y ayudas a familias para investigación deportiva de interés estatal
+2017;G;4;48;486/19101;;;Dotación para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía (VARIOS EJES)
+2017;G;4;48;486/19301;;;Premios y becas convocados por el Consejo Economico y Social
+2017;G;4;48;486/20302;;;Premios de jubilación del personal
+2017;G;4;48;486/23018;;;Ayudas a la formación profesional agraria
+2017;G;4;48;486/25002;;;"Premio Mujer y Parlamento ""Clara Campoamor"""
+2017;G;4;48;486/26007;;;Para subvenciones a instituciones de cualquier titularidad, sin ánimo de lucro, con destino a financiar Programas de Prevención y Control del SIDA y otras ITS
+2017;G;4;48;486/26016;;;Para actuaciones de acción social
+2017;G;4;48;486/26101;;;Convocatoria de premios INJUVE
+2017;G;4;48;486/26106;;;A la Fundación ONCE para la implantación de un programa de accesibilidad universal para las personas con discapacidad.
+2017;G;4;48;486/26107;;;Convenio con el Consejo Superior de Cámaras de Comercio
+2017;G;4;48;486/26401;;;A Asociaciones y Sociedades Científicas
+2017;G;4;48;486/27004;;;Indemnizaciones a los afectados por el síndrome tóxico, según Sentencia de la Sala Segunda del Tribunal Supremo de 26 de septiembre de 1997
+2017;G;4;48;486/27101;;;Fomento del uso del fichero XML
+2017;G;4;48;486/60001;;;Indemnizaciones y entregas unicas reglamentarias
+2017;G;4;48;487/04001;;;Becas formación
+2017;G;4;48;487/12003;;;Premio Bartolomé de las Casas
+2017;G;4;48;487/14001;;;Becas de estudios para personal de las Fuerzas Armadas
+2017;G;4;48;487/16001;;;Indemnizaciones en aplicación de los artículos 32 a 37 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y la Ley 52/1984, de 26 de diciembre, de Protección de medios de transporte que se hallen en territorio español realizando viajes de carácter internacional
+2017;G;4;48;487/16005;;;A la Comisión Islámica de España, para la atención del culto en centros penitenciarios
+2017;G;4;48;487/17001;;;Programa becas Fullbright
+2017;G;4;48;487/17034;;;Para satisfacer bonificaciones en billetes de transporte aéreo expedidos a familias numerosas
+2017;G;4;48;487/18001;;;Para gastos de funcionamiento de fundaciones y asociaciones vinculadas con partidos políticos con representación en las Cortes Generales, que realicen actividades de estudio y desarrollo del pensamiento político y social, en función de la representación obtenida por éstos
+2017;G;4;48;487/18004;;;Servicios escolares complementarios y otras ayudas
+2017;G;4;48;487/18005;;;Becas de formación de especialistas en observación y diseño de cualificaciones profesionales
+2017;G;4;48;487/18006;;;A la Fundación José Ortega y Gasset para el desarrollo de actividades y gastos de funcionamiento del Instituto Universitario
+2017;G;4;48;487/18011;;;Otras ayudas, subvenciones y premios
+2017;G;4;48;487/18101;;;Concesión de becas y premios
+2017;G;4;48;487/18106;;;A la Fundación Deporte Joven
+2017;G;4;48;487/18107;;;Premios nacionales de música y danza
+2017;G;4;48;487/19101;;;Para pago de cuotas, subvenciones y bonificaciones a la Seguridad Social
+2017;G;4;48;487/20102;;;Subvención a la Asociación Nacional para la Defensa de la Marca (ANDEMA), para la promoción y difusión de signos distintivos
+2017;G;4;48;487/23001;;;Pensiones a familias de carácter civil
+2017;G;4;48;487/23016;;;Becas formación en el área de ordenación pesquera.
+2017;G;4;48;487/23101;;;WWF-Adena para fomentar su participación en el Consejo de la Red de PPNN
+2017;G;4;48;487/26016;;;"A la ""Fundación + familia"", para el cumplimiento de sus fines y la creación, desarrollo y promoción del ""Certificado de empresa familiarmente responsable"""
+2017;G;4;48;487/26106;;;Para el desarrollo del Programa para la mejora de condiciones educativas de las personas con discapacidad
+2017;G;4;48;487/27101;;;Al Comité Español de Matemáticas
+2017;G;4;48;487/27107;;;A la Asociación para el Registro y Estudio de Malformaciones Congénitas
+2017;G;4;48;487/60001;;;Prestaciones sociales
+2017;G;4;48;487/60002;;;Prestaciones sociales
+2017;G;4;48;488/12002;;;Para actividades de promoción de asuntos de la Unión Europea
+2017;G;4;48;488/13002;;;Compensación por la prestación de la asistencia psicológica a las víctimas y pericias psicológicas en los procesos judiciales, mediante convenio con el Consejo General de Colegios Oficiales de Psicólogos
+2017;G;4;48;488/14001;;;Ayudas a alumnos extranjeros en centros docentes de las Fuerzas Armadas
+2017;G;4;48;488/15102;;;A la FEMP, Formación para el Empleo en las Administraciones Públicas
+2017;G;4;48;488/16001;;;Programa de reasentamiento y reubicación de refugiados. Consejo de Justicia y Asuntos de Interior de la U.E. (JAI)
+2017;G;4;48;488/16005;;;A la Cruz Roja Española para el cumplimiento de trabajos en beneficio de la comunidad
+2017;G;4;48;488/16101;;;Ayudas a asociaciones de víctimas de tráfico
+2017;G;4;48;488/17001;;;Premios Nacionales de Arquitectura, Urbanismo y Vivienda
+2017;G;4;48;488/18001;;;Pensiones a funcionarios de carácter civil
+2017;G;4;48;488/18004;;;Para cursos, becas y ayudas de formación del profesorado
+2017;G;4;48;488/18005;;;Para el desarrollo de otras acciones formativas en el ámbito de la Formación Profesional del Sistema Educativo
+2017;G;4;48;488/18006;;;Otras becas y ayudas
+2017;G;4;48;488/18013;;;Otras ayudas relacionadas con el libro
+2017;G;4;48;488/18106;;;A la Liga Nacional de Fútbol Profesional en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
+2017;G;4;48;488/18107;;;"Premios nacionales de teatro y de circo, Premio Nacional de Artes Escénicas para la Infancia y la Juventud y Premio de Teatro para Autores Noveles ""Calderón de la Barca"""
+2017;G;4;48;488/19101;;;Otras prestaciones económicas específicas
+2017;G;4;48;488/23001;;;Protección familiar
+2017;G;4;48;488/23016;;;Becas de perfeccionamiento en comercialización pesquera
+2017;G;4;48;488/23018;;;Confederación de Organizaciones de Selvicultores de España (COSE)
+2017;G;4;48;488/23101;;;Fundación Conservación quebrantahuesos para acciones de conservación Proyecto Life +Rea quebrantahuesos
+2017;G;4;48;488/23110;;;Comité Español de Grandes Presas
+2017;G;4;48;488/25004;;;Pensiones de jubilación complementaria correspondientes a personal no funcionario
+2017;G;4;48;488/26016;;;Para el pago de ayudas sociales a enfermos contaminados de VIH por tratamiento con hemoderivados por transfusiones sanguíneas y sus familiares
+2017;G;4;48;488/26107;;;A la Confederación Española de Organizaciones Empresariales (CEOE) para realizar el programa de desarrollo de liderazgo y promoción de mujeres directivas
+2017;G;4;48;488/60001;;;Otras prestaciones e indemnizaciones
+2017;G;4;48;488/60002;;;Otras prestaciones e indemnizaciones
+2017;G;4;48;489/12401;;;Instituciones sin fines de lucro
+2017;G;4;48;489/14001;;;Indemnizaciones derivadas de la aplicación del Real Decreto-ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad
+2017;G;4;48;489/16001;;;A la Cruz Roja Española, por su participación en la Operación Paso del Estrecho y en otras actividades de protección civil
+2017;G;4;48;489/16005;;;A Cáritas Española para facilitar la aplicación de los programas con personas sentenciadas a penas no privativas de libertad
+2017;G;4;48;489/17001;;;Cuotas patronales de las becas para programas
+2017;G;4;48;489/17020;;;Centro de Estudios de Transportes del Mediterráneo Occidental
+2017;G;4;48;489/18004;;;Otras actuaciones
+2017;G;4;48;489/18006;;;A diversas instituciones
+2017;G;4;48;489/18011;;;Premio Velázquez de Artes Plásticas
+2017;G;4;48;489/18013;;;Otras ayudas y subvenciones
+2017;G;4;48;489/18104;;;Otras ayudas y subvenciones
+2017;G;4;48;489/19001;;;Financiación y compensaciones económicas
+2017;G;4;48;489/19101;;;Prestación económica por cese de actividad de trabajadores autónomos
+2017;G;4;48;489/20102;;;Subvención a la Fundación Foro de Marcas Renombradas Españolas
+2017;G;4;48;489/23110;;;Asociación para la Defensa de la Calidad de las Aguas ADECAGUA
+2017;G;4;48;489/26016;;;Para Medidas de Acompañamiento del Programa Operativo del Fondo de ayuda Europea para las Personas mas Desfavorecidas (FEAD)
+2017;G;4;48;489/60001;;;Farmacia (Recetas Medicas)
+2017;G;4;48;489/60002;;;Farmacia (Recetas Medicas)
+2017;G;4;49;;;;Al exterior
+2017;G;4;49;490/02001;;;Al exterior
+2017;G;4;49;490/02003;;;Al exterior
+2017;G;4;49;490/02005;;;Al Exterior
+2017;G;4;49;490/03001;;;Cuota de España al INTOSAI y OLACEFS
+2017;G;4;49;490/04001;;;Cuota a la Conferencia Mundial de Justicia Constitucional
+2017;G;4;49;490/08001;;;Cuotas a Organismos Internacionales
+2017;G;4;49;490/14001;;;A organismos internacionales
+2017;G;4;49;490/14003;;;A organismos internacionales
+2017;G;4;49;490/14017;;;A organismos internacionales
+2017;G;4;49;490/14101;;;A organismos internacionales
+2017;G;4;49;490/15005;;;Aportación a la OCDE para la financiación de la Red fiscal
+2017;G;4;49;490/15102;;;Cuotas de adhesión al Centro Latinoamericano de Administración para el Desarrollo (C.L.A.D.).
+2017;G;4;49;490/15301;;;Estudio de la Actividad de las Instituciones Fiscales Independientes
+2017;G;4;49;490/15304;;;Cuotas de adhesión a Organismos Internacionales
+2017;G;4;49;490/16001;;;Contribuciones al Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR)
+2017;G;4;49;490/18004;;;Cuota CERI (Centro de Investigación e Innovación Educativa) de la OCDE
+2017;G;4;49;490/18006;;;Cuota por la participación en el Instituto Universitario Europeo con sede en Florencia (Italia)
+2017;G;4;49;490/18008;;;Al Colegio Parque de España de Rosario (Argentina) para ayuda de sus actividades
+2017;G;4;49;490/18013;;;Ayudas a proyectos para la difusión de la cultura española en el exterior
+2017;G;4;49;490/18103;;;Cuotas de organismos internacionales y participación en programas educativos o culturales
+2017;G;4;49;490/18107;;;A la Secretaría General Iberoamericana (SEGIB) para el Proyecto Iberorquesta
+2017;G;4;49;490/18401;;;Contribución al Institute of National Anti-doping Organisations (INADO)
+2017;G;4;49;490/20302;;;Al Exterior
+2017;G;4;49;490/23002;;;A Organizaciones Internacionales
+2017;G;4;49;490/23008;;;Contribución de España al sostenimiento de la Red Medioambiental IMPEL
+2017;G;4;49;490/23011;;;Abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantía Agraria (FEGA) de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEAGA.
+2017;G;4;49;490/23017;;;Contribuciones voluntarias a programas de la FAO
+2017;G;4;49;490/23101;;;Cuota a EUROPARC/Federation.
+2017;G;4;49;490/23102;;;Red Internacional de Organismos de Cuenca. Cuota anual.
+2017;G;4;49;490/23103;;;Cuota anual de la Red Internacional de Organismos de Cuenca/Réseau International des Organismes de Bassin/International Network of Basin Organitations (RIOC/RIOB/INBO).
+2017;G;4;49;490/23105;;;Proyecto lifewatch ERIC
+2017;G;4;49;490/23109;;;L'institut méditerranéen de l'eau
+2017;G;4;49;490/23401;;;Cuotas correspondientes a España en Organizaciones Meteorológicas Internacionales.
+2017;G;4;49;490/25102;;;Pagos al Exterior
+2017;G;4;49;490/26106;;;Para premios y experiencias innovadoras
+2017;G;4;49;490/26108;;;"Cuota de pertenencia del Consejo de la Juventud de España al ""European Youth Forum"""
+2017;G;4;49;490/27004;;;Contribuciones a organismos de la OCDE
+2017;G;4;49;490/27006;;;Contribuciones a Instituciones Financieras Multilaterales
+2017;G;4;49;490/27009;;;Subvención a las Cámaras de Comercio en el extranjero
+2017;G;4;49;490/27011;;;Al Instituto de Astrofísica de Canarias
+2017;G;4;49;490/27014;;;Gastos de participación en centros o programas internacionales de investigación y cuotas
+2017;G;4;49;490/27016;;;Contribución de España al presupuesto del Comité del Acero de la OCDE
+2017;G;4;49;490/27102;;;Al Foro Internacional de Organismos Supervisores de Auditoría (IFIAR)
+2017;G;4;49;490/27302;;;Cuotas a organismos internacionales
+2017;G;4;49;490/60001;;;Al Exterior
+2017;G;4;49;491/12001;;;A la Basílica de Santa María la Mayor de Roma (Óbolo Regio)
+2017;G;4;49;491/13001;;;Conferencia de Ministros de Justicia de Países Iberoamericanos
+2017;G;4;49;491/13101;;;Cuotas y aportaciones Organismos Internacionales
+2017;G;4;49;491/15005;;;Aportación a la  OCDE para la financiación del Foro Global sobre Transparencia e Intercambio de Información Tributaria
+2017;G;4;49;491/15102;;;Cuota anual a la Organización Iberoaméricana de Cooperación Intermunicipal (O.I.C.I.).
+2017;G;4;49;491/16002;;;Contribución a Organismos Internacionales
+2017;G;4;49;491/16003;;;Contribución a Organismos Internacionales
+2017;G;4;49;491/16004;;;Cuotas a Organismos Internacionales
+2017;G;4;49;491/16005;;;A la Organización Europea de Servicios Penitenciarios y Correccionales (EUROPRIS)
+2017;G;4;49;491/16101;;;Cuotas y contribuciones a Organismos Internacionales
+2017;G;4;49;491/17018;;;Cuotas a Organismos Internacionales
+2017;G;4;49;491/17032;;;Cuotas a Organismos Internacionales
+2017;G;4;49;491/18008;;;Cuotas a organismos internacionales y participación en programas educativos o culturales
+2017;G;4;49;491/18011;;;Cuotas a organismos internacionales y para proyectos de cooperación internacional
+2017;G;4;49;491/18102;;;Al exterior- Programa Paulo Freire de movilidad académica para estudiantes de programas universitarios en formación
+2017;G;4;49;491/18107;;;Aportación a actividad de la OEI-Iberescena para el Programa Iberescena
+2017;G;4;49;491/19001;;;Aportaciones para realización de programas y otros
+2017;G;4;49;491/19101;;;Cuotas a la Asociación Mundial de los Servicios Públicos de Empleo (AMSPE) y otras organizaciones internacionales
+2017;G;4;49;491/19104;;;Cuotas AISS (Asociación Internacional Seguridad Social)
+2017;G;4;49;491/20004;;;Cuota a la Organización Mundial del Turismo
+2017;G;4;49;491/20104;;;Cuotas a la European Travel Commission (ETC)
+2017;G;4;49;491/23004;;;Estudios y actuaciones en materia de cambio climático en el ámbito de la Unión Europea
+2017;G;4;49;491/23101;;;Programa de cooperación internacional
+2017;G;4;49;491/23110;;;Instituto Mediterráneo del Agua
+2017;G;4;49;491/26002;;;Aportación a organismos y programas internacionales
+2017;G;4;49;491/26007;;;A la Oficina de la Organización Mundial de la Salud
+2017;G;4;49;491/26101;;;Cuotas a Organismos Internacionales
+2017;G;4;49;491/27004;;;Contribución al Centro BRUEGEL
+2017;G;4;49;491/27006;;;Contribución al Foro Global de Productividad OCDE
+2017;G;4;49;491/27101;;;Cuotas a organismos internacionales
+2017;G;4;49;491/27102;;;Al European Financial Reporting Advisory Group (EFRAG)
+2017;G;4;49;491/27103;;;Contribuciones a organismos de la Agencia Internacional de la Energía
+2017;G;4;49;491/27106;;;Cuotas y contribuciones a organismos internacionales
+2017;G;4;49;491/27107;;;Cuotas y convenios internacionales
+2017;G;4;49;491/27109;;;Cuotas de participación en EURAMET (Organización Regional de Metrología Europea)
+2017;G;4;49;491/27401;;;Cuotas y contribuciones a organismos internacionales y entidades sin fines de lucro
+2017;G;4;49;491/34001;;;Aportación a la Unión Europea por recurso propio procedente del IVA
+2017;G;4;49;492/12401;;;Entidades culturales en el exterior
+2017;G;4;49;492/13001;;;Cuota al Instituto de las Naciones Unidas para la prevención del delito y tratamiento del delincuente
+2017;G;4;49;492/17001;;;Cuotas a Organismos Internacionales
+2017;G;4;49;492/17034;;;Cuotas a Organismos Internacionales
+2017;G;4;49;492/17039;;;Cuotas a Organismos Internacionales
+2017;G;4;49;492/17101;;;Cuotas a Organismos Internacionales
+2017;G;4;49;492/18005;;;Cuotas a organismos internacionales y participación en programas educativos o culturales
+2017;G;4;49;492/18104;;;Pago de cuotas de las asociaciones internacionales a las que pertenece la BNE
+2017;G;4;49;492/18401;;;Contribución a la Agencia Mundial Antidopaje (AMA)
+2017;G;4;49;492/19007;;;Prestaciones por razón de necesidad y otras ayudas para emigrantes
+2017;G;4;49;492/19101;;;Cuota PIACC y otras contribuciones a la OCDE
+2017;G;4;49;492/19104;;;Subvención para la Agencia Europea para la Seguridad y Salud en el Trabajo
+2017;G;4;49;492/20012;;;Para abonar las cuotas que se deriven del acuerdo firmado con el Instituto Europeo de Normas de Telecomunicaciones y (ETSI) y Digital Video Broadcasting (DVB)
+2017;G;4;49;492/20019;;;Contribución de España al Grupo Internacional de Estudios del Cobre
+2017;G;4;49;492/20102;;;Cuotas a asociaciones y participación en organismos internacionales
+2017;G;4;49;492/23101;;;Cuota a la red de gestores de áreas marinas protegidas del Mediterráneo (MedPAN)
+2017;G;4;49;492/23110;;;Red Internacional de Organismos de Cuenca
+2017;G;4;49;492/26002;;;Para todos los gastos que ocasione la cooperación sanitaria internacional
+2017;G;4;49;492/26018;;;Programas de cooperación internacional en aplicación de la Ley 17/2003
+2017;G;4;49;492/26101;;;A la Organización Iberoamericana de Juventud para los gastos de funcionamiento previstos en el Convenio entre España y esta organización internacional
+2017;G;4;49;492/26108;;;Convenio con la UJSario
+2017;G;4;49;492/26401;;;Pharmaceutical Inspection Convention
+2017;G;4;49;492/27004;;;Contribución al Grupo de Acción Financiera Internacional contra el Blanqueo de Capitales
+2017;G;4;49;492/27016;;;Contribución de España al Presupuesto del Foro Mundial exceso de capacidad del acero . G20
+2017;G;4;49;492/27103;;;Contribución voluntaria a la Organización Internacional de la Energía Atómica (OIEA)
+2017;G;4;49;492/27104;;;Cuotas y gastos derivados de la participación española en otros organismos internacionales
+2017;G;4;49;492/27105;;;Pago de cuotas a organismos internacionales
+2017;G;4;49;492/27109;;;Cuotas de participación en WELMEC. (Cooperación Europea en Metrología Legal)
+2017;G;4;49;492/34001;;;Aportación a la Unión Europea por recurso propio basado en la Renta Nacional Bruta (RNB)
+2017;G;4;49;493/12001;;;Protección de españoles en el extranjero: asistencia social, evacuaciones, hospitalizaciones y repatriaciones
+2017;G;4;49;493/12401;;;Participación en Organismos Internacionales
+2017;G;4;49;493/13001;;;GRECO - Grupo de Estados contra la Corrupción
+2017;G;4;49;493/15008;;;Cuota a EUROGEOGRAPHICS
+2017;G;4;49;493/15014;;;Aportación española al Programa de Cooperación Interregional INTERREG Europe 2014-2020
+2017;G;4;49;493/15102;;;Al Instituto Europeo de Administración Pública
+2017;G;4;49;493/17003;;;Cuotas a Organismos Internacionales
+2017;G;4;49;493/18004;;;Cuotas a organismos internacionales y participación en programas educativos o culturales
+2017;G;4;49;493/18006;;;Al Colegio de España en París para ayuda a sus gastos de funcionamiento
+2017;G;4;49;493/18008;;;A la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura (OEI) para financiación y desarrollo de actividades
+2017;G;4;49;493/19101;;;Cuota anual CINTERFOR-OIT, incluso obligaciones de ejercicios anteriores
+2017;G;4;49;493/19104;;;Cuotas OISS (Organización Iberoamericana Seguridad Social)
+2017;G;4;49;493/20012;;;Para satisfacer las obligaciones que se deriven para España de nuestra participación en la Oficina Europea de Comunicaciones (ECO)
+2017;G;4;49;493/20018;;;Carta de la Energía
+2017;G;4;49;493/23401;;;Participación en el Grupo de Cooperacion HIRLAM. Proyecto para el desarrollo de un modelo numérico de previsión meteorológica a corto plazo.
+2017;G;4;49;493/26108;;;Convenio con la Organización Iberoamericana de Juventud y el Foro Latinoamericano de Juventud
+2017;G;4;49;493/27004;;;Contribución de España a los gastos de gestión de su oficina de representación conjunta ante el FMI
+2017;G;4;49;493/27109;;;Cuotas de participación en IMEKO (Confederación Internacional de Medida)
+2017;G;4;49;493/34001;;;Aportación a la Unión Europea por la recaudación líquida en España de los recursos propios tradicionales, incluso obligaciones de ejercicios anteriores
+2017;G;4;49;494/12001;;;Asistencia en el extranjero a beneficiarios de asilo en España
+2017;G;4;49;494/12401;;;Acuerdo Sede SEGIB
+2017;G;4;49;494/15004;;;Cuota Organización PuRE-net  (Public Real Estate Network)
+2017;G;4;49;494/15014;;;Aportación española al Programa de Cooperación INTERACT III 2014-2020
+2017;G;4;49;494/15102;;;Al Instituto Internacional de Ciencias Administrativas
+2017;G;4;49;494/16002;;;Cooperación Internacional
+2017;G;4;49;494/16003;;;Cooperación Internacional con otros países en materia policial
+2017;G;4;49;494/16004;;;Cooperación policial con otros países
+2017;G;4;49;494/18107;;;Cuotas a organismos internacionales y participación en programas educativos o culturales
+2017;G;4;49;494/19101;;;Cuota PIACC y otras contribuciones a la OCDE. De ejercicios anteriores
+2017;G;4;49;494/19104;;;Cuota PEROSH (Partnership for European Reseach on Occupational Health and Safety)
+2017;G;4;49;494/20012;;;Para satisfacer las obligaciones de la pertenencia de España a la Conferencia Europea de Administraciones Postales y de Telecomunicaciones (CEPT), así como abonar las cuotas de participación y servicios derivados del Acuerdo con la CEPT sobre motorización de telecomunicaciones por satélite, a través de la Oficina Europea de Radiocomunicaciones (ERO)
+2017;G;4;49;494/26401;;;Mantenimiento de la aplicación CTS para el procedimiento de reconocimiento mutuo de medicamentos autorizados
+2017;G;4;49;494/27103;;;Cuotas a asociaciones internacionales relacionadas con la energía y el medio ambiente
+2017;G;4;49;494/27104;;;Cuotas y gastos derivados de la representación española ante la OCDE
+2017;G;4;49;494/34001;;;Aportación a la Unión Europea por prestación de servicios
+2017;G;4;49;495/12003;;;Fundación Internacional Unión Europea-América Latina y Caribe
+2017;G;4;49;495/15009;;;"Cuota participación en ""Asociación Iberoamericana de Tribunales de Justicia Fiscal o Administrativa"""
+2017;G;4;49;495/15014;;;Aportación española al Programa de Cooperación Transnacional Espacio Mediterráneo Europeo (MED) 2014-2020
+2017;G;4;49;495/16003;;;Cooperación Internacional con otros países: Ayudas directas
+2017;G;4;49;495/18006;;;Para pago de cuotas a organismos internacionales y participación en programas educativos o culturales
+2017;G;4;49;495/20012;;;Para satisfacer las obligaciones que se deriven para España del cumplimiento del Convenio Internacional de Telecomunicaciones (Nairobi 1982) y con la Secretaría General de la Unión Internacional de las Telecomunicaciones
+2017;G;4;49;495/26401;;;Contribución para el mantenimiento de la aplicación CESP (Common Electronic Submission Portal) para el procedimiento de reconocimiento mutuo de medicamentos autorizados
+2017;G;4;49;495/27009;;;Cuotas participación en organismos y contribuciones de comercio internacional
+2017;G;4;49;495/34001;;;Aportación a la Unión Europea para el pago de indemnizaciones, multas y sanciones
+2017;G;4;49;496/12003;;;Facilidad Financiera Internacional para la Inmunización
+2017;G;4;49;496/12401;;;Para Ayuda Oficial al Desarrollo
+2017;G;4;49;496/15004;;;Cuota a la Asociación XBRL España
+2017;G;4;49;496/15014;;;Aportación española al Programa Operativo URBACT III 2014-2020
+2017;G;4;49;496/16003;;;Cooperación Internacional con otros países: Formación
+2017;G;4;49;496/16004;;;Cooperación Internacional: Formación
+2017;G;4;49;496/20012;;;Cuota a la Asociación para el Cumplimiento de los Equipos Radio y Terminales de Telecomunicación (R&TTE CA)
+2017;G;4;49;496/26401;;;Contribución al Foro de Políticas de la HTAI Policy Forum
+2017;G;4;49;496/27007;;;Cuotas a Organizaciones Internacionales de Seguros
+2017;G;4;49;496/27104;;;Para las actividades de cooperación con el CGIAR
+2017;G;4;49;496/34001;;;Aportación a la Unión Europea para el Fondo de Refugiados para Turquía
+2017;G;4;49;497/12001;;;Asistencia a ciudadanía que afronta condenas de pena de muerte
+2017;G;4;49;497/12401;;;Contribuciones no previstas en Tratados y Acuerdos Internacionales
+2017;G;4;49;497/15004;;;Cuota al Centro Europeo de Empresas Públicas (CEEP)
+2017;G;4;49;497/20019;;;Organismo Internacional de la Energía Atómica
+2017;G;4;49;498/12004;;;Participación en Organismos Internacionales. Contribuciones obligatorias, incluídas obligaciones de ejercicios anteriores
+2017;G;4;49;498/15005;;;Aportación a la OCDE para la financiación de la Secretaría del Acuerdo Multilateral entre autoridades competentes
+2017;G;4;49;499/12004;;;Participación en Organismos Internacionales. Contribuciones voluntarias
+2017;G;4;49;499/15005;;;Aportación a la OCDE para la financiación del Órgano coordinador del Convenio sobre asistencia administrativa mutua en materia fiscal
+2017;G;4;49;499/20012;;;A la Iniciativa Ambient Asistent Living Association (AAL)
+2017;G;4;49;499/27012;;;Transferencias, ayudas nominativas y otros
+2017;G;4;49;499/27014;;;Transferencias, ayudas nominativas y otros
+2017;G;5;;;;;Fondo de contingencia y otros imprevistos
+2017;G;5;50;;;;Dotación al Fondo de Contingencia de ejecución presupuestaria
+2017;G;5;50;500;;;Fondo de Contingencia de Ejecución Presupuestaria, Artículo 50 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria
+2017;G;5;51;;;;Otros Imprevistos
+2017;G;5;51;510;;;Imprevistos
+2017;G;6;;;;;Inversiones reales
+2017;G;6;60;;;;Inversión nueva en infraestructuras y bienes destinados al uso general
+2017;G;6;60;600;;;Inversiones en terrenos
+2017;G;6;60;601;;;Otras
+2017;G;6;60;602;;;Actuaciones relacionadas con la sequía
+2017;G;6;60;603;;;Plan PIMA ADAPTA. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión
+2017;G;6;60;609/17038;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores
+2017;G;6;60;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2017;G;6;60;609/23018;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.
+2017;G;6;61;;;;Inversión de reposición en infraestructuras y bienes destinados al uso general
+2017;G;6;61;610;;;Inversiones en terrenos
+2017;G;6;61;611;;;Otras
+2017;G;6;61;612/23018;;;Otras inversiones del medio natural y política forestal
+2017;G;6;61;612/23107;;;Actuaciones relacionadas con la sequía
+2017;G;6;61;614;;;PIMA ADAPTA Costas. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión
+2017;G;6;61;615;;;Inversiones en actuaciones medioambientales. Actuaciones financiadas con ingresos  procedentes de subastas de derechos de emisión.
+2017;G;6;61;616;;;Plan PIMA ADAPTA. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión
+2017;G;6;61;619/17038;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores
+2017;G;6;61;619/23005;;;Incidencias de inversiones de ejercicios anteriores.
+2017;G;6;61;619/23018;;;Incidencias de inversiones de ejercicios anteriores
+2017;G;6;62;;;;Inversión nueva asociada al funcionamiento operativo de los servicios
+2017;G;6;62;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios
+2017;G;6;62;621;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de junio,del Patrimonio Histórico Español para adquisición de bienes culturales
+2017;G;6;62;622;;;Pago de indemnizaciones a que se refiere la Ley 36/1994, de 23 de diciembre, de incorporación de la Directiva 93/7 de la CEE relativa a la restitución de bienes culturales que hayan salido del territorio de un estado miembro y pago de los costes derivados de la devolución de bienes culturales previsto en el instrumento de adhesión de España al Convenio UNIDROIT sobre bienes culturales robados o exportados ilegalmente de 24 de junio de 1995
+2017;G;6;62;623;;;Para el impulso de la modernización del Servicio Público de Justicia
+2017;G;6;62;628;;;Patrimonio Sindical Acumulado
+2017;G;6;63;;;;Inversión de reposición asociada al funcionamiento operativo de los servicios
+2017;G;6;63;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios
+2017;G;6;63;631/18011;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales
+2017;G;6;63;631/25301;;;Inversión de cualquier naturaleza del CNI
+2017;G;6;63;638;;;Patrimonio Sindical Acumulado
+2017;G;6;64;;;;Gastos de inversiones de carácter inmaterial
+2017;G;6;64;640;;;Gastos en inversiones de carácter inmaterial
+2017;G;6;64;641;;;Inversiones inmateriales relacionadas con las inversiones en infraestructuras rurales
+2017;G;6;64;649;;;Incidencias de inversiones de ejercicios anteriores
+2017;G;6;65;;;;Inversiones militares en infraestructura y otros bienes
+2017;G;6;65;650;;;Inversiones militares en infraestructura y otros bienes
+2017;G;6;65;655;;;Programas especiales de modernización del Ejercito de Tierra
+2017;G;6;65;656;;;Programas especiales de modernización de la Armada
+2017;G;6;65;657;;;Programas especiales de modernización del Ejercito del Aire
+2017;G;6;65;658;;;Programas especiales de modernización de interés conjunto
+2017;G;6;66;;;;Inversiones militares asociadas al funcionamiento operativo de los servicios
+2017;G;6;66;660;;;Inversiones militares asociadas al funcionamiento operativo de los servicios
+2017;G;6;66;668;;;Gastos originados por participación de las Fuerzas Armadas en operaciones de mantenimiento de la paz
+2017;G;6;67;;;;Gastos militares de inversiones de carácter inmaterial
+2017;G;6;67;670;;;Gastos militares en inversiones de carácter inmaterial
+2017;G;7;;;;;Transferencias de capital
+2017;G;7;70;;;;A la Administración del Estado
+2017;G;7;70;700/20302;;;Proyectos de colaboración con la Unión Europea
+2017;G;7;70;700/23114;;;Estado. Ayudas Desarrollo Rural.FEGA Organismo pagador
+2017;G;7;71;;;;A Organismos Autónomos
+2017;G;7;71;710/14003;;;A organismos autónomos del Departamento
+2017;G;7;71;710/15005;;;Al Instituto de Estudios Fiscales
+2017;G;7;71;710/17020;;;Centro de Estudios y Experimentación de Obras Públicas (CEDEX)
+2017;G;7;71;710/18001;;;Al Consejo Superior de Deportes
+2017;G;7;71;710/18006;;;A la Universidad Internacional Menéndez Pelayo
+2017;G;7;71;710/23004;;;Parques Nacionales
+2017;G;7;71;710/23005;;;Confederaciones Hidrográficas
+2017;G;7;71;710/25002;;;Al Centro de Estudios Políticos y Constitucionales
+2017;G;7;71;710/26015;;;Al Instituto de la Juventud
+2017;G;7;71;710/27011;;;Al Instituto Geológico y Minero de España (IGME)
+2017;G;7;71;710/31004;;;Al Parque Móvil del Estado
+2017;G;7;71;711/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
+2017;G;7;71;711/18001;;;Al Consejo Superior de Deportes para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado
+2017;G;7;71;711/25002;;;Al Centro de Investigaciones Sociológicas.
+2017;G;7;71;711/26015;;;Al Consejo de la Juventud de España
+2017;G;7;71;711/27011;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+2017;G;7;71;712/17018;;;Centro Nacional de Información Geográfica (CNIG)
+2017;G;7;71;712/18009;;;A la Biblioteca Nacional
+2017;G;7;71;712/19003;;;Al Instituto Nacional de Seguridad e Higiene en el Trabajo
+2017;G;7;71;712/20018;;;Al Instituto para la Reestructuración de la Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras
+2017;G;7;71;712/23011;;;Agencia de Información y Control Alimentario (AICA)
+2017;G;7;71;712/26004;;;A la Agencia Española de Consumo, Seguridad Alimentaria y Nutrición
+2017;G;7;71;712/27011;;;Al Instituto Español de Oceanografía (IEO)
+2017;G;7;71;713/19003;;;Para financiar el presupuesto del Servicio Público de Empleo Estatal
+2017;G;7;71;713/20004;;;Al Instituto de Turismo de España
+2017;G;7;71;713/23004;;;Parques Nacionales. Plan PIMA ADAPTA. Actuaciones financiadas con ingresos procedentes de subasta de derechos de emisión
+2017;G;7;71;713/23011;;;Fondo Español de Garantía Agraria (FEGA)
+2017;G;7;71;713/27011;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
+2017;G;7;71;714/18009;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales
+2017;G;7;71;714/23001;;;Entidad Estatal de Seguros Agrarios (ENESA)
+2017;G;7;71;714/23011;;;Fondo Español de Garantía Agraria (FEGA). Programa Nacional de Desarrollo Rural 2015-2020
+2017;G;7;71;714/26009;;;A la Organización Nacional de Trasplantes
+2017;G;7;71;714/27003;;;Al Instituto Nacional de Estadística (INE)
+2017;G;7;71;714/27011;;;Al Instituto de Salud Carlos III (ISCIII)
+2017;G;7;71;715;;;Instituto Geológico y Minero de España
+2017;G;7;71;716/18009;;;Al Instituto Nacional de las Artes Escénicas y de la Música
+2017;G;7;71;716/26015;;;Al Instituto de la Mujer y para la Igualdad de Oportunidades
+2017;G;7;71;716/27015;;;Al Centro Español de Metrología
+2017;G;7;71;717/18006;;;Al Servicio Español para la Internacionalización de la Educación
+2017;G;7;71;717/18009;;;A la Gerencia de Infraestructuras y Equipamientos
+2017;G;7;71;717/25002;;;Al Consejo de Administración del Patrimonio Nacional
+2017;G;7;71;718/15026;;;Al Instituto Nacional de Administración Pública (INAP)
+2017;G;7;71;718/18006;;;Al Servicio Español para la Internacionalización de la Educación, para potenciar la proyección internacional del sistema universitario español y su oferta, así como la movilidad interuniversitaria
+2017;G;7;71;719/18006;;;A la Agencia Nacional de Evaluación de la Calidad y Acreditación
+2017;G;7;71;719/26015;;;Al Real Patronato sobre Discapacidad
+2017;G;7;72;;;;A la Seguridad Social
+2017;G;7;72;720/26015;;;Al IMSERSO, para el cumplimiento de sus fines
+2017;G;7;72;720/60001;;;A la Seguridad Social
+2017;G;7;72;720/60003;;;A la Seguridad Social
+2017;G;7;72;721;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar las operaciones de capital del Instituto Nacional de Gestión Sanitaria
+2017;G;7;72;726;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM
+2017;G;7;72;727;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina
+2017;G;7;72;729;;;Al IMSERSO para otros gastos en dependencia
+2017;G;7;73;;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo
+2017;G;7;73;730/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para atender los gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluidos los propuestos o a ejecutar por Organizaciones No Gubernamnetales, con destino a países en vías desarrollo.
+2017;G;7;73;730/15026;;;A la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios (AEVAL)
+2017;G;7;73;730/17009;;;Consejo Superior de Investigaciones Científicas
+2017;G;7;73;730/18001;;;A la Agencia Española de Protección de la Salud en el Deporte
+2017;G;7;73;730/18011;;;"Al Centro Nacional de Investigaciones Metalúrgicas del CSIC, para el proyecto ""Observatorio de Investigación en Conservación del Patrimonio"""
+2017;G;7;73;730/23004;;;Agencia Estatal de Meteorología
+2017;G;7;73;730/27011;;;Al Consejo Superior de Investigaciones Científicas (CSIC)
+2017;G;7;73;730/27103;;;A la Agencia Estatal CSIC para la realización de trabajos relativos a los efectos de la contaminación atmosférica sobre la vegetación
+2017;G;7;73;731/17020;;;Agencia Estatal de Seguridad Ferroviaria
+2017;G;7;73;731/27011;;;A la Agencia Estatal de Investigación
+2017;G;7;73;735/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
+2017;G;7;73;735/19001;;;Al Consejo Económico y Social
+2017;G;7;73;736;;;Al Museo Nacional Centro de Arte Reina Sofía, para la integración de la Arquitectura en el discurso museográfico
+2017;G;7;73;737/12003;;;Al Instituto Cervantes
+2017;G;7;73;737/15026;;;Al Consejo de Transparencia y Buen Gobierno
+2017;G;7;73;737/18009;;;Al Museo Nacional del Prado
+2017;G;7;73;737/20018;;;A la CNMC para financiar costes del sector eléctrico de acuerdo con el apartado b) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética
+2017;G;7;73;737/25002;;;Al Centro Nacional de Inteligencia
+2017;G;7;73;737/27003;;;A la Comisión Nacional de los Mercados y la Competencia (CNMC)
+2017;G;7;73;738/18009;;;Al Museo Nacional Centro de Arte Reina Sofía
+2017;G;7;73;738/20018;;;A la CNMC para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética
+2017;G;7;73;739;;;A la CNMC para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico
+2017;G;7;74;;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal
+2017;G;7;74;740/14001;;;Centros Universitarios de la Defensa
+2017;G;7;74;740/16005;;;A Trabajo Penitenciario y Formación para el Empleo
+2017;G;7;74;740/17009;;;Sepes
+2017;G;7;74;740/18006;;;A la Universidad Nacional de Educación a Distancia (UNED)
+2017;G;7;74;740/19003;;;A la Fundación del Servicio Interconfederal de Mediación y Arbitraje (SIMA)
+2017;G;7;74;740/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información
+2017;G;7;74;740/23004;;;Convenio con la Fundación Biodiversidad para inversiones en equipamiento
+2017;G;7;74;740/23010;;;Convenio con la Fundación Biodiversidad para acciones en cambio climático. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión
+2017;G;7;74;740/23107;;;Sociedad ACUAMED, para diversas obras de mejora de infraestructuras
+2017;G;7;74;740/23110;;;Sociedad ACUAES, convenio obras de Santa Lucia y Arroyo Niebla
+2017;G;7;74;740/25103;;;"A la Sociedad ""Hipódromo de la  Zarzuela S.A."", para financiar la ejecución de obras en el Hipódromo de la Zarzuela"
+2017;G;7;74;740/27016;;;Para actuaciones de fomento de la movilidad sostenible
+2017;G;7;74;740/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico
+2017;G;7;74;741/17009;;;Acción Cultural Española: Bienal de Venecia
+2017;G;7;74;741/17020;;;Sociedad Española de Estudios para la Comunicación Fija a través del Estrecho de Gibraltar, S.A. (SECEGSA)
+2017;G;7;74;741/17032;;;Sociedad Estatal de Salvamento y Seguridad Marítima (SASEMAR)
+2017;G;7;74;741/18107;;;A la Fundación del Gran Teatre del Liceu
+2017;G;7;74;741/20004;;;A la Sociedad Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A. (SEGITTUR)
+2017;G;7;74;741/20018;;;Al IDAE. Para financiar actuaciones de apoyo a la movilidad energéticamente eficiente y sostenible
+2017;G;7;74;741/23017;;;Planes nacionales de cultivos
+2017;G;7;74;741/23018;;;Fondo de Compensación de Incendios para la cobertura del riesgo de accidentes a las personas que intervienen en la extinción de incendios.
+2017;G;7;74;741/27107;;;A la Fundación Centro Nacional de Investigaciones Oncológicas Carlos III. Operaciones de capital
+2017;G;7;74;742/16004;;;Al Centro Universitario de la Guardia Civil
+2017;G;7;74;742/17009;;;Línea ICO
+2017;G;7;74;742/17020;;;Convenio con la Autoridad Portuaria de Pasajes para la construcción de la nueva lonja pesquera, polígono industrial-portuario de la Herrera-Sur, ampliación del silo de coches y conexión del puerto con Errentería-Kaputxinos
+2017;G;7;74;742/18107;;;Al Consorcio del Gran Teatre del Liceu
+2017;G;7;74;742/20004;;;Al ICO para tipos de interés de préstamos concedidos al amparo del Plan Renove Turismo 2009, incluidas obligaciones de ejercicios anteriores
+2017;G;7;74;742/23101;;;Programa de investigación de Parques Nacionales
+2017;G;7;74;742/27107;;;A la Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III. Operaciones de capital
+2017;G;7;74;743/16004;;;Al Centro Universitario de la Defensa en la Academia General Militar de Zaragoza
+2017;G;7;74;743/19101;;;A la Fundación Estatal para la Formación en el Empleo, para gastos de capital
+2017;G;7;74;743/20004;;;Al ICO para tipos de interés de préstamos concedidos al amparo del Plan FuturE 2009, incluidas obligaciones de ejercicios anteriores
+2017;G;7;74;743/23101;;;Programa de investigación en parques nacionales. PIMA ADAPTA
+2017;G;7;74;743/23105;;;Sociedad Estatal Aguas de las Cuencas de España, S.A. (ACUAES), para Presas Arenoso y La Breña II.
+2017;G;7;74;743/26002;;;"A la ""Fundación Española para la Cooperación Internacional,  Salud y Política Social"""
+2017;G;7;74;744;;;Subvenciones de intereses por préstamos de líneas de mediación instrumentados por el ICO
+2017;G;7;74;745;;;ADIF para mantenimiento red convencional
+2017;G;7;74;746/17020;;;ADIF para inversiones red convencional
+2017;G;7;74;746/20012;;;A Red.es
+2017;G;7;74;746/27107;;;A Centros de Investigación Biomédica en Red (CIBER)
+2017;G;7;74;747/16101;;;Para financiar proyectos de investigación sobre seguridad vial
+2017;G;7;74;747/20012;;;A icex
+2017;G;7;74;747/27008;;;Transferencias a entes públicos empresariales
+2017;G;7;74;747/27016;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.
+2017;G;7;74;748/17009;;;Actuaciones relacionadas con el 1 % Cultural
+2017;G;7;74;748/20012;;;Al Instituto Nacional de Ciberserguridad (INCIBE). Plan León
+2017;G;7;74;748/27107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa
+2017;G;7;74;749;;;Transferencias, ayudas nominativas y otros
+2017;G;7;75;;;;A Comunidades Autónomas
+2017;G;7;75;750/17009;;;Convenios específicos
+2017;G;7;75;750/18004;;;Plan Especial de Empleo de Canarias (infraestructura educativa)
+2017;G;7;75;750/18011;;;A la Fundación Real Fábrica de Tapices para la cancelación parcial de su pasivo acumulado
+2017;G;7;75;750/20004;;;Convenio Administración General del Estado y Comunidad Autónoma de Canarias para la rehabilitación de infraestructura y equipamiento en zonas turísticas
+2017;G;7;75;750/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información
+2017;G;7;75;750/23001;;;Subvenciones, indemnizaciones y ayudas.
+2017;G;7;75;750/23005;;;Convenio de Colaboración con el Gobierno de Canarias para desarrollo de actuaciones en materia de agua
+2017;G;7;75;750/23006;;;C. A. de Canarias para actuaciones en la costa
+2017;G;7;75;750/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el PIMA Residuos. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
+2017;G;7;75;750/23012;;;Fomento de la innovación tecnológica
+2017;G;7;75;750/23101;;;Compensaciones socioeconómicas a las áreas de influencia de los PPNN
+2017;G;7;75;750/23102;;;Canon de vertidos.
+2017;G;7;75;750/23103;;;Convenios de colaboración.
+2017;G;7;75;750/23114;;;País Vasco y Navarra por costes de traspaso fuera de cupo
+2017;G;7;75;750/27016;;;Para actuaciones de fomento de la movilidad sostenible
+2017;G;7;75;750/27103;;;Aportación a la Fundación Parque Científico de Madrid
+2017;G;7;75;750/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico
+2017;G;7;75;751/17009;;;Actuaciones relacionadas con el 1 % Cultural
+2017;G;7;75;751/17020;;;Convenio con la Comunidad Autónoma de las Illes Balears en materia de ferrocarril
+2017;G;7;75;751/18004;;;Plan Integral de Empleo (infraestructuras educativas). Instituto de Educación Saulo Torón (Gáldar)
+2017;G;7;75;751/18011;;;Aportación institucional al Consorcio de la Ciudad Monumental, Histórico-Artística y Arqueológica de Mérida para actuaciones arqueológicas
+2017;G;7;75;751/18106;;;Para la construcción y adaptación de centros de alto rendimiento y tecnificación
+2017;G;7;75;751/20004;;;Convenio Administración General del Estado y Comunidad Autónoma de Canarias para la rehabilitación de infraestructura y equipamiento en zonas turísticas. La Palma, La Gomera y El Hierro
+2017;G;7;75;751/20019;;;Al Laboratorio Oficial Madariaga para actuaciones en calidad y seguridad
+2017;G;7;75;751/20101;;;Reactivación económica de las comarcas mineras del carbón
+2017;G;7;75;751/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el PIMA ADAPTA COSTAS. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
+2017;G;7;75;751/23012;;;Fomento del asociacionismo
+2017;G;7;75;751/23101;;;Programa de Investigación en Parques Nacionales. PIMA Adapta
+2017;G;7;75;751/23104;;;Acuerdo de colaboración entre la Confederación Hidrográfica del Ebro y la Universidad de Girona para la elaboración de indicadores biológicos de diatomeas y clorifilas.
+2017;G;7;75;751/23109;;;C.A. de Castilla-La Mancha, trasvase Tajo-Segura.
+2017;G;7;75;751/27104;;;Para actividades de investigación
+2017;G;7;75;751/32001;;;A la Comunidad Autónoma de Andalucía
+2017;G;7;75;752/13002;;;A CC.AA. según Acuerdos de traspasos de funciones y servicios
+2017;G;7;75;752/17038;;;Convenio con la Generalitat de Cataluña sobre la B-23
+2017;G;7;75;752/18107;;;Al Consorcio de Rehabilitación de Teatros de Barcelona para ayudas a la rehabilitación de teatros privados de Barcelona
+2017;G;7;75;752/20019;;;Al Instituto Nacional de Silicosis para actuaciones en salud y seguridad
+2017;G;7;75;752/20101;;;Reactivación económica de las comarcas mineras del carbón en la Comunidad Autónoma del Principado de Asturias
+2017;G;7;75;752/23005;;;Convenio con la Junta de Andalucía para el aprovechamiento hidráulico del litoral mediterráneo
+2017;G;7;75;752/23008;;;Política de residuos
+2017;G;7;75;752/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el PIMA ADAPTA ECOSISTEMAS. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
+2017;G;7;75;752/23019;;;Sanidad de la producción agraria.
+2017;G;7;75;752/23101;;;Programa de Investigación en Parques Nacionales
+2017;G;7;75;752/23104;;;Transferencias a la Universidad de Valencia
+2017;G;7;75;752/23109;;;C.A. de Madrid, trasvase Tajo-Segura.
+2017;G;7;75;752/27104;;;Convenio CICYTEX
+2017;G;7;75;753/17009;;;Subvenciones Estatales  Planes de Vivienda
+2017;G;7;75;753/17038;;;A la Comunidad Autónoma de las Illes Balears según convenio
+2017;G;7;75;753/18011;;;Ayudas y subvenciones para financiar excavaciones arqueológicas en el exterior, dentro del plan establecido por el Instituto del Patrimonio Cultural de España
+2017;G;7;75;753/18107;;;A la Fundación Teatro de la Abadía para obras y equipamientos en la sede
+2017;G;7;75;753/23005;;;A la Comunidad Autónoma de Canarias, para financiar inversiones de depuración
+2017;G;7;75;753/23008;;;Adecuación de Puntos Limpios a la nueva normativa de RAEES
+2017;G;7;75;753/23014;;;Fomento del consumo de fruta en las escuelas
+2017;G;7;75;753/23109;;;C.A. de Extremadura, trasvase Tajo-Segura.
+2017;G;7;75;753/25004;;;A la Comunidad Autónoma de Aragón para financiar proyectos de inversión en la provincia de Teruel, incluyendo compensaciones por regularizaciones de ejercicios anteriores
+2017;G;7;75;754/18106;;;Ayudas para la actualización del Censo Nacional de Instalaciones Deportivas
+2017;G;7;75;754/23005;;;Plan Nacional de calidad de las aguas y del ciclo hídrico en Aragón.
+2017;G;7;75;754/23008;;;Implementación del Plan Estatal de Prevención de Residuos y del Plan Estatal Marco de Residuos.
+2017;G;7;75;754/23014;;;Fomento del consumo de leche en las escuelas.
+2017;G;7;75;754/32001;;;A la Comunidad Autónoma de Extremadura para financiar proyectos de inversión
+2017;G;7;75;755/17038;;;Convenio con la Comunidad Autónoma de Canarias
+2017;G;7;75;755/23005;;;Convenio con la Junta de Aragón para la limpieza del Lindano en el río Gállego
+2017;G;7;75;755/23012;;;Mejora de la organización de la producción y reordenación de los sectores productivos.
+2017;G;7;75;755/23016;;;Programa Operativo FEMP (Fondo Europeo Marítimo y de la Pesca) a CC.AA.
+2017;G;7;75;755/33003;;;Fondo de Compensación
+2017;G;7;75;755/33004;;;Fondo de Compensación
+2017;G;7;75;755/33005;;;Fondo de Compensación
+2017;G;7;75;755/33006;;;Fondo de Compensación
+2017;G;7;75;755/33008;;;Fondo de Compensación
+2017;G;7;75;755/33009;;;Fondo de Compensación
+2017;G;7;75;755/33011;;;Fondo de Compensación
+2017;G;7;75;755/33012;;;Fondo de Compensación
+2017;G;7;75;755/33014;;;Fondo de Compensación
+2017;G;7;75;755/33017;;;Fondo de Compensación
+2017;G;7;75;755/33018;;;Fondo de Compensación
+2017;G;7;75;755/33019;;;Fondo de Compensación
+2017;G;7;75;756/23012;;;Apoyo a la producción agrícola en el marco del Programa de Opciones Específicas por la lejanía y la Insularidad (POSEI)
+2017;G;7;75;756/23018;;;Financiación AGE a los PDRs 2014-2020
+2017;G;7;75;756/32001;;;A la Comunidad Autónoma de Canarias para financiar proyectos de inversión (Acuerdo Comisión Mixta de 16 de noviembre de 2015: IGTE)
+2017;G;7;75;756/33003;;;Fondo Complementario
+2017;G;7;75;756/33004;;;Fondo Complementario
+2017;G;7;75;756/33005;;;Fondo Complementario
+2017;G;7;75;756/33006;;;Fondo Complementario
+2017;G;7;75;756/33008;;;Fondo Complementario
+2017;G;7;75;756/33009;;;Fondo Complementario
+2017;G;7;75;756/33011;;;Fondo Complementario
+2017;G;7;75;756/33012;;;Fondo Complementario
+2017;G;7;75;756/33014;;;Fondo Complementario
+2017;G;7;75;756/33017;;;Fondo Complementario
+2017;G;7;75;756/33018;;;Fondo Complementario
+2017;G;7;75;756/33019;;;Fondo Complementario
+2017;G;7;75;757/16101;;;Para financiar proyectos de investigación sobre seguridad vial
+2017;G;7;75;757/23008;;;Actuaciones del Fondo del Patrimonio Natural y la Biodiversidad
+2017;G;7;75;758/17009;;;Organismos públicos de comunidades autónomas
+2017;G;7;75;758/17038;;;Convenios con Comunidades Autónomas
+2017;G;7;75;758/27107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa
+2017;G;7;75;759/20012;;;Agenda Digital para España
+2017;G;7;75;759/33020;;;Para financiar la incorporación de remanentes de crédito de los Fondos de Compensación Interterritorial
+2017;G;7;76;;;;A Entidades Locales
+2017;G;7;76;760/17009;;;Lorca (Murcia)
+2017;G;7;76;760/18011;;;A ayuntamientos, diputaciones y otros entes locales
+2017;G;7;76;760/20004;;;Al Ayuntamiento de Yaiza (Las Palmas) para la rehabilitación de espacios e infraestructuras turísticas en Playa Blanca
+2017;G;7;76;760/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información
+2017;G;7;76;760/23005;;;Convenios con Ayuntamientos del Pirineo Aragonés para el plan de actuación en el Ciclo Integral del Agua
+2017;G;7;76;760/23006;;;Obra nueva Paseo Marítimo de Valle Gran Rey, Isla de la Gomera
+2017;G;7;76;760/23103;;;Convenios de colaboración.
+2017;G;7;76;760/26015;;;Al Cabildo de La Palma. Plan de Infraestructuras Sociosanitarias. Rehabilitación y acondicionamiento del antiguo Hospital de Las Nieves
+2017;G;7;76;760/27011;;;Al Cabildo de Gran Canaria para el desarrollo de un programa experimental e integral de actividades de investigación y económicas ligadas a la explotación de los recursos marinos insulares
+2017;G;7;76;760/27016;;;Para actuaciones de fomento de la movilidad sostenible
+2017;G;7;76;760/27101;;;Para gastos originados por la explotación estadística del Padrón Municipal y la actualización mensual del Censo Electoral
+2017;G;7;76;760/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico
+2017;G;7;76;760/32002;;;Al Cabildo Insular de Tenerife, para la financiación del Tranvía/Metro Ligero Santa Cruz de Tenerife-La Laguna, según convenio suscrito con el Estado
+2017;G;7;76;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2017;G;7;76;761/16102;;;Para financiar obligaciones derivadas de convenios y acuerdos con otras administraciones
+2017;G;7;76;761/18011;;;Ayudas a proyectos de conservación, protección y difusión de bienes declarados Patrimonio Mundial
+2017;G;7;76;761/18106;;;Al Ayuntamiento de Tarragona para los JJMM18
+2017;G;7;76;761/20012;;;Al Cabildo de Gran Canaria para el desarrollo de un programa integral para convertir a Gran Canaria en una referencia piloto para el desarrollo de la Agenda Digital Española y de las directrices de la Unión Europea sobre islas inteligentes
+2017;G;7;76;761/23005;;;Convenio con Ayuntamientos de isla de Lanzarote para actuaciones en el Ciclo Integral del Agua
+2017;G;7;76;761/23006;;;Al Ayuntamiento de Santa María de Guía (Las Palmas) para Acondicionamiento litoral de San Felipe y la Playa del Vagabundo
+2017;G;7;76;761/32002;;;Al Ayuntamiento de Córdoba para financiar inversiones
+2017;G;7;76;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
+2017;G;7;76;762/17020;;;Convenio con el Cabildo Insular de Tenerife en materia de ferrocarril
+2017;G;7;76;762/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Ibiza
+2017;G;7;76;762/20004;;;Planes de recualificación integral de destinos turísticos
+2017;G;7;76;762/23005;;;Convenio con Ayuntamientos de Santa Lucía para actuaciones en el Ciclo Integral del Agua. Finalización red general de saneamiento del municipio de Santa Lucía (Las Palmas)
+2017;G;7;76;762/32002;;;Al Ayuntamiento de Lorca (Murcia) para financiar obras y servicios de reparación de infraestructuras, equipamientos y servicios de titularidad local. Real Decreto-ley 6/2011
+2017;G;7;76;763/17020;;;Convenio con el Cabildo Insular de Gran Canaria en materia de ferrocarril
+2017;G;7;76;763/17038;;;CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
+2017;G;7;76;763/18013;;;"Campaña de animación a la lectura ""María Moliner"" para proyectos de animación lectora en municipios de menos de 50.000 habitantes"
+2017;G;7;76;763/18106;;;Al Ayuntamiento de Palencia para polideportivo
+2017;G;7;76;763/23005;;;Convenio con Ayuntamiento de Yaiza para saneamiento, depuración y reutilización de El Golfo.
+2017;G;7;76;763/32002;;;Al Ayuntamiento de Almería para construcción de una biblioteca
+2017;G;7;76;764/17009;;;Actuaciones relacionadas con el 1 % Cultural
+2017;G;7;76;764/17020;;;Redacción del Proyecto de cubrición de la línea ferroviaria entre el Social Antzokia y el Parque de Gastañabaltza en Basauri-Bizkaia
+2017;G;7;76;764/17038;;;Convenio con el Ayuntamiento de Pontevedra
+2017;G;7;76;764/17039;;;Convenio con el Ayuntamiento de Las Palmas de Gran Canaria para financiar el Proyecto Metroguagua
+2017;G;7;76;764/18013;;;Al Ayuntamiento de Pájara para la construcción de Auditorio
+2017;G;7;76;764/18106;;;A corporaciones locales para obras de adaptación a los reglamentos de competición estatales, obras de accesibilidad y obras en infraestructuras deportivas relacionadas con la celebración de competiciones de carácter internacional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, en relación con el Real Decreto 419/1991
+2017;G;7;76;764/20001;;;Al Ayuntamiento de León para la construcción y equipamiento del Palacio de Congresos
+2017;G;7;76;764/20004;;;A la Mancomunidad de Municipios de la Costa del Sol Occidental para la puesta en marcha del Plan de Adecuación Turística de la Costa del Sol Occidental
+2017;G;7;76;764/25004;;;Para paliar daños temporal fachada Atlántica y Cantábrica. R. D. Ley 2/2014
+2017;G;7;76;764/32002;;;A la Ciudad de Melilla para reparar los daños causados por el terremoto de 25 de enero de 2016
+2017;G;7;76;765/18107;;;Al Consorcio de Rehabilitación de Teatros de Madrid para ayudas a la rehabilitación de teatros privados de Madrid
+2017;G;7;76;765/20004;;;Al Cabildo de Tenerife para rehabilitación de infraestructuras turísticas maduras (Puerto de la Cruz)
+2017;G;7;76;766/17038;;;Para financiar obras en los Convenios con los Consells Insulares de Mallorca, Menorca, Ibiza y Formentera (14-05-2009)
+2017;G;7;76;766/18107;;;A la Fundación Teatre Lliure-Teatre Public para obras y equipamientos en la sede
+2017;G;7;76;767/17038;;;Convenio con el Cabildo Insular de La Palma para la mejora de la carretera de acceso al Instituto Astrofísico de Canarias
+2017;G;7;76;767/20004;;;Al Ayuntamiento de Mogán (Las Palmas) para rehabilitación de infraestructuras turísticas maduras
+2017;G;7;76;768/20004;;;Al Consorcio Urbanístico para la rehabilitación de las zonas turísticas de San Agustín, Playa del Inglés y Maspalomas para la rehabilitación de infraestructuras turísticas maduras
+2017;G;7;76;768/20012;;;A la Fundación Barcelona Mobile World Capital
+2017;G;7;76;768/27107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa
+2017;G;7;76;769/18013;;;Al Ayuntamiento de Figueres para la rehabilitación de la Casa Natal de Salvador Dalí
+2017;G;7;76;769/20012;;;Agenda Digital para España
+2017;G;7;77;;;;A empresas privadas
+2017;G;7;77;770/17009;;;Actuaciones relacionadas con el 1 % Cultural
+2017;G;7;77;770/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información
+2017;G;7;77;770/23001;;;Apoyo financiero por daños ocasionados por la sequía y otras causas extraordinarias.
+2017;G;7;77;770/23012;;;Fomento de la innovación tecnológica.
+2017;G;7;77;770/27014;;;Actuaciones relacionadas con la Red CERVERA I+D+i
+2017;G;7;77;770/27016;;;Para actuaciones de fomento de la movilidad sostenible
+2017;G;7;77;770/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico
+2017;G;7;77;771/15014;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
+2017;G;7;77;771/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia.
+2017;G;7;77;771/18103;;;Ayudas a la cinematografía a través de empresas privadas
+2017;G;7;77;771/20101;;;Reactivación económica de las comarcas mineras del carbón
+2017;G;7;77;771/23012;;;Fomento de la modernización de maquinaria y tecnología agrícola
+2017;G;7;77;771/23014;;;Fomento del cooperativismo agrario para la estructuración de la oferta.
+2017;G;7;77;771/23016;;;"Control actividad pesquera ""Diario de a bordo electrónico"""
+2017;G;7;77;771/27016;;;Programa de Compensación costes indirectos. Régimen de Comercio de Derechos de Emisión de Gases de Efecto  Invernadero (RCDE)
+2017;G;7;77;772/17039;;;Programa de medidas para la mejora del sector del transporte por carretera
+2017;G;7;77;772/18013;;;Ayudas a la inversión en capital para incrementar la oferta legal de contenidos digitales culturales en Internet y para promover la modernización, innovación y adaptación tecnológica de las industrias culturales y creativas
+2017;G;7;77;772/20012;;;Agenda Digital para España - Formación Profesionales
+2017;G;7;77;772/20101;;;Ayudas a pequeños proyectos empresariales
+2017;G;7;77;772/23002;;;Análisis e información nacional de las magnitudes de los sectores
+2017;G;7;77;772/23004;;;Plan de Impulso al Medio Ambiente PIMA-Transporte. Actuaciones financiadas con ingresos procedentes de subasta de derechos de emisión
+2017;G;7;77;772/23016;;;Ayudas desarrollo nueva OCM, productos pesqueros
+2017;G;7;77;773/20012;;;Agenda Digital para España - Formación Usuarios
+2017;G;7;77;773/23018;;;Promoción y diversificación de la economía rural
+2017;G;7;77;774/23016;;;Ayudas a programas operativos de la Unión Europea
+2017;G;7;77;774/23114;;;Medidas de Desarrollo Rural
+2017;G;7;77;775/18013;;;Ayudas para la edición de libros
+2017;G;7;77;775/20012;;;Agenda Digital para España. Fondos destinados con carácter prioritario al desarrollo del Programa Nacional de extensión de la banda ancha de nueva generación en Canarias
+2017;G;7;77;775/27016;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores
+2017;G;7;77;776/18013;;;Ayudas para proyectos de revalorización cultural y modernización de las librerías
+2017;G;7;77;776/20012;;;Agenda Digital para España - Impulso de la Industria del Lenguaje Natural
+2017;G;7;77;776/23014;;;Fomento de la industrialización agroalimentaria
+2017;G;7;77;776/23016;;;Desarrollo tecnológico pesquero y acuícola
+2017;G;7;77;777/16101;;;Para financiar proyectos de investigación sobre seguridad vial
+2017;G;7;77;777/20019;;;Explotación, ordenación, productividad y seguridad minera
+2017;G;7;77;777/23018;;;Modernización de explotaciones.
+2017;G;7;77;777/27302;;;Para financiar costes del sector eléctrico de acuerdo con el apartado b) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética
+2017;G;7;77;778/20012;;;Agenda Digital para España - Internacionalización del Sector de las Comunicaciones y de la Sociedad de la Información
+2017;G;7;77;778/27302;;;Para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética
+2017;G;7;77;779/20012;;;Agenda Digital para España
+2017;G;7;77;779/27302;;;Para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico
+2017;G;7;78;;;;A familias e instituciones sin fines de lucro
+2017;G;7;78;780/17009;;;A fundaciones, instituciones y asociaciones sin ánimo de lucro
+2017;G;7;78;780/18011;;;Ayudas a entidades privadas sin ánimo de lucro para la mejora de las instalaciones y el equipamiento de sus archivos
+2017;G;7;78;780/19007;;;Transferencias a familias e instituciones sin fines de lucro
+2017;G;7;78;780/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información
+2017;G;7;78;780/23001;;;Becas de formación.
+2017;G;7;78;780/23012;;;Federacion Española de Asociaciones de Ganado Selecto (FEAGAS), para la gestión de los libros genealógicos y desarrollo de programas de mejora de razas ganaderas
+2017;G;7;78;780/23109;;;Familias e instituciones
+2017;G;7;78;780/26107;;;Ayudas a proyectos de investigación sobre temas de la mujer I+D+i
+2017;G;7;78;780/27016;;;Para actuaciones de fomento de la movilidad sostenible
+2017;G;7;78;780/27103;;;Dotación fundacional Fundación Ibercivis
+2017;G;7;78;780/27105;;;Becas de formación
+2017;G;7;78;780/27401;;;Formación de personal investigador
+2017;G;7;78;780/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico
+2017;G;7;78;781/17039;;;Programa de apoyo a Instituciones y Entidades sin fines de lucro relacionadas con el transporte por carretera
+2017;G;7;78;781/18011;;;Pago de indemnizaciones a que se refiere la disposición adicional novena de la Ley 16/1985, del Patrimonio Histórico Español
+2017;G;7;78;781/18013;;;Acciones relacionadas con el Plan de Fomento de la Lectura (2017-2020)
+2017;G;7;78;781/18106;;;A federaciones deportivas españolas para instalaciones y equipamiento
+2017;G;7;78;781/19007;;;Subvención a Cruz Roja Española para la atención de inmigrantes llegados a las costas españolas y en asentamientos
+2017;G;7;78;781/20012;;;Agenda Digital para España - Arte PYME
+2017;G;7;78;781/20019;;;Actuaciones de seguridad minera
+2017;G;7;78;781/23017;;;Fundación AZTI. Desarrollo de actividades de investigación en áreas relacionadas con la alimentación, la pesca y la oceanografía
+2017;G;7;78;781/26018;;;Para proyectos de investigación a desarrollar por entidades  públicas y privadas
+2017;G;7;78;782/14107;;;Ayuda al acceso a la propiedad de vivienda
+2017;G;7;78;782/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2017;G;7;78;782/17009;;;Ayudas para renta básica de emancipación de jóvenes, subsidiación de préstamos y otros apoyos a la vivienda
+2017;G;7;78;782/23018;;;"Proyecto LIFE Natura 2000. ""Conecting people with biodiversity"". Sociedad Española de Ornitología/Bird life."
+2017;G;7;78;782/27010;;;Cámara Oficial de Comercio, Industria, Servicios y Navegación de España. Plan Integral de Apoyo a la Competitividad del Comercio Minorista de España
+2017;G;7;78;783/17009;;;Consejo Superior de Colegios de Arquitectos de España. EUROPAN
+2017;G;7;78;783/20012;;;Agenda Digital para España - Consolidación ciudadanía
+2017;G;7;78;783/23018;;;Creación de grupos operativos y financiación de proyectos de innovación
+2017;G;7;78;784/18011;;;Aportaciones institucionales
+2017;G;7;78;784/18106;;;A la Real Federación Española de Fútbol para obras y equipamiento del futbol no profesional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
+2017;G;7;78;784/20012;;;Agenda Digital para España - Formación Profesionales
+2017;G;7;78;784/27401;;;A fundaciones para gastos derivados de convenios de colaboración
+2017;G;7;78;784/60002;;;A la Fundación Matia para la financiación del proyecto piloto de viviendas para mayores.
+2017;G;7;78;785/17009;;;Consejo Superior de Arquitectos de España. Bienales de Arquitectura (Española e Iberoamericana)
+2017;G;7;78;785/18011;;;A la Fundación José Ortega y Gasset - Gregorio Marañón para la rehabilitación y ampliación de la biblioteca y archivo de la Fundación
+2017;G;7;78;785/20012;;;Agenda Digital para España - Formación Usuarios
+2017;G;7;78;785/23014;;;Convenios de colaboración con Entidades sin ánimo de lucro.
+2017;G;7;78;785/27103;;;Aportación a la Fundación Energía sin Fronteras
+2017;G;7;78;786/17009;;;Fundación Mies Van der Rohe
+2017;G;7;78;786/20004;;;Programas de Colaboración con Actores Sociales de Turismo
+2017;G;7;78;787/16101;;;Para financiar proyectos de investigación sobre seguridad vial
+2017;G;7;78;787/17009;;;Otras transferencias a fundaciones y entidades sin fin de lucro
+2017;G;7;78;787/27016;;;A familias e instituciones sin fines de lucro
+2017;G;7;78;788/18006;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores incluido pago de primas de seguros de los becarios
+2017;G;7;78;788/18011;;;Ayudas y subvenciones para financiar excavaciones arqueológicas en el exterior dentro del plan establecido por el Instituto del Patrimonio Cultural de España
+2017;G;7;78;788/27107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa
+2017;G;7;78;789/17009;;;Actuaciones relacionadas con el 1 % Cultural
+2017;G;7;78;789/18006;;;A la Fundación César Carlos para mantenimiento y reforma de su sede
+2017;G;7;78;789/20012;;;Agenda Digital para España
+2017;G;7;78;789/27012;;;A la Fundación Barcelona Centro de Diseño para los Premios Nacionales de Innovación y de Diseño
+2017;G;7;78;789/27016;;;Plan de Promoción de la Innovación en Calidad y Seguridad Industrial
+2017;G;7;79;;;;Al exterior
+2017;G;7;79;790/17001;;;Asentamientos Humanos (UN-Habitat) para América Latina y Caribe
+2017;G;7;79;790/19007;;;Para centros e instituciones asociativas de carácter social, benéfico, cultural y educativo
+2017;G;7;79;790/23018;;;Programa Operativo ESPON
+2017;G;7;79;790/23101;;;Programa de Cooperación Internacional
+2017;G;7;79;790/25301;;;Transferencias al exterior
+2017;G;7;79;790/27014;;;A la ESO para la construcción del Telescopio Europeo Extremadamente Grande (E-ELT)
+2017;G;7;79;790/27015;;;Para la financiación de la participación en Programas Espaciales, incluidas obligaciones de ejercicios anteriores
+2017;G;7;79;790/27103;;;Participación en el Broader Aproach para Fusión
+2017;G;7;79;790/27104;;;Actividades de investigación en el exterior
+2017;G;7;79;791/20302;;;Al exterior
+2017;G;7;79;791/23401;;;Contribución a EUMETSAT para satélites meteorologicos
+2017;G;7;79;791/27103;;;Aportación al Institute for Energy Technology para el proyecto HALDEN
+2017;G;7;79;791/34001;;;Aportación al Fondo Europeo de Desarrollo (FED)
+2017;G;7;79;792/12401;;;Entidades culturales en el exterior
+2017;G;7;79;792/16002;;;Contribución a Organismos Internacionales
+2017;G;7;79;792/27103;;;Aportación al CERN para el experimento CMS
+2017;G;7;79;793/18006;;;Al Colegio de España en París para inversiones
+2017;G;7;79;793/27103;;;Aportación al CERN para el experimento n_TOF. Para obligaciones de ejercicios anteriores
+2017;G;7;79;794/16002;;;Ayudas y subvenciones en el ámbito de la cooperación policial internacional
+2017;G;7;79;794/27103;;;Participación en el fondo general y común de los experimentos L32, CMS y AMS del CERN
+2017;G;7;79;795;;;Aportación al CNRS para experimento DOUBLE CHOOZ
+2017;G;7;79;796/12401;;;Para Ayuda Oficial al Desarrollo
+2017;G;7;79;796/27103;;;Aportación al Test Infraesturcture Accelerator Research Area (TIARA)
+2017;G;7;79;797;;;Aportación al CERN para el desarrollo de prototipos imanes superconductores
+2017;G;7;79;798;;;Aportación al Proyecto STEAM 3
+2017;G;7;79;799;;;Aportación al CERN para el experimento AMS
+2017;G;8;;;;;Activos financieros
+2017;G;8;80;;;;Adquisición de deuda del Sector Público
+2017;G;8;80;800;;;Adquisición de deuda del Sector Público a corto plazo
+2017;G;8;80;801;;;Adquisición de deuda del Sector Público a largo plazo
+2017;G;8;82;;;;Concesión de préstamos al Sector Público
+2017;G;8;82;820;;;Préstamos a corto plazo
+2017;G;8;82;821;;;Préstamos a largo plazo
+2017;G;8;82;822;;;Prestamos a la Seguridad Social para su equilibrio financiero
+2017;G;8;82;823/27012;;;Fondo para la investigación científica y el desarrollo tecnológico
+2017;G;8;82;823/27016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
+2017;G;8;83;;;;Concesión de préstamos fuera del Sector Público
+2017;G;8;83;830;;;Préstamos a corto plazo
+2017;G;8;83;831;;;Préstamos a largo plazo
+2017;G;8;83;832/27014;;;Actuaciones relacionadas con la Red CERVERA I+D+i
+2017;G;8;83;832/27015;;;Para la financiación del Programa Nacional de Observación de la Tierra
+2017;G;8;83;832/27016;;;Aportaciones reembolsables a empresas para desarrollo de proyectos tecnológicos industriales cualificados relacionados con Programas de Defensa
+2017;G;8;83;833/20004;;;Líneas de préstamos a empresas del sector turístico
+2017;G;8;83;833/27012;;;Fondo para la investigación científica y el desarrollo tecnológico
+2017;G;8;83;833/27016;;;Apoyo financiero a la inversión industrial
+2017;G;8;83;834;;;Para la financiación de proyectos estratégicos de desarrollo en el sector aeronáutico
+2017;G;8;83;835;;;Para actuaciones de transformación digital de la industria
+2017;G;8;84;;;;Constitución de depósitos y fianzas
+2017;G;8;84;840;;;Depósitos
+2017;G;8;84;841;;;Fianzas
+2017;G;8;85;;;;Adquisición de acciones y participaciones del Sector Público
+2017;G;8;85;850;;;Adquisición de acciones y participaciones del Sector Público
+2017;G;8;85;851/23005;;;Sociedades estatales de agua
+2017;G;8;85;851/23018;;;Sociedad Estatal de Infraestructuras Agrarias, S.A. (SEIASA)
+2017;G;8;86;;;;Adquisición de acciones y participaciones de fuera del Sector Público
+2017;G;8;86;860;;;De empresas nacionales o de la Unión Europea
+2017;G;8;86;863;;;Pago de otros justiprecios
+2017;G;8;87;;;;Aportaciones patrimoniales
+2017;G;8;87;870;;;Aportaciones patrimoniales
+2017;G;8;87;871/17020;;;ADIF-Alta Velocidad
+2017;G;8;87;871/20004;;;Fondo Financiero del Estado para la Modernización de las Infraestructuras Turísticas Maduras (FOMIT)
+2017;G;8;87;871/23010;;;Fondo de carbono para una economía sostenible
+2017;G;8;87;871/26015;;;Fondo de apoyo para la promoción y desarrollo de infraestructuras y servicios del Sistema de Autonomía y Atención a la Dependencia
+2017;G;8;87;871/27009;;;Al Fondo para la Internacionalización de la Empresa (FIEM)
+2017;G;8;87;872/17020;;;ADIF para amortización de deuda a largo plazo
+2017;G;8;87;872/20012;;;A Red.es para aportación de socio a INCIBE
+2017;G;8;87;872/27003;;;Al Consorcio de Compensación de Seguros para compensar el déficit derivado de la actividad de reaseguros de crédito, Real Decreto-ley 3/2009
+2017;G;8;87;872/27009;;;Al Fondo para Inversiones en el Exterior (FIEX)
+2017;G;8;87;873/12003;;;Fondo de Cooperación para Agua y Saneamiento
+2017;G;8;87;873/17020;;;Adif
+2017;G;8;87;873/27009;;;Al Fondo de Operaciones de Inversión en el Exterior de la Pequeña y Mediana Empresa (FONPYME)
+2017;G;8;87;874/12003;;;Fondo para la Promoción del Desarrollo (FONPRODE)
+2017;G;8;87;874/27009;;;Al Fondo de Reserva de los Riesgos de la Internacionalización (FRRI)
+2017;G;8;87;875;;;Fondo de Garantía del Pago de Alimentos
+2017;G;8;87;876/15001;;;Aportación patrimonial al Consorcio de la Zona Franca de Sevilla
+2017;G;8;87;876/20012;;;A Red.es
+2017;G;8;87;877;;;Aportación Patrimonial al Fondo de Financiación a Comunidades Autónomas
+2017;G;8;87;878;;;Aportación Patrimonial al Fondo de Financiación a Entidades Locales
+2017;G;8;88;;;;Dotaciones
+2017;G;8;88;880;;;Afectos al Fondo de Reserva de la Seguridad Social
+2017;G;8;88;881;;;Afectos al Fondo de Contingencias Profesionales
+2017;G;8;88;882;;;Afectos a la reserva complementaria de estabilización por cese de actividad
+2017;G;8;89;;;;Suscripción de acciones y aportaciones a fondos de organismos internacionales
+2017;G;8;89;891;;;Real Decreto-Ley 4/2016. A la Junta Única de Resolución según lo establecido en Artículo 1
+2017;G;8;89;892;;;Aportación al Mecanismo Europeo de Estabilidad (MEDE)
+2017;G;8;89;895;;;Instituciones Financieras Multilaterales
+2017;G;9;;;;;Pasivos financieros
+2017;G;9;90;;;;Amortización de deuda pública en euros
+2017;G;9;90;900;;;Amortización  de deuda  pública en euros a corto plazo
+2017;G;9;90;901;;;Amortización de deuda pública en euros a largo plazo
+2017;G;9;91;;;;Amortización de préstamos en euros
+2017;G;9;91;910;;;Amortización de préstamos a corto plazo de entes del Sector Público
+2017;G;9;91;911;;;Amortización de préstamos a largo plazo de entes del Sector Público
+2017;G;9;91;912;;;Amortización de préstamos a corto plazo de entes de fuera del Sector Público
+2017;G;9;91;913;;;Amortización de préstamos a largo plazo de entes de fuera del Sector Público
+2017;G;9;92;;;;Amortización de deuda pública en moneda extranjera
+2017;G;9;92;921;;;Amortización de deuda pública en moneda extranjera a largo plazo
+2017;G;9;94;;;;Devolución de depósitos y fianzas
+2017;G;9;94;940;;;Devolución de depósitos
+2017;G;9;94;941;;;Devolución de fianzas
+2017;G;9;95;;;;Puesta en circulación de moneda metálica
+2017;G;9;95;951;;;Puesta en circulación negativa de moneda metálica
+2017;I;1;;;;;Impuestos directos y cotizaciones sociales
+2017;I;1;10;;;;Sobre la renta
+2017;I;1;10;100;;;De las personas físicas
+2017;I;1;10;101;;;De sociedades
+2017;I;1;10;102;;;De no residentes
+2017;I;1;11;;;;Sobre el capital
+2017;I;1;11;119;;;Otros impuestos sobre el capital
+2017;I;1;12;;;;Cotizaciones sociales
+2017;I;1;12;120;;;Cotizaciones de los regímenes especiales de funcionarios
+2017;I;1;12;121;;;Cotizaciones del Regimen General
+2017;I;1;12;122;;;Cotizaciones del R.E.T. Autonomos
+2017;I;1;12;124;;;Cotizaciones R.E. Trabajadores del Mar
+2017;I;1;12;125;;;Cotizaciones R.E. Mineria del Carbon
+2017;I;1;12;127;;;Cotizaciones de acctes. trabajo y e. p.
+2017;I;1;12;128;;;Cotizaciones de desempleados, cese de actividad de trabajadores autónomos y bonificaciones para el fomento del empleo
+2017;I;1;12;129;;;Otras cotizaciones
+2017;I;1;13;;;;Sobre la producción y almacenamiento de energía eléctrica y combustible
+2017;I;1;13;130;;;Sobre el valor de la producción de la energía eléctrica
+2017;I;1;13;131;;;Sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica en impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radioactivos en instalaciones centralizadas
+2017;I;2;;;;;Impuestos indirectos
+2017;I;2;21;;;;Sobre el Valor Añadido
+2017;I;2;21;210;;;Impuesto sobre el Valor Añadido
+2017;I;2;22;;;;Sobre consumos específicos
+2017;I;2;22;220;;;Impuestos especiales
+2017;I;2;23;;;;Sobre tráfico exterior
+2017;I;2;23;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías
+2017;I;2;23;231;;;Exacciones reguladoras y otros gravámenes agrícolas
+2017;I;2;28;;;;Otros impuestos indirectos
+2017;I;2;28;280;;;Cotización, producción y almacenamiento de azúcar e isoglucosa
+2017;I;2;28;281;;;Impuesto sobre las Primas de Seguros
+2017;I;2;28;282;;;Sobre transmisiones patrimoniales intervivos
+2017;I;2;28;283;;;Impuesto sobre actividades del juego
+2017;I;2;28;285;;;Impuesto sobre los Gases Fluorados de Efecto Invernadero
+2017;I;3;;;;;Tasas, precios publicos y otros ingresos
+2017;I;3;30;;;;Tasas
+2017;I;3;30;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros
+2017;I;3;30;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre
+2017;I;3;30;302;;;Tasa por dirección e inspección de obras
+2017;I;3;30;303;;;Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social
+2017;I;3;30;304;;;Tasas de expedición de D.N.I. y Pasaportes
+2017;I;3;30;305;;;Tasas consulares
+2017;I;3;30;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica
+2017;I;3;30;309;;;Otras tasas
+2017;I;3;31;;;;Precios Públicos
+2017;I;3;31;310;;;Derechos de matrícula en cursos y seminarios
+2017;I;3;31;311;;;Entradas a museos, exposiciones, espectáculos, etc.
+2017;I;3;31;317;;;Cursos impartidos para otros Entes Públicos.
+2017;I;3;31;319;;;Otros precios públicos
+2017;I;3;32;;;;Otros ingresos procedentes de prestación de servicios
+2017;I;3;32;320;;;Comisiones por avales y seguros de operaciones financieras
+2017;I;3;32;321;;;Renta de aduanas. Derechos menores
+2017;I;3;32;322;;;De la Administración financiera
+2017;I;3;32;327;;;De asistencia sanitaria
+2017;I;3;32;328;;;De servicios sociales
+2017;I;3;32;329;;;Otros ingresos procedentes de prestación de servicios
+2017;I;3;33;;;;Venta de bienes
+2017;I;3;33;330;;;Venta de publicaciones propias
+2017;I;3;33;331;;;Venta en comisión de publicaciones
+2017;I;3;33;332;;;Venta de fotocopias y otros productos de reprografía
+2017;I;3;33;333;;;Venta de medicamentos
+2017;I;3;33;334;;;Venta de productos agropecuarios
+2017;I;3;33;335;;;Venta de material de desecho
+2017;I;3;33;338;;;Venta de monedas de colección
+2017;I;3;33;339;;;Venta de otros bienes
+2017;I;3;37;;;;Cotizaciones de asociados
+2017;I;3;37;370;;;Cotizaciones de asociados
+2017;I;3;38;;;;Reintegros de operaciones corrientes
+2017;I;3;38;380;;;De ejercicios cerrados
+2017;I;3;38;381;;;Del presupuesto corriente
+2017;I;3;39;;;;Otros ingresos
+2017;I;3;39;391;;;Recargos y multas
+2017;I;3;39;393;;;Diferencias entre los valores de reembolso y emisión
+2017;I;3;39;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial)
+2017;I;3;39;395;;;Rappels por compras
+2017;I;3;39;398/15302;;;Ingresos extraordinarios
+2017;I;3;39;398/60004;;;Ingresos afectados a la cobertura de los recargos por falta de medidas de seguridad e higiene
+2017;I;3;39;398/98001;;;Ingresos procedentes de herencias abintestato. Artículo 956 del Código Civil
+2017;I;3;39;399;;;Ingresos diversos
+2017;I;4;;;;;Transferencias corrientes
+2017;I;4;40;;;;De la Administración del Estado
+2017;I;4;40;400;;;Del departamento al que está adscrito
+2017;I;4;40;401;;;De otros departamentos ministeriales
+2017;I;4;40;402;;;Del departamento al que está adscrito
+2017;I;4;40;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
+2017;I;4;40;405;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto Ley 7/2013, de 28 de junio
+2017;I;4;41;;;;De Organismos Autónomos
+2017;I;4;41;410;;;Transferencias corrientes de Organismos Autónomos
+2017;I;4;41;411;;;Del Servicio Público de Empleo Estatal
+2017;I;4;41;412;;;Del Servicio Público de Empleo Estatal: para Escuelas Taller y Casas de Oficio en el Exterior
+2017;I;4;42;;;;De la Seguridad Social
+2017;I;4;42;420/19101;;;Transferencia de la Seguridad Social para financiar las medidas de formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad. Ejercicio corriente
+2017;I;4;42;420/19104;;;De la Seguridad Social
+2017;I;4;42;420/98001;;;Transferencias corrientes de la Seguridad Social
+2017;I;4;42;421;;;Aportaciones para sosteni. SS.CC.
+2017;I;4;42;422;;;Ingresos por servicios prestados entre Entidades del Sistema
+2017;I;4;42;423;;;Cuotas de reaseguro de Acctes. T.
+2017;I;4;42;428;;;Aplicaciones del Fondo de Contingencias Profesionales
+2017;I;4;42;429;;;Otras transferencias recibidas de entidades del sistema
+2017;I;4;43;;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo
+2017;I;4;43;430/14101;;;Del Consejo Superior de Investigaciones Científicas
+2017;I;4;43;430/18101;;;De la Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC)
+2017;I;4;43;430/98001;;;Agencia Estatal Boletín Oficial del Estado
+2017;I;4;43;431;;;Agencia Española de Medicamentos y Productos Sanitarios
+2017;I;4;43;435;;;Compensación de gastos de gestión centralizada
+2017;I;4;44;;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal
+2017;I;4;44;441;;;De entidades públicas empresariales
+2017;I;4;44;442;;;De fundaciones públicas
+2017;I;4;44;449;;;Del resto del Sector Público Estatal
+2017;I;4;45;;;;De Comunidades Autónomas
+2017;I;4;45;450;;;Contribuciones Concertadas
+2017;I;4;45;453;;;Compensación a satisfacer por la Comunidad Autónoma de Canarias por la supresión del I.G.T.E.
+2017;I;4;45;456;;;Compensaciones financieras del País Vasco
+2017;I;4;45;457;;;Compensación a Navarra. Impuesto almacenamiento energía
+2017;I;4;45;458;;;Por Fondo de Suficiencia y otros
+2017;I;4;45;459;;;Otras transferencias corrientes
+2017;I;4;46;;;;De Entidades Locales
+2017;I;4;46;460;;;De Ayuntamientos
+2017;I;4;47;;;;De empresas privadas
+2017;I;4;47;470/12301;;;De empresas privadas
+2017;I;4;47;470/18301;;;Ingresos de empresas privadas
+2017;I;4;47;470/18302;;;Ingresos de empresas privadas
+2017;I;4;47;470/19104;;;Transferencias de empresas privadas
+2017;I;4;47;470/25101;;;Provenientes de empresas de propiedad privada
+2017;I;4;47;470/98001;;;De empresas privadas
+2017;I;4;47;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes
+2017;I;4;47;479/18101;;;Otras transferencias corrientes
+2017;I;4;47;479/18107;;;De empresas privadas
+2017;I;4;48;;;;De familias e instituciones sin fines de lucro
+2017;I;4;48;480;;;De familias e instituciones sin fines de lucro
+2017;I;4;48;489;;;Otras transferencias corrientes
+2017;I;4;49;;;;Del exterior
+2017;I;4;49;490;;;Del Fondo Social Europeo
+2017;I;4;49;491;;;Del Fondo Europeo Agrícola de Garantía (FEAGA)
+2017;I;4;49;492;;;Otras transferencias de la Unión Europea
+2017;I;4;49;493;;;Aportaciones derivadas de convenios internacionales de cooperación
+2017;I;4;49;494;;;De la Unión Europea-PAC
+2017;I;4;49;499;;;Otras transferencias corrientes
+2017;I;5;;;;;Ingresos patrimoniales
+2017;I;5;50;;;;Intereses de títulos y valores
+2017;I;5;50;500;;;Del Estado
+2017;I;5;50;504;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal
+2017;I;5;50;505;;;De Comunidades Autónomas
+2017;I;5;50;506;;;De Entidades Locales
+2017;I;5;50;507;;;De empresas privadas
+2017;I;5;51;;;;Intereses de anticipos y préstamos concedidos
+2017;I;5;51;514;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal
+2017;I;5;51;515;;;A Comunidades Autónomas
+2017;I;5;51;516;;;A Entidades Locales
+2017;I;5;51;517;;;A empresas privadas
+2017;I;5;51;518;;;A familias e instituciones sin fines de lucro
+2017;I;5;51;519;;;Al exterior
+2017;I;5;52;;;;Intereses de depósitos
+2017;I;5;52;520;;;Intereses de cuentas bancarias
+2017;I;5;52;529;;;Intereses de otros depósitos
+2017;I;5;53;;;;Dividendos y participaciones en beneficios
+2017;I;5;53;534;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal
+2017;I;5;53;537;;;De empresas privadas
+2017;I;5;54;;;;Rentas de bienes inmuebles
+2017;I;5;54;540;;;Alquiler y productos de inmuebles
+2017;I;5;54;542;;;Alquiler de aulas y otras instalaciones formativas.
+2017;I;5;54;549;;;Otras rentas
+2017;I;5;55;;;;Productos de concesiones y aprovechamientos especiales
+2017;I;5;55;550;;;De concesiones administrativas
+2017;I;5;55;551;;;Aprovechamientos agrícolas y forestales
+2017;I;5;55;555;;;Aprovechamientos agrícolas y forestales
+2017;I;5;55;557;;;Subastas de derechos de emisión de gases de efecto invernadero
+2017;I;5;55;559;;;Otras concesiones y aprovechamientos
+2017;I;5;59;;;;Otros ingresos patrimoniales
+2017;I;5;59;599;;;Otros
+2017;I;6;;;;;Enajenacion de inversiones reales
+2017;I;6;60;;;;De terrenos
+2017;I;6;60;600;;;Venta de solares
+2017;I;6;60;601;;;Venta de fincas rústicas
+2017;I;6;61;;;;De las demás inversiones reales
+2017;I;6;61;616;;;Enajenación de bienes destinados a uso general
+2017;I;6;61;619;;;Venta de otras inversiones reales
+2017;I;6;68;;;;Reintegros por operaciones de capital
+2017;I;6;68;680;;;De ejercicios cerrados
+2017;I;6;68;681;;;Del presupuesto corriente
+2017;I;7;;;;;Transferencias de capital
+2017;I;7;70;;;;De la Administración del Estado
+2017;I;7;70;700;;;Del departamento al que está adscrito
+2017;I;7;70;701;;;De otros departamentos ministeriales
+2017;I;7;70;702/18105;;;Del departamento al que está adscrito
+2017;I;7;70;702/27302;;;Para la compensación del sistema eléctrico
+2017;I;7;70;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo
+2017;I;7;71;;;;De Organismos Autónomos
+2017;I;7;71;710;;;Transferencias de capital de organismos autónomos
+2017;I;7;71;711;;;"Del FEGA ""Ayudas de Desarrollo Rural"""
+2017;I;7;72;;;;De la Seguridad Social
+2017;I;7;72;720;;;Transferencias de capital de la Seguridad Social
+2017;I;7;73;;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo
+2017;I;7;73;736;;;De otros organismos públicos
+2017;I;7;74;;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal
+2017;I;7;74;740;;;Sociedades mercantiles estatales
+2017;I;7;75;;;;De Comunidades Autónomas
+2017;I;7;75;750/23102;;;De Comunidades Autónomas
+2017;I;7;75;750/23109;;;De Comunidades Autónomas
+2017;I;7;75;750/27105;;;De Comunidades Autónomas
+2017;I;7;75;750/27106;;;De comunidades autónomas
+2017;I;7;75;750/27401;;;Para ejecución de proyectos de investigación
+2017;I;7;75;759;;;Otras transferencias de capital
+2017;I;7;76;;;;De Entidades Locales
+2017;I;7;76;760;;;De Ayuntamientos
+2017;I;7;76;761;;;De Diputaciones y Cabildos Insulares
+2017;I;7;76;769;;;Otras transferencias de capital
+2017;I;7;77;;;;De empresas privadas
+2017;I;7;77;772;;;De empresas
+2017;I;7;77;779;;;De empresas privadas
+2017;I;7;78;;;;De familias e instituciones sin fines de lucro
+2017;I;7;78;780;;;De familias e instituciones sin fines de lucro
+2017;I;7;78;782;;;Ayudas a la investigación
+2017;I;7;79;;;;Del exterior
+2017;I;7;79;790;;;Fondo Europeo de Desarrollo Regional
+2017;I;7;79;791;;;Fondo de Cohesión
+2017;I;7;79;792;;;Fondo Europeo de la Pesca y otros recursos agrícolas y pesqueros
+2017;I;7;79;793;;;Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
+2017;I;7;79;794;;;Fondo Social Europeo
+2017;I;7;79;795;;;Otras transferencias de la Unión Europea
+2017;I;7;79;796;;;Fondo Social Europeo
+2017;I;7;79;799;;;Otras transferencias
+2017;I;8;;;;;Activos financieros
+2017;I;8;80;;;;Enajenación de deuda del Sector Público
+2017;I;8;80;800;;;Enajenación de deuda del Sector Público a corto plazo
+2017;I;8;80;801;;;Enajenación de deuda del Sector Público a largo plazo
+2017;I;8;81;;;;Enajenación de obligaciones y bonos de fuera del Sector Público
+2017;I;8;81;810;;;Enajenación de obligaciones y bonos de fuera del Sector Público a corto plazo
+2017;I;8;81;811;;;Enajenación de obligaciones y bonos de fuera del Sector Público a largo plazo
+2017;I;8;82;;;;Reintegros de préstamos concedidos al Sector Público
+2017;I;8;82;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo
+2017;I;8;82;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo
+2017;I;8;83;;;;Reintegros de préstamos concedidos fuera del Sector Público
+2017;I;8;83;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo
+2017;I;8;83;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo
+2017;I;8;84;;;;Devolución de depósitos y fianzas
+2017;I;8;84;840;;;Devolución de depósitos
+2017;I;8;84;841;;;Devolución de fianzas
+2017;I;8;87;;;;Remanente de tesorería
+2017;I;8;87;870;;;Remanente de tesorería
+2017;I;8;89;;;;Utilización de activos financieros afectos al Fondo de Reserva de la Seguridad Social y a otros Fondos del Sistema
+2017;I;8;89;890;;;Al Fondo de Reserva de la Seguridad Social
+2017;I;9;;;;;Pasivos financieros
+2017;I;9;91;;;;Préstamos recibidos en euros
+2017;I;9;91;911;;;Préstamos recibidos a largo plazo de entes del Sector Público
+2017;I;9;91;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.
+2017;I;9;91;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público
+2017;I;9;94;;;;Depósitos y fianzas recibidos
+2017;I;9;94;940;;;Depósitos recibidos
+2017;I;9;94;941;;;Fianzas recibidas
