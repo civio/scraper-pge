@@ -34,7 +34,7 @@ class IncomeBreakdown < BaseBreakdown
 
   def entity_name
     doc.css('td').each do |td|  # Brute force
-      return $1 if td.text =~ /^(?:Servicio|Organismo): \d+ (.+)$/
+      return $1 if td.text =~ /^(?:Servicio|Organismo|Entidad): \d+ (.+)$/
     end
   end
 

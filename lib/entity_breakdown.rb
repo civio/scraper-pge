@@ -107,7 +107,7 @@ class EntityBreakdown < BaseBreakdown
     data_grid = []
     get_data_rows.each do |row|
       columns = row.css('td').map{|td| td.text.strip}
-      columns.shift if ['2012', '2013', '2014', '2015', '2016', '2017'].include? year
+      columns.shift if ['2012', '2013', '2014', '2015', '2016', '2017', '2018'].include? year
       columns.insert(0,'') unless is_state_entity? # They lack the first column, 'service'
 
       # There's a typo in 2017P that threatens to screw up our unfolding of conflicting ids
@@ -152,7 +152,7 @@ class EntityBreakdown < BaseBreakdown
   end
   
   def self.get_expense_breakdown_filename_regex(year, is_state_entity)
-    if year == '2017'
+    if ['2017', '2018'].include? year
       # 2017P grouped the agencies and other bodies kind of a 'level down' in the hierarchy,
       # so the filenames are affected. Since the regex catches all those from 2012-2016
       # we could replace the old one, but didn't have to test the change when parsing

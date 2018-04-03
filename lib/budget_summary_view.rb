@@ -111,14 +111,19 @@ class BudgetSummaryView < Mustache
     checks.concat check_expenses('R_6_2_801_1_3', "Estado", :estado)
     checks.concat check_expenses('R_6_2_802_1_3', "Organismos Autónomos", :ooaa)
     checks.concat check_expenses('R_6_2_803_1_3', "Agencias estatales", :agencias)
-    checks.concat check_expenses('R_6_2_804_1_3', "Otros organismos", :otros)
+    # Seems like they forgot some files with summary data in 2018. WTF!
+    if @year != '2018'
+      checks.concat check_expenses('R_6_2_804_1_3', "Otros organismos", :otros)
+    end
     checks.concat check_expenses('R_6_2_805_1_3', "Seguridad Social", :seg_social)
 
     # Income
     checks.concat check_income('R_6_1_101_1_5_1', "Estado", :estado)
     checks.concat check_income('R_6_1_102_1_4_1', "Organismos Autónomos", :ooaa)
     checks.concat check_income('R_6_1_103_1_4_1', "Agencias estatales", :agencias)
-    checks.concat check_income('R_6_1_104_1_4_1', "Otros organismos", :otros)
+    if @year != '2018'
+      checks.concat check_income('R_6_1_104_1_4_1', "Otros organismos", :otros)
+    end
     checks.concat check_income('R_6_1_105_1_5_1', "Seguridad Social", :seg_social)
 
     # Return results
@@ -167,7 +172,7 @@ class BudgetSummaryView < Mustache
     # adding up gross figures for the different chapters? Or does it add net figures, and 
     # add the transfers at the end to get the overall gross figure. Well, it depends on the 
     # year of the budget! Oh yeah!
-    add_gross_figures = ['2014', '2015', '2016', '2017'].include? @year
+    add_gross_figures = ['2014', '2015', '2016', '2017', '2018'].include? @year
     if add_gross_figures
       gross_total_name = "TOTAL PRESUPUESTO"
     else
@@ -191,7 +196,7 @@ class BudgetSummaryView < Mustache
                           beautify(sum(@expenses[entity_id], 9)),
                           url )
 
-    if transfers != 0 or ['2014', '2015', '2016', '2017'].include? @year # snif
+    if transfers != 0 or ['2014', '2015', '2016', '2017', '2018'].include? @year # snif
       checks << check_equal("Gastos #{entity_description} - presupuesto consolidado", 
                             get_official_value(expenses, "TOTAL CONSOLIDADO"),
                             beautify(sum(@expenses[entity_id], 9)+transfers),
