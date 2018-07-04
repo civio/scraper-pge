@@ -1,0 +1,265 @@
+EJERCICIO;GRUPO;FUNCION;SUBFUNCION;PROGRAMA;DESCRIPCION CORTA;DESCRIPCION LARGA
+2018;0;;;;;Transferencias internas
+2018;0;00;;;;Transferencias internas
+2018;0;00;000;000X;;Transferencias internas
+2018;1;;;;;Servicios públicos básicos
+2018;1;11;;;;Justicia
+2018;1;11;111;111M;;Gobierno del Poder Judicial
+2018;1;11;111;111N;;Dirección y Servicios Generales de Justicia
+2018;1;11;111;111O;;Selección y formación de jueces
+2018;1;11;111;111P;;Documentación y publicaciones judiciales
+2018;1;11;111;111Q;;Formación del Personal de la Administración de Justicia
+2018;1;11;111;111R;;Formación de la Carrera Fiscal
+2018;1;11;112;112A;;Tribunales de Justicia y Ministerio Fiscal
+2018;1;11;113;113M;;Registros vinculados con la Fe Pública
+2018;1;12;;;;Defensa
+2018;1;12;121;121M;;Administración y Servicios Generales de Defensa
+2018;1;12;121;121N;;Formación del Personal de las Fuerzas Armadas
+2018;1;12;121;121O;;Personal en reserva
+2018;1;12;122;122A;;Modernización de las Fuerzas Armadas
+2018;1;12;122;122B;;Programas especiales de modernización
+2018;1;12;122;122M;;Gastos Operativos de las Fuerzas Armadas
+2018;1;12;122;122N;;Apoyo Logístico
+2018;1;13;;;;Seguridad ciudadana e instituciones penitenciarias
+2018;1;13;131;131M;;Dirección y Servicios Generales de Seguridad y Protección Civil
+2018;1;13;131;131N;;Formación de Fuerzas y Cuerpos de Seguridad del Estado
+2018;1;13;131;131O;;Fuerzas y Cuerpos en reserva
+2018;1;13;131;131P;;Derecho de asilo y apátridas
+2018;1;13;132;132A;;Seguridad ciudadana
+2018;1;13;132;132B;;Seguridad vial
+2018;1;13;132;132C;;Actuaciones policiales en materia de droga
+2018;1;13;133;133A;;Centros e Instituciones Penitenciarias
+2018;1;13;134;134M;;Protección Civil
+2018;1;13;135;135M;;Protección de datos de carácter personal
+2018;1;14;;;;Política exterior
+2018;1;14;141;141M;;Dirección y Servicios Generales de Asuntos Exteriores
+2018;1;14;142;142A;;Acción del Estado en el exterior
+2018;1;14;142;142B;;Acción Diplomática para Asuntos Europeos
+2018;1;14;143;143A;;Cooperación para el desarrollo
+2018;1;14;144;144A;;Cooperación, promoción y difusión cultural en el exterior
+2018;1;14;144;144B;;Cooperación, promoción y difusión educativa en el exterior
+2018;2;;;;;Protección y promoción social
+2018;2;21;;;;Pensiones
+2018;2;21;211;211M;;Pensiones contributivas de la Seguridad Social
+2018;2;21;211;211N;;Pensiones de Clases Pasivas
+2018;2;21;211;211O;;Otras pensiones y prestaciones de Clases Pasivas
+2018;2;21;212;212M;;Pensiones no contributivas y prestaciones asistenciales
+2018;2;21;212;212N;;Pensiones de guerra
+2018;2;21;212;212O;;Gestión y control de los complementos a mínimos de pensiones
+2018;2;21;219;219M;;Gestión de las prestaciones económicas de Seguridad Social
+2018;2;21;219;219N;;Gestión de pensiones de Clases Pasivas
+2018;2;22;;;;Otras prestaciones económicas
+2018;2;22;221;221M;;Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social
+2018;2;22;222;222M;;Prestaciones económicas del Mutualismo Administrativo
+2018;2;22;223;223M;;Prestaciones de garantía salarial
+2018;2;22;224;224M;;Prestaciones económicas por cese de actividad
+2018;2;23;;;;Servicios sociales y promoción social
+2018;2;23;231;231A;;Plan Nacional sobre Drogas
+2018;2;23;231;231B;;Acciones en favor de los emigrantes
+2018;2;23;231;231C;;Servicios Sociales de la Seguridad Social a personas con discapacidad
+2018;2;23;231;231D;;Servicios Sociales de la Seguridad Social a personas mayores
+2018;2;23;231;231E;;Otros servicios sociales de la Seguridad Social
+2018;2;23;231;231F;;Otros servicios sociales del Estado
+2018;2;23;231;231G;;Atención a la infancia y a las familias
+2018;2;23;231;231H;;Acciones en favor de los inmigrantes
+2018;2;23;231;231I;;Autonomía personal y atención a la dependencia
+2018;2;23;232;232A;;Promoción y servicios a la juventud
+2018;2;23;232;232B;;Igualdad de oportunidades entre mujeres y hombres
+2018;2;23;232;232C;;Actuaciones para la prevención integral de la violencia de género
+2018;2;23;239;239M;;"Gestión de los servicios sociales de la Seguridad Social"
+2018;2;24;;;;Fomento del empleo
+2018;2;24;241;241A;;Fomento de la inserción y estabilidad laboral
+2018;2;24;241;241B;;Formación Profesional para el Empleo
+2018;2;24;241;241N;;Desarrollo del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas
+2018;2;25;;;;Desempleo
+2018;2;25;251;251M;;Prestaciones a los desempleados
+2018;2;26;;;;Acceso a la vivienda y fomento de la edificación
+2018;2;26;261;261N;;Promoción, administración y ayudas para rehabilitación y acceso a vivienda
+2018;2;26;261;261O;;Ordenación y fomento de la edificación
+2018;2;26;261;261P;;Urbanismo y política del suelo
+2018;2;29;;;;Gestión y administración de la Seguridad Social
+2018;2;29;291;291A;;Inspección y control de Seguridad y Protección Social
+2018;2;29;291;291M;;Dirección y Servicios Generales de Seguridad Social y Protección Social
+2018;3;;;;;Bienes públicos de carácter preferente
+2018;3;31;;;;Sanidad
+2018;3;31;311;311M;;Dirección y Servicios Generales de Sanidad, Servicios Sociales e Igualdad
+2018;3;31;311;311O;;Políticas de Salud y Ordenación Profesional
+2018;3;31;312;312A;;Asistencia hospitalaria en las Fuerzas Armadas
+2018;3;31;312;312B;;Atención primaria de salud. Instituto Nacional de Gestión Sanitaria
+2018;3;31;312;312C;;Atención especializada de salud. Instituto Nacional de Gestión Sanitaria
+2018;3;31;312;312D;;Medicina marítima
+2018;3;31;312;312E;;Asistencia sanitaria del Mutualismo Administrativo
+2018;3;31;312;312F;;Atención primaria de salud de Mutuas colaboradoras con la Seguridad Social e Instituto Social de la Marina
+2018;3;31;312;312G;;Atención especializada de salud de Mutuas colaboradoras con la Seguridad Social e Instituto Social de la Marina
+2018;3;31;313;313A;;Prestaciones sanitarias y farmacia
+2018;3;31;313;313B;;Salud pública, sanidad exterior y calidad
+2018;3;31;313;313C;;Seguridad alimentaria y nutrición
+2018;3;31;313;313D;;Donación y trasplante de órganos, tejidos y células
+2018;3;32;;;;Educación
+2018;3;32;321;321M;;Dirección y Servicios Generales de Educación, Cultura y Deporte
+2018;3;32;321;321N;;Formación permanente del profesorado de Educación
+2018;3;32;322;322A;;Educación Infantil y Primaria
+2018;3;32;322;322B;;Educación Secundaria, Formación Profesional y Escuelas Oficiales de Idiomas
+2018;3;32;322;322C;;Enseñanzas universitarias
+2018;3;32;322;322E;;Enseñanzas artísticas
+2018;3;32;322;322F;;Educación en el exterior
+2018;3;32;322;322G;;Educación compensatoria
+2018;3;32;322;322I;;Enseñanzas especiales
+2018;3;32;322;322L;;Inversiones en centros educativos y otras actividades educativas
+2018;3;32;323;323M;;Becas y ayudas a estudiantes
+2018;3;33;;;;Cultura
+2018;3;33;332;332A;;Archivos
+2018;3;33;332;332B;;Bibliotecas
+2018;3;33;333;333A;;Museos
+2018;3;33;333;333B;;Exposiciones
+2018;3;33;334;334A;;Promoción y cooperación cultural
+2018;3;33;334;334B;;Promoción del libro y publicaciones culturales
+2018;3;33;334;334C;;Fomento de las industrias culturales
+2018;3;33;335;335A;;Música y danza
+2018;3;33;335;335B;;Teatro
+2018;3;33;335;335C;;Cinematografía
+2018;3;33;336;336A;;Fomento y apoyo de las actividades deportivas
+2018;3;33;337;337A;;Administración del Patrimonio Histórico-Nacional
+2018;3;33;337;337B;;Conservación y restauración de bienes culturales
+2018;3;33;337;337C;;Protección del Patrimonio Histórico
+2018;4;;;;;Actuaciones de carácter económico
+2018;4;41;;;;Agricultura, pesca y alimentación
+2018;4;41;412;412C;;Competitividad y calidad de la producción y los mercados agrarios
+2018;4;41;412;412D;;Competitividad y calidad de la sanidad agraria
+2018;4;41;412;412M;;Regulación de los mercados agrarios
+2018;4;41;413;413A;;Competitividad industria agroalimentaria y calidad alimentaria
+2018;4;41;414;414A;;Gestión de recursos hídricos para el regadío
+2018;4;41;414;414B;;Desarrollo del medio rural
+2018;4;41;415;415A;;Protección de los recursos pesqueros y desarrollo sostenible
+2018;4;41;415;415B;;Mejora de estructuras y mercados pesqueros
+2018;4;41;416;416A;;Previsión de riesgos en las producciones agrarias y pesqueras
+2018;4;42;;;;Industria y energía
+2018;4;42;421;421M;;Dirección y Servicios Generales de Energía, Turismo y Agenda Digital
+2018;4;42;421;421N;;Regulación y protección de la Propiedad Industrial
+2018;4;42;421;421O;;Calidad y seguridad industrial
+2018;4;42;422;422A;;Incentivos regionales a la localización industrial
+2018;4;42;422;422B;;Desarrollo industrial
+2018;4;42;422;422M;;Reconversión y reindustrialización
+2018;4;42;423;423M;;Desarrollo alternativo de las comarcas mineras del carbón
+2018;4;42;423;423N;;Explotación minera
+2018;4;42;424;424M;;Seguridad nuclear y protección radiológica
+2018;4;42;425;425A;;Normativa y desarrollo energético
+2018;4;43;;;;Comercio, turismo y PYMES
+2018;4;43;431;431A;;Promoción comercial e internacionalización de la empresa
+2018;4;43;431;431N;;Ordenación del comercio exterior
+2018;4;43;431;431O;;Ordenación y modernización de las estructuras comerciales
+2018;4;43;432;432A;;Coordinación y promoción del turismo
+2018;4;43;433;433M;;Apoyo a la pequeña y mediana empresa
+2018;4;44;;;;Subvenciones al transporte
+2018;4;44;441;441M;;Subvenciones y apoyo al transporte terrestre
+2018;4;44;441;441N;;Subvenciones y apoyo al transporte marítimo
+2018;4;44;441;441O;;Subvenciones y apoyo al transporte aéreo
+2018;4;44;441;441P;;Subvenciones al transporte extrapeninsular de mercancías
+2018;4;45;;;;Infraestructuras
+2018;4;45;451;451M;;Estudios y servicios de asistencia técnica en Obras Públicas y Urbanismo
+2018;4;45;451;451N;;Dirección y Servicios Generales de Fomento
+2018;4;45;451;451O;;Dirección y Servicios Generales de Agricultura y Pesca, Alimentación y Medio Ambiente
+2018;4;45;452;452A;;Gestión e infraestructuras del agua
+2018;4;45;452;452M;;Normativa y ordenación territorial de los recursos hídricos
+2018;4;45;453;453A;;Infraestructura del transporte ferroviario
+2018;4;45;453;453B;;Creación de infraestructura de carreteras
+2018;4;45;453;453C;;Conservación y explotación de carreteras
+2018;4;45;453;453M;;Ordenación e inspección del transporte terrestre
+2018;4;45;453;453N;;Regulación y supervisión de la seguridad ferroviaria
+2018;4;45;453;453O;;Comisión de Investigación de Accidentes Ferroviarios
+2018;4;45;454;454M;;Regulación y seguridad del tráfico marítimo
+2018;4;45;454;454O;;Comisión de Investigación de Accidentes e Incidentes Marítimos
+2018;4;45;455;455M;;Regulación y supervisión de la aviación civil
+2018;4;45;455;455O;;Comisión de Investigación de Accidentes e Incidentes de Aviación Civil
+2018;4;45;456;456A;;Calidad del agua
+2018;4;45;456;456B;;Protección y mejora del medio ambiente
+2018;4;45;456;456C;;Protección y mejora del medio natural
+2018;4;45;456;456D;;Actuación en la costa
+2018;4;45;456;456M;;Actuaciones para la prevención de la contaminación y el cambio climático
+2018;4;45;457;457M;;Infraestructuras en comarcas mineras del carbón
+2018;4;46;;;;Investigación, desarrollo e innovación
+2018;4;46;462;462M;;Investigación y estudios sociológicos y constitucionales
+2018;4;46;462;462N;;Investigación y estudios estadísticos y económicos
+2018;4;46;463;463A;;Investigación científica
+2018;4;46;463;463B;;Fomento y coordinación de la investigación científica y técnica
+2018;4;46;464;464A;;Investigación y estudios de las Fuerzas Armadas
+2018;4;46;464;464B;;Apoyo a la innovación tecnológica en el sector de la defensa
+2018;4;46;465;465A;;Investigación sanitaria
+2018;4;46;467;467B;;Investigación, desarrollo y experimentación en transporte e infraestructuras
+2018;4;46;467;467C;;Investigación y desarrollo tecnológico-industrial
+2018;4;46;467;467D;;Investigación y experimentación agraria
+2018;4;46;467;467E;;Investigación oceanográfica y pesquera
+2018;4;46;467;467F;;Investigación geológico-minera y medioambiental
+2018;4;46;467;467G;;Investigación y desarrollo de la Sociedad de la Información
+2018;4;46;467;467H;;Investigación energética, medioambiental y tecnológica
+2018;4;46;467;467I;;Innovación tecnológica de las telecomunicaciones
+2018;4;49;;;;Otras actuaciones de carácter económico
+2018;4;49;491;491M;;Ordenación y promoción de las telecomunicaciones y de la Sociedad de la Información
+2018;4;49;491;491N;;Servicio postal universal
+2018;4;49;492;492M;;Defensa de la competencia en los mercados y regulación de los sectores productivos
+2018;4;49;492;492N;;Regulación y vigilancia de la competencia en el Mercado de Tabacos
+2018;4;49;492;492O;;Protección y promoción de los derechos de los consumidores y usuarios
+2018;4;49;493;493M;;Dirección, control y gestión de seguros
+2018;4;49;493;493O;;Regulación contable y de auditorías
+2018;4;49;494;494M;;Administración de las relaciones laborales y condiciones de trabajo
+2018;4;49;495;495A;;Desarrollo y aplicación de la información geográfica española
+2018;4;49;495;495B;;Meteorología
+2018;4;49;495;495C;;Metrología
+2018;4;49;496;496M;;Regulación del juego
+2018;4;49;497;497M;;Salvamento y lucha contra la contaminación en la mar
+2018;9;;;;;Actuaciones de carácter general
+2018;9;91;;;;Alta dirección
+2018;9;91;911;911M;;Jefatura del Estado
+2018;9;91;911;911N;;Actividad legislativa
+2018;9;91;911;911O;;Control externo del Sector Público
+2018;9;91;911;911P;;Control Constitucional
+2018;9;91;911;911Q;;Apoyo a la gestión administrativa de la Jefatura del Estado
+2018;9;91;912;912M;;Presidencia del Gobierno
+2018;9;91;912;912N;;Alto asesoramiento del Estado
+2018;9;91;912;912O;;Relaciones con las Cortes Generales, Secretariado del Gobierno y apoyo a la Alta Dirección
+2018;9;91;912;912P;;Asesoramiento del Gobierno en materia social, económica y laboral
+2018;9;91;912;912Q;;Asesoramiento para la protección de los intereses nacionales
+2018;9;92;;;;Servicios de carácter general
+2018;9;92;921;921N;;Dirección y organización de la Administración Pública
+2018;9;92;921;921O;;Formación del personal de las Administraciones Públicas
+2018;9;92;921;921P;;Administración periférica del Estado
+2018;9;92;921;921Q;;Cobertura informativa
+2018;9;92;921;921R;;Publicidad de las normas legales
+2018;9;92;921;921S;;Asesoramiento y defensa de los intereses del Estado
+2018;9;92;921;921T;;Servicios de transportes de Ministerios
+2018;9;92;921;921U;;Publicaciones
+2018;9;92;921;921X;;Evaluación de la transparencia de la actividad pública
+2018;9;92;922;922M;;Organización territorial del Estado y desarrollo de sus sistemas de colaboración
+2018;9;92;922;922N;;Coordinación y relaciones financieras con los Entes Territoriales
+2018;9;92;923;923A;;Gestión del Patrimonio del Estado
+2018;9;92;923;923C;;Elaboración y difusión estadística
+2018;9;92;923;923M;;Dirección y Servicios Generales de Hacienda y Función Pública
+2018;9;92;923;923N;;Formación del personal de Economía y Hacienda
+2018;9;92;923;923O;;Gestión de la Deuda y de la Tesorería del Estado
+2018;9;92;923;923P;;Relaciones con Instituciones Financieras Multilaterales
+2018;9;92;923;923Q;;Dirección y Servicios Generales de Economía, Industria y Competitividad
+2018;9;92;923;923R;;Contratación centralizada
+2018;9;92;923;923S;;Aportaciones al Mutualismo Administrativo
+2018;9;92;924;924M;;Elecciones y Partidos Políticos
+2018;9;92;929;929N;;Fondo de contingencia de ejecución presupuestaria
+2018;9;93;;;;Administración financiera y tributaria
+2018;9;93;931;931M;;Previsión y política económica
+2018;9;93;931;931N;;Política presupuestaria
+2018;9;93;931;931O;;Política tributaria
+2018;9;93;931;931P;;Control interno y Contabilidad Pública
+2018;9;93;931;931Q;;Control y Supervisión de la Política Fiscal
+2018;9;93;932;932A;;Aplicación del sistema tributario estatal
+2018;9;93;932;932M;;Gestión del catastro inmobiliario
+2018;9;93;932;932N;;Resolución de reclamaciones económico-administrativas
+2018;9;94;;;;Transferencias a otras admones. públicas
+2018;9;94;941;941M;;Transferencias a Comunidades Autónomas por participación en los ingresos del Estado
+2018;9;94;941;941N;;Transferencias a Comunidades Autónomas por los Fondos de Compensación Interterritorial
+2018;9;94;941;941O;;Otras transferencias a Comunidades Autónomas
+2018;9;94;942;942A;;Cooperación económica local del Estado
+2018;9;94;942;942M;;Transferencias a Entidades Locales por participación en los ingresos del Estado
+2018;9;94;942;942N;;Otras aportaciones a Entidades Locales
+2018;9;94;943;943M;;Transferencias al Presupuesto General de la Unión Europea
+2018;9;94;943;943N;;Cooperación al desarrollo a través del Fondo Europeo de Desarrollo
+2018;9;95;;;;Deuda pública
+2018;9;95;951;951M;;Amortización y gastos financieros de la deuda pública en euros
+2018;9;95;951;951N;;Amortización y gastos financieros de la deuda pública en moneda extranjera
