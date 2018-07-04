@@ -32,10 +32,10 @@ class ProgrammeBreakdown < BaseBreakdown
     # Try to go for the exact CSS class first...
     cell = doc.css('.S0ESTILO3').first
 
-    # ...but the 2014 approved budget is a auto-generated CSS mess piece of shit.
+    # ...but the 2014 and 2018 approved budgets are auto-generated CSS mess pieces of shit.
     if cell.nil?
       doc.css('td').each do |td|  # Brute force
-        if td.text =~ /^Secci/
+        if td.text =~ /^\s*Secci/ # Careful with shitty whitespace at the beginning
           cell = td
           break
         end
@@ -43,18 +43,23 @@ class ProgrammeBreakdown < BaseBreakdown
     end
 
     # Finally
-    cell.text.strip =~ /^Sección: (\d\d) (.+)$/
-    [$1, $2]
+    cell.text.strip =~ /^\s*Sección: (\d\d) (.+)$/
+    # 2018 approved budget has some weird new-line character which I couldn't get the regex
+    # to ignore. I tried adding /\s*/ at the end, didn't work. I would expect the existing `strip`
+    # on the left-hand-side to take care of it, but didn't. Since I don't have time to find
+    # out what exactly they've added in there, I'm adding a second `strip` call on the result.
+    # It shouldn't be necessary, but it is, in order to return a clean string.
+    [$1, $2.strip]
   end
 
   def get_programme_id_and_name
     # Try to go for the exact CSS class first...
     cell = doc.css('.S0ESTILO3').last
 
-    # ...but the 2014 approved budget is a auto-generated CSS mess piece of shit.
+    # ...but the 2014 and 2018 approved budgets are auto-generated CSS mess pieces of shit.
     if cell.nil?
       doc.css('td').each do |td|  # Brute force
-        if td.text =~ /^Programa/
+        if td.text =~ /^\s*Programa/  # Careful with shitty whitespace at the beginning (2018 budget)
           cell = td
           break
         end
@@ -62,7 +67,7 @@ class ProgrammeBreakdown < BaseBreakdown
     end
 
     # Finally
-    cell.text.strip =~ /^Programa: (\d\d\d\w) (.+)$/
+    cell.text.strip =~ /^\s*Programa: (\d\d\d\w) (.+)$/
     [$1, $2]
   end
 

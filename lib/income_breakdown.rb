@@ -28,13 +28,17 @@ class IncomeBreakdown < BaseBreakdown
   # This bit always breaks every year, so I'm using brute force...
   def section_name
     doc.css('td').each do |td|  # Brute force
-      return $1 if td.text =~ /^Sección: \d\d (.+)$/
+      # Careful with leading whitespace.
+      # Also, in 2018 there are some weird new line characters at the end, so we `strip`
+      # the result. See ProgrammeBreakdown::get_section_id_and_name for a longer
+      # explanation.
+      return $1.strip if td.text =~ /^\s*Sección: \d\d (.+)$/
     end
   end
 
   def entity_name
     doc.css('td').each do |td|  # Brute force
-      return $1 if td.text =~ /^(?:Servicio|Organismo|Entidad): \d+ (.+)$/
+      return $1.strip if td.text =~ /^(?:Servicio|Organismo|Entidad): \d+ (.+)$/
     end
   end
 

@@ -42,11 +42,14 @@ class EntityBreakdown < BaseBreakdown
     # Note: the name may include accented characters, so '\w' doesn't work in regex
     if is_state_entity?
       doc.css('td').each do |td|  # Brute force
-        return $1 if td.text =~ /^Sección: \d\d (.+)$/
+        # Also, in 2018 there are some weird new line characters at the end, so we `strip`
+        # the result. See ProgrammeBreakdown::get_section_id_and_name for a longer
+        # explanation.
+        return $1.strip if td.text =~ /^\s*Sección: \d\d (.+)$/     # Careful with leading whitespace (2018 budget)
       end
     else
       doc.css('td').each do |td|  # Brute force
-        return $1 if td.text =~ /^Organismo: \d\d\d (.+)$/
+        return $1.strip if td.text =~ /^\s*Organismo: \d\d\d (.+)$/ # Careful with leading whitespace (2018 budget)
       end
     end
   end
