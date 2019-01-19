@@ -13,8 +13,8 @@ Los Presupuestos Generales del Estado están disponibles en la web del Ministeri
 
 Las descargas se pueden hacer "por tomos", donde un fichero PDF representa cada uno de los tomos que componen la versión física del Presupuesto, pero para procesar la información automáticamente es mucho mejor la versión "normal", que incluye una versión HTML de cada uno de los artículos del Presupuesto.
 
-[1]: http://www.sepg.pap.minhap.gob.es/sitios/sepg/es-ES/Presupuestos/pge2014/Paginas/pge2014.aspx
-[2]: http://www.sepg.pap.minhap.gob.es/sitios/sepg/es-ES/Presupuestos/pge2014/Documents/LIBROAZUL2014.pdf
+[1]: http://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/Presupuestos/Paginas/MenuSitio.aspx
+[2]: http://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/Presupuestos/PresupuestosEjerciciosAnteriores/Documents/EJERCICIO%202018/LIBRO%20AZUL%202018%20%28con%20marcadores%29.pdf
 
 Entendiendo la estructura de ficheros
 -------------------------------------
