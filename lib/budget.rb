@@ -123,6 +123,6 @@ class Budget
   # Reads a number in spanish notation. Also note input number is in thousands of euros.
   def self.convert_number(amount)
     return '' if amount.nil? or amount.empty? or amount.delete('.').nil?
-    (BigDecimal.new( amount.delete('.').tr(',','.') ) * 1000).to_int
+    (BigDecimal( amount.delete('.').tr(',','.') ) * 1000).to_int
   end
 end
