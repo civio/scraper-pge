@@ -34,10 +34,11 @@ Existen tareas Rake para ejecutar las tareas relacionadas con los presupuestos:
 
 Para extraer los datos de gastos de los Presupuestos, ejecutar por ejemplo:
 
-    > rake budget:parse[2014]
+    $ mkdir output/2014
+    $ rake "budget:parse[2014]"
 
 Los datos extraídos se redirigen a ficheros en la carpeta `output/[año]/`.
 
 Para generar un resumen con las principales cifras del presupuesto, así como verificar su validez comparándolas con las cifras oficiales, ejecutar:
 
-    > rake budget:summary[2014]
+    $ rake "budget:summary[2014]"
