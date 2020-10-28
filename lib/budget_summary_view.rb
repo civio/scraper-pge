@@ -55,6 +55,19 @@ class BudgetSummaryView < Mustache
     if section == '60'
       category = :seg_social
     else
+      # There were some changes in 2018, where Agencies and Other Bodies were joined. E.g.
+      # 2017:
+      #   12001 Ministerio de Asuntos Exteriores
+      #   13101 Centro de Estudios Jurídicos
+      #   12301 Instituto Cervantes
+      #   12401 AECID
+      #
+      # 2018:
+      #   12001 Ministerio de Asuntos Exteriores
+      #   13101 Centro de Estudios Jurídicos
+      #   12301 Instituto Cervantes
+      #   12302 AECID
+
       case entity[2]
       when '1', '2'
         category = :ooaa
@@ -110,19 +123,22 @@ class BudgetSummaryView < Mustache
     # Expenses
     checks.concat check_expenses('R_6_2_801_1_3', "Estado", :estado)
     checks.concat check_expenses('R_6_2_802_1_3', "Organismos Autónomos", :ooaa)
-    checks.concat check_expenses('R_6_2_803_1_3', "Agencias estatales", :agencias)
-    # Seems like they forgot some files with summary data in 2018. WTF!
     if @year.to_i < 2018
+      checks.concat check_expenses('R_6_2_803_1_3', "Agencias estatales", :agencias)
       checks.concat check_expenses('R_6_2_804_1_3', "Otros organismos", :otros)
+    else
+      checks.concat check_expenses('R_6_2_803_1_3', "Otros organismos", :otros)
     end
     checks.concat check_expenses('R_6_2_805_1_3', "Seguridad Social", :seg_social)
 
     # Income
     checks.concat check_income('R_6_1_101_1_5_1', "Estado", :estado)
     checks.concat check_income('R_6_1_102_1_4_1', "Organismos Autónomos", :ooaa)
-    checks.concat check_income('R_6_1_103_1_4_1', "Agencias estatales", :agencias)
     if @year.to_i < 2018
+      checks.concat check_income('R_6_1_103_1_4_1', "Agencias estatales", :agencias)
       checks.concat check_income('R_6_1_104_1_4_1', "Otros organismos", :otros)
+    else
+      checks.concat check_income('R_6_1_103_1_4_1', "Otros organismos", :otros)
     end
     checks.concat check_income('R_6_1_105_1_5_1', "Seguridad Social", :seg_social)
 
