@@ -1,0 +1,325 @@
+EJERCICIO;GRUPO;FUNCION;SUBFUNCION;PROGRAMA;DESCRIPCION CORTA;DESCRIPCION LARGA
+2021;0;;;;;Transferencias internas
+2021;0;00;;;;Transferencias internas
+2021;0;00;000;000X;;Transferencias y libramientos internos
+2021;1;;;;;Servicios públicos básicos
+2021;1;11;;;;Justicia
+2021;1;11;110;110A;;Justicia. Mecanismo de Recuperación y Resiliencia
+2021;1;11;111;111M;;Gobierno del Poder Judicial
+2021;1;11;111;111N;;Dirección y Servicios Generales de Justicia
+2021;1;11;111;111O;;Selección y formación de jueces
+2021;1;11;111;111P;;Documentación y publicaciones judiciales
+2021;1;11;111;111Q;;Formación del Personal de la Administración de Justicia
+2021;1;11;111;111R;;Formación de la Carrera Fiscal
+2021;1;11;112;112A;;Tribunales de Justicia y Ministerio Fiscal
+2021;1;11;113;113M;;Registros vinculados con la Fe Pública
+2021;1;12;;;;Defensa
+2021;1;12;120;120A;;Defensa. Mecanismo de Recuperación y Resiliencia
+2021;1;12;121;121M;;Administración y Servicios Generales de Defensa
+2021;1;12;121;121N;;Formación del Personal de las Fuerzas Armadas
+2021;1;12;121;121O;;Personal en reserva
+2021;1;12;122;122A;;Modernización de las Fuerzas Armadas
+2021;1;12;122;122B;;Programas especiales de modernización
+2021;1;12;122;122M;;Gastos Operativos de las Fuerzas Armadas
+2021;1;12;122;122N;;Apoyo Logístico
+2021;1;13;;;;Seguridad ciudadana e instituciones penitenciarias
+2021;1;13;130;130A;;Seguridad Ciudadana. Mecanismo de Recuperación y Resiliencia
+2021;1;13;131;131M;;Dirección y Servicios Generales de Seguridad y Protección Civil
+2021;1;13;131;131N;;Formación de Fuerzas y Cuerpos de Seguridad del Estado
+2021;1;13;131;131O;;Fuerzas y Cuerpos en reserva
+2021;1;13;131;131P;;Derecho de asilo y apátridas
+2021;1;13;132;132A;;Seguridad ciudadana
+2021;1;13;132;132B;;Seguridad vial
+2021;1;13;132;132C;;Actuaciones policiales en materia de droga
+2021;1;13;133;133A;;Centros e Instituciones Penitenciarias
+2021;1;13;134;134M;;Protección Civil
+2021;1;13;135;135M;;Protección de datos de carácter personal
+2021;1;14;;;;Política exterior
+2021;1;14;140;140A;;Política Exterior. Mecanismo de Recuperación y Resiliencia
+2021;1;14;140;140B;;Cooperación, promoción y difusión educativa en el exterior. Mecanismo de Recuperación y Resiliencia
+2021;1;14;141;141M;;Dirección y Servicios Generales de Asuntos Exteriores, Unión Europea y Cooperación
+2021;1;14;142;142A;;Acción del Estado en el exterior
+2021;1;14;142;142B;;Acción Diplomática ante la Unión Europea
+2021;1;14;143;143A;;Cooperación para el desarrollo
+2021;1;14;144;144A;;Cooperación, promoción y difusión cultural en el exterior
+2021;1;14;144;144B;;Cooperación, promoción y difusión educativa en el exterior
+2021;2;;;;;Protección y promoción social
+2021;2;21;;;;Pensiones
+2021;2;21;211;211M;;Pensiones contributivas de la Seguridad Social
+2021;2;21;211;211N;;Pensiones de Clases Pasivas
+2021;2;21;211;211O;;Otras pensiones y prestaciones de Clases Pasivas
+2021;2;21;212;212M;;Pensiones no contributivas y prestaciones asistenciales
+2021;2;21;212;212N;;Pensiones de guerra
+2021;2;21;212;212O;;Gestión y control de los complementos a mínimos de pensiones
+2021;2;21;219;219M;;Gestión de las prestaciones económicas de Seguridad Social
+2021;2;21;219;219N;;Gestión de pensiones de Clases Pasivas
+2021;2;22;;;;Otras prestaciones económicas
+2021;2;22;220;220A;;Otras prestaciones económicas. Mecanismo de Recuperación y Resiliencia
+2021;2;22;221;221M;;Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social
+2021;2;22;222;222M;;Prestaciones económicas del Mutualismo Administrativo
+2021;2;22;223;223M;;Prestaciones de garantía salarial
+2021;2;22;224;224M;;Prestaciones económicas por cese de actividad
+2021;2;23;;;;Servicios sociales y promoción social
+2021;2;23;230;230A;;Servicios sociales y promoción social. Mecanismo de Recuperación y Resiliencia
+2021;2;23;230;230B;;Servicios sociales y promoción social. Ayuda a la Recuperación para la Cohesión y los Territorios de Europa (REACT-EU)
+2021;2;23;231;231A;;Plan Nacional sobre Drogas
+2021;2;23;231;231B;;Acciones en favor de los emigrantes
+2021;2;23;231;231C;;Servicios Sociales de la Seguridad Social a personas con discapacidad
+2021;2;23;231;231D;;Servicios Sociales de la Seguridad Social a personas mayores
+2021;2;23;231;231E;;Otros servicios sociales de la Seguridad Social
+2021;2;23;231;231F;;Otros servicios sociales del Estado
+2021;2;23;231;231G;;Atención a la infancia y a las familias
+2021;2;23;231;231H;;Acciones en favor de los inmigrantes
+2021;2;23;231;231I;;Autonomía personal y atención a la dependencia
+2021;2;23;232;232A;;Promoción y servicios a la juventud
+2021;2;23;232;232B;;Igualdad de oportunidades entre mujeres y hombres
+2021;2;23;232;232C;;Actuaciones para la prevención integral de la violencia de género
+2021;2;23;232;232D;;Igualdad de trato y diversidad
+2021;2;23;232;232E;;Análisis y definición de objetivos y políticas de Inclusión
+2021;2;23;232;232F;;Derechos de los animales
+2021;2;23;232;232M;;Dirección y Servicios Generales de Igualdad
+2021;2;23;239;239M;;Gestión de los servicios sociales de la Seguridad Social
+2021;2;23;239;239N;;Dirección y Servicios Generales de Derechos Sociales y Agenda 2030
+2021;2;24;;;;Fomento del empleo
+2021;2;24;240;240A;;Fomento del Empleo. Mecanismo de Recuperación y Resiliencia
+2021;2;24;240;240B;;Formación Profesional para el Empleo. Mecanismo de Recuperación y Resiliencia
+2021;2;24;241;241A;;Fomento de la inserción y estabilidad laboral
+2021;2;24;241;241B;;Formación Profesional para el Empleo
+2021;2;24;241;241N;;Desarrollo del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas
+2021;2;25;;;;Desempleo
+2021;2;25;251;251M;;Prestaciones a los desempleados
+2021;2;26;;;;Acceso a la vivienda y fomento de la edificación
+2021;2;26;260;260A;;Acceso a la vivienda y fomento de la edificación. Mecanismo de Recuperación y Resiliencia
+2021;2;26;261;261N;;Promoción, administración y ayudas para rehabilitación y acceso a vivienda
+2021;2;26;261;261O;;Ordenación y fomento de la edificación
+2021;2;26;261;261P;;Urbanismo y política del suelo
+2021;2;28;280;280A;;Gestión y administración de Trabajo y Economía Social. Mecanismo de Recuperación y Resiliencia
+2021;2;28;281;281M;;Dirección y Servicios Generales de Trabajo y Economía Social
+2021;2;29;;;;Gestión y administración de la Seguridad Social
+2021;2;29;290;290A;;Gestión y administración de la Inclusión de la Seguridad Social y de la Migración. Mecanismo de Recuperación y Resiliencia
+2021;2;29;291;291A;;Inspección y control de Seguridad y Protección Social
+2021;2;29;291;291M;;Dirección y Servicios Generales de la Inclusión, de la Seguridad Social y de la Migración
+2021;3;;;;;Bienes públicos de carácter preferente
+2021;3;31;;;;Sanidad
+2021;3;31;310;310A;;Sanidad. Mecanismo de Recuperación y Resiliencia
+2021;3;31;310;310B;;Sanidad. Ayuda a la Recuperación para la Cohesión y los Territorios de Europa (REACT-EU)
+2021;3;31;311;311M;;Dirección y Servicios Generales de Sanidad
+2021;3;31;311;311O;;Políticas de Salud y Ordenación Profesional
+2021;3;31;312;312A;;Asistencia hospitalaria en las Fuerzas Armadas
+2021;3;31;312;312B;;Atención primaria de salud. Instituto Nacional de Gestión Sanitaria
+2021;3;31;312;312C;;Atención especializada de salud. Instituto Nacional de Gestión Sanitaria
+2021;3;31;312;312D;;Medicina marítima
+2021;3;31;312;312E;;Asistencia sanitaria del Mutualismo Administrativo
+2021;3;31;312;312F;;Atención primaria de salud de Mutuas colaboradoras con la Seguridad Social e Instituto Social de la Marina
+2021;3;31;312;312G;;Atención especializada de salud de Mutuas colaboradoras con la Seguridad Social e Instituto Social de la Marina
+2021;3;31;313;313A;;Prestaciones sanitarias y farmacia
+2021;3;31;313;313B;;Salud pública, sanidad exterior y calidad
+2021;3;31;313;313C;;Seguridad alimentaria y nutrición
+2021;3;31;313;313D;;Donación y trasplante de órganos, tejidos y células
+2021;3;31;313;313E;;Salud Digital, Información e Innovación del Sistema Nacional de Salud
+2021;3;32;;;;Educación
+2021;3;32;320;320A;;Educación Infantil y Primaria. Mecanismo de Recuperación y Resiliencia
+2021;3;32;320;320B;;Educación Secundaria, Formación Profesional y Escuelas Oficiales de Idiomas. Mecanismo de Recuperación y Resiliencia
+2021;3;32;320;320G;;Educación Compensatoria. Mecanismo de Recuperación y Resiliencia
+2021;3;32;320;320L;;Inversiones en centros educativos y otras actividades educativas. Mecanismo de Recuperación y Resiliencia
+2021;3;32;320;320N;;Formación permanente del profesorado de Educación. Mecanismo de Recuperación y Resiliencia
+2021;3;32;321;321M;;Dirección y Servicios Generales de Educación y Formación Profesional
+2021;3;32;321;321N;;Formación permanente del profesorado de Educación
+2021;3;32;321;321O;;Dirección y Servicios Generales de Universidades
+2021;3;32;322;322A;;Educación Infantil y Primaria
+2021;3;32;322;322B;;Educación Secundaria, Formación Profesional y Escuelas Oficiales de Idiomas
+2021;3;32;322;322C;;Enseñanzas universitarias
+2021;3;32;322;322E;;Enseñanzas artísticas
+2021;3;32;322;322F;;Educación en el exterior
+2021;3;32;322;322G;;Educación compensatoria
+2021;3;32;322;322I;;Enseñanzas especiales
+2021;3;32;322;322L;;Inversiones en centros educativos y otras actividades educativas
+2021;3;32;323;323M;;Becas y ayudas a estudiantes
+2021;3;33;;;;Cultura
+2021;3;33;330;330A;;Cultura. Mecanismo de Recuperación y Resiliencia
+2021;3;33;331;331M;;Dirección y Servicios Generales de Cultura y Deporte
+2021;3;33;332;332A;;Archivos
+2021;3;33;332;332B;;Bibliotecas
+2021;3;33;333;333A;;Museos
+2021;3;33;333;333B;;Exposiciones
+2021;3;33;334;334A;;Promoción y cooperación cultural
+2021;3;33;334;334B;;Promoción del libro y publicaciones culturales
+2021;3;33;334;334C;;Fomento de las industrias culturales
+2021;3;33;335;335A;;Música y danza
+2021;3;33;335;335B;;Teatro
+2021;3;33;335;335C;;Cinematografía
+2021;3;33;336;336A;;Fomento y apoyo de las actividades deportivas
+2021;3;33;337;337A;;Administración del Patrimonio Histórico-Nacional
+2021;3;33;337;337B;;Conservación y restauración de bienes culturales
+2021;3;33;337;337C;;Protección del Patrimonio Histórico
+2021;3;33;337;337D;;Administración de los Reales Patronatos
+2021;4;;;;;Actuaciones de carácter económico
+2021;4;41;;;;Agricultura, pesca y alimentación
+2021;4;41;410;410B;;Desarrollo del Medio Rural y Recursos Hídricos para el Regadío. Mecanismo de Recuperación y Resiliencia
+2021;4;41;410;410C;;Competitividad y Calidad de la Producción y los Mercados Agrarios. Mecanismo de Recuperación y Resiliencia
+2021;4;41;410;410D;;Competitividad y Calidad de la Sanidad Agraria. Mecanismo de Recuperación y Resiliencia
+2021;4;41;410;410E;;Protección de los Recursos Pesqueros y Desarrollo Sostenible. Mecanismo de Recuperación y Resiliencia
+2021;4;41;410;410F;;Mejora de las Estructuras y Mercados Pesqueros. Mecanismo de Recuperación y Resiliencia
+2021;4;41;411;411M;;Dirección y Servicios Generales de Agricultura, Pesca y Alimentación
+2021;4;41;412;412C;;Competitividad y calidad de la producción y los mercados agrarios
+2021;4;41;412;412D;;Competitividad y calidad de la sanidad agraria
+2021;4;41;412;412M;;Regulación de los mercados agrarios
+2021;4;41;413;413A;;Competitividad industria agroalimentaria y calidad alimentaria
+2021;4;41;414;414A;;Gestión de recursos hídricos para el regadío, caminos naturales y otras infraestructuras rurales
+2021;4;41;414;414B;;Desarrollo del medio rural
+2021;4;41;415;415A;;Protección de los recursos pesqueros y desarrollo sostenible
+2021;4;41;415;415B;;Mejora de estructuras y mercados pesqueros
+2021;4;41;416;416A;;Previsión de riesgos en las producciones agrarias y pesqueras
+2021;4;42;;;;Industria y energía
+2021;4;42;420;420A;;Industria y Energía. Mecanismo de Recuperación y Resiliencia
+2021;4;42;420;420B;;Transición energética. Mecanismo de Recuperación y Resiliencia
+2021;4;42;420;420C;;Transición justa. Mecanismo de Recuperación y Resiliencia
+2021;4;42;421;421M;;Dirección y Servicios Generales de Industria, Comercio y Turismo
+2021;4;42;421;421N;;Regulación y protección de la Propiedad Industrial
+2021;4;42;421;421O;;Calidad y seguridad industrial
+2021;4;42;422;422A;;Incentivos regionales a la localización industrial
+2021;4;42;422;422B;;Desarrollo industrial
+2021;4;42;422;422M;;Reconversión y reindustrialización
+2021;4;42;423;423N;;Explotación minera
+2021;4;42;423;423O;;Desarrollo económico de las comarcas mineras del carbón
+2021;4;42;424;424M;;Seguridad nuclear y protección radiológica
+2021;4;42;425;425A;;Normativa y desarrollo energético
+2021;4;43;;;;Comercio, turismo y PYMES
+2021;4;43;430;430A;;Comercio, Turismo y PYMES. Mecanismo de Recuperación y Resiliencia
+2021;4;43;431;431A;;Promoción comercial e internacionalización de la empresa
+2021;4;43;431;431N;;Ordenación del comercio exterior
+2021;4;43;431;431O;;Ordenación y modernización de las estructuras comerciales
+2021;4;43;432;432A;;Coordinación y promoción del turismo
+2021;4;43;433;433M;;Apoyo a la pequeña y mediana empresa
+2021;4;44;;;;Subvenciones al transporte
+2021;4;44;441;441M;;Subvenciones y apoyo al transporte terrestre
+2021;4;44;441;441N;;Subvenciones y apoyo al transporte marítimo
+2021;4;44;441;441O;;Subvenciones y apoyo al transporte aéreo
+2021;4;44;441;441P;;Subvenciones al transporte extrapeninsular de mercancías
+2021;4;45;;;;Infraestructuras
+2021;4;45;450;450A;;Infraestructuras. Mecanismo de Recuperación y Resiliencia
+2021;4;45;450;450B;;Ecosistemas resilientes. Mecanismo de Recuperación y Resiliencia
+2021;4;45;450;450C;;Preservación de los recursos hídricos. Mecanismo de Recuperación y Resiliencia
+2021;4;45;450;450D;;Preservación de costas. Mecanismo de Recuperación y Resiliencia
+2021;4;45;450;450F;;Estrategia de Economía Circular. Mecanismo de Recuperación y Resiliencia
+2021;4;45;451;451M;;Estudios y servicios de asistencia técnica en Obras Públicas y Urbanismo
+2021;4;45;451;451N;;Dirección y Servicios Generales de Transportes, Movilidad y Agenda Urbana
+2021;4;45;451;451O;;Dirección y Servicios Generales para la Transición Ecológica y el Reto Demográfico
+2021;4;45;452;452A;;Gestión e infraestructuras del agua
+2021;4;45;452;452M;;Normativa y ordenación territorial de los recursos hídricos
+2021;4;45;453;453A;;Infraestructura del transporte ferroviario
+2021;4;45;453;453B;;Creación de infraestructura de carreteras
+2021;4;45;453;453C;;Conservación y explotación de carreteras
+2021;4;45;453;453M;;Ordenación e inspección del transporte terrestre
+2021;4;45;453;453N;;Regulación y supervisión de la seguridad ferroviaria
+2021;4;45;453;453O;;Comisión de Investigación de Accidentes Ferroviarios
+2021;4;45;454;454M;;Regulación y seguridad del tráfico marítimo
+2021;4;45;454;454O;;Comisión de Investigación de Accidentes e Incidentes Marítimos
+2021;4;45;455;455M;;Regulación y supervisión de la aviación civil
+2021;4;45;455;455O;;Comisión de Investigación de Accidentes e Incidentes de Aviación Civil
+2021;4;45;456;456A;;Calidad del agua
+2021;4;45;456;456B;;Protección y mejora del medio ambiente
+2021;4;45;456;456C;;Protección y mejora del medio natural
+2021;4;45;456;456D;;Actuación en la costa
+2021;4;45;456;456E;;Reto demográfico y lucha contra la despoblación
+2021;4;45;456;456M;;Actuaciones para la prevención de la contaminación y el cambio climático
+2021;4;45;456;456N;;Transición justa
+2021;4;46;;;;Investigación, desarrollo e innovación
+2021;4;46;460;460A;;Investigación, Desarrollo e Innovación. Mecanismo de Recuperación y Resiliencia
+2021;4;46;460;460B;;Investigación y desarrollo de la Sociedad de la Información. Mecanismo de Recuperación y Resiliencia
+2021;4;46;460;460C;;Innovación tecnológica de las telecomunicaciones. Mecanismo de Recuperación y Resiliencia
+2021;4;46;460;460D;;Fomento y coordinación de la investigación científica y técnica. Mecanismo de Recuperación y Resiliencia
+2021;4;46;460;460E;;Investigación y desarrollo tecnológico-industrial. Mecanismo de Recuperación y Resiliencia
+2021;4;46;461;461M;;Dirección y Servicios Generales de Ciencia e Innovación
+2021;4;46;462;462M;;Investigación y estudios sociológicos y constitucionales
+2021;4;46;462;462N;;Investigación y estudios estadísticos y económicos
+2021;4;46;463;463A;;Investigación científica
+2021;4;46;463;463B;;Fomento y coordinación de la investigación científica y técnica
+2021;4;46;464;464A;;Investigación y estudios de las Fuerzas Armadas
+2021;4;46;464;464B;;Apoyo a la innovación tecnológica en el sector de la defensa
+2021;4;46;465;465A;;Investigación sanitaria
+2021;4;46;467;467B;;Investigación, desarrollo y experimentación en transporte e infraestructuras
+2021;4;46;467;467C;;Investigación y desarrollo tecnológico-industrial
+2021;4;46;467;467D;;Investigación y experimentación agraria
+2021;4;46;467;467E;;Investigación oceanográfica y pesquera
+2021;4;46;467;467F;;Investigación geológico-minera y medioambiental
+2021;4;46;467;467G;;Investigación y desarrollo de la Sociedad de la Información
+2021;4;46;467;467H;;Investigación energética, medioambiental y tecnológica
+2021;4;46;467;467I;;Innovación tecnológica de las telecomunicaciones
+2021;4;49;;;;Otras actuaciones de carácter económico
+2021;4;49;490;490A;;Otras actuaciones de carácter económico. Mecanismo de Recuperación y Resiliencia
+2021;4;49;491;491M;;Ordenación y promoción de las telecomunicaciones y de la Sociedad de la Información
+2021;4;49;491;491N;;Servicio postal universal
+2021;4;49;492;492M;;Defensa de la competencia en los mercados y regulación de sectores productivos
+2021;4;49;492;492N;;Regulación y vigilancia de la competencia en el Mercado de Tabacos
+2021;4;49;492;492O;;Protección y promoción de los derechos de los consumidores y usuarios
+2021;4;49;493;493M;;Dirección, control y gestión de seguros
+2021;4;49;493;493O;;Regulación contable y de auditorías
+2021;4;49;494;494M;;Administración de las relaciones laborales y condiciones de trabajo
+2021;4;49;495;495A;;Desarrollo y aplicación de la información geográfica española
+2021;4;49;495;495B;;Meteorología
+2021;4;49;495;495C;;Metrología
+2021;4;49;496;496M;;Regulación del juego
+2021;4;49;497;497M;;Salvamento y lucha contra la contaminación en la mar
+2021;4;49;498;498M;;Dirección y Servicios Generales de Consumo
+2021;9;;;;;Actuaciones de carácter general
+2021;9;91;;;;Alta dirección
+2021;9;91;911;911M;;Jefatura del Estado
+2021;9;91;911;911N;;Actividad legislativa
+2021;9;91;911;911O;;Control externo del Sector Público
+2021;9;91;911;911P;;Control Constitucional
+2021;9;91;911;911Q;;Apoyo a la gestión administrativa de la Jefatura del Estado
+2021;9;91;912;912M;;Presidencia del Gobierno
+2021;9;91;912;912N;;Alto asesoramiento del Estado
+2021;9;91;912;912O;;Relaciones con las Cortes Generales, Secretariado del Gobierno y apoyo a la Alta Dirección
+2021;9;91;912;912P;;Asesoramiento del Gobierno en materia social, económica y laboral
+2021;9;91;912;912Q;;Asesoramiento para la protección de los intereses nacionales
+2021;9;92;;;;Servicios de carácter general
+2021;9;92;920;920A;;Servicios de carácter general. Mecanismo de Recuperación y Resiliencia
+2021;9;92;920;920B;;Servicios de carácter general de la Secretaría de Estado de Economía y Apoyo a la Empresa. Mecanismo de Recuperación y Resiliencia
+2021;9;92;921;921M;;Dirección y Servicios Generales de Política Territorial y Función Pública
+2021;9;92;921;921N;;Dirección y organización de la Administración Pública
+2021;9;92;921;921O;;Formación del personal de las Administraciones Públicas
+2021;9;92;921;921P;;Administración General del Estado en el Territorio
+2021;9;92;921;921Q;;Cobertura informativa
+2021;9;92;921;921R;;Publicidad de las normas legales
+2021;9;92;921;921S;;Asesoramiento y defensa de los intereses del Estado
+2021;9;92;921;921T;;Servicios de transportes de Ministerios
+2021;9;92;921;921U;;Publicaciones
+2021;9;92;921;921X;;Evaluación de la transparencia de la actividad pública
+2021;9;92;921;921Y;;Agenda 2030
+2021;9;92;922;922M;;Organización territorial del Estado y desarrollo de sus sistemas de colaboración
+2021;9;92;922;922N;;Coordinación y relaciones financieras con los Entes Territoriales
+2021;9;92;923;923A;;Gestión del Patrimonio del Estado
+2021;9;92;923;923C;;Elaboración y difusión estadística
+2021;9;92;923;923M;;Dirección y Servicios Generales de Hacienda
+2021;9;92;923;923N;;Formación del personal de Economía y Hacienda
+2021;9;92;923;923O;;Gestión de la Deuda y de la Tesorería del Estado
+2021;9;92;923;923P;;Relaciones con Instituciones Financieras Multilaterales
+2021;9;92;923;923Q;;Dirección y Servicios Generales de Asuntos Económicos y Transformación Digital
+2021;9;92;923;923R;;Contratación centralizada
+2021;9;92;923;923S;;Aportaciones al Mutualismo Administrativo
+2021;9;92;924;924M;;Elecciones y Partidos Políticos
+2021;9;92;925;925M;;Memoria democrática
+2021;9;92;929;929N;;Fondo de contingencia de ejecución presupuestaria
+2021;9;93;;;;Administración financiera y tributaria
+2021;9;93;931;931M;;Previsión y política económica
+2021;9;93;931;931N;;Política presupuestaria
+2021;9;93;931;931O;;Política tributaria
+2021;9;93;931;931P;;Control interno y Contabilidad Pública
+2021;9;93;931;931Q;;Control y Supervisión de la Política Fiscal
+2021;9;93;932;932A;;Aplicación del sistema tributario estatal
+2021;9;93;932;932M;;Gestión del catastro inmobiliario
+2021;9;93;932;932N;;Resolución de reclamaciones económico-administrativas
+2021;9;94;;;;Transferencias a otras admones. públicas
+2021;9;94;941;941M;;Transferencias a Comunidades Autónomas por participación en los ingresos del Estado
+2021;9;94;941;941N;;Transferencias a Comunidades Autónomas por los Fondos de Compensación Interterritorial
+2021;9;94;941;941O;;Otras transferencias a Comunidades Autónomas
+2021;9;94;942;942A;;Cooperación económica local del Estado
+2021;9;94;942;942M;;Transferencias a Entidades Locales por participación en los ingresos del Estado
+2021;9;94;942;942N;;Otras transferencias a Entidades Locales
+2021;9;94;943;943M;;Transferencias al Presupuesto General de la Unión Europea
+2021;9;94;943;943N;;Cooperación a través del Fondo Europeo de Desarrollo y del Fondo Europeo de Apoyo a la Paz
+2021;9;95;;;;Deuda pública
+2021;9;95;951;951M;;Amortización y gastos financieros de la deuda pública en euros
+2021;9;95;951;951N;;Amortización y gastos financieros de la deuda pública en moneda extranjera
