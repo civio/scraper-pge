@@ -1,0 +1,341 @@
+EJERCICIO;CENTRO GESTOR;DESCRIPCION CORTA;DESCRIPCION LARGA
+2022;01;;Casa De Su Majestad El Rey
+2022;01001;;Casa De Su Majestad El Rey
+2022;02;;Cortes Generales
+2022;02001;;Cortes Generales
+2022;02002;;Congreso De Los Diputados
+2022;02003;;Senado
+2022;02004;;Junta Electoral Central
+2022;02005;;Defensor Del Pueblo
+2022;03;;Tribunal De Cuentas
+2022;03001;;Tribunal, Fiscalía Y Servicios Generales
+2022;04;;Tribunal Constitucional
+2022;04001;;Tribunal Constitucional
+2022;05;;Consejo De Estado
+2022;05001;;Consejo De Estado
+2022;06;;Deuda Pública
+2022;06001;;Bonos, Obligaciones Y Otras Deudas
+2022;06002;;Préstamos
+2022;06003;;Letras Del Tesoro
+2022;06004;;Deudas Asumidas
+2022;06005;;Obligaciones Diversas
+2022;07;;Clases Pasivas
+2022;07001;;Pensiones Y Otras Prestaciones De Clases Pasivas
+2022;08;;Consejo General Del Poder Judicial
+2022;08001;;Consejo General Del Poder Judicial
+2022;09;;Aportaciones Al Mutualismo Administrativo
+2022;09001;;Dirección General De Presupuestos
+2022;10;;Contratación Centralizada
+2022;10001;;Dirección General De Racionalización Y Centralización De La Contratación
+2022;12;;Ministerio De Asuntos Exteriores, Unión Europea Y Cooperación
+2022;12001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;12002;;Secretaría De Estado Para La Unión Europea
+2022;12003;;Secretaría De Estado De Cooperación Internacional
+2022;12004;;Secretaría De Estado De Asuntos Exteriores Y Globales
+2022;12005;;Secretaría De Estado Para Iberoamerica Y El Caribe Y El Español En El Mundo
+2022;12050;;Mecanismo De Recuperación Y Resiliencia
+2022;12301;;Instituto Cervantes
+2022;12302;;Agencia Española De Cooperación Internacional Para El Desarrollo
+2022;13;;Ministerio De Justicia
+2022;13001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;13002;;Secretaría De Estado De Justicia
+2022;13003;;Dirección General De Seguridad Jurídica Y Fe Pública
+2022;13004;;Abogacía General Del Estado-Dirección Del Servicio Juridico Del Estado
+2022;13005;;Secretaría General Para La Innovación Y Calidad Del Servicio Público De Justicia. Fiscalía General
+2022;13006;;Secretaría General Para La Innovación Y Calidad Del Servicio Público De Justicia. Ministerio Fiscal
+2022;13050;;Mecanismo De Recuperación Y Resiliencia
+2022;13101;;Centro De Estudios Jurídicos
+2022;13102;;Mutualidad General Judicial
+2022;13301;;Agencia Española De Protección De Datos
+2022;14;;Ministerio De Defensa
+2022;14001;;Ministerio Y Subsecretaría
+2022;14002;;Cuartel General Del Emad
+2022;14003;;Secretaría De Estado De Defensa
+2022;14012;;Ejército De Tierra
+2022;14017;;Armada
+2022;14022;;Ejército Del Aire
+2022;14050;;Mecanismo De Recuperación Y Resiliencia
+2022;14101;;Instituto Nacional De Técnica Aeroespacial Esteban Terradas
+2022;14107;;Instituto De Vivienda, Infraestructura Y Equipamiento De La Defensa
+2022;14113;;Instituto Social De Las Fuerzas Armadas
+2022;14301;;Centro Nacional De Inteligencia
+2022;15;;Ministerio De Hacienda Y Función Pública
+2022;15001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;15002;;Secretaría General Técnica
+2022;15004;;Dirección General Del Patrimonio Del Estado
+2022;15005;;Secretaría De Estado De Hacienda
+2022;15006;;Dirección General De Racionalización Y Centralización De La Contratación
+2022;15007;;Dirección General De Tributos
+2022;15008;;Dirección General Del Catastro
+2022;15009;;Tribunal Económico-Administrativo Central
+2022;15011;;Intervención General De La Administración Del Estado
+2022;15012;;Secretaría De Estado De Presupuestos Y Gastos
+2022;15013;;Dirección General De Costes De Personal
+2022;15014;;Secretaría General De Fondos Europeos
+2022;15015;;Dirección General De Presupuestos
+2022;15022;;Secretaría General De Financiación Autonómica Y Local
+2022;15026;;Secretaría De Estado De Función Pública
+2022;15050;;Mecanismo De Recuperación Y Resiliencia
+2022;15101;;Instituto De Estudios Fiscales
+2022;15102;;Instituto Nacional De Administración Pública
+2022;15104;;Comisionado Para El Mercado De Tabacos
+2022;15106;;Mutualidad General De Funcionarios Civiles Del Estado
+2022;15107;;Parque Móvil Del Estado
+2022;15301;;Autoridad Independiente De Responsabilidad Fiscal
+2022;15302;;Agencia Estatal De Administración Tributaria
+2022;15304;;Consejo De Transparencia Y Buen Gobierno
+2022;16;;Ministerio Del Interior
+2022;16001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;16002;;Secretaría De Estado De Seguridad
+2022;16003;;Dirección General De La Policía
+2022;16004;;Dirección General De La Guardia Civil
+2022;16005;;Secretaría General De Instituciones Penitenciarias
+2022;16050;;Mecanismo De Recuperación Y Resiliencia
+2022;16101;;Jefatura Central De Tráfico
+2022;16102;;Gerencia De Infraestructuras Y Equipamiento De La Seguridad Del Estado
+2022;16103;;Centro Universitario De Formación De La Policía Nacional
+2022;17;;Ministerio De Transportes, Movilidad Y Agenda Urbana
+2022;17001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;17002;;Dirección General De Programación Económica Y Presupuestos
+2022;17003;;Secretaría General Técnica
+2022;17009;;Dirección General De Vivienda Y Suelo
+2022;17010;;Dirección General De Agenda Urbana Y Arquitectura
+2022;17018;;Dirección General Del Instituto Geográfico Nacional
+2022;17020;;Secretaría De Estado De Transportes, Movilidad Y Agenda Urbana
+2022;17032;;Dirección General De Marina Mercante
+2022;17034;;Dirección General De Aviación Civil
+2022;17038;;Dirección General De Carreteras
+2022;17039;;Dirección General De Transporte Terrestre
+2022;17040;;Dirección General De Planificación Y Evaluación De La Red Ferroviaria
+2022;17050;;Mecanismo De Recuperación Y Resiliencia
+2022;17101;;Centro De Estudios Y Experimentación De Obras Públicas
+2022;17102;;Centro Nacional De Información Geográfica
+2022;17301;;Agencia Estatal De Seguridad Aérea
+2022;17302;;Agencia Estatal De Seguridad Ferroviaria
+2022;18;;Ministerio De Educación Y Formación Profesional
+2022;18001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;18002;;Secretaría General Técnica
+2022;18003;;Secretaría De Estado De Educación
+2022;18004;;Dirección General De Evaluación Y Cooperación Territorial
+2022;18005;;Secretaría General De Formación Profesional
+2022;18008;;Dirección General De Planificación Y Gestión Educativa
+2022;18050;;Mecanismo De Recuperación Y Resiliencia
+2022;19;;Ministerio De Trabajo Y Economía Social
+2022;19001;;Ministerio Y Subsecretaría
+2022;19003;;Secretaría De Estado De Empleo Y Economía Social
+2022;19050;;Mecanismo De Recuperación Y Resiliencia
+2022;19101;;Servicio Público De Empleo Estatal
+2022;19102;;Fondo De Garantía Salarial
+2022;19103;;Organismo Estatal Inspección De Trabajo Y Seguridad Social
+2022;19104;;Instituto Nacional De Seguridad Y Salud En El Trabajo, O.a., M.p.
+2022;19301;;Consejo Económico Y Social
+2022;20;;Ministerio De Industria, Comercio Y Turismo
+2022;20001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;20002;;Secretaría General Técnica
+2022;20004;;Secretaría De Estado De Turismo
+2022;20005;;Secretaría De Estado De Comercio
+2022;20006;;Dirección General De Comercio Internacional E Inversiones
+2022;20007;;Dirección General De Política Comercial
+2022;20008;;Secretaría General De Industria Y De La Pequeña Y Mediana Empresa
+2022;20009;;Dirección General De Industria Y De La Pequeña Y Mediana Empresa
+2022;20050;;Mecanismo De Recuperación Y Resiliencia
+2022;20102;;Oficina Española De Patentes Y Marcas
+2022;20103;;Centro Español De Metrología
+2022;20104;;Instituto De Turismo De España
+2022;21;;Ministerio De Agricultura, Pesca Y Alimentación
+2022;21001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;21002;;Secretaría General Técnica
+2022;21003;;Dirección General De Servicios E Inspección
+2022;21004;;Secretaría General De Agricultura Y Alimentación
+2022;21005;;Dirección General De Producciones Y Mercados Agrarios
+2022;21006;;Dirección General De Sanidad De La Producción Agraria
+2022;21007;;Dirección General De La Industria Alimentaria
+2022;21008;;Dirección General De Desarrollo Rural, Innovación Y Formación Agroalimentaria
+2022;21009;;Secretaría General De Pesca
+2022;21010;;Dirección General De Pesca Sostenible
+2022;21011;;Dirección General De Ordenación Pesquera Y Acuicultura
+2022;21050;;Mecanismo De Recuperación Y Resiliencia
+2022;21101;;Agencia De Información Y Control Alimentarios
+2022;21102;;Entidad Estatal De Seguros Agrarios
+2022;21103;;Fondo Español De Garantía Agraria
+2022;22;;Ministerio De Política Territorial
+2022;22001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;22002;;Secretaría De Estado De Política Territorial
+2022;22050;;Mecanismo De Recuperación Y Resiliencia
+2022;23;;Ministerio Para La Transición Ecológica Y El Reto Demográfico
+2022;23001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;23002;;Secretaría General Técnica
+2022;23003;;Secretaría De Estado De Energía
+2022;23004;;Secretaría De Estado De Medio Ambiente
+2022;23005;;Dirección General Del Agua
+2022;23006;;Dirección General De La Costa Y Del Mar
+2022;23008;;Dirección General De Calidad Y Evaluación Ambiental
+2022;23009;;Dirección General De Política Energética Y Minas
+2022;23010;;Oficina Española Del Cambio Climático
+2022;23011;;Dirección General De Biodiversidad, Bosques Y Desertificación
+2022;23012;;Dirección General De Servicios
+2022;23013;;Secretaría General Para El Reto Demográfico
+2022;23014;;Dirección General De Políticas Contra La Despoblación
+2022;23050;;Mecanismo De Recuperación Y Resiliencia
+2022;23101;;Parques Nacionales
+2022;23102;;Confederación Hidrográfica Del Cantábrico
+2022;23103;;Confederación Hidrográfica Del Duero
+2022;23104;;Confederación Hidrográfica Del Ebro
+2022;23105;;Confederación Hidrográfica Del Guadalquivir
+2022;23106;;Confederación Hidrográfica Del Guadiana
+2022;23107;;Confederación Hidrográfica Del Júcar
+2022;23108;;Confederación Hidrográfica Del Miño-Sil
+2022;23109;;Confederación Hidrográfica Del Segura
+2022;23110;;Confederación Hidrográfica Del Tajo
+2022;23111;;Mancomunidad De Los Canales Del Taibilla
+2022;23112;;Instituto Para La Transición Justa
+2022;23301;;Agencia Estatal De Meteorología
+2022;23302;;Consejo De Seguridad Nuclear
+2022;24;;Ministerio De Cultura Y Deporte
+2022;24001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;24002;;Secretaría General Técnica
+2022;24003;;Dirección General Del Libro Y Fomento De La Lectura
+2022;24004;;Dirección General De Industrias Culturales, Propiedad Intelectual Y Cooperación
+2022;24005;;Dirección General De Bellas Artes
+2022;24006;;Secretaría General De Cultura Y Deporte
+2022;24050;;Mecanismo De Recuperación Y Resiliencia
+2022;24103;;Instituto De La Cinematografía Y De Las Artes Audiovisuales
+2022;24104;;Biblioteca Nacional De España
+2022;24105;;Gerencia De Infraestructuras Y Equipamientos De Cultura
+2022;24106;;Consejo Superior De Deportes
+2022;24107;;Instituto Nacional De Las Artes Escénicas Y De La Música
+2022;24301;;Museo Nacional Del Prado
+2022;24302;;Museo Nacional Centro De Arte Reina Sofía
+2022;24303;;Agencia Española De Protección De La Salud En El Deporte
+2022;25;;Ministerio De La Presidencia, Relaciones Con Las Cortes Y Memoria Democrática
+2022;25001;;Presidente Del Gobierno
+2022;25002;;Ministerio Y Servicios Generales
+2022;25101;;Centro De Estudios Políticos Y Constitucionales
+2022;25102;;Centro De Investigaciones Sociológicas
+2022;25103;;Consejo De Administración Del Patrimonio Nacional
+2022;25302;;Agencia Estatal Boletín Oficial Del Estado
+2022;26;;Ministerio De Sanidad
+2022;26001;;Ministerio Y Subsecretaría
+2022;26002;;Secretaría General Técnica
+2022;26003;;Secretaría General De Salud Digital, Información E Innovación Del Sistema Nacional De Salud
+2022;26004;;Secretaría De Estado De Sanidad
+2022;26005;;Dirección General De Salud Digital Y Sistemas De Información Para El Sistema Nacional De Salud
+2022;26007;;Dirección General De Salud Pública
+2022;26009;;Dirección General De Cartera Común De Servicios Del Sistema Nacional De Salud Y Farmacia
+2022;26012;;Dirección General De Ordenación Profesional
+2022;26018;;Delegación Del Gobierno Para El Plan Nacional Sobre Drogas
+2022;26050;;Mecanismo De Recuperación Y Resiliencia
+2022;26051;;Ayuda A La Recuperación Para La Cohesión Y Los Territorios De Europa (React-Eu)
+2022;26105;;Organización Nacional De Trasplantes
+2022;26301;;Agencia Española De Medicamentos Y Productos Sanitarios
+2022;27;;Ministerio De Asuntos Económicos Y Transformación Digital
+2022;27001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;27002;;Secretaría General Técnica
+2022;27003;;Secretaría De Estado De Economía Y Apoyo A La Empresa
+2022;27004;;Secretaría General Del Tesoro Y Financiación Internacional
+2022;27005;;Dirección General De Política Económica
+2022;27006;;Dirección General De Análisis Macroeconómico
+2022;27007;;Dirección General De Seguros Y Fondos De Pensiones
+2022;27008;;Secretaría De Estado De Digitalización E Inteligencia Artificial
+2022;27009;;Secretaría General De Administración Digital
+2022;27012;;Secretaría De Estado De Telecomunicaciones E Infraestructuras Digitales
+2022;27050;;Mecanismo De Recuperación Y Resiliencia
+2022;27101;;Instituto Nacional De Estadística
+2022;27102;;Instituto De Contabilidad Y Auditoría De Cuentas
+2022;27302;;Comisión Nacional De Los Mercados Y La Competencia
+2022;28;;Ministerio De Ciencia E Innovación
+2022;28001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;28002;;Secretaría General Técnica
+2022;28006;;Secretaría General De Investigación
+2022;28007;;Dirección General De Planificación De La Investigación
+2022;28008;;Secretaría General De Innovación
+2022;28050;;Mecanismo De Recuperación Y Resiliencia
+2022;28103;;Centro De Investigaciones Energéticas, Medioambientales Y Tecnológicas
+2022;28107;;Instituto De Salud Carlos Iii
+2022;28301;;Consejo Superior De Investigaciones Científicas
+2022;28303;;Agencia Estatal De Investigación
+2022;29;;Ministerio De Derechos Sociales Y Agenda 2030
+2022;29001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;29002;;Secretaría General Técnica
+2022;29003;;Secretaría De Estado De Derechos Sociales
+2022;29004;;Dirección General De Derechos De La Infancia Y De La Adolescencia
+2022;29005;;Dirección General De Diversidad Familiar Y Servicios Sociales
+2022;29006;;Dirección General De Derechos De Las Personas Con Discapacidad
+2022;29007;;Secretaría De Estado Para La Agenda 2030
+2022;29009;;Dirección General De Derechos De Los Animales
+2022;29050;;Mecanismo De Recuperación Y Resiliencia
+2022;29101;;Instituto De La Juventud
+2022;29102;;Real Patronato Sobre Discapacidad
+2022;30;;Ministerio De Igualdad
+2022;30001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;30002;;Secretaría De Estado De Igualdad Y Contra La Violencia De Género
+2022;30003;;Delegación Del Gobierno Contra La Violencia De Género
+2022;30050;;Mecanismo De Recuperación Y Resiliencia
+2022;30101;;Instituto De Las Mujeres
+2022;31;;Ministerio De Consumo
+2022;31001;;Ministerio Y Subsecretaría
+2022;31002;;Secretaría General Técnica
+2022;31003;;Secretaría General De Consumo Y Juego
+2022;31004;;Dirección General De Consumo
+2022;31005;;Dirección General De Ordenación Del Juego
+2022;31050;;Mecanismo De Recuperación Y Resiliencia
+2022;31101;;Agencia Española De Seguridad Alimentaria Y Nutrición
+2022;32;;Ministerio De Inclusión, Seguridad Social Y Migraciones
+2022;32001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;32002;;Secretaría De Estado De Seguridad Social Y Pensiones
+2022;32003;;Secretaría De Estado De Migraciones
+2022;32004;;Secretaría General De Objetivos Y Políticas De Inclusión Y Previsión Social
+2022;32050;;Mecanismo De Recuperación Y Resiliencia
+2022;33;;Ministerio De Universidades
+2022;33001;;Ministerio, Subsecretaría Y Servicios Generales
+2022;33002;;Secretaría General Técnica
+2022;33003;;Secretaría General De Universidades
+2022;33050;;Mecanismo De Recuperación Y Resiliencia
+2022;33101;;Universidad Internacional Menendez Pelayo
+2022;33102;;Servicio Español Para La Internacionalización De La Educación
+2022;33103;;Agencia Nacional De Evaluación De La Calidad Y Acreditación
+2022;34;;Relaciones Financieras Con La Unión Europea
+2022;34001;;Dirección General Fondos Comunitarios. Relaciones Financieras Con La Unión Europea
+2022;35;;Fondo De Contingencia
+2022;35001;;Dirección General De Presupuestos. Fondo De Contingencia
+2022;36;;Fondos De Compensación Interterritorial
+2022;36003;;Secretaría General De Financiación Autonómica Y Local. Galicia
+2022;36004;;Secretaría General De Financiación Autonómica Y Local. Andalucía
+2022;36005;;Secretaría General De Financiación Autonómica Y Local. Principado De Asturias
+2022;36006;;Secretaría General De Financiación Autonómica Y Local. Cantabria
+2022;36008;;Secretaría General De Financiación Autonómica Y Local. Región De Murcia
+2022;36009;;Secretaría General De Financiación Autonómica Y Local. Comunidad Valenciana
+2022;36011;;Secretaría General De Financiación Autonómica Y Local. Castilla-La Mancha
+2022;36012;;Secretaría General De Financiación Autonómica Y Local. Canarias
+2022;36014;;Secretaría General De Financiación Autonómica Y Local. Extremadura
+2022;36017;;Secretaría General De Financiación Autonómica Y Local. Castilla Y León
+2022;36018;;Secretaría General De Financiación Autonómica Y Local. Ceuta
+2022;36019;;Secretaría General De Financiación Autonómica Y Local. Melilla
+2022;36020;;Secretaría General De Financiación Autonómica Y Local. Varias Cc. Aa.
+2022;37;;Otras Relaciones Financieras Con Entes Territoriales
+2022;37001;;Secretaría General De Financiación Autonómica Y Local. Comunidades Autónomas
+2022;37002;;Secretaría General De Financiación Autonómica Y Local. Entidades Locales
+2022;38;;Sistemas De Financiación De Entes Territoriales
+2022;38001;;Secretaría General De Financiación Autonómica Y Local. País Vasco
+2022;38002;;Secretaría General De Financiación Autonómica Y Local. Cataluña
+2022;38003;;Secretaría General De Financiación Autonómica Y Local. Galicia
+2022;38004;;Secretaría General De Financiación Autonómica Y Local. Andalucía
+2022;38005;;Secretaría General De Financiación Autonómica Y Local. Principado De Asturias
+2022;38006;;Secretaría General De Financiación Autonómica Y Local. Cantabria
+2022;38007;;Secretaría General De Financiación Autonómica Y Local. La Rioja
+2022;38010;;Secretaría General De Financiación Autonómica Y Local. Aragón
+2022;38011;;Secretaría General De Financiación Autonómica Y Local. Castilla-La Mancha
+2022;38012;;Secretaría General De Financiación Autonómica Y Local. Canarias
+2022;38014;;Secretaría General De Financiación Autonómica Y Local. Extremadura
+2022;38017;;Secretaría General De Financiación Autonómica Y Local. Castilla Y León
+2022;38018;;Secretaría General De Financiación Autonómica Y Local. Melilla
+2022;38019;;Secretaría General De Financiación Autonómica Y Local. Ceuta
+2022;38020;;Secretaría General De Financiación Autonómica Y Local. Varias Cc. Aa.
+2022;38021;;Secretaría General De Financiación Autonómica Y Local. Entidades Locales
+2022;60;;Seguridad Social
+2022;60001;;Pensiones Y Prestaciones Económicas De La Seguridad Social
+2022;60002;;Prestaciones  Asistenciales, Sanitarias Y Sociales Del Ingesa Y Del Imserso
+2022;60003;;Dirección Y Servicios Generales De Seguridad Social Y Protección Social
+2022;60004;;Ingresos De La Seguridad Social
+2022;98;;Ingresos Del Estado
+2022;98001;;Ingresos Del Estado
