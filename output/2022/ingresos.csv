@@ -1,0 +1,2705 @@
+EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
+2022;13102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;120159460
+2022;14113;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;802731710
+2022;15106;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;1830730650
+2022;19101;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;26553839870
+2022;19102;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;513400000
+2022;60004;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;136344725250
+2022;98001;1;;;IMPUESTOS DIRECTOS Y COTIZACIONES SOCIALES;77877802670
+2022;98001;10;;;Sobre la renta;74314076900
+2022;98001;100;;;De las personas físicas;48607327350
+2022;98001;100;;00;Impuesto sobre la Renta de las Personas Físicas;48912959350
+2022;98001;100;;99;Asignación tributaria a la Iglesia Católica y otros fines sociales;-305632000
+2022;98001;101;;;De sociedades;24477116190
+2022;98001;101;;00;Impuesto sobre Sociedades;24477116190
+2022;98001;102;;;De no residentes;1229633360
+2022;98001;102;;00;Impuesto sobre la Renta de no Residentes;1229633360
+2022;98001;11;;;Sobre el capital;147606450
+2022;98001;119;;;Otros impuestos sobre el capital;147606450
+2022;98001;119;;00;Impuesto sobre Sucesiones y Donaciones;79953490
+2022;98001;119;;01;Impuesto sobre el Patrimonio;67652960
+2022;13102;12;;;Cotizaciones sociales;120159460
+2022;14113;12;;;Cotizaciones sociales;802731710
+2022;15106;12;;;Cotizaciones sociales;1830730650
+2022;19101;12;;;Cotizaciones sociales;26553839870
+2022;19102;12;;;Cotizaciones sociales;513400000
+2022;60004;12;;;Cotizaciones sociales;136344725250
+2022;98001;12;;;Cotizaciones sociales;1976250700
+2022;13102;120;;;Cotizaciones de los regímenes especiales de funcionarios;120159460
+2022;14113;120;;;Cotizaciones de los regímenes especiales de funcionarios;802731710
+2022;15106;120;;;Cotizaciones de los regímenes especiales de funcionarios;1830730650
+2022;98001;120;;;Cotizaciones de los regímenes especiales de funcionarios;825000000
+2022;98001;120;;00;Cuotas de Derechos Pasivos;825000000
+2022;13102;120;;01;Cuotas de funcionarios a Mutualidades;26965160
+2022;14113;120;;01;Cuotas de funcionarios a Mutualidades;103684870
+2022;15106;120;;01;Cuotas de funcionarios a Mutualidades;360125770
+2022;13102;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;93170300
+2022;14113;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;699046840
+2022;15106;120;;02;Aportación obligatoria del Estado a las Mutualidades de funcionarios;1470604880
+2022;13102;120;;03;Cuotas sociales Mutualidad Benéfica de Funcionarios de la Justicia Municipal;7000
+2022;13102;120;;04;Cuotas sociales de Previsión de Funcionarios de la Administración de Justicia;9000
+2022;13102;120;;05;Cuotas sociales Mutualidad Benéfica de Funcionarios del Cuerpo Auxiliar de la Administración de Justicia;8000
+2022;60004;121;;;Cotizaciones del Regimen General;105842635250
+2022;60004;122;;;Cotizaciones del R.E.T. Autonomos;11397240000
+2022;60004;124;;;Cotizaciones R.E. Trabajadores del Mar;384460000
+2022;60004;125;;;Cotizaciones R.E. Mineria del Carbon;68300000
+2022;60004;127;;;Cotizaciones de acctes. trabajo y e. p.;9531140000
+2022;60004;128;;;Cotizaciones de desempleados, cese de actividad de trabajadores autónomos y bonificaciones para el fomento del empleo;8755220000
+2022;19101;129;;;Otras cotizaciones;26553839870
+2022;19102;129;;;Otras cotizaciones;513400000
+2022;60004;129;;;Otras cotizaciones;365730000
+2022;98001;129;;;Otras cotizaciones;1151250700
+2022;19101;129;;00;Cuota de desempleo;25147238020
+2022;19101;129;;01;Cuota de formación profesional;1404601850
+2022;98001;129;;01;Cuota de formación profesional;1151250700
+2022;19102;129;;02;Cuotas empresariales al Fondo de Garantía Salarial;513400000
+2022;19101;129;;03;Cuota de protección por cese de actividad;2000000
+2022;98001;13;;;Sobre la producción y almacenamiento de energía eléctrica y combustible;1439868620
+2022;98001;130;;;Sobre el valor de la producción de la energía eléctrica;1139868620
+2022;98001;131;;;Sobre la producción de combustible nuclear gastado y residuos radioactivos resultantes de la generación de energía nucleoeléctrica;290824000
+2022;98001;132;;;Sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas;9176000
+2022;98001;2;;;IMPUESTOS INDIRECTOS;57879547690
+2022;98001;21;;;Sobre el Valor Añadido;42933769730
+2022;98001;210;;;Impuesto sobre el Valor Añadido;42933769730
+2022;98001;210;;00;Importaciones;18837214120
+2022;98001;210;;01;Operaciones interiores;24096555610
+2022;98001;22;;;Sobre consumos específicos;10163426030
+2022;98001;220;;;Impuestos especiales;10163426030
+2022;98001;220;;00;Sobre el alcohol y bebidas derivadas;410616090
+2022;98001;220;;01;Sobre cerveza;162813570
+2022;98001;220;;03;Sobre labores de tabaco;2985821370
+2022;98001;220;;04;Sobre hidrocarburos;5907774360
+2022;98001;220;;06;Sobre productos intermedios;10919330
+2022;98001;220;;07;Sobre la electricidad;171758610
+2022;98001;220;;08;Sobre carbón;22722700
+2022;98001;220;;09;Impuesto especial sobre los envases de plástico no reutilizables;491000000
+2022;98001;23;;;Sobre tráfico exterior;1916397390
+2022;98001;230;;;Derechos de aduana y exacciones de efecto equivalente establecidos para la importación o exportación de mercancías;1912756230
+2022;98001;231;;;Exacciones reguladoras y otros gravámenes agrícolas;3641160
+2022;98001;28;;;Otros impuestos indirectos;2865954540
+2022;98001;281;;;Impuesto sobre las Primas de Seguros;2142804270
+2022;98001;282;;;Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados;6150270
+2022;98001;283;;;Impuesto sobre actividades del juego;50000000
+2022;98001;283;;00;De apuestas mutuas deportivas;50000000
+2022;98001;285;;;Impuesto sobre los Gases Fluorados de Efecto Invernadero;70000000
+2022;98001;286;;;Impuesto sobre transacciones financieras;372000000
+2022;98001;287;;;Impuesto sobre determinados Servicios Digitales;225000000
+2022;12301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;47095000
+2022;12302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15160490
+2022;13101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;13000
+2022;13102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;90000
+2022;13301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;14533440
+2022;14101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;80475000
+2022;14107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7305000
+2022;14113;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2946000
+2022;14301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;138400
+2022;15101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;53000
+2022;15102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;172000
+2022;15104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;25666540
+2022;15106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;105630
+2022;15107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3007000
+2022;15301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10398300
+2022;15302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;26991000
+2022;16101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;971876080
+2022;17101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;11902170
+2022;17102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;3085880
+2022;17301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;60620850
+2022;17302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7563700
+2022;19101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;458310000
+2022;19102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;115746430
+2022;19104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;511000
+2022;19301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;28000
+2022;20102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;50638000
+2022;20103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2816000
+2022;20104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;4155530
+2022;21102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15130
+2022;21103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;6345000
+2022;23101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;300000
+2022;23102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8150560
+2022;23103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;48596200
+2022;23104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;67782480
+2022;23105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;99947410
+2022;23106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;32473000
+2022;23107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;25410980
+2022;23108;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;14488090
+2022;23109;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;8346810
+2022;23110;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;43013850
+2022;23111;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;159003570
+2022;23301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;45147890
+2022;23302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;46839220
+2022;24103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;519000
+2022;24104;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;482000
+2022;24105;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;15000
+2022;24106;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;2030950
+2022;24107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;7287000
+2022;24301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;14232770
+2022;24302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5438250
+2022;24303;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;322180
+2022;25101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;332000
+2022;25102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;92000
+2022;25103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;18320000
+2022;25302;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;33009450
+2022;26301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;49520720
+2022;27101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5612550
+2022;27102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;10786220
+2022;28103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5183860
+2022;28107;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;6972950
+2022;28301;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;52729670
+2022;28303;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;1070000
+2022;29101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;726030
+2022;29102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;30000
+2022;30101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;248200
+2022;31101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;200000
+2022;33101;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;5023570
+2022;33102;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;107560
+2022;33103;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;540930
+2022;60004;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;940923240
+2022;98001;3;;;TASAS, PRECIOS PUBLICOS Y OTROS INGRESOS;9889126910
+2022;14107;30;;;Tasas;7000000
+2022;15104;30;;;Tasas;24021300
+2022;15301;30;;;Tasas;9253000
+2022;15302;30;;;Tasas;155000
+2022;16101;30;;;Tasas;605282120
+2022;17301;30;;;Tasas;56180980
+2022;17302;30;;;Tasas;7184280
+2022;20102;30;;;Tasas;50456700
+2022;20103;30;;;Tasas;3300
+2022;23102;30;;;Tasas;7330560
+2022;23103;30;;;Tasas;42881200
+2022;23104;30;;;Tasas;65031530
+2022;23105;30;;;Tasas;91545200
+2022;23106;30;;;Tasas;29622000
+2022;23107;30;;;Tasas;24526980
+2022;23108;30;;;Tasas;9878090
+2022;23109;30;;;Tasas;6013730
+2022;23110;30;;;Tasas;39405290
+2022;23111;30;;;Tasas;1010000
+2022;23301;30;;;Tasas;250000
+2022;23302;30;;;Tasas;46354520
+2022;24103;30;;;Tasas;150000
+2022;24104;30;;;Tasas;25000
+2022;24107;30;;;Tasas;1367000
+2022;24301;30;;;Tasas;250000
+2022;24302;30;;;Tasas;500000
+2022;25302;30;;;Tasas;32454450
+2022;26301;30;;;Tasas;49520720
+2022;27102;30;;;Tasas;9662220
+2022;31101;30;;;Tasas;200000
+2022;60004;30;;;Tasas;1500
+2022;98001;30;;;Tasas;967410200
+2022;60004;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros;1500
+2022;98001;300;;;Derechos por expedición de tarjetas de identidad profesional a trabajadores extranjeros;11748200
+2022;98001;301;;;Canon de ocupación y aprovechamiento del dominio público marítimo-terrestre;46992810
+2022;23102;302;;;Tasa por dirección e inspección de obras;1537000
+2022;23103;302;;;Tasa por dirección e inspección de obras;1000000
+2022;23104;302;;;Tasa por dirección e inspección de obras;3500000
+2022;23105;302;;;Tasa por dirección e inspección de obras;2623610
+2022;23106;302;;;Tasa por dirección e inspección de obras;1500000
+2022;23107;302;;;Tasa por dirección e inspección de obras;1150000
+2022;23108;302;;;Tasa por dirección e inspección de obras;960000
+2022;23109;302;;;Tasa por dirección e inspección de obras;1193870
+2022;23110;302;;;Tasa por dirección e inspección de obras;230190
+2022;23111;302;;;Tasa por dirección e inspección de obras;1000000
+2022;98001;302;;;Tasa por dirección e inspección de obras;26433460
+2022;23102;302;;00;Dirección e inspección de obras;1537000
+2022;23103;302;;00;Dirección e inspección de obras;1000000
+2022;23104;302;;00;Dirección e inspección de obras;3500000
+2022;23106;302;;00;Dirección e inspección de obras;1500000
+2022;23107;302;;00;Dirección e inspección de obras;1150000
+2022;23109;302;;00;Dirección e inspección de obras;1193870
+2022;23111;302;;00;Dirección e inspección de obras;1000000
+2022;98001;303;;;Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social;46992810
+2022;98001;304;;;Tasas de expedición de D.N.I. y Pasaportes;117482040
+2022;98001;304;;01;D.N.I.;61000000
+2022;98001;304;;02;Pasaportes;56482040
+2022;98001;305;;;Tasas consulares;111607940
+2022;23103;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;1500000
+2022;23104;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;1000000
+2022;23105;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;319460
+2022;23106;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;37000
+2022;23107;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;200000
+2022;23110;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;2568630
+2022;98001;306;;;Canon por utilización de aguas continentales para producción de energía eléctrica;330000000
+2022;14107;309;;;Otras tasas;7000000
+2022;15104;309;;;Otras tasas;24021300
+2022;15301;309;;;Otras tasas;9253000
+2022;15302;309;;;Otras tasas;155000
+2022;16101;309;;;Otras tasas;605282120
+2022;17301;309;;;Otras tasas;56180980
+2022;17302;309;;;Otras tasas;7184280
+2022;20102;309;;;Otras tasas;50456700
+2022;20103;309;;;Otras tasas;3300
+2022;23102;309;;;Otras tasas;5793560
+2022;23103;309;;;Otras tasas;40381200
+2022;23104;309;;;Otras tasas;60531530
+2022;23105;309;;;Otras tasas;88602130
+2022;23106;309;;;Otras tasas;28085000
+2022;23107;309;;;Otras tasas;23176980
+2022;23108;309;;;Otras tasas;8918090
+2022;23109;309;;;Otras tasas;4819860
+2022;23110;309;;;Otras tasas;36606470
+2022;23111;309;;;Otras tasas;10000
+2022;23301;309;;;Otras tasas;250000
+2022;23302;309;;;Otras tasas;46354520
+2022;24103;309;;;Otras tasas;150000
+2022;24104;309;;;Otras tasas;25000
+2022;24107;309;;;Otras tasas;1367000
+2022;24301;309;;;Otras tasas;250000
+2022;24302;309;;;Otras tasas;500000
+2022;25302;309;;;Otras tasas;32454450
+2022;26301;309;;;Otras tasas;49520720
+2022;27102;309;;;Otras tasas;9662220
+2022;31101;309;;;Otras tasas;200000
+2022;98001;309;;;Otras tasas;276152940
+2022;98001;309;;01;Tasa del juego;5874100
+2022;98001;309;;02;Tasa por reconocimientos, autorizaciones y concursos;52866920
+2022;98001;309;;05;Tasa General de Telecomunicaciones;17622310
+2022;98001;309;;07;Tasas por controles de sanidad exterior realizadas a carnes y productos de origen animal de países no comunitarios;11748200
+2022;20102;309;;08;Tasa por derechos de examen;9000
+2022;98001;309;;08;Tasa por derechos de examen;5000000
+2022;98001;309;;09;Comisión Nacional de los Mercados y la Competencia;52866920
+2022;20102;309;;10;Tasas por determinadas actividades del organismo (20.101);49127700
+2022;23103;309;;10;Canon utilización dominio público hidráulico;100000
+2022;23107;309;;10;Canon de control de vertidos;8550000
+2022;23110;309;;10;Canon de utilización de bienes de D.P.H.;930440
+2022;23302;309;;10;Servicios generales. Desclasificación de materiales;13570
+2022;98001;309;;11;Tasa por la gestión administrativa del juego;23496410
+2022;15104;309;;12;Canon concesional de las Expendedurías de Tabaco y Timbre;12250000
+2022;20102;309;;12;Tasas derivadas del arreglo de Madrid aportadas por la Organización Mundial de la Propiedad Intelectual (OMPI);1300000
+2022;23102;309;;12;Tasa utilización bienes de dominio público;500000
+2022;23103;309;;12;Tasa utilización bienes de dominio público;60000
+2022;23107;309;;12;Informes;199980
+2022;23109;309;;12;Navegación en embalses;2250
+2022;23302;309;;12;Inspección y control de instalaciones nucleares en funcionamiento;38659680
+2022;98001;309;;13;Tasa por reserva del dominio radioeléctrico;50000000
+2022;15104;309;;14;Tasa por concesión y renovación de autorizaciones de punto de venta con recargo de labores del tabaco;11540300
+2022;23102;309;;14;Canon control de vertidos;4495000
+2022;23103;309;;14;Canon de control de vertidos;8370200
+2022;23104;309;;14;Canon de vertidos;10500000
+2022;23107;309;;14;Aprovechamientos agrícolas y forestales;460000
+2022;23109;309;;14;Canon de ocupación o utilización y canon de vertidos en aplicación de los art. 104 y 105 Ley de aguas;2183600
+2022;23110;309;;14;Canon de vertidos;13738390
+2022;23302;309;;14;Inspección y control de instalaciones radiactivas en funcionamiento;3647160
+2022;15104;309;;15;Tasa por traslados, transmisiones, modificaciones, reconocimientos, revisiones y autorizaciones de o en expendedurías.;230000
+2022;20102;309;;15;Tasas derivadas del arreglo de La Haya aportadas por la  Organización Mundial de la Propiedad Intelectual (OMPI);20000
+2022;23104;309;;15;Canon de ocupación;8500000
+2022;23106;309;;15;Canon de ocupación;390000
+2022;23302;309;;15;Inspección y control del desmantelamiento de instalaciones radiactivas del ciclo del combustible;35830
+2022;15104;309;;16;Tasa para el otorgamiento de concesiones de expendedurías de tabaco y timbre;1000
+2022;23107;309;;16;Canon por aprovechamientos hidroeléctricos;760000
+2022;23109;309;;16;Confrontación de proyectos;3340
+2022;23302;309;;16;Inspección y control de cursos homologados;61060
+2022;23103;309;;17;Tasa por explotación de obras;1200000
+2022;23106;309;;17;Canon de control de vertido;2750000
+2022;23107;309;;17;Tarifa de utilización del agua;7100000
+2022;23109;309;;17;Tasa explotación de obras y servicios;67010
+2022;23302;309;;17;Inspección y control de transportes de sustancias nucleares y radiactivos;55630
+2022;23103;309;;18;Tasa por confrontación y proyectos;1000
+2022;23104;309;;18;Confrontación de proyectos;50000
+2022;23106;309;;18;Tasa de informes y otras actuaciones;730000
+2022;23107;309;;18;Canon de regulación;5021000
+2022;23109;309;;18;Canon de aprovechamiento de materiales;44600
+2022;23302;309;;18;Inspección y control de fabricación y equipos exentos;1360
+2022;23103;309;;19;Tasa por informes y estudios;450000
+2022;23104;309;;19;Informes y otras actuaciones;250000
+2022;23109;309;;19;Tasas por informes y visitas;33430
+2022;23110;309;;19;Tasa por informe y otras actuaciones;339900
+2022;23302;309;;19;Inspección y control de empresas de ámbito de la protección radiológica;123020
+2022;16101;309;;20;Tasas de la Jefatura de Tráfico;605282120
+2022;23102;309;;20;Canon de regulación;380000
+2022;23103;309;;20;Canon de regulación agua;13500000
+2022;23104;309;;20;Canon de regulación;12242120
+2022;23106;309;;20;Canon de regulación;15000000
+2022;23109;309;;20;Canon de regulación;1903160
+2022;23110;309;;20;Canon de regulación;21597740
+2022;23302;309;;20;Inspección y control de empresas externas;320
+2022;23103;309;;21;Tarifa de utilización de agua;12400000
+2022;23104;309;;21;Tarifa utilización del Agua;22989410
+2022;23106;309;;21;Tarifa de utilización del agua;7500000
+2022;23103;309;;22;Canon de producción industrial;4300000
+2022;23104;309;;22;Canon de producción industrial;6000000
+2022;23106;309;;22;Canon de aprovechamiento hidroeléctrico;1715000
+2022;23109;309;;22;Canon de producción industrial;582470
+2022;23302;309;;22;Evaluación e informes de seguimiento de residuos;67440
+2022;23102;309;;23;Salto pie de presa;197560
+2022;23302;309;;24;Servicios Generales de instalaciones radiactivas;1017550
+2022;23302;309;;25;Servicios Generales desmantelamiento de instalaciones radiactivas;46360
+2022;23302;309;;26;Servicios Generales de licencias;1199230
+2022;23302;309;;27;Servicios Generales de homologación de programas académicos;60610
+2022;23102;309;;28;Confrontación de obras y proyectos;1000
+2022;23302;309;;28;Servicios Generales de transportes;31660
+2022;23102;309;;29;Infracciones y otras actuaciones;220000
+2022;23302;309;;29;Servicios Generales de fabricación o exención de equipos;180920
+2022;23302;309;;30;Servicios Generales de desmantelamiento de II.NN.;332080
+2022;23302;309;;31;Servicios Generales de empresas del ámbito de la protección radiológica;63770
+2022;15301;309;;32;Tasa de supervisión, análisis, asesoramiento y seguimiento de la política fiscal;9253000
+2022;23302;309;;33;Inspección y control desmantelamiento II.NN.;757270
+2022;23105;309;;60;Canon de regulación industrial;1000
+2022;23105;309;;61;Canon de regulación: usos industriales;2114550
+2022;23105;309;;62;Aprovechamientos Hidroeléctricos Centrales Propias;414330
+2022;23105;309;;63;Canon de regulación: aprovechamientos hidroeléctricos a pie de presa;5974980
+2022;23105;309;;64;Canon de regulación: aprovechamientos hidroeléctricos aguas fluyentes;358580
+2022;23105;309;;65;Canon de Regulación Regadíos;50875710
+2022;23105;309;;66;Abastecimiento zona Jaén;3108520
+2022;23105;309;;67;Otros abastecimientos;14559860
+2022;23105;309;;70;Tasa de explotación de obras y servicios;2274710
+2022;23105;309;;71;Canon de ocupación o utilización;107250
+2022;23105;309;;72;Tasa redacción de proyectos y confrontación;14010
+2022;23105;309;;73;Tasas de informes y estudios;581760
+2022;23105;309;;74;Canon de control de vertidos;8216870
+2022;27102;309;;91;Tasas Roac;110200
+2022;14107;309;;99;Otras;7000000
+2022;17302;309;;99;Otras;7184280
+2022;20103;309;;99;Otras;3300
+2022;23107;309;;99;Otras;1086000
+2022;23111;309;;99;Otras;10000
+2022;24103;309;;99;Otras;150000
+2022;24104;309;;99;Otras;25000
+2022;24107;309;;99;Otras;1367000
+2022;24301;309;;99;Otras;250000
+2022;24302;309;;99;Otras;500000
+2022;25302;309;;99;Otras;32454450
+2022;26301;309;;99;Otras;49520720
+2022;27102;309;;99;Otras;9552020
+2022;31101;309;;99;Otras;200000
+2022;98001;309;;99;Otras;56678080
+2022;14101;31;;;Precios Públicos;29000000
+2022;15101;31;;;Precios Públicos;44000
+2022;15102;31;;;Precios Públicos;45000
+2022;15301;31;;;Precios Públicos;1141800
+2022;17101;31;;;Precios Públicos;2500000
+2022;20103;31;;;Precios Públicos;2722000
+2022;20104;31;;;Precios Públicos;300000
+2022;21103;31;;;Precios Públicos;25000
+2022;23101;31;;;Precios Públicos;16000
+2022;23111;31;;;Precios Públicos;156078570
+2022;23301;31;;;Precios Públicos;38887890
+2022;23302;31;;;Precios Públicos;338700
+2022;24103;31;;;Precios Públicos;353000
+2022;24104;31;;;Precios Públicos;394000
+2022;24106;31;;;Precios Públicos;74860
+2022;24107;31;;;Precios Públicos;5130000
+2022;24301;31;;;Precios Públicos;13972770
+2022;24302;31;;;Precios Públicos;4000000
+2022;25101;31;;;Precios Públicos;65000
+2022;25103;31;;;Precios Públicos;18000000
+2022;28107;31;;;Precios Públicos;4172950
+2022;28301;31;;;Precios Públicos;2490000
+2022;28303;31;;;Precios Públicos;770000
+2022;29101;31;;;Precios Públicos;400000
+2022;29102;31;;;Precios Públicos;10000
+2022;33101;31;;;Precios Públicos;5023570
+2022;33102;31;;;Precios Públicos;2360
+2022;60004;31;;;Precios Públicos;83000
+2022;98001;31;;;Precios Públicos;202000
+2022;15101;310;;;Derechos de matrícula en cursos y seminarios;17000
+2022;15102;310;;;Derechos de matrícula en cursos y seminarios;15000
+2022;23101;310;;;Derechos de matrícula en cursos y seminarios;8000
+2022;24106;310;;;Derechos de matrícula en cursos y seminarios;27100
+2022;24107;310;;;Derechos de matrícula en cursos y seminarios;60000
+2022;24301;310;;;Derechos de matrícula en cursos y seminarios;32050
+2022;25101;310;;;Derechos de matrícula en cursos y seminarios;60000
+2022;28301;310;;;Derechos de matrícula en cursos y seminarios;165000
+2022;33101;310;;;Derechos de matrícula en cursos y seminarios;3157150
+2022;98001;310;;;Derechos de matrícula en cursos y seminarios;200000
+2022;21103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;25000
+2022;24103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;234000
+2022;24107;311;;;Entradas a museos, exposiciones, espectáculos, etc.;5000000
+2022;24301;311;;;Entradas a museos, exposiciones, espectáculos, etc.;13210720
+2022;24302;311;;;Entradas a museos, exposiciones, espectáculos, etc.;4000000
+2022;25103;311;;;Entradas a museos, exposiciones, espectáculos, etc.;18000000
+2022;28301;311;;;Entradas a museos, exposiciones, espectáculos, etc.;2000000
+2022;98001;311;;;Entradas a museos, exposiciones, espectáculos, etc.;1000
+2022;25103;311;;00;Consejo de Administración del Patrimonio Nacional;17400000
+2022;25103;311;;01;Reales Patronatos;600000
+2022;15102;317;;;Cursos impartidos para otros Entes Públicos.;30000
+2022;14101;319;;;Otros precios públicos;29000000
+2022;15101;319;;;Otros precios públicos;27000
+2022;15301;319;;;Otros precios públicos;1141800
+2022;17101;319;;;Otros precios públicos;2500000
+2022;20103;319;;;Otros precios públicos;2722000
+2022;20104;319;;;Otros precios públicos;300000
+2022;23101;319;;;Otros precios públicos;8000
+2022;23111;319;;;Otros precios públicos;156078570
+2022;23301;319;;;Otros precios públicos;38887890
+2022;23302;319;;;Otros precios públicos;338700
+2022;24103;319;;;Otros precios públicos;119000
+2022;24104;319;;;Otros precios públicos;394000
+2022;24106;319;;;Otros precios públicos;47760
+2022;24107;319;;;Otros precios públicos;70000
+2022;24301;319;;;Otros precios públicos;730000
+2022;25101;319;;;Otros precios públicos;5000
+2022;28107;319;;;Otros precios públicos;4172950
+2022;28301;319;;;Otros precios públicos;325000
+2022;28303;319;;;Otros precios públicos;770000
+2022;29101;319;;;Otros precios públicos;400000
+2022;29102;319;;;Otros precios públicos;10000
+2022;33101;319;;;Otros precios públicos;1866420
+2022;33102;319;;;Otros precios públicos;2360
+2022;60004;319;;;Otros precios públicos;83000
+2022;98001;319;;;Otros precios públicos;1000
+2022;15301;319;;01;Estudios realizados por la AIREF;1141800
+2022;12301;32;;;Otros ingresos procedentes de prestación de servicios;46795000
+2022;14101;32;;;Otros ingresos procedentes de prestación de servicios;10500000
+2022;14113;32;;;Otros ingresos procedentes de prestación de servicios;1452000
+2022;15107;32;;;Otros ingresos procedentes de prestación de servicios;3000000
+2022;15302;32;;;Otros ingresos procedentes de prestación de servicios;25160000
+2022;17101;32;;;Otros ingresos procedentes de prestación de servicios;9031170
+2022;17102;32;;;Otros ingresos procedentes de prestación de servicios;2585880
+2022;17301;32;;;Otros ingresos procedentes de prestación de servicios;508710
+2022;19101;32;;;Otros ingresos procedentes de prestación de servicios;300000
+2022;19104;32;;;Otros ingresos procedentes de prestación de servicios;120000
+2022;20103;32;;;Otros ingresos procedentes de prestación de servicios;86700
+2022;20104;32;;;Otros ingresos procedentes de prestación de servicios;1815000
+2022;21103;32;;;Otros ingresos procedentes de prestación de servicios;5100000
+2022;23111;32;;;Otros ingresos procedentes de prestación de servicios;1650000
+2022;23301;32;;;Otros ingresos procedentes de prestación de servicios;6000000
+2022;23302;32;;;Otros ingresos procedentes de prestación de servicios;45000
+2022;24107;32;;;Otros ingresos procedentes de prestación de servicios;700000
+2022;24303;32;;;Otros ingresos procedentes de prestación de servicios;322180
+2022;25102;32;;;Otros ingresos procedentes de prestación de servicios;42000
+2022;25302;32;;;Otros ingresos procedentes de prestación de servicios;150000
+2022;28103;32;;;Otros ingresos procedentes de prestación de servicios;5183860
+2022;28107;32;;;Otros ingresos procedentes de prestación de servicios;2300000
+2022;28301;32;;;Otros ingresos procedentes de prestación de servicios;47487670
+2022;28303;32;;;Otros ingresos procedentes de prestación de servicios;300000
+2022;33102;32;;;Otros ingresos procedentes de prestación de servicios;105200
+2022;33103;32;;;Otros ingresos procedentes de prestación de servicios;540930
+2022;60004;32;;;Otros ingresos procedentes de prestación de servicios;69718320
+2022;98001;32;;;Otros ingresos procedentes de prestación de servicios;494087100
+2022;15302;321;;;Renta de aduanas. Derechos menores;85000
+2022;15302;322;;;De la Administración financiera;24805000
+2022;25102;322;;;De la Administración financiera;42000
+2022;98001;322;;;De la Administración financiera;485001000
+2022;15302;322;;01;Administración y cobranza;19275000
+2022;98001;322;;02;Compensación por gastos de percepción de recursos propios tradicionales de la Unión Europea;485000000
+2022;15302;322;;03;Derivados de costas de procedimientos de apremio;866000
+2022;15302;322;;04;Derivados de la repercusión del coste de fabricación de efectos timbrados;4444000
+2022;15302;322;;05;Notificaciones y comunicaciones CIE;220000
+2022;25102;322;;99;Otros;42000
+2022;98001;322;;99;Otros;1000
+2022;60004;327;;;De asistencia sanitaria;58325190
+2022;98001;327;;;De asistencia sanitaria;9085100
+2022;98001;327;;00;Asistencia sanitaria gestionada I.N. de Gestión Sanitaria;6010
+2022;98001;327;;02;Otros conciertos de asistencia sanitaria;9079090
+2022;28103;328/28103;;;Otros ingresos por prestación de servicios a F4E;1233750
+2022;60004;328/60004;;;De servicios sociales;5800000
+2022;12301;329;;;Otros ingresos procedentes de prestación de servicios;46795000
+2022;14101;329;;;Otros ingresos procedentes de prestación de servicios;10500000
+2022;14113;329;;;Otros ingresos procedentes de prestación de servicios;1452000
+2022;15107;329;;;Otros ingresos procedentes de prestación de servicios;3000000
+2022;15302;329;;;Otros ingresos procedentes de prestación de servicios;270000
+2022;17101;329;;;Otros ingresos procedentes de prestación de servicios;9031170
+2022;17102;329;;;Otros ingresos procedentes de prestación de servicios;2585880
+2022;17301;329;;;Otros ingresos procedentes de prestación de servicios;508710
+2022;19101;329;;;Otros ingresos procedentes de prestación de servicios;300000
+2022;19104;329;;;Otros ingresos procedentes de prestación de servicios;120000
+2022;20103;329;;;Otros ingresos procedentes de prestación de servicios;86700
+2022;20104;329;;;Otros ingresos procedentes de prestación de servicios;1815000
+2022;21103;329;;;Otros ingresos procedentes de prestación de servicios;5100000
+2022;23111;329;;;Otros ingresos procedentes de prestación de servicios;1650000
+2022;23301;329;;;Otros ingresos procedentes de prestación de servicios;6000000
+2022;23302;329;;;Otros ingresos procedentes de prestación de servicios;45000
+2022;24107;329;;;Otros ingresos procedentes de prestación de servicios;700000
+2022;24303;329;;;Otros ingresos procedentes de prestación de servicios;322180
+2022;25302;329;;;Otros ingresos procedentes de prestación de servicios;150000
+2022;28103;329;;;Otros ingresos procedentes de prestación de servicios;3950110
+2022;28107;329;;;Otros ingresos procedentes de prestación de servicios;2300000
+2022;28301;329;;;Otros ingresos procedentes de prestación de servicios;47487670
+2022;28303;329;;;Otros ingresos procedentes de prestación de servicios;300000
+2022;33102;329;;;Otros ingresos procedentes de prestación de servicios;105200
+2022;33103;329;;;Otros ingresos procedentes de prestación de servicios;540930
+2022;60004;329;;;Otros ingresos procedentes de prestación de servicios;5593130
+2022;98001;329;;;Otros ingresos procedentes de prestación de servicios;1000
+2022;15302;329;;00;Servicios ajenos;250000
+2022;21103;329;;00;Transferencias de Comunidades Autónomas por la Cofinanciación de la Teledetección;3750000
+2022;15302;329;;01;Prestación de otros servicios;20000
+2022;21103;329;;01;Transferencias de Comunidades Autónomas para la Cofinanciación de la PAC 2014-2020;1350000
+2022;28301;329;;01;De investigación contratada;27000000
+2022;33102;329;;01;Cuotas por asistencia a ferias;92700
+2022;28301;329;;02;De otras prestaciones de servicios;20487670
+2022;33102;329;;02;Ingresos relacionados con la actividad de los programas de movilidad internacional;12500
+2022;12301;33;;;Venta de bienes;300000
+2022;12302;33;;;Venta de bienes;130490
+2022;14101;33;;;Venta de bienes;3000
+2022;14301;33;;;Venta de bienes;138400
+2022;15101;33;;;Venta de bienes;9000
+2022;15102;33;;;Venta de bienes;16000
+2022;15107;33;;;Venta de bienes;1000
+2022;15302;33;;;Venta de bienes;16000
+2022;17101;33;;;Venta de bienes;11000
+2022;17102;33;;;Venta de bienes;500000
+2022;19101;33;;;Venta de bienes;10000
+2022;19104;33;;;Venta de bienes;11000
+2022;19301;33;;;Venta de bienes;8000
+2022;20102;33;;;Venta de bienes;181300
+2022;20103;33;;;Venta de bienes;3000
+2022;23101;33;;;Venta de bienes;25000
+2022;23103;33;;;Venta de bienes;4500000
+2022;23104;33;;;Venta de bienes;750000
+2022;23105;33;;;Venta de bienes;3970
+2022;23106;33;;;Venta de bienes;500000
+2022;23110;33;;;Venta de bienes;5000
+2022;23301;33;;;Venta de bienes;10000
+2022;24103;33;;;Venta de bienes;8000
+2022;24104;33;;;Venta de bienes;41500
+2022;24302;33;;;Venta de bienes;151000
+2022;25101;33;;;Venta de bienes;242000
+2022;25102;33;;;Venta de bienes;50000
+2022;25103;33;;;Venta de bienes;90000
+2022;25302;33;;;Venta de bienes;300000
+2022;27101;33;;;Venta de bienes;149920
+2022;28301;33;;;Venta de bienes;825000
+2022;29101;33;;;Venta de bienes;1000
+2022;30101;33;;;Venta de bienes;200
+2022;98001;33;;;Venta de bienes;2004000
+2022;12302;330;;;Venta de publicaciones propias;117260
+2022;14101;330;;;Venta de publicaciones propias;3000
+2022;15101;330;;;Venta de publicaciones propias;9000
+2022;15102;330;;;Venta de publicaciones propias;15000
+2022;17101;330;;;Venta de publicaciones propias;9000
+2022;17102;330;;;Venta de publicaciones propias;20000
+2022;19104;330;;;Venta de publicaciones propias;10000
+2022;19301;330;;;Venta de publicaciones propias;8000
+2022;20102;330;;;Venta de publicaciones propias;300
+2022;20103;330;;;Venta de publicaciones propias;2000
+2022;23101;330;;;Venta de publicaciones propias;15200
+2022;23301;330;;;Venta de publicaciones propias;10000
+2022;24103;330;;;Venta de publicaciones propias;8000
+2022;24104;330;;;Venta de publicaciones propias;40000
+2022;24302;330;;;Venta de publicaciones propias;151000
+2022;25101;330;;;Venta de publicaciones propias;240000
+2022;25102;330;;;Venta de publicaciones propias;50000
+2022;25103;330;;;Venta de publicaciones propias;25000
+2022;27101;330;;;Venta de publicaciones propias;149920
+2022;28301;330;;;Venta de publicaciones propias;324000
+2022;29101;330;;;Venta de publicaciones propias;1000
+2022;30101;330;;;Venta de publicaciones propias;200
+2022;98001;330;;;Venta de publicaciones propias;1000000
+2022;25103;330;;00;Consejo de Administración del Patrimonio Nacional;25000
+2022;17102;331;;;Venta en comisión de publicaciones;470000
+2022;24104;331;;;Venta en comisión de publicaciones;1500
+2022;12302;332;;;Venta de fotocopias y otros productos de reprografía;13230
+2022;15102;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2022;17101;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2022;19104;332;;;Venta de fotocopias y otros productos de reprografía;500
+2022;20102;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2022;25101;332;;;Venta de fotocopias y otros productos de reprografía;2000
+2022;25103;332;;;Venta de fotocopias y otros productos de reprografía;15000
+2022;28301;332;;;Venta de fotocopias y otros productos de reprografía;48000
+2022;98001;332;;;Venta de fotocopias y otros productos de reprografía;1000
+2022;25103;332;;00;Consejo de Administración del Patrimonio Nacional;15000
+2022;98001;333;;;Venta de medicamentos;1000
+2022;23104;334;;;Venta de productos agropecuarios;750000
+2022;23105;334;;;Venta de productos agropecuarios;3970
+2022;28301;334;;;Venta de productos agropecuarios;400000
+2022;15107;335;;;Venta de material de desecho;1000
+2022;17101;335;;;Venta de material de desecho;1000
+2022;20103;335;;;Venta de material de desecho;1000
+2022;23101;335;;;Venta de material de desecho;9800
+2022;28301;335;;;Venta de material de desecho;1000
+2022;98001;336;;;Ingresos procedentes del Fondo regulado por la Ley 17/2003;1000
+2022;98001;338;;;Ventas de monedas de colección;1000000
+2022;12301;339;;;Venta de otros bienes;300000
+2022;14301;339;;;Venta de otros bienes;138400
+2022;15302;339;;;Venta de otros bienes;16000
+2022;17102;339;;;Venta de otros bienes;10000
+2022;19101;339;;;Venta de otros bienes;10000
+2022;19104;339;;;Venta de otros bienes;500
+2022;20102;339;;;Venta de otros bienes;180000
+2022;23103;339;;;Venta de otros bienes;4500000
+2022;23106;339;;;Venta de otros bienes;500000
+2022;23110;339;;;Venta de otros bienes;5000
+2022;25103;339;;;Venta de otros bienes;50000
+2022;25302;339;;;Venta de otros bienes;300000
+2022;28301;339;;;Venta de otros bienes;52000
+2022;98001;339;;;Venta de otros bienes;1000
+2022;25103;339;;00;Consejo de Administración del Patrimonio Nacional;50000
+2022;23106;339;;01;Venta de otros bienes;500000
+2022;12302;38;;;Reintegros de operaciones corrientes;15000000
+2022;13101;38;;;Reintegros de operaciones corrientes;10000
+2022;13102;38;;;Reintegros de operaciones corrientes;90000
+2022;14107;38;;;Reintegros de operaciones corrientes;150000
+2022;14113;38;;;Reintegros de operaciones corrientes;1360000
+2022;15102;38;;;Reintegros de operaciones corrientes;100000
+2022;15106;38;;;Reintegros de operaciones corrientes;35210
+2022;15107;38;;;Reintegros de operaciones corrientes;1000
+2022;15302;38;;;Reintegros de operaciones corrientes;370000
+2022;16101;38;;;Reintegros de operaciones corrientes;6010
+2022;17101;38;;;Reintegros de operaciones corrientes;10000
+2022;19101;38;;;Reintegros de operaciones corrientes;450000000
+2022;19102;38;;;Reintegros de operaciones corrientes;122610
+2022;19104;38;;;Reintegros de operaciones corrientes;150000
+2022;19301;38;;;Reintegros de operaciones corrientes;15000
+2022;20103;38;;;Reintegros de operaciones corrientes;1000
+2022;20104;38;;;Reintegros de operaciones corrientes;1755530
+2022;21102;38;;;Reintegros de operaciones corrientes;14000
+2022;21103;38;;;Reintegros de operaciones corrientes;750000
+2022;23101;38;;;Reintegros de operaciones corrientes;10000
+2022;23103;38;;;Reintegros de operaciones corrientes;15000
+2022;23105;38;;;Reintegros de operaciones corrientes;276330
+2022;23106;38;;;Reintegros de operaciones corrientes;1000
+2022;23109;38;;;Reintegros de operaciones corrientes;9270
+2022;23110;38;;;Reintegros de operaciones corrientes;2670
+2022;23111;38;;;Reintegros de operaciones corrientes;3000
+2022;24105;38;;;Reintegros de operaciones corrientes;15000
+2022;24106;38;;;Reintegros de operaciones corrientes;1796910
+2022;24301;38;;;Reintegros de operaciones corrientes;10000
+2022;25101;38;;;Reintegros de operaciones corrientes;20000
+2022;25103;38;;;Reintegros de operaciones corrientes;130000
+2022;25302;38;;;Reintegros de operaciones corrientes;100000
+2022;28301;38;;;Reintegros de operaciones corrientes;607000
+2022;29101;38;;;Reintegros de operaciones corrientes;300000
+2022;29102;38;;;Reintegros de operaciones corrientes;20000
+2022;30101;38;;;Reintegros de operaciones corrientes;200000
+2022;60004;38;;;Reintegros de operaciones corrientes;33774680
+2022;98001;38;;;Reintegros de operaciones corrientes;551214900
+2022;12302;380;;;De ejercicios cerrados;15000000
+2022;13101;380;;;De ejercicios cerrados;10000
+2022;13102;380;;;De ejercicios cerrados;90000
+2022;14107;380;;;De ejercicios cerrados;150000
+2022;14113;380;;;De ejercicios cerrados;800000
+2022;15102;380;;;De ejercicios cerrados;100000
+2022;15106;380;;;De ejercicios cerrados;35210
+2022;15107;380;;;De ejercicios cerrados;1000
+2022;15302;380;;;De ejercicios cerrados;370000
+2022;16101;380;;;De ejercicios cerrados;6010
+2022;17101;380;;;De ejercicios cerrados;10000
+2022;19101;380;;;De ejercicios cerrados;450000000
+2022;19102;380;;;De ejercicios cerrados;122610
+2022;19104;380;;;De ejercicios cerrados;150000
+2022;19301;380;;;De ejercicios cerrados;15000
+2022;20103;380;;;De ejercicios cerrados;1000
+2022;20104;380;;;De ejercicios cerrados;1755530
+2022;21102;380;;;De ejercicios cerrados;14000
+2022;21103;380;;;De ejercicios cerrados;750000
+2022;23101;380;;;De ejercicios cerrados;10000
+2022;23103;380;;;De ejercicios cerrados;15000
+2022;23105;380;;;De ejercicios cerrados;276330
+2022;23106;380;;;De ejercicios cerrados;1000
+2022;23109;380;;;De ejercicios cerrados;9270
+2022;23110;380;;;De ejercicios cerrados;2670
+2022;23111;380;;;De ejercicios cerrados;3000
+2022;24105;380;;;De ejercicios cerrados;15000
+2022;24106;380;;;De ejercicios cerrados;1796910
+2022;24301;380;;;De ejercicios cerrados;10000
+2022;25101;380;;;De ejercicios cerrados;20000
+2022;25103;380;;;De ejercicios cerrados;130000
+2022;25302;380;;;De ejercicios cerrados;100000
+2022;28301;380;;;De ejercicios cerrados;607000
+2022;29101;380;;;De ejercicios cerrados;300000
+2022;29102;380;;;De ejercicios cerrados;20000
+2022;30101;380;;;De ejercicios cerrados;200000
+2022;60004;380;;;De ejercicios cerrados;21155710
+2022;98001;380;;;De ejercicios cerrados;204995900
+2022;23105;380;;01;Reintegros de Corporaciones Locales;276330
+2022;14113;381;;;Del presupuesto corriente;560000
+2022;60004;381;;;Del presupuesto corriente;12618970
+2022;98001;381;;;Del presupuesto corriente;346219000
+2022;12302;39;;;Otros ingresos;30000
+2022;13101;39;;;Otros ingresos;3000
+2022;13301;39;;;Otros ingresos;14533440
+2022;14101;39;;;Otros ingresos;40972000
+2022;14107;39;;;Otros ingresos;155000
+2022;14113;39;;;Otros ingresos;134000
+2022;15102;39;;;Otros ingresos;11000
+2022;15104;39;;;Otros ingresos;1645240
+2022;15106;39;;;Otros ingresos;70420
+2022;15107;39;;;Otros ingresos;5000
+2022;15301;39;;;Otros ingresos;3500
+2022;15302;39;;;Otros ingresos;1290000
+2022;16101;39;;;Otros ingresos;366587950
+2022;17101;39;;;Otros ingresos;350000
+2022;17301;39;;;Otros ingresos;3931160
+2022;17302;39;;;Otros ingresos;379420
+2022;19101;39;;;Otros ingresos;8000000
+2022;19102;39;;;Otros ingresos;115623820
+2022;19104;39;;;Otros ingresos;230000
+2022;19301;39;;;Otros ingresos;5000
+2022;20104;39;;;Otros ingresos;285000
+2022;21102;39;;;Otros ingresos;1130
+2022;21103;39;;;Otros ingresos;470000
+2022;23101;39;;;Otros ingresos;249000
+2022;23102;39;;;Otros ingresos;820000
+2022;23103;39;;;Otros ingresos;1200000
+2022;23104;39;;;Otros ingresos;2000950
+2022;23105;39;;;Otros ingresos;8121910
+2022;23106;39;;;Otros ingresos;2350000
+2022;23107;39;;;Otros ingresos;884000
+2022;23108;39;;;Otros ingresos;4610000
+2022;23109;39;;;Otros ingresos;2323810
+2022;23110;39;;;Otros ingresos;3600890
+2022;23111;39;;;Otros ingresos;262000
+2022;23302;39;;;Otros ingresos;101000
+2022;24103;39;;;Otros ingresos;8000
+2022;24104;39;;;Otros ingresos;21500
+2022;24106;39;;;Otros ingresos;159180
+2022;24107;39;;;Otros ingresos;90000
+2022;24302;39;;;Otros ingresos;787250
+2022;25101;39;;;Otros ingresos;5000
+2022;25103;39;;;Otros ingresos;100000
+2022;25302;39;;;Otros ingresos;5000
+2022;27101;39;;;Otros ingresos;5462630
+2022;27102;39;;;Otros ingresos;1124000
+2022;28107;39;;;Otros ingresos;500000
+2022;28301;39;;;Otros ingresos;1320000
+2022;29101;39;;;Otros ingresos;25030
+2022;30101;39;;;Otros ingresos;48000
+2022;60004;39;;;Otros ingresos;837345740
+2022;98001;39;;;Otros ingresos;7874208710
+2022;15301;391;;;Recargos, multas  e intereses de demora tributarios;3500
+2022;23102;391;;;Recargos, multas  e intereses de demora tributarios;50000
+2022;23104;391;;;Recargos, multas  e intereses de demora tributarios;15000
+2022;23106;391;;;Recargos, multas  e intereses de demora tributarios;250000
+2022;23302;391;;;Recargos, multas  e intereses de demora tributarios;79000
+2022;98001;391;;;Recargos, multas  e intereses de demora tributarios;1190904630
+2022;15301;391;;01;Intereses de demora;500
+2022;23104;391;;01;Intereses de demora tributarios;15000
+2022;23106;391;;01;Intereses de demora tributarios;250000
+2022;15301;391;;03;Recargos sobre autoliquidaciones;3000
+2022;13101;392;;;Recargos, multas e intereses de demora no tributarios;3000
+2022;13301;392;;;Recargos, multas e intereses de demora no tributarios;14533440
+2022;14107;392;;;Recargos, multas e intereses de demora no tributarios;55000
+2022;14113;392;;;Recargos, multas e intereses de demora no tributarios;34000
+2022;15102;392;;;Recargos, multas e intereses de demora no tributarios;1000
+2022;15104;392;;;Recargos, multas e intereses de demora no tributarios;1645240
+2022;15106;392;;;Recargos, multas e intereses de demora no tributarios;8900
+2022;16101;392;;;Recargos, multas e intereses de demora no tributarios;366587950
+2022;17301;392;;;Recargos, multas e intereses de demora no tributarios;3931160
+2022;17302;392;;;Recargos, multas e intereses de demora no tributarios;352010
+2022;19101;392;;;Recargos, multas e intereses de demora no tributarios;7000000
+2022;20104;392;;;Recargos, multas e intereses de demora no tributarios;5000
+2022;21102;392;;;Recargos, multas e intereses de demora no tributarios;1130
+2022;21103;392;;;Recargos, multas e intereses de demora no tributarios;220000
+2022;23101;392;;;Recargos, multas e intereses de demora no tributarios;234000
+2022;23102;392;;;Recargos, multas e intereses de demora no tributarios;750000
+2022;23103;392;;;Recargos, multas e intereses de demora no tributarios;1200000
+2022;23104;392;;;Recargos, multas e intereses de demora no tributarios;850000
+2022;23105;392;;;Recargos, multas e intereses de demora no tributarios;8121910
+2022;23106;392;;;Recargos, multas e intereses de demora no tributarios;1600000
+2022;23107;392;;;Recargos, multas e intereses de demora no tributarios;350000
+2022;23108;392;;;Recargos, multas e intereses de demora no tributarios;4571000
+2022;23109;392;;;Recargos, multas e intereses de demora no tributarios;2296000
+2022;23110;392;;;Recargos, multas e intereses de demora no tributarios;3588230
+2022;23111;392;;;Recargos, multas e intereses de demora no tributarios;230000
+2022;23302;392;;;Recargos, multas e intereses de demora no tributarios;2000
+2022;24106;392;;;Recargos, multas e intereses de demora no tributarios;129180
+2022;27101;392;;;Recargos, multas e intereses de demora no tributarios;3500000
+2022;27102;392;;;Recargos, multas e intereses de demora no tributarios;1124000
+2022;28301;392;;;Recargos, multas e intereses de demora no tributarios;50000
+2022;29101;392;;;Recargos, multas e intereses de demora no tributarios;12000
+2022;30101;392;;;Recargos, multas e intereses de demora no tributarios;48000
+2022;60004;392;;;Recargos, multas e intereses de demora no tributarios;711815770
+2022;98001;392;;;Recargos, multas e intereses de demora no tributarios;375200990
+2022;98001;393;;;Diferencias entre los valores de reembolso y emisión;5658000000
+2022;19102;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);115608820
+2022;60004;394;;;Reintegros de cantidades abonadas a los trabajadores por cuenta de las empresas (Fondo de Garantía Salarial);1400000
+2022;98001;396;;;Prestación por conversión de activos por impuesto diferido;421099090
+2022;15302;397;;;Ingresos extraordinarios;20000
+2022;98001;398;;;Ingresos procedentes de herencias abintestato. Artículo 956 del Código Civil;2000
+2022;98001;398;;00;Destinados a fines de interés social;1000
+2022;98001;398;;01;Otros;1000
+2022;12302;399;;;Ingresos diversos;30000
+2022;14101;399;;;Ingresos diversos;40972000
+2022;14107;399;;;Ingresos diversos;100000
+2022;14113;399;;;Ingresos diversos;100000
+2022;15102;399;;;Ingresos diversos;10000
+2022;15106;399;;;Ingresos diversos;61520
+2022;15107;399;;;Ingresos diversos;5000
+2022;15302;399;;;Ingresos diversos;1270000
+2022;17101;399;;;Ingresos diversos;350000
+2022;17302;399;;;Ingresos diversos;27410
+2022;19101;399;;;Ingresos diversos;1000000
+2022;19102;399;;;Ingresos diversos;15000
+2022;19104;399;;;Ingresos diversos;230000
+2022;19301;399;;;Ingresos diversos;5000
+2022;20104;399;;;Ingresos diversos;280000
+2022;21103;399;;;Ingresos diversos;250000
+2022;23101;399;;;Ingresos diversos;15000
+2022;23102;399;;;Ingresos diversos;20000
+2022;23104;399;;;Ingresos diversos;1135950
+2022;23106;399;;;Ingresos diversos;500000
+2022;23107;399;;;Ingresos diversos;534000
+2022;23108;399;;;Ingresos diversos;39000
+2022;23109;399;;;Ingresos diversos;27810
+2022;23110;399;;;Ingresos diversos;12660
+2022;23111;399;;;Ingresos diversos;32000
+2022;23302;399;;;Ingresos diversos;20000
+2022;24103;399;;;Ingresos diversos;8000
+2022;24104;399;;;Ingresos diversos;21500
+2022;24106;399;;;Ingresos diversos;30000
+2022;24107;399;;;Ingresos diversos;90000
+2022;24302;399;;;Ingresos diversos;787250
+2022;25101;399;;;Ingresos diversos;5000
+2022;25103;399;;;Ingresos diversos;100000
+2022;25302;399;;;Ingresos diversos;5000
+2022;27101;399;;;Ingresos diversos;1962630
+2022;28107;399;;;Ingresos diversos;500000
+2022;28301;399;;;Ingresos diversos;1270000
+2022;29101;399;;;Ingresos diversos;13030
+2022;60004;399;;;Ingresos diversos;124129970
+2022;98001;399;;;Ingresos diversos;229002000
+2022;15302;399;;00;Compensaciones de servicios prestados por funcionarios públicos;1000000
+2022;98001;399;;00;Compensaciones de servicios prestados por funcionarios públicos;6000000
+2022;15106;399;;01;Recursos eventuales;50020
+2022;21103;399;;01;Recursos eventuales;250000
+2022;23101;399;;01;Recursos eventuales;15000
+2022;23104;399;;01;Recursos eventuales;450000
+2022;23107;399;;01;Recursos eventuales;530000
+2022;23110;399;;01;Recursos eventuales;1120
+2022;23302;399;;01;Recursos eventuales;10000
+2022;98001;399;;01;Recursos eventuales;223000000
+2022;15302;399;;03;Sanciones indemnizatorias;150000
+2022;98001;399;;04;Ingresos de efectivo y saldos de cuentas y libretas abandonadas. Artículo 18.2 de la Ley 33/2003;1000
+2022;27101;399;;05;Convenios estadísticos;1957810
+2022;25103;399;;97;Otros ingresos diversos. C.A. del Patrimonio Nacional;90000
+2022;25103;399;;98;Otros ingresos diversos. Reales Patronatos;10000
+2022;12302;399;;99;Otros ingresos diversos;30000
+2022;14101;399;;99;Otros ingresos diversos;40972000
+2022;14107;399;;99;Otros ingresos diversos;100000
+2022;14113;399;;99;Otros ingresos diversos;100000
+2022;15102;399;;99;Otros ingresos diversos;10000
+2022;15106;399;;99;Otros ingresos diversos;11500
+2022;15107;399;;99;Otros ingresos diversos;5000
+2022;15302;399;;99;Otros ingresos diversos;120000
+2022;17302;399;;99;Otros ingresos diversos;27410
+2022;19101;399;;99;Otros ingresos diversos;1000000
+2022;19102;399;;99;Otros ingresos diversos;15000
+2022;19104;399;;99;Otros ingresos diversos;230000
+2022;19301;399;;99;Otros ingresos diversos;5000
+2022;20104;399;;99;Otros ingresos diversos;280000
+2022;23102;399;;99;Otros ingresos diversos;20000
+2022;23104;399;;99;Otros ingresos diversos;685950
+2022;23106;399;;99;Otros ingresos diversos;500000
+2022;23107;399;;99;Otros ingresos diversos;4000
+2022;23108;399;;99;Otros ingresos diversos;39000
+2022;23109;399;;99;Otros ingresos diversos;27810
+2022;23110;399;;99;Otros ingresos diversos;11540
+2022;23111;399;;99;Otros ingresos diversos;32000
+2022;23302;399;;99;Otros ingresos diversos;10000
+2022;24104;399;;99;Otros ingresos diversos;21500
+2022;24106;399;;99;Otros ingresos diversos;30000
+2022;24107;399;;99;Otros ingresos diversos;90000
+2022;24302;399;;99;Otros ingresos diversos;787250
+2022;25302;399;;99;Otros ingresos diversos;5000
+2022;27101;399;;99;Otros ingresos diversos;4820
+2022;28301;399;;99;Otros ingresos diversos;1270000
+2022;29101;399;;99;Otros ingresos diversos;13030
+2022;98001;399;;99;Otros ingresos diversos;1000
+2022;12301;4;;;TRANSFERENCIAS CORRIENTES;70173130
+2022;12302;4;;;TRANSFERENCIAS CORRIENTES;436403390
+2022;13101;4;;;TRANSFERENCIAS CORRIENTES;11394800
+2022;13102;4;;;TRANSFERENCIAS CORRIENTES;4600000
+2022;13301;4;;;TRANSFERENCIAS CORRIENTES;20000
+2022;14101;4;;;TRANSFERENCIAS CORRIENTES;40602850
+2022;14113;4;;;TRANSFERENCIAS CORRIENTES;25630950
+2022;14301;4;;;TRANSFERENCIAS CORRIENTES;265119600
+2022;15101;4;;;TRANSFERENCIAS CORRIENTES;22024290
+2022;15102;4;;;TRANSFERENCIAS CORRIENTES;94798140
+2022;15106;4;;;TRANSFERENCIAS CORRIENTES;67640000
+2022;15107;4;;;TRANSFERENCIAS CORRIENTES;33045000
+2022;15302;4;;;TRANSFERENCIAS CORRIENTES;1064032100
+2022;15304;4;;;TRANSFERENCIAS CORRIENTES;2328790
+2022;16101;4;;;TRANSFERENCIAS CORRIENTES;216480
+2022;16102;4;;;TRANSFERENCIAS CORRIENTES;2038700
+2022;16103;4;;;TRANSFERENCIAS CORRIENTES;3750000
+2022;17101;4;;;TRANSFERENCIAS CORRIENTES;15964910
+2022;17102;4;;;TRANSFERENCIAS CORRIENTES;2096210
+2022;17301;4;;;TRANSFERENCIAS CORRIENTES;11934180
+2022;17302;4;;;TRANSFERENCIAS CORRIENTES;7070040
+2022;19101;4;;;TRANSFERENCIAS CORRIENTES;2052295140
+2022;19102;4;;;TRANSFERENCIAS CORRIENTES;10000
+2022;19103;4;;;TRANSFERENCIAS CORRIENTES;195445540
+2022;19104;4;;;TRANSFERENCIAS CORRIENTES;36648330
+2022;19301;4;;;TRANSFERENCIAS CORRIENTES;7068840
+2022;20102;4;;;TRANSFERENCIAS CORRIENTES;990000
+2022;20103;4;;;TRANSFERENCIAS CORRIENTES;4286300
+2022;20104;4;;;TRANSFERENCIAS CORRIENTES;32135770
+2022;21101;4;;;TRANSFERENCIAS CORRIENTES;5569650
+2022;21102;4;;;TRANSFERENCIAS CORRIENTES;262255140
+2022;21103;4;;;TRANSFERENCIAS CORRIENTES;5788901080
+2022;23101;4;;;TRANSFERENCIAS CORRIENTES;9581350
+2022;23102;4;;;TRANSFERENCIAS CORRIENTES;2430140
+2022;23103;4;;;TRANSFERENCIAS CORRIENTES;5257670
+2022;23104;4;;;TRANSFERENCIAS CORRIENTES;8203320
+2022;23105;4;;;TRANSFERENCIAS CORRIENTES;12247930
+2022;23106;4;;;TRANSFERENCIAS CORRIENTES;10293580
+2022;23107;4;;;TRANSFERENCIAS CORRIENTES;8183650
+2022;23108;4;;;TRANSFERENCIAS CORRIENTES;10339820
+2022;23109;4;;;TRANSFERENCIAS CORRIENTES;11695810
+2022;23110;4;;;TRANSFERENCIAS CORRIENTES;12582460
+2022;23112;4;;;TRANSFERENCIAS CORRIENTES;165459340
+2022;23301;4;;;TRANSFERENCIAS CORRIENTES;30735130
+2022;23302;4;;;TRANSFERENCIAS CORRIENTES;400000
+2022;24103;4;;;TRANSFERENCIAS CORRIENTES;99840690
+2022;24104;4;;;TRANSFERENCIAS CORRIENTES;24134900
+2022;24105;4;;;TRANSFERENCIAS CORRIENTES;9297450
+2022;24106;4;;;TRANSFERENCIAS CORRIENTES;173928060
+2022;24107;4;;;TRANSFERENCIAS CORRIENTES;148896870
+2022;24301;4;;;TRANSFERENCIAS CORRIENTES;25820730
+2022;24302;4;;;TRANSFERENCIAS CORRIENTES;27043480
+2022;24303;4;;;TRANSFERENCIAS CORRIENTES;8339880
+2022;25101;4;;;TRANSFERENCIAS CORRIENTES;2764860
+2022;25102;4;;;TRANSFERENCIAS CORRIENTES;10932090
+2022;25103;4;;;TRANSFERENCIAS CORRIENTES;66141300
+2022;26105;4;;;TRANSFERENCIAS CORRIENTES;6205320
+2022;26301;4;;;TRANSFERENCIAS CORRIENTES;1942640
+2022;27101;4;;;TRANSFERENCIAS CORRIENTES;139553040
+2022;27302;4;;;TRANSFERENCIAS CORRIENTES;53062110
+2022;28103;4;;;TRANSFERENCIAS CORRIENTES;54098110
+2022;28107;4;;;TRANSFERENCIAS CORRIENTES;139092000
+2022;28301;4;;;TRANSFERENCIAS CORRIENTES;442423060
+2022;28303;4;;;TRANSFERENCIAS CORRIENTES;29984020
+2022;29101;4;;;TRANSFERENCIAS CORRIENTES;49921280
+2022;29102;4;;;TRANSFERENCIAS CORRIENTES;2498630
+2022;30101;4;;;TRANSFERENCIAS CORRIENTES;18044380
+2022;31101;4;;;TRANSFERENCIAS CORRIENTES;11213090
+2022;33101;4;;;TRANSFERENCIAS CORRIENTES;15892980
+2022;33102;4;;;TRANSFERENCIAS CORRIENTES;51490770
+2022;33103;4;;;TRANSFERENCIAS CORRIENTES;8895020
+2022;60004;4;;;TRANSFERENCIAS CORRIENTES;40260313880
+2022;98001;4;;;TRANSFERENCIAS CORRIENTES;13408999990
+2022;12301;40;;;De la Administración del Estado;69573130
+2022;12302;40;;;De la Administración del Estado;367306050
+2022;13101;40;;;De la Administración del Estado;11394800
+2022;13102;40;;;De la Administración del Estado;4600000
+2022;14101;40;;;De la Administración del Estado;39607750
+2022;14113;40;;;De la Administración del Estado;25630950
+2022;14301;40;;;De la Administración del Estado;264319100
+2022;15101;40;;;De la Administración del Estado;22024290
+2022;15102;40;;;De la Administración del Estado;20930120
+2022;15106;40;;;De la Administración del Estado;67640000
+2022;15107;40;;;De la Administración del Estado;33045000
+2022;15302;40;;;De la Administración del Estado;1061942100
+2022;15304;40;;;De la Administración del Estado;2328790
+2022;16102;40;;;De la Administración del Estado;2038700
+2022;16103;40;;;De la Administración del Estado;3750000
+2022;17101;40;;;De la Administración del Estado;15964910
+2022;17102;40;;;De la Administración del Estado;2040210
+2022;17301;40;;;De la Administración del Estado;11934180
+2022;17302;40;;;De la Administración del Estado;7070040
+2022;19101;40;;;De la Administración del Estado;1802295140
+2022;19102;40;;;De la Administración del Estado;10000
+2022;19103;40;;;De la Administración del Estado;192570540
+2022;19104;40;;;De la Administración del Estado;21616430
+2022;19301;40;;;De la Administración del Estado;7068840
+2022;20103;40;;;De la Administración del Estado;3987190
+2022;20104;40;;;De la Administración del Estado;32135770
+2022;21101;40;;;De la Administración del Estado;5569650
+2022;21102;40;;;De la Administración del Estado;262255140
+2022;21103;40;;;De la Administración del Estado;21843980
+2022;23101;40;;;De la Administración del Estado;9581350
+2022;23102;40;;;De la Administración del Estado;2430140
+2022;23103;40;;;De la Administración del Estado;5237670
+2022;23104;40;;;De la Administración del Estado;8203320
+2022;23105;40;;;De la Administración del Estado;12247930
+2022;23106;40;;;De la Administración del Estado;10293580
+2022;23107;40;;;De la Administración del Estado;8183650
+2022;23108;40;;;De la Administración del Estado;10339820
+2022;23109;40;;;De la Administración del Estado;11695810
+2022;23110;40;;;De la Administración del Estado;9946050
+2022;23112;40;;;De la Administración del Estado;165459340
+2022;23301;40;;;De la Administración del Estado;28884640
+2022;23302;40;;;De la Administración del Estado;400000
+2022;24103;40;;;De la Administración del Estado;99690870
+2022;24104;40;;;De la Administración del Estado;24134900
+2022;24105;40;;;De la Administración del Estado;9297450
+2022;24106;40;;;De la Administración del Estado;141928060
+2022;24107;40;;;De la Administración del Estado;148747000
+2022;24301;40;;;De la Administración del Estado;20948900
+2022;24302;40;;;De la Administración del Estado;24303480
+2022;24303;40;;;De la Administración del Estado;8339880
+2022;25101;40;;;De la Administración del Estado;2709860
+2022;25102;40;;;De la Administración del Estado;10932090
+2022;25103;40;;;De la Administración del Estado;56461300
+2022;26105;40;;;De la Administración del Estado;6205320
+2022;26301;40;;;De la Administración del Estado;1942640
+2022;27101;40;;;De la Administración del Estado;139553040
+2022;27302;40;;;De la Administración del Estado;53062110
+2022;28103;40;;;De la Administración del Estado;45644700
+2022;28107;40;;;De la Administración del Estado;138597990
+2022;28301;40;;;De la Administración del Estado;440135110
+2022;28303;40;;;De la Administración del Estado;29984020
+2022;29101;40;;;De la Administración del Estado;11656790
+2022;29102;40;;;De la Administración del Estado;2498630
+2022;30101;40;;;De la Administración del Estado;14263380
+2022;31101;40;;;De la Administración del Estado;11213090
+2022;33101;40;;;De la Administración del Estado;11924300
+2022;33102;40;;;De la Administración del Estado;44356300
+2022;33103;40;;;De la Administración del Estado;8895020
+2022;60004;40;;;De la Administración del Estado;36182858290
+2022;12301;400;;;Del departamento al que está adscrito;69573130
+2022;13101;400;;;Del departamento al que está adscrito;11094800
+2022;14101;400;;;Del departamento al que está adscrito;39607750
+2022;14301;400;;;Del departamento al que está adscrito;264319100
+2022;15101;400;;;Del departamento al que está adscrito;22024290
+2022;15102;400;;;Del departamento al que está adscrito;20030120
+2022;15107;400;;;Del departamento al que está adscrito;33045000
+2022;15302;400;;;Del departamento al que está adscrito;1061834500
+2022;15304;400;;;Del departamento al que está adscrito;2328790
+2022;16102;400;;;Del departamento al que está adscrito;2038700
+2022;16103;400;;;Del departamento al que está adscrito;3750000
+2022;17101;400;;;Del departamento al que está adscrito;12964910
+2022;17102;400;;;Del departamento al que está adscrito;2040210
+2022;17301;400;;;Del departamento al que está adscrito;11934180
+2022;17302;400;;;Del departamento al que está adscrito;7070040
+2022;19101;400;;;Del departamento al que está adscrito;1802295140
+2022;19103;400;;;Del departamento al que está adscrito;189910540
+2022;19104;400;;;Del departamento al que está adscrito;20896430
+2022;19301;400;;;Del departamento al que está adscrito;7068840
+2022;20103;400;;;Del departamento al que está adscrito;3987190
+2022;20104;400;;;Del departamento al que está adscrito;32135770
+2022;21101;400;;;Del departamento al que está adscrito;5569650
+2022;21102;400;;;Del departamento al que está adscrito;261255140
+2022;21103;400;;;Del departamento al que está adscrito;21843980
+2022;23101;400;;;Del departamento al que está adscrito;9581350
+2022;23102;400;;;Del departamento al que está adscrito;2430140
+2022;23103;400;;;Del departamento al que está adscrito;5237670
+2022;23104;400;;;Del departamento al que está adscrito;8203320
+2022;23105;400;;;Del departamento al que está adscrito;12247930
+2022;23106;400;;;Del departamento al que está adscrito;10293580
+2022;23107;400;;;Del departamento al que está adscrito;8183650
+2022;23108;400;;;Del departamento al que está adscrito;10339820
+2022;23109;400;;;Del departamento al que está adscrito;11695810
+2022;23110;400;;;Del departamento al que está adscrito;9946050
+2022;23112;400;;;Del departamento al que está adscrito;165459340
+2022;23301;400;;;Del departamento al que está adscrito;28840640
+2022;23302;400;;;Del departamento al que está adscrito;400000
+2022;24103;400;;;Del departamento al que está adscrito;83302560
+2022;24104;400;;;Del departamento al que está adscrito;24134900
+2022;24105;400;;;Del departamento al que está adscrito;6570450
+2022;24106;400;;;Del departamento al que está adscrito;124811060
+2022;24107;400;;;Del departamento al que está adscrito;142337000
+2022;24301;400;;;Del departamento al que está adscrito;20948900
+2022;24302;400;;;Del departamento al que está adscrito;24303480
+2022;24303;400;;;Del departamento al que está adscrito;8339880
+2022;25101;400;;;Del departamento al que está adscrito;2709860
+2022;25102;400;;;Del departamento al que está adscrito;10892090
+2022;25103;400;;;Del departamento al que está adscrito;56461300
+2022;26105;400;;;Del departamento al que está adscrito;6040320
+2022;26301;400;;;Del departamento al que está adscrito;8800
+2022;27101;400;;;Del departamento al que está adscrito;139553040
+2022;27302;400;;;Del departamento al que está adscrito;53062110
+2022;28103;400;;;Del departamento al que está adscrito;45544700
+2022;28107;400;;;Del departamento al que está adscrito;137773480
+2022;28301;400;;;Del departamento al que está adscrito;440135110
+2022;28303;400;;;Del departamento al que está adscrito;29984020
+2022;29101;400;;;Del departamento al que está adscrito;11656790
+2022;29102;400;;;Del departamento al que está adscrito;2498630
+2022;30101;400;;;Del departamento al que está adscrito;14263380
+2022;31101;400;;;Del departamento al que está adscrito;11213090
+2022;33101;400;;;Del departamento al que está adscrito;3700720
+2022;33102;400;;;Del departamento al que está adscrito;44356300
+2022;33103;400;;;Del departamento al que está adscrito;8895020
+2022;60004;400;;;Del departamento al que está adscrito;32822232560
+2022;15302;400;;00;Para gastos de funcionamiento;991132320
+2022;20104;400;;00;Del departamento al que está adscrito;32135770
+2022;21101;400;;00;Para gastos de funcionamiento.;5569650
+2022;21102;400;;00;Para gastos de funcionamiento;4519790
+2022;21103;400;;00;Para gastos de funcionamiento.;14845570
+2022;23102;400;;00;Para el desarrollo de sus actividades;2430140
+2022;23103;400;;00;Para el desarrollo de sus  actividades;5237670
+2022;23104;400;;00;Para el ejercicio de su actividad;8203320
+2022;23105;400;;00;Para el desarrollo de sus actividades;12247930
+2022;23106;400;;00;Para el desarrollo de sus actividades;10293580
+2022;23107;400;;00;Para el desarrollo de sus actividades;8183650
+2022;23108;400;;00;Para el desarrollo de sus actividades;10339820
+2022;23109;400;;00;Para el desarrollo de sus actividades;11695810
+2022;23110;400;;00;Para el desarrollo de sus actividades;9946050
+2022;24103;400;;00;Para gastos de funcionamiento;18302560
+2022;24106;400;;00;Para gastos de funcionamiento;77086060
+2022;28103;400;;00;Para gastos corrientes;45394700
+2022;28107;400;;00;Para gastos corrientes;137723480
+2022;28301;400;;00;Para gastos corrientes;429032700
+2022;28303;400;;00;Para gastos corrientes;29984020
+2022;31101;400;;00;Para atenciones generales;11213090
+2022;33101;400;;00;Para gastos de funcionamiento;3513720
+2022;33102;400;;00;Para gastos de funcionamiento;2885350
+2022;14101;400;;01;Para gastos de funcionamiento;37607750
+2022;19101;400;;01;Para financiar medidas de reinserción laboral para el colectivo de trabajadores de 50 o más años;73461370
+2022;21102;400;;01;Para el Plan Anual de Seguros Agrarios y liquidación de planes anteriores;256735350
+2022;21103;400;;01;Financiación nacional ayuda desfavorecidos;6848410
+2022;24103;400;;01;Fondo de Protección a la Cinematografía;65000000
+2022;24106;400;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;47725000
+2022;28103;400;;01;Para la construcción y operación de la sede Norte de la Red de Telescopios Cherenkov (CTAN);150000
+2022;33102;400;;01;Para gastos de funcionamiento del Programa de Cooperación, Promoción y Difusión Educativa en el Exterior;1470950
+2022;14101;400;;02;Para gastos de funcionamiento Galileo-GSMC;2000000
+2022;15302;400;;02;Por compensación gastos de otros servicios;2931450
+2022;19101;400;;02;Del Departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;707287300
+2022;21103;400;;02;MAPA financiación nacional Programa Nacional de Apicultura;150000
+2022;28301;400;;02;Para líneas e instalaciones;1000000
+2022;33101;400;;02;Para Aula de Verano;112000
+2022;15302;400;;03;Por premio de cobranza recursos propios de la Unión Europea;67770730
+2022;19101;400;;03;Aportación del Estado a los presupuestos del SEPE.;1021546470
+2022;28301;400;;03;Para el funcionamiento operativo de buques de la flota de investigación oceanográfica del Centro Nacional Instituto Español de Oceanografía;727860
+2022;33101;400;;03;Para cursos institucionales de verano;75000
+2022;33102;400;;03;Para la cofinanciación del Programa Erasmus+;40000000
+2022;28301;400;;05;Para gastos de funcionamiento operativo de buques y bases y de la unidad mixta de gestión de la flota oceanográfica e instalaciones polares;8724550
+2022;28301;400;;07;Para gastos corrientes del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);150000
+2022;28301;400;;08;Para aportación a INSTRUCT-ESPAÑA;250000
+2022;28301;400;;09;Para la aportación a SKA-ESPAÑA;250000
+2022;28107;400;;50;Para el Mecanismo de Recuperación y Resiliencia;50000
+2022;13102;401;;;De otros departamentos ministeriales;4600000
+2022;14113;401;;;De otros departamentos ministeriales;25630950
+2022;15106;401;;;De otros departamentos ministeriales;67640000
+2022;15302;401;;;De otros departamentos ministeriales;107600
+2022;17101;401;;;De otros departamentos ministeriales;3000000
+2022;21102;401;;;De otros departamentos ministeriales;1000000
+2022;23301;401;;;De otros departamentos ministeriales;44000
+2022;24105;401;;;De otros departamentos ministeriales;2727000
+2022;25102;401;;;De otros departamentos ministeriales;40000
+2022;28103;401;;;De otros departamentos ministeriales;100000
+2022;28107;401;;;De otros departamentos ministeriales;824510
+2022;33101;401;;;De otros departamentos ministeriales;8223580
+2022;60004;401;;;De otros departamentos ministeriales;3360625730
+2022;15302;401;;00;Del Ministerio del Interior por los gastos comunes del edificio de la calle del Plomo, de Madrid;107600
+2022;23301;401;;00;Del Ministerio de Ciencia e Innovación para actividades en la AEMET en las Campañas Antárticas;44000
+2022;24105;401;;00;Del Ministerio de Educación y Formación Profesional para gastos en Servicios Centrales de Educación;1704000
+2022;28103;401;;00;Del Ministerio para la Transición Ecológica y el Reto Demográfico para el seguimiento de grandes instalaciones de combustión;100000
+2022;21102;401;;01;Plan Estatal de Seguros Agrarios y liquidación de planes anteriores. Actuaciones en Canarias;1000000
+2022;24105;401;;01;Del Ministerio de Educación y Formación Profesional para gastos corrientes en educación;1023000
+2022;33101;401;;01;Del Ministerio de Educación y Formación Profesional para la concesión de becas de inmersión en inglés;8223580
+2022;28107;401;;04;Del Ministerio de Sanidad para el desarrollo de las actividades de la Agencia de Evaluación de Tecnologías Sanitarias;824510
+2022;13101;402/13101;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;300000
+2022;15102;402/15102;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;900000
+2022;19102;402/19102;;;Aportación del Estado. Mecanismo de Recuperación y Resiliencia;10000
+2022;19104;402/19104;;;Aportación del Estado. Mecanismo de Recuperación y Resiliencia;720000
+2022;24103;402/24103;;;Mecanismo de Recuperación y Resiliencia;16388310
+2022;24106;402/24106;;;Mecanismo de Recuperación y Resiliencia;17117000
+2022;24107;402/24107;;;Mecanismo de Recuperación y Resiliencia;6410000
+2022;26105;402/26105;;;Del departamento al que está adscrito. Mecanismo de Recuperación y resiliencia;165000
+2022;26301;402/26301;;;Del departamento al que está adscrito. Mecanismo de Recuperación y resiliencia;1933840
+2022;19103;403;;;Aportación del Estado. Mecanismo de Recuperación y Resiliencia;2660000
+2022;12302;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;285749060
+2022;12302;405;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto Ley 7/2013, de 28 de junio;74955970
+2022;12302;406;;;Para actividades de interés general consideradas de interés social procedentes del Impuesto sobre Sociedades;6601020
+2022;12302;41;;;De Organismos Autónomos;1614700
+2022;14301;41;;;De Organismos Autónomos;800500
+2022;15102;41;;;De Organismos Autónomos;73868020
+2022;16101;41;;;De Organismos Autónomos;216480
+2022;17102;41;;;De Organismos Autónomos;50000
+2022;23110;41;;;De Organismos Autónomos;2636410
+2022;24103;41;;;De Organismos Autónomos;149820
+2022;24107;41;;;De Organismos Autónomos;105870
+2022;25103;41;;;De Organismos Autónomos;9680000
+2022;28301;41;;;De Organismos Autónomos;282090
+2022;29101;41;;;De Organismos Autónomos;1000000
+2022;33101;41;;;De Organismos Autónomos;17500
+2022;60004;41;;;De Organismos Autónomos;132500
+2022;98001;41;;;De Organismos Autónomos;307833170
+2022;33101;410;;;Compensación de gastos de gestión centralizada;17500
+2022;98001;410;;;Compensación de gastos de gestión centralizada;31153670
+2022;33101;410;;00;Del Instituto de Salud Carlos III (ISCIII) para la realización y divulgación de actividades de investigación en salud;17500
+2022;98001;411;;;Jefatura de Tráfico;117501370
+2022;98001;411;;01;Jefatura de Tráfico;116218840
+2022;98001;411;;02;Jefatura de Tráfico. Disposición adicional segunda de la Ley Orgánica 6/2011;1270000
+2022;98001;411;;03;Contribución al mantenimiento anual de la aplicación NEDAES;12530
+2022;12302;412;;;Servicio Público de Empleo Estatal;1614700
+2022;14301;412;;;Servicio Público de Empleo Estatal;800500
+2022;15102;412;;;Servicio Público de Empleo Estatal;73868020
+2022;16101;412;;;Servicio Público de Empleo Estatal;216480
+2022;24103;412;;;Servicio Público de Empleo Estatal;149820
+2022;24107;412;;;Servicio Público de Empleo Estatal;105870
+2022;25103;412;;;Servicio Público de Empleo Estatal;9680000
+2022;28301;412;;;Servicio Público de Empleo Estatal;282090
+2022;29101;412;;;Servicio Público de Empleo Estatal;1000000
+2022;98001;412;;;Servicio Público de Empleo Estatal;137544340
+2022;12302;412;;00;Para Escuelas Taller y Casas de Oficio en el exterior;1614700
+2022;15102;412;;00;Formación para el Empleo;73868020
+2022;16101;412;;00;Para gastos en políticas activas de empleo;216480
+2022;25103;412;;00;Para ayudas salariales a Escuelas Taller;3600000
+2022;25103;412;;01;Para subvenciones a Escuelas Taller;4680000
+2022;25103;412;;02;Para el fomento de la empleabilidad;1400000
+2022;98001;414;;;Comisionado para el Mercado de Tabacos;20373360
+2022;60004;415;;;Del Servicio Público de Empleo Estatal, O.A.: Para mantenimiento de la aplicación “RIVA”;132500
+2022;17102;419;;;Otras;50000
+2022;23110;419;;;Otras;2636410
+2022;98001;419;;;Otras;1260430
+2022;19103;42;;;De la Seguridad Social;2875000
+2022;19104;42;;;De la Seguridad Social;15000000
+2022;60004;42;;;De la Seguridad Social;4032872640
+2022;98001;42;;;De la Seguridad Social;185393730
+2022;19103;420;;;Transferencias corrientes de la Seguridad Social;2875000
+2022;19104;420;;;Transferencias corrientes de la Seguridad Social;15000000
+2022;98001;420;;;Transferencias corrientes de la Seguridad Social;185393730
+2022;98001;420;;01;Transferencia para compensar la gestión de pensiones no contributivas por el País Vasco y Navarra;184893730
+2022;98001;420;;03;Convenio de colaboración con el Ministerio del Interior para la persecución del fraude y la delincuencia;500000
+2022;60004;421;;;Aportaciones para sosteni. SS.CC.;1265192320
+2022;60004;422;;;Ingresos por servicios prestados entre Entidades del Sistema;1436065670
+2022;60004;423;;;Cuotas de reaseguro de Acctes. T.;1281681390
+2022;60004;428;;;Aplicaciones del Fondo de Contingencias Profesionales;4514100
+2022;60004;429;;;Otras transferencias recibidas de entidades del sistema;45419160
+2022;14101;43;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;765100
+2022;33101;43;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;900000
+2022;98001;43;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;25139780
+2022;33101;430;;;De la Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC);900000
+2022;33101;430;;00;Del CSIC para el desarrollo de programas de postgrado;500000
+2022;33101;430;;01;Del CSIC para acciones de dinamización y formación en intercambio y transferencia de conocimiento;400000
+2022;98001;431;;;Compensación de gastos de gestión centralizada;5076670
+2022;98001;433;;;Agencia Española de Medicamentos y Productos Sanitarios;20000000
+2022;14101;439;;;Otras;765100
+2022;98001;439;;;Otras;63110
+2022;14101;439;;00;Del Consejo Superior de Investigaciones Científicas, para la financiación de los gastos corrientes del Centro de Astrobiología, centro mixto CSIC-INTA;765100
+2022;24107;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;12000
+2022;24301;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;76500
+2022;24302;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;40000
+2022;25101;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;15000
+2022;28103;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;1778440
+2022;33101;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;100000
+2022;98001;44;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;137300
+2022;24302;440;;;De sociedades mercantiles estatales;40000
+2022;98001;440;;;De sociedades mercantiles estatales;137300
+2022;28103;441;;;De entidades públicas empresariales;1186980
+2022;33101;441;;;De entidades públicas empresariales;100000
+2022;28103;441;;00;Del Centro para el Desarrollo Tecnológico Industrial (CDTI);1186980
+2022;24107;449;;;Del resto del Sector Público Estatal;12000
+2022;24301;449;;;Del resto del Sector Público Estatal;76500
+2022;25101;449;;;Del resto del Sector Público Estatal;15000
+2022;28103;449;;;Del resto del Sector Público Estatal;591460
+2022;14101;45;;;De Comunidades Autónomas;230000
+2022;24107;45;;;De Comunidades Autónomas;12000
+2022;24301;45;;;De Comunidades Autónomas;300000
+2022;24302;45;;;De Comunidades Autónomas;400000
+2022;28103;45;;;De Comunidades Autónomas;545460
+2022;28107;45;;;De Comunidades Autónomas;494010
+2022;28301;45;;;De Comunidades Autónomas;2000000
+2022;33101;45;;;De Comunidades Autónomas;521550
+2022;60004;45;;;De Comunidades Autónomas;528030
+2022;98001;45;;;De Comunidades Autónomas;8678237330
+2022;24302;450;;;Contribuciones Concertadas;400000
+2022;98001;450;;;Contribuciones Concertadas;2013013710
+2022;98001;450;;00;Cupo del País Vasco;1406686100
+2022;98001;450;;01;De Navarra;606327610
+2022;98001;451;;;Por Fondo de Suficiencia y otros;6587244240
+2022;28107;452;;;Para EU OPENSCREEN;279010
+2022;98001;456;;;Compensaciones financieras del País Vasco;49780970
+2022;98001;456;;00;Impuestos especiales sobre el alcohol y bebidas derivadas y productos intermedios;5769960
+2022;98001;456;;01;Impuesto especial sobre la Cerveza;3267930
+2022;98001;456;;02;Impuesto especial sobre Hidrocarburos;40743080
+2022;98001;458;;;Liquidación de la regularización de los Mossos d´Esquadra;23893010
+2022;14101;459;;;Otras transferencias corrientes;230000
+2022;24107;459;;;Otras transferencias corrientes;12000
+2022;24301;459;;;Otras transferencias corrientes;300000
+2022;28103;459;;;Otras transferencias corrientes;545460
+2022;28107;459;;;Otras transferencias corrientes;215000
+2022;28301;459;;;Otras transferencias corrientes;2000000
+2022;33101;459;;;Otras transferencias corrientes;521550
+2022;60004;459;;;Otras transferencias corrientes;528030
+2022;98001;459;;;Otras transferencias corrientes;4305400
+2022;14101;459;;01;Del Instituto Gallego de Promoción Económica (IGAPE);230000
+2022;24301;46;;;De Entidades Locales;250000
+2022;33101;46;;;De Entidades Locales;170000
+2022;98001;46;;;De Entidades Locales;412729160
+2022;24301;460;;;De Ayuntamientos;250000
+2022;33101;460;;;De Ayuntamientos;170000
+2022;98001;460;;;De Ayuntamientos;278391760
+2022;98001;461;;;De Diputaciones y Cabildos Insulares;134337400
+2022;12301;47;;;De empresas privadas;600000
+2022;19104;47;;;De empresas privadas;900
+2022;24107;47;;;De empresas privadas;20000
+2022;24301;47;;;De empresas privadas;379920
+2022;24302;47;;;De empresas privadas;1200000
+2022;25101;47;;;De empresas privadas;10000
+2022;28103;47;;;De empresas privadas;341160
+2022;33101;47;;;De empresas privadas;1090000
+2022;60004;47;;;De empresas privadas;38000000
+2022;98001;47;;;De empresas privadas;107549000
+2022;12301;470;;;De empresas privadas;600000
+2022;19104;470;;;De empresas privadas;900
+2022;24301;470;;;De empresas privadas;379920
+2022;24302;470;;;De empresas privadas;1200000
+2022;25101;470;;;De empresas privadas;10000
+2022;28103;470;;;De empresas privadas;341160
+2022;98001;470;;;De empresas privadas;107549000
+2022;60004;471;;;Aportaciones de empresas colaboradoras para el sostenimiento de los servicios comunes;38000000
+2022;24107;479/24107;;;De empresas privadas;20000
+2022;33101;479/33101;;;Otras transferencias corrientes;1090000
+2022;24106;48;;;De familias e instituciones sin fines de lucro;32000000
+2022;24301;48;;;De familias e instituciones sin fines de lucro;3807560
+2022;24302;48;;;De familias e instituciones sin fines de lucro;1100000
+2022;25101;48;;;De familias e instituciones sin fines de lucro;30000
+2022;33101;48;;;De familias e instituciones sin fines de lucro;1165130
+2022;98001;48;;;De familias e instituciones sin fines de lucro;56000
+2022;24106;480/24106;;;Real Decreto-ley 5/2015 de 30 de Abril, de medidas urgentes en relación con la comercialización de los derechos de explotación de contenidos audiovisuales de las competiciones de fútbol profesional;32000000
+2022;24301;480/24301;;;De familias e instituciones sin fines de lucro;3807560
+2022;25101;480/25101;;;De familias e instituciones sin fines de lucro;30000
+2022;98001;480/98001;;;De familias e instituciones sin fines de lucro;56000
+2022;24302;489;;;Otras transferencias corrientes;1100000
+2022;33101;489;;;Otras transferencias corrientes;1165130
+2022;12302;49;;;Del exterior;67482640
+2022;13301;49;;;Del exterior;20000
+2022;15302;49;;;Del exterior;2090000
+2022;17102;49;;;Del exterior;6000
+2022;19101;49;;;Del exterior;250000000
+2022;19104;49;;;Del exterior;31000
+2022;20102;49;;;Del exterior;990000
+2022;20103;49;;;Del exterior;299110
+2022;21103;49;;;Del exterior;5767057100
+2022;23103;49;;;Del exterior;20000
+2022;23301;49;;;Del exterior;1850490
+2022;24301;49;;;Del exterior;57850
+2022;28103;49;;;Del exterior;5788350
+2022;28301;49;;;Del exterior;5860
+2022;29101;49;;;Del exterior;37264490
+2022;30101;49;;;Del exterior;3781000
+2022;33101;49;;;Del exterior;4500
+2022;33102;49;;;Del exterior;7134470
+2022;60004;49;;;Del exterior;5922420
+2022;98001;49;;;Del exterior;3691924520
+2022;19101;490;;;Del Fondo Social Europeo;250000000
+2022;30101;490;;;Del Fondo Social Europeo;3581000
+2022;60004;490;;;Del Fondo Social Europeo;5922420
+2022;19101;490;;00;Para la ejecución de las acciones y programas cofinanciados por el Fondo Social Europeo.;250000000
+2022;21103;491;;;Del Fondo Europeo Agrícola de Garantía (FEAGA);5682525140
+2022;21103;491;;01;Subvenciones a la producción agraria;5682525140
+2022;13301;492;;;Otras transferencias de la Unión Europea;20000
+2022;15302;492;;;Otras transferencias de la Unión Europea;2090000
+2022;17102;492;;;Otras transferencias de la Unión Europea;6000
+2022;19104;492;;;Otras transferencias de la Unión Europea;31000
+2022;20103;492;;;Otras transferencias de la Unión Europea;299110
+2022;21103;492;;;Otras transferencias de la Unión Europea;84531960
+2022;28103;492;;;Otras transferencias de la Unión Europea;4153170
+2022;28301;492;;;Otras transferencias de la Unión Europea;5860
+2022;30101;492;;;Otras transferencias de la Unión Europea;200000
+2022;33102;492;;;Otras transferencias de la Unión Europea;7113470
+2022;98001;492;;;Otras transferencias de la Unión Europea;67316410
+2022;20102;493;;;Aportaciones derivadas de convenios internacionales de cooperación;990000
+2022;23301;493;;;Aportaciones derivadas de convenios internacionales de cooperación;1850490
+2022;29101;493;;;Aportaciones derivadas de convenios internacionales de cooperación;37264490
+2022;33102;493;;;Aportaciones derivadas de convenios internacionales de cooperación;7000
+2022;23103;494/23103;;;De la Unión Europea-PAC;20000
+2022;28103;494/28103;;;De Solar PACES;26000
+2022;98001;498;;;Fondo UE;3596861590
+2022;98001;498;;01;Mecanismo de Recuperación y Resiliencia;2871301590
+2022;98001;498;;02;React-UE;725560000
+2022;12302;499;;;Otras transferencias corrientes;67482640
+2022;24301;499;;;Otras transferencias corrientes;57850
+2022;28103;499;;;Otras transferencias corrientes;1609180
+2022;33101;499;;;Otras transferencias corrientes;4500
+2022;33102;499;;;Otras transferencias corrientes;14000
+2022;98001;499;;;Otras transferencias corrientes;27746520
+2022;12302;499;;08;Cooperación Delegada en Perú;2684170
+2022;12302;499;;09;Transferencias UE para Proyectos de Cooperación Delegada en Bolivia;4991300
+2022;12302;499;;10;Transferencias UE para Proyectos de Cooperación Delegada en Nicaragua;2051300
+2022;12302;499;;13;Transferencias UE para Proyectos de Cooperación Delegada en Honduras;1328290
+2022;12302;499;;14;Transferencias UE para Proyectos de Cooperación Delegada en República Dominicana;1120000
+2022;12302;499;;16;Transferencias UE para Proyectos de Cooperación Delegada en América Latina Regional;6911300
+2022;12302;499;;17;Transferencias UE para Proyectos de Cooperación Delegada Región SICA;1048600
+2022;12302;499;;18;Transferencias UE para proyectos de Cooperación Delegada CEDEAO;481000
+2022;12302;499;;20;Transferencias UE para Proyectos de Cooperación Delegada en Filipinas;3470000
+2022;12302;499;;21;Transferencias UE para Proyectos de Cooperación Delegada en Senegal;5238000
+2022;12302;499;;23;Transferencias UE para Proyectos de Cooperación Delegada en Mali;1200000
+2022;12302;499;;24;Transferencias UE para Proyectos de Cooperación Delegada en Jordania;5545000
+2022;12302;499;;25;Transferencias UE para Proyectos de Cooperación Delegada en Mauritania;1274000
+2022;12302;499;;26;Transferencias UE para Proyectos de Cooperación Delegada en Marruecos;2411000
+2022;12302;499;;27;Transferencias UE para Proyectos de Cooperación Delegada en Ecuador;1991020
+2022;12302;499;;29;Transferencias UE para Proyectos de Cooperación Delegada en Egipto;2414000
+2022;12302;499;;30;Transferencias UE para Proyectos de Cooperación Delegada con Guatemala;117000
+2022;12302;499;;31;Transferencias UE para Proyectos de Cooperación Delegada con Colombia;1315290
+2022;12302;499;;33;Proyectos de Cooperación Delegada con Etiopía;405000
+2022;12302;499;;34;Proyectos de Cooperación Delegada con Haití;627060
+2022;12302;499;;35;Proyectos de Cooperación Delegada con África Regional;1246000
+2022;12302;499;;36;Proyectos de Cooperación Delegada con Mozambique;1780000
+2022;12302;499;;37;Proyectos de Cooperación Delegada con Níger;1194000
+2022;12302;499;;38;Proyectos de Cooperación Delegada en Palestina;1604000
+2022;12302;499;;39;Proyectos de Cooperación Delegada en Panamá;1480170
+2022;12302;499;;40;Proyectos de Cooperación Delegada cultural en Túnez;2300000
+2022;12302;499;;41;Proyectos de Cooperación Delegada cultural en Cuba;50000
+2022;12302;499;;42;Proyectos de Cooperación Delegada ciudades sostenibles;5400000
+2022;12302;499;;43;Proyectos de Cooperación Delegada inclusión financiera;4500000
+2022;12302;499;;47;Proyectos de Cooperación Delegada con Costa Rica;1305140
+2022;12301;5;;;INGRESOS PATRIMONIALES;915000
+2022;13102;5;;;INGRESOS PATRIMONIALES;195000
+2022;14101;5;;;INGRESOS PATRIMONIALES;2250000
+2022;14107;5;;;INGRESOS PATRIMONIALES;23230000
+2022;14113;5;;;INGRESOS PATRIMONIALES;90000
+2022;15101;5;;;INGRESOS PATRIMONIALES;144960
+2022;15102;5;;;INGRESOS PATRIMONIALES;44000
+2022;15106;5;;;INGRESOS PATRIMONIALES;1033470
+2022;15107;5;;;INGRESOS PATRIMONIALES;227000
+2022;15302;5;;;INGRESOS PATRIMONIALES;51000
+2022;16101;5;;;INGRESOS PATRIMONIALES;1298270
+2022;17101;5;;;INGRESOS PATRIMONIALES;1550
+2022;19101;5;;;INGRESOS PATRIMONIALES;98080
+2022;19102;5;;;INGRESOS PATRIMONIALES;155000
+2022;19104;5;;;INGRESOS PATRIMONIALES;500
+2022;20102;5;;;INGRESOS PATRIMONIALES;1000
+2022;20103;5;;;INGRESOS PATRIMONIALES;500
+2022;20104;5;;;INGRESOS PATRIMONIALES;3009830
+2022;21103;5;;;INGRESOS PATRIMONIALES;5016070
+2022;23101;5;;;INGRESOS PATRIMONIALES;1650100
+2022;23103;5;;;INGRESOS PATRIMONIALES;3116000
+2022;23104;5;;;INGRESOS PATRIMONIALES;12351000
+2022;23105;5;;;INGRESOS PATRIMONIALES;1191210
+2022;23106;5;;;INGRESOS PATRIMONIALES;32500
+2022;23107;5;;;INGRESOS PATRIMONIALES;90000
+2022;23109;5;;;INGRESOS PATRIMONIALES;62513010
+2022;23110;5;;;INGRESOS PATRIMONIALES;324400
+2022;23111;5;;;INGRESOS PATRIMONIALES;233300
+2022;24103;5;;;INGRESOS PATRIMONIALES;8000
+2022;24104;5;;;INGRESOS PATRIMONIALES;17000
+2022;24106;5;;;INGRESOS PATRIMONIALES;577640
+2022;24107;5;;;INGRESOS PATRIMONIALES;202000
+2022;24301;5;;;INGRESOS PATRIMONIALES;1251000
+2022;24302;5;;;INGRESOS PATRIMONIALES;1170000
+2022;25103;5;;;INGRESOS PATRIMONIALES;6110000
+2022;27101;5;;;INGRESOS PATRIMONIALES;11540
+2022;27302;5;;;INGRESOS PATRIMONIALES;532050
+2022;28301;5;;;INGRESOS PATRIMONIALES;2780540
+2022;29101;5;;;INGRESOS PATRIMONIALES;6000
+2022;29102;5;;;INGRESOS PATRIMONIALES;1980
+2022;33102;5;;;INGRESOS PATRIMONIALES;1000
+2022;60004;5;;;INGRESOS PATRIMONIALES;25847750
+2022;98001;5;;;INGRESOS PATRIMONIALES;6471282010
+2022;15106;50;;;Intereses de títulos y valores;890
+2022;60004;50;;;Intereses de títulos y valores;21238400
+2022;15106;500;;;Del Estado;890
+2022;60004;500;;;Del Estado;16653470
+2022;60004;504;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;110000
+2022;60004;505;;;De Comunidades Autónomas;4363200
+2022;60004;506;;;De Entidades Locales;50000
+2022;60004;507;;;De empresas privadas;61730
+2022;23107;51;;;Intereses de anticipos y préstamos concedidos;50940
+2022;23111;51;;;Intereses de anticipos y préstamos concedidos;2000
+2022;24106;51;;;Intereses de anticipos y préstamos concedidos;321990
+2022;60004;51;;;Intereses de anticipos y préstamos concedidos;154900
+2022;98001;51;;;Intereses de anticipos y préstamos concedidos;974252740
+2022;23107;514;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;50940
+2022;98001;514;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;8000000
+2022;23107;514;;99;Otros;50940
+2022;98001;514;;99;Otros;8000000
+2022;98001;515;;;A Comunidades Autónomas;903878000
+2022;98001;516;;;A Entidades Locales;23595740
+2022;98001;517;;;A empresas privadas;38379000
+2022;23111;518;;;A familias e instituciones sin fines de lucro;2000
+2022;24106;518;;;A familias e instituciones sin fines de lucro;321990
+2022;60004;518;;;A familias e instituciones sin fines de lucro;154900
+2022;98001;518;;;A familias e instituciones sin fines de lucro;400000
+2022;12301;52;;;Intereses de depósitos;15000
+2022;14113;52;;;Intereses de depósitos;10000
+2022;15102;52;;;Intereses de depósitos;3000
+2022;16101;52;;;Intereses de depósitos;1268220
+2022;17101;52;;;Intereses de depósitos;1550
+2022;19101;52;;;Intereses de depósitos;48080
+2022;19102;52;;;Intereses de depósitos;30000
+2022;19104;52;;;Intereses de depósitos;500
+2022;20102;52;;;Intereses de depósitos;1000
+2022;20103;52;;;Intereses de depósitos;500
+2022;20104;52;;;Intereses de depósitos;1000
+2022;23101;52;;;Intereses de depósitos;100
+2022;23103;52;;;Intereses de depósitos;1000
+2022;23104;52;;;Intereses de depósitos;1000
+2022;23107;52;;;Intereses de depósitos;25000
+2022;23109;52;;;Intereses de depósitos;309000
+2022;23111;52;;;Intereses de depósitos;83000
+2022;24104;52;;;Intereses de depósitos;4000
+2022;24107;52;;;Intereses de depósitos;2000
+2022;25103;52;;;Intereses de depósitos;2000
+2022;28301;52;;;Intereses de depósitos;301500
+2022;29101;52;;;Intereses de depósitos;6000
+2022;29102;52;;;Intereses de depósitos;1980
+2022;33102;52;;;Intereses de depósitos;1000
+2022;60004;52;;;Intereses de depósitos;558880
+2022;98001;52;;;Intereses de depósitos;73161010
+2022;12301;520;;;Intereses de cuentas bancarias;15000
+2022;14113;520;;;Intereses de cuentas bancarias;10000
+2022;15102;520;;;Intereses de cuentas bancarias;3000
+2022;16101;520;;;Intereses de cuentas bancarias;1268220
+2022;17101;520;;;Intereses de cuentas bancarias;1550
+2022;19101;520;;;Intereses de cuentas bancarias;48080
+2022;19102;520;;;Intereses de cuentas bancarias;30000
+2022;19104;520;;;Intereses de cuentas bancarias;500
+2022;20102;520;;;Intereses de cuentas bancarias;1000
+2022;20103;520;;;Intereses de cuentas bancarias;500
+2022;20104;520;;;Intereses de cuentas bancarias;1000
+2022;23101;520;;;Intereses de cuentas bancarias;100
+2022;23103;520;;;Intereses de cuentas bancarias;1000
+2022;23104;520;;;Intereses de cuentas bancarias;1000
+2022;23107;520;;;Intereses de cuentas bancarias;25000
+2022;23109;520;;;Intereses de cuentas bancarias;309000
+2022;23111;520;;;Intereses de cuentas bancarias;83000
+2022;24104;520;;;Intereses de cuentas bancarias;4000
+2022;24107;520;;;Intereses de cuentas bancarias;2000
+2022;25103;520;;;Intereses de cuentas bancarias;2000
+2022;28301;520;;;Intereses de cuentas bancarias;301500
+2022;29101;520;;;Intereses de cuentas bancarias;6000
+2022;29102;520;;;Intereses de cuentas bancarias;1980
+2022;33102;520;;;Intereses de cuentas bancarias;1000
+2022;60004;520;;;Intereses de cuentas bancarias;285380
+2022;98001;520;;;Intereses de cuentas bancarias;73161010
+2022;23107;520;;00;Intereses de las consignaciones judiciales;25000
+2022;23109;520;;00;Intereses de las consignaciones judiciales;309000
+2022;98001;520;;00;Intereses de las consignaciones judiciales;72621010
+2022;25103;520;;90;Consejo de Administración del Patrimonio Nacional;1000
+2022;25103;520;;91;Reales Patronatos;1000
+2022;12301;520;;99;Otros intereses de cuentas bancarias;15000
+2022;14113;520;;99;Otros intereses de cuentas bancarias;10000
+2022;15102;520;;99;Otros intereses de cuentas bancarias;3000
+2022;16101;520;;99;Otros intereses de cuentas bancarias;1268220
+2022;19101;520;;99;Otros intereses de cuentas bancarias;48080
+2022;19102;520;;99;Otros intereses de cuentas bancarias;30000
+2022;19104;520;;99;Otros intereses de cuentas bancarias;500
+2022;20102;520;;99;Otros intereses de cuentas bancarias;1000
+2022;20103;520;;99;Otros intereses de cuentas bancarias;500
+2022;20104;520;;99;Otros intereses de cuentas bancarias;1000
+2022;23101;520;;99;Otros intereses de cuentas bancarias;100
+2022;23103;520;;99;Otros intereses de cuentas bancarias;1000
+2022;23104;520;;99;Otros intereses de cuentas bancarias;1000
+2022;23111;520;;99;Otros intereses de cuentas bancarias;83000
+2022;24107;520;;99;Otros intereses de cuentas bancarias;2000
+2022;28301;520;;99;Otros intereses de cuentas bancarias;301500
+2022;29101;520;;99;Otros intereses de cuentas bancarias;6000
+2022;29102;520;;99;Otros intereses de cuentas bancarias;1980
+2022;33102;520;;99;Otros intereses de cuentas bancarias;1000
+2022;98001;520;;99;Otros intereses de cuentas bancarias;540000
+2022;60004;529;;;Intereses de otros depósitos;273500
+2022;14101;53;;;Dividendos y participaciones en beneficios;2000000
+2022;15102;53;;;Dividendos y participaciones en beneficios;16000
+2022;15106;53;;;Dividendos y participaciones en beneficios;127500
+2022;21103;53;;;Dividendos y participaciones en beneficios;5006070
+2022;98001;53;;;Dividendos y participaciones en beneficios;3244168260
+2022;14101;534;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;2000000
+2022;21103;534;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;5006070
+2022;98001;534;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;3243968390
+2022;98001;534;;03;Banco de España;1605000000
+2022;98001;534;;06;Real Casa de la Moneda. Fabrica Nacional de Moneda y Timbre;3456000
+2022;98001;534;;11;Sociedad Estatal Loterías y Apuestas del Estado (SELAE);1614950000
+2022;98001;534;;12;Otras Sociedades Estatales del Grupo Patrimonio;10562390
+2022;14101;534;;99;Otras participaciones en beneficios;2000000
+2022;21103;534;;99;Otras participaciones en beneficios;5006070
+2022;98001;534;;99;Otras participaciones en beneficios;10000000
+2022;15102;537;;;De empresas privadas;16000
+2022;15106;537;;;De empresas privadas;127500
+2022;98001;537;;;De empresas privadas;199870
+2022;12301;54;;;Rentas de bienes inmuebles;900000
+2022;13102;54;;;Rentas de bienes inmuebles;195000
+2022;14101;54;;;Rentas de bienes inmuebles;250000
+2022;14107;54;;;Rentas de bienes inmuebles;23230000
+2022;14113;54;;;Rentas de bienes inmuebles;80000
+2022;15101;54;;;Rentas de bienes inmuebles;144960
+2022;15102;54;;;Rentas de bienes inmuebles;25000
+2022;15106;54;;;Rentas de bienes inmuebles;905080
+2022;15107;54;;;Rentas de bienes inmuebles;226000
+2022;15302;54;;;Rentas de bienes inmuebles;51000
+2022;19102;54;;;Rentas de bienes inmuebles;125000
+2022;21103;54;;;Rentas de bienes inmuebles;10000
+2022;23103;54;;;Rentas de bienes inmuebles;15000
+2022;23107;54;;;Rentas de bienes inmuebles;14060
+2022;23111;54;;;Rentas de bienes inmuebles;33300
+2022;24106;54;;;Rentas de bienes inmuebles;237410
+2022;25103;54;;;Rentas de bienes inmuebles;5132000
+2022;27101;54;;;Rentas de bienes inmuebles;11540
+2022;27302;54;;;Rentas de bienes inmuebles;532050
+2022;28301;54;;;Rentas de bienes inmuebles;279040
+2022;60004;54;;;Rentas de bienes inmuebles;3895070
+2022;13102;540;;;Alquiler y productos de inmuebles;195000
+2022;14107;540;;;Alquiler y productos de inmuebles;19730000
+2022;14113;540;;;Alquiler y productos de inmuebles;80000
+2022;15101;540;;;Alquiler y productos de inmuebles;144960
+2022;15106;540;;;Alquiler y productos de inmuebles;905080
+2022;15107;540;;;Alquiler y productos de inmuebles;226000
+2022;15302;540;;;Alquiler y productos de inmuebles;51000
+2022;19102;540;;;Alquiler y productos de inmuebles;125000
+2022;21103;540;;;Alquiler y productos de inmuebles;10000
+2022;23103;540;;;Alquiler y productos de inmuebles;15000
+2022;23107;540;;;Alquiler y productos de inmuebles;14060
+2022;23111;540;;;Alquiler y productos de inmuebles;33300
+2022;24106;540;;;Alquiler y productos de inmuebles;237410
+2022;25103;540;;;Alquiler y productos de inmuebles;5132000
+2022;27101;540;;;Alquiler y productos de inmuebles;11540
+2022;27302;540;;;Alquiler y productos de inmuebles;532050
+2022;28301;540;;;Alquiler y productos de inmuebles;279040
+2022;60004;540;;;Alquiler y productos de inmuebles;3892570
+2022;14107;540;;00;Alquiler de viviendas;18000000
+2022;15106;540;;00;Alquiler de viviendas;213940
+2022;23103;540;;00;Alquiler de viviendas;15000
+2022;23107;540;;00;Alquiler de viviendas;14060
+2022;24106;540;;00;Alquiler de viviendas;237410
+2022;27101;540;;00;Alquiler de viviendas;11540
+2022;28301;540;;09;Otros alquileres de viviendas (alojamiento en residencias y buques);100000
+2022;13102;540;;10;Alquiler de locales;195000
+2022;14107;540;;10;Alquiler de locales;1700000
+2022;14113;540;;10;Alquiler de locales;80000
+2022;15106;540;;10;Alquiler de locales;511610
+2022;19102;540;;10;Alquiler de locales;125000
+2022;28301;540;;10;Alquiler de locales;150000
+2022;25103;540;;97;Otros productos de inmuebles. C.A. del Patrimonio Nacional.;4407000
+2022;25103;540;;98;Otros productos de inmuebles. Reales Patronatos.;725000
+2022;14107;540;;99;Otros productos de inmuebles;30000
+2022;15101;540;;99;Otros productos de inmuebles;144960
+2022;15106;540;;99;Otros productos de inmuebles;179530
+2022;15302;540;;99;Otros productos de inmuebles;51000
+2022;21103;540;;99;Otros productos de inmuebles;10000
+2022;23111;540;;99;Otros productos de inmuebles;33300
+2022;28301;540;;99;Otros productos de inmuebles;29040
+2022;14101;541;;;Arrendamientos de fincas rústicas;250000
+2022;15102;542;;;Alquiler de aulas y otras instalaciones formativas.;25000
+2022;12301;549;;;Otras rentas;900000
+2022;14107;549;;;Otras rentas;3500000
+2022;60004;549;;;Otras rentas;2500
+2022;20104;55;;;Productos de concesiones y aprovechamientos especiales;3008830
+2022;23101;55;;;Productos de concesiones y aprovechamientos especiales;1650000
+2022;23103;55;;;Productos de concesiones y aprovechamientos especiales;3100000
+2022;23104;55;;;Productos de concesiones y aprovechamientos especiales;2100000
+2022;23105;55;;;Productos de concesiones y aprovechamientos especiales;1183170
+2022;23106;55;;;Productos de concesiones y aprovechamientos especiales;2500
+2022;23109;55;;;Productos de concesiones y aprovechamientos especiales;154500
+2022;23110;55;;;Productos de concesiones y aprovechamientos especiales;324400
+2022;24103;55;;;Productos de concesiones y aprovechamientos especiales;8000
+2022;24104;55;;;Productos de concesiones y aprovechamientos especiales;13000
+2022;24106;55;;;Productos de concesiones y aprovechamientos especiales;18240
+2022;24107;55;;;Productos de concesiones y aprovechamientos especiales;200000
+2022;24301;55;;;Productos de concesiones y aprovechamientos especiales;1251000
+2022;24302;55;;;Productos de concesiones y aprovechamientos especiales;1170000
+2022;25103;55;;;Productos de concesiones y aprovechamientos especiales;916000
+2022;28301;55;;;Productos de concesiones y aprovechamientos especiales;2200000
+2022;98001;55;;;Productos de concesiones y aprovechamientos especiales;2050000000
+2022;20104;550;;;De concesiones administrativas;3008830
+2022;23101;550;;;De concesiones administrativas;100000
+2022;23106;550;;;De concesiones administrativas;2500
+2022;23110;550;;;De concesiones administrativas;274400
+2022;24103;550;;;De concesiones administrativas;8000
+2022;24104;550;;;De concesiones administrativas;13000
+2022;24106;550;;;De concesiones administrativas;18240
+2022;24302;550;;;De concesiones administrativas;1170000
+2022;98001;550;;;De concesiones administrativas;50000000
+2022;23101;551;;;Aprovechamientos agrícolas y forestales;1500000
+2022;23103;551;;;Aprovechamientos agrícolas y forestales;3100000
+2022;23105;551;;;Aprovechamientos agrícolas y forestales;1183170
+2022;23110;551;;;Aprovechamientos agrícolas y forestales;50000
+2022;23104;555;;;Aprovechamientos agrícolas y forestales;150000
+2022;98001;557;;;Subastas de derechos de emisión de gases de efecto invernadero;2000000000
+2022;23101;559;;;Otras concesiones y aprovechamientos;50000
+2022;23104;559;;;Otras concesiones y aprovechamientos;1950000
+2022;23109;559;;;Otras concesiones y aprovechamientos;154500
+2022;24107;559;;;Otras concesiones y aprovechamientos;200000
+2022;24301;559;;;Otras concesiones y aprovechamientos;1251000
+2022;25103;559;;;Otras concesiones y aprovechamientos;916000
+2022;28301;559;;;Otras concesiones y aprovechamientos;2200000
+2022;25103;559;;00;Consejo de Administración del Patrimonio Nacional;914000
+2022;25103;559;;01;Reales Patronatos;2000
+2022;15107;59;;;Otros ingresos patrimoniales;1000
+2022;16101;59;;;Otros ingresos patrimoniales;30050
+2022;19101;59;;;Otros ingresos patrimoniales;50000
+2022;23104;59;;;Otros ingresos patrimoniales;10250000
+2022;23105;59;;;Otros ingresos patrimoniales;8040
+2022;23106;59;;;Otros ingresos patrimoniales;30000
+2022;23109;59;;;Otros ingresos patrimoniales;62049510
+2022;23111;59;;;Otros ingresos patrimoniales;115000
+2022;25103;59;;;Otros ingresos patrimoniales;60000
+2022;60004;59;;;Otros ingresos patrimoniales;500
+2022;98001;59;;;Otros ingresos patrimoniales;129700000
+2022;98001;590;;;Ingresos por 5G;127000000
+2022;15107;599;;;Otros;1000
+2022;16101;599;;;Otros;30050
+2022;19101;599;;;Otros;50000
+2022;23104;599;;;Otros;10250000
+2022;23105;599;;;Otros;8040
+2022;23106;599;;;Otros;30000
+2022;23109;599;;;Otros;62049510
+2022;23111;599;;;Otros;115000
+2022;25103;599;;;Otros;60000
+2022;60004;599;;;Otros;500
+2022;98001;599;;;Otros;2700000
+2022;25103;599;;01;Reales Patronatos;10000
+2022;25103;599;;02;Consejo de Administración del Patrimonio Nacional;50000
+2022;14107;6;;;ENAJENACION DE INVERSIONES REALES;121266000
+2022;15106;6;;;ENAJENACION DE INVERSIONES REALES;2604890
+2022;15107;6;;;ENAJENACION DE INVERSIONES REALES;1790
+2022;16101;6;;;ENAJENACION DE INVERSIONES REALES;420560
+2022;16102;6;;;ENAJENACION DE INVERSIONES REALES;5320890
+2022;19101;6;;;ENAJENACION DE INVERSIONES REALES;3001810
+2022;19102;6;;;ENAJENACION DE INVERSIONES REALES;2000000
+2022;20104;6;;;ENAJENACION DE INVERSIONES REALES;850000
+2022;21103;6;;;ENAJENACION DE INVERSIONES REALES;864500
+2022;23101;6;;;ENAJENACION DE INVERSIONES REALES;500000
+2022;23106;6;;;ENAJENACION DE INVERSIONES REALES;2500
+2022;23107;6;;;ENAJENACION DE INVERSIONES REALES;250000
+2022;23110;6;;;ENAJENACION DE INVERSIONES REALES;25000
+2022;23301;6;;;ENAJENACION DE INVERSIONES REALES;4615390
+2022;24106;6;;;ENAJENACION DE INVERSIONES REALES;2127580
+2022;28107;6;;;ENAJENACION DE INVERSIONES REALES;2500000
+2022;28301;6;;;ENAJENACION DE INVERSIONES REALES;27000
+2022;28303;6;;;ENAJENACION DE INVERSIONES REALES;30000000
+2022;60004;6;;;ENAJENACION DE INVERSIONES REALES;1885020
+2022;98001;6;;;ENAJENACION DE INVERSIONES REALES;109004000
+2022;14107;60;;;De terrenos;96266000
+2022;60004;60;;;De terrenos;100300
+2022;98001;60;;;De terrenos;8000000
+2022;14107;600;;;Venta de solares;96266000
+2022;60004;600;;;Venta de solares;100000
+2022;98001;600;;;Venta de solares;7000000
+2022;60004;601;;;Venta de fincas rústicas;300
+2022;98001;601;;;Venta de fincas rústicas;1000000
+2022;14107;61;;;De las demás inversiones reales;25000000
+2022;15106;61;;;De las demás inversiones reales;2604890
+2022;15107;61;;;De las demás inversiones reales;1790
+2022;16101;61;;;De las demás inversiones reales;330560
+2022;16102;61;;;De las demás inversiones reales;5320890
+2022;19101;61;;;De las demás inversiones reales;1810
+2022;19102;61;;;De las demás inversiones reales;2000000
+2022;21103;61;;;De las demás inversiones reales;864500
+2022;23106;61;;;De las demás inversiones reales;2500
+2022;28301;61;;;De las demás inversiones reales;1000
+2022;60004;61;;;De las demás inversiones reales;1784720
+2022;98001;61;;;De las demás inversiones reales;20100000
+2022;98001;610;;;Venta de edificios y otras construcciones;20000000
+2022;28301;616;;;Enajenación de bienes destinados a uso general;1000
+2022;14107;619;;;Venta de otras inversiones reales;25000000
+2022;15106;619;;;Venta de otras inversiones reales;2604890
+2022;15107;619;;;Venta de otras inversiones reales;1790
+2022;16101;619;;;Venta de otras inversiones reales;330560
+2022;16102;619;;;Venta de otras inversiones reales;5320890
+2022;19101;619;;;Venta de otras inversiones reales;1810
+2022;19102;619;;;Venta de otras inversiones reales;2000000
+2022;21103;619;;;Venta de otras inversiones reales;864500
+2022;23106;619;;;Venta de otras inversiones reales;2500
+2022;60004;619;;;Venta de otras inversiones reales;1784720
+2022;98001;619;;;Venta de otras inversiones reales;100000
+2022;16101;68;;;Reintegros por operaciones de capital;90000
+2022;19101;68;;;Reintegros por operaciones de capital;3000000
+2022;20104;68;;;Reintegros por operaciones de capital;850000
+2022;23101;68;;;Reintegros por operaciones de capital;500000
+2022;23107;68;;;Reintegros por operaciones de capital;250000
+2022;23110;68;;;Reintegros por operaciones de capital;25000
+2022;23301;68;;;Reintegros por operaciones de capital;4615390
+2022;24106;68;;;Reintegros por operaciones de capital;2127580
+2022;28107;68;;;Reintegros por operaciones de capital;2500000
+2022;28301;68;;;Reintegros por operaciones de capital;26000
+2022;28303;68;;;Reintegros por operaciones de capital;30000000
+2022;98001;68;;;Reintegros por operaciones de capital;80904000
+2022;16101;680;;;De ejercicios cerrados;90000
+2022;19101;680;;;De ejercicios cerrados;3000000
+2022;20104;680;;;De ejercicios cerrados;850000
+2022;23101;680;;;De ejercicios cerrados;500000
+2022;23107;680;;;De ejercicios cerrados;250000
+2022;23110;680;;;De ejercicios cerrados;25000
+2022;23301;680;;;De ejercicios cerrados;4615390
+2022;24106;680;;;De ejercicios cerrados;2127580
+2022;28107;680;;;De ejercicios cerrados;2500000
+2022;28301;680;;;De ejercicios cerrados;26000
+2022;28303;680;;;De ejercicios cerrados;30000000
+2022;98001;680;;;De ejercicios cerrados;77304000
+2022;98001;681;;;Del presupuesto corriente;3600000
+2022;12301;7;;;TRANSFERENCIAS DE CAPITAL;33222970
+2022;12302;7;;;TRANSFERENCIAS DE CAPITAL;39552780
+2022;13101;7;;;TRANSFERENCIAS DE CAPITAL;2077000
+2022;14101;7;;;TRANSFERENCIAS DE CAPITAL;26591870
+2022;14301;7;;;TRANSFERENCIAS DE CAPITAL;54218540
+2022;15101;7;;;TRANSFERENCIAS DE CAPITAL;2370000
+2022;15102;7;;;TRANSFERENCIAS DE CAPITAL;5248940
+2022;15106;7;;;TRANSFERENCIAS DE CAPITAL;3498950
+2022;15107;7;;;TRANSFERENCIAS DE CAPITAL;1124000
+2022;15302;7;;;TRANSFERENCIAS DE CAPITAL;105809850
+2022;15304;7;;;TRANSFERENCIAS DE CAPITAL;42000
+2022;16102;7;;;TRANSFERENCIAS DE CAPITAL;2000000
+2022;16103;7;;;TRANSFERENCIAS DE CAPITAL;250000
+2022;17101;7;;;TRANSFERENCIAS DE CAPITAL;5840000
+2022;17102;7;;;TRANSFERENCIAS DE CAPITAL;2806830
+2022;17302;7;;;TRANSFERENCIAS DE CAPITAL;226560
+2022;19101;7;;;TRANSFERENCIAS DE CAPITAL;52522700
+2022;19102;7;;;TRANSFERENCIAS DE CAPITAL;600000
+2022;19103;7;;;TRANSFERENCIAS DE CAPITAL;2367090
+2022;19104;7;;;TRANSFERENCIAS DE CAPITAL;2905000
+2022;19301;7;;;TRANSFERENCIAS DE CAPITAL;41940
+2022;20103;7;;;TRANSFERENCIAS DE CAPITAL;10071360
+2022;20104;7;;;TRANSFERENCIAS DE CAPITAL;33928310
+2022;21101;7;;;TRANSFERENCIAS DE CAPITAL;2250000
+2022;21102;7;;;TRANSFERENCIAS DE CAPITAL;684370
+2022;21103;7;;;TRANSFERENCIAS DE CAPITAL;1795100170
+2022;23101;7;;;TRANSFERENCIAS DE CAPITAL;65694890
+2022;23102;7;;;TRANSFERENCIAS DE CAPITAL;14400000
+2022;23103;7;;;TRANSFERENCIAS DE CAPITAL;8100000
+2022;23104;7;;;TRANSFERENCIAS DE CAPITAL;1375000
+2022;23105;7;;;TRANSFERENCIAS DE CAPITAL;60250000
+2022;23106;7;;;TRANSFERENCIAS DE CAPITAL;17250000
+2022;23107;7;;;TRANSFERENCIAS DE CAPITAL;10000000
+2022;23108;7;;;TRANSFERENCIAS DE CAPITAL;17088720
+2022;23109;7;;;TRANSFERENCIAS DE CAPITAL;19698550
+2022;23110;7;;;TRANSFERENCIAS DE CAPITAL;12000000
+2022;23111;7;;;TRANSFERENCIAS DE CAPITAL;1000000
+2022;23112;7;;;TRANSFERENCIAS DE CAPITAL;170821810
+2022;23301;7;;;TRANSFERENCIAS DE CAPITAL;34473660
+2022;24103;7;;;TRANSFERENCIAS DE CAPITAL;5655000
+2022;24104;7;;;TRANSFERENCIAS DE CAPITAL;7544180
+2022;24105;7;;;TRANSFERENCIAS DE CAPITAL;37121050
+2022;24106;7;;;TRANSFERENCIAS DE CAPITAL;114363260
+2022;24107;7;;;TRANSFERENCIAS DE CAPITAL;41876330
+2022;24301;7;;;TRANSFERENCIAS DE CAPITAL;21650000
+2022;24302;7;;;TRANSFERENCIAS DE CAPITAL;6600000
+2022;24303;7;;;TRANSFERENCIAS DE CAPITAL;424570
+2022;25101;7;;;TRANSFERENCIAS DE CAPITAL;325000
+2022;25102;7;;;TRANSFERENCIAS DE CAPITAL;50980
+2022;25103;7;;;TRANSFERENCIAS DE CAPITAL;17817740
+2022;26105;7;;;TRANSFERENCIAS DE CAPITAL;707550
+2022;26301;7;;;TRANSFERENCIAS DE CAPITAL;941160
+2022;27101;7;;;TRANSFERENCIAS DE CAPITAL;24053120
+2022;27302;7;;;TRANSFERENCIAS DE CAPITAL;3698528710
+2022;28103;7;;;TRANSFERENCIAS DE CAPITAL;58787180
+2022;28107;7;;;TRANSFERENCIAS DE CAPITAL;410548600
+2022;28301;7;;;TRANSFERENCIAS DE CAPITAL;388932310
+2022;28303;7;;;TRANSFERENCIAS DE CAPITAL;1296960000
+2022;29101;7;;;TRANSFERENCIAS DE CAPITAL;247220
+2022;29102;7;;;TRANSFERENCIAS DE CAPITAL;12000
+2022;30101;7;;;TRANSFERENCIAS DE CAPITAL;465000
+2022;31101;7;;;TRANSFERENCIAS DE CAPITAL;4504400
+2022;33101;7;;;TRANSFERENCIAS DE CAPITAL;537260
+2022;33102;7;;;TRANSFERENCIAS DE CAPITAL;546290
+2022;33103;7;;;TRANSFERENCIAS DE CAPITAL;369480
+2022;60004;7;;;TRANSFERENCIAS DE CAPITAL;134479200
+2022;98001;7;;;TRANSFERENCIAS DE CAPITAL;17267850720
+2022;12301;70;;;De la Administración del Estado;33222970
+2022;12302;70;;;De la Administración del Estado;11820250
+2022;13101;70;;;De la Administración del Estado;2077000
+2022;14101;70;;;De la Administración del Estado;24346680
+2022;14301;70;;;De la Administración del Estado;54218540
+2022;15101;70;;;De la Administración del Estado;2370000
+2022;15102;70;;;De la Administración del Estado;5248940
+2022;15106;70;;;De la Administración del Estado;3498950
+2022;15107;70;;;De la Administración del Estado;1124000
+2022;15302;70;;;De la Administración del Estado;105809850
+2022;15304;70;;;De la Administración del Estado;42000
+2022;16103;70;;;De la Administración del Estado;250000
+2022;17101;70;;;De la Administración del Estado;5840000
+2022;17102;70;;;De la Administración del Estado;2643120
+2022;17302;70;;;De la Administración del Estado;226560
+2022;19101;70;;;De la Administración del Estado;52522700
+2022;19102;70;;;De la Administración del Estado;600000
+2022;19103;70;;;De la Administración del Estado;2367090
+2022;19104;70;;;De la Administración del Estado;2905000
+2022;19301;70;;;De la Administración del Estado;41940
+2022;20103;70;;;De la Administración del Estado;10071360
+2022;20104;70;;;De la Administración del Estado;33928310
+2022;21101;70;;;De la Administración del Estado;2250000
+2022;21102;70;;;De la Administración del Estado;684370
+2022;21103;70;;;De la Administración del Estado;56537560
+2022;23101;70;;;De la Administración del Estado;63194890
+2022;23102;70;;;De la Administración del Estado;10000000
+2022;23103;70;;;De la Administración del Estado;5100000
+2022;23104;70;;;De la Administración del Estado;1175000
+2022;23105;70;;;De la Administración del Estado;4000000
+2022;23106;70;;;De la Administración del Estado;17000000
+2022;23107;70;;;De la Administración del Estado;10000000
+2022;23108;70;;;De la Administración del Estado;10155000
+2022;23109;70;;;De la Administración del Estado;8000000
+2022;23110;70;;;De la Administración del Estado;12000000
+2022;23112;70;;;De la Administración del Estado;170821810
+2022;23301;70;;;De la Administración del Estado;34473660
+2022;24103;70;;;De la Administración del Estado;5655000
+2022;24104;70;;;De la Administración del Estado;7544180
+2022;24105;70;;;De la Administración del Estado;37121050
+2022;24106;70;;;De la Administración del Estado;114363260
+2022;24107;70;;;De la Administración del Estado;41876330
+2022;24301;70;;;De la Administración del Estado;21650000
+2022;24302;70;;;De la Administración del Estado;6600000
+2022;24303;70;;;De la Administración del Estado;424570
+2022;25101;70;;;De la Administración del Estado;325000
+2022;25102;70;;;De la Administración del Estado;50980
+2022;25103;70;;;De la Administración del Estado;17817740
+2022;26105;70;;;De la Administración del Estado;707550
+2022;26301;70;;;De la Administración del Estado;941160
+2022;27101;70;;;De la Administración del Estado;24053120
+2022;27302;70;;;De la Administración del Estado;3698528710
+2022;28103;70;;;De la Administración del Estado;49365700
+2022;28107;70;;;De la Administración del Estado;305822940
+2022;28301;70;;;De la Administración del Estado;193052610
+2022;28303;70;;;De la Administración del Estado;1207219590
+2022;29101;70;;;De la Administración del Estado;247220
+2022;29102;70;;;De la Administración del Estado;12000
+2022;30101;70;;;De la Administración del Estado;465000
+2022;31101;70;;;De la Administración del Estado;4504400
+2022;33101;70;;;De la Administración del Estado;537260
+2022;33102;70;;;De la Administración del Estado;546290
+2022;33103;70;;;De la Administración del Estado;369480
+2022;60004;70;;;De la Administración del Estado;93544080
+2022;12301;700;;;Del departamento al que está adscrito;6847970
+2022;13101;700;;;Del departamento al que está adscrito;777000
+2022;14101;700;;;Del departamento al que está adscrito;24346680
+2022;14301;700;;;Del departamento al que está adscrito;44218540
+2022;15101;700;;;Del departamento al que está adscrito;2370000
+2022;15102;700;;;Del departamento al que está adscrito;3748940
+2022;15107;700;;;Del departamento al que está adscrito;1124000
+2022;15302;700;;;Del departamento al que está adscrito;105809850
+2022;15304;700;;;Del departamento al que está adscrito;42000
+2022;16103;700;;;Del departamento al que está adscrito;250000
+2022;17101;700;;;Del departamento al que está adscrito;5840000
+2022;17102;700;;;Del departamento al que está adscrito;2643120
+2022;17302;700;;;Del departamento al que está adscrito;226560
+2022;19101;700;;;Del departamento al que está adscrito;52522700
+2022;19103;700;;;Del departamento al que está adscrito;2367090
+2022;19104;700;;;Del departamento al que está adscrito;925000
+2022;19301;700;;;Del departamento al que está adscrito;41940
+2022;20103;700;;;Del departamento al que está adscrito;2441360
+2022;20104;700;;;Del departamento al que está adscrito;33928310
+2022;21101;700;;;Del departamento al que está adscrito;2250000
+2022;21102;700;;;Del departamento al que está adscrito;684370
+2022;21103;700;;;Del departamento al que está adscrito;56537560
+2022;23101;700;;;Del departamento al que está adscrito;63194890
+2022;23102;700;;;Del departamento al que está adscrito;10000000
+2022;23103;700;;;Del departamento al que está adscrito;5100000
+2022;23104;700;;;Del departamento al que está adscrito;1175000
+2022;23105;700;;;Del departamento al que está adscrito;4000000
+2022;23106;700;;;Del departamento al que está adscrito;17000000
+2022;23107;700;;;Del departamento al que está adscrito;10000000
+2022;23108;700;;;Del departamento al que está adscrito;10155000
+2022;23109;700;;;Del departamento al que está adscrito;8000000
+2022;23110;700;;;Del departamento al que está adscrito;12000000
+2022;23112;700;;;Del departamento al que está adscrito;170821810
+2022;23301;700;;;Del departamento al que está adscrito;34458660
+2022;24103;700;;;Del departamento al que está adscrito;585000
+2022;24104;700;;;Del departamento al que está adscrito;5094180
+2022;24105;700;;;Del departamento al que está adscrito;29001070
+2022;24106;700;;;Del departamento al que está adscrito;23483260
+2022;24107;700;;;Del departamento al que está adscrito;8626330
+2022;24301;700;;;Del departamento al que está adscrito;13600000
+2022;24302;700;;;Del departamento al que está adscrito;6600000
+2022;24303;700;;;Del departamento al que está adscrito;424570
+2022;25101;700;;;Del departamento al que está adscrito;325000
+2022;25102;700;;;Del departamento al que está adscrito;50980
+2022;25103;700;;;Del departamento al que está adscrito;17317740
+2022;26105;700;;;Del departamento al que está adscrito;247550
+2022;27101;700;;;Del departamento al que está adscrito;24053120
+2022;27302;700;;;Del departamento al que está adscrito;3913710
+2022;28103;700;;;Del departamento al que está adscrito;48739270
+2022;28107;700;;;Del departamento al que está adscrito;305613440
+2022;28301;700;;;Del departamento al que está adscrito;189847670
+2022;28303;700;;;Del departamento al que está adscrito;1207219590
+2022;29101;700;;;Del departamento al que está adscrito;247220
+2022;29102;700;;;Del departamento al que está adscrito;12000
+2022;30101;700;;;Del departamento al que está adscrito;365000
+2022;31101;700;;;Del departamento al que está adscrito;1726450
+2022;33101;700;;;Del departamento al que está adscrito;537260
+2022;33102;700;;;Del departamento al que está adscrito;546290
+2022;33103;700;;;Del departamento al que está adscrito;369480
+2022;60004;700;;;Del departamento al que está adscrito;30290480
+2022;15302;700;;00;Para gastos de inversiones;105809850
+2022;20103;700;;00;Del Departamento al que está adscrito;2441360
+2022;20104;700;;00;Del Departamento al que está adscrito;33928310
+2022;21101;700;;00;Para gastos de capital.;2250000
+2022;21103;700;;00;Para gastos de capital;25039600
+2022;23101;700;;00;Del departamento al que está adscrito;26011080
+2022;23102;700;;00;Del departamento al que está adscrito;10000000
+2022;23103;700;;00;Del departamento al que está adscrito;5100000
+2022;23104;700;;00;Del departamento al que está adscrito;1175000
+2022;23105;700;;00;Del departamento al que está adscrito;4000000
+2022;23106;700;;00;Del departamento al que está adscrito;12000000
+2022;23107;700;;00;Del departamento al que está adscrito;10000000
+2022;23108;700;;00;Del departamento al que está adscrito;9000000
+2022;23109;700;;00;Del departamento al que está adscrito;8000000
+2022;23110;700;;00;Del departamento al que está adscrito;12000000
+2022;23112;700;;00;Del departamento al que está adscrito;60821810
+2022;23301;700;;00;Del departamento al que está adscrito;34458660
+2022;24106;700;;00;Para gastos de capital;21208260
+2022;28103;700;;00;Para gastos de capital;24139270
+2022;28107;700;;00;Para gastos de capital;34808440
+2022;28301;700;;00;Para gastos de capital;113408670
+2022;28303;700;;00;Para gastos de capital;619209590
+2022;33101;700;;00;Para gastos de capital;537260
+2022;33102;700;;00;Para gastos de capital;510000
+2022;17102;700;;01;Del Instituto Geográfico Nacional;2520000
+2022;19101;700;;01;Del Departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;52522700
+2022;21103;700;;01;Mecanismo de Recuperación y Resiliencia.;10000000
+2022;23101;700;;01;De la Secretaria de Estado de Medio Ambiente para Plan PIMA ADAPTA;1183810
+2022;23112;700;;01;Del departamento al que está adscrito para la inversiones en Transición Justa. MRR;110000000
+2022;24106;700;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;2275000
+2022;28103;700;;01;Para el Proyecto PRISMAC;300000
+2022;33102;700;;01;Para gastos de capital del Programa de Cooperación, Promoción y Difusión Educativa en el Exterior;36290
+2022;17102;700;;02;De la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana;123120
+2022;28103;700;;02;Para Eusolaris-España;50000
+2022;21103;700;;03;Para el programa nacional de desarrollo rural;21497960
+2022;23101;700;;03;De la Dirección General de Biodiversidad, Bosques y Desertificación, para actuaciones del MRR;36000000
+2022;28301;700;;03;Para inversiones de la flota oceanográfica del Centro Nacional Instituto Español de Oceanografía;94500
+2022;23106;700;;04;Dirección General del Agua. Mecanismo de Recuperación y Resiliencia;5000000
+2022;23108;700;;04;Dirección General del Agua. Mecanismo de Recuperación y Resiliencia;1155000
+2022;28301;700;;04;Para inversiones de la flota oceanográfica e instalaciones antárticas;189500
+2022;14101;700;;05;Para investigación científica e información de base;19530270
+2022;28107;700;;05;Para la subvención de contratos predoctorales destinados a la investigación biomédica a través de las convocatorias de la Acción Estratégica de la Salud;500000
+2022;28301;700;;05;Para gastos de inversión del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);200000
+2022;14101;700;;06;Para el proyecto Galileo;4816410
+2022;28103;700;;50;Para el Mecanismo de Recuperación y Resiliencia;23000000
+2022;28107;700;;50;Para el Mecanismo de Recuperación y Resiliencia;270305000
+2022;28301;700;;50;Para el Mecanismo de Recuperación y Resiliencia;75955000
+2022;28303;700;;50;Para el Mecanismo de Recuperación y Resiliencia;588010000
+2022;28103;700;;60;Para Fusión for Energy;1000000
+2022;28103;700;;70;Para la construcción y operación de la sede Norte de la Red de Telescopios Cherenkov (CTAN);250000
+2022;23301;701;;;De otros departamentos ministeriales;15000
+2022;24105;701;;;De otros departamentos ministeriales;8119980
+2022;25103;701;;;De otros departamentos ministeriales;500000
+2022;28103;701;;;De otros departamentos ministeriales;626430
+2022;28107;701;;;De otros departamentos ministeriales;209500
+2022;28301;701;;;De otros departamentos ministeriales;3204940
+2022;60004;701;;;De otros departamentos ministeriales;63253600
+2022;23301;701;;00;Del Ministerio de Ciencia e Innovación para actividades en la AEMET en las Campañas Antárticas;15000
+2022;24105;701;;00;Del Ministerio de Educación y Formación Profesional para inversiones en educación;8119980
+2022;28103;701;;00;Del Ministerio para la Transición Ecológica y el Reto Demográfico para trabajos relacionados con la calidad ambiental;626430
+2022;28107;701;;00;Del Ministerio para la Transición Ecológica y Reto Demográfico para trabajos relacionados con la calidad ambiental;209500
+2022;28301;701;;00;Del Ministerio de Transportes, Movilidad y Agenda Urbana para estudio base herramientas Código Técnico de la Edificación;900000
+2022;28301;701;;01;Del Ministerio para la Transición Ecológica y el Reto Demográfico al IGME Centro Nacional del CSIC para actuaciones dirigidas a la gestión sostenible de las materias primas minerales;650000
+2022;28301;701;;02;Del Ministerio para la Transición Ecológica y el Reto Demográfico para actuaciones en el desarrollo de funciones;500000
+2022;28301;701;;03;Del Ministerio para la Transición Ecológica y el Reto Demográfico para trabajos relacionados con la contaminación atmosférica y por COPs;701940
+2022;28301;701;;05;Del Ministerio para la Transición Ecológica y el Reto Demgráfico para trabajos relacionados con sustacias y mezclas químicas y OMG;350000
+2022;28301;701;;06;Del Ministerio para la Transición Ecológica y el Reto Demgráfico para trabajos relacionados con las instalaciones de residuos de industrias extractivas;103000
+2022;12301;702/12301;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;26375000
+2022;12302;702/12302;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;750000
+2022;13101;702/13101;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;1300000
+2022;14301;702/14301;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;10000000
+2022;15102;702/15102;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;1500000
+2022;15106;702/15106;;;Del departamento al que está adscrito. MRR;3498950
+2022;19102;702/19102;;;Aportación del Estado. Mecanismo de Recuperación y Resiliencia;600000
+2022;19104;702/19104;;;Aportación del Estado. Mecanismo de Recuperación y Resiliencia;1980000
+2022;20103;702/20103;;;Del Departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;7630000
+2022;24103;702/24103;;;Mecanismo de Recuperación y Resiliencia;5070000
+2022;24104;702/24104;;;Mecanismo de Recuperación y Resiliencia;2450000
+2022;24106;702/24106;;;Mecanismo de Recuperación y Resiliencia;90880000
+2022;24107;702/24107;;;Mecanismo de Recuperación y Resiliencia;33250000
+2022;24301;702/24301;;;Mecanismo de Recuperación y Resiliencia;8050000
+2022;26105;702/26105;;;Del departamento al que está adscrito. Mecanismo de Recuperación y resiliencia.;460000
+2022;26301;702/26301;;;Del departamento al que está adscrito. Mecanismo de Recuperación y resiliencia;941160
+2022;27302;702/27302;;;Del Ministerio para la Transición Ecológica y el Reto Demográfico para la compensación del sistema eléctrico;3694615000
+2022;30101;702/30101;;;Del Ministerio de Igualdad - MRR;100000
+2022;31101;702/31101;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;2777950
+2022;27302;702/27302;;00;Para financiar costes del sector eléctrico, de acuerdo con el artículo 30.4 de la Ley 7/2021, de 20 de mayo, de Cambio Climático y Transición Energética;1100000000
+2022;27302;702/27302;;01;Para financiar costes del sector eléctrico de acuerdo con la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1879000000
+2022;27302;702/27302;;02;Para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico;715615000
+2022;12302;704;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;11070250
+2022;21103;71;;;De Organismos Autónomos;1279670
+2022;28103;71;;;De Organismos Autónomos;29040
+2022;28301;71;;;De Organismos Autónomos;262240
+2022;98001;71;;;De Organismos Autónomos;14094640
+2022;21103;710;;;Transferencias de capital de organismos autónomos;1279670
+2022;28103;710;;;Transferencias de capital de organismos autónomos;29040
+2022;28301;710;;;Transferencias de capital de organismos autónomos;262240
+2022;21103;710;;00;Del FEGA organismo pagador. Ayudas desarrollo rural;1279670
+2022;28103;710;;00;Del Instituto de Salud Carlos III (ISCIII) para la ejecución de ayudas de la Acción;29040
+2022;28301;710;;03;Del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) para realización de trabajos relativos a los efectos de la contaminación atmosférica sobre la vegetación.;28650
+2022;28301;710;;05;Del Instituto de Salud Carlos III (ISCIII) para la ejecución de ayudas de la Acción estratégica en Salud;233590
+2022;98001;711;;;Del FEGA «Ayudas de Desarrollo Rural»;13594640
+2022;98001;712;;;Del Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa;100000
+2022;98001;713;;;De la Mancomunidad de los Canales del Taibilla;400000
+2022;60004;72;;;De la Seguridad Social;19814120
+2022;60004;720;;;Transferencias de capital de la Seguridad Social;19814120
+2022;14101;73;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;2145190
+2022;17102;73;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;163710
+2022;28103;73;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;2372050
+2022;28107;73;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;516470
+2022;28301;73;;;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;60057360
+2022;14101;730/14101;;;De la Agencia Estatal de Investigación. Fondo para la Investigación Científica y el Desarrollo Tecnológico;2145190
+2022;17102;730/17102;;;De la Agencia Estatal de Investigación;163710
+2022;28103;730/28103;;;De agencias estatales y otros organismos públicos;2372050
+2022;28107;730/28107;;;De agencias estatales y otros organismos públicos;516470
+2022;28301;730/28301;;;De agencias estatales y otros organismos públicos;60057360
+2022;28103;730/28103;;00;De la Agencia Estatal de Investigación (AEI). Fondo para la Investigación Científica y el Desarrollo Tecnológico;2372050
+2022;28107;730/28107;;00;De la Agencia Estatal de Investigación (AEI). Fondo para la Investigación Científica y el Desarrollo Tecnológico;516470
+2022;28301;730/28301;;00;De la Agencia Estatal de Investigación (AEI). Fondo para la Investigación Científica y el Desarrollo Tecnológico;60057360
+2022;14101;730/14101;;02;De la Agencia Estatal de Investigación. Fondo para la Investigación Científica y el Desarrollo Tecnológico;2145190
+2022;14101;74;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;100000
+2022;23104;74;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;200000
+2022;28103;74;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;54600
+2022;28301;74;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;152330
+2022;60004;74;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;21121000
+2022;98001;74;;;De Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;2000
+2022;23104;740;;;Sociedades mercantiles estatales;200000
+2022;98001;740;;;Sociedades mercantiles estatales;1000
+2022;28103;741;;;Entidades públicas empresariales;54600
+2022;60004;741;;;Entidades públicas empresariales;21121000
+2022;98001;741;;;Entidades públicas empresariales;1000
+2022;28103;741;;00;Del Centro para el Desarrollo Tecnológico Industrial (CDTI);54600
+2022;28301;747;;;Fundación Biodiversidad;152330
+2022;14101;749;;;De resto de entidades del Sector Público Estatal;100000
+2022;14101;749;;01;De la Agencia Gallega de Innovacion (GAIN);100000
+2022;23109;75;;;De Comunidades Autónomas;1600000
+2022;28103;75;;;De Comunidades Autónomas;1067800
+2022;28301;75;;;De Comunidades Autónomas;43000000
+2022;23109;750/23109;;;De Comunidades Autónomas;1600000
+2022;28103;750/28103;;;De comunidades autónomas;1067800
+2022;28301;750/28301;;;Para ejecución de proyectos de investigación;43000000
+2022;28301;750/28301;;01;Para ejecución proyectos I+D+I;28000000
+2022;28301;750/28301;;02;Para ayudas contratación;15000000
+2022;16102;76;;;De Entidades Locales;2000000
+2022;23102;76;;;De Entidades Locales;4400000
+2022;23105;76;;;De Entidades Locales;10830000
+2022;23108;76;;;De Entidades Locales;6265920
+2022;23109;76;;;De Entidades Locales;30000
+2022;28301;76;;;De Entidades Locales;1110000
+2022;98001;76;;;De Entidades Locales;2971670
+2022;16102;760;;;De Ayuntamientos;2000000
+2022;23102;760;;;De Ayuntamientos;4400000
+2022;23108;760;;;De Ayuntamientos;6265920
+2022;23109;760;;;De Ayuntamientos;30000
+2022;28301;760;;;De Ayuntamientos;150000
+2022;98001;760;;;De Ayuntamientos;2100000
+2022;28301;761;;;De Diputaciones y Cabildos Insulares;960000
+2022;98001;761;;;De Diputaciones y Cabildos Insulares;871670
+2022;28301;761;;00;De diputaciones y cabildos insulares;560000
+2022;28301;761;;02;Contratación, formación y movilidad de personal;400000
+2022;23105;769;;;Otras transferencias de capital;10830000
+2022;28103;77;;;De empresas privadas;211450
+2022;28107;77;;;De empresas privadas;75000000
+2022;28301;77;;;De empresas privadas;1400000
+2022;28103;770;;;De empresas privadas;211450
+2022;28107;772;;;De empresas privadas;75000000
+2022;28301;779;;;De empresas privadas;1400000
+2022;28107;78;;;De familias e instituciones sin fines de lucro;6809190
+2022;28301;78;;;De familias e instituciones sin fines de lucro;15000000
+2022;28301;780;;;De familias e instituciones sin fines de lucro;15000000
+2022;28107;782;;;Ayudas a la investigación;6809190
+2022;12302;79;;;Del exterior;27732530
+2022;21103;79;;;Del exterior;1737282940
+2022;23101;79;;;Del exterior;2500000
+2022;23103;79;;;Del exterior;3000000
+2022;23105;79;;;Del exterior;45420000
+2022;23106;79;;;Del exterior;250000
+2022;23108;79;;;Del exterior;667800
+2022;23109;79;;;Del exterior;10068550
+2022;23111;79;;;Del exterior;1000000
+2022;28103;79;;;Del exterior;5686540
+2022;28107;79;;;Del exterior;22400000
+2022;28301;79;;;Del exterior;74897770
+2022;28303;79;;;Del exterior;89740410
+2022;98001;79;;;Del exterior;17250782410
+2022;23101;790;;;Fondo Europeo de Desarrollo Regional;2500000
+2022;23103;790;;;Fondo Europeo de Desarrollo Regional;3000000
+2022;23105;790;;;Fondo Europeo de Desarrollo Regional;45420000
+2022;23106;790;;;Fondo Europeo de Desarrollo Regional;250000
+2022;23111;790;;;Fondo Europeo de Desarrollo Regional;1000000
+2022;28107;790;;;Fondo Europeo de Desarrollo Regional;19400000
+2022;28301;790;;;Fondo Europeo de Desarrollo Regional;2100000
+2022;28303;790;;;Fondo Europeo de Desarrollo Regional;73740410
+2022;98001;790;;;Fondo Europeo de Desarrollo Regional;447890000
+2022;28301;792;;;Fondo Europeo de la Pesca y otros recursos agrícolas y pesqueros;10000000
+2022;98001;792;;;Fondo Europeo de la Pesca y otros recursos agrícolas y pesqueros;162950000
+2022;28301;792;;00;Fondo Europeo Marítimo y de Pesca (FEMP);10000000
+2022;21103;793;;;Fondo Europeo Agrícola de Desarrollo Rural (FEADER);1737282940
+2022;28303;794;;;Fondo Social Europeo;15000000
+2022;23108;795;;;Otras transferencias de la Unión Europea;667800
+2022;23109;795;;;Otras transferencias de la Unión Europea;10068550
+2022;28103;795;;;Otras transferencias de la Unión Europea;5505360
+2022;28301;795;;;Otras transferencias de la Unión Europea;60293130
+2022;28303;795;;;Otras transferencias de la Unión Europea;1000000
+2022;98001;795;;;Otras transferencias de la Unión Europea;12000000
+2022;28107;796;;;Fondo Social Europeo;3000000
+2022;28301;797;;;King Abdullah University of Science and Technology;4640
+2022;98001;798;;;Fondos UE;16627942410
+2022;98001;798;;01;Mecanismo de Recuperación y Resiliencia;16172722410
+2022;98001;798;;02;React-UE;455220000
+2022;12302;799;;;Otras transferencias;27732530
+2022;28103;799;;;Otras transferencias;181180
+2022;28301;799;;;Otras transferencias;2500000
+2022;12302;799;;08;Proyectos de Cooperación Delegada en Perú;275000
+2022;12302;799;;09;Transferencias UE para Proyectos de Cooperación Delegada en Bolivia;2052730
+2022;12302;799;;10;Proyectos de Cooperación Delegada en Nicaragua;5184750
+2022;12302;799;;13;Transferencias UE para Proyectos de Cooperación Delegada en Honduras;2528990
+2022;12302;799;;16;Transferencias UE para Proyectos de Cooperación Delegada en América Latina Regional;1499460
+2022;12302;799;;20;Proyectos de Cooperación Delegada en Filipinas;130000
+2022;12302;799;;21;Transferencias UE para Proyectos de Cooperación Delegada en Senegal;60000
+2022;12302;799;;23;Transferencias UE para Proyectos de Cooperación Delegada en Mali;300000
+2022;12302;799;;24;Transferencias UE para Proyectos de Cooperación Delegada en Jordania;6476000
+2022;12302;799;;25;Transferencias UE para Proyectos de Cooperación Delegada en Mauritania;334000
+2022;12302;799;;26;Transferencias UE para Proyectos de Cooperación Delegada en Marruecos;18400
+2022;12302;799;;27;Transferencias UE para Proyectos de Cooperación Delegada en Ecuador;4107140
+2022;12302;799;;29;Proyectos de Cooperación Delegada en Egipto;40000
+2022;12302;799;;31;Transferencias UE para Proyectos de Cooperación Delegada con Colombia;360560
+2022;12302;799;;33;Proyectos de Cooperación Delegada en Etiopía;917430
+2022;12302;799;;34;Proyectos de Cooperación Delegada en Haiti;1070
+2022;12302;799;;35;Proyectos de Cooperación Delegada en África Regional;421000
+2022;12302;799;;36;Proyectos de Cooperación Delegada en Mozambique;338000
+2022;12302;799;;37;Proyectos de Cooperación Delegada en Níger;470000
+2022;12302;799;;38;Proyectos de Cooperación Delegada en Palestina;432000
+2022;12302;799;;39;Proyectos de Cooperación Delegada en Panamá;1456000
+2022;12302;799;;40;Proyectos de Cooperación Delegada cultural en Túnez;200000
+2022;12302;799;;42;Proyectos de Cooperación Delegada ciudades sostenibles;130000
+2022;12301;8;;;ACTIVOS FINANCIEROS;9698730
+2022;12302;8;;;ACTIVOS FINANCIEROS;86000
+2022;13101;8;;;ACTIVOS FINANCIEROS;2762410
+2022;13301;8;;;ACTIVOS FINANCIEROS;2330730
+2022;14101;8;;;ACTIVOS FINANCIEROS;45657450
+2022;14107;8;;;ACTIVOS FINANCIEROS;52750350
+2022;14113;8;;;ACTIVOS FINANCIEROS;160000
+2022;14301;8;;;ACTIVOS FINANCIEROS;2800000
+2022;15101;8;;;ACTIVOS FINANCIEROS;4071480
+2022;15102;8;;;ACTIVOS FINANCIEROS;10300000
+2022;15104;8;;;ACTIVOS FINANCIEROS;3200000
+2022;15106;8;;;ACTIVOS FINANCIEROS;180300
+2022;15107;8;;;ACTIVOS FINANCIEROS;10486000
+2022;15301;8;;;ACTIVOS FINANCIEROS;12000
+2022;15302;8;;;ACTIVOS FINANCIEROS;15577000
+2022;15304;8;;;ACTIVOS FINANCIEROS;632320
+2022;16101;8;;;ACTIVOS FINANCIEROS;1021720
+2022;16102;8;;;ACTIVOS FINANCIEROS;6050580
+2022;17101;8;;;ACTIVOS FINANCIEROS;1113580
+2022;17102;8;;;ACTIVOS FINANCIEROS;3597640
+2022;17301;8;;;ACTIVOS FINANCIEROS;4062740
+2022;19101;8;;;ACTIVOS FINANCIEROS;794000
+2022;19102;8;;;ACTIVOS FINANCIEROS;198276920
+2022;19104;8;;;ACTIVOS FINANCIEROS;2116710
+2022;19301;8;;;ACTIVOS FINANCIEROS;871290
+2022;20102;8;;;ACTIVOS FINANCIEROS;2209020
+2022;20103;8;;;ACTIVOS FINANCIEROS;4200
+2022;20104;8;;;ACTIVOS FINANCIEROS;15525830
+2022;21101;8;;;ACTIVOS FINANCIEROS;1485830
+2022;21102;8;;;ACTIVOS FINANCIEROS;18160
+2022;21103;8;;;ACTIVOS FINANCIEROS;150000
+2022;23101;8;;;ACTIVOS FINANCIEROS;5489260
+2022;23102;8;;;ACTIVOS FINANCIEROS;30000
+2022;23103;8;;;ACTIVOS FINANCIEROS;21663020
+2022;23104;8;;;ACTIVOS FINANCIEROS;16084620
+2022;23105;8;;;ACTIVOS FINANCIEROS;16233460
+2022;23106;8;;;ACTIVOS FINANCIEROS;393410
+2022;23107;8;;;ACTIVOS FINANCIEROS;6142340
+2022;23108;8;;;ACTIVOS FINANCIEROS;20000
+2022;23109;8;;;ACTIVOS FINANCIEROS;-709040
+2022;23110;8;;;ACTIVOS FINANCIEROS;814540
+2022;23111;8;;;ACTIVOS FINANCIEROS;25114270
+2022;23112;8;;;ACTIVOS FINANCIEROS;105352030
+2022;23301;8;;;ACTIVOS FINANCIEROS;12548580
+2022;23302;8;;;ACTIVOS FINANCIEROS;160450
+2022;24103;8;;;ACTIVOS FINANCIEROS;13192880
+2022;24104;8;;;ACTIVOS FINANCIEROS;2563000
+2022;24105;8;;;ACTIVOS FINANCIEROS;18085420
+2022;24106;8;;;ACTIVOS FINANCIEROS;21969090
+2022;24107;8;;;ACTIVOS FINANCIEROS;12740000
+2022;24301;8;;;ACTIVOS FINANCIEROS;790780
+2022;24302;8;;;ACTIVOS FINANCIEROS;2051490
+2022;24303;8;;;ACTIVOS FINANCIEROS;12490
+2022;25101;8;;;ACTIVOS FINANCIEROS;973060
+2022;25102;8;;;ACTIVOS FINANCIEROS;12020
+2022;25103;8;;;ACTIVOS FINANCIEROS;9465000
+2022;25302;8;;;ACTIVOS FINANCIEROS;105000
+2022;26105;8;;;ACTIVOS FINANCIEROS;168890
+2022;26301;8;;;ACTIVOS FINANCIEROS;24611280
+2022;27101;8;;;ACTIVOS FINANCIEROS;23858920
+2022;27102;8;;;ACTIVOS FINANCIEROS;20000
+2022;27302;8;;;ACTIVOS FINANCIEROS;3343750
+2022;28103;8;;;ACTIVOS FINANCIEROS;16529970
+2022;28107;8;;;ACTIVOS FINANCIEROS;226000
+2022;28301;8;;;ACTIVOS FINANCIEROS;205964090
+2022;28303;8;;;ACTIVOS FINANCIEROS;150000
+2022;29101;8;;;ACTIVOS FINANCIEROS;1632720
+2022;29102;8;;;ACTIVOS FINANCIEROS;5035510
+2022;30101;8;;;ACTIVOS FINANCIEROS;4878430
+2022;31101;8;;;ACTIVOS FINANCIEROS;5138930
+2022;33101;8;;;ACTIVOS FINANCIEROS;4020500
+2022;33102;8;;;ACTIVOS FINANCIEROS;597670
+2022;33103;8;;;ACTIVOS FINANCIEROS;2662120
+2022;60004;8;;;ACTIVOS FINANCIEROS;444227200
+2022;98001;8;;;ACTIVOS FINANCIEROS;14556400860
+2022;60004;80;;;Enajenación de deuda del Sector Público;305640750
+2022;60004;800;;;Enajenación de deuda del Sector Público a corto plazo;80636070
+2022;60004;801;;;Enajenación de deuda del Sector Público a largo plazo;225004680
+2022;28303;82;;;Reintegros de préstamos concedidos al Sector Público;130000
+2022;98001;82;;;Reintegros de préstamos concedidos al Sector Público;1251883680
+2022;98001;820;;;Reintegros de préstamos concedidos al Sector Público a corto plazo;109000
+2022;98001;820;;01;De organismos autónomos;109000
+2022;28303;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo;130000
+2022;98001;821;;;Reintegros de préstamos concedidos al Sector Público a largo plazo;1251774680
+2022;28303;821;;01;De organismos autónomos;130000
+2022;98001;821;;01;De organismos autónomos;488430
+2022;98001;821;;02;De la Seguridad Social;10000
+2022;98001;821;;03;De otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;1177640
+2022;98001;821;;09;Otros reintegros de préstamos concedidos al Sector Público a largo plazo;1250098610
+2022;12301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2022;12302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;86000
+2022;13301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;11200
+2022;14101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;250000
+2022;14107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;79190
+2022;14113;83;;;Reintegros de préstamos concedidos fuera del Sector Público;110000
+2022;14301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;300000
+2022;15101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71480
+2022;15102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2022;15106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;180300
+2022;15107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;95000
+2022;15301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12000
+2022;15302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;577000
+2022;15304;83;;;Reintegros de préstamos concedidos fuera del Sector Público;3000
+2022;16101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1021720
+2022;16102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10000
+2022;17101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;38320
+2022;19101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;794000
+2022;19102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;147120
+2022;19104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;86710
+2022;19301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;26550
+2022;20102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60000
+2022;20103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;4200
+2022;20104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2022;21101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;17330
+2022;21102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;18160
+2022;21103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;100000
+2022;23101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10000
+2022;23102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;30000
+2022;23103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;90000
+2022;23104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;45000
+2022;23105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;127560
+2022;23106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;35000
+2022;23107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;35000
+2022;23108;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2022;23109;83;;;Reintegros de préstamos concedidos fuera del Sector Público;71050
+2022;23110;83;;;Reintegros de préstamos concedidos fuera del Sector Público;37110
+2022;23111;83;;;Reintegros de préstamos concedidos fuera del Sector Público;80000
+2022;23301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2022;23302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;65000
+2022;24103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;54000
+2022;24104;83;;;Reintegros de préstamos concedidos fuera del Sector Público;63000
+2022;24105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;27000
+2022;24106;83;;;Reintegros de préstamos concedidos fuera del Sector Público;1969090
+2022;24107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;280000
+2022;24301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;50000
+2022;24302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;51490
+2022;24303;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12490
+2022;25101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;10030
+2022;25102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;12020
+2022;25103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;465000
+2022;25302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;105000
+2022;26105;83;;;Reintegros de préstamos concedidos fuera del Sector Público;25000
+2022;26301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;80000
+2022;27101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;247620
+2022;27102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2022;27302;83;;;Reintegros de préstamos concedidos fuera del Sector Público;60400
+2022;28103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;450000
+2022;28107;83;;;Reintegros de préstamos concedidos fuera del Sector Público;201000
+2022;28301;83;;;Reintegros de préstamos concedidos fuera del Sector Público;293270
+2022;28303;83;;;Reintegros de préstamos concedidos fuera del Sector Público;20000
+2022;29101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;29950
+2022;29102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;6510
+2022;30101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;23710
+2022;31101;83;;;Reintegros de préstamos concedidos fuera del Sector Público;30000
+2022;33102;83;;;Reintegros de préstamos concedidos fuera del Sector Público;22000
+2022;33103;83;;;Reintegros de préstamos concedidos fuera del Sector Público;15000
+2022;60004;83;;;Reintegros de préstamos concedidos fuera del Sector Público;14291130
+2022;98001;83;;;Reintegros de préstamos concedidos fuera del Sector Público;2120716620
+2022;12301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;50000
+2022;12302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;40000
+2022;13301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;8000
+2022;14107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;79190
+2022;14113;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2022;14301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;300000
+2022;15101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;71480
+2022;15102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;50000
+2022;15106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;80300
+2022;15301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3000
+2022;15302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;577000
+2022;15304;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3000
+2022;16101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;120200
+2022;17101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;38320
+2022;19102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;117070
+2022;19104;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;34690
+2022;19301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;13280
+2022;20102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;60000
+2022;21101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;17330
+2022;21102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;3000
+2022;21103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;100000
+2022;23101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2022;23102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;5000
+2022;23103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;30000
+2022;23106;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;5000
+2022;23107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;35000
+2022;23108;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;5000
+2022;23109;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27330
+2022;23110;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;7420
+2022;23301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2022;23302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;65000
+2022;24103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2022;24105;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;27000
+2022;24107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;280000
+2022;24301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;50000
+2022;25101;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;5030
+2022;25102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12020
+2022;25103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;45000
+2022;25302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;25000
+2022;26301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;80000
+2022;27102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;20000
+2022;27302;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10400
+2022;28103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;400000
+2022;28107;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;26000
+2022;28301;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;161270
+2022;28303;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;10000
+2022;33102;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12000
+2022;33103;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;15000
+2022;60004;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;12019770
+2022;98001;830;;;Reintegros de préstamos concedidos fuera del Sector Público a corto plazo;127916860
+2022;23107;830;;00;Reintegros de anticipos al personal.;35000
+2022;28103;830;;00;A otras entidades fuera del Sector Público;325000
+2022;28301;830;;01;Para estancias en el extranjero;28000
+2022;12301;830;;08;A familias e instituciones sin fines de lucro;50000
+2022;13301;830;;08;A familias e instituciones sin fines de lucro;8000
+2022;14107;830;;08;A familias e instituciones sin fines de lucro;79190
+2022;14301;830;;08;A familias e instituciones sin fines de lucro;300000
+2022;15101;830;;08;A familias e instituciones sin fines de lucro;71480
+2022;15102;830;;08;A familias e instituciones sin fines de lucro;50000
+2022;15301;830;;08;A familias e instituciones sin fines de lucro;3000
+2022;15302;830;;08;A familias e instituciones sin fines de lucro;577000
+2022;15304;830;;08;A familias e instituciones sin fines de lucro;3000
+2022;17101;830;;08;A familias e instituciones sin fines de lucro;38320
+2022;19102;830;;08;A familias e instituciones sin fines de lucro;117070
+2022;19104;830;;08;A familias e instituciones sin fines de lucro;34690
+2022;19301;830;;08;A familias e instituciones sin fines de lucro;13280
+2022;20102;830;;08;A familias e instituciones sin fines de lucro;60000
+2022;21102;830;;08;A familias e instituciones sin fines de lucro;3000
+2022;23108;830;;08;A familias e instituciones sin fines de lucro;5000
+2022;23301;830;;08;A familias e instituciones sin fines de lucro;20000
+2022;23302;830;;08;A familias e instituciones sin fines de lucro;65000
+2022;24103;830;;08;A familias e instituciones sin fines de lucro;10000
+2022;24105;830;;08;A familias e instituciones sin fines de lucro;27000
+2022;24107;830;;08;A familias e instituciones sin fines de lucro;280000
+2022;24301;830;;08;A familias e instituciones sin fines de lucro;50000
+2022;25103;830;;08;A familias e instituciones sin fines de lucro;45000
+2022;26301;830;;08;A familias e instituciones sin fines de lucro;80000
+2022;27102;830;;08;A familias e instituciones sin fines de lucro;20000
+2022;27302;830;;08;A familias e instituciones sin fines de lucro;10400
+2022;28103;830;;08;A familias e instituciones sin fines de lucro;75000
+2022;28301;830;;08;A familias e instituciones sin fines de lucro;133270
+2022;28303;830;;08;A familias e instituciones sin fines de lucro;10000
+2022;33102;830;;08;A familias e instituciones sin fines de lucro;12000
+2022;33103;830;;08;A familias e instituciones sin fines de lucro;15000
+2022;12302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;46000
+2022;13301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;3200
+2022;14101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;250000
+2022;14113;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2022;15106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;100000
+2022;15107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;95000
+2022;15301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;9000
+2022;16101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;901520
+2022;16102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2022;19101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;794000
+2022;19102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30050
+2022;19104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;52020
+2022;19301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;13270
+2022;20103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;4200
+2022;20104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;15000
+2022;21102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;15160
+2022;23102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25000
+2022;23103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;60000
+2022;23104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;45000
+2022;23105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;127560
+2022;23106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30000
+2022;23108;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;15000
+2022;23109;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;43720
+2022;23110;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;29690
+2022;23111;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;80000
+2022;24103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;44000
+2022;24104;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;63000
+2022;24106;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;1969090
+2022;24302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;51490
+2022;24303;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;12490
+2022;25101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;5000
+2022;25103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;420000
+2022;25302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;80000
+2022;26105;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;25000
+2022;27101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;247620
+2022;27302;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;50000
+2022;28103;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;50000
+2022;28107;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;175000
+2022;28301;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;132000
+2022;28303;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2022;29101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;29950
+2022;29102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;6510
+2022;30101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;23710
+2022;31101;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;30000
+2022;33102;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;10000
+2022;60004;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;2271360
+2022;98001;831;;;Reintegros de préstamos concedidos fuera del Sector Público a largo plazo;1992799760
+2022;98001;831;;07;A las empresas privadas;1941591230
+2022;13301;831;;08;A familias e Instituciones sin fines de lucro;3200
+2022;14101;831;;08;A familias e Instituciones sin fines de lucro;250000
+2022;15107;831;;08;A familias e Instituciones sin fines de lucro;95000
+2022;15301;831;;08;A familias e Instituciones sin fines de lucro;9000
+2022;16101;831;;08;A familias e Instituciones sin fines de lucro;901520
+2022;16102;831;;08;A familias e Instituciones sin fines de lucro;10000
+2022;19101;831;;08;A familias e Instituciones sin fines de lucro;794000
+2022;19102;831;;08;A familias e Instituciones sin fines de lucro;30050
+2022;19104;831;;08;A familias e Instituciones sin fines de lucro;52020
+2022;19301;831;;08;A familias e Instituciones sin fines de lucro;13270
+2022;20103;831;;08;A familias e Instituciones sin fines de lucro;4200
+2022;20104;831;;08;A familias e Instituciones sin fines de lucro;15000
+2022;21102;831;;08;A familias e Instituciones sin fines de lucro;15160
+2022;23102;831;;08;A familias e Instituciones sin fines de lucro;25000
+2022;23103;831;;08;A familias e Instituciones sin fines de lucro;60000
+2022;23104;831;;08;A familias e Instituciones sin fines de lucro;45000
+2022;23105;831;;08;A familias e Instituciones sin fines de lucro;127560
+2022;23106;831;;08;A familias e Instituciones sin fines de lucro;30000
+2022;23108;831;;08;A familias e Instituciones sin fines de lucro;15000
+2022;23109;831;;08;A familias e Instituciones sin fines de lucro;43720
+2022;23110;831;;08;A familias e Instituciones sin fines de lucro;29690
+2022;23111;831;;08;A familias e Instituciones sin fines de lucro;80000
+2022;24103;831;;08;A familias e Instituciones sin fines de lucro;44000
+2022;24104;831;;08;A familias e Instituciones sin fines de lucro;63000
+2022;24302;831;;08;A familias e Instituciones sin fines de lucro;51490
+2022;24303;831;;08;A familias e Instituciones sin fines de lucro;12490
+2022;25103;831;;08;A familias e Instituciones sin fines de lucro;420000
+2022;25302;831;;08;A familias e Instituciones sin fines de lucro;80000
+2022;26105;831;;08;A familias e Instituciones sin fines de lucro;25000
+2022;27101;831;;08;A familias e Instituciones sin fines de lucro;247620
+2022;27302;831;;08;A familias e Instituciones sin fines de lucro;50000
+2022;28103;831;;08;A familias e Instituciones sin fines de lucro;50000
+2022;28301;831;;08;A familias e Instituciones sin fines de lucro;132000
+2022;28303;831;;08;A familias e Instituciones sin fines de lucro;10000
+2022;29101;831;;08;A familias e Instituciones sin fines de lucro;29950
+2022;29102;831;;08;A familias e Instituciones sin fines de lucro;6510
+2022;30101;831;;08;A familias e Instituciones sin fines de lucro;23710
+2022;31101;831;;08;A familias e Instituciones sin fines de lucro;30000
+2022;33102;831;;08;A familias e Instituciones sin fines de lucro;10000
+2022;98001;831;;08;A familias e Instituciones sin fines de lucro;51208530
+2022;14113;84;;;Devolución de depósitos y fianzas;50000
+2022;28107;84;;;Devolución de depósitos y fianzas;25000
+2022;60004;84;;;Devolución de depósitos y fianzas;4611930
+2022;98001;84;;;Devolución de depósitos y fianzas;7000
+2022;28107;840;;;Devolución de depósitos;25000
+2022;60004;840;;;Devolución de depósitos;1259610
+2022;14113;841;;;Devolución de fianzas;50000
+2022;60004;841;;;Devolución de fianzas;3352320
+2022;98001;841;;;Devolución de fianzas;7000
+2022;21103;85;;;Enajenación de acciones y participaciones y devolución de aportaciones del Sector Público;50000
+2022;98001;85;;;Enajenación de acciones y participaciones y devolución de aportaciones del Sector Público;24949560
+2022;21103;850;;;Enajenación de acciones y participaciones del Sector Público Nacional;50000
+2022;98001;850;;;Enajenación de acciones y participaciones del Sector Público Nacional;59440
+2022;98001;851;;;Enajenación de acciones y devolución de aportaciones de Sector Público en Organismos Internacionales;24890120
+2022;12301;87;;;Remanente de tesorería;9648730
+2022;13101;87;;;Remanente de tesorería;2762410
+2022;13301;87;;;Remanente de tesorería;2319530
+2022;14101;87;;;Remanente de tesorería;45407450
+2022;14107;87;;;Remanente de tesorería;52671160
+2022;14301;87;;;Remanente de tesorería;2500000
+2022;15101;87;;;Remanente de tesorería;4000000
+2022;15102;87;;;Remanente de tesorería;10250000
+2022;15104;87;;;Remanente de tesorería;3200000
+2022;15107;87;;;Remanente de tesorería;10391000
+2022;15302;87;;;Remanente de tesorería;15000000
+2022;15304;87;;;Remanente de tesorería;629320
+2022;16102;87;;;Remanente de tesorería;6040580
+2022;17101;87;;;Remanente de tesorería;1075260
+2022;17102;87;;;Remanente de tesorería;3597640
+2022;17301;87;;;Remanente de tesorería;4062740
+2022;19102;87;;;Remanente de tesorería;198129800
+2022;19104;87;;;Remanente de tesorería;2030000
+2022;19301;87;;;Remanente de tesorería;844740
+2022;20102;87;;;Remanente de tesorería;2149020
+2022;20104;87;;;Remanente de tesorería;15510830
+2022;21101;87;;;Remanente de tesorería;1468500
+2022;23101;87;;;Remanente de tesorería;5479260
+2022;23103;87;;;Remanente de tesorería;21573020
+2022;23104;87;;;Remanente de tesorería;16039620
+2022;23105;87;;;Remanente de tesorería;16105900
+2022;23106;87;;;Remanente de tesorería;358410
+2022;23107;87;;;Remanente de tesorería;6107340
+2022;23109;87;;;Remanente de tesorería;-780090
+2022;23110;87;;;Remanente de tesorería;777430
+2022;23111;87;;;Remanente de tesorería;25034270
+2022;23112;87;;;Remanente de tesorería;105352030
+2022;23301;87;;;Remanente de tesorería;12528580
+2022;23302;87;;;Remanente de tesorería;95450
+2022;24103;87;;;Remanente de tesorería;13138880
+2022;24104;87;;;Remanente de tesorería;2500000
+2022;24105;87;;;Remanente de tesorería;18058420
+2022;24106;87;;;Remanente de tesorería;20000000
+2022;24107;87;;;Remanente de tesorería;12460000
+2022;24301;87;;;Remanente de tesorería;740780
+2022;24302;87;;;Remanente de tesorería;2000000
+2022;25101;87;;;Remanente de tesorería;963030
+2022;25103;87;;;Remanente de tesorería;9000000
+2022;26105;87;;;Remanente de tesorería;143890
+2022;26301;87;;;Remanente de tesorería;24531280
+2022;27101;87;;;Remanente de tesorería;23611300
+2022;27302;87;;;Remanente de tesorería;3283350
+2022;28103;87;;;Remanente de tesorería;16079970
+2022;28301;87;;;Remanente de tesorería;205670820
+2022;29101;87;;;Remanente de tesorería;1602770
+2022;29102;87;;;Remanente de tesorería;5029000
+2022;30101;87;;;Remanente de tesorería;4854720
+2022;31101;87;;;Remanente de tesorería;5108930
+2022;33101;87;;;Remanente de tesorería;4020500
+2022;33102;87;;;Remanente de tesorería;575670
+2022;33103;87;;;Remanente de tesorería;2647120
+2022;60004;87;;;Remanente de tesorería;93963330
+2022;12301;870;;;Remanente de tesorería;9648730
+2022;13101;870;;;Remanente de tesorería;2762410
+2022;13301;870;;;Remanente de tesorería;2319530
+2022;14101;870;;;Remanente de tesorería;45407450
+2022;14107;870;;;Remanente de tesorería;52671160
+2022;14301;870;;;Remanente de tesorería;2500000
+2022;15101;870;;;Remanente de tesorería;4000000
+2022;15102;870;;;Remanente de tesorería;6250000
+2022;15104;870;;;Remanente de tesorería;3200000
+2022;15107;870;;;Remanente de tesorería;10391000
+2022;15302;870;;;Remanente de tesorería;15000000
+2022;15304;870;;;Remanente de tesorería;629320
+2022;16102;870;;;Remanente de tesorería;6040580
+2022;17101;870;;;Remanente de tesorería;1075260
+2022;17102;870;;;Remanente de tesorería;3597640
+2022;17301;870;;;Remanente de tesorería;4062740
+2022;19102;870;;;Remanente de tesorería;198129800
+2022;19104;870;;;Remanente de tesorería;2030000
+2022;19301;870;;;Remanente de tesorería;844740
+2022;20102;870;;;Remanente de tesorería;2149020
+2022;20104;870;;;Remanente de tesorería;15510830
+2022;21101;870;;;Remanente de tesorería;1468500
+2022;23101;870;;;Remanente de tesorería;5479260
+2022;23103;870;;;Remanente de tesorería;21573020
+2022;23104;870;;;Remanente de tesorería;16039620
+2022;23105;870;;;Remanente de tesorería;16105900
+2022;23106;870;;;Remanente de tesorería;358410
+2022;23107;870;;;Remanente de tesorería;6107340
+2022;23109;870;;;Remanente de tesorería;-780090
+2022;23110;870;;;Remanente de tesorería;777430
+2022;23111;870;;;Remanente de tesorería;25034270
+2022;23112;870;;;Remanente de tesorería;105352030
+2022;23301;870;;;Remanente de tesorería;12528580
+2022;23302;870;;;Remanente de tesorería;95450
+2022;24103;870;;;Remanente de tesorería;13138880
+2022;24104;870;;;Remanente de tesorería;2500000
+2022;24105;870;;;Remanente de tesorería;18058420
+2022;24106;870;;;Remanente de tesorería;20000000
+2022;24107;870;;;Remanente de tesorería;12460000
+2022;24301;870;;;Remanente de tesorería;740780
+2022;24302;870;;;Remanente de tesorería;2000000
+2022;25101;870;;;Remanente de tesorería;963030
+2022;25103;870;;;Remanente de tesorería;9000000
+2022;26105;870;;;Remanente de tesorería;143890
+2022;26301;870;;;Remanente de tesorería;24531280
+2022;27101;870;;;Remanente de tesorería;23611300
+2022;27302;870;;;Remanente de tesorería;3283350
+2022;28103;870;;;Remanente de tesorería;16079970
+2022;28301;870;;;Remanente de tesorería;205670820
+2022;29101;870;;;Remanente de tesorería;1602770
+2022;29102;870;;;Remanente de tesorería;29000
+2022;30101;870;;;Remanente de tesorería;4854720
+2022;31101;870;;;Remanente de tesorería;5108930
+2022;33101;870;;;Remanente de tesorería;4020500
+2022;33102;870;;;Remanente de tesorería;575670
+2022;33103;870;;;Remanente de tesorería;2647120
+2022;60004;870;;;Remanente de tesorería;93963330
+2022;15102;871;;;Remanente de tesorería afectado a Formación para el Empleo;4000000
+2022;29102;873;;;Remanente de Tesorería afectado en cumplimiento del artículo 18.2 y de la Disp.Adic.26ª de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas;5000000
+2022;98001;88;;;Devolución de aportaciones patrimoniales;11158844000
+2022;98001;880;;;Devolución de aportaciones patrimoniales;11158844000
+2022;60004;89;;;Utilización de activos financieros afectos al Fondo de Reserva de la Seguridad Social y a otros Fondos del Sistema;25720060
+2022;60004;891;;;Al fondo de Contingencias Profesionales de la Seguridad Social;22974480
+2022;60004;892;;;A la reserva complementaria de estabilización por cese de actividad;2745580
+2022;14113;9;;;PASIVOS FINANCIEROS;70000
+2022;17102;9;;;PASIVOS FINANCIEROS;3892670
+2022;23105;9;;;PASIVOS FINANCIEROS;45420000
+2022;23109;9;;;PASIVOS FINANCIEROS;10000000
+2022;25103;9;;;PASIVOS FINANCIEROS;125000
+2022;28103;9;;;PASIVOS FINANCIEROS;2140000
+2022;28301;9;;;PASIVOS FINANCIEROS;29000000
+2022;60004;9;;;PASIVOS FINANCIEROS;6981590000
+2022;17102;91;;;Préstamos recibidos en euros;3892670
+2022;23105;91;;;Préstamos recibidos en euros;45420000
+2022;23109;91;;;Préstamos recibidos en euros;10000000
+2022;28103;91;;;Préstamos recibidos en euros;2140000
+2022;28301;91;;;Préstamos recibidos en euros;29000000
+2022;60004;91;;;Préstamos recibidos en euros;6981590000
+2022;17102;911;;;Préstamos recibidos a largo plazo de entes del Sector Público;3892670
+2022;28103;911;;;Préstamos recibidos a largo plazo de entes del Sector Público;2140000
+2022;28301;911;;;Préstamos recibidos a largo plazo de entes del Sector Público;29000000
+2022;60004;911;;;Préstamos recibidos a largo plazo de entes del Sector Público;6981590000
+2022;28103;911;;00;De la Administración del Estado;2140000
+2022;28301;911;;00;De la Administración del Estado;3501360
+2022;60004;911;;00;De la Administración del Estado;6981590000
+2022;17102;911;;04;De otras entidades;3892670
+2022;28301;911;;09;De la Unión Europea;25498640
+2022;23105;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público;45420000
+2022;23109;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;10000000
+2022;14113;94;;;Depósitos y fianzas recibidos;70000
+2022;25103;94;;;Depósitos y fianzas recibidos;125000
+2022;14113;940;;;Depósitos recibidos;20000
+2022;14113;941;;;Fianzas recibidas;50000
+2022;25103;941;;;Fianzas recibidas;125000
