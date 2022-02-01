@@ -199,7 +199,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 2 ? concept[0..1] : nil,
             concept.length >= 3 ? concept : nil,
             nil,  # We don't use subheadings
-            nil,  # Short description, not used
+            nil,  # Short description, not used
             capitalize_description_if_needed(description) ]
   end
 
@@ -210,7 +210,7 @@ CSV.open(File.join(output_path, "estructura_economica.csv"), "w", col_sep: ';') 
             concept.length >= 2 ? concept[0..1] : nil,
             concept.length >= 3 ? concept : nil,
             nil,  # We don't use subheadings
-            nil,  # Short description, not used
+            nil,  # Short description, not used
             capitalize_description_if_needed(description) ]
   end
 end
@@ -279,7 +279,7 @@ def break_down_economic_code(line, economic_categories)
     # subheading=budget item), unless it's a tagged heading, in which case we need the full code.
     # Note that a five-digit economic code (xxxxx) is actually a budget item belonging to a
     # heading (xxx or xxx/sssss). We don't discard the last two digits in the output file, we
-    # put them in the 'item number' column as it's useful (basically) to distinguish the items 
+    # put them in the 'item number' column as it's useful (basically) to distinguish the items 
     # from the heading subtotal.
     if concept.include?('/') 
       # We have a heading, a tagged one; nothing to do
