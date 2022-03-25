@@ -20,9 +20,9 @@
 | **Organismos autónomos**    | 46,179,525,860|46,186,452,130|46,235,966,560|45,821,186,480
 | **Agencias estatales**      | 0|0|0|0
 | **Otros organismos**        | 8,949,142,880|8,951,338,560|8,952,516,200|8,859,278,900
-| **Seguridad Social**        | 183,798,378,270|185,053,481,540|185,053,491,540|180,797,526,050
+| **Seguridad Social**        | 183,878,878,270|185,133,981,540|185,133,991,540|180,878,026,050
 | (- transferencias internas) | -60,700,807,620|-60,700,807,620|-60,700,807,620|
-| **TOTAL**                   | **426,931,938,210**|**458,889,067,590**|**527,027,263,220**|**527,027,263,220**
+| **TOTAL**                   | **427,012,438,210**|**458,969,567,590**|**527,107,763,220**|**527,107,763,220**
 
 ### Comprobaciones
 
@@ -38,10 +38,10 @@
  * Gastos Otros organismos - operaciones no financieros: OK (8,949,142,880)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_803_1_3.HTM)
  * Gastos Otros organismos - presupuesto total: OK (8,952,516,200)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_803_1_3.HTM)
  * Gastos Otros organismos - presupuesto consolidado: OK (8,859,278,900)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_803_1_3.HTM)
- * **Gastos Seguridad Social - operaciones no financieros: ERROR 183,878,878,270 != 183,798,378,270**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_805_1_3.HTM)
- * **Gastos Seguridad Social - capítulos I-VIII: ERROR 185,133,981,540 != 185,053,481,540**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_805_1_3.HTM)
- * **Gastos Seguridad Social - presupuesto total: ERROR 185,133,991,540 != 185,053,491,540**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_805_1_3.HTM)
- * **Gastos Seguridad Social - presupuesto consolidado: ERROR 180,878,026,050 != 180,797,526,050**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_805_1_3.HTM)
+ * Gastos Seguridad Social - operaciones no financieros: OK (183,878,878,270)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_805_1_3.HTM)
+ * Gastos Seguridad Social - capítulos I-VIII: OK (185,133,981,540)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_805_1_3.HTM)
+ * Gastos Seguridad Social - presupuesto total: OK (185,133,991,540)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_805_1_3.HTM)
+ * Gastos Seguridad Social - presupuesto consolidado: OK (180,878,026,050)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_2_805_1_3.HTM)
  * Ingresos Estado - operaciones no financieros: OK (182,903,613,990)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_1_101_1_5_1.HTM)
  * Ingresos Estado - presupuesto total: OK (197,460,014,850)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_1_101_1_5_1.HTM)
  * Ingresos Organismos Autónomos - operaciones no financieros: OK (45,471,988,670)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Ley/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_E_R_6_1_102_1_4_1.HTM)

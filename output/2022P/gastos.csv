@@ -26885,3 +26885,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;06005;951N;331;;;Gastos de emision, modificacion y cancelacion;6000
 2022;06005;951N;35;;;Intereses de demora y otros gastos financieros;6000
 2022;06005;951N;352;;;Intereses de demora;6000
+2022;60003;29KB;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;22949720
+2022;60003;29KB;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;22949720
+2022;60003;29KB;6;;;INVERSIONES REALES;24050280
+2022;60003;29KB;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;24050280
+2022;60003;29SC;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;10000000
+2022;60003;29SC;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;10000000
+2022;60003;29SC;6;;;INVERSIONES REALES;5000000
+2022;60003;29SC;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;5000000
+2022;60002;31RC;6;;;INVERSIONES REALES;18500000
+2022;60002;31RC;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;18500000
