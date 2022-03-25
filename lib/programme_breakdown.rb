@@ -175,7 +175,7 @@ class ProgrammeBreakdown < BaseBreakdown
     data_grid
   end
 
-  PROGRAMME_EXPENSES_BKDOWN =      /N_(\d\d)_[ASE]_R_31_2_1_G_1_1_(?:1\d\d\d\w_P|T_1).HTM/;
+  PROGRAMME_EXPENSES_BKDOWN =      /N_(\d\d)_[ASE]_R_31_2_1_G_1_1_(?:1\d\d[\d\w]\w_P|T_1).HTM/;
   # Note:                                               ^ 
   #       This will catch only Social Security programme breakdowns (see Budget class for info).
   #       It's what I need for now. 
