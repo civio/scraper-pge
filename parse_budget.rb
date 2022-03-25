@@ -93,6 +93,7 @@ def get_default_policies_and_programmes
     "24" => { description: "Fomento del empleo" },
     "25" => { description: "Desempleo" },
     "26" => { description: "Acceso a la vivienda y fomento de la edificación" },
+    "28" => { description: "Gestión y administración de Trabajo y Economía Social" },
     "29" => { description: "Gestión y administración de la Seguridad Social" },
     "31" => { description: "Sanidad" },
     "32" => { description: "Educación" },
