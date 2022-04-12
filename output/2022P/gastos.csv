@@ -297,7 +297,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23003;000X;4;;;TRANSFERENCIAS CORRIENTES;165959340
 2022;23003;000X;41;;;A Organismos Autónomos;165559340
 2022;23003;000X;410/23003;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas para el seguimiento de las Grandes Instalaciones de Combustión;100000
-2022;23003;000X;412/23003;;;Al Instituto para la Transición Justa. Financiado según el artículo 30.4 de la Ley 7/2021;165459340
+2022;23003;000X;412/23003;;;Al Instituto para la Transición Justa;165459340
 2022;23003;000X;43;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;400000
 2022;23003;000X;436;;;Al Consejo de Seguridad Nuclear;400000
 2022;23003;000X;7;;;TRANSFERENCIAS DE CAPITAL;3756086810
@@ -310,12 +310,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23003;000X;739/23003;;;A la CNMC para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico;715615000
 2022;23004;000X;4;;;TRANSFERENCIAS CORRIENTES;38421990
 2022;23004;000X;41;;;A Organismos Autónomos;9581350
-2022;23004;000X;410/23004;;;A Parques Nacionales. Financiado según el artículo 30.4 de la Ley 7/2021.;9581350
+2022;23004;000X;410/23004;;;A Parques Nacionales;9581350
 2022;23004;000X;43;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;28840640
 2022;23004;000X;430/23004;;;Agencia Estatal de Meteorología;28840640
 2022;23004;000X;7;;;TRANSFERENCIAS DE CAPITAL;61653550
 2022;23004;000X;71;;;A Organismos Autónomos;27194890
-2022;23004;000X;710/23004;;;A Parques Nacionales. Financiado según el artículo 30.4 de la Ley 7/2021;26011080
+2022;23004;000X;710/23004;;;A Parques Nacionales;26011080
 2022;23004;000X;713/23004;;;A Parques Nacionales. Plan PIMA Adapta. Financiado según el artículo 30.4 de la Ley 7/2021;1183810
 2022;23004;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;34458660
 2022;23004;000X;730/23004;;;Agencia Estatal de Meteorología;34458660
@@ -332,11 +332,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23005;000X;410/23005;;07;Confederación Hidrográfica del Cantábrico;2430140
 2022;23005;000X;410/23005;;08;Confederación Hidrográfica del Tajo;9946050
 2022;23005;000X;417/23005;;;Al CEDEX para I+D en recursos e infraestructuras hidráulicas;3000000
-2022;23005;000X;7;;;TRANSFERENCIAS DE CAPITAL;72100000
-2022;23005;000X;71;;;A Organismos Autónomos;71600000
-2022;23005;000X;710/23005;;;Confederaciones Hidrográficas;71100000
+2022;23005;000X;7;;;TRANSFERENCIAS DE CAPITAL;72275000
+2022;23005;000X;71;;;A Organismos Autónomos;71775000
+2022;23005;000X;710/23005;;;Confederaciones Hidrográficas;71275000
 2022;23005;000X;710/23005;;00;Confederación Hidrográfica del Duero;5100000
-2022;23005;000X;710/23005;;01;Confederación Hidrográfica del Ebro;1000000
+2022;23005;000X;710/23005;;01;Confederación Hidrográfica del Ebro;1175000
 2022;23005;000X;710/23005;;02;Confederación Hidrográfica del Guadalquivir;4000000
 2022;23005;000X;710/23005;;03;Confederación Hidrográfica del Guadiana;12000000
 2022;23005;000X;710/23005;;04;Confederación Hidrográfica del Júcar;10000000
@@ -387,9 +387,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23302;000X;4;;;TRANSFERENCIAS CORRIENTES;968310
 2022;23302;000X;40;;;A la Administración del Estado;968310
 2022;23302;000X;402;;;Al Estado, para compensar gastos de gestión centralizada;968310
-2022;24001;000X;4;;;TRANSFERENCIAS CORRIENTES;434848230
-2022;24001;000X;41;;;A Organismos Autónomos;381255970
-2022;24001;000X;410/24001;;;Al Consejo Superior de Deportes;77186060
+2022;24001;000X;4;;;TRANSFERENCIAS CORRIENTES;434748230
+2022;24001;000X;41;;;A Organismos Autónomos;381155970
+2022;24001;000X;410/24001;;;Al Consejo Superior de Deportes;77086060
 2022;24001;000X;411/24001;;;Al Consejo Superior de Deportes para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego, en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;47725000
 2022;24001;000X;412/24001;;;A la Biblioteca Nacional de España;24134900
 2022;24001;000X;414/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales;18302560
@@ -400,13 +400,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24001;000X;430/24001;;;A la Agencia Española de Protección de la Salud en el Deporte;8339880
 2022;24001;000X;437/24001;;;Al Museo Nacional del Prado;20948900
 2022;24001;000X;438;;;Al Museo Nacional Centro de Arte Reina Sofía;24303480
-2022;24001;000X;7;;;TRANSFERENCIAS DE CAPITAL;87014410
-2022;24001;000X;71;;;A Organismos Autónomos;66389840
-2022;24001;000X;710/24001;;;Al Consejo Superior de Deportes;20908260
+2022;24001;000X;7;;;TRANSFERENCIAS DE CAPITAL;87414410
+2022;24001;000X;71;;;A Organismos Autónomos;66789840
+2022;24001;000X;710/24001;;;Al Consejo Superior de Deportes;21208260
 2022;24001;000X;711/24001;;;Al Consejo Superior de Deportes para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego, en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;2275000
 2022;24001;000X;712/24001;;;A la Biblioteca Nacional de España;5094180
 2022;24001;000X;714/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales;585000
-2022;24001;000X;716/24001;;;Al Instituto Nacional de las Artes Escénicas y de la Música;8526330
+2022;24001;000X;716/24001;;;Al Instituto Nacional de las Artes Escénicas y de la Música;8626330
 2022;24001;000X;717/24001;;;A la Gerencia de Infraestructuras y Equipamientos de Cultura;29001070
 2022;24001;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;20624570
 2022;24001;000X;730/24001;;;A la Agencia Española de Protección de la Salud en el Deporte;424570
@@ -632,7 +632,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;32002;000X;420/32002;;03;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones no contributivas establecidas por  la Leyes  26/1990, de 20 de diciembre y 35/2007, de 15 de noviembre. Protección familiar, incluso para atender obligaciones de ejercicios anteriores.;1414001300
 2022;32002;000X;420/32002;;04;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones económicas no contributivas por nacimiento y cuidado de menor;288000
 2022;32002;000X;420/32002;;05;Aportación del Estado al presupuesto de la Seguridad Social para financiar prestaciones de orfandad no contributivas en favor de víctimas de violencia de género;3400000
-2022;32002;000X;423/32002;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.;7075020000
+2022;32002;000X;423/32002;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.;7050020000
 2022;32002;000X;424/32002;;;Aportación del Estado a la Seguridad Social para financiar el Ingreso Mínimo Vital.;3021926140
 2022;32002;000X;425/32002;;;Aportaciones del Estado al presupuesto de la Seguridad Social en cumplimiento de la recomendación primera del Pacto de Toledo 2020;18396000000
 2022;32002;000X;425/32002;;01;Aportación del Estado al presupuesto de la Seguridad Social para la financiación de la prestación contributiva de nacimiento y cuidado de menor;2879580000
@@ -646,10 +646,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;32002;000X;425/32002;;09;Aportación del Estado al presupuesto de la Seguridad Social para otros conceptos;5085210000
 2022;32002;000X;425/32002;;10;Aportación del Estado al presupuesto de la Seguridad Social para complementos de prestaciones contributivas, sujetos a limite de ingresos;3549000000
 2022;32002;000X;426/32002;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM;14633150
-2022;32002;000X;429/32002;;;Otras aportaciones a la Seguridad Social.;83533480
+2022;32002;000X;429/32002;;;Otras aportaciones a la Seguridad Social.;108533480
 2022;32002;000X;429/32002;;01;Cuotas de Seguridad Social y otras obligaciones derivadas  de la Ley de Amnistía de 15 de octubre de 1977, incluso para atender obligaciones de ejercicios anteriores;6010
 2022;32002;000X;429/32002;;03;A la Seguridad Social para financiar las bonificaciones de cuotas empresariales por tripulantes de buques especificados en la Ley 19/1994, de 6 de julio, de Régimen Económico y Fiscal de Canarias, incluso para atender obligaciones de ejercicios anteriores;60000000
 2022;32002;000X;429/32002;;04;Transferencias a la Seguridad Social para financiar las prestaciones del Síndrome Tóxico, incluso para atender obligaciones de ejercicios anteriores;23527470
+2022;32002;000X;429/32002;;05;Para financiar el Fondo de Compensación a las víctimas del amianto;25000000
 2022;32002;000X;7;;;TRANSFERENCIAS DE CAPITAL;1240200
 2022;32002;000X;72;;;A la Seguridad Social;1240200
 2022;32002;000X;726;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM;1240200
@@ -681,6 +682,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;33003;000X;711/33003;;00;Al SEPIE para gastos de inversiones;510000
 2022;33003;000X;711/33003;;03;Al SEPIE para potenciar la proyección internacional del Sistema Universitario Español y su oferta, así como la movilidad interuniversitaria;36290
 2022;33003;000X;719/33003;;;A la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA);369480
+2022;37001;000X;4;;;TRANSFERENCIAS CORRIENTES;1000000
+2022;37001;000X;41;;;A Organismos Autónomos;1000000
+2022;37001;000X;410/37001;;;A Entidad Estatal de Seguros Agrarios. Plan Estatal de Seguros Agrarios y liquidación de planes anteriores. Actuaciones en Canarias;1000000
 2022;60001;000X;4;;;TRANSFERENCIAS CORRIENTES;4023194560
 2022;60001;000X;42;;;A la Seguridad Social;4023194560
 2022;60001;000X;421/60001;;;Aportaciones para el sostenimiento de servicios comunes;1265192320
@@ -3017,11 +3021,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;16002;132A;494/16002;;;Cooperación Internacional;44201630
 2022;16002;132A;494/16002;;01;Cooperación Internacional: Ayudas directas;43609000
 2022;16002;132A;494/16002;;02;Cooperación Internacional: Formación;592630
-2022;16002;132A;6;;;INVERSIONES REALES;147803770
+2022;16002;132A;6;;;INVERSIONES REALES;146263770
 2022;16002;132A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;126253770
 2022;16002;132A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;126253770
-2022;16002;132A;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;21450000
-2022;16002;132A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;21450000
+2022;16002;132A;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;19910000
+2022;16002;132A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;19910000
 2022;16002;132A;64;;;Gastos de inversiones de carácter inmaterial;100000
 2022;16002;132A;640;;;Gastos en inversiones de carácter inmaterial;100000
 2022;16002;132A;7;;;TRANSFERENCIAS DE CAPITAL;2989000
@@ -3884,10 +3888,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;16001;134M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;861230
 2022;16001;134M;64;;;Gastos de inversiones de carácter inmaterial;362110
 2022;16001;134M;640;;;Gastos en inversiones de carácter inmaterial;362110
-2022;16001;134M;7;;;TRANSFERENCIAS DE CAPITAL;1657080
-2022;16001;134M;76;;;A Entidades Locales;1526930
+2022;16001;134M;7;;;TRANSFERENCIAS DE CAPITAL;3197080
+2022;16001;134M;76;;;A Entidades Locales;3066930
 2022;16001;134M;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia;60100
-2022;16001;134M;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear;1466830
+2022;16001;134M;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear;3006830
 2022;16001;134M;77;;;A empresas privadas;40000
 2022;16001;134M;771/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia.;40000
 2022;16001;134M;78;;;A familias e instituciones sin fines de lucro;90150
@@ -5334,9 +5338,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;60001;212O;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;1994400
 2022;60001;212O;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;5000
 2022;60001;212O;23;;;Indemnizaciones por razón del servicio;5000
-2022;60001;212O;4;;;TRANSFERENCIAS CORRIENTES;7064178270
-2022;60001;212O;48;;;A familias e instituciones sin fines de lucro;7064178270
-2022;60001;212O;481/60001;;;Pensiones;7064178270
+2022;60001;212O;4;;;TRANSFERENCIAS CORRIENTES;7039178270
+2022;60001;212O;48;;;A familias e instituciones sin fines de lucro;7039178270
+2022;60001;212O;481/60001;;;Pensiones;7039178270
 2022;60001;219M;1;;;GASTOS DE PERSONAL;266285000
 2022;60001;219M;10;;;Altos cargos;62740
 2022;60001;219M;12;;;Funcionarios;147848230
@@ -6056,7 +6060,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;60002;231D;6;;;INVERSIONES REALES;110000
 2022;60002;231D;7;;;TRANSFERENCIAS DE CAPITAL;3000000
 2022;60002;231D;78;;;A familias e instituciones sin fines de lucro;3000000
-2022;60002;231D;784/60002;;;A la Fundación Matia para la financiación del proyecto piloto de viviendas para mayores.;3000000
+2022;60002;231D;784/60002;;;A la Fundación Instituto Gerontológico Matia-INGEMA: regeneración de un entorno urbano desde la perspectiva inclusiva para la promoción de la autonomía de personas mayores.;3000000
 2022;60002;231D;8;;;ACTIVOS FINANCIEROS;300
 2022;60002;231D;84;;;Constitución de depósitos y fianzas;300
 2022;60002;231D;841;;;Fianzas;300
@@ -6218,8 +6222,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;29006;231F;23;;;Indemnizaciones por razón del servicio;22130
 2022;29006;231F;230;;;Dietas;10130
 2022;29006;231F;231;;;Locomoción;12000
-2022;29006;231F;4;;;TRANSFERENCIAS CORRIENTES;5235000
-2022;29006;231F;48;;;A familias e instituciones sin fines de lucro;5235000
+2022;29006;231F;4;;;TRANSFERENCIAS CORRIENTES;5345000
+2022;29006;231F;48;;;A familias e instituciones sin fines de lucro;5345000
 2022;29006;231F;481/29006;;;A la Confederación Estatal de Personas Sordas CNSE para la atención a personas sordas en el ejercicio de sus derechos básicos ;798000
 2022;29006;231F;482/29006;;;Para programas de personas con discapacidad;4437000
 2022;29006;231F;482/29006;;00;A la Confederación estatal de personas sordas CNSE.  para el sostenimiento económico-financiero de su estructura central;245000
@@ -6244,6 +6248,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;29006;231F;482/29006;;20;A la Federación COAMIFICOA para el sostenimiento económico-financiero de su estructura central;51000
 2022;29006;231F;482/29006;;21;A APASCIDE Asociación española de familias de personas con sordoceguera para el sostenimiento económico-financiero de su estructura central;50000
 2022;29006;231F;482/29006;;22;A la Asociación Española de Esclerosis Lateral Amiotrófica (adEla) para el sostenimiento económico-financiero de su estructura central y prestación de servicios;153000
+2022;29006;231F;483/29006;;;UNES UNIÓ ESPORTIVA Escola AFA, para su sostenimiento económico-financiero;60000
+2022;29006;231F;484/29006;;;Fundació Internacional Miquel Valls contra l´Esclerosis Lateral Ammiotrófica, para su sostenimiento económico-financiero;50000
 2022;29102;231F;1;;;GASTOS DE PERSONAL;663280
 2022;29102;231F;12;;;Funcionarios;504750
 2022;29102;231F;120;;;Retribuciones básicas;256600
@@ -6363,11 +6369,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;29004;231G;230;;;Dietas;8000
 2022;29004;231G;231;;;Locomoción;8000
 2022;29004;231G;233;;;Otras indemnizaciones;7220
-2022;29004;231G;4;;;TRANSFERENCIAS CORRIENTES;35060000
+2022;29004;231G;4;;;TRANSFERENCIAS CORRIENTES;35160000
 2022;29004;231G;45;;;A Comunidades Autónomas;35000000
 2022;29004;231G;450/29004;;;Para la atención a niños, niñas y adolescentes migrantes no acompañados;35000000
-2022;29004;231G;48;;;A familias e instituciones sin fines de lucro;60000
+2022;29004;231G;48;;;A familias e instituciones sin fines de lucro;160000
 2022;29004;231G;481/29004;;;A la Federación Interautonómica de ECAIS (FIDECAI);60000
+2022;29004;231G;483/29004;;;Fundació Pere Tarrés, para su sostenimiento económico-financiero;100000
 2022;29005;231G;1;;;GASTOS DE PERSONAL;480200
 2022;29005;231G;12;;;Funcionarios;404040
 2022;29005;231G;120;;;Retribuciones básicas;191090
@@ -6640,7 +6647,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;29101;232A;465/29101;;;A Entidades de la Administración Local Programa Erasmus+/Juventud;180000
 2022;29101;232A;467/29101;;;A Entidades de la Administración Local Programa Cuerpo Europeo de solidaridad;101750
 2022;29101;232A;468/29101;;;A entidades de la Administración local. Programa Erasmus + (2021-2027);1232000
-2022;29101;232A;469;;;A entidades de la Administración local. Programa Cuerpo Europeo de Solidaridad (2021-2027);666050
+2022;29101;232A;469/29101;;;A entidades de la Administración local. Programa Cuerpo Europeo de Solidaridad (2021-2027);666050
 2022;29101;232A;47;;;A empresas privadas;1323200
 2022;29101;232A;475/29101;;;A empresas privadas Programa Erasmus+/Juventud;115000
 2022;29101;232A;476;;;Ayudas a Emprendimiento Joven;200000
@@ -7117,8 +7124,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;60002;239M;3;;;GASTOS FINANCIEROS;100000
 2022;60002;239M;35;;;Intereses de demora y otros gastos financieros;100000
 2022;60002;239M;352;;;Intereses de demora;100000
-2022;60002;239M;4;;;TRANSFERENCIAS CORRIENTES;20020000
-2022;60002;239M;48;;;A familias e instituciones sin fines de lucro;20020000
+2022;60002;239M;4;;;TRANSFERENCIAS CORRIENTES;45020000
+2022;60002;239M;48;;;A familias e instituciones sin fines de lucro;45020000
+2022;60002;239M;485/60002;;;Fondo de compensación a las víctimas del amianto.;25000000
 2022;60002;239M;487/60002;;;Prestaciones sociales;20020000
 2022;60002;239M;6;;;INVERSIONES REALES;1070000
 2022;60002;239M;8;;;ACTIVOS FINANCIEROS;1055550
@@ -7163,7 +7171,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;29001;239N;162;;04;Acción social;68500
 2022;29001;239N;162;;05;Seguros;19440
 2022;29001;239N;162;;09;Otros;190000
-2022;29001;239N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;8317330
+2022;29001;239N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;8107330
 2022;29001;239N;20;;;Arrendamientos y cánones;1149410
 2022;29001;239N;202;;;Arrendamientos de edificios y otras construcciones;1131100
 2022;29001;239N;205;;;Arrendamientos de mobiliario y enseres;7510
@@ -7174,7 +7182,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;29001;239N;214;;;Elementos de transporte;270
 2022;29001;239N;215;;;Mobiliario y enseres;86520
 2022;29001;239N;216;;;Equipos para procesos de la información;153040
-2022;29001;239N;22;;;Material, suministros y otros;6374110
+2022;29001;239N;22;;;Material, suministros y otros;6164110
 2022;29001;239N;220;;;Material de oficina;127040
 2022;29001;239N;220;;00;Ordinario no inventariable;50000
 2022;29001;239N;220;;01;Prensa, revistas, libros y otras publicaciones;3700
@@ -7207,10 +7215,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;29001;239N;226;;07;Oposiciones y pruebas selectivas;26090
 2022;29001;239N;226;;10;Actividades realizadas mediante Convenio;4850
 2022;29001;239N;226;;99;Otros;330
-2022;29001;239N;227;;;Trabajos realizados por otras empresas y profesionales;3233110
+2022;29001;239N;227;;;Trabajos realizados por otras empresas y profesionales;3023110
 2022;29001;239N;227;;00;Limpieza y aseo;4790
 2022;29001;239N;227;;01;Seguridad;90620
-2022;29001;239N;227;;06;Estudios y trabajos técnicos;3000000
+2022;29001;239N;227;;06;Estudios y trabajos técnicos;2790000
 2022;29001;239N;227;;99;Otros;137700
 2022;29001;239N;23;;;Indemnizaciones por razón del servicio;327950
 2022;29001;239N;230;;;Dietas;134100
@@ -7990,9 +7998,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17009;261N;742/17009;;;Línea ICO;45000
 2022;17009;261N;743/17009;;;Otras transferencias  en materia de vivienda;40000
 2022;17009;261N;75;;;A Comunidades Autónomas;555000000
-2022;17009;261N;753/17009;;;Subvenciones Estatales  Planes de Vivienda;355000000
-2022;17009;261N;753/17009;;01;Subvenciones Plan Estatal de Vivienda;355000000
+2022;17009;261N;753/17009;;;Subvenciones Estatales  Planes de Vivienda;345000000
+2022;17009;261N;753/17009;;01;Subvenciones Plan Estatal de Vivienda;345000000
 2022;17009;261N;754/17009;;;Bono alquiler joven;200000000
+2022;17009;261N;759/17009;;;A Comunidades Autónomas y Ayuntamientos para adquirir vivienda pública destinada a alquiler social. Recuperar 30% viviendas SAREB;10000000
 2022;17009;261N;76;;;A Entidades Locales;26640000
 2022;17009;261N;765/17009;;;Al Ayuntamiento de Barcelona para la promoción de viviendas en alquiler asequible o social (Plan 20.000);11740880
 2022;17009;261N;766/17009;;;A entidades locales para la promoción de viviendas en alquiler asequible o social (Plan 20.000);13899120
@@ -9382,13 +9391,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;26007;313B;225;;00;Estatales;150
 2022;26007;313B;225;;01;Autonómicos;260
 2022;26007;313B;225;;02;Locales;3700
-2022;26007;313B;226;;;Gastos diversos;5594110
+2022;26007;313B;226;;;Gastos diversos;5644110
 2022;26007;313B;226;;02;Publicidad y propaganda;2004000
 2022;26007;313B;226;;06;Reuniones, conferencias y cursos;647110
 2022;26007;313B;226;;10;Actividades realizadas mediante convenio;2140000
+2022;26007;313B;226;;11;Campaña institucional, orientada a la normalización de la Fibromialgia, el Síndrome de Fatiga Crónica y la Sensibilidad Química Múltiple;50000
 2022;26007;313B;226;;16;Actividades relativas a la lucha contra el SIDA;803000
-2022;26007;313B;227;;;Trabajos realizados por otras empresas y profesionales;24274910
-2022;26007;313B;227;;06;Estudios y trabajos técnicos;24274910
+2022;26007;313B;227;;;Trabajos realizados por otras empresas y profesionales;24224910
+2022;26007;313B;227;;06;Estudios y trabajos técnicos;24224910
 2022;26007;313B;23;;;Indemnizaciones por razón del servicio;287400
 2022;26007;313B;230;;;Dietas;85390
 2022;26007;313B;231;;;Locomoción;202010
@@ -10277,9 +10287,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;18001;322B;4;;;TRANSFERENCIAS CORRIENTES;150
 2022;18001;322B;48;;;A familias e instituciones sin fines de lucro;150
 2022;18001;322B;488/18001;;;Pensiones a funcionarios de carácter civil;150
-2022;18004;322B;4;;;TRANSFERENCIAS CORRIENTES;43000000
-2022;18004;322B;45;;;A Comunidades Autónomas;43000000
-2022;18004;322B;456/18004;;;Programa de Inclusión Educativa;43000000
+2022;18004;322B;4;;;TRANSFERENCIAS CORRIENTES;38000000
+2022;18004;322B;45;;;A Comunidades Autónomas;38000000
+2022;18004;322B;456/18004;;;Programa de Inclusión Educativa;38000000
 2022;18004;322B;8;;;ACTIVOS FINANCIEROS;210868680
 2022;18004;322B;82;;;Concesión de préstamos al Sector Público;210868680
 2022;18004;322B;821;;;Préstamos a largo plazo;210868680
@@ -10954,11 +10964,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;18004;322L;230;;;Dietas;132140
 2022;18004;322L;231;;;Locomoción;97640
 2022;18004;322L;233;;;Otras indemnizaciones;100000
-2022;18004;322L;4;;;TRANSFERENCIAS CORRIENTES;9302540
+2022;18004;322L;4;;;TRANSFERENCIAS CORRIENTES;14302540
 2022;18004;322L;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;3731380
 2022;18004;322L;441/18004;;;"A la Corporación RTVE para la producción y emisión del espacio educativo ""La aventura del saber""";731380
 2022;18004;322L;442/18004;;;"A la Corporación RTVE para la producción y emisión del espacio educativo “Aprendemos en Clan""";1200000
 2022;18004;322L;443/18004;;;Transferencia a Red.es para el desarrollo de recursos educativos;1800000
+2022;18004;322L;45;;;A Comunidades Autónomas;5000000
+2022;18004;322L;450/18004;;;Plan de Salud Mental en la Educación;5000000
 2022;18004;322L;48;;;A familias e instituciones sin fines de lucro;4075530
 2022;18004;322L;480/18004;;;Para financiar actividades de enseñanza de adultos y de carácter compensatorio;56000
 2022;18004;322L;480/18004;;05;A la Confederación Estatal de Personas Sordas para financiar actividades de Educación Especial;28000
@@ -11341,7 +11353,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24001;331M;162;;04;Acción social;278380
 2022;24001;331M;162;;05;Seguros;4000
 2022;24001;331M;162;;09;Otros;166250
-2022;24001;331M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;5060190
+2022;24001;331M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4960190
 2022;24001;331M;20;;;Arrendamientos y cánones;104000
 2022;24001;331M;202;;;Arrendamientos de edificios y otras construcciones;20000
 2022;24001;331M;205;;;Arrendamientos de mobiliario y enseres;5000
@@ -11351,7 +11363,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24001;331M;213;;;Maquinaria, instalaciones y utillaje;133230
 2022;24001;331M;215;;;Mobiliario y enseres;130090
 2022;24001;331M;216;;;Equipos para procesos de la información;254450
-2022;24001;331M;22;;;Material, suministros y otros;3878940
+2022;24001;331M;22;;;Material, suministros y otros;3778940
 2022;24001;331M;220;;;Material de oficina;292800
 2022;24001;331M;220;;00;Ordinario no inventariable;45500
 2022;24001;331M;220;;01;Prensa, revistas, libros y otras publicaciones;77300
@@ -11379,9 +11391,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24001;331M;226;;03;Jurídicos, contenciosos;5000
 2022;24001;331M;226;;06;Reuniones, conferencias y cursos;110870
 2022;24001;331M;226;;07;Oposiciones y pruebas selectivas;23000
-2022;24001;331M;227;;;Trabajos realizados por otras empresas y profesionales;1339610
+2022;24001;331M;227;;;Trabajos realizados por otras empresas y profesionales;1239610
 2022;24001;331M;227;;05;Procesos electorales y consultas populares;2200
-2022;24001;331M;227;;06;Estudios y trabajos técnicos;1327410
+2022;24001;331M;227;;06;Estudios y trabajos técnicos;1227410
 2022;24001;331M;227;;99;Otros;10000
 2022;24001;331M;23;;;Indemnizaciones por razón del servicio;453250
 2022;24001;331M;230;;;Dietas;122220
@@ -11394,9 +11406,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24001;331M;4;;;TRANSFERENCIAS CORRIENTES;40470
 2022;24001;331M;48;;;A familias e instituciones sin fines de lucro;40470
 2022;24001;331M;480/24001;;;Pensiones complementarias del personal de MECSE;40470
-2022;24001;331M;6;;;INVERSIONES REALES;5148810
-2022;24001;331M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;4441530
-2022;24001;331M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;4441530
+2022;24001;331M;6;;;INVERSIONES REALES;2988810
+2022;24001;331M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2281530
+2022;24001;331M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2281530
 2022;24001;331M;64;;;Gastos de inversiones de carácter inmaterial;707280
 2022;24001;331M;640;;;Gastos en inversiones de carácter inmaterial;707280
 2022;24001;331M;8;;;ACTIVOS FINANCIEROS;133940
@@ -11470,6 +11482,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24004;331M;230;;;Dietas;19000
 2022;24004;331M;231;;;Locomoción;37000
 2022;24004;331M;233;;;Otras indemnizaciones;107600
+2022;24004;331M;4;;;TRANSFERENCIAS CORRIENTES;1600000
+2022;24004;331M;45;;;A Comunidades Autónomas;1600000
+2022;24004;331M;452/24004;;;Promoción y difusión de las lenguas protegidas por la Carta Europea de las Lenguas Regionales o Minoritarias, a las Comunidades Autónomas de Galicia, Asturias, Euskadi, Navarra, Aragón, Cataluña, València e Illes Balears;1600000
 2022;24004;331M;6;;;INVERSIONES REALES;435000
 2022;24004;331M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;146000
 2022;24004;331M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;146000
@@ -11667,13 +11682,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24005;332A;491/24005;;10;A la Red Europea de Información y Documentación sobre América Latina (REDIAL) para pago de la cuota;150
 2022;24005;332A;491/24005;;16;A la Time Machine Organisation para el abono de la cuota;500
 2022;24005;332A;491/24005;;17;Al International Centre for Archival Research (ICARUS) para el abono de la cuota;500
-2022;24005;332A;6;;;INVERSIONES REALES;917500
-2022;24005;332A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;280000
-2022;24005;332A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;280000
+2022;24005;332A;6;;;INVERSIONES REALES;2517500
+2022;24005;332A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1980000
+2022;24005;332A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1980000
 2022;24005;332A;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;95020
 2022;24005;332A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;95020
-2022;24005;332A;64;;;Gastos de inversiones de carácter inmaterial;542480
-2022;24005;332A;640;;;Gastos en inversiones de carácter inmaterial;542480
+2022;24005;332A;64;;;Gastos de inversiones de carácter inmaterial;442480
+2022;24005;332A;640;;;Gastos en inversiones de carácter inmaterial;442480
 2022;24005;332A;7;;;TRANSFERENCIAS DE CAPITAL;75000
 2022;24005;332A;78;;;A familias e instituciones sin fines de lucro;75000
 2022;24005;332A;780/24005;;;Ayudas a entidades privadas sin ánimo de lucro para la mejora de las instalaciones y el equipamiento de sus archivos;75000
@@ -12013,16 +12028,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24005;333A;491/24005;;14;Al Consejo Internacional de Museos - ICOM. Comité Español. Cuota miembro;7000
 2022;24005;333A;491/24005;;15;Al Consejo Internacional de Museos - ICOM. Comité Español. Para sus gastos de funcionamiento;2500
 2022;24005;333A;491/24005;;20;A la Network of European Museums Organizations;250
-2022;24005;333A;6;;;INVERSIONES REALES;1429490
+2022;24005;333A;6;;;INVERSIONES REALES;2429490
 2022;24005;333A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;586400
 2022;24005;333A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;586400
-2022;24005;333A;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;275000
-2022;24005;333A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;275000
+2022;24005;333A;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;1275000
+2022;24005;333A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;1275000
 2022;24005;333A;64;;;Gastos de inversiones de carácter inmaterial;568090
 2022;24005;333A;640;;;Gastos en inversiones de carácter inmaterial;568090
-2022;24005;333A;7;;;TRANSFERENCIAS DE CAPITAL;1000
-2022;24005;333A;78;;;A familias e instituciones sin fines de lucro;1000
+2022;24005;333A;7;;;TRANSFERENCIAS DE CAPITAL;101000
+2022;24005;333A;78;;;A familias e instituciones sin fines de lucro;101000
 2022;24005;333A;781/24005;;;Pago de indemnizaciones a que se refiere la disposición adicional novena de la Ley 16/1985, del Patrimonio Histórico Español;1000
+2022;24005;333A;782/24005;;;A la Sociedad Gaztelu para proyecto museológico y museográfico para el Centro de Visitas del Castillo de Amaiur y del Valle de Baztán;100000
 2022;24105;333A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;40000
 2022;24105;333A;21;;;Reparaciones, mantenimiento y conservación;5000
 2022;24105;333A;212;;;Edificios y otras construcciones;5000
@@ -12331,11 +12347,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24004;334A;23;;;Indemnizaciones por razón del servicio;65000
 2022;24004;334A;230;;;Dietas;25000
 2022;24004;334A;231;;;Locomoción;40000
-2022;24004;334A;4;;;TRANSFERENCIAS CORRIENTES;19450420
+2022;24004;334A;4;;;TRANSFERENCIAS CORRIENTES;19630420
 2022;24004;334A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;460000
 2022;24004;334A;445/24004;;;A la Fundación Instituto de Cultura Gitana para sus gastos de funcionamiento;350000
 2022;24004;334A;446/24004;;;A la Fundación Residencia de Estudiantes para sus gastos de funcionamiento;110000
-2022;24004;334A;45;;;A Comunidades Autónomas;100000
+2022;24004;334A;45;;;A Comunidades Autónomas;150000
+2022;24004;334A;450/24004;;;A la Fundación Jordi de Sant Jordi para promoción del valenciano/catalán;50000
 2022;24004;334A;455/24004;;;A la Fundación Centro Cultural Internacional Oscar Niemeyer-Principado de Asturias, para gastos de funcionamiento, programación y actividades;100000
 2022;24004;334A;46;;;A Entidades Locales;15700000
 2022;24004;334A;461/24004;;;Al Consorcio Centro Federico García Lorca para sus actividades;200000
@@ -12343,25 +12360,30 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24004;334A;463/24004;;;Al Ayuntamiento de Toledo para las actividades conmemorativas del Centenario de Alfonso X;100000
 2022;24004;334A;464/24004;;;Al Ayuntamiento de Soria para el plan estratégico y acciones previas a la dotación de un uso cultural del edificio Banco de España;100000
 2022;24004;334A;468/24004;;;Al Ayuntamiento de Barcelona y/o a las instituciones culturales de Barcelona para la capitalidad cultural de Barcelona;15000000
-2022;24004;334A;48;;;A familias e instituciones sin fines de lucro;3190420
+2022;24004;334A;48;;;A familias e instituciones sin fines de lucro;3320420
 2022;24004;334A;480/24004;;;A fundaciones para actividades culturales y gastos de funcionamiento;2845420
 2022;24004;334A;480/24004;;11;Ayudas para la acción y promoción cultural;1990000
 2022;24004;334A;480/24004;;13;Becas de formación de profesionales de la cultura;805420
 2022;24004;334A;480/24004;;14;A la Fundación Francisco Giner de los Ríos (Institución Libre de Enseñanza) para gastos de funcionamiento;50000
+2022;24004;334A;481/24004;;;Dinamización Cultura Valls d´Àneu;30000
 2022;24004;334A;485/24004;;;A la Fundación Gala-Salvador Dalí para gastos de funcionamiento, programación y actividades;100000
-2022;24004;334A;489/24004;;;Otras ayudas y subvenciones;245000
+2022;24004;334A;489/24004;;;Otras ayudas y subvenciones;345000
 2022;24004;334A;489/24004;;05;Al Círculo de Bellas Artes para sus gastos de funcionamiento y desarrollo de actividades culturales;150000
 2022;24004;334A;489/24004;;09;Premio Nacional de Diseño de Moda;30000
 2022;24004;334A;489/24004;;10;Premio Nacional de Televisión;30000
 2022;24004;334A;489/24004;;13;A la Federación Española de Municipios y Provincias (FEMP) para el fomento de nuevas políticas culturales y evaluación de su impacto;35000
+2022;24004;334A;489/24004;;16;A la Real Sociedad Bascongada de Amigos del País para sus actividades;100000
 2022;24004;334A;6;;;INVERSIONES REALES;43000
 2022;24004;334A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;13000
 2022;24004;334A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;13000
 2022;24004;334A;64;;;Gastos de inversiones de carácter inmaterial;30000
 2022;24004;334A;640;;;Gastos en inversiones de carácter inmaterial;30000
-2022;24004;334A;7;;;TRANSFERENCIAS DE CAPITAL;5000000
-2022;24004;334A;76;;;A Entidades Locales;5000000
+2022;24004;334A;7;;;TRANSFERENCIAS DE CAPITAL;5150000
+2022;24004;334A;76;;;A Entidades Locales;5050000
+2022;24004;334A;760/24004;;;A la Fundació ProCat;50000
 2022;24004;334A;768/24004;;;Al Ayuntamiento de Barcelona y/o a las instituciones culturales de Barcelona para la capitalidad cultural de Barcelona;5000000
+2022;24004;334A;78;;;A familias e instituciones sin fines de lucro;100000
+2022;24004;334A;782/24004;;;A la Fundación Agustín Alegre para Complejo Cultural y Redes;100000
 2022;24105;334A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;10000
 2022;24105;334A;21;;;Reparaciones, mantenimiento y conservación;5000
 2022;24105;334A;212;;;Edificios y otras construcciones;5000
@@ -12440,11 +12462,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24003;334B;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;10000
 2022;24003;334B;64;;;Gastos de inversiones de carácter inmaterial;25000
 2022;24003;334B;640;;;Gastos en inversiones de carácter inmaterial;25000
-2022;24003;334B;7;;;TRANSFERENCIAS DE CAPITAL;4391880
+2022;24003;334B;7;;;TRANSFERENCIAS DE CAPITAL;3911880
 2022;24003;334B;76;;;A Entidades Locales;1100000
 2022;24003;334B;763/24003;;;"Campaña de animación a la lectura ""María Moliner"" para proyectos de animación lectora en municipios de menos de 50.000 habitantes (PFL)";1100000
-2022;24003;334B;77;;;A empresas privadas;3011880
-2022;24003;334B;772/24003;;;Actividades en desarrollo del Plan de Fomento de la Lectura (PFL);1361880
+2022;24003;334B;77;;;A empresas privadas;2531880
+2022;24003;334B;772/24003;;;Actividades en desarrollo del Plan de Fomento de la Lectura (PFL);881880
 2022;24003;334B;775/24003;;;Ayudas para la edición de libros;1150000
 2022;24003;334B;776/24003;;;Ayudas para proyectos de revalorización cultural y modernización de las librerías;500000
 2022;24003;334B;78;;;A familias e instituciones sin fines de lucro;280000
@@ -12577,11 +12599,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24107;335A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;12202310
 2022;24107;335A;441/24107;;;Programa de ayudas para actividades musicales y coreográficas de ámbito nacional;28930
 2022;24107;335A;444/24107;;;A la Fundación Nacional del Teatro Real F.S.P. para sus actividades;12173380
-2022;24107;335A;45;;;A Comunidades Autónomas;13504070
+2022;24107;335A;45;;;A Comunidades Autónomas;14604070
 2022;24107;335A;451/24107;;;Programa de ayudas para actividades musicales de ámbito nacional e internacional;86800
-2022;24107;335A;454/24107;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las comunidades autónomas;13417270
+2022;24107;335A;454/24107;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las comunidades autónomas;14517270
 2022;24107;335A;454/24107;;00;Al Consorcio del Teatro de la Maestranza y Salas del Arenal para sus actividades;2500000
-2022;24107;335A;454/24107;;04;A la Fundació Palau de les Arts de la Comunidad Valenciana para sus actividades;1000000
+2022;24107;335A;454/24107;;04;A la Fundació Palau de les Arts de la Comunidad Valenciana para sus actividades;2000000
 2022;24107;335A;454/24107;;06;Al Instituto Complutense de Ciencias Musicales para sus actividades;37730
 2022;24107;335A;454/24107;;09;Al Festival Internacional de Música y Danza de Granada para sus actividades;494580
 2022;24107;335A;454/24107;;10;A la Fundación Cante de las Minas para sus actividades;70340
@@ -12589,16 +12611,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24107;335A;454/24107;;12;A la Fundación del Gran Teatre del Liceu para sus actividades;7111120
 2022;24107;335A;454/24107;;13;A la Fundación del Gran Teatre del Liceu. Aportación adicional para necesidades de tesorería;1950000
 2022;24107;335A;454/24107;;14;Al Instituto Canario de Desarrollo Cultura S.A. para el Festival Internacional de la Música de Canarias;150000
+2022;24107;335A;454/24107;;16;Festival de Música de Torroella de Montgrí;100000
 2022;24107;335A;46;;;A Entidades Locales;1061290
 2022;24107;335A;461/24107;;;Programa de ayudas a festivales y otras actividades musicales de ámbito nacional;482220
 2022;24107;335A;464/24107;;;Apoyo a festivales, muestras, ferias y otras actividades musicales, teatrales y circenses organizadas por corporaciones locales;579070
 2022;24107;335A;464/24107;;44;A la Quincena Musical de Donostia-San Sebastián;133500
 2022;24107;335A;464/24107;;45;Al Consorci Mercat de les Flors-Centre de les Arts de Moviment;375710
 2022;24107;335A;464/24107;;47;A la Fundación Patronato Semana de Música Religiosa de Cuenca;69860
-2022;24107;335A;47;;;A empresas privadas;5850260
-2022;24107;335A;473/24107;;;Programa de ayudas para giras y producciones de personas y conjuntos musicales y coreográficos;5850260
-2022;24107;335A;48;;;A familias e instituciones sin fines de lucro;5270560
-2022;24107;335A;480/24107;;;Programas de actividades de música y danza de entidades sin fines de lucro;1671400
+2022;24107;335A;47;;;A empresas privadas;4600260
+2022;24107;335A;473/24107;;;Programa de ayudas para giras y producciones de personas y conjuntos musicales y coreográficos;4600260
+2022;24107;335A;48;;;A familias e instituciones sin fines de lucro;5420560
+2022;24107;335A;480/24107;;;Programas de actividades de música y danza de entidades sin fines de lucro;1771400
+2022;24107;335A;480/24107;;00;A la Federación de Sociedades Musicales de la Comunidad Valenciana;100000
 2022;24107;335A;480/24107;;12;A la Fundación Archivo Manuel de Falla para sus actividades;14490
 2022;24107;335A;480/24107;;13;A la Fundación Isaac Albéniz para sus actividades culturales;140000
 2022;24107;335A;480/24107;;15;A la Fundación privada Orfeó Catalá-Palau de la Música Catalana para sus actividades;197180
@@ -12608,12 +12632,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24107;335A;480/24107;;48;A la Fundación Pau Casals para sus actividades;25000
 2022;24107;335A;480/24107;;50;A la Fundación Antonio Gades para sus actividades;50000
 2022;24107;335A;481/24107;;;Programa de ayudas para actividades de música y danza de ámbito nacional e internacional;1927850
-2022;24107;335A;485/24107;;;Apoyo a programas líricos y de danza;1513610
+2022;24107;335A;485/24107;;;Apoyo a programas líricos y de danza;1563610
 2022;24107;335A;485/24107;;00;Programa de ayudas para temporadas líricas;96440
 2022;24107;335A;485/24107;;01;A la Asociación Bilbaína de Amigos de la Ópera para el desarrollo de su temporada;817500
 2022;24107;335A;485/24107;;02;A la Fundación del Festival de Ópera de Oviedo para el desarrollo de su temporada lírica;408750
 2022;24107;335A;485/24107;;03;A la Asociación de Amigos Canarios de la Ópera para la temporada de Ópera de Las Palmas;115920
 2022;24107;335A;485/24107;;04;A la Asociación de Amigos de la Ópera de A Coruña para la temporada lírica de A Coruña;75000
+2022;24107;335A;485/24107;;06;A la Fundació Òpera Catalunya;50000
 2022;24107;335A;486/24107;;;Cuotas asociativas de las unidades del INAEM;7700
 2022;24107;335A;486/24107;;01;A la Asociación Española de Documentación Musical (AEDOM);400
 2022;24107;335A;486/24107;;03;A la Asociación Española de Orquestas Sinfónicas (AEOS);3200
@@ -12714,19 +12739,20 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24107;335B;4;;;TRANSFERENCIAS CORRIENTES;12736530
 2022;24107;335B;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;654060
 2022;24107;335B;443/24107;;;A la Fundación Festival Internacional de Teatro Clásico de Almagro;654060
-2022;24107;335B;45;;;A Comunidades Autónomas;556620
-2022;24107;335B;454/24107;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las comunidades autónomas;556620
+2022;24107;335B;45;;;A Comunidades Autónomas;806620
+2022;24107;335B;454/24107;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las comunidades autónomas;806620
 2022;24107;335B;454/24107;;07;Al Consorcio Patronato del Festival Internacional de Teatro Clásico de Mérida;187500
 2022;24107;335B;454/24107;;08;A la Fundación Teatro de la Abadía. Centro de Estudios y Creación Escénica de la Comunidad Autónoma de Madrid;369120
-2022;24107;335B;46;;;A Entidades Locales;1311230
-2022;24107;335B;464/24107;;;Apoyo a festivales, muestras, ferias y otras actividades musicales, teatrales y circenses organizadas por corporaciones locales;1066550
+2022;24107;335B;454/24107;;15;Temporada Alta - Festival Tardor de Catalunya;250000
+2022;24107;335B;46;;;A Entidades Locales;1406230
+2022;24107;335B;464/24107;;;Apoyo a festivales, muestras, ferias y otras actividades musicales, teatrales y circenses organizadas por corporaciones locales;1161550
 2022;24107;335B;464/24107;;01;A la Fundación Municipal de Cultura del Ayuntamiento de Cádiz para el Festival Iberoamericano de Teatro de Cádiz;170000
 2022;24107;335B;464/24107;;05;A la Diputación de Alicante para la Muestra de Teatro Español de Autores Contemporáneos de Alicante;163430
-2022;24107;335B;464/24107;;06;A la Entidad Pública Empresarial Local Fira del Teatre al Carrer de Tárrega;86250
+2022;24107;335B;464/24107;;06;A la Entidad Pública Empresarial Local Fira del Teatre al Carrer de Tárrega;181250
 2022;24107;335B;464/24107;;07;A la Fundación Teatre Lliure-Teatre Public;646870
 2022;24107;335B;465/24107;;;Programa de ayudas para festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales;244680
-2022;24107;335B;47;;;A empresas privadas;9666820
-2022;24107;335B;475/24107;;;Programa de ayudas para la difusión nacional de la dramaturgia actual y de preservación y difusión del teatro clásico y desarrollo de la actividad circense a través de planes de comunicación y difusión en España;9666820
+2022;24107;335B;47;;;A empresas privadas;9321820
+2022;24107;335B;475/24107;;;Programa de ayudas para la difusión nacional de la dramaturgia actual y de preservación y difusión del teatro clásico y desarrollo de la actividad circense a través de planes de comunicación y difusión en España;9321820
 2022;24107;335B;48;;;A familias e instituciones sin fines de lucro;547800
 2022;24107;335B;483/24107;;;Programa de ayudas para la actividad teatral y circense de ámbito nacional de entidades sin fines de lucro;447800
 2022;24107;335B;488/24107;;;"Premios nacionales de teatro y de circo, Premio Nacional de Artes Escénicas para la Infancia y la Juventud y Premio de Teatro para Autores Noveles ""Calderón de la Barca""";100000
@@ -12737,7 +12763,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24107;335B;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;1239270
 2022;24107;335B;64;;;Gastos de inversiones de carácter inmaterial;100000
 2022;24107;335B;640;;;Gastos en inversiones de carácter inmaterial;100000
-2022;24107;335B;7;;;TRANSFERENCIAS DE CAPITAL;580000
+2022;24107;335B;7;;;TRANSFERENCIAS DE CAPITAL;680000
 2022;24107;335B;75;;;A Comunidades Autónomas;175000
 2022;24107;335B;752/24107;;;Al Consorcio de Rehabilitación de Teatros de Barcelona para ayudas a la rehabilitación de teatros privados de Barcelona;125000
 2022;24107;335B;753/24107;;;A la Fundación Teatro de la Abadía para obras y equipamientos en la sede;50000
@@ -12746,6 +12772,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24107;335B;766/24107;;;A la Fundación Teatre Lliure-Teatre Public para obras y equipamientos en la sede;30000
 2022;24107;335B;77;;;A empresas privadas;250000
 2022;24107;335B;771/24107;;;Programa de ayudas a empresas privadas para infraestructuras de circo itinerante;250000
+2022;24107;335B;78;;;A familias e instituciones sin fines de lucro;100000
+2022;24107;335B;782/24107;;;Centro Internacional de Títeres de Tolosa;100000
 2022;24107;335B;8;;;ACTIVOS FINANCIEROS;431720
 2022;24107;335B;83;;;Concesión de préstamos fuera del Sector Público;431720
 2022;24107;335B;830;;;Préstamos a corto plazo;250000
@@ -12919,13 +12947,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24106;336A;162;;04;Acción social;22730
 2022;24106;336A;162;;05;Seguros;8200
 2022;24106;336A;162;;09;Otros;19510
-2022;24106;336A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;14933240
+2022;24106;336A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;14833240
 2022;24106;336A;21;;;Reparaciones, mantenimiento y conservación;1394780
 2022;24106;336A;212;;;Edificios y otras construcciones;256200
 2022;24106;336A;213;;;Maquinaria, instalaciones y utillaje;681000
 2022;24106;336A;215;;;Mobiliario y enseres;22580
 2022;24106;336A;216;;;Equipos para procesos de la información;435000
-2022;24106;336A;22;;;Material, suministros y otros;13140860
+2022;24106;336A;22;;;Material, suministros y otros;13040860
 2022;24106;336A;220;;;Material de oficina;177200
 2022;24106;336A;220;;00;Ordinario no inventariable;19000
 2022;24106;336A;220;;01;Prensa, revistas, libros y otras publicaciones;22000
@@ -12955,10 +12983,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24106;336A;226;;06;Reuniones, conferencias y cursos;374720
 2022;24106;336A;226;;09;Actividades culturales y deportivas;360000
 2022;24106;336A;226;;99;Otros;481000
-2022;24106;336A;227;;;Trabajos realizados por otras empresas y profesionales;8442600
+2022;24106;336A;227;;;Trabajos realizados por otras empresas y profesionales;8342600
 2022;24106;336A;227;;00;Limpieza y aseo;1200000
 2022;24106;336A;227;;04;Custodia, depósito y almacenaje;32000
-2022;24106;336A;227;;06;Estudios y trabajos técnicos;7115600
+2022;24106;336A;227;;06;Estudios y trabajos técnicos;7015600
 2022;24106;336A;227;;99;Otros;95000
 2022;24106;336A;23;;;Indemnizaciones por razón del servicio;372600
 2022;24106;336A;230;;;Dietas;100000
@@ -13022,7 +13050,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24106;336A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;1463440
 2022;24106;336A;64;;;Gastos de inversiones de carácter inmaterial;505000
 2022;24106;336A;640;;;Gastos en inversiones de carácter inmaterial;505000
-2022;24106;336A;7;;;TRANSFERENCIAS DE CAPITAL;12461150
+2022;24106;336A;7;;;TRANSFERENCIAS DE CAPITAL;12761150
 2022;24106;336A;75;;;A Comunidades Autónomas;3100000
 2022;24106;336A;750/24106;;;A comunidades autónomas para obras y equipamiento en infraestructuras deportivas;400000
 2022;24106;336A;750/24106;;01;A universidades públicas para obras y equipamiento deportivo con motivo de la organización de campeonatos internacionales;400000
@@ -13030,16 +13058,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24106;336A;751/24106;;03;Al Centro de Alto Rendimiento Deportivo de San Cugat (Barcelona) para la construcción de nuevas instalaciones deportivas y modernización;500000
 2022;24106;336A;751/24106;;04;A comunidades autónomas para equipamiento de centros de tecnificación;1000000
 2022;24106;336A;754/24106;;;Ayudas para la actualización del Censo Nacional de Instalaciones Deportivas;1200000
-2022;24106;336A;76;;;A Entidades Locales;6356150
+2022;24106;336A;76;;;A Entidades Locales;6556150
 2022;24106;336A;765/24106;;;A corporaciones locales para otras obras;5055160
-2022;24106;336A;766/24106;;;A entidades locales para instalaciones deportivas;1300990
+2022;24106;336A;766/24106;;;A entidades locales para instalaciones deportivas;1500990
+2022;24106;336A;766/24106;;01;Al Ajuntament de Térmens para reforma del campo de fútbol municipal;200000
 2022;24106;336A;766/24106;;31;Al Ayuntamiento de Ponferrada para adecuación de las pistas de atletismo municipales;300000
 2022;24106;336A;766/24106;;32;Al Ayuntamiento de Sabadell para obras de mejora de instalaciones deportivas municipales;100000
 2022;24106;336A;766/24106;;33;Al Ayuntamiento de Monforte de Lemos para obras de mejora de instalaciones deportivas municipales;550990
 2022;24106;336A;766/24106;;34;Al Ayuntamiento de Orellana la Vieja para obras de mejora de las infraestructuras deportivas en su tercera fase del Centro Ibérico de Vela;350000
 2022;24106;336A;77;;;A empresas privadas;80000
 2022;24106;336A;770/24106;;;A universidades privadas para obras y equipamiento deportivo con motivo de la organización de campeonatos internacionales;80000
-2022;24106;336A;78;;;A familias e instituciones sin fines de lucro;2925000
+2022;24106;336A;78;;;A familias e instituciones sin fines de lucro;3025000
+2022;24106;336A;780/24106;;;Reconstrucción de la piscina histórica cubierta de saltos del Club Natació Barcelona;100000
 2022;24106;336A;781/24106;;;A federaciones deportivas españolas para instalaciones deportivas y equipamiento;650000
 2022;24106;336A;781/24106;;00;A federaciones deportivas españolas para instalaciones deportivas y equipamiento;500000
 2022;24106;336A;781/24106;;04;A la Federación Española de Pelota para reforma y adecuación del frontón de la Universidad Complutense de Madrid;150000
@@ -13354,13 +13384,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24005;337B;631/24005;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales;10000
 2022;24005;337B;64;;;Gastos de inversiones de carácter inmaterial;700000
 2022;24005;337B;640;;;Gastos en inversiones de carácter inmaterial;700000
-2022;24005;337B;7;;;TRANSFERENCIAS DE CAPITAL;675000
+2022;24005;337B;7;;;TRANSFERENCIAS DE CAPITAL;935000
 2022;24005;337B;75;;;A Comunidades Autónomas;25000
 2022;24005;337B;756/24005;;;Ayudas en concurrencia competitiva a proyectos de salvaguardia del patrimonio cultural inmaterial;25000
-2022;24005;337B;76;;;A Entidades Locales;625000
-2022;24005;337B;760/24005;;;A ayuntamientos, diputaciones y otros entes locales;600000
+2022;24005;337B;76;;;A Entidades Locales;885000
+2022;24005;337B;760/24005;;;A ayuntamientos, diputaciones y otros entes locales;860000
 2022;24005;337B;760/24005;;01;Al Ayuntamiento de Toledo para la recuperación y musealización del yacimiento arqueológico de la Vega Baja;500000
-2022;24005;337B;760/24005;;03;Al Ayuntamiento de Sestao para la restauración del Alto Horno de Sestao;100000
+2022;24005;337B;760/24005;;03;Al Ayuntamiento de Sestao para la restauración del Alto Horno de Sestao;300000
+2022;24005;337B;760/24005;;04;Al Ajuntament de Portbou para Proyecto de la Casa de Walter Benjamin;60000
 2022;24005;337B;766/24005;;;Ayudas en concurrencia competitiva a proyectos de salvaguardia del patrimonio cultural inmaterial;25000
 2022;24005;337B;78;;;A familias e instituciones sin fines de lucro;25000
 2022;24005;337B;786/24005;;;Ayudas en concurrencia competitiva a proyectos de salvaguardia del patrimonio cultural inmaterial;25000
@@ -13417,14 +13448,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24005;337C;3;;;GASTOS FINANCIEROS;5000
 2022;24005;337C;35;;;Intereses de demora y otros gastos financieros;5000
 2022;24005;337C;352;;;Intereses de demora;5000
-2022;24005;337C;4;;;TRANSFERENCIAS CORRIENTES;1422210
+2022;24005;337C;4;;;TRANSFERENCIAS CORRIENTES;1522210
 2022;24005;337C;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;350000
 2022;24005;337C;441/24005;;;A la Fundación Centro Nacional del Vidrio para sus gastos de funcionamiento;350000
 2022;24005;337C;45;;;A Comunidades Autónomas;560000
 2022;24005;337C;450/24005;;;A la Fundación Real Fábrica de Tapices para el desarrollo de sus actividades;510000
 2022;24005;337C;457/24005;;;A la Sociedad regional de Educación, Cultura y Deporte para gastos de funcionamiento del Centro de Categoría 2 UNESCO;50000
-2022;24005;337C;48;;;A familias e instituciones sin fines de lucro;450000
-2022;24005;337C;485/24005;;;Otras transferencias;420000
+2022;24005;337C;48;;;A familias e instituciones sin fines de lucro;550000
+2022;24005;337C;485/24005;;;Otras transferencias;520000
+2022;24005;337C;485/24005;;00;A la Fundación Catedral Santa María;100000
 2022;24005;337C;485/24005;;02;Al Grupo Ciudades Patrimonio de la Humanidad de España para elaboración de planes de gestión de las ciudades declaradas Patrimonio Mundial y celebración de la Noche del Patrimonio;210000
 2022;24005;337C;485/24005;;07;A la Asociación Campaners de Albaida para la elaboración de inventarios y registros sobre el toque manual de campanas;20000
 2022;24005;337C;485/24005;;11;A la Fundación del Toro de Lidia para la compilación del conjunto de conocimientos y actividades artísticas, creativas y productivas que integran la Tauromaquia como patrimonio cultural y su difusión en el entorno digital;35000
@@ -13442,20 +13474,21 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;24005;337C;491/24005;;08;Cuota al Consejo Internacional de Monumentos y Sitios (ICOMOS). Comité Nacional Español;3000
 2022;24005;337C;491/24005;;12;A Spain-USA Foundation para la defensa de los intereses españoles en los buques hundidos en aguas norteamericanas;20000
 2022;24005;337C;491/24005;;13;A ICOM España para pago de la cuota;830
-2022;24005;337C;6;;;INVERSIONES REALES;4931120
-2022;24005;337C;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;4750500
-2022;24005;337C;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;4724500
+2022;24005;337C;6;;;INVERSIONES REALES;2231120
+2022;24005;337C;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;2050500
+2022;24005;337C;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;2024500
 2022;24005;337C;621/24005;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de junio,del Patrimonio Histórico Español para adquisición de bienes culturales;25000
 2022;24005;337C;622;;;Pago de indemnizaciones a que se refiere la Ley 36/1994, de 23 de diciembre, de incorporación de la Directiva 93/7 de la CEE relativa a la restitución de bienes culturales que hayan salido del territorio de un estado miembro y pago de los costes derivados de la devolución de bienes culturales previsto en el instrumento de adhesión de España al Convenio UNIDROIT sobre bienes culturales robados o exportados ilegalmente de 24 de junio de 1995;1000
 2022;24005;337C;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;61000
 2022;24005;337C;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;61000
 2022;24005;337C;64;;;Gastos de inversiones de carácter inmaterial;119620
 2022;24005;337C;640;;;Gastos en inversiones de carácter inmaterial;119620
-2022;24005;337C;7;;;TRANSFERENCIAS DE CAPITAL;740000
+2022;24005;337C;7;;;TRANSFERENCIAS DE CAPITAL;890000
 2022;24005;337C;75;;;A Comunidades Autónomas;80000
 2022;24005;337C;751/24005;;;Aportación institucional al Consorcio de la Ciudad Monumental, Histórico-Artística y Arqueológica de Mérida para actuaciones arqueológicas;80000
-2022;24005;337C;76;;;A Entidades Locales;660000
-2022;24005;337C;760/24005;;;A ayuntamientos, diputaciones y otros entes locales;60000
+2022;24005;337C;76;;;A Entidades Locales;810000
+2022;24005;337C;760/24005;;;A ayuntamientos, diputaciones y otros entes locales;210000
+2022;24005;337C;760/24005;;05;Al Ayuntamiento de Albinyana. Adquisición y acondicionamiento de una cueva con pinturas rupestres clasificada como BCIN;150000
 2022;24005;337C;760/24005;;65;Aportación institucional al Consorcio de la Ciudad Romana de Pollentia;60000
 2022;24005;337C;761/24005;;;Ayudas a proyectos de conservación, protección y difusión de bienes declarados Patrimonio Mundial;600000
 2022;25103;337D;1;;;GASTOS DE PERSONAL;1295190
@@ -13706,7 +13739,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;21001;411M;162;;04;Acción social;231530
 2022;21001;411M;162;;05;Seguros;358450
 2022;21001;411M;162;;09;Otros;26300
-2022;21001;411M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;21721920
+2022;21001;411M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;21621920
 2022;21001;411M;20;;;Arrendamientos y cánones;1370000
 2022;21001;411M;202;;;Arrendamientos de edificios y otras construcciones;910000
 2022;21001;411M;203;;;Arrendamientos de maquinaria, instalaciones y utillaje;15000
@@ -13722,7 +13755,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;21001;411M;216;;;Equipos para procesos de la información;906710
 2022;21001;411M;218;;;Bienes situados en el exterior;27000
 2022;21001;411M;219;;;Otro inmovilizado material;15000
-2022;21001;411M;22;;;Material, suministros y otros;13622380
+2022;21001;411M;22;;;Material, suministros y otros;13522380
 2022;21001;411M;220;;;Material de oficina;265000
 2022;21001;411M;220;;00;Ordinario no inventariable;85000
 2022;21001;411M;220;;01;Prensa, revistas, libros y otras publicaciones;50000
@@ -13761,11 +13794,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;21001;411M;226;;07;Oposiciones y pruebas selectivas;8000
 2022;21001;411M;226;;15;Gastos diversos en el exterior;18000
 2022;21001;411M;226;;99;Otros;39000
-2022;21001;411M;227;;;Trabajos realizados por otras empresas y profesionales;5449880
+2022;21001;411M;227;;;Trabajos realizados por otras empresas y profesionales;5349880
 2022;21001;411M;227;;00;Limpieza y aseo;299420
 2022;21001;411M;227;;01;Seguridad;450000
 2022;21001;411M;227;;05;Procesos electorales y consultas populares;1070110
-2022;21001;411M;227;;06;Estudios y trabajos técnicos;3373000
+2022;21001;411M;227;;06;Estudios y trabajos técnicos;3273000
 2022;21001;411M;227;;15;Trabajos realizados por otras empresas y profesionales en el exterior;17350
 2022;21001;411M;227;;99;Otros;240000
 2022;21001;411M;23;;;Indemnizaciones por razón del servicio;2425830
@@ -13827,11 +13860,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;21001;411M;490/21001;;68;Contribución a la Iniciativa Internacional 4 por 1000. (INICIATIVA 4 POR 1000);20200
 2022;21001;411M;490/21001;;69;Contribución al Sistema de Información de Mercados Agrícolas (AMIS);10000
 2022;21001;411M;490/21001;;70;Fondo para variaciones de cuotas y cambio de moneda;50000
-2022;21001;411M;6;;;INVERSIONES REALES;9346500
+2022;21001;411M;6;;;INVERSIONES REALES;8900500
 2022;21001;411M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;216460
 2022;21001;411M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;216460
-2022;21001;411M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2988370
-2022;21001;411M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2988370
+2022;21001;411M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2542370
+2022;21001;411M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2542370
 2022;21001;411M;64;;;Gastos de inversiones de carácter inmaterial;6141670
 2022;21001;411M;640;;;Gastos en inversiones de carácter inmaterial;6141670
 2022;21001;411M;7;;;TRANSFERENCIAS DE CAPITAL;6759380
@@ -14041,16 +14074,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;21006;412D;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;125000
 2022;21006;412D;64;;;Gastos de inversiones de carácter inmaterial;18406450
 2022;21006;412D;640;;;Gastos en inversiones de carácter inmaterial;18406450
-2022;21006;412D;7;;;TRANSFERENCIAS DE CAPITAL;21081470
-2022;21006;412D;75;;;A Comunidades Autónomas;21081470
-2022;21006;412D;752/21006;;;Sanidad de la producción agraria;21081470
+2022;21006;412D;7;;;TRANSFERENCIAS DE CAPITAL;21581470
+2022;21006;412D;75;;;A Comunidades Autónomas;21581470
+2022;21006;412D;752/21006;;;Sanidad de la producción agraria;21581470
 2022;21006;412D;752/21006;;02;Fomento de agrupaciones fitosanitarias y de producción integrada;1000
-2022;21006;412D;752/21006;;03;Prevención y lucha contra plagas;10072190
+2022;21006;412D;752/21006;;03;Prevención y lucha contra plagas;10572190
 2022;21006;412D;752/21006;;04;Programas estatales de erradicación de enfermedades de los animales;11007280
 2022;21006;412D;752/21006;;05;Fomento de asociacionismo para la defensa sanitaria ganadera;1000
-2022;21004;412M;4;;;TRANSFERENCIAS CORRIENTES;50908840
-2022;21004;412M;49;;;Al exterior;50908840
-2022;21004;412M;490/21004;;;Abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantía Agraria (FEGA) de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEAGA;50908840
+2022;21004;412M;4;;;TRANSFERENCIAS CORRIENTES;50408840
+2022;21004;412M;49;;;Al exterior;50408840
+2022;21004;412M;490/21004;;;Abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantía Agraria (FEGA) de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEAGA;50408840
 2022;21101;412M;1;;;GASTOS DE PERSONAL;4092100
 2022;21101;412M;12;;;Funcionarios;3120640
 2022;21101;412M;120;;;Retribuciones básicas;1710910
@@ -14266,7 +14299,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;21007;413A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;950000
 2022;21007;413A;64;;;Gastos de inversiones de carácter inmaterial;20403340
 2022;21007;413A;640;;;Gastos en inversiones de carácter inmaterial;20403340
-2022;21007;413A;7;;;TRANSFERENCIAS DE CAPITAL;2925000
+2022;21007;413A;7;;;TRANSFERENCIAS DE CAPITAL;3025000
+2022;21007;413A;75;;;A Comunidades Autónomas;100000
+2022;21007;413A;750/21007;;;Al Gobierno de Aragón para la creación del Consejo Regulador de la trufa y panel de la cata de la trufa;100000
 2022;21007;413A;77;;;A empresas privadas;909270
 2022;21007;413A;771/21007;;;Fomento del cooperativismo agrario para la estructuración de la oferta;909270
 2022;21007;413A;78;;;A familias e instituciones sin fines de lucro;2015730
@@ -14304,6 +14339,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;21008;414A;64;;;Gastos de inversiones de carácter inmaterial;4630470
 2022;21008;414A;640;;;Gastos en inversiones de carácter inmaterial;2500470
 2022;21008;414A;641/21008;;;Inversiones inmateriales relacionadas con las inversiones en infraestructuras rurales;2130000
+2022;21008;414A;7;;;TRANSFERENCIAS DE CAPITAL;446000
+2022;21008;414A;76;;;A Entidades Locales;446000
+2022;21008;414A;760/21008;;;A ayuntamientos, diputaciones y otros entes locales;446000
+2022;21008;414A;760/21008;;01;Al Ayuntamiento de Preixana. Ayudas al acondicionamiento de caminos rurales asociados a la zona de regadío del Segarra-Garrigues;446000
 2022;21008;414A;8;;;ACTIVOS FINANCIEROS;2003320
 2022;21008;414A;85;;;Adquisición de acciones y participaciones del Sector Público;2003320
 2022;21008;414A;851/21008;;;Sociedad Estatal de Infraestructuras Agrarias, S.A. (SEIASA);2003320
@@ -14524,12 +14563,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;21102;416A;3;;;GASTOS FINANCIEROS;15000
 2022;21102;416A;35;;;Intereses de demora y otros gastos financieros;15000
 2022;21102;416A;352;;;Intereses de demora;15000
-2022;21102;416A;4;;;TRANSFERENCIAS CORRIENTES;257855150
+2022;21102;416A;4;;;TRANSFERENCIAS CORRIENTES;258855150
 2022;21102;416A;45;;;A Comunidades Autónomas;126000
 2022;21102;416A;450/21102;;;Centro de Estudios e Investigación para la Gestión de Riesgos Agrarios y Medioambientales (CEIGRAM), para atender gastos que aseguren y den continuidad a su funcionamiento;126000
-2022;21102;416A;47;;;A empresas privadas;256735350
-2022;21102;416A;471/21102;;;Plan Anual de Seguros Agrarios y liquidación de planes anteriores;256735350
-2022;21102;416A;471/21102;;00;Plan Anual de Seguros Agrarios y liquidación de planes anteriores;256735350
+2022;21102;416A;47;;;A empresas privadas;257735350
+2022;21102;416A;471/21102;;;Plan Anual de Seguros Agrarios y liquidación de planes anteriores;257735350
+2022;21102;416A;471/21102;;00;Plan Anual de Seguros Agrarios y liquidación de planes anteriores;257735350
 2022;21102;416A;48;;;A familias e instituciones sin fines de lucro;993800
 2022;21102;416A;483/21102;;;Familias e instituciones sin fines de lucro;28800
 2022;21102;416A;483/21102;;00;Becas relacionadas con la gestion de riesgos;28800
@@ -14722,11 +14761,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;20001;421M;48;;;A familias e instituciones sin fines de lucro;250750
 2022;20001;421M;480/20001;;;Para concesión de becas, asistencia a congresos, cursos, seminarios y otras subvenciones;237370
 2022;20001;421M;481/20001;;;Para premios a la innovación;13380
-2022;20001;421M;6;;;INVERSIONES REALES;11912600
+2022;20001;421M;6;;;INVERSIONES REALES;11862600
 2022;20001;421M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1018340
 2022;20001;421M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1018340
-2022;20001;421M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;3814820
-2022;20001;421M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;3814820
+2022;20001;421M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;3764820
+2022;20001;421M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;3764820
 2022;20001;421M;64;;;Gastos de inversiones de carácter inmaterial;7079440
 2022;20001;421M;640;;;Gastos en inversiones de carácter inmaterial;7079440
 2022;20001;421M;8;;;ACTIVOS FINANCIEROS;173940
@@ -15157,11 +15196,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;20009;422M;441/20009;;;Al ICO para compensación de quebrantos por préstamo concedido a Abenewco 1, S.A.U.;1750000
 2022;20009;422M;49;;;Al exterior;28000
 2022;20009;422M;490/20009;;;Contribución de España al presupuesto del Comité del Acero de la OCDE;28000
-2022;20009;422M;7;;;TRANSFERENCIAS DE CAPITAL;53467360
+2022;20009;422M;6;;;INVERSIONES REALES;1000000
+2022;20009;422M;64;;;Gastos de inversiones de carácter inmaterial;1000000
+2022;20009;422M;640;;;Gastos en inversiones de carácter inmaterial;1000000
+2022;20009;422M;7;;;TRANSFERENCIAS DE CAPITAL;52467360
 2022;20009;422M;75;;;A Comunidades Autónomas;5000000
 2022;20009;422M;752/20009;;;A la Comunidad Autónoma de Castilla y León para la potenciación de infraestructuras industriales en Villadangos del Páramo;5000000
-2022;20009;422M;77;;;A empresas privadas;48467360
-2022;20009;422M;775/20009;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores;48467360
+2022;20009;422M;77;;;A empresas privadas;47467360
+2022;20009;422M;775/20009;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores;47467360
 2022;20009;422M;8;;;ACTIVOS FINANCIEROS;650000000
 2022;20009;422M;87;;;Aportaciones patrimoniales;650000000
 2022;20009;422M;870;;;Aportaciones patrimoniales;650000000
@@ -15379,9 +15421,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23009;425A;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;494020
 2022;23009;425A;160;;;Cuotas sociales;494020
 2022;23009;425A;160;;00;Seguridad Social;494020
-2022;23009;425A;6;;;INVERSIONES REALES;7672190
-2022;23009;425A;64;;;Gastos de inversiones de carácter inmaterial;7672190
-2022;23009;425A;640;;;Gastos en inversiones de carácter inmaterial;7672190
+2022;23009;425A;6;;;INVERSIONES REALES;5495690
+2022;23009;425A;64;;;Gastos de inversiones de carácter inmaterial;5495690
+2022;23009;425A;640;;;Gastos en inversiones de carácter inmaterial;5495690
 2022;27302;425A;7;;;TRANSFERENCIAS DE CAPITAL;3694615000
 2022;27302;425A;77;;;A empresas privadas;3694615000
 2022;27302;425A;777/27302;;;Para financiar costes del sector eléctrico, de acuerdo con el artículo 30.4 de la Ley 7/2021, de 20 de mayo, de Cambio Climático y Transición Energética;1100000000
@@ -15727,11 +15769,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;20004;432A;3;;;GASTOS FINANCIEROS;1040000
 2022;20004;432A;35;;;Intereses de demora y otros gastos financieros;1040000
 2022;20004;432A;359;;;Otros gastos financieros;1040000
-2022;20004;432A;4;;;TRANSFERENCIAS CORRIENTES;5250000
+2022;20004;432A;4;;;TRANSFERENCIAS CORRIENTES;5300000
 2022;20004;432A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;5000000
 2022;20004;432A;441/20004;;;"Al ICO para reposición de Fondo de Provisión por garantía de operaciones de la línea ""ICO Empresas y Emprendedores 2019-2021""";5000000
-2022;20004;432A;48;;;A familias e instituciones sin fines de lucro;100000
+2022;20004;432A;48;;;A familias e instituciones sin fines de lucro;150000
 2022;20004;432A;480/20004;;;A la Fundación Mas Miró;100000
+2022;20004;432A;481/20004;;;Terres travel festival Certamen Internacional d'Audiovisual;50000
 2022;20004;432A;49;;;Al exterior;150000
 2022;20004;432A;491/20004;;;Cuota a la Organización Mundial del Turismo;150000
 2022;20004;432A;6;;;INVERSIONES REALES;2306700
@@ -16424,9 +16467,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17020;451N;49;;;Al exterior;1000
 2022;17020;451N;491/17020;;;Cuotas a Organismos Internacionales;1000
 2022;17020;451N;491/17020;;00;European Partnership on Connected, Cooperative and Automated Mobility (CCAM);1000
-2022;17020;451N;6;;;INVERSIONES REALES;5000000
-2022;17020;451N;64;;;Gastos de inversiones de carácter inmaterial;5000000
-2022;17020;451N;640;;;Gastos en inversiones de carácter inmaterial;5000000
+2022;17020;451N;6;;;INVERSIONES REALES;4400000
+2022;17020;451N;64;;;Gastos de inversiones de carácter inmaterial;4400000
+2022;17020;451N;640;;;Gastos en inversiones de carácter inmaterial;4400000
 2022;17020;451N;7;;;TRANSFERENCIAS DE CAPITAL;427542870
 2022;17020;451N;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;4631190
 2022;17020;451N;741/17020;;;Sociedad Española de Estudios para la Comunicación Fija a través del Estrecho de Gibraltar, S.A. (SECEGSA);100000
@@ -16607,7 +16650,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23012;451O;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;1538410
 2022;23012;451O;160;;;Cuotas sociales;1538410
 2022;23012;451O;160;;00;Seguridad Social;1538410
-2022;23012;451O;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;21526260
+2022;23012;451O;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;21426260
 2022;23012;451O;20;;;Arrendamientos y cánones;988000
 2022;23012;451O;202;;;Arrendamientos de edificios y otras construcciones;985000
 2022;23012;451O;203;;;Arrendamientos de maquinaria, instalaciones y utillaje;1000
@@ -16621,7 +16664,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23012;451O;216;;;Equipos para procesos de la información;720000
 2022;23012;451O;218;;;Bienes situados en el exterior;6000
 2022;23012;451O;219;;;Otro inmovilizado material;5000
-2022;23012;451O;22;;;Material, suministros y otros;16415260
+2022;23012;451O;22;;;Material, suministros y otros;16315260
 2022;23012;451O;220;;;Material de oficina;625000
 2022;23012;451O;220;;00;Ordinario no inventariable;248000
 2022;23012;451O;220;;01;Prensa, revistas, libros y otras publicaciones;159000
@@ -16659,10 +16702,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23012;451O;226;;15;Gastos diversos en el exterior;3000
 2022;23012;451O;226;;89;Gastos política forestal MITERD-MAPA;487000
 2022;23012;451O;226;;99;Otros;50000
-2022;23012;451O;227;;;Trabajos realizados por otras empresas y profesionales;7421260
+2022;23012;451O;227;;;Trabajos realizados por otras empresas y profesionales;7321260
 2022;23012;451O;227;;00;Limpieza y aseo;570260
 2022;23012;451O;227;;01;Seguridad;1671000
-2022;23012;451O;227;;06;Estudios y trabajos técnicos;4995000
+2022;23012;451O;227;;06;Estudios y trabajos técnicos;4895000
 2022;23012;451O;227;;15;Trabajos realizados por otras empresas y profesionales en el exterior;3000
 2022;23012;451O;227;;99;Otros;182000
 2022;23012;451O;23;;;Indemnizaciones por razón del servicio;1365000
@@ -16689,13 +16732,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23012;451O;487/23012;;02;A ECOLOGISTAS EN ACCIÓN-CODA para fomentar su participación en el Consejo Asesor de Medio Ambiente (CAMA);700000
 2022;23012;451O;487/23012;;03;A la Sociedad Española de Ornitología (SEO/BirdLIFE) para fomentar su participación en el Consejo Asesor de Medio Ambiente (CAMA);700000
 2022;23012;451O;487/23012;;04;A WWF España para fomentar su participación en el Consejo Asesor de Medio Ambiente (CAMA);700000
-2022;23012;451O;6;;;INVERSIONES REALES;13246230
+2022;23012;451O;6;;;INVERSIONES REALES;11246230
 2022;23012;451O;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;3016030
 2022;23012;451O;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;3016030
 2022;23012;451O;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;958630
 2022;23012;451O;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;958630
-2022;23012;451O;64;;;Gastos de inversiones de carácter inmaterial;9271570
-2022;23012;451O;640;;;Gastos en inversiones de carácter inmaterial;9271570
+2022;23012;451O;64;;;Gastos de inversiones de carácter inmaterial;7271570
+2022;23012;451O;640;;;Gastos en inversiones de carácter inmaterial;7271570
 2022;23012;451O;8;;;ACTIVOS FINANCIEROS;161670
 2022;23012;451O;83;;;Concesión de préstamos fuera del Sector Público;155670
 2022;23012;451O;830;;;Préstamos a corto plazo;7360
@@ -16731,12 +16774,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23005;452A;4;;;TRANSFERENCIAS CORRIENTES;8000000
 2022;23005;452A;45;;;A Comunidades Autónomas;8000000
 2022;23005;452A;451/23005;;;Para abaratar a los agricultores el sobrecoste de la desalación y de la extracción de agua de pozos y de galerías para el riego agrícola en Canarias;8000000
-2022;23005;452A;6;;;INVERSIONES REALES;213831310
+2022;23005;452A;6;;;INVERSIONES REALES;212756310
 2022;23005;452A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;10604260
 2022;23005;452A;601;;;Otras;10104260
 2022;23005;452A;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores;500000
-2022;23005;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;191740400
-2022;23005;452A;611;;;Otras;191240400
+2022;23005;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;190665400
+2022;23005;452A;611;;;Otras;190165400
 2022;23005;452A;619/23005;;;Incidencias de inversiones de ejercicios anteriores;500000
 2022;23005;452A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;303250
 2022;23005;452A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;303250
@@ -17053,14 +17096,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23104;452A;4;;;TRANSFERENCIAS CORRIENTES;45000
 2022;23104;452A;45;;;A Comunidades Autónomas;45000
 2022;23104;452A;451/23104;;;Universidad de Zaragoza, para financiar Jornadas de Derecho sobre Agua;45000
-2022;23104;452A;6;;;INVERSIONES REALES;31588500
-2022;23104;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;23697000
-2022;23104;452A;610;;;Inversiones en terrenos;23587000
+2022;23104;452A;6;;;INVERSIONES REALES;31663500
+2022;23104;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;27422000
+2022;23104;452A;610;;;Inversiones en terrenos;27312000
 2022;23104;452A;611;;;Otras;110000
 2022;23104;452A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;2401500
 2022;23104;452A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;2401500
-2022;23104;452A;64;;;Gastos de inversiones de carácter inmaterial;5490000
-2022;23104;452A;640;;;Gastos en inversiones de carácter inmaterial;5490000
+2022;23104;452A;64;;;Gastos de inversiones de carácter inmaterial;1840000
+2022;23104;452A;640;;;Gastos en inversiones de carácter inmaterial;1840000
 2022;23104;452A;8;;;ACTIVOS FINANCIEROS;45000
 2022;23104;452A;83;;;Concesión de préstamos fuera del Sector Público;45000
 2022;23104;452A;831;;;Préstamos a largo plazo;45000
@@ -17884,10 +17927,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17040;453A;445/17040;;;ADIF para compensación de reducción de tarifas;16193000
 2022;17040;453A;446/17040;;;ADIF para compensación del resto de actividades;47121000
 2022;17040;453A;6;;;INVERSIONES REALES;12000000
-2022;17040;453A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;10500000
-2022;17040;453A;601;;;Otras;10500000
-2022;17040;453A;64;;;Gastos de inversiones de carácter inmaterial;1500000
-2022;17040;453A;640;;;Gastos en inversiones de carácter inmaterial;1500000
+2022;17040;453A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;11100000
+2022;17040;453A;601;;;Otras;11100000
+2022;17040;453A;64;;;Gastos de inversiones de carácter inmaterial;900000
+2022;17040;453A;640;;;Gastos en inversiones de carácter inmaterial;900000
 2022;17040;453A;7;;;TRANSFERENCIAS DE CAPITAL;81710000
 2022;17040;453A;75;;;A Comunidades Autónomas;79710000
 2022;17040;453A;752/17040;;;A la comunidad Autónoma de Euskadi por la disposición adicional cuarta de la Ley 12/2002 y disposiciones concordantes;77710000
@@ -17908,6 +17951,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17020;453B;6;;;INVERSIONES REALES;1000
 2022;17020;453B;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;1000
 2022;17020;453B;603/17020;;;Liquidación de la inversión realizada en la autopista AP-7, de acuerdo con el Real Decreto 457/2006, de 7 de abril;1000
+2022;17020;453B;7;;;TRANSFERENCIAS DE CAPITAL;2000000
+2022;17020;453B;75;;;A Comunidades Autónomas;2000000
+2022;17020;453B;753/17020;;;A la Comunidad Autónoma del País Vasco para el proyecto y ejecución de una pista ciclable entre Irurtzun y Agurain;1000000
+2022;17020;453B;754/17020;;;A la Comunidad Autónoma de Cataluña para la ruta ciclabe Eurovelo 8;1000000
 2022;17038;453B;1;;;GASTOS DE PERSONAL;36296560
 2022;17038;453B;10;;;Altos cargos;61040
 2022;17038;453B;100;;;Retribuciones básicas y otras remuneraciones;61040
@@ -17943,17 +17990,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17038;453B;226;;99;Otros;36720
 2022;17038;453B;227;;;Trabajos realizados por otras empresas y profesionales;200000
 2022;17038;453B;227;;06;Estudios y trabajos técnicos;200000
-2022;17038;453B;6;;;INVERSIONES REALES;1051101540
-2022;17038;453B;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;819577750
-2022;17038;453B;601;;;Otras;809076750
+2022;17038;453B;6;;;INVERSIONES REALES;1054621540
+2022;17038;453B;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;824277750
+2022;17038;453B;601;;;Otras;813776750
 2022;17038;453B;602/17038;;;Destinado a atender los efectos derivados de la resolución de los contratos de concesión de obra pública;1000
 2022;17038;453B;609/17038;;;Expropiaciones, modificados adicionales y otras incidencias de inversiones de ejercicios anteriores;10500000
-2022;17038;453B;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;230192350
-2022;17038;453B;611;;;Otras;227192350
+2022;17038;453B;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;229012350
+2022;17038;453B;611;;;Otras;226012350
 2022;17038;453B;619/17038;;;Expropiaciones, modificados adicionales y otras incidencias de ejercicios anteriores;3000000
 2022;17038;453B;64;;;Gastos de inversiones de carácter inmaterial;1331440
 2022;17038;453B;640;;;Gastos en inversiones de carácter inmaterial;1331440
-2022;17038;453B;7;;;TRANSFERENCIAS DE CAPITAL;438200000
+2022;17038;453B;7;;;TRANSFERENCIAS DE CAPITAL;439300000
 2022;17038;453B;75;;;A Comunidades Autónomas;429500000
 2022;17038;453B;755/17038;;;Convenio con la Comunidad Autónoma de Canarias;210000000
 2022;17038;453B;756/17038;;;Ejecución sentencias del Tribunal Supremo 2075/2017, 255/2018, 415/2018 y 1095/2018, derivadas del convenio de colaboración entre la Administración General del Estado y la Comunidad Autónoma de Canarias de 31 de enero de 2006;200000000
@@ -17961,14 +18008,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17038;453B;758/17038;;01;Al Gobierno de Navarra para actuaciones en la N-121 de su titularidad que den continuidad a la Red de carreteras del Estado en la Comunidad Foral;15000000
 2022;17038;453B;758/17038;;02;A la Junta de Extremadura para adecuación N-630a (Tramo: Av. de España y Av. Martín Palomino. Plasencia);500000
 2022;17038;453B;759/17038;;;A la Comunidad Autónoma de la Región de Murcia para actuaciones en la Autovía Alquerías-Santomera;4000000
-2022;17038;453B;76;;;A Entidades Locales;8700000
+2022;17038;453B;76;;;A Entidades Locales;9800000
 2022;17038;453B;763/17038;;;CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas;1200000
 2022;17038;453B;763/17038;;00;Resto de actuaciones por asunción de competencias por cambio de titularidad en tramos de carreteras estatales a vías urbanas;1200000
 2022;17038;453B;767;;;Al Cabildo Insular de La Palma para la mejora de la carretera de acceso al Instituto Astrofísico de Canarias;1000000
-2022;17038;453B;768/17038;;;Resto de Transferencias a Entidades Locales;6500000
+2022;17038;453B;768/17038;;;Resto de Transferencias a Entidades Locales;7600000
 2022;17038;453B;768/17038;;03;Al Ayuntamiento de Las Palmas de Gran Canaria para financiar el proyecto Metroguagua;5000000
 2022;17038;453B;768/17038;;09;Convenio con el Ayuntamiento de Valencia para la rehabilitación Torre Miramar;100000
 2022;17038;453B;768/17038;;10;Convenio con la Diputación Foral de Álava por obras de ampliación de la AP-1. Enlace de Armiñón;1400000
+2022;17038;453B;768/17038;;12;Ajuntament Sant Just Desvern. Construcción plataforma para peatones sobre la autopísta B-23;1000000
+2022;17038;453B;768/17038;;13;Al Ayuntamiento de Portbou. Redacción del proyecto del vial de servicio de mercancías para la estación de tren de Portbou;100000
 2022;17038;453C;1;;;GASTOS DE PERSONAL;20256340
 2022;17038;453C;12;;;Funcionarios;7268760
 2022;17038;453C;120;;;Retribuciones básicas;3845260
@@ -18029,9 +18078,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17038;453C;227;;01;Seguridad;42750
 2022;17038;453C;227;;06;Estudios y trabajos técnicos;2050000
 2022;17038;453C;227;;99;Otros;10840
-2022;17038;453C;6;;;INVERSIONES REALES;1152363340
-2022;17038;453C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;1151953350
-2022;17038;453C;611;;;Otras;1147453350
+2022;17038;453C;6;;;INVERSIONES REALES;1146293340
+2022;17038;453C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;1145883350
+2022;17038;453C;611;;;Otras;1141383350
 2022;17038;453C;619/17038;;;Expropiaciones, modificados adicionales y otras incidencias de ejercicios anteriores;4500000
 2022;17038;453C;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;409990
 2022;17038;453C;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;409990
@@ -18516,7 +18565,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23005;456A;490/23005;;;Unión Europea, para el pago de indemnizaciones derivadas de Sentencia del Tribunal de Justicia de la Unión Europea;17589300
 2022;23005;456A;6;;;INVERSIONES REALES;231188000
 2022;23005;456A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;220572260
-2022;23005;456A;602/23005;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021;220072260
+2022;23005;456A;602/23005;;;Inversiones reales;220072260
 2022;23005;456A;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores;500000
 2022;23005;456A;64;;;Gastos de inversiones de carácter inmaterial;10615740
 2022;23005;456A;641/23005;;;Inversiones de carácter inmaterial. Financiado según el artículo 30.4 de la Ley 7/2021;10615740
@@ -18622,9 +18671,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23104;456A;23;;;Indemnizaciones por razón del servicio;105000
 2022;23104;456A;230;;;Dietas;95000
 2022;23104;456A;231;;;Locomoción;10000
-2022;23104;456A;6;;;INVERSIONES REALES;4150000
-2022;23104;456A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;300000
-2022;23104;456A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;300000
+2022;23104;456A;6;;;INVERSIONES REALES;4250000
+2022;23104;456A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;400000
+2022;23104;456A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;400000
 2022;23104;456A;64;;;Gastos de inversiones de carácter inmaterial;3850000
 2022;23104;456A;640;;;Gastos en inversiones de carácter inmaterial;3850000
 2022;23105;456A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;2415910
@@ -18818,14 +18867,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23008;456B;160;;00;Seguridad Social;1030790
 2022;23008;456B;6;;;INVERSIONES REALES;6264770
 2022;23008;456B;64;;;Gastos de inversiones de carácter inmaterial;6264770
-2022;23008;456B;641/23008;;;Inversiones de carácter inmaterial. Financiado según el artículo 30.4 de la Ley 7/2021;6264770
-2022;23008;456B;7;;;TRANSFERENCIAS DE CAPITAL;2000130
-2022;23008;456B;75;;;A Comunidades Autónomas;2000130
+2022;23008;456B;641/23008;;;Inversiones de carácter inmaterial;6264770
+2022;23008;456B;7;;;TRANSFERENCIAS DE CAPITAL;4000130
+2022;23008;456B;75;;;A Comunidades Autónomas;4000130
 2022;23008;456B;750/23008;;;Programa de mejora de gestión de residuos municipales;700000
 2022;23008;456B;750/23008;;01;Programa de mejora de gestión de residuos municipales;700000
 2022;23008;456B;752/23008;;;Política de residuos;130
 2022;23008;456B;753/23008;;;A la Comunidad Autónoma de La Rioja para la Ciudad del envase y embalaje;500000
 2022;23008;456B;756/23008;;;PIMA Economía Circular;800000
+2022;23008;456B;757/23008;;;Para restauraciones complementarias en Flix;2000000
 2022;23011;456C;1;;;GASTOS DE PERSONAL;5830100
 2022;23011;456C;10;;;Altos cargos;61040
 2022;23011;456C;100;;;Retribuciones básicas y otras remuneraciones;61040
@@ -18861,14 +18911,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23011;456C;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;17000000
 2022;23011;456C;602/23011;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021;17000000
 2022;23011;456C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;87752360
-2022;23011;456C;612/23011;;;Otras inversiones del medio natural y política forestal. Financiado según el artículo 30.4 de la Ley 7/2021;83684360
-2022;23011;456C;613;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021;4068000
+2022;23011;456C;612/23011;;;Otras inversiones del medio natural y política forestal;83684360
+2022;23011;456C;613;;;Inversiones reales;4068000
 2022;23011;456C;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1001000
-2022;23011;456C;621/23011;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021;1001000
+2022;23011;456C;621/23011;;;Inversiones reales;1001000
 2022;23011;456C;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;3002000
-2022;23011;456C;631/23011;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021;3002000
+2022;23011;456C;631/23011;;;Inversiones reales;3002000
 2022;23011;456C;64;;;Gastos de inversiones de carácter inmaterial;29997440
-2022;23011;456C;641/23011;;;Inversiones de carácter inmaterial. Financiado según el artículo 30.4 de la Ley 7/2021;29997440
+2022;23011;456C;641/23011;;;Inversiones de carácter inmaterial;29997440
 2022;23011;456C;7;;;TRANSFERENCIAS DE CAPITAL;23549180
 2022;23011;456C;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;1549180
 2022;23011;456C;740/23011;;;A la Fundación Biodiversidad, F.S.P., para financiar actuaciones propias de la Fundación;1329180
@@ -19043,19 +19093,23 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23006;456D;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;4365520
 2022;23006;456D;160;;;Cuotas sociales;4365520
 2022;23006;456D;160;;00;Seguridad Social;4365520
-2022;23006;456D;6;;;INVERSIONES REALES;66658290
-2022;23006;456D;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;38267840
-2022;23006;456D;602/23006;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021;38267840
-2022;23006;456D;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;22477310
-2022;23006;456D;612/23006;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021;18927310
+2022;23006;456D;6;;;INVERSIONES REALES;69358290
+2022;23006;456D;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;39617840
+2022;23006;456D;602/23006;;;Inversiones reales;39617840
+2022;23006;456D;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;23827310
+2022;23006;456D;612/23006;;;Inversiones reales;20277310
 2022;23006;456D;614;;;PIMA ADAPTA Costas. Financiado según el artículo 30.4 de la Ley 7/2021;3550000
 2022;23006;456D;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;231140
-2022;23006;456D;631/23006;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021;231140
+2022;23006;456D;631/23006;;;Inversiones reales;231140
 2022;23006;456D;64;;;Gastos de inversiones de carácter inmaterial;5682000
-2022;23006;456D;641/23006;;;Inversiones de carácter inmaterial. Financiado según el artículo 30.4 de la Ley 7/2021;5682000
-2022;23006;456D;7;;;TRANSFERENCIAS DE CAPITAL;2000000
+2022;23006;456D;641/23006;;;Inversiones de carácter inmaterial;5682000
+2022;23006;456D;7;;;TRANSFERENCIAS DE CAPITAL;2476500
+2022;23006;456D;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;276500
+2022;23006;456D;741/23006;;;A Bilbao Ría 2000. Muelle Abandoibarra;276500
 2022;23006;456D;75;;;A Comunidades Autónomas;2000000
 2022;23006;456D;751/23006;;;Sendero litoral en Vistalegre y acondicionamiento de la playa de Lastres (T.M. Colunga);2000000
+2022;23006;456D;76;;;A Entidades Locales;200000
+2022;23006;456D;765/23006;;;Al Ayuntamiento de Lekeitio. Astillero Mendieta;200000
 2022;23013;456E;1;;;GASTOS DE PERSONAL;494170
 2022;23013;456E;10;;;Altos cargos;71160
 2022;23013;456E;100;;;Retribuciones básicas y otras remuneraciones;71160
@@ -19376,8 +19430,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;23050;45EB;742/23050;;21;A la Sociedad Estatal Acuaes para medidas de reducción de la extracción de agua subterránea con la aplicación de recursos alternativos;20000000
 2022;23050;45EB;742/23050;;22;A la Sociedad Estatal Acuamed para medidas de reducción de la extracción de agua subterránea con la aplicación de recursos alternativos;70000000
 2022;23050;45EB;75;;;A Comunidades Autónomas;75000000
-2022;23050;45EB;750/23050;;;A Comunidades Autónomas para actuaciones en infraestructuras hidráulicas;75000000
-2022;23050;45EB;750/23050;;20;A las Comunidades Autónomas, para actuaciones de seguimiento y restauración de ecosistemas fluviales y mitigación del riesgo de inundación;75000000
+2022;23050;45EB;750/23050;;;A Comunidades Autónomas para actuaciones en infraestructuras hidráulicas;74500000
+2022;23050;45EB;750/23050;;20;A las Comunidades Autónomas, para actuaciones de seguimiento y restauración de ecosistemas fluviales y mitigación del riesgo de inundación;74500000
+2022;23050;45EB;751/23050;;;Mejora medioambiental margen del Delta del Ebro;500000
 2022;23106;45EB;6;;;INVERSIONES REALES;5000000
 2022;23106;45EB;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;5000000
 2022;23106;45EB;691;;;Inversión de reposición en infraestructuras y bienes destinados al uso general. Mecanismo de Recuperación y Resiliencia;5000000
@@ -19404,8 +19459,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17050;45FB;447/17050;;;A SEITTSA para el Mecanismo de Recuperación y Resiliencia;8449290
 2022;17050;45FB;6;;;INVERSIONES REALES;121092020
 2022;17050;45FB;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;121092020
-2022;17050;45FB;690;;;Inversión nueva en infraestructuras y bienes destinados al uso general.  Mecanismo de Recuperación y Resiliencia.;12067010
-2022;17050;45FB;691;;;Inversión de reposición en infraestructuras y bienes destinados al uso general. Mecanismo de Recuperación y Resiliencia;109025010
+2022;17050;45FB;690;;;Inversión nueva en infraestructuras y bienes destinados al uso general.  Mecanismo de Recuperación y Resiliencia.;12167010
+2022;17050;45FB;691;;;Inversión de reposición en infraestructuras y bienes destinados al uso general. Mecanismo de Recuperación y Resiliencia;108925010
 2022;17050;45FB;7;;;TRANSFERENCIAS DE CAPITAL;328283440
 2022;17050;45FB;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;322515670
 2022;17050;45FB;742/17050;;;A ADIF para el Mecanismo de Recuperación y Resiliencia;257609270
@@ -19483,14 +19538,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28001;461M;162;;04;Acción social;313450
 2022;28001;461M;162;;05;Seguros;50000
 2022;28001;461M;162;;09;Otros;56640
-2022;28001;461M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;7880840
+2022;28001;461M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;6272840
 2022;28001;461M;20;;;Arrendamientos y cánones;402000
 2022;28001;461M;202;;;Arrendamientos de edificios y otras construcciones;402000
 2022;28001;461M;21;;;Reparaciones, mantenimiento y conservación;514930
 2022;28001;461M;212;;;Edificios y otras construcciones;154100
 2022;28001;461M;213;;;Maquinaria, instalaciones y utillaje;278160
 2022;28001;461M;215;;;Mobiliario y enseres;82670
-2022;28001;461M;22;;;Material, suministros y otros;6527920
+2022;28001;461M;22;;;Material, suministros y otros;4919920
 2022;28001;461M;220;;;Material de oficina;104580
 2022;28001;461M;220;;00;Ordinario no inventariable;80890
 2022;28001;461M;220;;01;Prensa, revistas, libros y otras publicaciones;7050
@@ -19511,24 +19566,24 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28001;461M;226;;;Gastos diversos;14000
 2022;28001;461M;226;;01;Atenciones protocolarias y representativas;10000
 2022;28001;461M;226;;06;Reuniones, conferencias y cursos;4000
-2022;28001;461M;227;;;Trabajos realizados por otras empresas y profesionales;5241360
+2022;28001;461M;227;;;Trabajos realizados por otras empresas y profesionales;3633360
 2022;28001;461M;227;;00;Limpieza y aseo;58860
 2022;28001;461M;227;;01;Seguridad;994200
 2022;28001;461M;227;;04;Custodia, depósito y almacenaje;2540
-2022;28001;461M;227;;06;Estudios y trabajos técnicos;4057560
+2022;28001;461M;227;;06;Estudios y trabajos técnicos;2449560
 2022;28001;461M;227;;99;Otros;128200
 2022;28001;461M;23;;;Indemnizaciones por razón del servicio;435990
 2022;28001;461M;230;;;Dietas;118170
 2022;28001;461M;231;;;Locomoción;248230
 2022;28001;461M;232;;;Traslado;14600
 2022;28001;461M;233;;;Otras indemnizaciones;54990
-2022;28001;461M;6;;;INVERSIONES REALES;12264220
-2022;28001;461M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;9932610
-2022;28001;461M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;9932610
+2022;28001;461M;6;;;INVERSIONES REALES;9964220
+2022;28001;461M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;7932610
+2022;28001;461M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;7932610
 2022;28001;461M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;454730
 2022;28001;461M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;454730
-2022;28001;461M;64;;;Gastos de inversiones de carácter inmaterial;1876880
-2022;28001;461M;640;;;Gastos en inversiones de carácter inmaterial;1876880
+2022;28001;461M;64;;;Gastos de inversiones de carácter inmaterial;1576880
+2022;28001;461M;640;;;Gastos en inversiones de carácter inmaterial;1576880
 2022;28001;461M;8;;;ACTIVOS FINANCIEROS;20000
 2022;28001;461M;83;;;Concesión de préstamos fuera del Sector Público;20000
 2022;28001;461M;830;;;Préstamos a corto plazo;3500
@@ -19554,8 +19609,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28002;461M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;358280
 2022;28002;461M;160;;;Cuotas sociales;358280
 2022;28002;461M;160;;00;Seguridad Social;358280
-2022;28002;461M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1139400
-2022;28002;461M;22;;;Material, suministros y otros;934930
+2022;28002;461M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1089400
+2022;28002;461M;22;;;Material, suministros y otros;884930
 2022;28002;461M;220;;;Material de oficina;6500
 2022;28002;461M;220;;00;Ordinario no inventariable;1500
 2022;28002;461M;220;;01;Prensa, revistas, libros y otras publicaciones;5000
@@ -19563,8 +19618,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28002;461M;226;;;Gastos diversos;6000
 2022;28002;461M;226;;01;Atenciones protocolarias y representativas;3000
 2022;28002;461M;226;;06;Reuniones, conferencias y cursos;3000
-2022;28002;461M;227;;;Trabajos realizados por otras empresas y profesionales;919430
-2022;28002;461M;227;;06;Estudios y trabajos técnicos;919430
+2022;28002;461M;227;;;Trabajos realizados por otras empresas y profesionales;869430
+2022;28002;461M;227;;06;Estudios y trabajos técnicos;869430
 2022;28002;461M;23;;;Indemnizaciones por razón del servicio;1470
 2022;28002;461M;230;;;Dietas;660
 2022;28002;461M;231;;;Locomoción;760
@@ -19827,13 +19882,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;15101;462N;83;;;Concesión de préstamos fuera del Sector Público;35740
 2022;15101;462N;830;;;Préstamos a corto plazo;35740
 2022;15101;462N;830;;08;Familias e instituciones sin fines de lucro;35740
-2022;28001;463A;4;;;TRANSFERENCIAS CORRIENTES;14082970
+2022;28001;463A;4;;;TRANSFERENCIAS CORRIENTES;14520970
 2022;28001;463A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;1106000
 2022;28001;463A;449/28001;;;Transferencias, ayudas nominativas y otros;1106000
 2022;28001;463A;449/28001;;01;A la Fundación Residencia de Estudiantes para becas;96000
 2022;28001;463A;449/28001;;02;A la Fundación Residencia de Estudiantes para gastos de funcionamiento;1010000
-2022;28001;463A;48;;;A familias e instituciones sin fines de lucro;12976970
-2022;28001;463A;481/28001;;;Ayudas al Instituto de España, reales academias y otras instituciones adscritas al programa para desarrollo de actividades y gastos de funcionamiento;12893320
+2022;28001;463A;48;;;A familias e instituciones sin fines de lucro;13414970
+2022;28001;463A;480/28001;;;Al Institut d´Estudis Aranesi - Acadèmia Aranesa dera Lengua Occitana;30000
+2022;28001;463A;481/28001;;;Ayudas al Instituto de España, reales academias y otras instituciones adscritas al programa para desarrollo de actividades y gastos de funcionamiento;12901320
 2022;28001;463A;481/28001;;01;Real Academia Española;6827420
 2022;28001;463A;481/28001;;03;Instituto de España;308000
 2022;28001;463A;481/28001;;04;Real Academia de Historia;787500
@@ -19853,11 +19909,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28001;463A;481/28001;;20;Real Academia Galega;311380
 2022;28001;463A;481/28001;;22;Real Academia de Gastronomía;115500
 2022;28001;463A;481/28001;;24;Sociedad de Ciencias Aranzadi;125000
-2022;28001;463A;481/28001;;25;Jakiunde (Academia de las Ciencias, de las Artes y de las Letras);82500
+2022;28001;463A;481/28001;;25;Jakiunde (Academia de las Ciencias, de las Artes y de las Letras);90500
 2022;28001;463A;481/28001;;28;Academia Joven de España;40000
 2022;28001;463A;481/28001;;29;Academia de Psicología de España;46820
 2022;28001;463A;481/28001;;31;A la Academia de la Llingua Asturiana;40000
+2022;28001;463A;482/28001;;;A la Fundació Dr. Ferran para centro de innovación en simulación clínica realidad virtual y aumentada de Terres de l´Ebre;350000
 2022;28001;463A;483/28001;;;Comisión permanente de la Asociación de Academias de la Lengua Española;83650
+2022;28001;463A;485/28001;;;A Iura Vasconiae (Fundación para el Estudio del Derecho Histórico y Autonómico de Vasconia);50000
 2022;28001;463A;7;;;TRANSFERENCIAS DE CAPITAL;265280
 2022;28001;463A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;100000
 2022;28001;463A;749/28001;;;Fundación Residencia de Estudiantes;100000
@@ -20180,15 +20238,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28006;463B;6;;;INVERSIONES REALES;300000
 2022;28006;463B;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;300000
 2022;28006;463B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;300000
-2022;28006;463B;7;;;TRANSFERENCIAS DE CAPITAL;60210000
+2022;28006;463B;7;;;TRANSFERENCIAS DE CAPITAL;59680000
 2022;28006;463B;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;510000
 2022;28006;463B;749/28006;;;Transferencias, ayudas nominativas y otros;510000
 2022;28006;463B;749/28006;;02;A la Fundación Española para la Ciencia y la Tecnología (FECYT) para el Museo Nacional de Ciencia y Tecnología;360000
 2022;28006;463B;749/28006;;16;Al Instituto de Astrofísica de Canarias (IAC);150000
 2022;28006;463B;75;;;A Comunidades Autónomas;19700000
 2022;28006;463B;750/28006;;;Proyectos de I+D en cooperación con comunidades;19700000
-2022;28006;463B;78;;;A familias e instituciones sin fines de lucro;40000000
-2022;28006;463B;782/28006;;;Acciones de Política Científica;40000000
+2022;28006;463B;78;;;A familias e instituciones sin fines de lucro;39470000
+2022;28006;463B;782/28006;;;Acciones de Política Científica;39470000
 2022;28007;463B;1;;;GASTOS DE PERSONAL;2616930
 2022;28007;463B;10;;;Altos cargos;61040
 2022;28007;463B;100;;;Retribuciones básicas y otras remuneraciones;61040
@@ -20225,7 +20283,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28007;463B;230;;;Dietas;105720
 2022;28007;463B;231;;;Locomoción;135580
 2022;28007;463B;233;;;Otras indemnizaciones;53640
-2022;28007;463B;4;;;TRANSFERENCIAS CORRIENTES;176636840
+2022;28007;463B;4;;;TRANSFERENCIAS CORRIENTES;176936840
 2022;28007;463B;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;38858020
 2022;28007;463B;449/28007;;;Transferencias, ayudas nominativas y otros;38858020
 2022;28007;463B;449/28007;;03;A Red.es para la gestión de RedIRIS;6817030
@@ -20239,10 +20297,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28007;463B;449/28007;;11;Al Consorcio para el diseño, construcción, equipamiento y explotación del Centro Nacional de Tecnologías del Hidrógeno y Pilas de Combustible (CNH2);1221790
 2022;28007;463B;449/28007;;12;Instituto de Astrofísica de Canarias para la contribución a la fase transitoria del Telescopio Solar Europeo (EST);500000
 2022;28007;463B;449/28007;;13;Al Consorcio Sistema Observatorio Costero Balears (SOCIB) para el proyecto CALYPSO;200000
-2022;28007;463B;45;;;A Comunidades Autónomas;5350000
-2022;28007;463B;459/28007;;;Transferencias, ayudas nominativas y otros;5350000
+2022;28007;463B;45;;;A Comunidades Autónomas;5650000
+2022;28007;463B;459/28007;;;Transferencias, ayudas nominativas y otros;5650000
 2022;28007;463B;459/28007;;01;A la Fundación Centro Nacional de Energías Renovables (Fundación CENER);4000000
-2022;28007;463B;459/28007;;02;A la Fundación Centro de Estudios de Física del Cosmos de Aragón;1000000
+2022;28007;463B;459/28007;;02;A la Fundación Centro de Estudios de Física del Cosmos de Aragón;1300000
 2022;28007;463B;459/28007;;03;A la Universidad Autónoma de Barcelona para el proyecto MELISSA;75000
 2022;28007;463B;459/28007;;04;A La Universidad de Zaragoza para el nodo CECAM;75000
 2022;28007;463B;459/28007;;06;A la Fundación Instituto de Hidraúlica Ambiental de Cantabria (FIHAC) para sus actividades;200000
@@ -20284,7 +20342,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28007;463B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;3140
 2022;28007;463B;64;;;Gastos de inversiones de carácter inmaterial;540000
 2022;28007;463B;640;;;Gastos en inversiones de carácter inmaterial;540000
-2022;28007;463B;7;;;TRANSFERENCIAS DE CAPITAL;35302520
+2022;28007;463B;7;;;TRANSFERENCIAS DE CAPITAL;38052520
 2022;28007;463B;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;26315520
 2022;28007;463B;749/28007;;;Transferencias, ayudas nominativas y otros;26315520
 2022;28007;463B;749/28007;;02;Al Consorcio para el equipamiento y explotación del Laboratorio Subterráneo de Canfranc (LSC);50000
@@ -20300,9 +20358,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28007;463B;749/28007;;17;Al Consorcio ESS-Bilbao para la fuente europea de neutrones por espalación;5154680
 2022;28007;463B;749/28007;;18;Al Consorcio para el impulso de la construcción en España de la infraestructura científico técnica  “International Fusión Materials Irradiation Facility - Demo Oriented Neutron Source” (IFMIF – DONES);250000
 2022;28007;463B;749/28007;;19;Al Consorcio para la explotación del Centro Nacional de Análisis Genómico (CNAG);2250000
-2022;28007;463B;75;;;A Comunidades Autónomas;2600000
-2022;28007;463B;755/28007;;;Unidad de Paleontología de Dinosaurios de Teruel;100000
+2022;28007;463B;75;;;A Comunidades Autónomas;4050000
+2022;28007;463B;750/28007;;;A la Universidad del País Vasco para proyecto de innovación abierta para la transición sostenible en los sectores marinos;1250000
+2022;28007;463B;755/28007;;;Unidad de Paleontología de Dinosaurios de Teruel;300000
 2022;28007;463B;756/28007;;;Convenio para la creación del Centro Nacional de Investigación en Almacenamiento Energético (CNIAE);2500000
+2022;28007;463B;78;;;A familias e instituciones sin fines de lucro;1300000
+2022;28007;463B;780/28007;;;CIC ENERGIGUNE proyecto investigación en materiales y sistemas para almacenamiento de energía térmica y electroquímica;300000
+2022;28007;463B;781/28007;;;A la Universidad de Deusto para proyecto de innovación y transferencia en el ámbito sociosanitario y tecnológico;1000000
 2022;28007;463B;79;;;Al exterior;6387000
 2022;28007;463B;790/28007;;;Al exterior;6387000
 2022;28007;463B;790/28007;;01;Al Observatorio Europeo del Sur (ESO) para la construcción del Telescopio Europeo Extremadamente Grande (E-ELT) y obligaciones de ejercicios anteriores;6387000
@@ -20795,7 +20857,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28008;467C;449/28008;;04;Al CDTI para las oficinas de la Red Exterior;908300
 2022;28008;467C;449/28008;;05;Al CDTI para la financiación de la RED PI+D+i;687770
 2022;28008;467C;46;;;A Entidades Locales;5000000
-2022;28008;467C;460/28008;;;Apoyo a la contratación de agentes de innovación para las entidades locales;5000000
+2022;28008;467C;460/28008;;;Apoyo a la contratación de agentes de innovación para las entidades locales. Red Innpulso;5000000
 2022;28008;467C;48;;;A familias e instituciones sin fines de lucro;453850
 2022;28008;467C;480/28008;;;Transferencias, ayudas nominativas y otros;303850
 2022;28008;467C;480/28008;;04;A la Secretaría de la Asociación Red INNPULSO para gastos de funcionamiento;150000
@@ -20807,16 +20869,19 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;28008;467C;6;;;INVERSIONES REALES;545750
 2022;28008;467C;64;;;Gastos de inversiones de carácter inmaterial;545750
 2022;28008;467C;640;;;Gastos en inversiones de carácter inmaterial;545750
-2022;28008;467C;7;;;TRANSFERENCIAS DE CAPITAL;367581050
+2022;28008;467C;7;;;TRANSFERENCIAS DE CAPITAL;368581050
 2022;28008;467C;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;367081050
-2022;28008;467C;749/28008;;;Transferencias, ayudas nominativas y otros;367081050
+2022;28008;467C;740/28008;;;"Al Consorcio de la Zona Franca de Barcelona para construcción de Hub de la Industria 4.0, la ""DFactory""";1000000
+2022;28008;467C;749/28008;;;Transferencias, ayudas nominativas y otros;366081050
 2022;28008;467C;749/28008;;00;A la Fundación Española para la Ciencia y la Tecnología (FECYT);4000000
 2022;28008;467C;749/28008;;04;Al CDTI para la cobertura de los costes de sus actividades de financiación;18081050
-2022;28008;467C;749/28008;;07;Al CDTI para proyectos de I+D+i empresarial cofinanciados por el FEDER;30000000
+2022;28008;467C;749/28008;;07;Al CDTI para proyectos de I+D+i empresarial cofinanciados por el FEDER;29000000
 2022;28008;467C;749/28008;;08;Al CDTI para proyectos de I+D+i empresarial;65000000
 2022;28008;467C;749/28008;;20;Al CDTI para la financiación de la participación en programas espaciales;250000000
 2022;28008;467C;75;;;A Comunidades Autónomas;500000
 2022;28008;467C;750/28008;;;Aportación al proyecto de la Ciudad del Envase y el Embalaje de la Comunidad Autónoma de la Rioja;500000
+2022;28008;467C;77;;;A empresas privadas;1000000
+2022;28008;467C;770/28008;;;A la Escuela Politécnica Superior de Mondragón Unibertsitatea para el Centro de Innovación y Emprendimiento para una Transición Industrial Sostenible;1000000
 2022;28008;467C;8;;;ACTIVOS FINANCIEROS;938270000
 2022;28008;467C;82;;;Concesión de préstamos al Sector Público;215000000
 2022;28008;467C;821;;;Préstamos a largo plazo;215000000
@@ -20885,11 +20950,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;27008;467G;6;;;INVERSIONES REALES;4900000
 2022;27008;467G;64;;;Gastos de inversiones de carácter inmaterial;4900000
 2022;27008;467G;640;;;Gastos en inversiones de carácter inmaterial;4900000
-2022;27008;467G;7;;;TRANSFERENCIAS DE CAPITAL;10305890
+2022;27008;467G;7;;;TRANSFERENCIAS DE CAPITAL;15305890
 2022;27008;467G;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;931680
 2022;27008;467G;740/27008;;;España Digital 2025;931680
-2022;27008;467G;75;;;A Comunidades Autónomas;1693970
+2022;27008;467G;75;;;A Comunidades Autónomas;6693970
 2022;27008;467G;750/27008;;;España Digital 2025;1693970
+2022;27008;467G;755/27008;;;Al Gobierno de Navarra para el proyecto polo de innovación digital Iris Lab;5000000
 2022;27008;467G;76;;;A Entidades Locales;1185760
 2022;27008;467G;760/27008;;;España Digital 2025;1185760
 2022;27008;467G;77;;;A empresas privadas;2408530
@@ -20928,10 +20994,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;27009;467G;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;1748200
 2022;27009;467G;160;;;Cuotas sociales;1748200
 2022;27009;467G;160;;00;Seguridad Social;1748200
-2022;27009;467G;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;16976860
+2022;27009;467G;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;11976860
 2022;27009;467G;21;;;Reparaciones, mantenimiento y conservación;4260450
 2022;27009;467G;216;;;Equipos para procesos de la información;4260450
-2022;27009;467G;22;;;Material, suministros y otros;12639710
+2022;27009;467G;22;;;Material, suministros y otros;7639710
 2022;27009;467G;220;;;Material de oficina;308720
 2022;27009;467G;220;;00;Ordinario no inventariable;158250
 2022;27009;467G;220;;01;Prensa, revistas, libros y otras publicaciones;41010
@@ -20943,8 +21009,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;27009;467G;226;;;Gastos diversos;10290
 2022;27009;467G;226;;01;Atenciones protocolarias y representativas;4680
 2022;27009;467G;226;;06;Reuniones, conferencias y cursos;5610
-2022;27009;467G;227;;;Trabajos realizados por otras empresas y profesionales;11717810
-2022;27009;467G;227;;06;Estudios y trabajos técnicos;11714080
+2022;27009;467G;227;;;Trabajos realizados por otras empresas y profesionales;6717810
+2022;27009;467G;227;;06;Estudios y trabajos técnicos;6714080
 2022;27009;467G;227;;99;Otros;3730
 2022;27009;467G;23;;;Indemnizaciones por razón del servicio;76700
 2022;27009;467G;230;;;Dietas;34550
@@ -21281,16 +21347,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;27050;46PR;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;6300000
 2022;27050;46PR;694;;;Gastos de inversiones de carácter inmaterial. Mecanismo de Recuperación y Resiliencia.;6300000
 2022;27050;46PR;7;;;TRANSFERENCIAS DE CAPITAL;107500000
-2022;27050;46PR;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;40000000
+2022;27050;46PR;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;45000000
 2022;27050;46PR;740/27050;;;Transferencias a entidades del Sector Público Estatal. Mecanismo de Recuperación y Resiliencia;40000000
 2022;27050;46PR;740/27050;;08;A Red.es convocatorias inteligencia artificial. Mecanismo de Recuperación y Resiliencia;40000000
+2022;27050;46PR;745/27050;;;Para la creación de la Agencia Española de Supervisión de la Inteligencia Artificial;5000000
 2022;27050;46PR;75;;;A Comunidades Autónomas;5700000
 2022;27050;46PR;756/27050;;;Inteligencia artificial en universidades. Mecanismo de Recuperación y Resiliencia;5700000
-2022;27050;46PR;77;;;A empresas privadas;61800000
-2022;27050;46PR;770/27050;;;A empresas privadas.  Mecanismo de Recuperación y Resiliencia;61800000
+2022;27050;46PR;77;;;A empresas privadas;56800000
+2022;27050;46PR;770/27050;;;A empresas privadas.  Mecanismo de Recuperación y Resiliencia;56800000
 2022;27050;46PR;770/27050;;03;Convocatorias proyectos de innovación inteligencia artificial. Mecanismo de Recuperación y Resiliencia;43000000
 2022;27050;46PR;770/27050;;13;Estrategia Nacional de Inteligencia Artificial. Creación del Spain Talent Hub. Mecanismo de Recuperación y Resiliencia;8800000
-2022;27050;46PR;770/27050;;14;Apoyo a Red nacional de centros de excelencia. Mecanismo de Recuperación y Resiliencia;10000000
+2022;27050;46PR;770/27050;;14;Apoyo a Red nacional de centros de excelencia. Mecanismo de Recuperación y Resiliencia;5000000
 2022;28050;46QA;7;;;TRANSFERENCIAS DE CAPITAL;130374000
 2022;28050;46QA;75;;;A Comunidades Autónomas;130374000
 2022;28050;46QA;759/28050;;;Transferencias, ayudas nominativas y otros;130374000
@@ -22115,11 +22182,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;17018;495A;227;;00;Limpieza y aseo;265990
 2022;17018;495A;227;;01;Seguridad;673830
 2022;17018;495A;227;;99;Otros;7300
-2022;17018;495A;4;;;TRANSFERENCIAS CORRIENTES;1909500
-2022;17018;495A;48;;;A familias e instituciones sin fines de lucro;618590
+2022;17018;495A;4;;;TRANSFERENCIAS CORRIENTES;1959500
+2022;17018;495A;48;;;A familias e instituciones sin fines de lucro;668590
 2022;17018;495A;480/17018;;;Cuotas y contribuciones a Organismos e Instituciones Nacionales;3620
 2022;17018;495A;482/17018;;;Subvención a la Real Sociedad Geográfica;20000
-2022;17018;495A;483/17018;;;Subvención al Observatorio del Ebro;10000
+2022;17018;495A;483/17018;;;Subvención al Observatorio del Ebro;60000
 2022;17018;495A;484/17018;;;Becas y ayudas en áreas de astronomía, geofísica, geodesia, teledetección y documentación geográfica;584970
 2022;17018;495A;49;;;Al exterior;1290910
 2022;17018;495A;491/17018;;;Cuotas a Organismos Internacionales;1290910
@@ -25559,12 +25626,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;25002;925M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;91590
 2022;25002;925M;160;;;Cuotas sociales;91590
 2022;25002;925M;160;;00;Seguridad Social;91590
-2022;25002;925M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;3700000
-2022;25002;925M;22;;;Material, suministros y otros;3500000
+2022;25002;925M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;2950000
+2022;25002;925M;22;;;Material, suministros y otros;2750000
 2022;25002;925M;226;;;Gastos diversos;875000
 2022;25002;925M;226;;06;Reuniones, conferencias y cursos;875000
-2022;25002;925M;227;;;Trabajos realizados por otras empresas y profesionales;2625000
-2022;25002;925M;227;;06;Estudios y trabajos técnicos;2625000
+2022;25002;925M;227;;;Trabajos realizados por otras empresas y profesionales;1875000
+2022;25002;925M;227;;06;Estudios y trabajos técnicos;1875000
 2022;25002;925M;23;;;Indemnizaciones por razón del servicio;200000
 2022;25002;925M;230;;;Dietas;125000
 2022;25002;925M;231;;;Locomoción;75000
@@ -25583,9 +25650,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;25002;925M;48;;;A familias e instituciones sin fines de lucro;1600000
 2022;25002;925M;480/25002;;;Para gastos derivados de la aplicación de la Ley 52/2007, de 26 de  diciembre. Subvenciones a entidades sin ánimo de lucro;600000
 2022;25002;925M;481/25002;;;Para gastos derivados de la aplicación de la Ley 52/2007, de 26 de diciembre. Subvención directa a la FEMP;1000000
-2022;25002;925M;6;;;INVERSIONES REALES;1200000
-2022;25002;925M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1200000
-2022;25002;925M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1200000
+2022;25002;925M;6;;;INVERSIONES REALES;1950000
+2022;25002;925M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1950000
+2022;25002;925M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1950000
 2022;35001;929N;5;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS;3922840000
 2022;35001;929N;50;;;Dotación al Fondo de Contingencia de ejecución presupuestaria;3922840000
 2022;35001;929N;500;;;Fondo de Contingencia de Ejecución Presupuestaria, Artículo 50 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria;3922840000
@@ -26455,24 +26522,68 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;36020;941N;7;;;TRANSFERENCIAS DE CAPITAL;150000000
 2022;36020;941N;75;;;A Comunidades Autónomas;150000000
 2022;36020;941N;759/36020;;;Para financiar la incorporación de remanentes de crédito de los Fondos de Compensación Interterritorial;150000000
-2022;37001;941O;4;;;TRANSFERENCIAS CORRIENTES;7005651700
-2022;37001;941O;45;;;A Comunidades Autónomas;7005651700
+2022;37001;941O;4;;;TRANSFERENCIAS CORRIENTES;7073501700
+2022;37001;941O;45;;;A Comunidades Autónomas;7073501700
+2022;37001;941O;450/37001;;;Actuaciones en Canarias;29250000
+2022;37001;941O;450/37001;;00;Transporte del Plátano de Canarias;10000000
+2022;37001;941O;450/37001;;01;A la Universidad de La Laguna para las Estrategias Especializadas Inteligentes de las Universidades Públicas Canarias como centros de referencia nacional;1500000
+2022;37001;941O;450/37001;;02;A la Universidad de Las Palmas de Gran Canaria para las Estrategias Especializadas Inteligentes de las Universidades Públicas de Canarias como centros de referencia nacional;1500000
+2022;37001;941O;450/37001;;03;Para promover la internacionalización de las actividades económicas de Canarias;1000000
+2022;37001;941O;450/37001;;04;Para abaratar a los agricultores el sobrecoste de la desalación y de la extracción de agua de pozos y de galerías para el riego agrícola en Canarias;6000000
+2022;37001;941O;450/37001;;05;Para la Asociación de Amigos Canarios de la Ópera, para la temporada de Ópera de Las Palmas;400000
+2022;37001;941O;450/37001;;06;A la Comunidad Autónoma de Canarias para la conservación de variedades agrícolas y razas ganaderas locales de Canarias;1000000
+2022;37001;941O;450/37001;;07;Para Instituto Canario de Desarrollo Cultural S.A. Festival Internacional de Música de Canarias;850000
+2022;37001;941O;450/37001;;08;A la Comunidad Autónoma de Canarias para financiar la ampliación del ámbito temporal de la OSP La Gomera-Gran Canaria;2000000
+2022;37001;941O;450/37001;;09;A la Comunidad Autónoma de Canarias para la lucha contra la pobreza y prestaciones básicas de servicios sociales;5000000
 2022;37001;941O;452/37001;;;Dotación SII-IVA;3100000000
 2022;37001;941O;453/37001;;;A Comunidades Autónomas de régimen común y Ciudades de Ceuta y de Melilla con saldo global negativo de la liquidación de 2020;3904000000
+2022;37001;941O;454/37001;;;Actuaciones en diversas Comunidades Autónomas;38600000
+2022;37001;941O;454/37001;;00;Restauración Muralla de Hostalric;400000
+2022;37001;941O;454/37001;;01;Al Institut de Ciències Fotòniques (ICFO) para Proyecto Quantica Valley;500000
+2022;37001;941O;454/37001;;02;Patronato Real Monasterio Santa María de Poblet;200000
+2022;37001;941O;454/37001;;03;Patronato Muntanya de Montserrat;200000
+2022;37001;941O;454/37001;;04;Para las actividades anuales del Circuit de Catalunya;2000000
+2022;37001;941O;454/37001;;05;Promoción de la cinematografía en lenguas cooficiales;10500000
+2022;37001;941O;454/37001;;06;"Refuerzo del sistema tecnológico y de innovación catalán (Hub Impresión 3D, Programa de Investigación Internacional, Proyecto ""Proteoma del Cáncer"" y financiación de infraestructuras científico-tecnológicas)";7550000
+2022;37001;941O;454/37001;;07;Aportaciones a grandes equipamientos culturales;6000000
+2022;37001;941O;454/37001;;08;Ayudas para libros y material didáctico de los estudiantes;10000000
+2022;37001;941O;454/37001;;09;Modernización y adaptación de Mossos en el ámbito judicial;1000000
+2022;37001;941O;454/37001;;10;Nueva SPN Figueres;250000
 2022;37001;941O;459/37001;;;Otras transferencias a Comunidades Autónomas;1651700
 2022;37001;941O;459/37001;;02;País Vasco por costes de traspaso fuera de cupo de 2022;1103110
 2022;37001;941O;459/37001;;03;Navarra por costes de traspaso fuera de la aportación de 2022;548590
-2022;37001;941O;7;;;TRANSFERENCIAS DE CAPITAL;684130270
-2022;37001;941O;75;;;A Comunidades Autónomas;684130270
+2022;37001;941O;7;;;TRANSFERENCIAS DE CAPITAL;566720270
+2022;37001;941O;75;;;A Comunidades Autónomas;566720270
+2022;37001;941O;750/37001;;;A la Comunidad Autónoma de Canarias;31000000
+2022;37001;941O;750/37001;;00;Programa de extensión de los servicios de banda ancha de nueva generación en Canarias;1000000
+2022;37001;941O;750/37001;;01;Programa de Economía Circular en Canarias gestión, valoración, reciclaje y descontaminación de residuos;3000000
+2022;37001;941O;750/37001;;02;A la Universidad de La Laguna para mejora de las infraestructuras y el equipamiento;3500000
+2022;37001;941O;750/37001;;03;A la Universidad de Las Palmas para mejora de las infraestructuras y el equipamiento;3500000
+2022;37001;941O;750/37001;;04;Para la ampliación y mejora del parking del Aeropuerto de los Cangrejos, en la Isla de El Hierro;1500000
+2022;37001;941O;750/37001;;05;A la Comunidad Autónoma de Canarias para la mejora del acceso al Puerto de Los Cristianos (ARONA);5000000
+2022;37001;941O;750/37001;;06;A la Comunidad Autónoma de Canarias para financiar actuaciones a la movilidad energéticamente eficiente y sostenible;1000000
+2022;37001;941O;750/37001;;07;A la Comunidad Autónoma de Canarias para la rehabilitación del Palacio de Nava y Grimón de San Cristóbal de La Laguna;1000000
+2022;37001;941O;750/37001;;08;A la Comunidad Autónoma de Canarias para financiar actuaciones en el paseo Litorial Pris-Mesa Del Mar en el T.M. Tacoronte;1000000
+2022;37001;941O;750/37001;;09;A la Comunidad Autónoma de Canarias para financiar la activación de la reserva marina de interés pesquero del Norte de la Gomera;500000
+2022;37001;941O;750/37001;;10;A la Comunidad Autónoma de Canarias para infraestructuras educativas;10000000
 2022;37001;941O;753/37001;;;Factor de Insularidad (Título III del Real Decreto-ley 4/2019, de 22 de febrero, del Régimen Especial de las Illes Balears);182768700
 2022;37001;941O;753/37001;;00;Dotación para 2022 del Factor de Insularidad;109661220
 2022;37001;941O;753/37001;;01;Regularización del Factor de Insularidad;73107480
+2022;37001;941O;754/37001;;;Actuaciones en diversas Comunidades Autónomas;9300000
+2022;37001;941O;754/37001;;00;Museo Nacional de Etnografía. Edificio del Comandante Aguado (Teruel);2500000
+2022;37001;941O;754/37001;;01;Actuación enmarcada en el Plan Integral del Maresme para la regeneración de las Playas de Cabrera de Mar y Vilassar de Mar;4000000
+2022;37001;941O;754/37001;;02;Institució CERCA. Centres de Recerca de Catalunya para la infraestructura científico-tecnológica;500000
+2022;37001;941O;754/37001;;03;Patronat del Reial Monestir de Poblet;400000
+2022;37001;941O;754/37001;;04;Patronat de la Muntanya de Montserrat;400000
+2022;37001;941O;754/37001;;05;Adecuación para el uso público de los terrenos de dominio público portuario una vez desafectados del uso portuario en el Cap de Salou;500000
+2022;37001;941O;754/37001;;07;Para proyecto de digitalización y gestión inteligente de los Media y audiovisuales en euskara;500000
+2022;37001;941O;754/37001;;08;A la Comunidad Foral de Navarra para redacción y ejecución del proyecto de variante de la NA400 a su paso por Lesaka;500000
 2022;37001;941O;755/37001;;;A la Comunidad Autónoma de Cantabria para financiar proyectos de inversión;44000000
 2022;37001;941O;755/37001;;01;Para financiar inversiones del Hospital Universitario Marqués de Valdecilla;22000000
 2022;37001;941O;755/37001;;02;Para financiar inversiones en el polígono industrial del Llano de La Pasiega;11000000
 2022;37001;941O;755/37001;;03;Para financiar inversiones en el Museo de Prehistoria y Arqueología de Cantabria (MUPAC);11000000
 2022;37001;941O;757/37001;;;A la Comunidad Autónoma de La Rioja para financiar proyectos de inversión. Rehabilitación y reforma de IES Sagasta de Logroño;800000
-2022;37001;941O;759/37001;;;Convenios para financiar infraestructuras;456561570
+2022;37001;941O;759/37001;;;Convenios para financiar infraestructuras;298851570
 2022;38001;941O;4;;;TRANSFERENCIAS CORRIENTES;154000000
 2022;38001;941O;45;;;A Comunidades Autónomas;154000000
 2022;38001;941O;456/38001;;;Compensación financiera al País Vasco derivada del Impuesto Especial sobre las Labores de Tabaco, incluso liquidación definitiva del ejercicio anterior;132500000
@@ -26522,17 +26633,55 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;38021;942M;461/38021;;;Transferencias a las Diputaciones y Cabildos Insulares;6448195390
 2022;38021;942M;461/38021;;01;Entregas a cuenta a las Diputaciones y Cabildos Insulares por su participación en los ingresos de los capítulos I y II del Presupuesto del Estado por recursos no susceptibles de cesión a las Comunidades Autónomas;6448195390
 2022;38021;942M;468/38021;;;Liquidación definitiva de la participación en los ingresos del Estado de las Corporaciones Locales, correspondiente a ejercicios anteriores y compensaciones derivadas del Nuevo Modelo de Financiación Local;19913440
-2022;37002;942N;4;;;TRANSFERENCIAS CORRIENTES;1254838360
-2022;37002;942N;46;;;A Entidades Locales;1254838360
+2022;37002;942N;4;;;TRANSFERENCIAS CORRIENTES;1257138360
+2022;37002;942N;46;;;A Entidades Locales;1257138360
+2022;37002;942N;460/37002;;;Actuaciones en Canarias;2250000
+2022;37002;942N;460/37002;;00;Al Ayuntamiento de Telde. Plan de empleo Incorpórate Telde;1000000
+2022;37002;942N;460/37002;;01;Al Auditorio de Tenerife S.A.U para la temporada de la Ópera de Tenerife;250000
+2022;37002;942N;460/37002;;02;Al Ayuntamiento de Telde para la financiación del Plan Integral de Jinámar;1000000
 2022;37002;942N;461/37002;;;Compensaciones que puedan reconocerse a los municipios;5362400
 2022;37002;942N;462/37002;;;Dotación SII-IVA;496085690
 2022;37002;942N;463/37002;;;A Entidades Locales con saldo global negativo de la liquidación de 2020;731890270
 2022;37002;942N;464/37002;;;Financiación de los costes de funcionamiento de las plantas desalinizadoras de las Ciudades de Ceuta y de Melilla;8000000
 2022;37002;942N;465/37002;;;Para financiar actuaciones en Melilla;10250000
 2022;37002;942N;466/37002;;;Para financiar actuaciones en Ceuta;3250000
-2022;37002;942N;7;;;TRANSFERENCIAS DE CAPITAL;7300000
-2022;37002;942N;76;;;A Entidades Locales;7300000
+2022;37002;942N;469/37002;;;Actuaciones en diversas Entidades Locales;50000
+2022;37002;942N;469/37002;;02;A la Fundació Bona Nit (Tarragona);50000
+2022;37002;942N;7;;;TRANSFERENCIAS DE CAPITAL;53560000
+2022;37002;942N;76;;;A Entidades Locales;53560000
+2022;37002;942N;760/37002;;;Actuaciones en Canarias;36950000
+2022;37002;942N;760/37002;;00;Al Ayuntamiento de Tazacorte para movilidad sostenible, corredor verde y carril bici;2500000
+2022;37002;942N;760/37002;;01;Al Ayuntamiento de Los Llanos de Aridane para renovación del mercado municipal;1000000
+2022;37002;942N;760/37002;;02;Al Ayuntamiento de Yaiza para el saneamiento del pueblo de Uga;1500000
+2022;37002;942N;760/37002;;03;Al Cabildo Insular de Fuerteventura para la reforma integral de la Ciudad Deportiva de Antigua;3000000
+2022;37002;942N;760/37002;;04;Al Ayuntamiento de Santa Cruz de Tenerife para restauración del Templo Masónico;3000000
+2022;37002;942N;760/37002;;05;Al Instituto Volcanológico de Canarias (INVOLCAN) para infraestructuras de I+D+i;1500000
+2022;37002;942N;760/37002;;06;Al Ayuntamiento de Telde para el Palacio de la Cultura y las Artes;5000000
+2022;37002;942N;760/37002;;07;Al Ayuntamiento de Agüimes para la ampliación y reforma del Polideportivo Municipal Playa de Arinaga;750000
+2022;37002;942N;760/37002;;08;Al Ayuntamiento de El Paso para la construcción de Hotel Escuela;1000000
+2022;37002;942N;760/37002;;09;Al Cabildo de Gran Canaria para el desarrollo de una comunidad energética en el polígono industrial de Arinaga;2000000
+2022;37002;942N;760/37002;;10;Al Ayuntamiento de Arona para actuaciones en la playa de los Tarajales;2000000
+2022;37002;942N;760/37002;;11;Al Ayuntamiento de Santa Úrsula para la construcción de un museo de fondos marinos en la Casa del Capitán;1500000
+2022;37002;942N;760/37002;;12;Al Ayuntamiento de Santa María de Guía para actuaciones de renovación urbana en el Casco y la Atalaya;1500000
+2022;37002;942N;760/37002;;13;Al Ayuntamiento de Santa Lucía de Tirajana para depósito de agua y mejora red abastecimiento público;1000000
+2022;37002;942N;760/37002;;14;Al Ayuntamiento de Gáldar para la ampliación del Parque Eólico de la Botija;1200000
+2022;37002;942N;760/37002;;15;Al Ayuntamiento de Arrecife de Lanzarote para el corredor verde Zonzomas-Puerto Naos;1500000
+2022;37002;942N;760/37002;;16;Al Cabildo de Gran Canaria para Programa de Cooperación Humanitaria;1500000
+2022;37002;942N;760/37002;;17;Al Ayuntamiento de Valsequillo para adquisición y rehabilitación del Cuartel del Colmenar;1000000
+2022;37002;942N;760/37002;;18;Al Ayuntamiento de Las Palmas de Gran Canaria renovación infraestructuras Polígono Industrial del Sebadal;1500000
+2022;37002;942N;760/37002;;19;Al Cabildo Insular de Gran Canaria en materia de ferrocarril;2000000
+2022;37002;942N;760/37002;;20;Al Ayuntamiento de Puerto del Rosario para acondicionamiento del frente marítimo de Puerto Lajas y mejora de accesibilidad a la playa;1000000
 2022;37002;942N;765/37002;;;Para financiar inversiones en municipios del Campo de Gibraltar;7300000
+2022;37002;942N;769/37002;;;Actuaciones en diversas Entidades Locales;9310000
+2022;37002;942N;769/37002;;01;Al Ajuntament de Vilaseca para recuperación y adecuación paisajística y ambiental del Paseo Marítimo de la Pineda;500000
+2022;37002;942N;769/37002;;02;Al Ajuntament de Gandesa para accesibilidad y condicionamiento de espacios museizados del Centre d´Estudis de la Batlla de l´Ebre;200000
+2022;37002;942N;769/37002;;03;Al Ajuntament de Torrefarrera para la construcción del centro cultural;190000
+2022;37002;942N;769/37002;;04;Al Ajuntament de Llagostera para mejora de las instalaciones del edificio del Casino Llagosterenc;100000
+2022;37002;942N;769/37002;;05;Museu Thyssen de Sant Feliu de Guixols;500000
+2022;37002;942N;769/37002;;06;Al Ajuntament de Juneda para estructura y cubierta de Pista Parc Alegría;200000
+2022;37002;942N;769/37002;;07;Al Ajuntament de Tortosa para la construcción del centro deportivo-social en centro histórico;1500000
+2022;37002;942N;769/37002;;08;A la Fundació Castell de Peralada para el desarrollo de su festival;120000
+2022;37002;942N;769/37002;;09;Para proyecto cultural planteado por el Ayuntamiento de Pasaia en fábrica Luzuriaga en Pasai- Antxo;6000000
 2022;38021;942N;4;;;TRANSFERENCIAS CORRIENTES;206784430
 2022;38021;942N;46;;;A Entidades Locales;206784430
 2022;38021;942N;464/38021;;;Compensación financiera a Ceuta y Melilla por garantía de recaudación del Impuesto sobre la Producción, los Servicios y la Importación (IPSI);129000000
@@ -26736,3 +26885,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2022;06005;951N;331;;;Gastos de emision, modificacion y cancelacion;6000
 2022;06005;951N;35;;;Intereses de demora y otros gastos financieros;6000
 2022;06005;951N;352;;;Intereses de demora;6000
+2022;60003;29KB;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;22949720
+2022;60003;29KB;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;22949720
+2022;60003;29KB;6;;;INVERSIONES REALES;24050280
+2022;60003;29KB;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;24050280
+2022;60003;29SC;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;10000000
+2022;60003;29SC;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;10000000
+2022;60003;29SC;6;;;INVERSIONES REALES;5000000
+2022;60003;29SC;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;5000000
+2022;60002;31RC;6;;;INVERSIONES REALES;18500000
+2022;60002;31RC;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;18500000

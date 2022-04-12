@@ -29,8 +29,8 @@ Extracción de gastos presupuestados
 Existen tareas Rake para ejecutar las tareas relacionadas con los presupuestos:
 
     $ rake -T
-    rake budget:parse[year]    # Extract all information from budget files
-    rake budget:summary[year]  # Generate a summary with budget key figures
+    rake "budget:parse[year]"    # Extract all information from budget files
+    rake "budget:summary[year]"  # Generate a summary with budget key figures
 
 Para extraer los datos de gastos de los Presupuestos, ejecutar por ejemplo:
 
