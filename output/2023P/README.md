@@ -20,9 +20,9 @@
 | **Organismos autónomos**    | 45,804,480,310|45,811,724,080|45,848,013,680|45,426,844,240
 | **Agencias estatales**      | 0|0|0|0
 | **Otros organismos**        | 9,495,000,030|9,497,189,480|9,498,367,120|9,381,862,870
-| **Seguridad Social**        | 204,064,279,870|208,971,631,860|208,971,641,860|203,527,282,890
+| **Seguridad Social**        | 204,257,900,340|209,165,252,330|209,165,262,330|203,720,903,360
 | (- transferencias internas) | -67,056,410,350|-67,056,410,350|-67,056,410,350|
-| **TOTAL**                   | **450,527,922,050**|**485,792,191,750**|**583,349,686,630**|**583,349,686,630**
+| **TOTAL**                   | **450,721,542,520**|**485,985,812,220**|**583,543,307,100**|**583,543,307,100**
 
 ### Comprobaciones
 
@@ -38,10 +38,10 @@
  * Gastos Otros organismos - operaciones no financieros: OK (9,495,000,030)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_803_1_3.HTM)
  * Gastos Otros organismos - presupuesto total: OK (9,498,367,120)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_803_1_3.HTM)
  * Gastos Otros organismos - presupuesto consolidado: OK (9,381,862,870)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_803_1_3.HTM)
- * **Gastos Seguridad Social - operaciones no financieros: ERROR 204,257,900,340 != 204,064,279,870**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_805_1_3.HTM)
- * **Gastos Seguridad Social - capítulos I-VIII: ERROR 209,165,252,330 != 208,971,631,860**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_805_1_3.HTM)
- * **Gastos Seguridad Social - presupuesto total: ERROR 209,165,262,330 != 208,971,641,860**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_805_1_3.HTM)
- * **Gastos Seguridad Social - presupuesto consolidado: ERROR 203,720,903,360 != 203,527,282,890**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_805_1_3.HTM)
+ * Gastos Seguridad Social - operaciones no financieros: OK (204,257,900,340)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_805_1_3.HTM)
+ * Gastos Seguridad Social - capítulos I-VIII: OK (209,165,252,330)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_805_1_3.HTM)
+ * Gastos Seguridad Social - presupuesto total: OK (209,165,262,330)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_805_1_3.HTM)
+ * Gastos Seguridad Social - presupuesto consolidado: OK (203,720,903,360)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_2_805_1_3.HTM)
  * Ingresos Estado - operaciones no financieros: OK (189,005,001,290)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_1_101_1_5_1.HTM)
  * Ingresos Estado - presupuesto total: OK (192,544,166,330)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_1_101_1_5_1.HTM)
  * Ingresos Organismos Autónomos - operaciones no financieros: OK (44,979,382,560)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2023Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_23_A_R_6_1_102_1_4_1.HTM)
