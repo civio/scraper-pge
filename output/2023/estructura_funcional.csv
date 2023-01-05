@@ -1,0 +1,427 @@
+EJERCICIO;GRUPO;FUNCION;SUBFUNCION;PROGRAMA;DESCRIPCION CORTA;DESCRIPCION LARGA
+2023;0;;;;;Transferencias internas
+2023;0;00;;;;Transferencias internas
+2023;0;00;000;000X;;Transferencias y libramientos internos
+2023;1;;;;;Servicios públicos básicos
+2023;1;11;;;;Justicia
+2023;1;11;111;111M;;Gobierno del Poder Judicial
+2023;1;11;111;111N;;Dirección y Servicios Generales de Justicia
+2023;1;11;111;111O;;Selección y formación de jueces
+2023;1;11;111;111P;;Documentación y publicaciones judiciales
+2023;1;11;111;111Q;;Formación del Personal de la Administración de Justicia
+2023;1;11;111;111R;;Formación de la Carrera Fiscal
+2023;1;11;112;112A;;Tribunales de Justicia y Ministerio Fiscal
+2023;1;11;113;113M;;Registros vinculados con la Fe Pública
+2023;1;11;11K;11KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Justicia
+2023;1;12;;;;Defensa
+2023;1;12;121;121M;;Administración y Servicios Generales de Defensa
+2023;1;12;121;121N;;Formación del Personal de las Fuerzas Armadas
+2023;1;12;121;121O;;Personal en reserva
+2023;1;12;122;122A;;Modernización de las Fuerzas Armadas
+2023;1;12;122;122B;;Programas especiales de modernización
+2023;1;12;122;122M;;Gastos Operativos de las Fuerzas Armadas
+2023;1;12;122;122N;;Apoyo Logístico
+2023;1;12;12S;12SC;;C19.I03 Competencias digitales para el empleo. Defensa
+2023;1;13;;;;Seguridad ciudadana e instituciones penitenciarias
+2023;1;13;131;131M;;Dirección y Servicios Generales de Seguridad y Protección Civil
+2023;1;13;131;131N;;Formación de Fuerzas y Cuerpos de Seguridad del Estado
+2023;1;13;131;131O;;Fuerzas y Cuerpos en reserva
+2023;1;13;131;131P;;Derecho de asilo y apátridas
+2023;1;13;132;132A;;Seguridad ciudadana
+2023;1;13;132;132B;;Seguridad vial
+2023;1;13;132;132C;;Actuaciones policiales en materia de droga
+2023;1;13;133;133A;;Centros e Instituciones Penitenciarias
+2023;1;13;134;134M;;Protección Civil
+2023;1;13;135;135M;;Protección de datos de carácter personal
+2023;1;13;13K;13KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Seguridad Ciudadana e Instituciones Penitenciarias
+2023;1;13;13S;13SC;;C19.I03 Competencias digitales para el empleo. Seguridad Ciudadana e Instituciones Penitenciarias
+2023;1;14;;;;Política exterior
+2023;1;14;141;141M;;Dirección y Servicios Generales de Asuntos Exteriores, Unión Europea y Cooperación
+2023;1;14;142;142A;;Acción del Estado en el exterior
+2023;1;14;142;142B;;Acción Diplomática ante la Unión Europea
+2023;1;14;143;143A;;Cooperación para el desarrollo
+2023;1;14;144;144A;;Cooperación, promoción y difusión cultural en el exterior
+2023;1;14;144;144B;;Cooperación, promoción y difusión educativa en el exterior
+2023;1;14;14K;14KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Política exterior
+2023;1;14;14S;14SA;;C19.I01 Competencias digitales transversales. Política Exterior
+2023;1;14;14S;14SB;;C19.I02 Transformación Digital de la Educación. Política Exterior
+2023;1;14;14X;14XA;;C24.I01 Impulso de la competitividad de las industrias culturales. Política Exterior
+2023;1;14;14Y;14YA;;C25.I01 Programa de fomento, modernización y digitalización del sector audiovisual. Política Exterior
+2023;2;;;;;Protección y promoción social
+2023;2;21;;;;Pensiones
+2023;2;21;211;211A;;Pensiones contributivas de la Seguridad Social
+2023;2;21;211;211B;;Pensiones de Clases Pasivas
+2023;2;21;211;211C;;Otras pensiones y prestaciones de Clases Pasivas
+2023;2;21;212;212A;;Pensiones no contributivas y prestaciones asistenciales
+2023;2;21;212;212B;;Pensiones de guerra
+2023;2;21;212;212C;;Complementos por mínimos de las pensiones contributivas
+2023;2;21;219;219M;;Gestión de las prestaciones económicas de Seguridad Social
+2023;2;21;219;219N;;Gestión de pensiones de Clases Pasivas
+2023;2;22;;;;Otras prestaciones económicas
+2023;2;22;221;221A;;Ingreso mínimo vital y prestaciones familiares
+2023;2;22;221;221B;;Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social
+2023;2;22;222;222M;;Prestaciones económicas del Mutualismo Administrativo
+2023;2;22;223;223A;;Prestaciones de garantía salarial
+2023;2;22;224;224A;;Prestaciones económicas por cese de actividad
+2023;2;22;22K;22KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Otras Prestaciones Económicas.
+2023;2;23;;;;Servicios sociales y promoción social
+2023;2;23;231;231A;;Plan Nacional sobre Drogas
+2023;2;23;231;231B;;Acciones en favor de los emigrantes
+2023;2;23;231;231C;;Servicios Sociales de la Seguridad Social a personas con discapacidad
+2023;2;23;231;231D;;Servicios Sociales de la Seguridad Social a personas mayores
+2023;2;23;231;231E;;Otros servicios sociales de la Seguridad Social
+2023;2;23;231;231F;;Otros servicios sociales del Estado
+2023;2;23;231;231G;;Atención a la infancia y a las familias
+2023;2;23;231;231H;;Acciones en favor de los inmigrantes
+2023;2;23;231;231I;;Autonomía personal y atención a la dependencia
+2023;2;23;232;232A;;Promoción y servicios a la juventud
+2023;2;23;232;232B;;Igualdad de oportunidades entre mujeres y hombres
+2023;2;23;232;232C;;Actuaciones para la prevención integral de la violencia de género
+2023;2;23;232;232D;;Igualdad de trato y diversidad
+2023;2;23;232;232E;;Análisis y definición de objetivos y políticas de Inclusión
+2023;2;23;232;232F;;Derechos de los animales
+2023;2;23;232;232M;;Dirección y Servicios Generales de Igualdad
+2023;2;23;239;239M;;Gestión de los servicios sociales de la Seguridad Social
+2023;2;23;239;239N;;Dirección y Servicios Generales de Derechos Sociales y Agenda 2030
+2023;2;23;23V;23VA;;C22.I01 Plan de apoyos y cuidados de larga duración: desinstitucionalización, equipamientos y tecnología.
+2023;2;23;23V;23VB;;C22.I02 Plan de Modernización de los Servicios Sociales: Transformación tecnológica, innovación, formación y refuerzo de la atención a la infancia.
+2023;2;23;23V;23VC;;C22.I03 Plan España País Accesible.
+2023;2;23;23V;23VD;;C22.I04 Plan España te protege contra la violencia machista.
+2023;2;23;23V;23VE;;C22.I05 Incremento de la capacidad y eficiencia del sistema de acogida de solicitantes de asilo
+2023;2;23;23W;23WG;;C23.I07 Fomento del crecimiento inclusivo mediante la vinculación de las políticas de inclusión social al Ingreso Mínimo Vital
+2023;2;24;;;;Fomento del empleo
+2023;2;24;241;241A;;Fomento de la inserción y estabilidad laboral
+2023;2;24;241;241B;;Formación Profesional para el Empleo
+2023;2;24;241;241N;;Desarrollo del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas
+2023;2;24;24K;24KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Fomento del Empleo.
+2023;2;24;24S;24SC;;C19.I03 Competencias digitales para el empleo. Fomento del Empleo
+2023;2;24;24T;24TA;;C20.I01 Reskilling y upskilling de la población activa ligado a cualificaciones profesionales. Fomento del Empleo
+2023;2;24;24W;24WA;;C23.I01 Empleo Joven
+2023;2;24;24W;24WB;;C23.I02 Empleo Mujer y transversalidad de género en las políticas públicas de apoyo a la activación para el empleo
+2023;2;24;24W;24WC;;C23.I03 Adquisición de nuevas competencias para la transformación digital, verde y productiva
+2023;2;24;24W;24WD;;C23.I04 Nuevos proyectos territoriales para el reequilibrio y la equidad
+2023;2;24;24W;24WE;;C23.I05 Gobernanza e impulso a las políticas de apoyo a la activación para el empleo
+2023;2;25;;;;Desempleo
+2023;2;25;251;251M;;Prestaciones a los desempleados
+2023;2;26;;;;Acceso a la vivienda y fomento de la edificación
+2023;2;26;261;261N;;Promoción, administración y ayudas para rehabilitación y acceso a vivienda
+2023;2;26;261;261O;;Ordenación y fomento de la edificación
+2023;2;26;261;261P;;Urbanismo y política del suelo
+2023;2;26;26B;26BA;;C02.I01 Programa de rehabilitación para la recuperación económica y social en entornos residenciales
+2023;2;26;26B;26BB;;C02.I02 Programa de construcción de viviendas en alquiler social en edificios energéticamente eficientes
+2023;2;28;;;;Gestión y administración de Trabajo y Economía Social
+2023;2;28;281;281M;;Dirección y Servicios Generales de Trabajo y Economía Social
+2023;2;28;28K;28KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Gestión y Administración de Trabajo y Economía Social
+2023;2;28;28W;28WF;;C23.I06 Plan integral de impulso a la Economía Social para la generación de un tejido económico inclusivo y sostenible.
+2023;2;29;;;;Gestión y administración de la Seguridad Social
+2023;2;29;291;291A;;Inspección y control de Seguridad y Protección Social
+2023;2;29;291;291M;;Dirección y Servicios Generales de la Inclusión, de la Seguridad Social y de la Migración
+2023;2;29;29K;29KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Gestión y Administración de la Inclusión, de la Seguridad Social y de la Migración
+2023;3;;;;;Bienes públicos de carácter preferente
+2023;3;31;;;;Sanidad
+2023;3;31;310;310B;;Sanidad. Ayuda a la Recuperación para la Cohesión y los Territorios de Europa (REACT-EU)
+2023;3;31;311;311M;;Dirección y Servicios Generales de Sanidad
+2023;3;31;311;311O;;Políticas de Salud y Ordenación Profesional
+2023;3;31;312;312A;;Asistencia hospitalaria en las Fuerzas Armadas
+2023;3;31;312;312B;;Atención primaria de salud. Instituto Nacional de Gestión Sanitaria
+2023;3;31;312;312C;;Atención especializada de salud. Instituto Nacional de Gestión Sanitaria
+2023;3;31;312;312D;;Medicina marítima
+2023;3;31;312;312E;;Asistencia sanitaria del Mutualismo Administrativo
+2023;3;31;312;312F;;Atención primaria de salud de Mutuas colaboradoras con la Seguridad Social e Instituto Social de la Marina
+2023;3;31;312;312G;;Atención especializada de salud de Mutuas colaboradoras con la Seguridad Social e Instituto Social de la Marina
+2023;3;31;313;313A;;Prestaciones sanitarias y farmacia
+2023;3;31;313;313B;;Salud pública, sanidad exterior y calidad
+2023;3;31;313;313C;;Seguridad alimentaria y nutrición
+2023;3;31;313;313D;;Donación y trasplante de órganos, tejidos y células
+2023;3;31;313;313E;;Salud Digital, Información e Innovación del Sistema Nacional de Salud
+2023;3;31;31K;31KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Sanidad
+2023;3;31;31K;31KC;;C11.I03 Transformación Digital y Modernización de la AGE, CCAA y EELL. Sanidad
+2023;3;31;31R;31RA;;C18.I01 Plan de inversión en equipos de alta tecnología en el Sistema Nacional de Salud. Sanidad
+2023;3;31;31R;31RB;;C18.I02 Acciones para reforzar la prevención y promoción de la Salud. Sanidad
+2023;3;31;31R;31RC;;C18.I03 Aumento de capacidades de respuesta ante crisis sanitarias. Sanidad
+2023;3;31;31R;31RD;;C18.I04 Formación de profesionales sanitarios y recursos para compartir conocimiento
+2023;3;31;31R;31RE;;C18.I05 Plan para la racionalización del consumo de productos farmacéuticos y fomento de la sostenibilidad
+2023;3;31;31S;31SC;;C19.I03 Competencias digitales para el empleo. Sanidad
+2023;3;32;;;;Educación
+2023;3;32;321;321M;;Dirección y Servicios Generales de Educación y Formación Profesional
+2023;3;32;321;321N;;Formación permanente del profesorado de Educación
+2023;3;32;321;321O;;Dirección y Servicios Generales de Universidades
+2023;3;32;322;322A;;Educación Infantil y Primaria
+2023;3;32;322;322B;;Educación Secundaria, Formación Profesional y Escuelas Oficiales de Idiomas
+2023;3;32;322;322C;;Enseñanzas universitarias
+2023;3;32;322;322E;;Enseñanzas artísticas
+2023;3;32;322;322F;;Educación en el exterior
+2023;3;32;322;322G;;Educación compensatoria
+2023;3;32;322;322I;;Enseñanzas especiales
+2023;3;32;322;322L;;Inversiones en centros educativos y otras actividades educativas
+2023;3;32;323;323M;;Becas y ayudas a estudiantes
+2023;3;32;32S;32SA;;C19.I01 Competencias digitales transversales. Educación
+2023;3;32;32S;32SB;;C19.I02 Transformación Digital de la Educación. Educación
+2023;3;32;32T;32TA;;C20.I01 Reskilling y upskilling de la población activa ligado a cualificaciones profesionales. Educación
+2023;3;32;32T;32TB;;C20.I02 Transformación Digital de la Formación Profesional
+2023;3;32;32T;32TC;;C20.I03 Innovación e internacionalización de la formación profesional
+2023;3;32;32T;32TR;;C20.R01 Plan de modernización de la Formación Profesional
+2023;3;32;32U;32UA;;"C21.I01 Creación de plazas del Primer Ciclo de Educación Infantil de titularidad pública (prioritariamente de 1 y 2 años): Reforma/rehabilitación y equipamiento para nuevas unidades; nueva construcción y equipamiento; y, gastos de personal y otros gastos."
+2023;3;32;32U;32UB;;C21.I02 Programa de Orientación, Avance y Enriquecimiento Educativo en centros de especial complejidad educativa (Programa #PROA+).
+2023;3;32;32U;32UC;;C21.I03 Creación de Unidades de Acompañamiento y Orientación Personal y Familiar del alumnado educativamente vulnerable, en los servicios educativos o psicopedagógicos situados en zonas y distritos escolares.
+2023;3;32;32U;32US;;C21.R02 Diseño y aplicación de nuevo modelo curricular por competencias clave, priorizando aprendizajes fundamentales, y regulación de una ordenación académica inclusiva
+2023;3;33;;;;Cultura
+2023;3;33;331;331M;;Dirección y Servicios Generales de Cultura y Deporte
+2023;3;33;332;332A;;Archivos
+2023;3;33;332;332B;;Bibliotecas
+2023;3;33;333;333A;;Museos
+2023;3;33;333;333B;;Exposiciones
+2023;3;33;334;334A;;Promoción y cooperación cultural
+2023;3;33;334;334B;;Promoción del libro y publicaciones culturales
+2023;3;33;334;334C;;Fomento de las industrias culturales
+2023;3;33;335;335A;;Música y danza
+2023;3;33;335;335B;;Teatro
+2023;3;33;335;335C;;Cinematografía
+2023;3;33;336;336A;;Fomento y apoyo de las actividades deportivas
+2023;3;33;337;337A;;Administración del Patrimonio Histórico-Nacional
+2023;3;33;337;337B;;Conservación y restauración de bienes culturales
+2023;3;33;337;337C;;Protección del Patrimonio Histórico
+2023;3;33;337;337D;;Administración de los Reales Patronatos
+2023;3;33;33S;33SC;;C19.I03 Competencias digitales para el empleo. Cultura
+2023;3;33;33X;33XA;;C24.I01 Impulso de la competitividad de las industrias culturales. Cultura
+2023;3;33;33X;33XB;;C24.I02 Dinamización de la cultura a lo largo del territorio
+2023;3;33;33X;33XC;;C24.I03 Digitalización e impulso de los grandes servicios culturales. Cultura
+2023;3;33;33Y;33YA;;C25.I01 Programa de fomento, modernización y digitalización del sector audiovisual. Cultura
+2023;3;33;33Z;33ZA;;C26.I01 Plan de Digitalización del Sector Deporte
+2023;3;33;33Z;33ZB;;C26.I02 Plan de Transición Ecológica de Instalaciones Deportivas
+2023;3;33;33Z;33ZC;;C26.I03 Plan Social del Sector Deporte
+2023;4;;;;;Actuaciones de carácter económico
+2023;4;41;;;;Agricultura, pesca y alimentación
+2023;4;41;411;411M;;Dirección y Servicios Generales de Agricultura, Pesca y Alimentación
+2023;4;41;412;412C;;Competitividad y calidad de la producción y los mercados agrarios
+2023;4;41;412;412D;;Competitividad y calidad de la sanidad agraria
+2023;4;41;412;412M;;Regulación de los mercados agrarios
+2023;4;41;413;413A;;Competitividad industria agroalimentaria y calidad alimentaria
+2023;4;41;414;414A;;Gestión de recursos hídricos para el regadío, caminos naturales y otras infraestructuras rurales
+2023;4;41;414;414B;;Desarrollo del medio rural
+2023;4;41;415;415A;;Protección de los recursos pesqueros y desarrollo sostenible
+2023;4;41;415;415B;;Mejora de estructuras y mercados pesqueros
+2023;4;41;416;416A;;Previsión de riesgos en las producciones agrarias y pesqueras
+2023;4;41;41C;41CA;;C03.I01 Plan para la mejora de la eficiencia y la sostenibilidad en regadíos
+2023;4;41;41C;41CB;;C03.I02 Plan de Impulso de la sostenibilidad y competitividad de la agricultura y la ganadería (I): Modernizar los laboratorios de sanidad animal y vegetal
+2023;4;41;41C;41CC;;C03.I03 Plan de Impulso de la sostenibilidad y competitividad de la agricultura y la ganadería (II): Reforzar sistemas de capacitación y bioseguridad en viveros y explotaciones ganaderas
+2023;4;41;41C;41CD;;C03.I04 Plan de Impulso de la sostenibilidad y competitividad de la agricultura y la ganadería (III): Inversiones en agricultura de precisión, eficiencia energética y economía circular
+2023;4;41;41C;41CE;;C03.I05 Estrategia de Digitalización del sector Agroalimentario y Forestal y del Medio Rural: Desarrollo de actuaciones para dar apoyo a la digitalización y el emprendimiento del sector agroalimentario y forestal y del medio rural
+2023;4;41;41C;41CF;;C03.I06 Plan de impulso a la sostenibilidad, investigación, innovación y digitalización del sector pesquero (I): Modernización de la Red de Reservas Marinas de Interés Pesquero
+2023;4;41;41C;41CG;;C03.I07 Plan de impulso a la sostenibilidad, investigación, innovación y digitalización del sector pesquero (II): Impulso de la investigación pesquera y acuícola y apoyo a la formación
+2023;4;41;41C;41CH;;C03.I08 Plan de impulso a la sostenibilidad, investigación, innovación y digitalización del sector pesquero (III): Desarrollo tecnológico e innovación en el sector pesquero y acuícola
+2023;4;41;41C;41CI;;C03.I09 Plan de impulso a la sostenibilidad, investigación, innovación y digitalización del sector pesquero (IV): Digitalización y uso de TICs en el sector pesquero
+2023;4;41;41C;41CJ;;C03.I10 Plan de impulso a la sostenibilidad, investigación, innovación y digitalización del sector pesquero (V): Apoyo a la lucha contra la pesca ilegal, no declarada y no reglamentada
+2023;4;41;41K;41KB;;C11. I02 Proyectos tractores de digitalización de la Administración General del Estado. Agricultura y Alimentación
+2023;4;42;;;;Industria y energía
+2023;4;42;421;421M;;Dirección y Servicios Generales de Industria, Comercio y Turismo
+2023;4;42;421;421N;;Regulación y protección de la Propiedad Industrial
+2023;4;42;421;421O;;Calidad y seguridad industrial
+2023;4;42;422;422A;;Incentivos regionales a la localización industrial
+2023;4;42;422;422B;;Desarrollo industrial
+2023;4;42;422;422M;;Reconversión y reindustrialización
+2023;4;42;423;423N;;Explotación minera
+2023;4;42;424;424M;;Seguridad nuclear y protección radiológica
+2023;4;42;425;425A;;Normativa y desarrollo energético
+2023;4;42;42A;42AB;;C01.I02 Plan de incentivos a la instalación de puntos de recarga, a la adquisición de vehículos eléctricos y de pila de combustible y a la innovación en electromovilidad, recarga e hidrógeno verde
+2023;4;42;42B;42BC;;C02.I03 Programa de rehabilitación energética de edificios (PREE)
+2023;4;42;42B;42BD;;C02.I04 Programa de regeneración y reto demográfico
+2023;4;42;42G;42GA;;C07.I01 Desarrollo de energías renovables innovadoras, integradas en la edificación y en los procesos productivos
+2023;4;42;42G;42GB;;C07.I02 Energía sostenible en las islas
+2023;4;42;42H;42HA;;C08.I01 Despliegue del almacenamiento energético
+2023;4;42;42H;42HB;;C08.I02 Digitalización de las redes
+2023;4;42;42H;42HC;;C08.I03 Nuevos modelos de negocio en la transición energética
+2023;4;42;42I;42IA;;C09.I01 Hidrógeno renovable: un proyecto país
+2023;4;42;42J;42JA;;C10.I01 Inversiones en transición justa
+2023;4;42;42K;42KD;;C11.I04 Plan de Transición Energética en la Administración General del Estado
+2023;4;42;42L;42LB;;C12.I02 Programa de impulso de la Competitividad y Sostenibilidad Industrial e I+D+i
+2023;4;42;42M;42MA;;C13.I01 Emprendimiento. Industria
+2023;4;42;42M;42ME;;C13.I05 Internacionalización. Industria
+2023;4;43;;;;Comercio, turismo y PYMES
+2023;4;43;431;431A;;Promoción comercial e internacionalización de la empresa
+2023;4;43;431;431N;;Ordenación del comercio exterior
+2023;4;43;431;431O;;Ordenación y modernización de las estructuras comerciales
+2023;4;43;432;432A;;Coordinación y promoción del turismo
+2023;4;43;433;433M;;Apoyo a la pequeña y mediana empresa
+2023;4;43;43M;43MA;;C13.I01 Emprendimiento. PYMES
+2023;4;43;43M;43MB;;C13.I02 Crecimiento. PYMES
+2023;4;43;43M;43MC;;C13.I03 Digitalización e Innovación I. PYMES
+2023;4;43;43M;43MD;;C13.I04 Apoyo al Comercio
+2023;4;43;43M;43ME;;C13.I05 Internacionalización. PYMES
+2023;4;43;43N;43NA;;C14.I01 Transformación del modelo turístico hacia la sostenibilidad.
+2023;4;43;43N;43NB;;C14.I02 Programa de digitalización e inteligencia para destinos y sector turístico. Comercio, Turismo y PYMES
+2023;4;43;43N;43NC;;C14.I03 Estrategias de resiliencia turística para territorios extrapeninsulares.
+2023;4;43;43N;43ND;;C14.I04 Actuaciones especiales en el ámbito de la competitividad.
+2023;4;44;;;;Subvenciones al transporte
+2023;4;44;441;441M;;Subvenciones y apoyo al transporte terrestre
+2023;4;44;441;441N;;Subvenciones y apoyo al transporte marítimo
+2023;4;44;441;441O;;Subvenciones y apoyo al transporte aéreo
+2023;4;44;441;441P;;Subvenciones al transporte extrapeninsular de mercancías
+2023;4;45;;;;Infraestructuras
+2023;4;45;451;451M;;Estudios y servicios de asistencia técnica en Obras Públicas y Urbanismo
+2023;4;45;451;451N;;Dirección y Servicios Generales de Transportes, Movilidad y Agenda Urbana
+2023;4;45;451;451O;;Dirección y Servicios Generales para la Transición Ecológica y el Reto Demográfico
+2023;4;45;452;452A;;Gestión e infraestructuras del agua
+2023;4;45;452;452M;;Normativa y ordenación territorial de los recursos hídricos
+2023;4;45;453;453A;;Infraestructura del transporte ferroviario
+2023;4;45;453;453B;;Creación de infraestructura de carreteras
+2023;4;45;453;453C;;Conservación y explotación de carreteras
+2023;4;45;453;453M;;Ordenación e inspección del transporte terrestre
+2023;4;45;453;453N;;Regulación y supervisión de la seguridad ferroviaria
+2023;4;45;453;453O;;Comisión de Investigación de Accidentes Ferroviarios
+2023;4;45;454;454M;;Regulación y seguridad del tráfico marítimo
+2023;4;45;454;454O;;Comisión de Investigación de Accidentes e Incidentes Marítimos
+2023;4;45;455;455M;;Regulación y supervisión de la aviación civil
+2023;4;45;455;455O;;Comisión de Investigación de Accidentes e Incidentes de Aviación Civil
+2023;4;45;456;456A;;Calidad del agua
+2023;4;45;456;456B;;Protección y mejora del medio ambiente
+2023;4;45;456;456C;;Protección y mejora del medio natural
+2023;4;45;456;456D;;Actuación en la costa
+2023;4;45;456;456E;;Reto demográfico y lucha contra la despoblación
+2023;4;45;456;456M;;Actuaciones para la prevención de la contaminación y el cambio climático
+2023;4;45;456;456N;;Transición justa
+2023;4;45;45A;45AA;;C01.I01 Zonas de bajas emisiones y transformación del transporte urbano y metropolitano. Infraestructuras y Ecosistemas Resilientes
+2023;4;45;45A;45AC;;C01.I03 Actuaciones de mejora de la calidad y fiabilidad en el servicio de Cercanías.
+2023;4;45;45D;45DA;;C04.I01 Digitalización y conocimientos del patrimonio natural
+2023;4;45;45D;45DB;;C04.I02 Conservación de la biodiversidad terrestre marina
+2023;4;45;45D;45DC;;C04.I03 Restauración de ecosistemas e infraestructura verde
+2023;4;45;45D;45DD;;C04.I04 Gestión forestal sostenible
+2023;4;45;45E;45EA;;C05.I01 Materialización de actuaciones de depuración, saneamiento, eficiencia, ahorro, reutilización y seguridad de infraestructuras (DSEAR)
+2023;4;45;45E;45EB;;C05.I02 Seguimiento y restauración de ecosistemas fluviales, recuperación de acuíferos y mitigación del riesgo de inundación
+2023;4;45;45E;45EC;;C05.I03 Transición digital en el sector del agua. Infraestructuras y Ecosistemas Resilientes.
+2023;4;45;45E;45ED;;C05.I04 Adaptación de la costa al cambio climático e implementación de las Estrategias Marinas y de los planes de ordenación del espacio marítimo
+2023;4;45;45F;45FA;;C06.I01 Red nacional de transporte: Corredores europeos.
+2023;4;45;45F;45FB;;C06.I02 Red Transeuropea de Transporte. Otras actuaciones. Infraestructuras y Ecosistemas Resilientes
+2023;4;45;45F;45FC;;C06.I03 Intermodalidad y logística
+2023;4;45;45F;45FD;;C06.I04 Programa de apoyo para un transporte sostenible y digital
+2023;4;45;45L;45LC;;C12.I03 Plan de apoyo a la implementación de la normativa de residuos y al fomento de la economía circular
+2023;4;45;45S;45SA;;C19.I01 Competencias digitales transversales. Transición Ecológica
+2023;4;45;45S;45SC;;C19.I03 Competencias digitales para el empleo. Transportes y Movilidad.
+2023;4;46;;;;Investigación, desarrollo e innovación
+2023;4;46;461;461M;;Dirección y Servicios Generales de Ciencia e Innovación
+2023;4;46;462;462M;;Investigación y estudios sociológicos y constitucionales
+2023;4;46;462;462N;;Investigación y estudios estadísticos y económicos
+2023;4;46;463;463A;;Investigación científica
+2023;4;46;463;463B;;Fomento y coordinación de la investigación científica y técnica
+2023;4;46;464;464A;;Investigación y estudios de las Fuerzas Armadas
+2023;4;46;464;464B;;Apoyo a la innovación tecnológica en el sector de la defensa
+2023;4;46;465;465A;;Investigación sanitaria
+2023;4;46;467;467B;;Investigación, desarrollo y experimentación en transporte e infraestructuras
+2023;4;46;467;467C;;Investigación y desarrollo tecnológico-industrial
+2023;4;46;467;467G;;Investigación y desarrollo de la Sociedad de la Información
+2023;4;46;467;467H;;Investigación energética, medioambiental y tecnológica
+2023;4;46;467;467I;;Innovación tecnológica de las telecomunicaciones
+2023;4;46;46A;46AA;;C01.I01 Zonas de bajas emisiones y transformación del transporte urbano y metropolitano. I+D+i+Digitalización
+2023;4;46;46F;46FB;;C06.I02 Red Transeuropea de Transporte. Otras actuaciones. I+D+i+Digitalización
+2023;4;46;46K;46KA;;C11.I01 Modernización de la Administración General del Estado. I+D+i+Digitalización
+2023;4;46;46L;46LA;;C12.I01 Espacios de datos sectoriales (contribución a proyectos tractores de digitalización de los sectores productivos estratégicos)
+2023;4;46;46L;46LB;;C12.I02 Programa de impulso de la Competitividad y Sostenibilidad Industrial. I+D+i+Digitalización
+2023;4;46;46M;46MA;;C13.I01 Emprendimiento. I+D+i+Digitalización
+2023;4;46;46M;46MC;;C13.I03 Digitalización e Innovación I. I+D+i+Digitalización
+2023;4;46;46N;46NB;;C14.I02 Programa de digitalización e inteligencia para destinos y sector turístico. I+D+i+Digitalización
+2023;4;46;46O;46OA;;C15.I01 Favorecer la vertebración territorial mediante despliegue de redes: Extensión de la banda ancha ultrarrápida y cobertura en movilidad de 30 Mbps
+2023;4;46;46O;46OB;;C15.I02 Refuerzo de conectividad en centros de referencia, motores socioeconómicos y proyectos tractores de digitalización sectorial
+2023;4;46;46O;46OC;;C15.I03 Bonos de conectividad para PYMES y colectivos vulnerables
+2023;4;46;46O;46OD;;C15.I04 Renovación y sostenibilidad de infraestructuras
+2023;4;46;46O;46OE;;C15.I05 Despliegue de infraestructuras digitales transfronterizas. I+D+i+Digitalización
+2023;4;46;46O;46OG;;"C15.I07 Ciberseguridad: Fortalecimiento de las capacidades de ciudadanos, PYMES y profesionales; e Impulso del ecosistema del sector"
+2023;4;46;46P;46PR;;C16.R01 Estrategia Nacional de IA
+2023;4;46;46Q;46QA;;C17.I01 Planes Complementarios con CCAA
+2023;4;46;46Q;46QB;;C17.I02 Fortalecimiento de las capacidades, infraestructuras y equipamientos de los agentes del SECTI
+2023;4;46;46Q;46QC;;C17.I03 Nuevos proyectos I+D+I Publico Privados, Interdisciplinares, Pruebas de concepto y concesión de ayudas consecuencia de convocatorias competitivas internacionales. I+D de vanguardia orientada a retos de la sociedad. Compra pública pre-comercial.
+2023;4;46;46Q;46QD;;C17.I04 Nueva carrera científica
+2023;4;46;46Q;46QE;;C17.I05 Reforma de capacidades del sistema nacional de ciencia, tecnología e innovación: Transferencia de conocimiento
+2023;4;46;46Q;46QF;;C17.I06 Reforma de capacidades del sistema nacional de ciencia, tecnología e innovación: Salud
+2023;4;46;46Q;46QG;;C17.I07 Reforma de capacidades del sistema nacional de ciencia, tecnología e innovación: Medioambiente, cambio climático y energía
+2023;4;46;46Q;46QI;;C17.I09 Reforma de capacidades del sistema nacional de ciencia, tecnología e innovación: Sector aeroespacial
+2023;4;46;46R;46RF;;C18.I06 Data lake Sanitario
+2023;4;46;46S;46SA;;C19.I01 Competencias digitales transversales. I+D+i+Digitalización
+2023;4;46;46S;46SC;;C19.I03 Competencias digitales para el empleo. I+D+i+Digitalización
+2023;4;46;46S;46SD;;C19.I04 Profesionales digitales
+2023;4;46;46U;46UD;;C21.I04 Formación y capacitación del personal docente e investigador
+2023;4;46;46U;46UE;;C21.I05 Mejora de infraestructuras digitales, el equipamiento, las tecnologías, la docencia y la evaluación digitales universitarios
+2023;4;49;;;;Otras actuaciones de carácter económico
+2023;4;49;491;491M;;Ordenación y promoción de las telecomunicaciones y de la Sociedad de la Información
+2023;4;49;491;491N;;Servicio postal universal
+2023;4;49;492;492M;;Defensa de la competencia en los mercados y regulación de sectores productivos
+2023;4;49;492;492N;;Regulación y vigilancia de la competencia en el Mercado de Tabacos
+2023;4;49;492;492O;;Protección y promoción de los derechos de los consumidores y usuarios
+2023;4;49;493;493M;;Dirección, control y gestión de seguros
+2023;4;49;493;493O;;Regulación contable y de auditorías
+2023;4;49;494;494M;;Administración de las relaciones laborales y condiciones de trabajo
+2023;4;49;495;495A;;Desarrollo y aplicación de la información geográfica española
+2023;4;49;495;495B;;Meteorología
+2023;4;49;495;495C;;Metrología
+2023;4;49;496;496M;;Regulación del juego
+2023;4;49;497;497M;;Salvamento y lucha contra la contaminación en la mar
+2023;4;49;498;498M;;Dirección y Servicios Generales de Consumo
+2023;4;49;49E;49EC;;C05.I03 Transición digital en el sector del agua. Otras actuaciones de carácter económico.
+2023;4;49;49K;49KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Otras Actuaciones de Carácter Económico
+2023;4;49;49L;49LB;;C12.I02 Programa de impulso de la Competitividad y Sostenibilidad Industrial. Otras Actuaciones de Carácter Económico
+2023;4;49;49O;49OF;;C15.I06 Despliegue del 5G: redes, cambio tecnológico e innovación
+2023;4;49;49O;49OS;;C15.R02 Hoja de ruta 5G: Gestión y asignación del espectro, reducción de cargas al despliegue, Ley de Ciberseguridad 5G y Apoyo a entidades locales
+2023;4;49;49R;49RC;;C18.I03 Aumento de capacidades de respuesta ante crisis sanitarias. Otras Actuaciones de Carácter Económico
+2023;9;;;;;Actuaciones de carácter general
+2023;9;91;;;;Alta dirección
+2023;9;91;911;911M;;Jefatura del Estado
+2023;9;91;911;911N;;Actividad legislativa
+2023;9;91;911;911O;;Control externo del Sector Público
+2023;9;91;911;911P;;Control Constitucional
+2023;9;91;911;911Q;;Apoyo a la gestión administrativa de la Jefatura del Estado
+2023;9;91;912;912M;;Presidencia del Gobierno
+2023;9;91;912;912N;;Alto asesoramiento del Estado
+2023;9;91;912;912O;;Relaciones con las Cortes Generales, Secretariado del Gobierno y apoyo a la Alta Dirección
+2023;9;91;912;912P;;Asesoramiento del Gobierno en materia social, económica y laboral
+2023;9;91;912;912Q;;Asesoramiento para la protección de los intereses nacionales
+2023;9;92;;;;Servicios de carácter general
+2023;9;92;921;921M;;Dirección y Servicios Generales de Política Territorial
+2023;9;92;921;921N;;Dirección y organización de la Administración Pública
+2023;9;92;921;921O;;Formación del personal de las Administraciones Públicas
+2023;9;92;921;921P;;Administración General del Estado en el Territorio
+2023;9;92;921;921Q;;Cobertura informativa
+2023;9;92;921;921R;;Publicidad de las normas legales
+2023;9;92;921;921S;;Asesoramiento y defensa de los intereses del Estado
+2023;9;92;921;921T;;Servicios de transportes de Ministerios
+2023;9;92;921;921U;;Publicaciones
+2023;9;92;921;921X;;Evaluación de la transparencia de la actividad pública
+2023;9;92;921;921Y;;Agenda 2030
+2023;9;92;922;922M;;Organización territorial del Estado y desarrollo de sus sistemas de colaboración
+2023;9;92;922;922N;;Coordinación y relaciones financieras con los Entes Territoriales
+2023;9;92;923;923A;;Gestión del Patrimonio del Estado
+2023;9;92;923;923C;;Elaboración y difusión estadística
+2023;9;92;923;923M;;Dirección y Servicios Generales de Hacienda y Función Pública
+2023;9;92;923;923N;;Formación del personal de Economía y Hacienda
+2023;9;92;923;923O;;Gestión de la Deuda y de la Tesorería del Estado
+2023;9;92;923;923P;;Relaciones con Instituciones Financieras Multilaterales
+2023;9;92;923;923Q;;Dirección y Servicios Generales de Asuntos Económicos y Transformación Digital
+2023;9;92;923;923R;;Contratación centralizada
+2023;9;92;923;923S;;Aportaciones al Mutualismo Administrativo
+2023;9;92;924;924M;;Elecciones y Partidos Políticos
+2023;9;92;925;925M;;Memoria democrática
+2023;9;92;929;929N;;Fondo de contingencia de ejecución presupuestaria
+2023;9;92;92K;92KA;;C11.I01 Modernización de la Administración General del Estado. Servicios de carácter general
+2023;9;92;92K;92KC;;C11.I03 Transformación Digital y Modernización de la AGE. Servicios de carácter general
+2023;9;92;92S;92SC;;C19.I03 Competencias digitales para el empleo. Servicios de carácter general
+2023;9;93;;;;Administración financiera y tributaria
+2023;9;93;931;931M;;Previsión y política económica
+2023;9;93;931;931N;;Política presupuestaria
+2023;9;93;931;931O;;Política tributaria
+2023;9;93;931;931P;;Control interno y Contabilidad Pública
+2023;9;93;931;931Q;;Control y Supervisión de la Política Fiscal
+2023;9;93;932;932A;;Aplicación del sistema tributario estatal
+2023;9;93;932;932M;;Gestión del catastro inmobiliario
+2023;9;93;932;932N;;Resolución de reclamaciones económico-administrativas
+2023;9;93;93K;93KE;;C11.I05 Transformación de la Administración para la Ejecución del PRTR. Administración Financiera y Tributaria
+2023;9;94;;;;Transferencias a otras admones. públicas
+2023;9;94;941;941M;;Transferencias a Comunidades Autónomas por participación en los ingresos del Estado
+2023;9;94;941;941N;;Transferencias a Comunidades Autónomas por los Fondos de Compensación Interterritorial
+2023;9;94;941;941O;;Otras transferencias a Comunidades Autónomas
+2023;9;94;942;942A;;Cooperación económica local del Estado
+2023;9;94;942;942M;;Transferencias a Entidades Locales por participación en los ingresos del Estado
+2023;9;94;942;942N;;Otras transferencias a Entidades Locales
+2023;9;94;943;943M;;Transferencias al Presupuesto General de la Unión Europea
+2023;9;94;943;943N;;Cooperación a través del Fondo Europeo de Desarrollo y del Fondo Europeo de Apoyo a la Paz
+2023;9;94;94K;94KC;;C11.I03 Transformación Digital y Modernización de las CCAA y EELL. Transferencias a otras AA.PP.
+2023;9;95;;;;Deuda pública
+2023;9;95;951;951M;;Amortización y gastos financieros de la deuda pública en euros
+2023;9;95;951;951N;;Amortización y gastos financieros de la deuda pública en moneda extranjera
