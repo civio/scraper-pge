@@ -1,12 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    mini_portile2 (2.8.0)
+    mini_portile2 (2.8.1)
     mustache (1.1.1)
-    nokogiri (1.13.4)
+    nokogiri (1.14.3)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    racc (1.6.0)
+    racc (1.6.2)
     unicode_utils (1.4.0)
 
 PLATFORMS
