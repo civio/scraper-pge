@@ -7392,6 +7392,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2023;29050;23VA;754/29050;;08;Estrategia nacional para el impulso de la desinstitucionalización y el cambio de modelo de cuidados de larga duración. Mecanismo de Recuperación y Resiliencia;50000
 2023;29050;23VA;755/29050;;;Transformación de política de cuidados. Mecanismo de Recuperación y Resiliencia;105242860
 2023;29050;23VA;755/29050;;01;Para cambio de modelo de cuidados de larga duración. Mecanismo de Recuperación y Resiliencia;105242860
+2023;60002;23VA;6;;;INVERSIONES REALES;2460470
+2023;60002;23VA;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;2460470
 2023;29050;23VB;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;21788780
 2023;29050;23VB;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;21788780
 2023;29050;23VB;290;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;21788780
@@ -8812,6 +8814,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2023;32050;29KB;6;;;INVERSIONES REALES;9555000
 2023;32050;29KB;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;9555000
 2023;32050;29KB;697;;;Proyectos tractores de digitalización de la AGE. Mecanismo de Recuperación y Resiliencia;9555000
+2023;60003;29KB;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;10000000
+2023;60003;29KB;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;10000000
+2023;60003;29KB;6;;;INVERSIONES REALES;129500000
+2023;60003;29KB;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;129500000
+2023;60003;29SC;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;36000000
+2023;60003;29SC;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;36000000
 2023;26051;310B;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1116000000
 2023;26051;310B;22;;;Material, suministros y otros;1116000000
 2023;26051;310B;221;;;Suministros;1116000000
@@ -9872,6 +9880,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2023;31101;31RC;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;1913470
 2023;31101;31RC;690;;;Inversión nueva en infraestructuras y bienes destinados al uso general.  Mecanismo de Recuperación y Resiliencia.;1691090
 2023;31101;31RC;691;;;Inversión de reposición en infraestructuras y bienes destinados al uso general. Mecanismo de Recuperación y Resiliencia;222380
+2023;60002;31RC;6;;;INVERSIONES REALES;15660000
+2023;60002;31RC;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;15660000
 2023;26050;31RD;4;;;TRANSFERENCIAS CORRIENTES;3500000
 2023;26050;31RD;45;;;A Comunidades Autónomas;3500000
 2023;26050;31RD;456/26050;;;A Comunidades Autónomas, para el fomento de la formación continuada de los profesionales de la sanidad. Mecanismo de Recuperación y Resiliencia;3500000
@@ -27197,13 +27207,3 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2023;06005;951N;331;;;Gastos de emision, modificacion y cancelacion;6000
 2023;06005;951N;35;;;Intereses de demora y otros gastos financieros;6000
 2023;06005;951N;352;;;Intereses de demora;6000
-2023;60002;23VA;6;;;INVERSIONES REALES;2460470
-2023;60002;23VA;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;2460470
-2023;60003;29KB;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;10000000
-2023;60003;29KB;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;10000000
-2023;60003;29KB;6;;;INVERSIONES REALES;129500000
-2023;60003;29KB;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;129500000
-2023;60003;29SC;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;36000000
-2023;60003;29SC;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;36000000
-2023;60002;31RC;6;;;INVERSIONES REALES;15660000
-2023;60002;31RC;69;;;Inversiones reales. Mecanismo de Recuperación y Resiliencia;15660000
