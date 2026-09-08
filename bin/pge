@@ -1,0 +1,70 @@
+#!/usr/bin/env ruby
+# Command line interface to the Presupuestos Generales del Estado parser.
+#
+#   bin/pge parse 2023      extract the budget into output/2023/*.csv
+#   bin/pge summary 2023    write output/2023/README.md with the key figures
+#   bin/pge all 2023        both of the above
+#
+# A budget id is the year, optionally followed by a 'P' for the version sent to parliament
+# ('el Proyecto'), i.e. '2023' or '2023P'.
+
+require 'optparse'
+
+require_relative '../lib/budget'
+require_relative '../lib/budget_parser'
+require_relative '../lib/budget_summary_renderer'
+
+COMMANDS = %w[parse summary all].freeze
+
+options = {}
+parser = OptionParser.new do |opts|
+  opts.banner = "Usage: bin/pge {#{COMMANDS.join('|')}} BUDGET_ID [options]"
+  opts.separator ''
+  opts.separator "  parse     Extract all information from the budget files"
+  opts.separator "  summary   Generate a summary with the budget key figures"
+  opts.separator "  all       Run both, in order"
+  opts.separator ''
+
+  opts.on('-i', '--input PATH',
+          'Budget .zip archive or extracted folder',
+          '(default: raw/BUDGET_ID.zip, or raw/BUDGET_ID)') { |v| options[:input] = v }
+  opts.on('-o', '--output PATH',
+          'Folder for the generated files (default: output/BUDGET_ID)') { |v| options[:output] = v }
+  opts.on('-h', '--help', 'Show this message') { puts opts; exit }
+end
+parser.parse!
+
+command, budget_id = ARGV
+abort parser.help if command.nil? || budget_id.nil?
+abort "Unknown command '#{command}'.\n\n#{parser.help}" unless COMMANDS.include?(command)
+abort "'#{budget_id}' is not a budget id, expected something like 2023 or 2023P" unless budget_id =~ /\A\d{4}P?\z/
+
+root = File.expand_path('..', __dir__)
+year = budget_id[0..3]          # Sometimes there's a P for 'Proposed' at the end. Ignore that bit
+is_final = (budget_id.length == 4)
+output_path = options[:output] || File.join(root, 'output', budget_id)
+
+# The archives are named after the budget, but an already extracted copy is fine too
+input_path = options[:input] || [
+  File.join(root, 'raw', "#{budget_id}.zip"),
+  File.join(root, 'raw', budget_id)
+].find { |candidate| File.exist?(candidate) }
+
+if input_path.nil? || !File.exist?(input_path)
+  abort "Can't find the budget files for #{budget_id}. Expected raw/#{budget_id}.zip " \
+        "or raw/#{budget_id}/, or pass --input PATH."
+end
+
+BudgetSource.open(input_path) do |source|
+  budget = Budget.new(source, is_final)
+
+  if %w[parse all].include?(command)
+    puts "Parsing budget #{budget_id} from #{input_path}"
+    BudgetParser.new(budget, year, output_path).run
+  end
+
+  if %w[summary all].include?(command)
+    puts "Rendering budget summary for #{budget_id}"
+    puts BudgetSummaryRenderer.new(budget, year, output_path).run
+  end
+end

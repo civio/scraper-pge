@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'nokogiri'
-require 'open-uri'
 require_relative 'base_breakdown'
 
 # Parser for income breakdowns (Serie Roja / Red books), i.e. pages like [1], [2] or [3].
@@ -15,14 +14,15 @@ require_relative 'base_breakdown'
 class IncomeBreakdown < BaseBreakdown
   attr_reader :year, :entity_type, :section, :entity_id
 
-  def initialize(filename)
-    filename =~ INCOME_BKDOWN
+  def initialize(document)
+    @document = document
+    @filename = document.name
+    @filename =~ INCOME_BKDOWN
 
     @year = '20'+$1
     @entity_type = $2       # 1 for state, 2-4 for non-state, 5 Social Security
     @section = $3           # Parent section
     @entity_id = $4         # Id of the service/department of the section
-    @filename = filename
   end
 
   # This bit always breaks every year, so I'm using brute force...
@@ -107,7 +107,9 @@ class IncomeBreakdown < BaseBreakdown
   INCOME_BKDOWN = /N_(\d\d)_[ASE]_R_2_10(\d)_1_2_1(\d\d)_1_1(\d\d+)_1.HTM/  
   
   def doc
-    @doc = Nokogiri::HTML(open(@filename)) if @doc.nil?  # Lazy parsing of doc, only when needed
+    # Lazy parsing of doc, only when needed. Note the page is handed over as raw bytes, so
+    # that Nokogiri honours the windows-1252 charset the page declares for itself.
+    @doc = Nokogiri::HTML(@document.read) if @doc.nil?
     @doc
   end
 end

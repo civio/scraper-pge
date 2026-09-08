@@ -84,40 +84,44 @@ require 'bigdecimal'
 # TODO: Actually, we could probably remove this class and move the methods below into the
 # breakdown classes, as class methods.
 
+require_relative 'budget_source'
 require_relative 'entity_breakdown'
 require_relative 'programme_breakdown'
 require_relative 'income_breakdown'
 require_relative 'generic_breakdown'
 
 class Budget
-  def initialize(path, is_final)
-    @path = path || ''
+  # `source` is a BudgetSource, i.e. either one of the ministry's .zip archives or an
+  # extracted copy of one.
+  def initialize(source, is_final)
+    @source = source
     @is_final = is_final
   end
-  
+
   def entity_breakdowns
-    Dir[@path+'/doc/HTM/*.HTM'].
-        select {|f| EntityBreakdown.entity_breakdown? f }.
-        map {|f| EntityBreakdown.new(f) }
+    @source.documents.
+        select {|d| EntityBreakdown.entity_breakdown? d.name }.
+        map {|d| EntityBreakdown.new(d) }
   end
 
   def programme_breakdowns
-    Dir[@path+'/doc/HTM/*.HTM'].
-        select {|f| ProgrammeBreakdown.programme_breakdown? f }.
-        map {|f| ProgrammeBreakdown.new(f) }
+    @source.documents.
+        select {|d| ProgrammeBreakdown.programme_breakdown? d.name }.
+        map {|d| ProgrammeBreakdown.new(d) }
   end
 
   def income_breakdowns
-    Dir[@path+'/doc/HTM/*.HTM'].
-        select {|f| IncomeBreakdown.income_breakdown? f }.
-        map {|f| IncomeBreakdown.new(f) }
+    @source.documents.
+        select {|d| IncomeBreakdown.income_breakdown? d.name }.
+        map {|d| IncomeBreakdown.new(d) }
   end
 
   def generic_breakdown(year, breakdown_id)
     budget_letter = @is_final ? (year.to_i < 2008 ? 'S': 'E') : 'A'
     filename = "N_#{(year.to_s)[-2..-1]}_#{budget_letter}_#{breakdown_id}.HTM"
-    full_path = File.join(@path, 'doc', 'HTM', filename)
-    GenericBreakdown.new(full_path)
+    document = @source.document(filename)
+    raise "The budget does not include the page #{filename}" if document.nil?
+    GenericBreakdown.new(document)
   end
 
   # Reads a number in spanish notation. Also note input number is in thousands of euros.

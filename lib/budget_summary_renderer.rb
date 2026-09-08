@@ -1,33 +1,15 @@
-#!/usr/bin/env ruby
+require 'csv'
+require 'fileutils'
+require 'mustache'
+
+require_relative 'budget'
+require_relative 'budget_summary_view'
 
 # Generate a summary with the key figures of a budget, in Markdown, so it can be
 # explored more easily in Github, f.ex.
-
-require 'csv'
-require 'mustache'
-
-require_relative 'lib/budget'
-require_relative 'lib/budget_summary_view'
-
-# XXX: This command line stuff is duplicated in the parser, should clean up
-budget_id = ARGV[0]
-year = budget_id[0..3]  # Sometimes there's a P for 'Proposed' at the end. Ignore that bit
-is_final = (budget_id.length == 4)
-output_path = File.join(".", "output", budget_id)
-
-
-# Do the calculations
-budget = Budget.new(budget_id, is_final)
-summary = BudgetSummaryView.new(budget, year)
-CSV.foreach(File.join(output_path, "ingresos.csv"), col_sep: ';') do |row|
-  summary.add_item row
-end
-CSV.foreach(File.join(output_path, "gastos.csv"), col_sep: ';') do |row|
-  summary.add_item row
-end
-
-# Inline template
-template = <<TEMPLATE
+class BudgetSummaryRenderer
+  # Inline template
+  TEMPLATE = <<TEMPLATE
 ## Presupuesto {{year}}
 
 ### Ingresos
@@ -59,8 +41,28 @@ template = <<TEMPLATE
 {{{check_budget}}}
 TEMPLATE
 
-# Render the output file
-summary_filename = File.join(output_path, "README.md")
-File.open(summary_filename, 'w') do |file|
-  file.write Mustache.render(template, summary)
+  def initialize(budget, year, output_path)
+    @budget = budget
+    @year = year
+    @output_path = output_path
+  end
+
+  # Reads back the CSV files written by BudgetParser, adds the figures up and compares
+  # them against the summaries published as part of the official budget.
+  def run
+    summary = BudgetSummaryView.new(@budget, @year)
+    CSV.foreach(File.join(@output_path, "ingresos.csv"), col_sep: ';') do |row|
+      summary.add_item row
+    end
+    CSV.foreach(File.join(@output_path, "gastos.csv"), col_sep: ';') do |row|
+      summary.add_item row
+    end
+
+    FileUtils.mkdir_p @output_path
+    summary_filename = File.join(@output_path, "README.md")
+    File.open(summary_filename, 'w') do |file|
+      file.write Mustache.render(TEMPLATE, summary)
+    end
+    summary_filename
+  end
 end
