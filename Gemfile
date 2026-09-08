@@ -11,9 +11,6 @@ gem 'rubyzip'
 # Rendering the budget summary README
 gem 'mustache'
 
-# Unicode-aware case conversion for the Spanish descriptions
-gem 'unicode_utils'
-
 # Bundled gems since Ruby 3.4, so they have to be declared explicitly
 gem 'bigdecimal'
 gem 'csv'

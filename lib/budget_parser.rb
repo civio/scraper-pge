@@ -1,6 +1,5 @@
 require 'csv'
 require 'fileutils'
-require 'unicode_utils'
 
 require_relative 'budget'
 
@@ -146,9 +145,22 @@ class BudgetParser
   # for strings that already have valid mixed case.
   def capitalize_description_if_needed(description)
     return description if description.match(/\p{Lower}/)  # Some lowercase in there, do nothing
-    description = UnicodeUtils.downcase(description)  # There's no capitalize method!?
-    description[0] = UnicodeUtils.upcase(description[0])
+    description = description.downcase
+    description[0] = description[0].upcase
     description
+  end
+
+  # The descriptions are all uppercase in the source, and Ruby has no titlecase for a whole
+  # string, so we uppercase the first letter of each word ourselves. (This used to be
+  # UnicodeUtils.titlecase; String#downcase/#upcase have been Unicode aware since Ruby 2.4.)
+  #
+  # A full stop or an apostrophe *between* two letters is part of the word, following the
+  # Unicode word breaking rules: the abbreviations the ministry is so fond of come out as
+  # 'Cc.aa.' and 'D.g.', not 'Cc.Aa.' and 'D.G.'.
+  WORD = /[[:alpha:]](?:[.'\u2019]*[[:alpha:]])*/
+
+  def titlecase(description)
+    description.downcase.gsub(WORD) { |word| word.capitalize }
   end
 
   # Collect categories first, then output, to avoid duplicated chapters and articles.
@@ -283,7 +295,7 @@ class BudgetParser
                 body_id,
                 nil,  # Short description, not used
                 # The data is all uppercase; title case looks better
-                UnicodeUtils.titlecase(line[:description])]
+                titlecase(line[:description])]
       end
     end
   end

@@ -27,7 +27,6 @@ GEM
     prism (1.9.0)
     racc (1.8.1)
     rubyzip (3.6.0)
-    unicode_utils (1.4.0)
 
 PLATFORMS
   aarch64-linux-gnu
@@ -46,7 +45,6 @@ DEPENDENCIES
   mustache
   nokogiri
   rubyzip
-  unicode_utils
 
 RUBY VERSION
    ruby 3.4.9p82
