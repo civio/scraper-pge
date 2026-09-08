@@ -30,6 +30,9 @@ parser = OptionParser.new do |opts|
           '(default: raw/BUDGET_ID.zip, or raw/BUDGET_ID)') { |v| options[:input] = v }
   opts.on('-o', '--output PATH',
           'Folder for the generated files (default: output/BUDGET_ID)') { |v| options[:output] = v }
+  opts.on('-c', '--corrections PATH',
+          'Lines missing from the source files',
+          '(default: corrections/BUDGET_ID.csv, when present)') { |v| options[:corrections] = v }
   opts.on('-h', '--help', 'Show this message') { puts opts; exit }
 end
 parser.parse!
@@ -43,6 +46,7 @@ root = File.expand_path('..', __dir__)
 year = budget_id[0..3]          # Sometimes there's a P for 'Proposed' at the end. Ignore that bit
 is_final = (budget_id.length == 4)
 output_path = options[:output] || File.join(root, 'output', budget_id)
+corrections_path = options[:corrections] || File.join(root, 'corrections', "#{budget_id}.csv")
 
 # The archives are named after the budget, but an already extracted copy is fine too
 input_path = options[:input] || [
@@ -60,7 +64,8 @@ BudgetSource.open(input_path) do |source|
 
   if %w[parse all].include?(command)
     puts "Parsing budget #{budget_id} from #{input_path}"
-    BudgetParser.new(budget, year, output_path).run
+    puts "Applying corrections from #{corrections_path}" if File.exist?(corrections_path)
+    BudgetParser.new(budget, year, output_path, corrections_path).run
   end
 
   if %w[summary all].include?(command)

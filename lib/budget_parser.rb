@@ -27,10 +27,11 @@ require_relative 'budget'
 # ProgrammeBreakdown notes) a chapter is not even broken down into articles.
 #
 class BudgetParser
-  def initialize(budget, year, output_path)
+  def initialize(budget, year, output_path, corrections_path = nil)
     @budget = budget
     @year = year
     @output_path = output_path
+    @corrections_path = corrections_path
   end
 
   def run
@@ -88,6 +89,28 @@ class BudgetParser
       @additional_institutions.concat bkdown.institutions
     end
 
+    @expenses.concat correction_lines
+  end
+
+  # A handful of Social Security programmes are published with the breakdown missing from
+  # the ministry's pages, even though the totals elsewhere do include them. Those lines were
+  # tracked down by hand (civio/presupuesto-management#1124 and #1217) and kept in
+  # corrections/, so that re-running the parser reproduces the published figures instead of
+  # quietly dropping them. Amounts are in thousands of euros, as in the source pages.
+  def correction_lines
+    return [] if @corrections_path.nil? or !File.exist?(@corrections_path)
+
+    CSV.read(@corrections_path, col_sep: ';', headers: true).map do |row|
+      {
+        year: @year,
+        section: row['SECCION'],
+        service: row['SERVICIO'],
+        programme: row['PROGRAMA'],
+        economic_concept: row['ECONOMICA'] || '',   # empty for a programme heading
+        description: row['DESCRIPCION'],
+        amount: row['IMPORTE'] || ''
+      }
+    end
   end
 
   #
