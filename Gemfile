@@ -15,6 +15,13 @@ gem 'mustache'
 gem 'bigdecimal'
 gem 'csv'
 
-group :test do
+group :development, :test do
   gem 'minitest'
+
+  # Run in CI. `require: false` because nothing in the project loads these, they are
+  # commands: bundle-audit checks the lockfile against the advisory database, and rubocop
+  # holds new code to a standard the old code is exempted from in .rubocop_todo.yml.
+  gem 'bundler-audit', require: false
+  gem 'rubocop', require: false
+  gem 'rubocop-minitest', require: false
 end

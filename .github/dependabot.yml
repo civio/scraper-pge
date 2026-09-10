@@ -1,0 +1,34 @@
+version: 2
+
+updates:
+  # Once a month is enough for a scraper of this size: the point is to notice drift while
+  # it is still small, not to keep up with every release. Security advisories arrive as
+  # their own PRs regardless of this schedule.
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: monthly
+      day: monday
+    open-pull-requests-limit: 5
+    groups:
+      # The routine bumps arrive together, as one PR the suite can vet in a single run.
+      minor-and-patch:
+        update-types:
+          - minor
+          - patch
+    # Majors come one by one instead, because each needs its release notes read first.
+    # nokogiri is the one that matters: it does the parsing, and a change in how libxml2
+    # handles these pages would show up as a diff in output/, which only the golden test
+    # catches, and that test does not run in CI. Reparse a couple of budgets by hand
+    # before merging a nokogiri major.
+
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly
+      day: monday
+    groups:
+      actions:
+        update-types:
+          - minor
+          - patch

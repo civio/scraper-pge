@@ -1,0 +1,32 @@
+plugins:
+  - rubocop-minitest
+
+inherit_from: .rubocop_todo.yml
+
+AllCops:
+  # The Ruby version comes from .ruby-version, so it cannot drift from it.
+  NewCops: enable
+  DisplayStyleGuide: true
+  Exclude:
+    - 'vendor/**/*'
+
+# The parsers are the documentation here: the top of lib/budget.rb explains the ministry's
+# file naming, and every workaround carries the year that forced it. A class-level comment
+# per class on top of that would be noise.
+Style/Documentation:
+  Enabled: false
+
+# Ruby 3.4 makes the question moot, and adding the magic comment to seventeen files would
+# be a diff with no reader.
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+# Same limit as civio-crm, so the two Ruby repos agree. Long lines here are mostly the
+# ministry URLs in comments, which the cop already exempts.
+Layout/LineLength:
+  Max: 120
+
+# The scrapers live and die by regexes, and $1/$2 straight after a match is how the whole
+# codebase reads. Named captures everywhere would be a rewrite of working parsers.
+Style/PerlBackrefs:
+  Enabled: false

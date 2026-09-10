@@ -100,3 +100,24 @@ repositorio, los presupuestos cuyo fichero no esté en `raw/` se saltan en lugar
 Para comprobar sólo algunos:
 
     $ PGE_BUDGETS=2013,2023 bundle exec ruby test/golden_output_test.rb
+
+
+Calidad de código y dependencias
+================================
+
+    $ bundle exec rubocop
+    $ bundle exec bundle-audit check --update
+
+El código original es de 2010 y no sigue el estilo que RuboCop espera hoy. En lugar de
+reescribirlo, las infracciones existentes están apuntadas en `.rubocop_todo.yml`: el código
+actual queda exento, pero cualquier fichero nuevo sí tiene que cumplir. La idea es ir
+vaciando ese fichero poco a poco; para regenerarlo:
+
+    $ bundle exec rubocop --auto-gen-config --auto-gen-only-exclude --exclude-limit 30
+
+GitHub Actions ejecuta el linter, la auditoría de dependencias y los tests en cada push y
+cada pull request (ver `.github/workflows/ci.yml`). Ojo: en CI se saltan los tests contra
+`output/`, porque los .zip no están en el repositorio, así que la suite completa hay que
+ejecutarla en local antes de publicar datos regenerados.
+
+Dependabot propone actualizaciones de gemas y de actions una vez al mes.
