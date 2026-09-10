@@ -1,14 +1,12 @@
 require_relative 'test_helper'
 
-require 'zip'
-
-# The archives published by the ministry are not consistent with each other, and used to
-# be dealt with by unzipping them by hand and pointing a symlink at the result. These tests
-# pin down the layouts BudgetSource has to cope with.
+# Every archive the ministry publishes keeps its pages at PGE-ROM/doc/HTM, and an extracted
+# copy mirrors it. These tests pin down what counts as a budget page, and what happens to an
+# archive laid out any other way.
 class BudgetSourceTest < Minitest::Test
   include TestHelper
 
-  def test_finds_the_pages_in_a_zip_archive
+  def test_finds_the_pages_of_a_budget
     with_fixture_source do |source|
       assert_equal 11, source.documents.size
     end
@@ -46,15 +44,14 @@ class BudgetSourceTest < Minitest::Test
     end
   end
 
-  def test_reads_an_extracted_archive_just_like_the_zip
-    Dir.mktmpdir do |dir|
-      system('unzip', '-q', FIXTURE_ZIP, '-d', dir, exception: true)
+  # The fixture pages are plain files, but a budget is normally read straight out of its
+  # .zip, so both ways of reading them have to agree page for page and byte for byte.
+  def test_reads_a_zip_archive_just_like_an_extracted_copy
+    from_folder = with_fixture_source { |source| pages(source) }
+    from_zip = with_fixture_archive { |archive| BudgetSource.open(archive) { |source| pages(source) } }
 
-      from_zip = BudgetSource.open(FIXTURE_ZIP) { |s| s.documents.map { |d| [d.name, d.read] } }
-      from_dir = BudgetSource.open(dir) { |s| s.documents.map { |d| [d.name, d.read] } }
-
-      assert_equal from_zip, from_dir
-    end
+    assert_equal 11, from_zip.size
+    assert_equal from_folder, from_zip
   end
 
   # An archive holds a great deal more than the pages we parse: PDFs, CSVs, images and the
@@ -91,13 +88,7 @@ class BudgetSourceTest < Minitest::Test
 
   private
 
-  def with_archive(entries)
-    Dir.mktmpdir do |dir|
-      archive = File.join(dir, 'budget.zip')
-      Zip::File.open(archive, create: true) do |zip|
-        entries.each { |name, contents| zip.get_output_stream(name) { |io| io.write contents } }
-      end
-      yield archive
-    end
+  def pages(source)
+    source.documents.map { |document| [document.name, document.read] }
   end
 end

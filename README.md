@@ -90,9 +90,9 @@ Tests
     $ bundle exec ruby test/all.rb
 
 Hay dos niveles. Los tests rápidos usan un puñado de páginas reales guardadas en
-`test/fixtures/budget_pages.zip`, y cubren los tres formatos HTML que ha usado el Ministerio
-a lo largo de los años: tablas hasta 2013, CSS autogenerado entre 2014 y 2018, y divs sin
-estructura semántica desde 2019.
+`test/fixtures/budget/`, con la misma estructura de carpetas que un .zip del Ministerio, y
+cubren los tres formatos HTML que se han usado a lo largo de los años: tablas hasta 2013,
+CSS autogenerado entre 2014 y 2018, y divs sin estructura semántica desde 2019.
 
 Además, `test/golden_output_test.rb` vuelve a procesar cada presupuesto y comprueba que
 sigue generando exactamente los ficheros de `output/`. Como los .zip no están en el
