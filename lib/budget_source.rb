@@ -10,11 +10,10 @@ require 'zip'
 # contents, as binary, so that Nokogiri picks up the windows-1252 charset declared in the
 # page itself rather than assuming UTF-8).
 class BudgetSource
-  # Every archive keeps the pages in a 'doc/HTM' folder, but what sits above it varies:
-  # 'PGE-ROM/doc/HTM' most years, '2023P/PGE-ROM/doc/HTM' in others. A couple of archives
-  # were also rezipped on a Mac and carry AppleDouble leftovers ('__MACOSX/…/._N_23_….HTM')
-  # whose names would otherwise match the breakdown patterns, so we skip those too.
-  HTM_PAGE = %r{(?:\A|/)doc/HTM/(?!\._)[^/]+\.HTM\z}i
+  # Every archive the ministry publishes lays the pages out the same way, and an extracted
+  # copy mirrors it
+  PAGES_FOLDER = 'PGE-ROM/doc/HTM'.freeze
+  HTM_PAGE = %r{\A#{PAGES_FOLDER}/[^/]+\.HTM\z}i
 
   # Opens whatever `path` points at: a .zip archive or an extracted folder. Given a block,
   # the source is closed when it returns.
@@ -29,11 +28,20 @@ class BudgetSource
     end
   end
 
-  # The pages whose name matches `pattern`, in a stable order. Sorting matters: several
-  # steps of the parser keep the first (or last) description they see for a given code, so
-  # the order pages are visited in shows up in the output files.
-  def documents(pattern = //)
-    all_documents.select { |document| document.name =~ pattern }
+  def initialize(path)
+    @path = path
+  end
+
+  # The budget pages, in a stable order. Sorting matters: several steps of the parser keep
+  # the first (or the last) description they see for a given code, so the order pages are
+  # visited in shows up in the output files.
+  def documents
+    @documents ||= build_documents.sort_by(&:name).tap do |documents|
+      # Rather than parse a budget into a set of empty files. An archive that doesn't hold
+      # the pages where it should is either not a budget, or has been repacked on the way
+      # here: every one of them downloaded from the ministry has this same layout.
+      raise "No budget pages under #{PAGES_FOLDER} in #{@path}" if documents.empty?
+    end
   end
 
   # The single page with the given file name, or nil when the budget doesn't include it.
@@ -46,11 +54,7 @@ class BudgetSource
   private
 
   def documents_by_name
-    @documents_by_name ||= all_documents.to_h { |document| [document.name, document] }
-  end
-
-  def all_documents
-    @all_documents ||= build_documents.sort_by(&:name)
+    @documents_by_name ||= documents.to_h { |document| [document.name, document] }
   end
 end
 
@@ -86,6 +90,7 @@ class ZipSource < BudgetSource
   def initialize(path)
     raise ArgumentError, "No such budget archive: #{path}" unless File.file?(path)
 
+    super
     @zip = Zip::File.open(path)
   end
 
@@ -101,17 +106,10 @@ class ZipSource < BudgetSource
 end
 
 class DirectorySource < BudgetSource
-  def initialize(path)
-    @path = path
-  end
-
   private
 
   def build_documents
-    # '**/' also matches zero folders, so this finds the pages whether `path` is the root
-    # of an extracted archive or the folder holding 'doc/HTM' itself.
-    Dir.glob(File.join(@path, '**', 'doc', 'HTM', '*.HTM'), File::FNM_CASEFOLD).
-      reject { |path| File.basename(path).start_with?('._') }.
+    Dir.glob(File.join(@path, PAGES_FOLDER, '*.HTM'), File::FNM_CASEFOLD).
       map { |path| FileDocument.new(path) }
   end
 end
