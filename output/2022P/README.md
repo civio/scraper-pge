@@ -16,25 +16,25 @@
 
 |                             | No Financieros (I-VII) | I-VIII | Total (I-IX) | Consolidado |
 | :-------------------------- |----------------------: | -----: | -----------: | ----------: |
-| **Estado**                  | 241,716,552,390|279,396,687,910|347,486,096,540|291,549,271,790
-| **Organismos autónomos**    | 46,179,525,860|46,186,452,130|46,235,966,560|45,821,186,480
+| **Estado**                  | 241,716,552,390|279,396,687,910|347,486,096,540|291,550,746,790
+| **Organismos autónomos**    | 46,178,050,860|46,184,977,130|46,234,491,560|45,819,711,480
 | **Agencias estatales**      | 0|0|0|0
 | **Otros organismos**        | 8,949,142,880|8,951,338,560|8,952,516,200|8,859,278,900
 | **Seguridad Social**        | 183,878,878,270|185,133,981,540|185,133,991,540|180,878,026,050
-| (- transferencias internas) | -60,700,807,620|-60,700,807,620|-60,700,807,620|
+| (- transferencias internas) | -60,699,332,620|-60,699,332,620|-60,699,332,620|
 | **TOTAL**                   | **427,012,438,210**|**458,969,567,590**|**527,107,763,220**|**527,107,763,220**
 
 ### Comprobaciones
 
- * **Transferencias internas ingresos = gastos: ERROR -53,710,186,190 != -60,700,807,620**
+ * **Transferencias internas ingresos = gastos: ERROR -53,710,186,190 != -60,699,332,620**
  * Gastos Estado - operaciones no financieros: OK (241,716,552,390)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_801_1_3.HTM)
  * Gastos Estado - capítulos I-VIII: OK (279,396,687,910)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_801_1_3.HTM)
  * Gastos Estado - presupuesto total: OK (347,486,096,540)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_801_1_3.HTM)
- * **Gastos Estado - presupuesto consolidado: ERROR 291,550,746,790 != 291,549,271,790**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_801_1_3.HTM)
- * **Gastos Organismos Autónomos - operaciones no financieros: ERROR 46,178,050,860 != 46,179,525,860**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_802_1_3.HTM)
- * **Gastos Organismos Autónomos - capítulos I-VIII: ERROR 46,184,977,130 != 46,186,452,130**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_802_1_3.HTM)
- * **Gastos Organismos Autónomos - presupuesto total: ERROR 46,234,491,560 != 46,235,966,560**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_802_1_3.HTM)
- * **Gastos Organismos Autónomos - presupuesto consolidado: ERROR 45,819,711,480 != 45,821,186,480**   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_802_1_3.HTM)
+ * Gastos Estado - presupuesto consolidado: OK (291,550,746,790)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_801_1_3.HTM)
+ * Gastos Organismos Autónomos - operaciones no financieros: OK (46,178,050,860)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_802_1_3.HTM)
+ * Gastos Organismos Autónomos - capítulos I-VIII: OK (46,184,977,130)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_802_1_3.HTM)
+ * Gastos Organismos Autónomos - presupuesto total: OK (46,234,491,560)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_802_1_3.HTM)
+ * Gastos Organismos Autónomos - presupuesto consolidado: OK (45,819,711,480)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_802_1_3.HTM)
  * Gastos Otros organismos - operaciones no financieros: OK (8,949,142,880)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_803_1_3.HTM)
  * Gastos Otros organismos - presupuesto total: OK (8,952,516,200)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_803_1_3.HTM)
  * Gastos Otros organismos - presupuesto consolidado: OK (8,859,278,900)   [fuente](http://www.sepg.pap.minhap.gob.es/Presup/PGE2022Proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_22_A_R_6_2_803_1_3.HTM)

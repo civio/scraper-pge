@@ -1,5 +1,4 @@
 require 'nokogiri'
-require 'open-uri'
 
 # Basic parser for any sort of breakdowns that we don't need to parse fully, i.e. pages like [1].
 # It supports getting a particular cell by position or text description.
@@ -7,8 +6,9 @@ require 'open-uri'
 # [1]: http://www.sepg.pap.minhap.gob.es/Presup/PGE2014proyecto/MaestroDocumentos/PGE-ROM/doc/HTM/N_14_A_R_6_2_801_1_3.HTM
 #
 class GenericBreakdown < BaseBreakdown
-  def initialize(filename)
-    @filename = filename
+  def initialize(document)
+    @document = document
+    @filename = document.name
   end
 
   def year
@@ -50,7 +50,7 @@ class GenericBreakdown < BaseBreakdown
     # URLs for years 2008- are inconsistent with later years in the ministry's site
     "http://www.sepg.pap.minhap.gob.es/Presup/PGE20#{year}#{is_final ? 'Ley' : 'Proyecto'}/" \
       "#{year.to_i<=8 ? '' : 'MaestroDocumentos/'}" \
-      "PGE-ROM/doc/HTM/#{File.basename(@filename)}"
+      "PGE-ROM/doc/HTM/#{@filename}"
   end
 
   private
@@ -74,7 +74,9 @@ class GenericBreakdown < BaseBreakdown
   end
 
   def doc
-    @doc = Nokogiri::HTML(open(@filename)) if @doc.nil?  # Lazy parsing of doc, only when needed
+    # Lazy parsing of doc, only when needed. Note the page is handed over as raw bytes, so
+    # that Nokogiri honours the windows-1252 charset the page declares for itself.
+    @doc = Nokogiri::HTML(@document.read) if @doc.nil?
     @doc
   end
 end

@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'nokogiri'
-require 'open-uri'
 require_relative 'base_breakdown'
 
 # Parser for programme expense breakdowns (Serie Roja / Red books), i.e. pages like [1].
@@ -22,10 +21,11 @@ require_relative 'base_breakdown'
 class ProgrammeBreakdown < BaseBreakdown
   attr_reader :year, :programme
 
-  def initialize(filename)
-    filename =~ PROGRAMME_EXPENSES_BKDOWN
+  def initialize(document)
+    @document = document
+    @filename = document.name
+    @filename =~ PROGRAMME_EXPENSES_BKDOWN
     @year = '20'+$1
-    @filename = filename
   end
 
   def get_section_id_and_name
@@ -185,7 +185,9 @@ class ProgrammeBreakdown < BaseBreakdown
   #       the programme id from the filename, we have to scrape it from inside the content.
   
   def doc
-    @doc = Nokogiri::HTML(open(@filename)) if @doc.nil?  # Lazy parsing of doc, only when needed
+    # Lazy parsing of doc, only when needed. Note the page is handed over as raw bytes, so
+    # that Nokogiri honours the windows-1252 charset the page declares for itself.
+    @doc = Nokogiri::HTML(@document.read) if @doc.nil?
     @doc
   end
 end

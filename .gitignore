@@ -1,2 +1,4 @@
 .DS_Store
-/20*
+
+# The budget archives downloaded from the ministry: ~10 GB, see README
+/raw/

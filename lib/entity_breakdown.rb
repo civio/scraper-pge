@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'nokogiri'
-require 'open-uri'
 require_relative 'base_breakdown'
 
 # Parser for entity expense breakdowns (Serie Verde / Green books), i.e. pages like [1].
@@ -15,13 +14,15 @@ require_relative 'base_breakdown'
 class EntityBreakdown < BaseBreakdown
   attr_reader :year, :section, :entity, :filename
 
-  def initialize(filename)
+  def initialize(document)
+    @document = document
+    @filename = document.name
+
     # The filename structure changed in 2012, so we need to start by finding out the year
-    @year = EntityBreakdown.get_year(filename)
-    
+    @year = EntityBreakdown.get_year(@filename)
+
     # Once the year is known, we can extract additional details from the filename
-    @filename = filename
-    filename =~ EntityBreakdown.get_expense_breakdown_filename_regex(@year, is_state_entity?)
+    @filename =~ EntityBreakdown.get_expense_breakdown_filename_regex(@year, is_state_entity?)
     @section = $3                           # Parent section
     @entity = $4 unless is_state_entity?    # Id of the non-state entity
 
@@ -188,7 +189,9 @@ class EntityBreakdown < BaseBreakdown
   end
 
   def doc
-    @doc = Nokogiri::HTML(open(@filename)) if @doc.nil?  # Lazy parsing of doc, only when needed
+    # Lazy parsing of doc, only when needed. Note the page is handed over as raw bytes, so
+    # that Nokogiri honours the windows-1252 charset the page declares for itself.
+    @doc = Nokogiri::HTML(@document.read) if @doc.nil?
     @doc
   end
 end
