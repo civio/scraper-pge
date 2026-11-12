@@ -12,7 +12,7 @@ class GoldenOutputTest < Minitest::Test
   include TestHelper
 
   OUTPUT_FILES = %w[
-    estructura_economica.csv estructura_funcional.csv estructura_organica.csv
+    areas_funcionales.csv clasificacion_economica.csv clasificacion_organica.csv
     gastos.csv ingresos.csv README.md
   ].freeze
 

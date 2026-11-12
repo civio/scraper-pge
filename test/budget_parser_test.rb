@@ -20,7 +20,7 @@ class BudgetParserTest < Minitest::Test
   end
 
   def test_writes_the_five_output_files
-    assert_equal %w[estructura_economica.csv estructura_funcional.csv estructura_organica.csv
+    assert_equal %w[areas_funcionales.csv clasificacion_economica.csv clasificacion_organica.csv
                     gastos.csv ingresos.csv],
                  Dir.children(@output).sort
   end
@@ -40,7 +40,7 @@ class BudgetParserTest < Minitest::Test
   end
 
   def test_builds_the_entity_id_out_of_section_and_service
-    bodies = read('estructura_organica.csv').drop(1).to_h { |row| [row[1], row[3]] }
+    bodies = read('clasificacion_organica.csv').drop(1).to_h { |row| [row[1], row[3]] }
 
     assert_equal 'Casa De Su Majestad El Rey', bodies['01']
     assert_equal 'Casa De Su Majestad El Rey', bodies['01001']
@@ -48,7 +48,7 @@ class BudgetParserTest < Minitest::Test
   end
 
   def test_keeps_the_default_policies_even_when_no_page_mentions_them
-    programmes = read('estructura_funcional.csv').drop(1).to_h { |row| [row[4] || row[2] || row[1], row[6]] }
+    programmes = read('areas_funcionales.csv').drop(1).to_h { |row| [row[4] || row[2] || row[1], row[6]] }
 
     assert_equal 'Deuda pública', programmes['95']
     assert_equal 'Prestaciones económicas por cese de actividad', programmes['224M']
@@ -64,7 +64,7 @@ class BudgetParserTest < Minitest::Test
   # Chapter and article descriptions are shared across the whole budget, so they end up in
   # the economic structure file once, uppercased into something readable.
   def test_collects_the_economic_categories
-    categories = read('estructura_economica.csv').drop(1)
+    categories = read('clasificacion_economica.csv').drop(1)
     expenses = categories.select { |row| row[1] == 'G' }.to_h { |row| [row[4] || row[3] || row[2], row[7]] }
 
     assert_equal 'Gastos de personal', expenses['1']

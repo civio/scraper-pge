@@ -247,7 +247,7 @@ class BudgetParser
   end
 
   def write_economic_structure
-    CSV.open(File.join(@output_path, "estructura_economica.csv"), "w", col_sep: ';') do |csv|
+    CSV.open(File.join(@output_path, "clasificacion_economica.csv"), "w", col_sep: ';') do |csv|
       csv << ["EJERCICIO", "GASTO/INGRESO", "CAPITULO", "ARTICULO", "CONCEPTO", "SUBCONCEPTO", "DESCRIPCION CORTA", "DESCRIPCION LARGA"]
       @expense_categories.sort.each do |concept, description|
         csv << [@year, 
@@ -275,7 +275,7 @@ class BudgetParser
 
   # Collect programmes first, then output, to avoid duplicates
   def write_functional_structure
-    CSV.open(File.join(@output_path, "estructura_funcional.csv"), "w", col_sep: ';') do |csv|
+    CSV.open(File.join(@output_path, "areas_funcionales.csv"), "w", col_sep: ';') do |csv|
       programmes = get_default_policies_and_programmes
       @expenses.each do |line|
         programme = line[:programme]
@@ -298,7 +298,7 @@ class BudgetParser
   end
 
   def write_organic_structure
-    CSV.open(File.join(@output_path, "estructura_organica.csv"), "w", col_sep: ';') do |csv|
+    CSV.open(File.join(@output_path, "clasificacion_organica.csv"), "w", col_sep: ';') do |csv|
       bodies = {}
       @expenses.each do |line|
         next unless line[:programme].nil? or line[:programme].empty?
