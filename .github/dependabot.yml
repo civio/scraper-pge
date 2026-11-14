@@ -16,6 +16,10 @@ updates:
         update-types:
           - minor
           - patch
+      # Security fixes ignore the schedule; this bundles the ones pending at the same time into one PR
+      security:
+        applies-to: security-updates
+        patterns: ["*"]
     # Majors come one by one instead, because each needs its release notes read first.
     # nokogiri is the one that matters: it does the parsing, and a change in how libxml2
     # handles these pages would show up as a diff in output/, which only the golden test
